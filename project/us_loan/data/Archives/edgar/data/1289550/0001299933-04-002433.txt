@@ -1,0 +1,1884 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ GK9Gguvn40MSWtzs2OzLPiNi92jJ4uLVjFbwQxJsfxMkrpgRzmZ/imnfR+IohMYK
+ n+bX61R1GWJ0O3h7+IiK+g==
+
+<SEC-DOCUMENT>0001299933-04-002433.txt : 20041223
+<SEC-HEADER>0001299933-04-002433.hdr.sgml : 20041223
+<ACCEPTANCE-DATETIME>20041222175342
+ACCESSION NUMBER:		0001299933-04-002433
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20041221
+ITEM INFORMATION:		Results of Operations and Financial Condition
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20041223
+DATE AS OF CHANGE:		20041222
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Xenonics Holdings, Inc.
+		CENTRAL INDEX KEY:			0001289550
+		STANDARD INDUSTRIAL CLASSIFICATION:	WHOLESALE-ELECTRICAL APPARATUS & EQUIPMENT, WIRING SUPPLIES [5063]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-50775
+		FILM NUMBER:		041221834
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2236 RUTHERFORD RD., SUITE 123
+		CITY:			CARLSBAD
+		STATE:			CA
+		ZIP:			92008
+		BUSINESS PHONE:		760-438-4004
+
+	MAIL ADDRESS:	
+		STREET 1:		2236 RUTHERFORD RD., SUITE 123
+		CITY:			CARLSBAD
+		STATE:			CA
+		ZIP:			92008
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>htm_2368.htm
+<DESCRIPTION>LIVE FILING
+<TEXT>
+<!-- CoverPageHeader start -->
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML>
+<HEAD>
+<TITLE> Xenonics Holdings, Inc. (Form: 8-K) </TITLE>
+</HEAD>
+<BODY TEXT="#000000" BGCOLOR="#FFFFFF" ALINK="#0000FF" HLINK="#FF0000" VLINK="#800080">
+<A NAME="DOCUMENT_TOP">&nbsp;</A>
+<P>
+<!-- CoverPageHeader end --><!-- CoverPageTitle START -->
+<A NAME="DOCUMENT_TOP">&nbsp;</A>
+<HR NOSHADE>
+<P>
+<P ALIGN="CENTER">
+<FONT SIZE="4">
+		UNITED STATES<BR>
+	SECURITIES AND EXCHANGE COMMISSION
+</FONT>
+<BR>
+<FONT SIZE="2">
+	WASHINGTON, D.C. 20549
+</FONT>
+<P ALIGN="CENTER">
+<FONT SIZE="5">
+	FORM 8-K
+</FONT>
+<FONT SIZE="2">
+
+</FONT>
+</P>
+<P ALIGN="CENTER">
+<FONT SIZE="3">
+	CURRENT REPORT
+</FONT>
+</P>
+<P ALIGN="CENTER">
+<FONT SIZE="2">
+	Pursuant to Section&nbsp;13 or 15(d) of the Securities Exchange Act of 1934
+</FONT>
+</P>
+<CENTER>
+<TABLE CELLSPACING="0" BORDER="0" CELLPADDING="0" WIDTH="100%">
+<TR VALIGN="BOTTOM">
+<TD WIDTH="51%">
+	&nbsp;
+</TD>
+<TD WIDTH="5%">
+	&nbsp;
+</TD>
+<TD WIDTH="44%">
+	&nbsp;
+</TD>
+</TR>
+<TR VALIGN="BOTTOM">
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+	Date of Report (Date of Earliest Event Reported):
+</FONT>
+</TD>
+<TD>
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+	December 21, 2004
+</FONT>
+</TD>
+</TR>
+</TABLE>
+<BR>
+</CENTER>
+<!-- CoverPageTitle END --><!-- CoverPageRegistrant START -->
+<P ALIGN="CENTER"><!-- -->
+<FONT SIZE="6">
+	Xenonics Holdings, Inc.
+</FONT>
+<FONT SIZE="2">
+<BR>__________________________________________<BR>
+	(Exact name of registrant as specified in its charter)
+</FONT>
+<CENTER>
+<TABLE CELLSPACING="0" BORDER="0" CELLPADDING="0" WIDTH="100%">
+<TR VALIGN="BOTTOM">
+<TD WIDTH="33%">
+	&nbsp;
+</TD>
+<TD WIDTH="34%">
+	&nbsp;
+</TD>
+<TD WIDTH="33%">
+	&nbsp;
+</TD>
+</TR>
+<TR VALIGN="BOTTOM">
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+	Nevada
+</FONT>
+</TD>
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+	000-50775
+</FONT>
+</TD>
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+	84-1433854
+</FONT>
+</TD>
+</TR>
+<TR VALIGN="BOTTOM">
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+_____________________<BR>
+	(State or other jurisdiction
+</FONT>
+</TD>
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+_____________<BR>
+	(Commission
+</FONT>
+</TD>
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+______________<BR>
+	(I.R.S. Employer
+</FONT>
+</TD>
+</TR>
+<TR VALIGN="BOTTOM">
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+	of incorporation)
+</FONT>
+</TD>
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+	File Number)
+</FONT>
+</TD>
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+	Identification No.)
+</FONT>
+</TD>
+</TR>
+<TR VALIGN="BOTTOM">
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+	&nbsp;&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+</TR>
+<TR VALIGN="BOTTOM">
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+	2236 Rutherford Road, Ste 123, Carlsbad, California
+</FONT>
+</TD>
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+	92008
+</FONT>
+</TD>
+</TR>
+<TR VALIGN="BOTTOM">
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+_________________________________<BR>
+	(Address of principal executive offices)
+</FONT>
+</TD>
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+___________<BR>
+	(Zip Code)
+</FONT>
+</TD>
+</TR>
+</TABLE>
+</CENTER>
+<CENTER>
+<TABLE CELLSPACING="0" BORDER="0" CELLPADDING="0" WIDTH="100%">
+
+<TR VALIGN="BOTTOM">
+<TD WIDTH="51%">
+	&nbsp;
+</TD>
+<TD WIDTH="5%">
+	&nbsp;
+</TD>
+<TD WIDTH="44%">
+	&nbsp;
+</TD>
+</TR>
+<TR VALIGN="BOTTOM">
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+	Registrant&#146;s telephone number, including area code:
+</FONT>
+</TD>
+<TD>
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+	(760) 438-4004
+</FONT>
+</TD>
+</TR>
+</TABLE>
+</CENTER>
+<P ALIGN="CENTER">
+<FONT SIZE="2">
+	Not Applicable
+<BR>______________________________________________<BR>
+	Former name or former address, if changed since last report
+</FONT>
+<P ALIGN="CENTER">
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+<!-- CoverPageRegistrant END --><P><FONT SIZE="2">
+Check the appropriate box below if the Form 8-K filing is intended to
+simultaneously satisfy the filing obligation of the registrant under any
+of the following provisions:</FONT>
+</P>
+<P><FONT SIZE="2">
+[&nbsp;&nbsp;]&nbsp;&nbsp;Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)<br>
+[&nbsp;&nbsp;]&nbsp;&nbsp;Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)<br>
+[&nbsp;&nbsp;]&nbsp;&nbsp;Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))<br>
+[&nbsp;&nbsp;]&nbsp;&nbsp;Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))<br>
+</P></FONT><!-- PageBreak START -->
+<P>
+<HR NOSHADE>
+<DIV ALIGN="LEFT" STYLE="PAGE-BREAK-BEFORE:ALWAYS">
+<A HREF="#DOCUMENT_TOP">
+<U>
+<B>
+<FONT SIZE="2">Top of the Form</FONT>
+</B>
+</U>
+</A>
+</DIV>
+<!-- PageBreak END --><!-- Item START -->
+<P ALIGN="LEFT">
+<FONT SIZE="2">
+<B>
+	Item 2.02. Results of Operations and Financial Condition.
+</B>
+</FONT>
+</P>
+<P ALIGN="LEFT">
+<FONT SIZE="2">
+On December 21, 2004, Xenonics Holdings, Inc. announced its fiscal 2004 earnings release and restatement of 2003 earnings per share. A copy of the press release is furnished herewith as an exhibit. <br><br>
+</FONT>
+</P>
+<!-- Item END -->
+<BR><BR><BR><BR><!-- Item START -->
+<P ALIGN="LEFT">
+<FONT SIZE="2">
+<B>
+	Item 9.01. Financial Statements and Exhibits.
+</B>
+</FONT>
+</P>
+<P ALIGN="LEFT">
+<FONT SIZE="2">
+Exhibit 99.1 - Xenonics Holdings, Inc. Press Release dated December 21, 2004
+</FONT>
+</P>
+<!-- Item END -->
+<BR><BR><BR><BR><P ALIGN="LEFT" STYLE="FONT-SIZE: 10PT"></P><!-- PageBreak START -->
+<P>
+<HR NOSHADE>
+<DIV ALIGN="LEFT" STYLE="PAGE-BREAK-BEFORE:ALWAYS">
+<A HREF="#DOCUMENT_TOP">
+<U>
+<B>
+<FONT SIZE="2">Top of the Form</FONT>
+</B>
+</U>
+</A>
+</DIV>
+<!-- PageBreak END --><!-- SignatureHeader START -->
+<P ALIGN="CENTER">
+<FONT SIZE="2">
+<B>
+	SIGNATURES
+</B>
+</FONT>
+</P>
+<P ALIGN="LEFT">
+<FONT SIZE="2">
+	Pursuant to the requirements of the Securities Exchange Act of 1934, the
+	registrant has duly caused this report to be signed on its behalf by the
+	undersigned hereunto duly authorized.
+</FONT>
+</P>
+<!-- SignatureHeader END --><!-- Signature START -->
+<CENTER>
+<TABLE CELLSPACING="0" BORDER="0" CELLPADDING="0" WIDTH="100%">
+<TR VALIGN="BOTTOM">
+<TD WIDTH="19%">
+	&nbsp;
+</TD>
+<TD WIDTH="34%">
+	&nbsp;
+</TD>
+<TD WIDTH="3%">
+	&nbsp;
+</TD>
+<TD WIDTH="1%">
+	&nbsp;
+</TD>
+<TD WIDTH="43%">
+	&nbsp;
+</TD>
+</TR>
+<TR VALIGN="BOTTOM">
+<TD VALIGN="TOP">
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD>
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD COLSPAN="3" VALIGN="TOP" ALIGN="LEFT">
+<FONT SIZE="2">
+	Xenonics Holdings, Inc.
+</FONT>
+</TD>
+</TR>
+<TR VALIGN="BOTTOM">
+<TD VALIGN="TOP">
+<FONT SIZE="2">
+	&nbsp;&nbsp;
+</FONT>
+</TD>
+<TD>
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD>
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+</TR>
+<TR VALIGN="BOTTOM">
+<TD VALIGN="TOP">
+<FONT SIZE="2">
+<I>
+	December 23, 2004
+</I>
+</FONT>
+</TD>
+<TD>
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<FONT SIZE="2">
+<I>
+	By:
+</I>
+</FONT>
+</TD>
+<TD>
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<FONT SIZE="2">
+<I>
+	/s/ Alan P. Magerman
+</I>
+<BR>
+</FONT>
+</TD>
+</TR>
+<TR>
+<TD VALIGN="TOP">
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD>
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD>
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<HR SIZE="1" NOSHADE>
+</TD>
+</TR>
+<TR VALIGN="BOTTOM">
+<TD VALIGN="TOP">
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD>
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD>
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<FONT SIZE="2">
+<I>
+	Name: Alan P. Magerman
+</I>
+</FONT>
+</TD>
+</TR>
+<TR VALIGN="BOTTOM">
+<TD VALIGN="TOP">
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD>
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD>
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<FONT SIZE="2">
+<I>
+	Title: Chief Executive Officer
+</I>
+</FONT>
+</TD>
+</TR>
+</TABLE>
+</CENTER>
+<!-- Signature END --><!-- Signature START -->
+<CENTER>
+<TABLE CELLSPACING="0" BORDER="0" CELLPADDING="0" WIDTH="100%">
+<TR VALIGN="BOTTOM">
+<TD WIDTH="19%">
+	&nbsp;
+</TD>
+<TD WIDTH="34%">
+	&nbsp;
+</TD>
+<TD WIDTH="3%">
+	&nbsp;
+</TD>
+<TD WIDTH="1%">
+	&nbsp;
+</TD>
+<TD WIDTH="43%">
+	&nbsp;
+</TD>
+</TR>
+<TR VALIGN="BOTTOM">
+<TD VALIGN="TOP">
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD>
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD COLSPAN="3" VALIGN="TOP" ALIGN="LEFT">
+<FONT SIZE="2">
+	Xenonics Holdings, Inc.
+</FONT>
+</TD>
+</TR>
+<TR VALIGN="BOTTOM">
+<TD VALIGN="TOP">
+<FONT SIZE="2">
+	&nbsp;&nbsp;
+</FONT>
+</TD>
+<TD>
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD>
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+</TR>
+<TR VALIGN="BOTTOM">
+<TD VALIGN="TOP">
+<FONT SIZE="2">
+<I>
+	December 23, 2004
+</I>
+</FONT>
+</TD>
+<TD>
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<FONT SIZE="2">
+<I>
+	By:
+</I>
+</FONT>
+</TD>
+<TD>
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<FONT SIZE="2">
+<I>
+	/s/ Donna G. Lee
+</I>
+<BR>
+</FONT>
+</TD>
+</TR>
+<TR>
+<TD VALIGN="TOP">
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD>
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD>
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<HR SIZE="1" NOSHADE>
+</TD>
+</TR>
+<TR VALIGN="BOTTOM">
+<TD VALIGN="TOP">
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD>
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD>
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<FONT SIZE="2">
+<I>
+	Name: Donna G. Lee
+</I>
+</FONT>
+</TD>
+</TR>
+<TR VALIGN="BOTTOM">
+<TD VALIGN="TOP">
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD>
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD>
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<FONT SIZE="2">
+<I>
+	Title: Chief Financial Officer
+</I>
+</FONT>
+</TD>
+</TR>
+</TABLE>
+</CENTER>
+<!-- Signature END --><!-- PageBreak START -->
+<P>
+<HR NOSHADE>
+<DIV ALIGN="LEFT" STYLE="PAGE-BREAK-BEFORE:ALWAYS">
+<A HREF="#DOCUMENT_TOP">
+<U>
+<B>
+<FONT SIZE="2">Top of the Form</FONT>
+</B>
+</U>
+</A>
+</DIV>
+<!-- PageBreak END --><P ALIGN="CENTER">
+<FONT SIZE="2">
+	Exhibit&nbsp;Index
+</FONT>
+<CENTER>
+<TABLE CELLSPACING="0" BORDER="0" CELLPADDING="0" WIDTH="60%">
+<TR VALIGN="BOTTOM">
+<TD WIDTH="8%">
+	&nbsp;
+</TD>
+<TD WIDTH="15%">
+	&nbsp;
+</TD>
+<TD WIDTH="77%">
+	&nbsp;
+</TD>
+</TR>
+
+<BR>
+<TR VALIGN="BOTTOM">
+<TD NOWRAP ALIGN="LEFT">
+<FONT SIZE="1">
+<B>
+	Exhibit No.
+</B>
+</FONT>
+</TD>
+<TD>
+<FONT SIZE="1">
+	&nbsp;
+</FONT>
+</TD>
+<TD NOWRAP ALIGN="LEFT">
+<FONT SIZE="1">
+<B>
+	Description
+</B>
+</FONT>
+</TD>
+</TR>
+<TR VALIGN="BOTTOM">
+<TD NOWRAP ALIGN="CENTER">
+<HR SIZE="1" NOSHADE>
+</TD>
+<TD>
+<FONT SIZE="1">
+	&nbsp;
+</FONT>
+</TD>
+<TD NOWRAP ALIGN="CENTER">
+<HR ALIGN="LEFT" SIZE="1" WIDTH="88%" NOSHADE>
+</TD>
+</TR>
+
+
+
+
+
+<TR VALIGN="BOTTOM">
+<TD VALIGN="TOP" WIDTH="8%" nowrap>
+<FONT SIZE="2">
+<DIV ALIGN="LEFT">
+	99.1
+</DIV>
+</FONT>
+</TD>
+<TD WIDTH="15%">
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP" WIDTH="77%">
+<FONT SIZE="2">
+Xenonics Holdings press release dated December 21, 2004
+</FONT>
+</TD>
+</TR></TABLE></CENTER><!-- HTMLFooter START -->
+</BODY>
+</HTML>
+<!-- HTMLFooter END -->
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>exhibit1.htm
+<DESCRIPTION>EX-99.1
+<TEXT>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML>
+<HEAD>
+<TITLE> EX-99.1 </TITLE>
+</HEAD>
+<BODY TEXT="#000000" BGCOLOR="#FFFFFF" ALINK="#0000FF" HLINK="#FF0000" VLINK="#800080">
+
+<BODY style="font-family: 'Times New Roman',Times,serif">
+<!-- <DIV align="center" style="width: 99%; background: black; padding: 1px; height: 100%"> -->
+<!-- <DIV align="center" style="width: 100%; background: white; padding: 5px; height: 100%">  -->
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="95%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="55%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="40%">&nbsp;</TD>
+</TR>
+
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">
+&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top"><B>Company Contact:</B></TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px"><FONT style="font-size: 9pt"><B>Investor Contact:</B><BR>
+Berkman Associates<BR>
+(310)&nbsp;277-5162<BR>
+info@BerkmanAssociates.com</FONT>
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top"><FONT style="font-size: 9pt">Alan Magerman<BR>
+Chairman &#038; CEO<BR>
+(760)4384004<BR>
+xenonics@xenonics.com</FONT></TD>
+</TR>
+
+<TR style="font-size: 1px">
+    <TD valign="top" style="border-top: 1px solid #000000"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top" style="border-top: 1px solid #000000">&nbsp;</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+
+<P align="center" style="font-size: 9pt"><FONT style="font-size: 18pt"><B>Xenonics Reports Fiscal 2004 Results<BR>
+and Restates Fiscal 2003 Loss Per Share</B></FONT>
+
+
+
+<P align="center" style="font-size: 18pt"><FONT style="font-size: 15pt"><U><I>Management Expects Continued Growth in Fiscal 2005</I></U></FONT>
+
+
+
+<P align="left" style="margin-left:3%; margin-right:2%; font-size: 15pt; text-indent: 1%"><FONT style="font-size: 12pt">CARLSBAD, CALIFORNIA &#151; December&nbsp;21, 2004 &#151; <B>XENONICS HOLDINGS, INC.
+(NASDAQ:XNNC) </B>today reported substantially higher revenue and net income for fiscal 2004
+compared to fiscal 2003, in line with the guidance provided on December&nbsp;7, 2004, as the
+company&#146;s patented NightHunter high-intensity, portable illumination systems gained
+traction in the marketplace.</FONT>
+
+
+<P align="left" style="margin-left:3%; margin-right:2%; font-size: 12pt; text-indent: 1%">&#147;We expect continued revenue and earnings growth in fiscal 2005 as we pursue
+opportunities for our NightHunter products in defense, homeland security, law enforcement,
+fire, emergency, search and rescue, and related commercial and recreational markets. We
+also are excited about the growth potential of the new products we plan to launch in 2005
+that will address new markets for our illumination and night vision technologies,&#148; said
+Chairman and CEO Alan Magerman. &#147;We are building value for Xenonics&#146; shareholders with
+proprietary products targeted at large markets and a commitment to excellence in every
+aspect of our operations.&#148;
+
+
+<P align="left" style="margin-left:3%; margin-right:2%; font-size: 12pt"><B>Fiscal 2004 Results and Restated Fiscal 2003 Loss Per Share</B>
+
+
+<P align="left" style="margin-left:3%; margin-right:2%; font-size: 12pt; text-indent: 1%">For the twelve months ended September&nbsp;30, 2004, revenue increased to $11,927,000 from
+$1,580,000 for fiscal 2003, a nine-month &#147;stub&#148; year due to a change in fiscal year end.
+Net income for fiscal 2004 increased to $1,476,000, or $0.09 per diluted share. This
+compares to a net loss for fiscal 2003 of ($1,963,000), or ($0.29) per share. The net
+loss per share for fiscal 2003 has been restated to reflect a change in the number of
+basic and diluted shares used in the calculation.
+
+
+<P align="left" style="margin-left:3%; margin-right:2%; font-size: 12pt; text-indent: 1%">Net cash provided by operating activities for fiscal 2004 increased to $1,670,000.
+This compares to net cash used in operating activities of ($1,174,000) for fiscal 2003.
+At September&nbsp;30, 2004, the company had cash of $3,269,000, a current ratio of 2.9, and no
+debt.
+
+
+<P align="left" style="margin-left:3%; margin-right:2%; font-size: 12pt"><B>Operations Review</B>
+
+
+<P align="left" style="margin-left:3%; margin-right:2%; font-size: 12pt; text-indent: 1%">&#147;Xenonics shipped nearly 5,200 NightHunter systems in fiscal 2004, primarily to
+customers in the military but also to customers in homeland security and public safety
+agencies, demonstrating that our products add value in a wide variety of applications.
+During the year we continued to refine our corporate infrastructure and invest in product
+development and marketing to position the company to take full advantage of our many
+opportunities for long-term growth,&#148; Magerman said.
+
+
+<P align="center" style="font-size: 12pt"><FONT style="font-size: 11pt"><I>(more)</I></FONT>
+
+
+
+<P align="center" style="font-size: 10pt; display: none">1
+<!-- PAGEBREAK -->
+
+
+<P align="left" style="font-size: 11pt"></FONT><FONT style="font-size: 12pt"><B>Xenonics Reports Fiscal 2004 Results and Restates Fiscal 2003 Loss Per Share</B>
+<BR>
+December&nbsp;21, 2004
+<BR>
+Page Two</FONT>
+
+
+<P align="left" style="font-size: 12pt; text-indent: 2%">Xenonics&#146; NightHunter illumination systems pack the power of a searchlight into a compact
+device that can illuminate objects more than a mile away with no &#147;black hole&#148; to obstruct the field
+of view. &#147;We are proud that our products are saving lives and contributing to the success of
+dangerous missions in Iraq, Afghanistan and other hot spots by giving our troops the critical
+advantage of seeing the farthest in the dark in both visible and undetectable infrared light,
+helping them do their difficult jobs better and more safely,&#148; Magerman said.
+
+
+<P align="left" style="font-size: 12pt"><B>About Xenonics</B>
+
+
+<P align="left" style="font-size: 12pt; text-indent: 2%">Xenonics develops and produces advanced, lightweight and compact ultra-high intensity lighting
+products for military, law enforcement, public safety, and commercial and private sector
+applications. Currently, NightHunters are in use by every branch of the U.S. Armed Forces as well
+as a wide variety of law enforcement and security agencies. Using its breakthrough patented
+technology, Xenonics provides innovative solutions for customers that demand the ability to see
+farther so that they can do their job better and safer. Xenonics&#146; products deliver a quantum leap
+in performance over other illumination technologies and represent the next generation in small,
+high intensity, high efficiency lighting systems. Visit Xenonics on the web at
+<U>www.xenonics.com</U>.
+
+
+<P align="left" style="font-size: 12pt"><B>Forward-Looking Statements</B>
+
+
+<P align="left" style="font-size: 12pt; text-indent: 2%"><FONT style="font-size: 10pt"><I>Except for the historical statements and discussions above, our statements above
+constitute forward-looking statements within the meaning of section 21E of the Securities Exchange
+Act of 1934. These forward-looking statements reflect our management&#146;s current views with respect
+to future events and financial performance; however, you should not put undue reliance on these
+statements. Factors that could cause these forward-looking statements to differ include delays in
+development, marketing or sales of new products. When used, the words &#147;anticipates,&#148; &#147;believes,&#148;
+&#147;expects,&#148; &#147;intends,&#148; &#147;future,&#148; and other similar expressions identify forward-looking statements.
+These forward-looking statements are subject to certain risks and uncertainties. We believe our
+management&#146;s assumptions are reasonable, nonetheless, it is likely that at least some of these
+assumptions will not come true. Accordingly, our actual results will probably differ from the
+outcomes contained in any forward-looking statement, and those differences could be material.
+Factors that could cause or contribute to these differences include, among others, those risks and
+uncertainties discussed in our periodic reports on </I><I>Form 10-K</I><I> and 10-Q and our other filings with
+the Securities and Exchange Commission. Should one or more of the risks discussed , or any other
+risks, materialize, or should one or more of our underlying assumptions prove incorrect, our actual
+results may vary materially from those anticipated, estimated, expected or projected. In light of
+the risks and uncertainties, there can be no assurance that any forward-looking statement will in
+fact prove to be correct. We undertake no obligation to update or revise any forward-looking
+statements.</I></FONT>
+
+
+<P align="center" style="font-size: 10pt"><FONT style="font-size: 12pt">(tables attached)</FONT>
+
+
+
+<P align="right" style="font-size: 12pt">#3754
+
+
+<DIV align="center">
+<TABLE style="font-size: 12pt" cellspacing="0" border="0" cellpadding="0" width="95%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="46%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="12%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="13%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="4%">&nbsp;</TD>
+</TR>
+
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom" style="font-size: 12pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="3" align="center"><FONT style="font-size: 14pt"><B>XENONICS HOLDINGS, INC.</B></FONT></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom" style="font-size: 14pt">
+    <TD colspan="9" align="center"><FONT style="font-size: 12pt">CONSOLIDATED STATEMENTS OF OPERATIONS</FONT><BR></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom" style="font-size: 12pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="3" align="center">Twelve</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="3" align="center">Nine</TD>
+</TR>
+
+<TR valign="bottom" style="font-size: 12pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="3" align="center">Months</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="3" align="center">Months</TD>
+</TR>
+
+<TR valign="bottom" style="font-size: 12pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="3" align="center">Ended</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="3" align="center">Ended</TD>
+</TR>
+
+<TR valign="bottom" style="font-size: 12pt">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="7" align="center">September&nbsp;30,<BR></TD>
+</TR>
+
+<TR valign="bottom" style="font-size: 12pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">2004</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">2003</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom" style="font-size: 12pt">
+    <TD colspan="5" align="left"><DIV style="margin-left:10px; text-indent:-10px"><FONT style="font-size: 9pt"><I>$ in thousands, except share amounts</I><BR></DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="3" align="center"><I><FONT style="font-size: 9pt"></I>(audited)</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom" style="font-size: 9pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT style="font-size: 12pt">Revenue</FONT></DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">11,927</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">1,580</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom" style="font-size: 12pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Cost of goods sold</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">6,916</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">1,241</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom" style="font-size: 12pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Gross profit</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">5,011</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">339</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom" style="font-size: 12pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Selling, general and administrative</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">3,113</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">1,551</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom" style="font-size: 12pt">
+    <TD colspan="5" align="left">Engineering, research and development<BR></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">248</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">237</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom" style="font-size: 12pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Income (loss)&nbsp;from operations</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">1,650</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right">(1,449</TD>
+    <TD nowrap>)</TD>
+</TR>
+
+<TR valign="bottom" style="font-size: 12pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Other income (expense), net:</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom" style="font-size: 12pt">
+    <TD colspan="5" align="left">&nbsp;&nbsp;&nbsp;Interest income<BR></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">15</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">2</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom" style="font-size: 12pt">
+    <TD colspan="5" align="left">&nbsp;&nbsp;&nbsp;Interest expense<BR></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right">(31</TD>
+    <TD nowrap>)</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right">(515</TD>
+    <TD nowrap>)</TD>
+</TR>
+
+<TR valign="bottom" style="font-size: 12pt">
+    <TD colspan="5" align="left">Income (loss)&nbsp;before provision for income taxes<BR></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">1,634</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right">(1,962</TD>
+    <TD nowrap>)</TD>
+</TR>
+
+<TR valign="bottom" style="font-size: 12pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Provision for income taxes</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">158</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">1</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom" style="font-size: 12pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Net income (loss)</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">1,476</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">$</TD>
+    <TD align="right">(1,963</TD>
+    <TD nowrap>)</TD>
+</TR>
+
+<TR valign="bottom" style="font-size: 12pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Net income (loss)&nbsp;per share:</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom" style="font-size: 12pt">
+    <TD colspan="5" align="left">&nbsp;&nbsp;&nbsp;Basic (2003 restated)<BR></TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">0.11</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">$</TD>
+    <TD align="right">(.29</TD>
+    <TD nowrap>)</TD>
+</TR>
+
+<TR valign="bottom" style="font-size: 12pt">
+    <TD colspan="5" align="left">&nbsp;&nbsp;&nbsp;Diluted (2003 restated)<BR></TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">0.09</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">$</TD>
+    <TD align="right">(.29</TD>
+    <TD nowrap>)</TD>
+</TR>
+
+<TR valign="bottom" style="font-size: 12pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Weighted average shares outstanding</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom" style="font-size: 12pt">
+    <TD colspan="5" align="left">&nbsp;&nbsp;&nbsp;Basic (2003 restated)<BR></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">13,508</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">6,799</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom" style="font-size: 12pt">
+    <TD colspan="5" align="left">&nbsp;&nbsp;&nbsp;Diluted (2003 restated)<BR></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">16,932</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">6,799</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+<DIV align="center">
+<TABLE style="font-size: 12pt" cellspacing="0" border="0" cellpadding="0" width="95%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="34%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="21%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="21%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+</TR>
+
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom" style="font-size: 12pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="3" align="center"><FONT style="font-size: 14pt"><B>XENONICS HOLDINGS, INC.</B></FONT></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom" style="font-size: 14pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="3" align="center"><FONT style="font-size: 12pt">CONSOLIDATED BALANCE SHEET</FONT></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom" style="font-size: 12pt">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="7" align="center">September&nbsp;30,<BR></TD>
+</TR>
+
+<TR valign="bottom" style="font-size: 12pt">
+    <TD colspan="5" align="left"><FONT style="font-size: 9pt"><I>$ in thousands, except share amounts</I><BR></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><I><FONT style="font-size: 9pt"></I><FONT style="font-size: 12pt">2004</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><FONT style="font-size: 12pt"></FONT></TD>
+    <TD align="right"><FONT style="font-size: 12pt">2003</FONT></TD>
+    <TD><FONT style="font-size: 12pt"></FONT></TD>
+</TR>
+
+<TR valign="bottom" style="font-size: 12pt">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="7" align="center"><FONT style="font-size: 9pt">(audited)<BR></TD>
+</TR>
+
+<TR valign="bottom" style="font-size: 9pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT style="font-size: 12pt"><B>Assets</B></FONT></DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom" style="font-size: 12pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Current assets:</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom" style="font-size: 12pt">
+    <TD colspan="5" align="left">&nbsp;&nbsp;&nbsp;Cash<BR></TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">3,269</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">126</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom" style="font-size: 12pt">
+    <TD colspan="5" align="left">&nbsp;&nbsp;&nbsp;Accounts receivable, net<BR></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">253</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">527</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom" style="font-size: 12pt">
+    <TD colspan="5" align="left">&nbsp;&nbsp;&nbsp;Inventories, net<BR></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">922</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">184</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom" style="font-size: 12pt">
+    <TD colspan="5" align="left">&nbsp;&nbsp;&nbsp;Other current assets<BR></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">189</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">&#151;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom" style="font-size: 12pt">
+    <TD colspan="5" align="left">&nbsp;&nbsp;&nbsp;Total Current Assets<BR></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">4,633</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">837</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom" style="font-size: 12pt">
+    <TD colspan="5" align="left">&nbsp;&nbsp;&nbsp;Equipment, furniture and fixtures, net<BR></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">35</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">5</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom" style="font-size: 12pt">
+    <TD colspan="5" align="left">&nbsp;&nbsp;&nbsp;Other non-current assets<BR></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">24</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">57</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom" style="font-size: 12pt">
+    <TD colspan="5" align="left">&nbsp;&nbsp;&nbsp;Total Assets<BR></TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">4,692</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">899</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom" style="font-size: 12pt">
+    <TD colspan="5" align="left"><B>Liabilities and Shareholders&#146; Equity</B><BR></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom" style="font-size: 12pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Current liabilities:</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom" style="font-size: 12pt">
+    <TD colspan="5" align="left">&nbsp;&nbsp;&nbsp;Accounts payable<BR></TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">1,126</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">578</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom" style="font-size: 12pt">
+    <TD colspan="5" align="left">&nbsp;&nbsp;&nbsp;Short-term borrowings<BR></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">&#151;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">400</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom" style="font-size: 12pt">
+    <TD colspan="5" align="left">&nbsp;&nbsp;&nbsp;Accrued payroll and related taxes<BR></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">93</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">50</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom" style="font-size: 12pt">
+    <TD colspan="5" align="left">&nbsp;&nbsp;&nbsp;Notes payable, current<BR></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">&#151;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">566</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom" style="font-size: 12pt">
+    <TD colspan="5" align="left">&nbsp;&nbsp;&nbsp;Accrued interest<BR></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">&#151;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">92</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom" style="font-size: 12pt">
+    <TD colspan="5" align="left">&nbsp;&nbsp;&nbsp;Accrued royalty<BR></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">400</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">400</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom" style="font-size: 12pt">
+    <TD colspan="5" align="left">&nbsp;&nbsp;&nbsp;Total Current Liabilities<BR></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">1,619</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">2,086</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom" style="font-size: 12pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Commitments and contingencies</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom" style="font-size: 12pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Shareholders&#146; equity:</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom" style="font-size: 12pt">
+    <TD colspan="5" align="left">&nbsp;&nbsp;&nbsp;Preferred shares, $0.001 par value, 5,000,000<BR></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom" style="font-size: 12pt">
+    <TD colspan="5" align="left">&nbsp;&nbsp;&nbsp;shares authorized, no shares issued and outstanding<BR></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">&#151;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">&#151;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom" style="font-size: 12pt">
+    <TD colspan="5" align="left">&nbsp;&nbsp;&nbsp;Common shares, $0.001 par value, 20,000,000<BR></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom" style="font-size: 12pt">
+    <TD colspan="5" align="left">&nbsp;&nbsp;&nbsp;shares authorized, 14,166,878 shares and<BR></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom" style="font-size: 12pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="3" align="center">13,955,378 shares issued and outstanding</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">14</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">13</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom" style="font-size: 12pt">
+    <TD colspan="5" align="left">&nbsp;&nbsp;&nbsp;Additional paid-in capital<BR></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">10,540</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">7,757</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom" style="font-size: 12pt">
+    <TD colspan="5" align="left">&nbsp;&nbsp;&nbsp;Accumulated deficit<BR></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right">(7,481</TD>
+    <TD nowrap>)</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right">(8,957</TD>
+    <TD nowrap>)</TD>
+</TR>
+
+<TR valign="bottom" style="font-size: 12pt">
+    <TD colspan="5" align="left">&nbsp;&nbsp;&nbsp;Total Shareholders' Equity<BR></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">3,073</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right">(1,187</TD>
+    <TD nowrap>)</TD>
+</TR>
+
+<TR valign="bottom" style="font-size: 12pt">
+    <TD colspan="5" align="left">&nbsp;&nbsp;&nbsp;Total Liabilities and Shareholders' Equity<BR></TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">4,692</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">899</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+
+
+<P align="center" style="font-size: 10pt; display: none">2
+
+
+<!-- </DIV> -->
+<!-- </DIV> -->
+</BODY>
+
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

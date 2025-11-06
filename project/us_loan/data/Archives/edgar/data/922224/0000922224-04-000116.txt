@@ -1,0 +1,265 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ KDSQeXG2Qw18uKwA6WYAOMo+PnccjvOk3hKIH7dTOOqWoVdh0sFcKvhi8pTHxvfB
+ XzX7Add/xf5oM73m1d0RqQ==
+
+<SEC-DOCUMENT>0000922224-04-000116.txt : 20041222
+<SEC-HEADER>0000922224-04-000116.hdr.sgml : 20041222
+<ACCEPTANCE-DATETIME>20041222152800
+ACCESSION NUMBER:		0000922224-04-000116
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20041221
+ITEM INFORMATION:		Other Events
+FILED AS OF DATE:		20041222
+DATE AS OF CHANGE:		20041222
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			PPL CORP
+		CENTRAL INDEX KEY:			0000922224
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRIC SERVICES [4911]
+		IRS NUMBER:				232758192
+		STATE OF INCORPORATION:			PA
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-11459
+		FILM NUMBER:		041220720
+
+	BUSINESS ADDRESS:	
+		STREET 1:		TWO N NINTH ST
+		CITY:			ALLENTOWN
+		STATE:			PA
+		ZIP:			181011179
+		BUSINESS PHONE:		6107745151
+
+	MAIL ADDRESS:	
+		STREET 1:		TWO N NINTH ST
+		CITY:			ALLENTOWN
+		STATE:			PA
+		ZIP:			18101-1179
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	PP&L RESOURCES INC
+		DATE OF NAME CHANGE:	19941123
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			PPL ENERGY SUPPLY LLC
+		CENTRAL INDEX KEY:			0001161976
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRIC SERVICES [4911]
+		IRS NUMBER:				000000000
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-74794
+		FILM NUMBER:		041220721
+
+	BUSINESS ADDRESS:	
+		STREET 1:		TWO NORTH NINETH STREET
+		CITY:			ALLENTOWN
+		STATE:			PA
+		ZIP:			18101
+		BUSINESS PHONE:		6107745151
+
+	MAIL ADDRESS:	
+		STREET 1:		TWO NORTH NINTH STREET
+		CITY:			ALLENTOWN
+		STATE:			PA
+		ZIP:			18101
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>ppl8k12-22.htm
+<DESCRIPTION>FORM 8K 12/22/04
+<TEXT>
+<HTML>
+<HEAD>
+
+<TITLE>Form 8k</TITLE>
+<META NAME="DOCID" CONTENT="NY #512237 v1">
+
+</HEAD>
+<BODY bgcolor="#FFFFFF" LINK="#0000ff">
+<p align="center"><b>UNITED STATES<BR>
+  SECURITIES AND EXCHANGE COMMISSION</b></p>
+<P ALIGN="CENTER"></P>
+<P ALIGN="CENTER">Washington, D.C. 20549</P>
+<P ALIGN="CENTER"></P>
+<p align="center"><b>FORM 8-K</b></p>
+<P ALIGN="CENTER"></P>
+<p align="center"><b>CURRENT REPORT</b></p>
+<P ALIGN="CENTER"></P>
+<P ALIGN="CENTER">Pursuant to Section 13 or 15(d) of the Securities Exchange Act
+  of 1934</P>
+<P ALIGN="CENTER"></P>
+<P ALIGN="CENTER">Date of Report (Date of earliest event reported):&nbsp;&nbsp;December
+  22, 2004</P>
+<P ALIGN="CENTER"></P>
+<P ALIGN="CENTER">
+<TABLE BORDER=0 CELLSPACING=0 cellpadding=0 WIDTH=93%>
+  <TR>
+    <TD WIDTH="21%" VALIGN="TOP" HEIGHT=22> <P>Commission File<BR>
+        <U>Number</U></TD>
+    <TD WIDTH="55%" VALIGN="TOP" HEIGHT=22> <P>Registrant; State of Incorporation;
+        <BR>
+        <U>Address and Telephone Number</U></TD>
+    <TD WIDTH="24%" VALIGN="TOP" HEIGHT=22> <P>IRS Employer<BR>
+        <U>Identification No.</U></TD>
+  </TR>
+  <TR>
+    <TD WIDTH="21%" VALIGN="TOP" HEIGHT=9><P></P></TD>
+    <TD WIDTH="55%" VALIGN="TOP" HEIGHT=9><P></P></TD>
+    <TD WIDTH="24%" VALIGN="TOP" HEIGHT=9><P></P></TD>
+  </TR>
+  <TR>
+    <TD WIDTH="21%" VALIGN="TOP" HEIGHT=22> <P>1-11459</TD>
+    <TD WIDTH="55%" VALIGN="TOP" HEIGHT=22> <p><b>PPL Corporation</b><br>
+        (Exact name of Registrant as specified in its charter)<BR>
+        (Pennsylvania)<BR>
+        Two North Ninth Street<BR>
+        Allentown, PA 18101-1179<BR>
+        (610) 774-5151</TD>
+    <TD WIDTH="24%" VALIGN="TOP" HEIGHT=22> <P>23-2758192</TD>
+  </TR>
+  <TR>
+    <TD WIDTH="21%" VALIGN="TOP" ><P>&nbsp;</P></TD>
+    <TD WIDTH="55%" VALIGN="TOP" ><P>&nbsp;</P></TD>
+    <TD WIDTH="24%" VALIGN="TOP" ><P>&nbsp;</P></TD>
+  </TR>
+  <TR>
+    <TD WIDTH="21%" VALIGN="TOP" HEIGHT=6> <P>333-74794</TD>
+    <TD WIDTH="55%" VALIGN="TOP" HEIGHT=6> <p><b>PPL Energy Supply, LLC</b><br>
+        (Exact name of Registrant as specified in its charter)<BR>
+        (Delaware)<BR>
+        Two North Ninth Street<BR>
+        Allentown, PA 18101-1179<BR>
+        (610) 774-5151</TD>
+    <TD WIDTH="24%" VALIGN="TOP" HEIGHT=6> <P>23-3074920</TD>
+  </TR>
+  <TR>
+    <TD WIDTH="21%" VALIGN="TOP" ><P>&nbsp;</P></TD>
+    <TD WIDTH="55%" VALIGN="TOP" ><P>&nbsp;</P></TD>
+    <TD WIDTH="24%" VALIGN="TOP" ><P>&nbsp;</P></TD>
+  </TR>
+</table>
+<P ALIGN="CENTER"></P>
+<P>Check the appropriate box below if the Form 8-K filing is intended to simultaneously
+  satisfy the filing obligation of the registrant under any of the following provisions:</P>
+<P ALIGN="CENTER">
+<TABLE BORDER=0 CELLSPACING=0 cellpadding=0 WIDTH=93%>
+  <TR>
+    <TD WIDTH="5%" VALIGN="TOP" HEIGHT=22> <P>[&nbsp;&nbsp;]</TD>
+    <TD WIDTH="2%" VALIGN="TOP" HEIGHT=22><P></P></TD>
+    <TD WIDTH="93%" VALIGN="TOP" HEIGHT=22> <P>Written communications pursuant
+        to Rule 425 under the Securities Act (17 CFR 230.425)</TD>
+  </TR>
+  <TR>
+    <TD WIDTH="5%" VALIGN="TOP" HEIGHT=22> <P>[&nbsp;&nbsp;]</TD>
+    <TD WIDTH="2%" VALIGN="TOP" HEIGHT=22><P></P></TD>
+    <TD WIDTH="93%" VALIGN="TOP" HEIGHT=22> <P>Soliciting material pursuant to
+        Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)</TD>
+  </TR>
+  <TR>
+    <TD WIDTH="5%" VALIGN="TOP" HEIGHT=22> <P>[&nbsp;&nbsp;]</TD>
+    <TD WIDTH="2%" VALIGN="TOP" HEIGHT=22><P></P></TD>
+    <TD WIDTH="93%" VALIGN="TOP" HEIGHT=22> <P>Pre-commencement communications
+        pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))</TD>
+  </TR>
+  <TR>
+    <TD WIDTH="5%" VALIGN="TOP" HEIGHT=22> <P>[&nbsp;&nbsp;]</TD>
+    <TD WIDTH="2%" VALIGN="TOP" HEIGHT=22><P></P></TD>
+    <TD WIDTH="93%" VALIGN="TOP" HEIGHT=22> <P>Pre-commencement communications
+        pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))</TD>
+  </TR>
+</table>
+
+<p><b>&nbsp;</b></P>
+
+<P><b>Section 8 - Other Events<BR>
+  Item 8.01 Other Events</b></p>
+
+<P>PPL Energy Supply, LLC (&quot;PPL Energy Supply&quot;), an indirect, wholly
+  owned subsidiary of PPL Corporation, has reactivated its commercial paper program
+  to provide it with an additional financing source to fund its short-term liquidity needs,
+  if and when necessary or appropriate. PPL Energy Supply currently has no plans
+  to access the commercial paper market in the near-term. Standard &amp; Poor's
+  Ratings Services, Moody's Investors Service, Inc. and Fitch Ratings have confirmed
+  their ratings of A-2, P-2 and F-2, respectively, for PPL Energy Supply's commercial
+  paper.</P>
+<p>&nbsp;</P>
+<P><i>Statements which are contained in this Current Report on Form 8-K with respect
+  to liquidity are "forward-looking statements" within the meaning of the federal
+  securities laws. Although PPL Corporation and PPL Energy Supply, LLC believe
+  that the expectations and assumptions reflected in these forward-looking statements
+  are reasonable, these statements involve a number of risks and uncertainties,
+  and actual results may differ materially from the results discussed in the statements.
+  Any such forward-looking statements should be considered in light of such risks
+  and uncertainties and in conjunction with PPL Corporation's and PPL Energy Supply,
+  LLC's Form 10-K and other reports on file with the Securities and Exchange Commission.</i></p>
+<P>&nbsp;</P>
+<p align="center"><u>SIGNATURE</u></P>
+<u>
+
+</u>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pursuant to the requirements
+  of the Securities Exchange Act of 1934, the Registrants have duly caused this
+  report to be signed on their behalf by the undersigned hereunto duly authorized.</P>
+<TABLE BORDER=0 CELLSPACING=0 cellpadding=0 WIDTH=93%>
+  <TR>
+    <TD WIDTH="45%" VALIGN="TOP">&nbsp;</TD>
+    <TD WIDTH="55%" VALIGN="TOP"> <P>PPL CORPORATION</P></TD>
+  </TR>
+</TABLE>
+<P>&nbsp;</P>
+<TABLE BORDER=0 CELLSPACING=0 cellpadding=0 WIDTH=93%>
+  <TR>
+    <TD WIDTH="45%" VALIGN="TOP">&nbsp;</TD>
+    <TD WIDTH="9%" VALIGN="TOP"> <P>By:</TD>
+    <TD WIDTH="47%" VALIGN="TOP"> <p><u>/s/ James E. Abel&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<BR>
+        </U>James E. Abel<BR>
+        Vice President - Finance and Treasurer
+      <p>&nbsp;</TD>
+  </TR>
+</TABLE>
+<TABLE BORDER=0 CELLSPACING=0 cellpadding=0 WIDTH=93%>
+  <TR>
+    <TD WIDTH="45%" VALIGN="TOP">&nbsp;</TD>
+    <TD WIDTH="55%" VALIGN="TOP"> <P>PPL ENERGY SUPPLY, LLC </P></TD>
+  </TR>
+</TABLE>
+<P>&nbsp;</P>
+<TABLE BORDER=0 CELLSPACING=0 cellpadding=0 WIDTH=93%>
+  <TR>
+    <TD WIDTH="45%" VALIGN="TOP">&nbsp;</TD>
+    <TD WIDTH="9%" VALIGN="TOP"> <P>By:</TD>
+    <TD WIDTH="47%" VALIGN="TOP"> <p><u>/s/ James E. Abel&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<BR>
+        </U>James E. Abel<br>
+        Vice President and Treasurer</P>
+      </TD>
+  </TR>
+</TABLE>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>Dated:  December 22, 2004</P>
+<P ALIGN="RIGHT"></P>
+
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

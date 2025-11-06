@@ -1,0 +1,665 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ PQfL5jfYpHHWpacmHJr0+yItKcRWotZUUpZj01tr3k7+XIFvuc23Y3+z+O1gBVr8
+ DtXSsWkW9wZM5H4TXRcWlQ==
+
+<SEC-DOCUMENT>0000950135-04-005903.txt : 20041228
+<SEC-HEADER>0000950135-04-005903.hdr.sgml : 20041228
+<ACCEPTANCE-DATETIME>20041228085448
+ACCESSION NUMBER:		0000950135-04-005903
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20041221
+ITEM INFORMATION:		Entry into a Material Definitive Agreement
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20041228
+DATE AS OF CHANGE:		20041228
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ALNYLAM PHARMACEUTICALS, INC.
+		CENTRAL INDEX KEY:			0001178670
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		IRS NUMBER:				770602661
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-50743
+		FILM NUMBER:		041227440
+
+	BUSINESS ADDRESS:	
+		STREET 1:		300 THIRD STREET
+		CITY:			CAMBRIDGE
+		STATE:			MA
+		ZIP:			02142
+		BUSINESS PHONE:		(617) 551-8200
+
+	MAIL ADDRESS:	
+		STREET 1:		300 THIRD STREET
+		CITY:			CAMBRIDGE
+		STATE:			MA
+		ZIP:			02142
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ALNYLAM PHARMACEUTICALS INC
+		DATE OF NAME CHANGE:	20020724
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>b52920ape8vk.htm
+<DESCRIPTION>ALNYLAM PHARMACEUTICALS, INC. FORM 8-K
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>Alnylam Pharmaceuticals, Inc. Form 8-K</TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF">
+<!-- PAGEBREAK -->
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<HR size="4" noshade color="#000000" style="margin-top: -5px">
+<HR size="1" noshade color="#000000" style="margin-top: -10px">
+
+
+
+
+
+<P align="center" style="font-size: 14pt"><B>UNITED STATES<BR>
+SECURITIES AND EXCHANGE COMMISSION</B>
+
+<DIV align="center" style="font-size: 12pt"><B>WASHINGTON, D.C. 20549</B>
+</DIV>
+
+
+<P align="center" style="font-size: 10pt"><HR align="center" size="1" noshade width="25%">
+
+
+<P align="center" style="font-size: 18pt"><B>FORM 8-K</B>
+
+
+<P align="center" style="font-size: 10pt">CURRENT REPORT<BR>
+Pursuant to Section&nbsp;13 or 15(d) of the Securities Exchange Act of 1934
+
+
+
+<P align="center" style="font-size: 10pt">Date of Report (Date of earliest event reported): December&nbsp;21, 2004
+
+
+<P align="center" style="font-size: 24pt"><B>Alnylam Pharmaceuticals, Inc.</B>
+
+<DIV align="center" style="font-size: 10pt"><HR align="center" size="1" noshade width="100%"></DIV>
+
+
+<DIV align="center" style="font-size: 10pt">(Exact Name of Registrant as Specified in Charter)</DIV>
+
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+
+<!-- Begin Table Head --><TR valign="bottom">
+    <TD width="30%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="30%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="30%">&nbsp;</TD>
+</TR>
+
+<!-- End Table Head -->
+
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD align="center" valign="top">Delaware
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">000-50743
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">77-0602661</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD colspan="5" valign="top" align="left"><HR size="1" noshade>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD align="center" valign="top">(State or Other Juris-
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">(Commission
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">(IRS Employer</TD>
+</TR>
+<TR valign="bottom">
+    <TD align="center" valign="top">diction of Incorporation)
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">File Number)
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">Identification No.)</TD>
+</TR>
+<TR valign="bottom">
+    <TD align="center" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD colspan="3" valign="top" align="center">300 Third Street, Cambridge, MA<BR></TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">02142</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD colspan="5" valign="top" align="left"><HR size="1" noshade>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD colspan="3" valign="top" align="center">(Address of Principal Executive Offices)<BR></TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">(Zip Code)</TD>
+</TR>
+
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+<P align="center" style="font-size: 10pt">Registrant&#146;s telephone number, including area code: (617)&nbsp;551-8200
+
+
+
+<P align="center" style="font-size: 10pt">Not applicable
+
+
+<DIV align="center" style="font-size: 10pt"><HR align="center" size="1" noshade width="100%"></DIV>
+
+
+<DIV align="center" style="font-size: 10pt">(Former Name or Former Address, if Changed Since Last Report)</DIV>
+
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy
+the filing obligation of the registrant under any of the following provisions (<I>see </I>General
+Instruction A.2. below):
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<FONT face="Wingdings">&#111;</FONT> Written communications pursuant to Rule&nbsp;425 under the Securities Act (17 CFR 230.425)
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<FONT face="Wingdings">&#111;</FONT> Soliciting material pursuant to Rule&nbsp;14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<FONT face="Wingdings">&#111;</FONT> Pre-commencement communications pursuant to Rule&nbsp;14d-2(b) under the Exchange Act (17
+CFR 240.14d-2(b))
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<FONT face="Wingdings">&#111;</FONT> Pre-commencement communications pursuant to Rule&nbsp;13e-4(c) under the Exchange Act (17
+CFR 240.13e-4(c))
+
+
+<P>
+<HR size="1" noshade color="#000000" style="margin-top: -2px">
+<HR size="4" noshade color="#000000" style="margin-top: -10px">
+
+
+
+
+
+
+<P align="center" style="font-size: 10pt">&nbsp;
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<!-- TOC -->
+<A name="toc"><DIV align="CENTER" style="page-break-before:always"><U><B>TABLE OF CONTENTS</B></U></DIV></A>
+
+<P><CENTER>
+<TABLE border="0" width="90%" cellpadding="0" cellspacing="0">
+<TR>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="76%"></TD>
+</TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#000">Item&nbsp;1.01. Entry into a Material Definitive Agreement.</A></TD></TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#001">Item&nbsp;9.01. Financial Statements and Exhibits.</A></TD></TR>
+<TR><TD colspan="9"><A HREF="#002">SIGNATURE</A></TD></TR>
+<TR><TD colspan="9"><A HREF="#003">EXHIBIT INDEX</A></TD></TR>
+<TR><TD colspan="9"><A HREF="b52920apexv10w1.htm">Ex-10.1 Form of Nonstatutory Stock Option Agreement</A></TD></TR>
+</TABLE>
+</CENTER>
+<!-- /TOC -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+
+
+
+<!-- link2 "Item&nbsp;1.01. Entry into a Material Definitive Agreement." -->
+<DIV align="left"><A NAME="000"></A></DIV>
+
+<P align="left" style="font-size: 10pt"><B>Item&nbsp;1.01. Entry into a Material Definitive Agreement.</B>
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On December&nbsp;21, 2004, the Compensation Committee of the Board of Directors (the &#147;Compensation
+Committee&#148;) of Alnylam Pharmaceuticals, Inc. (&#147;Alnylam&#148;) granted to John M. Maraganore, Ph.D., the
+President and Chief Executive Officer of Alnylam, a stock option (the
+&#147;Option&#148;) to purchase up to 250,000 shares
+of common stock of Alnylam at an exercise price of $7.47 per share under its 2004 Stock Incentive
+Plan. The Option vests upon Alnylam&#146;s attainment of a corporate goal. The Compensation Committee
+will determine whether the corporate goal has been attained and the number of shares as to which
+the Option vests upon such attainment.
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A form of nonstatutory stock option agreement that Alnylam uses under its 2004 Stock Incentive
+Plan is attached as Exhibit&nbsp;10.1 hereto.
+
+<!-- link2 "Item&nbsp;9.01. Financial Statements and Exhibits." -->
+<DIV align="left"><A NAME="001"></A></DIV>
+
+<P align="left" style="font-size: 10pt"><B>Item&nbsp;9.01. Financial Statements and Exhibits.</B>
+
+
+<P>
+
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="3%" style="background: transparent">&nbsp;</TD>
+    <TD width="1%" nowrap align="right">(c)</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Exhibits.</TD>
+</TR>
+
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="3%" style="background: transparent">&nbsp;</TD>
+    <TD width="1%" nowrap align="right">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>See Exhibit&nbsp;Index attached hereto.</TD>
+</TR>
+
+</TABLE>
+
+
+<P align="center" style="font-size: 10pt">&nbsp;
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+<!-- link1 "SIGNATURE" -->
+<DIV align="left"><A NAME="002"></A></DIV>
+
+<P align="center" style="font-size: 10pt">SIGNATURE
+
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly
+caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+
+<TABLE width="100%" border="0" cellspacing="0" cellpadding="0" style="font-size: 10pt">
+<TR>
+    <TD width="48%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="35%">&nbsp;</TD>
+    <TD width="15%">&nbsp;</TD>
+</TR>
+<TR>
+    <TD valign="top" align="left">&nbsp;</TD>
+    <TD colspan="3" align="left">ALNYLAM PHARMACEUTICALS, INC.<BR>
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">Date:  December 28, 2004&nbsp;</TD>
+    <TD valign="top">By:&nbsp;&nbsp;</TD>
+    <TD colspan="2" style="border-bottom: 1px solid #000000" align="left">/s/ John M. Maraganore, Ph.D.
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="2" align="left">John M. Maraganore, Ph.D.&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="2" align="left">President and Chief Executive Officer&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+</TABLE>
+
+
+<P align="center" style="font-size: 10pt">&nbsp;
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+<!-- link1 "EXHIBIT INDEX" -->
+<DIV align="left"><A NAME="003"></A></DIV>
+
+<P align="center" style="font-size: 10pt">EXHIBIT INDEX
+
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+
+<!-- Begin Table Head --><TR valign="bottom">
+    <TD width="8%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="87%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD nowrap align="left"><B>Exhibit No.</B><HR size="1" noshade></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left"><B>Description</B><HR size="1" noshade></TD>
+</TR>
+
+
+<!-- End Table Head -->
+
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">10.1
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Form of Nonstatutory Stock Option Agreement under 2004 Stock
+Incentive Plan</TD>
+</TR>
+
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+
+<P align="center" style="font-size: 10pt">&nbsp;
+</DIV>
+
+
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.1
+<SEQUENCE>2
+<FILENAME>b52920apexv10w1.htm
+<DESCRIPTION>EX-10.1 FORM OF NONSTATUTORY STOCK OPTION AGREEMENT
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>Ex-10.1 Form of Nonstatutory Stock Option Agrmnt</TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF">
+<!-- PAGEBREAK -->
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<P align="right" style="font-size: 10pt">Exhibit&nbsp;10.1
+
+
+<P align="center" style="font-size: 10pt">ALNYLAM PHARMACEUTICALS, INC.
+
+
+
+<P align="center" style="font-size: 10pt">Nonstatutory Stock Option Agreement<BR>
+<U>Granted Under 2004 Stock Incentive Plan</U>
+
+
+
+<P align="left" style="font-size: 10pt">1. <U>Grant of Option</U>.
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This agreement evidences the grant by Alnylam Pharmaceuticals, Inc., a Delaware corporation
+(the &#147;Company&#148;),
+on&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <U> </U>,
+20&#091;&nbsp;&nbsp;&nbsp;&#093; (the &#147;Grant Date&#148;) to
+&#091;<U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U>&#093;,
+an &#091;employee&#093;, &#091;consultant&#093;, &#091;director&#093; of the Company (the &#147;Participant&#148;), of an option to
+purchase, in whole or in part, on the terms provided herein and in the Company&#146;s 2004 Stock
+Incentive Plan (the &#147;Plan&#148;), a total of &#091;<U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U>&#093; shares (the &#147;Shares&#148;) of
+common stock, $.01 par value per share, of the Company (&#147;Common Stock&#148;) at $&#091;<U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U>&#093;
+per Share. Unless earlier terminated, this option shall expire at 5:00 p.m., Eastern time, on &#091;the
+date that is ten years from the Grant
+Date&#093;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (the &#147;Final Exercise Date&#148;).
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;It is intended that the option evidenced by this agreement shall not be an incentive stock
+option as defined in Section&nbsp;422 of the Internal Revenue Code of 1986, as amended, and any
+regulations promulgated thereunder (the &#147;Code&#148;). Except as otherwise indicated by the context, the
+term &#147;Participant&#148;, as used in this option, shall be deemed to include any person who acquires the
+right to exercise this option validly under its terms.
+
+
+<P align="left" style="font-size: 10pt">2. <U>Vesting Schedule</U>.
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This
+option will become exercisable (&#147;vest&#148;) as to
+&#091;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#093;.
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The right of exercise shall be cumulative so that to the extent the option is not exercised in
+any period to the maximum extent permissible it shall continue to be exercisable, in whole or in
+part, with respect to all Shares for which it is vested until the earlier of the Final Exercise
+Date or the termination of this option under Section&nbsp;3 hereof or the Plan.
+
+
+<P align="left" style="font-size: 10pt">3. <U>Exercise of Option</U>.
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(a)&nbsp;<U>Form of Exercise</U>. Each election to exercise this option shall be in writing,
+signed by the Participant, and received by the Company at its principal office, accompanied by this
+agreement, and payment in full in the manner provided in the Plan. The Participant may purchase
+less than the number of shares covered hereby, provided that no partial exercise of this option may
+be for any fractional share or for fewer than ten whole shares.
+
+
+<P align="left" style="font-size: 10pt">(b)&nbsp;<U>Continuous Relationship with the Company Required</U>. Except as otherwise provided
+in this Section&nbsp;3, this option may not be exercised unless the Participant, at the time he or she
+exercises this option, is, and has been at all times since the Grant Date, an &#091;employee or officer
+of&#093;, or consultant or advisor to, the Company or any other entity the employees, officers,
+directors, consultants, or advisors of which are eligible to receive option grants under the Plan
+(an &#147;Eligible Participant&#148;).
+
+
+<P align="center" style="font-size: 10pt">&nbsp;
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(c)&nbsp;<U>Termination of Relationship with the Company</U>. If the Participant ceases to be an
+Eligible Participant for any reason, then, except as provided in paragraphs (d)&nbsp;and (e)&nbsp;below, the
+right to exercise this option shall terminate three months after such cessation (but in no event
+after the Final Exercise Date), <U>provided</U> <U>that</U> this option shall be exercisable only
+to the extent that the Participant was entitled to exercise this option on the date of such
+cessation. Notwithstanding the foregoing, if the Participant, prior to the Final Exercise Date,
+violates the non-competition or confidentiality provisions of any employment contract,
+confidentiality and nondisclosure agreement or other agreement between the Participant and the
+Company, the right to exercise this option shall terminate immediately upon such violation.
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(d)&nbsp;<U>Exercise Period Upon Death or Disability</U>. If the Participant dies or becomes
+disabled (within the meaning of Section&nbsp;22(e)(3) of the Code) prior to the Final Exercise Date
+while he or she is an Eligible Participant and the Company has not terminated such relationship for
+&#147;cause&#148; as specified in paragraph (e)&nbsp;below, this option shall be exercisable, within the period of
+one year following the date of death or disability of the Participant, by the Participant (or in
+the case of death by an authorized transferee), <U>provided</U> <U>that</U> this option shall be
+exercisable only to the extent that this option was exercisable by the Participant on the date of
+his or her death or disability, and further provided that this option shall not be exercisable
+after the Final Exercise Date.
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(e)&nbsp;<U>Discharge for Cause</U>. If the Participant, prior to the Final Exercise Date, is
+discharged by the Company for &#147;cause&#148; (as defined below), the right to exercise this option shall
+terminate immediately upon the effective date of such discharge. &#147;Cause&#148; shall mean willful
+misconduct by the Participant or willful failure by the Participant to perform his or her
+responsibilities to the Company (including, without limitation, breach by the Participant of any
+provision of any employment, consulting, advisory, nondisclosure, non-competition or other similar
+agreement between the Participant and the Company), as determined by the Company, which
+determination shall be conclusive. The Participant shall be considered to have been discharged for
+&#147;Cause&#148; if the Company determines, within 30&nbsp;days after the Participant&#146;s resignation, that
+discharge for cause was warranted.
+
+
+<P align="left" style="font-size: 10pt">4. <U>Withholding</U>.
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No Shares will be issued pursuant to the exercise of this option unless and until the
+Participant pays to the Company, or makes provision satisfactory to the Company for payment of, any
+federal, state or local withholding taxes required by law to be withheld in respect of this option.
+
+
+<P align="left" style="font-size: 10pt">5. <U>Nontransferability of Option</U>.
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This option may not be sold, assigned, transferred, pledged or otherwise encumbered by the
+Participant, either voluntarily or by operation of law, except by will or the laws of descent and
+distribution, and, during the lifetime of the Participant, this option shall be exercisable only by
+the Participant.
+
+
+<P align="left" style="font-size: 10pt">6. <U>Provisions of the Plan</U>.
+
+
+<P align="center" style="font-size: 10pt">-2-
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This option is subject to the provisions of the Plan, a copy of which is furnished to the
+Participant with this option.
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IN WITNESS WHEREOF, the Company has caused this option to be executed under its corporate seal
+by its duly authorized officer. This option shall take effect as a sealed instrument.
+
+
+<TABLE width="100%" border="0" cellspacing="0" cellpadding="0" style="font-size: 10pt">
+<TR>
+    <TD width="48%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="35%">&nbsp;</TD>
+    <TD width="15%">&nbsp;</TD>
+</TR>
+<TR>
+    <TD valign="top" align="left">&nbsp;</TD>
+    <TD colspan="3" align="left">ALNYLAM PHARMACEUTICALS, INC.<BR>
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">Dated:&nbsp;</TD>
+    <TD valign="top">By:&nbsp;&nbsp;</TD>
+    <TD colspan="2" style="border-bottom: 1px solid #000000" align="left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD valign="top">Name:&nbsp;&nbsp;</TD>
+    <TD align="left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD valign="top">Title:&nbsp;&nbsp;</TD>
+    <TD align="left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+</TABLE>
+
+<P align="center" style="font-size: 10pt">-3-
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+<TABLE width="100%" border="0" cellspacing="0" cellpadding="0" style="font-size: 10pt">
+<TR>
+    <TD width="48%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="35%">&nbsp;</TD>
+    <TD width="15%">&nbsp;</TD>
+</TR>
+
+</TABLE>
+
+<P align="center" style="font-size: 10pt">PARTICIPANT&#146;S ACCEPTANCE
+
+
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The undersigned hereby accepts the foregoing option and agrees to the terms and conditions
+thereof. The undersigned hereby acknowledges receipt of a copy of the Company&#146;s 2004 Stock
+Incentive Plan.
+
+
+<P align="left" style="font-size: 10pt"><div style="margin-left: 50%">PARTICIPANT:</div>
+
+
+<P align="right"><div style="margin-left: 29%"><hr size="1" width="40%" noshade></div>
+
+<P align="left" style="font-size: 10pt; margin-left: 50%">Address:
+
+
+
+<P align="center" style="font-size: 10pt">-4-
+</DIV>
+
+
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

@@ -1,0 +1,420 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Uadv6rxYRAqSIeUJdIhNTDffEP5qt7GEQyvx9RnLeJN71ERxLUQ99ygipWSfVKYm
+ 1xnX4hTglUqu7gKzK+32Rg==
+
+<SEC-DOCUMENT>0000891020-04-000632.txt : 20041220
+<SEC-HEADER>0000891020-04-000632.hdr.sgml : 20041220
+<ACCEPTANCE-DATETIME>20041220161426
+ACCESSION NUMBER:		0000891020-04-000632
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20041220
+ITEM INFORMATION:		Other Events
+FILED AS OF DATE:		20041220
+DATE AS OF CHANGE:		20041220
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			F5 NETWORKS INC
+		CENTRAL INDEX KEY:			0001048695
+		STANDARD INDUSTRIAL CLASSIFICATION:	COMPUTER COMMUNICATIONS EQUIPMENT [3576]
+		IRS NUMBER:				911714307
+		STATE OF INCORPORATION:			WA
+		FISCAL YEAR END:			0930
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-26041
+		FILM NUMBER:		041214320
+
+	BUSINESS ADDRESS:	
+		STREET 1:		401 ELLIOT AVE WEST
+		STREET 2:		STE 500
+		CITY:			SEATTLE
+		STATE:			WA
+		ZIP:			98119
+		BUSINESS PHONE:		2062725555
+
+	MAIL ADDRESS:	
+		STREET 1:		401 ELLIOT AVE WEST
+		STREET 2:		STE 500
+		CITY:			SEATTLE
+		STATE:			WA
+		ZIP:			98119
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	F5 LABS INC
+		DATE OF NAME CHANGE:	19990305
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>v04173e8vk.htm
+<DESCRIPTION>FORM 8-K
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>e8vk</TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF">
+<!-- PAGEBREAK -->
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+<HR size="4" noshade color="#000000" style="margin-top: -5px">
+<HR size="1" noshade color="#000000" style="margin-top: -10px">
+
+
+
+
+
+<P align="center" style="font-size: 14pt"><B>UNITED STATES<BR>
+SECURITIES AND EXCHANGE COMMISSION</B>
+
+<DIV align="center" style="font-size: 11pt"><B>WASHINGTON, D.C. 20549</B>
+</DIV>
+
+<P align="center" style="font-size: 18pt"><B>FORM 8-K</B>
+
+
+<P align="center" style="font-size: 11pt">CURRENT REPORT
+
+
+
+<P align="center" style="font-size: 10pt">Pursuant to Section&nbsp;13 or 15(d) of the Securities Exchange Act of 1934
+
+
+
+<P align="center" style="font-size: 10pt">Date of Report (Date of
+Earliest Event Reported):<br>
+December&nbsp;20, 2004
+
+
+<P align="center" style="font-size: 12pt">&nbsp;
+
+<P align="center" style="font-size: 24pt"><B>F5 Networks, Inc.</B>
+
+<HR noshade width="32%" align="center" size="1">
+
+<DIV align="center" style="font-size: 10pt">(Exact name of registrant as specified in its charter)
+</DIV>
+
+<P align="center" style="font-size: 12pt">&nbsp;
+
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="80%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="25%">&nbsp;</TD>
+    <TD width="10%">&nbsp;</TD>
+    <TD width="25%">&nbsp;</TD>
+    <TD width="10%">&nbsp;</TD>
+    <TD width="25%">&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD align="center" valign="top"><b>Washington</B><HR noshade align="center" size="1">
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top"><B>000-26041</B><HR noshade align="center" size="1">
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top"><B>91-1714307</B><HR noshade align="center" size="1">
+</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top" align="center">(State or other jurisdiction<br>
+of incorporation)
+</TD>
+    <TD>&nbsp;</TD>
+<TD align="center" valign="top">(Commission<BR>
+File Number)
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">(IRS Employer<br>
+Identification No.)</TD>
+</TR>
+
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+
+<P align="center" style="font-size: 10pt">401 Elliott Avenue West<BR>
+Seattle, WA 98119
+
+<HR noshade width="36%" align="center" size="1">
+
+<DIV align="center" style="font-size: 10pt">(Address of principal executive offices) (Zip Code)
+</DIV>
+
+
+<P align="center" style="font-size: 10pt">
+
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="60%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="68%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="27%">&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">Registrant&#146;s telephone number, including area code
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">(206) 272-5555</TD>
+</TR>
+
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+
+<P align="center" style="font-size: 10pt">Not Applicable
+
+<HR noshade width="36%" align="center" size="1">
+<DIV align="center" style="font-size: 10pt">Former name or former address, if changed since last report
+</DIV>
+
+
+<P align="center" style="font-size: 16pt">&nbsp;
+
+
+<P align="left" style="font-size: 10pt">Check the appropriate box
+below if the Form&nbsp;8-K filing is intended to simultaneously satisfy the
+filing obligation of the registrant under any of the following provisions:
+
+
+<DIV align="center">
+<TABLE cellspacing="0" border="0" cellpadding="0" width="100%" style="font-size: 10pt">
+<TR>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="97%">&nbsp;</TD>
+</TR>
+<TR valign="top">
+    <TD><FONT face="Wingdings">&#111;</FONT></TD>
+    <TD>&nbsp;</TD>
+    <TD>Written communications pursuant to Rule&nbsp;425 under the
+Securities Act (17&nbsp;CFR&nbsp;230.425)</TD>
+</TR>
+</TABLE>
+</DIV>
+
+<DIV align="center">
+<TABLE cellspacing="0" border="0" cellpadding="0" width="100%" style="font-size: 10pt">
+<TR>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="97%">&nbsp;</TD>
+</TR>
+<TR valign="top">
+    <TD><FONT face="Wingdings">&#111;</FONT></TD>
+    <TD>&nbsp;</TD>
+    <TD>Soliciting material pursuant to Rule&nbsp;14a-12 under the
+Exchange Act (17&nbsp;CFR&nbsp;240.14a-12)</TD>
+</TR>
+</TABLE>
+</DIV>
+
+<DIV align="center">
+<TABLE cellspacing="0" border="0" cellpadding="0" width="100%" style="font-size: 10pt">
+<TR>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="97%">&nbsp;</TD>
+</TR>
+<TR valign="top">
+    <TD><FONT face="Wingdings">&#111;</FONT></TD>
+    <TD>&nbsp;</TD>
+    <TD>Pre-commencement communications pursuant to
+Rule&nbsp;14d-2(b) under the Exchange Act (17&nbsp;CFR&nbsp;240.14d-2(b))</TD>
+</TR>
+</TABLE>
+</DIV>
+
+<DIV align="center">
+<TABLE cellspacing="0" border="0" cellpadding="0" width="100%" style="font-size: 10pt">
+<TR>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="97%">&nbsp;</TD>
+</TR>
+<TR valign="top">
+    <TD><FONT face="Wingdings">&#111;</FONT></TD>
+    <TD>&nbsp;</TD>
+    <TD>Pre-commencement communications pursuant to
+Rule&nbsp;13e-4(c) under the Exchange Act (17&nbsp;CFR&nbsp;240.13e-4(c))</TD>
+</TR>
+</TABLE>
+</DIV>
+
+
+<P>
+<HR size="1" noshade color="#000000" style="margin-top: -2px">
+<HR size="4" noshade color="#000000" style="margin-top: -10px">
+
+
+
+
+
+
+<P align="center" style="font-size: 10pt">&nbsp;
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+
+
+
+
+
+
+<P align="left" style="font-size: 10pt"><B>Item&nbsp;8.01 Other Events</B>
+
+
+<P align="left" style="font-size: 10pt">The annual shareholders meeting of F5 Networks, Inc. (the &#147;Company&#148;) for the fiscal year ended
+September&nbsp;30, 2004 (the &#147;2004 Fiscal Year End Meeting&#148;) has been scheduled for February&nbsp;24, 2005.
+Only shareholders of record at the close of business on December&nbsp;17, 2004 are entitled to notice
+of, and to vote at, the 2004 Fiscal Year End Meeting.
+
+
+<P align="left" style="font-size: 10pt">Shareholders who intend to have a proposal considered for inclusion in the Company&#146;s proxy
+statement for the 2004 Fiscal Year End Meeting must provide the Company with a written notice
+including the following information as to each matter the shareholder proposes to bring before the
+annual meeting: (A)&nbsp;a brief description of the business desired to be brought before the annual
+meeting and the reasons for conducting such business at the annual meeting, (B)&nbsp;the name and
+address, as they appear on the Company&#146;s books, of the shareholder proposing such business, (C)&nbsp;the
+class and number of shares of the Company which are beneficially owned by the shareholder, (D)&nbsp;any
+material interest of the shareholder in such business and (E)&nbsp;any other information that is
+required to be provided by the shareholder pursuant to Regulation&nbsp;14A under the Securities Exchange
+Act of 1934, as amended, in such shareholder&#146;s capacity as a proponent of a shareholder proposal.
+
+
+<P align="left" style="font-size: 10pt">Any such notice should be addressed to the General Counsel and Secretary of the Company at its
+principal executive offices. Any such notice must be received by the
+Company no later than January&nbsp;3, 2005. With respect to any proposal described in a notice received by the Company after such
+date, such proposal will not be included in the Company&#146;s proxy statement and management of the
+Company will have discretionary voting authority at the 2004 Fiscal Year End Meeting with respect
+to any such proposal.
+
+
+<P align="left" style="font-size: 10pt">The Company reserves the right to reject, rule out of order, or take appropriate action with
+respect to any proposal that does not comply with these and other applicable requirements. A copy
+of the full text of the provisions of the Company&#146;s Bylaws dealing with shareholder nominations and
+proposals is available to shareholders from the Secretary of the Company upon written request.
+
+<P align="center" style="font-size: 30pt">&nbsp;
+
+<P align="center" style="font-size: 10pt"><B>SIGNATURES</B>
+
+
+<P align="left" style="font-size: 10pt">Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused
+this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="32%">&nbsp;</TD>
+    <TD width="20%">&nbsp;</TD>
+    <TD width="4%">&nbsp;</TD>
+    <TD width="50%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 10pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap colspan="2" align="left">F5 NETWORKS, INC.</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 10pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="2" align="left">(Registrant)</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+
+<TR style="font-size: 20pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+
+<TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">Date:&nbsp;&nbsp;&nbsp;&nbsp;December&nbsp;20, 2004
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top"><I>By:</I>
+</TD>
+    <TD align="left" valign="top"><I>/s/&nbsp;&nbsp;&nbsp;Joann Reiter</I></TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR style="font-size: 1px">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD align="left" valign="top"><HR size="1" noshade>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD align="left" valign="top">Joann Reiter
+Vice President, General Counsel and Secretary</TD>
+    <TD>&nbsp;</TD>
+
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+
+
+<P align="center" style="font-size: 10pt">&nbsp;
+</DIV>
+
+
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

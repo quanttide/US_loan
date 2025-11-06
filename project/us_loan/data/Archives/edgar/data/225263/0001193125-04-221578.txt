@@ -1,0 +1,904 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ C6RTRtkH6rIIFACmAIBfofEA0Mhdr8D1yNL54LF/2z9Cs1dclkwI839WfcDCUdqT
+ SfASW9MsXezZbIOPZRDjcQ==
+
+<SEC-DOCUMENT>0001193125-04-221578.txt : 20041230
+<SEC-HEADER>0001193125-04-221578.hdr.sgml : 20041230
+<ACCEPTANCE-DATETIME>20041230154349
+ACCESSION NUMBER:		0001193125-04-221578
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	20041229
+ITEM INFORMATION:		Material Impairments
+ITEM INFORMATION:		Regulation FD Disclosure
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20041230
+DATE AS OF CHANGE:		20041230
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			NEWPORT CORP
+		CENTRAL INDEX KEY:			0000225263
+		STANDARD INDUSTRIAL CLASSIFICATION:	LABORATORY APPARATUS & FURNITURE [3821]
+		IRS NUMBER:				940849175
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-01649
+		FILM NUMBER:		041234033
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1791 DEERE AVE
+		CITY:			IRVINE
+		STATE:			CA
+		ZIP:			92714
+		BUSINESS PHONE:		7148633144
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	DOLE JAMES CORP
+		DATE OF NAME CHANGE:	19910905
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>d8k.htm
+<DESCRIPTION>FORM 8-K
+<TEXT>
+<HTML><HEAD>
+<TITLE>Form 8-K</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+<HR SIZE="3" NOSHADE COLOR="#000000" ALIGN="left"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="5"><B>UNITED STATES </B></FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="5"><B>SECURITIES AND EXCHANGE COMMISSION </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman"
+SIZE="3"><B>Washington, D.C. 20549 </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P><HR WIDTH="17%" SIZE="1" NOSHADE COLOR="#000000"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="5"><B>FORM 8-K </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P><HR WIDTH="17%"
+SIZE="1" NOSHADE COLOR="#000000"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="3"><B>CURRENT REPORT </B></FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="3"><B>Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>Date of Report </B><B><I>(Date of earliest event
+reported)</I></B><B> </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>December 29, 2004 </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P><HR WIDTH="17%" SIZE="1" NOSHADE COLOR="#000000"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman"
+SIZE="6"><B>NEWPORT CORPORATION </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B></B><B><I>(Exact name of registrant as specified in its charter)</I></B><B> </B></FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P><HR WIDTH="17%" SIZE="1" NOSHADE COLOR="#000000"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD WIDTH="34%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="32%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="32%"></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>Nevada</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>000-01649</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>94-0849175</B></FONT></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B></B><B><I>(State or other jurisdiction</I></B><B></B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:1px"
+ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B></B><B><I>of incorporation)</I></B><B></B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B></B><B><I>(Commission File Number)</I></B><B></B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B></B><B><I>(IRS Employer</I></B><B></B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:1px" ALIGN="center"><FONT
+FACE="Times New Roman" SIZE="1"><B></B><B><I>Identification No.)</I></B><B></B></FONT></P></TD></TR>
+</TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD WIDTH="50%"></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD WIDTH="48%"></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>1791 Deere Avenue, Irvine, California</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>92606</B></FONT></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B></B><B><I>(Address of principal executive offices)</I></B><B></B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B></B><B><I>(Zip Code)</I></B><B></B></FONT></TD></TR>
+</TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>Registrant&#146;s
+telephone number, including area code: (949) 863-3144 </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P><HR WIDTH="17%" SIZE="1" NOSHADE COLOR="#000000"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under
+any of the following provisions: </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2"></FONT><FONT FACE="WINGDINGS" SIZE="2" COLOR="#000000">&#168;</FONT><FONT FACE="Times New Roman" SIZE="2"></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2"></FONT><FONT FACE="WINGDINGS" SIZE="2" COLOR="#000000">&#168;</FONT><FONT FACE="Times New Roman" SIZE="2"></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2"></FONT><FONT FACE="WINGDINGS" SIZE="2" COLOR="#000000">&#168;</FONT><FONT FACE="Times New Roman" SIZE="2"></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2"></FONT><FONT FACE="WINGDINGS" SIZE="2" COLOR="#000000">&#168;</FONT><FONT FACE="Times New Roman" SIZE="2"></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT
+SIZE="1">&nbsp;</FONT></P><HR SIZE="3" NOSHADE COLOR="#000000" ALIGN="left">
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>Item 2.06. Material Impairments. </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT
+SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">On December 29, 2004, Newport Corporation (the &#147;Registrant&#148;) determined that goodwill and other assets recorded on its balance
+sheet which are associated with its Advanced Packaging and Automation Systems Division have become impaired as a result of the Registrant&#146;s annual goodwill impairment assessment and certain cost reduction and restructuring actions planned for
+such division. The Registrant expects to record non-cash charges of approximately $61 million in the fourth quarter of 2004 as a result of such impairment. These charges will include a write-off of goodwill and other intangible assets in the amount
+of approximately $60 million and a write-off of fixed assets which will no longer be utilized by such division in the amount of approximately $1 million. These charges will not result in any future cash expenditures. </FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>Item 7.01. Regulation FD Disclosure. </B></FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">On December 30, 2004, the Registrant issued a press release updating the guidance that it
+previously provided with respect to its financial outlook for the fourth quarter of 2004. A copy of the Registrant&#146;s press release is being furnished with this Form 8-K as Exhibit 99.1. </FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">The information furnished under this Item 7.01 and Exhibit 99.1 hereto shall not be deemed
+&#147;filed&#148; for purposes of Section 18 of the Securities Exchange Act of 1934, as amended or otherwise subject to the liability of that section, nor shall this information and Exhibit 99.1 be deemed incorporated by reference into any filing by
+the Registrant under the Securities Act of 1933, as amended, or the Securities Exchange Act of 1934, as amended, except as may be set forth by specific reference in such a filing. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><I>Use of Pro Forma Financial Information </I></FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">In the press release furnished with this Form 8-K as Exhibit 99.1, the Registrant uses certain pro forma financial information to supplement the Registrant&#146;s results
+of operations prepared in accordance with accounting principles generally accepted in the United States (GAAP). The following paragraph describes these pro forma financial measures and the reason for their inclusion. The presentation of this
+additional information is not meant to be considered in isolation or as a substitute for financial measures prepared in accordance with GAAP. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">The Registrant has provided guidance regarding a range of performance for the fourth fiscal quarter for measures of gross profit/margin, selling, general and
+administrative expense, operating income (loss), and income (loss) per share that have been adjusted to exclude the charges discussed in the attached press release and certain other charges disclosed in the Registrant&#146;s press release dated
+October 28, 2004 related to the acquisition and integration of Spectra-Physics, including charges required to establish the opening balance sheet for Spectra-Physics, write-offs of assets resulting from the transaction or from integration
+activities, and other incremental restructuring expenses. Management considers these charges to be outside of the Registrant&#146;s core operating results. Therefore, these charges have been excluded with the intent of providing both management and
+investors with a more complete understanding of management&#146;s expectations for the Registrant&#146;s underlying financial performance for the fourth fiscal quarter, and a more meaningful basis for comparison with the Registrant&#146;s underlying
+operational results for the third fiscal quarter. In addition, these adjusted pro forma results are among the primary indicators management uses as a basis for its planning and forecasting of future periods. </FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>Item 9.01. Financial Statements and Exhibits. </B></FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2"><B>(c)</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2"><B>Exhibits.</B> </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="80%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="7%"></TD>
+<TD WIDTH="90%"></TD></TR>
+<TR>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="1"><B>Exhibit&nbsp;No.</B></FONT><BR><HR WIDTH="63" SIZE="1" NOSHADE ALIGN="left" COLOR="#000000"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="1"><B>Description</B></FONT></P><HR WIDTH="61" SIZE="1" NOSHADE ALIGN="left" COLOR="#000000"></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">99.1</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">Press Release dated December 30, 2004 (furnished pursuant to Item 7.01 and not deemed filed).</FONT></TD></TR>
+</TABLE>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>SIGNATURES </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto
+duly authorized. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0">
+
+<TR>
+<TD WIDTH="48%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="2%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="48%"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">December 30, 2004</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" COLSPAN="3"><FONT FACE="Times New Roman" SIZE="2"><B>NEWPORT CORPORATION</B></FONT></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">By:</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><I>/s/ Jeffrey B. Coyne</I></FONT></P><HR WIDTH="68%" SIZE="1" NOSHADE COLOR="#000000" ALIGN="left"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">Jeffrey B. Coyne</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">Senior Vice President, General Counsel and</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">Corporate Secretary</FONT></TD></TR>
+</TABLE>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>EXHIBIT INDEX </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="4%"></TD>
+<TD WIDTH="93%"></TD></TR>
+<TR>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="1"><B>Exhibit&nbsp;No.</B></FONT><BR><HR WIDTH="63" SIZE="1" NOSHADE ALIGN="left" COLOR="#000000"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="1"><B>Description</B></FONT></P><HR WIDTH="61" SIZE="1" NOSHADE ALIGN="left" COLOR="#000000"></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">99.1</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">Press Release dated December 30, 2004 (furnished pursuant to Item 7.01 and not deemed filed).</FONT></TD></TR>
+</TABLE>
+</BODY></HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>dex991.htm
+<DESCRIPTION>PRESS RELEASE
+<TEXT>
+<HTML><HEAD>
+<TITLE>Press Release</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2"><B>Exhibit 99.1 </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px">
+
+<IMG SRC="g9739697396_image.jpg" ALT="LOGO"> </P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>Press Release </B></FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>Contact: </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT
+SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Charles F. Cargile, 949-863-3144 </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Newport
+Corporation, Irvine, CA </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><U>investor@newport.com</U> </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">or
+</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Dan Peoples, 858-552-8146 </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Makinson Cowell (US) </FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>NEWPORT CORPORATION UPDATES FINANCIAL GUIDANCE </B></FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>FOR FOURTH QUARTER 2004 </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Irvine, California &#150; December 30, 2004 &#150; Newport Corporation (NASDAQ: NEWP) today updated its financial guidance for the fourth quarter of 2004. The company
+confirmed that it expects its sales for the fourth quarter of 2004 to be within the range announced in October 2004 of $100 million to $103 million. In addition, the company expects its fourth quarter 2004 orders to exceed sales, resulting in a
+book-to-bill ratio greater than 1.0. The company anticipates pro forma earnings per share (excluding acquisition, integration, restructuring and asset impairment charges) to be in the range of $0.07 to $0.10 per share, consistent with the range
+announced in October 2004. The company also announced that due to current actions planned and as a result of its annual goodwill impairment assessment, it expects to record non-cash charges of approximately $65.5 million related to the impairment of
+goodwill and other assets related to its Advanced Packaging and Automation Systems (APAS) Division. As a result of these charges, together with the acquisition, integration and other charges included in the company&#146;s original fourth quarter
+guidance, the company now anticipates recording a loss for the fourth quarter in the range of $1.54 to $1.60 per share. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">&#147;Our order intake and sales levels for the fourth quarter are meeting our expectations. The important photonics applications we now serve in a number
+of end markets have clearly added balance to our revenue mix, making our performance and growth prospects less dependent on the cyclical semiconductor segment. The momentum we are generating today is clearly the result of a very positive reaction
+from our customers and the integrated product solutions we now offer,&#148; said Robert G. Deuster, chairman and chief executive officer. </FONT></P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">Deuster continued, &#147;The integration of Spectra-Physics has led us to undertake a strategic review of
+all of our businesses. Our Lasers Division and our Photonics and Precision Technologies (PPT) Division are proving to be very compatible and are delivering strong financial results. We expect these divisions to be even more profitable in 2005 once
+we have concluded our integration program. Our APAS Division, which primarily serves the front- and back-end semiconductor industries, is the only part of our company that will be unprofitable, on a pro forma basis, in the fourth quarter. This
+division was also unprofitable during the upturn in the semiconductor capital equipment market in late 2003 and early 2004. This division experienced a slowdown in sales and orders during the third quarter of this year and, because of currently
+reduced market demand for capital equipment, slow order intake levels continued into the fourth quarter.&#148; Deuster noted that, while APAS accounted for only approximately 5% ($5.5 million) of Newport&#146;s total company third quarter sales, it
+produced an operating loss of $3.5 million, reducing Newport&#146;s third quarter pro forma net income to $2.9 million. Deuster concluded, &#147;We are taking aggressive actions to reduce this division&#146;s operating losses, in order to minimize
+its negative impact on the company&#146;s future financial results. The robots, load ports, equipment front end modules, turnkey automated assembly systems sold by the APAS Division accounted for less than 15% of Newport&#146;s semiconductor capital
+equipment sales in the third quarter of 2004, while the other 85% of sales to customers in these markets is derived from our Lasers and PPT Divisions&#146; products.&#148; </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">Deuster said that the company is undertaking a number of cost reduction and restructuring actions designed to reduce the
+APAS Division&#146;s losses, including changes to the organizational structure of the division and cancellation of several product development programs to more selectively serve the semiconductor automation segment more profitably. The company
+expects these actions to significantly increase the profitability of its overall sales to the semiconductor market in 2005. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">The company also completed its annual impairment test of the goodwill recorded on its balance sheet in the fourth quarter. As a result, the company has
+determined that the goodwill associated with this reporting unit has become impaired. Accordingly, the company will write off approximately $60 million of goodwill and other intangible assets in the fourth quarter. The </FONT>
+</P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">2 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px">
+<FONT FACE="Times New Roman" SIZE="2">goodwill and other intangible assets were originally recorded when Newport purchased two companies in Billerica, Massachusetts, Design Technology Company in
+2001 and Micro Robotics Systems, Inc. in 2002, both of which are now part of the APAS Division. In addition to the impairment of goodwill, the company expects to write off approximately $4.5 million in inventory associated primarily with certain
+discontinued product lines and approximately $1.0 million in fixed assets that will no longer be utilized by this division. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">Separately, Deuster noted that net income for the fourth quarter will be positively impacted by the reversal of a $2.5 million reserve that had been set
+aside pending an Internal Revenue Service review of a tax refund received in September 2003. The IRS recently ruled in favor of the company, allowing the reversal of this reserve. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>ABOUT NEWPORT CORPORATION </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">Newport Corporation is a leading global supplier of advanced-technology products and systems to the semiconductor, communications, electronics, research,
+and life and health sciences markets. The company provides components and integrated subsystems to manufacturers of semiconductor processing equipment, biomedical instrumentation and medical devices, advanced automated assembly and test systems to
+manufacturers of communications and electronics devices, and a broad array of high-precision systems, components and instruments to commercial, academic and government customers worldwide. Newport&#146;s innovative solutions leverage its expertise
+in high-power semiconductor, solid-state and ultrafast lasers, photonics instrumentation, precision robotics and automation, sub-micron positioning systems, vibration isolation and optical subsystems to enhance the capabilities and productivity of
+its customers&#146; manufacturing, engineering and research applications. Newport is part of the Standard &amp; Poor&#146;s Midcap 400 Index and the Russell 2000 Index. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>SAFE HARBOR STATEMENT </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><I>This news release contains forward-looking statements, including without limitation the statements herein regarding the company&#146;s expected sales, orders and
+earnings (loss) per share for the fourth quarter of 2004 and the statements by Robert G. Deuster. Without limiting the generality of the foregoing, words such as &#147;may,&#148; &#147;will,&#148; &#147;expect,&#148; &#147;believe,&#148;
+&#147;anticipate,&#148; &#147;intend,&#148; &#147;could,&#148; &#147;estimate&#148; or &#147;continue&#148; or the negative or other variations thereof or comparable terminology are intended to identify forward-looking </I></FONT>
+</P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">3 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px">
+<FONT FACE="Times New Roman" SIZE="2"><I>statements. In addition, any statements that refer to expectations, projections or other characterizations of future events or circumstances are
+forward-looking statements. As discussed in Newport&#146;s Annual Report on Form 10-K for the year ended December 31, 2003 and its Quarterly Report on Form 10-Q for the quarter ended October 2, 2004, assumptions relating to the foregoing involve
+judgments and risks with respect to, among other things, the ability of Newport to successfully integrate Spectra-Physics with Newport and the contributions of Spectra-Physics to Newport&#146;s operating results; the ability of Newport&#146;s
+management team to manage the combined operations of Newport and Spectra-Physics; the strength of business conditions in the semiconductor industry; Newport&#146;s ability to successfully penetrate and increase sales to the semiconductor packaging
+and life and health sciences markets; the levels of private and governmental research funding worldwide; potential order cancellations and push-outs; potential product returns; future economic, competitive and market conditions, including those in
+Europe and Asia and those related to its strategic markets; whether its products, particularly those targeting the company&#146;s strategic markets, will continue to achieve customer acceptance; risks associated with terrorist activity and resulting
+economic uncertainty; and future business decisions, all of which are difficult or impossible to predict accurately and many of which are beyond the control of Newport. Although Newport believes that the assumptions underlying the forward-looking
+statements are reasonable, any of the assumptions could prove inaccurate and, therefore, there can be no assurance that the results contemplated in forward-looking statements will be realized. In light of the significant uncertainties inherent in
+the forward-looking information included herein, the inclusion of such information should not be regarded as a representation by Newport or any other person that Newport&#146;s objectives or plans will be achieved. Newport undertakes no obligation
+to revise the forward-looking statements contained herein to reflect events or circumstances after the date hereof or to reflect the occurrence of unanticipated events. </I></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">### </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">4 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>Newport Corporation </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>Reconciliation of Fourth Quarter 2004 Pro Forma, GAAP Guidance </B></FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">The following table reconciles Newport&#146;s updated pro forma financial guidance for the
+fourth quarter of 2004, excluding acquisition, integration, restructuring and asset impairment charges, to its expected financial results recorded in accordance with generally accepted accounting principles. </FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE" ALIGN="center">
+
+<TR>
+<TD WIDTH="61%"></TD>
+<TD VALIGN="bottom" WIDTH="3%"></TD>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="3%"></TD>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="3%"></TD>
+<TD></TD></TR>
+<TR>
+<TD VALIGN="bottom"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="1"><B>(In millions, except percentages)</B></FONT></P><HR WIDTH="173" SIZE="1" NOSHADE ALIGN="left" COLOR="#000000"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" NOWRAP ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>GAAP Range</B></FONT><BR><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" NOWRAP ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>Integration,<BR>Impairment and<BR>Other Charges</B></FONT><BR><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" NOWRAP ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>Pro Forma Range</B></FONT><BR><HR SIZE="1" NOSHADE COLOR="#000000"></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Sales</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" NOWRAP ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>$100.0&nbsp;-&nbsp;$103.0</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" NOWRAP ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>&#151;&nbsp;&nbsp;</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" NOWRAP ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>$100.0&nbsp;-&nbsp;$103.0</B></FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Gross profit</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" NOWRAP ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>$29.0&nbsp;-&nbsp;$32.2</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" NOWRAP ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>$8.5&nbsp;-&nbsp;$9.0</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" NOWRAP ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>$38.0&nbsp;-&nbsp;$40.7</B></FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Gross margin</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" NOWRAP ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>29%&nbsp;-&nbsp;31%</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" NOWRAP ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>8%&nbsp;-&nbsp;9%</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" NOWRAP ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>38%&nbsp;-&nbsp;39%</B></FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Selling, general and administrative expense</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" NOWRAP ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>$88.0&nbsp;-&nbsp;$90.0</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" NOWRAP ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>$64.0&nbsp;-&nbsp;$65.0</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" NOWRAP ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>$24.0&nbsp;-&nbsp;$25.0</B></FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Operating income (loss)</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" NOWRAP ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>$(66.5)&nbsp;-&nbsp;$(69.7)</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" NOWRAP ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>$72.5&nbsp;-&nbsp;$74.0</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" NOWRAP ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>$4.3&nbsp;-&nbsp;$6.0</B></FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Earnings (loss) per share</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" NOWRAP ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>$(1.54)&nbsp;-&nbsp;$(1.60)</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" NOWRAP ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>$1.64&nbsp;-&nbsp;$1.67</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" NOWRAP ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>$0.07&nbsp;-&nbsp;$0.10</B></FONT></TD></TR>
+</TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">5 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>Newport Corporation </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>Summary of Expected Fourth Quarter 2004 Charges </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">The following table summarizes the charges that the company expects to be recorded in the fourth quarter of 2004 and the income statement
+line items expected to be impacted by such charges. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE" ALIGN="center">
+
+<TR>
+<TD WIDTH="63%"></TD>
+<TD VALIGN="bottom" WIDTH="4%"></TD>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="4%"></TD>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="4%"></TD>
+<TD></TD></TR>
+<TR>
+<TD VALIGN="bottom"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="1"><B>(In millions)</B></FONT></P><HR WIDTH="67" SIZE="1" NOSHADE ALIGN="left" COLOR="#000000"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" NOWRAP ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>Gross Profit</B></FONT><BR><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" NOWRAP ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>Selling, General &amp;<BR>Administrative<BR>Expenses</B></FONT><BR><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" NOWRAP ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>Total</B></FONT><BR><HR SIZE="1" NOSHADE COLOR="#000000"></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Goodwill and intangible assets</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" NOWRAP ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>$2.0</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" NOWRAP ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>$58.0</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" NOWRAP ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>$60.0</B></FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Inventory write-offs for APAS Division</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" NOWRAP ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>$4.5</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" NOWRAP ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>&#151;&nbsp;&nbsp;</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" NOWRAP ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>$4.5</B></FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Write off of property and equipment &#150; APAS Division</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" NOWRAP ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>&#151;&nbsp;&nbsp;</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" NOWRAP ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>$1.0</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" NOWRAP ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>$1.0</B></FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Previously announced charges</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" NOWRAP ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>$2.0&nbsp;-&nbsp;$2.5</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" NOWRAP ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>$5.0&nbsp;-&nbsp;$6.0</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" NOWRAP ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>$7.0&nbsp;-&nbsp;$8.5</B></FONT></TD></TR>
+<TR>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><HR SIZE="1" NOSHADE COLOR="#000000"></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Total impact on operating income</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" NOWRAP ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>$8.5&nbsp;-&nbsp;$9.0</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" NOWRAP ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>$64.0&nbsp;-&nbsp;$65.0</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" NOWRAP ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>$72.5&nbsp;-&nbsp;$74.0</B></FONT></TD></TR>
+<TR>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><HR SIZE="3" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><HR SIZE="3" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><HR SIZE="3" NOSHADE COLOR="#000000"></TD></TR>
+</TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">### </FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">6 </FONT></P>
+
+</BODY></HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>3
+<FILENAME>g9739697396_image.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 g9739697396_image.jpg
+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
+0@:!H&@:!H&@:!H&@:#__V3\_
+`
+end
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

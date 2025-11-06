@@ -1,0 +1,876 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ LLwNeYwO+Al+hTKR8/Jh+69lfddJf5qI0sXef0bAb9w8WdAWf8itpVN5Y0g3tspT
+ soJAzXU4TmYYJhsAiQM5rA==
+
+<SEC-DOCUMENT>0000950144-04-012300.txt : 20041222
+<SEC-HEADER>0000950144-04-012300.hdr.sgml : 20041222
+<ACCEPTANCE-DATETIME>20041221180043
+ACCESSION NUMBER:		0000950144-04-012300
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20041122
+ITEM INFORMATION:		Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20041222
+DATE AS OF CHANGE:		20041221
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AESP INC
+		CENTRAL INDEX KEY:			0001026744
+		STANDARD INDUSTRIAL CLASSIFICATION:	COMPUTER COMMUNICATIONS EQUIPMENT [3576]
+		IRS NUMBER:				592327381
+		STATE OF INCORPORATION:			FL
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-12739
+		FILM NUMBER:		041218511
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1810 N E 144TH STREET
+		CITY:			NORTH MIAMI
+		STATE:			FL
+		ZIP:			33181
+		BUSINESS PHONE:		3059447710
+
+	MAIL ADDRESS:	
+		STREET 1:		1810 N E 144TH STREET
+		CITY:			NORTH MIAMI
+		STATE:			FL
+		ZIP:			33181
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ADVANCED ELECTRONIC SUPPORT PRODUCTS INC
+		DATE OF NAME CHANGE:	19961108
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>g92467e8vk.htm
+<DESCRIPTION>AESP, INC. FORM 8-K
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>AESP, INC. FORM 8-K</TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF">
+<!-- PAGEBREAK -->
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<HR size="4" noshade color="#000000" style="margin-top: -5px">
+<HR size="1" noshade color="#000000" style="margin-top: -10px">
+
+
+
+
+
+<P align="center" style="font-size: 14pt"><B>UNITED STATES<BR>
+SECURITIES AND EXCHANGE COMMISSION</B>
+
+<DIV align="center" style="font-size: 12pt"><B>WASHINGTON, DC 20549</B>
+</DIV>
+
+<P align="center" style="font-size: 18pt"><B>FORM 8-K</B>
+
+
+<P align="center" style="font-size: 10pt"><B>CURRENT REPORT<BR>
+Pursuant to Section&nbsp;13 Or 15(d) of The Securities Exchange Act of 1934</B>
+
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+
+<!-- Begin Table Head --><TR valign="bottom">
+    <TD width="47%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="47%">&nbsp;</TD>
+</TR>
+
+<!-- End Table Head -->
+
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD align="center" valign="top">Date of report (Date of earliest event reported)
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top"><B>NOVEMBER 22, 2004</B></TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD align="center" valign="top">
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top"><HR size="1" noshade>&nbsp;</TD>
+</TR>
+
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+<P align="center" style="font-size: 24pt"><B>AESP, INC.</B>
+
+<DIV align="center" style="font-size: 10pt"><HR align="center" size="1" noshade width="100%"></DIV>
+
+
+<DIV align="center" style="font-size: 10pt">(Exact Name of Registrant as Specified in Its Charter)</DIV>
+
+
+
+<P align="center" style="font-size: 10pt"><B>Florida</B>
+
+
+<DIV align="center" style="font-size: 10pt"><HR align="center" size="1" noshade width="100%"></DIV>
+
+
+<DIV align="center" style="font-size: 10pt">(State or Other Jurisdiction of Incorporation)</DIV>
+
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+
+<!-- Begin Table Head --><TR valign="bottom">
+    <TD width="47%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="47%">&nbsp;</TD>
+</TR>
+
+<!-- End Table Head -->
+
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD align="center" valign="top"><B>001-12739</B>
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top"><B>59-232781</B></TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD colspan="3" valign="top" align="left"><HR size="1" noshade>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD align="center" valign="top">(Commission File Number)
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">(IRS Employer Identification No.)</TD>
+</TR>
+<TR valign="bottom">
+    <TD align="center" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD align="center" valign="top"><B>1810 N.E. 144<SUP>th</SUP> Street, North Miami, FL</B>
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top"><B>33181</B></TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD colspan="3" valign="top" align="left"><HR size="1" noshade>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD align="center" valign="top">(Address of Principal Executive Offices)
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">(Zip Code)</TD>
+</TR>
+
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+<P align="center" style="font-size: 10pt"><B>(305)&nbsp;944-7710</B>
+
+
+<DIV align="center" style="font-size: 10pt"><HR align="center" size="1" noshade width="100%"></DIV>
+
+
+<DIV align="center" style="font-size: 10pt">(Registrant&#146;s Telephone Number, Including Area Code)</DIV>
+
+
+
+<P align="center" style="font-size: 10pt"><HR align="center" size="1" noshade width="100%">
+
+
+<DIV align="center" style="font-size: 10pt">(Former Name or Former Address, if Changed Since Last Report)</DIV>
+
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Check the appropriate box below if the Form 8-K filing is intended to simultaneously
+satisfy the filing obligation of the registrant under any of the following provisions (<I>see </I>General
+Instruction A.2. below):
+
+<P align="left" style="font-size: 10pt"><FONT style="font-family: Wingdings">&#111;</FONT> Written communications pursuant to Rule&nbsp;425 under the Securities Act (17 CFR 230.425)
+
+
+<P align="left" style="font-size: 10pt"><FONT style="font-family: Wingdings">&#111;</FONT> Soliciting material pursuant to Rule&nbsp;14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+
+<P align="left" style="font-size: 10pt"><FONT style="font-family: Wingdings">&#111;</FONT> Pre-commencement communications pursuant to Rule&nbsp;14d-2(b) under the Exchange Act (17 CFR
+240.14d-2(b))
+
+
+<P align="left" style="font-size: 10pt"><FONT style="font-family: Wingdings">&#111;</FONT> Pre-commencement communications pursuant to Rule&nbsp;13e-4(c) under the Exchange Act (17 CFR
+240.13e-4(c))
+
+
+
+<P>
+<HR size="1" noshade color="#000000" style="margin-top: -2px">
+<HR size="4" noshade color="#000000" style="margin-top: -10px">
+
+
+
+
+
+
+<P align="center" style="font-size: 10pt">1
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<!-- TOC -->
+<A name="toc"><DIV align="CENTER" style="page-break-before:always"><U><B>TABLE OF CONTENTS</B></U></DIV></A>
+
+<P><CENTER>
+<TABLE border="0" width="90%" cellpadding="0" cellspacing="0">
+<TR>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="76%"></TD>
+</TR>
+<TR><TD colspan="9"><A HREF="#000">Section&nbsp;2 &#151; Financial Information</A></TD></TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#001">Item&nbsp;2.03 Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of the Registrant.</A></TD></TR>
+<TR><TD colspan="9"><A HREF="#002">Section&nbsp;9 &#150; Financial Statements and Exhibits</A></TD></TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#003">Item&nbsp;9.01 Financial Statements and Exhibits.</A></TD></TR>
+<TR><TD colspan="9"><A HREF="#004">SIGNATURES</A></TD></TR>
+<TR><TD colspan="9"><A HREF="g92467exv10w1.htm">PROMISSORY NOTE</A></TD></TR>
+</TABLE>
+</CENTER>
+<!-- /TOC -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+
+
+
+<!-- link1 "Section&nbsp;2 &#151; Financial Information" -->
+<DIV align="left"><A NAME="000"></A></DIV>
+
+<P align="left" style="font-size: 10pt"><B>Section&nbsp;2 &#150; Financial Information</B>
+
+<!-- link2 "Item&nbsp;2.03 Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of the Registrant." -->
+<DIV align="left"><A NAME="001"></A></DIV>
+
+<P align="left" style="font-size: 10pt"><B>Item&nbsp;2.03 Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of the Registrant.</B>
+
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On or about November&nbsp;22, 2004, the Company executed a promissory note (the &#147;Note&#148;) in the
+principal amount of $1,493,400.00 to Chao Jui Hsia (&#147;Payee&#148;). The Payee is affiliated with the
+Taiwanese trading company that represents the Company with its vendors in the Far East. The amounts
+represented by the Note relate to payments that the Payee previously made to several of the
+Company&#146;s far east vendors on the Company&#146;s behalf. The amount represented by the Note was
+previously reflected as a liability within accounts payable on the Company&#146;s balance sheet.
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Note bears interest at 6.00% per annum and is due, to the extent not otherwise paid
+earlier, on December&nbsp;31, 2005. The Company has granted Payee a second priority security interest
+in all of the Company&#146;s property and equipment and inventory, and the Maker has agreed to maintain
+a minimum inventory value of $1,400,000 so long as the Note remains outstanding.
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The foregoing is a summary of the terms of the Note. Reference is made to the more detailed
+information contained in the Note, a copy which Note is attached as Exhibit&nbsp;10.1 to this Current
+Report on Form 8-K and is incorporated herein by reference.
+
+<!-- link1 "Section&nbsp;9 &#150; Financial Statements and Exhibits" -->
+<DIV align="left"><A NAME="002"></A></DIV>
+
+<P align="left" style="font-size: 10pt"><B>Section&nbsp;9 &#151; Financial Statements and Exhibits</B>
+
+<!-- link2 "Item&nbsp;9.01 Financial Statements and Exhibits." -->
+<DIV align="left"><A NAME="003"></A></DIV>
+
+<P align="left" style="font-size: 10pt"><B>Item&nbsp;9.01 Financial Statements and Exhibits.</B>
+
+
+
+<P>
+
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="right">(c)</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD><I>Exhibits.</I></TD>
+</TR>
+
+</TABLE>
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="65%">
+
+<!-- Begin Table Head --><TR valign="bottom">
+    <TD width="8%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="87%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD nowrap align="left"><B>Exhibit No.</B><HR size="1" noshade></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center"><B>Description</B><HR size="1" noshade></TD>
+</TR>
+
+
+<!-- End Table Head -->
+
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">10.1
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Promissory Note executed by the Company in favor of Chao Jui
+Hsia, dated as of November&nbsp;22, 2004, in the original principal
+amount of $1,493,400.00.</TD>
+</TR>
+
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+<P align="center" style="font-size: 10pt">2
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<!-- link1 "SIGNATURES" -->
+<DIV align="left"><A NAME="004"></A></DIV>
+
+<P align="center" style="font-size: 10pt"><B>SIGNATURES</B>
+
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has caused
+this report to be signed on its behalf by the undersigned hereunto duly authorized, this
+21<SUP>ST</SUP> day of December, 2004.
+
+
+<TABLE width="100%" border="0" cellspacing="0" cellpadding="0" style="font-size: 10pt">
+<TR>
+    <TD width="48%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="35%">&nbsp;</TD>
+    <TD width="15%">&nbsp;</TD>
+</TR>
+<TR>
+    <TD valign="top" align="left">&nbsp;</TD>
+    <TD colspan="3" align="left"><B>AESP, INC.</B><BR>
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">&nbsp;</TD>
+    <TD colspan="3" style="border-bottom: 1px solid #000000" align="left"><I>/s/ John F. Wilkens</I>
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">&nbsp;</TD>
+    <TD colspan="3" align="left">John F. Wilkens, Chief Financial Officer&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">&nbsp;</TD>
+    <TD colspan="3" align="left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+</TABLE>
+
+
+<P align="center" style="font-size: 10pt">3
+</DIV>
+
+
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.1
+<SEQUENCE>2
+<FILENAME>g92467exv10w1.htm
+<DESCRIPTION>PROMISSORY NOTE
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>PROMISSORY NOTE</TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF">
+<!-- PAGEBREAK -->
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+<P align="left" style="font-size: 10pt"><B><I>Exhibit&nbsp;10.1 Promissory Note executed by the Company in favor of Chao Jui Hsia, dated as of
+November&nbsp;22, 2004, in the original principal amount of $1,493,400.00.</I></B>
+
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+
+<!-- Begin Table Head --><TR valign="bottom">
+    <TD width="47%"></TD>
+    <TD width="5%"></TD>
+    <TD width="47%"></TD>
+</TR>
+
+<!-- End Table Head -->
+
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD align="left" valign="top">&nbsp;<BR>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD align="left" valign="top"><B>$1,493,400.00 (U.S. Dollars)</B>
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" valign="top"><B>Date: November&nbsp;22, 2004</B></TD>
+</TR>
+
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+<P align="center" style="font-size: 10pt"><B>PROMISSORY NOTE</B>
+
+
+<P align="left" style="font-size: 10pt"><B>FOR VALUE RECEIVED</B>, the undersigned <B>AESP, INC.</B>, a Florida corporation (the &#147;Maker&#148;)
+promises to pay to the order of <B>Chao Jui Hsia </B>(the &#147;Payee&#148;) the principal sum of <B>ONE
+MILLION FOUR HUNDRED NINETY THREE THOUSAND FOUR HUNDRED AND 00/100 DOLLARS ($1,493,400.00) </B>together
+with interest thereon as set forth in this Promissory Note (the &#147;Note&#148;).
+
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.&nbsp;Principal. The full principal amount of this Note shall be due and payable on
+December&nbsp;31, 2005, but if the date that such payment is due is not a business day, then payment
+shall be due on the next following business day. All payments hereunder shall he made at the
+Payee&#146;s address set forth in the notice provision hereof or as otherwise may be designated by the
+Payee in writing in accordance with the notice provision.
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.&nbsp;Repayment of Interest. The full principal amount of this Note, outstanding from
+time to time, shall accrue interest at the rate of six percent (6%) per annum commencing on
+November l, 2004. The accrued and unpaid interest under this Note shall be due and payable on a
+monthly basis. The first monthly interest payment shall be due on December&nbsp;1, 2004, and each
+monthly interest payment thereafter shall be due and payable on the first day of each calendar
+month thereafter until the full principal and interest amount of this Note is paid in full, but if
+the date that a monthly interest payment is due is not a business day, then payment shall be due on
+the next following business day. All interest payments hereunder shall be made at the Payee&#146;s
+address set forth in the notice provision hereof or as otherwise may be designated by the Payee in
+writing in accordance with the notice provision. Upon an event of default, as set forth in Section
+7 below, and during the continuation thereof; through judgment, interest shall accrue at a rate of
+nine percent (9%). All interest chargeable under this Agreement shall be computed on the basis of
+a three hundred sixty (360)&nbsp;day year for actual days elapsed.
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.&nbsp;Security. For the purpose of securing prompt and complete payment and performance
+by the Maker of the obligations under this Note, the Maker hereby grants to the Payee a continuing
+second priority security interest in and to, lien upon, the following property of the Maker: (1)
+all goods of the Maker, including without limitation, machinery, equipment, furniture, furnishings,
+fixtures, parts, supplies and motor vehicles of every kind and description, now or hereafter owned
+by the Maker or in which the Maker may have or may hereafter acquire any interest, and all
+replacements, additions and proceeds thereof, arising from the sale or disposition thereof, and
+where applicable, the proceeds of insurance involving any of the foregoing; and (2)&nbsp;all inventory
+of the Maker, including, but not limited to, all goods, merchandise, parts, supplies, finished
+products, other tangible personal property, including such inventory as is temporarily out of
+Maker&#146;s custody or possession and including any returns upon any accounts or other proceeds,
+including insurance proceeds, resulting from the sales or disposition of any of the foregoing. At
+the end of each month, so long as this Note remains
+
+
+<P align="center" style="font-size: 10pt">1
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+
+<P align="left" style="font-size: 10pt">outstanding, the Maker will maintain a minimum inventory value of $1,400,000, as computed in
+accordance with generally accepted accounting standards. Payee has the right, upon two weeks
+notice to the Maker, to conduct an audit to ensure compliance with this inventory requirement. Any
+expenses of such audit will be borne by the Payee.
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.&nbsp;Costs, Indemnities and Expenses. The Maker agrees to pay all filing fees and
+similar charges and all costs incurred by the Payee in collecting or securing or attempting to
+collect or secure this Note, including attorneys&#146; fees, whether or not involving litigation and/or
+appellate, administrative or bankruptcy proceedings. The Maker agrees to pay any documentary stamp
+taxes, intangible taxes car other taxes (except for federal or state income or franchise taxes
+based on the Payee&#146;s income) which may now or hereafter apply to this Note or any payment made in
+respect of this Note, and the Maker agrees to indemnify and hold the Payee harmless from and
+against any liability, costs, attorney&#146;s fees, penalties, interest or expenses relating to any such
+taxes, as and when the same may be incurred.
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5.&nbsp;Prepayment. This Note may be prepaid in whole or in part at any time without
+penalty. Except as otherwise required by law or by the provisions of this Note, payments received
+by the Payee hereunder shall be applied first against expenses and indemnities, next against
+interest accrued on this Note, and next in reduction of the outstanding principal balance of this
+Note.
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6.&nbsp;Assignment by Payee. Payee may not assign this Note without the written consent of
+Maker. All of the terms of this Note shall inure to the benefit of the Payee and his successors
+and assigns. This Note shall not be assignable or delegable by the Maker.
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7.&nbsp;Events of Default. The Payee shall have the right to accelerate the maturity of
+this Note and the entire amount of principal and interest under this Note shall be immediately due
+and payable upon the occurrence of an Event of Default as stated below. No remedy conferred under
+this Section&nbsp;7 upon the Payee is intended to be exclusive of any other remedy available to the
+Payee, pursuant to the terms of this Note or otherwise. No single or partial exercise by the Payee
+of any right, power or remedy hereunder shall preclude any other or further exercise thereof. Each
+of the following events shall constitute a default under this Agreement (each an &#147;Event of
+Default&#148;):
+
+
+
+<P align="left" style="margin-left:3%; font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(i) any default, whether in whole or in part, shall occur in the payment to the Payee
+of principal or interest or AESP shall default in the payment of any other item comprising
+the Note when due and five (5)&nbsp;calendar days shall have elapsed without cure thereof;
+
+
+
+<P align="left" style="margin-left:3%; font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(ii) any default by AESP, whether in whole or in part, shall occur in the due
+observance or performance of any other covenant, term or provision to be performed under
+this Note and fifteen (l5) calendar days shall have elapsed without cure thereof;
+
+
+
+<P align="left" style="margin-left:3%; font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(iii) AESP shall: (1)&nbsp;make a general assignment for the benefit of its creditors; (2)
+apply for or consent to the appointment of a receiver, trustee, assignee, custodian,
+sequestrator, liquidator or similar official for itself or any of its assets and properties;
+(3)&nbsp;commence a voluntary case for relief as a debtor under the United States
+
+
+<P align="center" style="font-size: 10pt">2
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+
+
+
+<P align="left" style="margin-left:3%; font-size: 10pt">Bankruptcy Code; (4)&nbsp;file with or otherwise submit to any governmental authority any
+petition, answer or other document seeking: (A)&nbsp;reorganization, (B)&nbsp;an arrangement with
+creditors or (C)&nbsp;to take advantage of any other present or future applicable law respecting
+bankruptcy, reorganization, insolvency, readjustment of debts, relief of debtors,
+dissolution or liquidation; (5)&nbsp;file or otherwise submit any answer or other document
+admitting or failing to contest the material allegations of a petition or other document
+filed or otherwise submitted against it in any proceeding under any such applicable law, or
+(6)&nbsp;be adjudicated a bankrupt or insolvent by a court of competent jurisdiction;
+
+
+
+<P align="left" style="margin-left:3%; font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(iv) a Change of Control shall occur. For purposes hereof, a &#147;Change of
+Control&#148; means the removal of Messrs.&nbsp;Slav Stein and Roman Briskin as executive officers
+of the Maker and the appointment of someone other than Mr.&nbsp;Stein or Mr.&nbsp;Briskin as Chief
+Executive Officer.
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8.&nbsp;Miscellaneous.
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(a)&nbsp;Entire Agreement. This Note, constitutes the entire agreement of the parties with
+respect to the subject matter hereof and supersedes any prior agreement or understanding, between
+the parties hereto with respect to such matters, and neither this Note nor any provision hereof may
+be waived, modified, amended or, except to the extent, if any, otherwise provided in this Note,
+terminated, except by a written agreement signed by the parties hereto.
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(b)&nbsp;Negotiated Agreement. The parties to this Note have fully participated in its
+negotiation and preparation. Accordingly, this Note shall not be more strictly construed against
+either of the parties.
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(c)&nbsp;Waivers. No waiver of any breach, default or provision hereunder shall be
+considered valid unless in a writing signed by the party to be charged therewith, and no such
+waiver shall be deemed a waiver of any subsequent breach or default hereunder.
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(d)&nbsp;Governing Law; Forum. This Note and all transactions contemplated hereby and
+thereby shall he governed by and construed and enforced in accordance with the laws of the State of
+Florida, without regard to principles of conflicts of law. The parties hereto hereby agree to the
+exclusive jurisdiction of the state courts situated in Miami-Dade County and the parties hereby
+waive any objection which they may have to the laying of venue of any such proceeding in such court
+and waive any claim of inconvenient forum with respect to such venue. The parties hereto further
+agree that service of process, relating to an action arising hereunder, pursuant to the notice
+provision set forth in Section 8(g) hereof shall be sufficient and hereby waive any claim for
+insufficiency of process as a result of a party&#146;s use of such method of service.
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(e)&nbsp;Waiver of Jury Trial. THE PARTIES TO THIS NOTE HEREBY KNOWINGLY, VOLUNTARILY AND
+INTENTIONALLY WAIVE ANY RIGHT THEY MAY HAVE TO A TRIAL BY JURY IN RESPECT OF ANY LITIGATION BASED
+HEREON, OR ARISING OUT OF, UNDER OR IN CONNECTION WITH THIS NOTE OR ANY COURSE OF CONDUCT, COURSE
+OF DEALING, STATEMENTS (WHETHER VERBAL OR WRITTEN) OR ACTIONS OF ANY PARTY. THIS PROVISION IS A
+MATERIAL INDUCEMENT TO THE PARTIES ENTERING INTO THIS NOTE.
+
+
+<P align="center" style="font-size: 10pt">3
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(f)&nbsp;Notices. All notices or other communications required or permitted to be given
+pursuant to this Note shall be in writing to each party&#146;s address sot forth below and shall he
+considered as duly given: (a)&nbsp;on the date of delivery, if hand delivered; or (b)&nbsp;after two (2)&nbsp;days
+if sent by an internationally recognized express courier service, postage or delivery charges
+prepaid; or (d)&nbsp;after five (5)&nbsp;days if sent by first class certified mail, return receipt
+requested, postage prepaid. Any party may change its address by giving notice, in accordance with
+this provision, to the other party stating its new address.
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+
+<!-- Begin Table Head --><TR valign="bottom">
+    <TD width="48%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="30%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="14%">&nbsp;</TD>
+</TR>
+
+<!-- End Table Head -->
+
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD valign="top">If to Maker:</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="3" valign="top" align="left">AESP, Inc.</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="3" valign="top" align="left">1810 N.E. 144<SUP>th</SUP> Street</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="3" valign="top" align="left">North Miami, FL 33181</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="3" valign="top" align="left">USA</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="3" valign="top" align="left">Attn: Slav Stein</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top">If to Payee:</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="3" valign="top" align="left">Chao Jui Hsia</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="3" valign="top" align="left">2F, No.&nbsp;112, Sec. 3</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="3" valign="top" align="left">Min Chuan East Rd.</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="3" valign="top" align="left">Taipai, Taiwan, ROC</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="3" valign="top" align="left">Attn: Chao Jui Hsia</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="3" valign="top" align="left"><B>MAKER:</B></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="3" valign="top" align="left"><HR size="1" noshade>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="3" valign="top" align="left"><B>AESP, INC.</B></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">By:
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">/s/ Slav Stein</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top"><HR size="1" noshade>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Name:
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Slav Stein</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Its:
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">President &#038; CEO</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+
+<P align="center" style="font-size: 10pt">4
+</DIV>
+
+
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

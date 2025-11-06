@@ -1,0 +1,448 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ PvlZxj3msUJ48BH6+j4ruyZJJ17kIkBBYpX+sxf1af7WQNjtjS4GgeYspCZGbkZ3
+ Vm3QwBD8VkrQ4pdHjr+NRQ==
+
+<SEC-DOCUMENT>0001162318-04-000989.txt : 20041229
+<SEC-HEADER>0001162318-04-000989.hdr.sgml : 20041229
+<ACCEPTANCE-DATETIME>20041229102347
+ACCESSION NUMBER:		0001162318-04-000989
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		5
+CONFORMED PERIOD OF REPORT:	20041229
+ITEM INFORMATION:		Other Events
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20041229
+DATE AS OF CHANGE:		20041229
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			MORTGAGE ASSET SECURITIZATION TRANSACTIONS INC
+		CENTRAL INDEX KEY:			0000815018
+		STANDARD INDUSTRIAL CLASSIFICATION:	ASSET-BACKED SECURITIES [6189]
+		IRS NUMBER:				061204982
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-75724
+		FILM NUMBER:		041229683
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1285 AVE OF THE AMERICAS
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10019
+		BUSINESS PHONE:		2127132000
+
+	MAIL ADDRESS:	
+		STREET 1:		1285 AVENUE OF THE AMERICAS
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10019
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	PAINEWEBBER MORTGAGE ACCEPTANCE CORPORATION IV
+		DATE OF NAME CHANGE:	19940913
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>f484892form8k.htm
+<DESCRIPTION>FORM 8-K
+<TEXT>
+<!doctype html public "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<TITLE>Form 8-K</TITLE>
+<META NAME="date" CONTENT="12/28/2004">
+</HEAD>
+<BODY LINK=#0000FF VLINK=#FF00FF ALINK=#FF0000>
+<TABLE style="margin-left:0pt"><TR><TD style="padding-left:7.2pt; padding-top:0pt; padding-right:7.2pt; padding-bottom:0pt" align=left valign=top width=636 colspan=4><P style="margin-left:0pt; margin-top:0pt; margin-right:0pt; margin-bottom:12pt; padding:0pt; text-indent:0pt; line-height:12pt; font-size:12pt; color:#000000" align=center>UNITED STATES</P>
+</TD></TR>
+<TR><TD style="padding-left:7.2pt; padding-top:0pt; padding-right:7.2pt; padding-bottom:0pt" align=left valign=top width=636 colspan=4>&nbsp;</TD></TR>
+<TR><TD style="padding-left:7.2pt; padding-top:0pt; padding-right:7.2pt; padding-bottom:0pt" align=left valign=top width=636 colspan=4><P style="margin-left:0pt; margin-top:0pt; margin-right:0pt; margin-bottom:12pt; padding:0pt; text-indent:0pt; line-height:12pt; font-size:12pt; color:#000000" align=center>SECURITIES AND EXCHANGE COMMISSION</P>
+</TD></TR>
+<TR><TD style="padding-left:7.2pt; padding-top:0pt; padding-right:7.2pt; padding-bottom:0pt" align=left valign=top width=636 colspan=4>&nbsp;</TD></TR>
+<TR><TD style="padding-left:7.2pt; padding-top:0pt; padding-right:7.2pt; padding-bottom:0pt" align=left valign=top width=636 colspan=4><P style="margin-left:0pt; margin-top:0pt; margin-right:0pt; margin-bottom:12pt; padding:0pt; text-indent:0pt; line-height:12pt; font-size:12pt; color:#000000" align=center>Washington, D.C. &nbsp;20549</P>
+</TD></TR>
+<TR><TD style="padding-left:7.2pt; padding-top:0pt; padding-right:7.2pt; padding-bottom:0pt" align=left valign=top width=636 colspan=4><P style="margin:0pt; padding:0pt; text-indent:0pt; line-height:12pt; font-size:12pt; color:#000000" align=center>_____<BR>
+</P>
+</TD></TR>
+<TR><TD style="padding-left:7.2pt; padding-top:0pt; padding-right:7.2pt; padding-bottom:0pt" align=left valign=top width=636 colspan=4>&nbsp;</TD></TR>
+<TR><TD style="padding-left:7.2pt; padding-top:0pt; padding-right:7.2pt; padding-bottom:0pt" align=left valign=top width=636 colspan=4><P style="margin-left:0pt; margin-top:0pt; margin-right:0pt; margin-bottom:12pt; padding:0pt; text-indent:0pt; line-height:12pt; font-size:12pt; color:#000000" align=center>FORM 8-K</P>
+</TD></TR>
+<TR><TD style="padding-left:7.2pt; padding-top:0pt; padding-right:7.2pt; padding-bottom:0pt" align=left valign=top width=636 colspan=4>&nbsp;</TD></TR>
+<TR><TD style="padding-left:7.2pt; padding-top:0pt; padding-right:7.2pt; padding-bottom:0pt" align=left valign=top width=636 colspan=4><P style="margin-left:0pt; margin-top:0pt; margin-right:0pt; margin-bottom:12pt; padding:0pt; text-indent:0pt; line-height:12pt; font-size:12pt; color:#000000" align=center>CURRENT REPORT</P>
+</TD></TR>
+<TR><TD style="padding-left:7.2pt; padding-top:0pt; padding-right:7.2pt; padding-bottom:0pt" align=left valign=top width=636 colspan=4>&nbsp;</TD></TR>
+<TR><TD style="padding-left:7.2pt; padding-top:0pt; padding-right:7.2pt; padding-bottom:0pt" align=left valign=top width=636 colspan=4><P style="margin-left:0pt; margin-top:0pt; margin-right:0pt; margin-bottom:12pt; padding:0pt; text-indent:0pt; line-height:12pt; font-size:12pt; color:#000000" align=center>PURSUANT TO SECTION 13 OR 15 (d) </P>
+</TD></TR>
+<TR><TD style="padding-left:7.2pt; padding-top:0pt; padding-right:7.2pt; padding-bottom:0pt" align=left valign=top width=636 colspan=4>&nbsp;</TD></TR>
+<TR><TD style="padding-left:7.2pt; padding-top:0pt; padding-right:7.2pt; padding-bottom:0pt" align=left valign=top width=636 colspan=4><P style="margin-left:0pt; margin-top:0pt; margin-right:0pt; margin-bottom:12pt; padding:0pt; text-indent:0pt; line-height:12pt; font-size:12pt; color:#000000" align=center>OF THE SECURITIES EXCHANGE ACT OF 1934</P>
+</TD></TR>
+<TR><TD style="padding-left:7.2pt; padding-top:0pt; padding-right:7.2pt; padding-bottom:0pt" align=left valign=top width=636 colspan=4>&nbsp;</TD></TR>
+<TR><TD style="padding-left:7.2pt; padding-top:0pt; padding-right:7.2pt; padding-bottom:0pt" align=left valign=top width=636 colspan=4><P style="margin:0pt; padding:0pt; text-indent:0pt; line-height:12pt; font-size:12pt; color:#000000" align=center>Date of Report (date of earliest event reported) <BR>
+December 29, 2004<BR>
+</P>
+</TD></TR>
+<TR><TD style="padding-left:7.2pt; padding-top:0pt; padding-right:7.2pt; padding-bottom:0pt" align=left valign=top width=636 colspan=4>&nbsp;</TD></TR>
+<TR><TD style="padding-left:7.2pt; padding-top:0pt; padding-right:7.2pt; padding-bottom:0pt" align=left valign=top width=636 colspan=4><P style="margin:0pt; padding:0pt; text-indent:0pt; line-height:12pt; font-size:12pt; color:#000000" align=center><U>MORTGAGE ASSET SECURITIZATION TRANSACTIONS, INC.&nbsp;</U></P>
+</TD></TR>
+<TR><TD style="padding-left:7.2pt; padding-top:0pt; padding-right:7.2pt; padding-bottom:0pt" align=left valign=top width=636 colspan=4><P style="margin-left:0pt; margin-top:0pt; margin-right:0pt; margin-bottom:12pt; padding:0pt; text-indent:0pt; line-height:12pt; font-size:12pt; color:#000000" align=center>(Exact name of registrant as specified in its charter)</P>
+</TD></TR>
+<TR><TD style="padding-left:7.2pt; padding-top:0pt; padding-right:7.2pt; padding-bottom:0pt" align=left valign=top width=199.2><P style="margin:0pt; padding:0pt; text-indent:0pt; line-height:12pt; font-size:12pt; color:#000000" align=center><U>Delaware</U></P>
+<P style="margin:0pt; padding:0pt; text-indent:0pt; line-height:12pt; font-size:12pt; color:#000000" align=center>(State or other jurisdiction</P>
+<P style="margin-left:0pt; margin-top:0pt; margin-right:0pt; margin-bottom:12pt; padding:0pt; text-indent:0pt; line-height:12pt; font-size:12pt; color:#000000" align=center>of incorporation)</P>
+</TD><TD style="padding-left:7.2pt; padding-top:0pt; padding-right:7.2pt; padding-bottom:0pt" align=left valign=top width=190.4 colspan=2><P style="margin:0pt; padding:0pt; text-indent:0pt; line-height:12pt; font-size:12pt; color:#000000" align=center><U>333-106982</U></P>
+<P style="margin:0pt; padding:0pt; text-indent:0pt; line-height:12pt; font-size:12pt; color:#000000" align=center>(Commission</P>
+<P style="margin-left:0pt; margin-top:0pt; margin-right:0pt; margin-bottom:12pt; padding:0pt; text-indent:0pt; line-height:12pt; font-size:12pt; color:#000000" align=center>File Number)</P>
+</TD><TD style="padding-left:7.2pt; padding-top:0pt; padding-right:7.2pt; padding-bottom:0pt" align=left valign=top width=246.4><P style="margin:0pt; padding:0pt; text-indent:0pt; line-height:12pt; font-size:12pt; color:#000000" align=center><U>06-1204982</U></P>
+<P style="margin:0pt; padding:0pt; text-indent:0pt; line-height:12pt; font-size:12pt; color:#000000" align=center>(IRS Employer</P>
+<P style="margin-left:0pt; margin-top:0pt; margin-right:0pt; margin-bottom:12pt; padding:0pt; text-indent:0pt; line-height:12pt; font-size:12pt; color:#000000" align=center>ID Number)</P>
+</TD></TR>
+<TR><TD style="padding-left:7.2pt; padding-top:0pt; padding-right:7.2pt; padding-bottom:0pt" align=left valign=top width=283.2 colspan=2>&nbsp;</TD><TD style="padding-left:7.2pt; padding-top:0pt; padding-right:7.2pt; padding-bottom:0pt" align=left valign=top width=352.8 colspan=2>&nbsp;</TD></TR>
+<TR><TD style="padding-left:7.2pt; padding-top:0pt; padding-right:7.2pt; padding-bottom:0pt" align=left valign=top width=283.2 colspan=2><P style="margin:0pt; padding:0pt; text-indent:0pt; line-height:12pt; font-size:12pt; color:#000000" align=center>1285 Avenue of the Americas</P>
+<P style="margin:0pt; padding-left:0pt; padding-top:0pt; padding-right:-0.9pt; padding-bottom:0pt; text-indent:0pt; line-height:12pt; font-size:12pt; color:#000000" align=center><U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;New York, New York&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U></P>
+</TD><TD style="padding-left:7.2pt; padding-top:0pt; padding-right:7.2pt; padding-bottom:0pt" align=left valign=top width=352.8 colspan=2><P style="margin:0pt; padding-left:-5.4pt; padding-top:0pt; padding-right:-6.3pt; padding-bottom:0pt; text-indent:0pt; font-size:12pt; color:#000000" align=center><BR></P>
+<P style="margin:0pt; padding-left:-5.4pt; padding-top:0pt; padding-right:-6.3pt; padding-bottom:0pt; text-indent:0pt; line-height:12pt; font-size:12pt; color:#000000" align=center><U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10019&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U></P>
+</TD></TR>
+<TR><TD style="padding-left:7.2pt; padding-top:0pt; padding-right:7.2pt; padding-bottom:0pt" align=left valign=top width=283.2 colspan=2><P style="margin:0pt; padding:0pt; text-indent:0pt; line-height:12pt; font-size:12pt; color:#000000">(Address of principal executive offices)</P>
+</TD><TD style="padding-left:7.2pt; padding-top:0pt; padding-right:7.2pt; padding-bottom:0pt" align=left valign=top width=352.8 colspan=2><P style="margin:0pt; padding:0pt; text-indent:0pt; line-height:12pt; font-size:12pt; color:#000000" align=center>(Zip Code)</P>
+</TD></TR>
+<TR><TD style="padding-left:7.2pt; padding-top:0pt; padding-right:7.2pt; padding-bottom:0pt" align=left valign=top width=283.2 colspan=2>&nbsp;</TD><TD style="padding-left:7.2pt; padding-top:0pt; padding-right:7.2pt; padding-bottom:0pt" align=left valign=top width=352.8 colspan=2>&nbsp;</TD></TR>
+<TR><TD style="padding-left:7.2pt; padding-top:0pt; padding-right:7.2pt; padding-bottom:0pt" align=left valign=top width=283.2 colspan=2><P style="margin:0pt; padding:0pt; text-indent:0pt; line-height:12pt; font-size:12pt; color:#000000">Registrant&#146;s Telephone Number,<BR>
+including area code:<BR>
+</P>
+</TD><TD style="padding-left:7.2pt; padding-top:0pt; padding-right:7.2pt; padding-bottom:0pt" align=left valign=top width=352.8 colspan=2><P style="margin-left:0pt; margin-top:0pt; margin-right:0pt; margin-bottom:12pt; padding:0pt; text-indent:0pt; line-height:12pt; font-size:12pt; color:#000000" align=center>(212) 713-2000</P>
+</TD></TR>
+<TR><TD style="padding-left:7.2pt; padding-top:0pt; padding-right:7.2pt; padding-bottom:0pt" align=left valign=top width=636 colspan=4><P style="margin:0pt; padding:0pt; text-indent:0pt; line-height:12pt; font-size:12pt; color:#000000" align=center><U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No Change&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-right:0pt; margin-bottom:12pt; padding:0pt; text-indent:0pt; line-height:12pt; font-size:12pt; color:#000000" align=center>(Former name or former address, if changed since last report)</P>
+</TD></TR>
+</TABLE>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding-left:13.5pt; padding-top:0pt; padding-right:34.2pt; padding-bottom:0pt; text-indent:22.5pt; font-size:11.5pt; color:#000000"><BR></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding-left:13.5pt; padding-top:0pt; padding-right:34.2pt; padding-bottom:0pt; text-indent:22.5pt; line-height:11.5pt; font-size:11.5pt; color:#000000">heck the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:</P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding-left:13.5pt; padding-top:0pt; padding-right:34.2pt; padding-bottom:0pt; text-indent:0pt; font-size:12pt; color:#000000"><BR></P>
+<TABLE style="margin-left:0pt"><TR><TD style="padding-left:7.2pt; padding-top:0pt; padding-right:7.2pt; padding-bottom:0pt" align=left valign=top width=78><P style="margin:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000"><img src="f484892form8k002.jpg" alt="[f484892form8k002.jpg]" align=middle height=16.067 width=16.067></P>
+</TD><TD style="padding-left:7.2pt; padding-top:0pt; padding-right:7.2pt; padding-bottom:0pt" align=left valign=top width=588><P style="margin-left:0pt; margin-top:0pt; margin-right:0pt; margin-bottom:12pt; padding:0pt; text-indent:15.75pt; line-height:11.5pt; font-size:11.5pt; color:#000000">Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)</P>
+</TD></TR>
+<TR><TD style="padding-left:7.2pt; padding-top:0pt; padding-right:7.2pt; padding-bottom:0pt" align=left valign=top width=78><P style="margin:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000"><img src="f484892form8k004.jpg" alt="[f484892form8k004.jpg]" align=middle height=16.067 width=16.067></P>
+</TD><TD style="padding-left:7.2pt; padding-top:0pt; padding-right:7.2pt; padding-bottom:0pt" align=left valign=top width=588><P style="margin-left:0pt; margin-top:0pt; margin-right:0pt; margin-bottom:12pt; padding:0pt; text-indent:15.75pt; line-height:11.5pt; font-size:11.5pt; color:#000000">Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)</P>
+</TD></TR>
+<TR><TD style="padding-left:7.2pt; padding-top:0pt; padding-right:7.2pt; padding-bottom:0pt" align=left valign=top width=78><P style="margin:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000"><img src="f484892form8k006.jpg" alt="[f484892form8k006.jpg]" align=middle height=16.067 width=16.067></P>
+</TD><TD style="padding-left:7.2pt; padding-top:0pt; padding-right:7.2pt; padding-bottom:0pt" align=left valign=top width=588><P style="margin-left:0pt; margin-top:0pt; margin-right:0pt; margin-bottom:12pt; padding:0pt; text-indent:15.75pt; line-height:11.5pt; font-size:11.5pt; color:#000000">Pre-commencement communications pursuant to Rule 14d-2(d) under the Exchange Act (17 CFR 240.14d-2(b))</P>
+</TD></TR>
+<TR><TD style="padding-left:7.2pt; padding-top:0pt; padding-right:7.2pt; padding-bottom:0pt" align=left valign=top width=78><P style="margin:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000"><img src="f484892form8k008.jpg" alt="[f484892form8k008.jpg]" align=middle height=16.067 width=16.067></P>
+</TD><TD style="padding-left:7.2pt; padding-top:0pt; padding-right:7.2pt; padding-bottom:0pt" align=left valign=top width=588><P style="margin-left:0pt; margin-top:0pt; margin-right:0pt; margin-bottom:12pt; padding:0pt; text-indent:15.75pt; line-height:11.5pt; font-size:11.5pt; color:#000000">Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))</P>
+</TD></TR>
+</TABLE>
+<HR style="padding-top:7.2pt; padding-bottom:7.2pt; color:#000000" noshade size=1.333>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000"><BR></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000"><BR></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:36pt; line-height:12pt; font-size:12pt; color:#000000" align=justify>Item 8.01. &nbsp;<U>Other Events</U></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000"><BR></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:72pt; line-height:12pt; font-size:12pt; color:#000000">Item 8.01. &nbsp;Other Events.</P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000"><BR></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:72pt; line-height:12pt; font-size:12pt; color:#000000">McKee Nelson LLP has been retained by this Registrant as counsel for its Registration Statement on Form S-3 (Commission File No. 333-106982) in connection with various transactions. &nbsp;Legal opinions by McKee Nelson LLP to be incorporated into the Registration Statement are attached hereto as Exhibit 5.1, Exhibit 8.1 and Exhibit 23.1.</P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000"><BR></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:36pt; line-height:12pt; font-size:12pt; color:#000000">Item 9.01. &nbsp;<U>Financial Statements and Exhibits</U>.</P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000"><BR></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:-12pt; padding-left:72pt; padding-top:0pt; padding-right:0pt; padding-bottom:0pt; text-indent:-36pt; line-height:12pt; font-size:12pt; color:#000000">(a)</P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding-left:72pt; padding-top:0pt; padding-right:0pt; padding-bottom:0pt; text-indent:0pt; line-height:12pt; font-size:12pt; color:#000000">Not applicable.</P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000"><BR></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:-12pt; padding-left:72pt; padding-top:0pt; padding-right:0pt; padding-bottom:0pt; text-indent:-36pt; line-height:12pt; font-size:12pt; color:#000000">(b)</P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding-left:72pt; padding-top:0pt; padding-right:0pt; padding-bottom:0pt; text-indent:0pt; line-height:12pt; font-size:12pt; color:#000000">Not applicable.</P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000"><BR></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:-12pt; padding:0pt; text-indent:36pt; line-height:12pt; font-size:12pt; color:#000000">(c)</P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:72pt; line-height:12pt; font-size:12pt; color:#000000">Exhibits:</P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000"><BR></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:-12pt; padding-left:108pt; padding-top:0pt; padding-right:0pt; padding-bottom:0pt; text-indent:-66pt; line-height:12pt; font-size:12pt; color:#000000">5.1</P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding-left:108pt; padding-top:0pt; padding-right:0pt; padding-bottom:0pt; text-indent:0pt; line-height:12pt; font-size:12pt; color:#000000">Opinion of McKee Nelson LLP as to legality (including consent of such firm).</P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000"><BR></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:-12pt; padding-left:108pt; padding-top:0pt; padding-right:0pt; padding-bottom:0pt; text-indent:-66pt; line-height:12pt; font-size:12pt; color:#000000">8.1</P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding-left:108pt; padding-top:0pt; padding-right:0pt; padding-bottom:0pt; text-indent:0pt; line-height:12pt; font-size:12pt; color:#000000">Opinion of McKee Nelson LLP as to certain tax matters (including consent of &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;such firm included in Exhibit&nbsp;5.1).</P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000"><BR></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:-12pt; padding-left:108pt; padding-top:0pt; padding-right:0pt; padding-bottom:0pt; text-indent:-66pt; line-height:12pt; font-size:12pt; color:#000000">23.1</P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding-left:108pt; padding-top:0pt; padding-right:0pt; padding-bottom:0pt; text-indent:0pt; line-height:12pt; font-size:12pt; color:#000000">Consent of McKee Nelson LLP (included in Exhibit 5.1).</P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000"><BR></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:36pt; font-size:12pt; color:#000000" align=center><BR></P>
+<HR style="padding-top:7.2pt; padding-bottom:7.2pt; color:#000000" noshade size=1.333>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; line-height:12pt; font-size:12pt; color:#000000" align=center><B>SIGNATURES</B></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000"><BR></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:54pt; line-height:12pt; font-size:12pt; color:#000000">Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.</P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000"><BR></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding-left:229.5pt; padding-top:0pt; padding-right:0pt; padding-bottom:0pt; text-indent:0pt; line-height:12pt; font-size:12pt; color:#000000">MORTGAGE ASSET SECURITIZATION </P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding-left:36pt; padding-top:0pt; padding-right:0pt; padding-bottom:0pt; text-indent:193pt; line-height:12pt; font-size:12pt; color:#000000">TRANSACTIONS, INC.</P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000"><BR></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000"><BR></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:229pt; line-height:12pt; font-size:12pt; color:#000000">By:<U>&nbsp;&nbsp;&nbsp;/s/ Peter Ma&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:-12pt; padding:0pt; text-indent:229pt; line-height:12pt; font-size:12pt; color:#000000">Name:</P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:274.8pt; line-height:12pt; font-size:12pt; color:#000000">Peter Ma</P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:-12pt; padding:0pt; text-indent:229pt; line-height:12pt; font-size:12pt; color:#000000">Title:</P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:274.8pt; line-height:12pt; font-size:12pt; color:#000000">Director</P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:229pt; font-size:12pt; color:#000000"><BR></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000"><BR></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:229pt; line-height:12pt; font-size:12pt; color:#000000">By<U>:&nbsp;&nbsp;&nbsp;/s/ Peter Slagowitz&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:-12pt; padding:0pt; text-indent:229pt; line-height:12pt; font-size:12pt; color:#000000">Name:</P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:274.8pt; line-height:12pt; font-size:12pt; color:#000000">Peter Slagowitz</P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:-12pt; padding:0pt; text-indent:229pt; line-height:12pt; font-size:12pt; color:#000000">Title:</P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:274.8pt; line-height:12pt; font-size:12pt; color:#000000">Managing Director</P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:45.8pt; font-size:12pt; color:#000000"><BR></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; line-height:12pt; font-size:12pt; color:#000000">Dated: December 29, 2004</P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000"><BR></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000"><BR></P>
+<HR style="padding-top:7.2pt; padding-bottom:7.2pt; color:#000000" noshade size=1.333>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000"><BR></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; line-height:12pt; font-size:12pt; color:#000000" align=center><U>EXHIBIT INDEX</U></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000"><BR></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000"><BR></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000"><BR></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:-12pt; padding:0pt; text-indent:0pt; line-height:12pt; font-size:12pt; color:#000000" align=justify>&nbsp;&nbsp;&nbsp;&nbsp;<U>Exhibit No.</U></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:-12pt; padding:0pt; text-indent:180pt; line-height:12pt; font-size:12pt; color:#000000" align=justify><U>Description</U></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:396pt; line-height:12pt; font-size:12pt; color:#000000" align=justify><U>Page No.</U></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000"><BR></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000"><BR></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:-12pt; padding-left:90pt; padding-top:0pt; padding-right:0pt; padding-bottom:0pt; text-indent:-58.5pt; line-height:12pt; font-size:12pt; color:#000000">5.1</P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding-left:90pt; padding-top:0pt; padding-right:0pt; padding-bottom:0pt; text-indent:0pt; line-height:12pt; font-size:12pt; color:#000000">Opinion of McKee Nelson LLP as to legality (including consent of such firm).</P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000"><BR></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:-12pt; padding-left:90pt; padding-top:0pt; padding-right:0pt; padding-bottom:0pt; text-indent:-58.5pt; line-height:12pt; font-size:12pt; color:#000000">8.1</P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding-left:90pt; padding-top:0pt; padding-right:0pt; padding-bottom:0pt; text-indent:0pt; line-height:12pt; font-size:12pt; color:#000000">Opinion of McKee Nelson LLP as to certain tax matters (including consent of</P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding-left:90pt; padding-top:0pt; padding-right:0pt; padding-bottom:0pt; text-indent:0pt; line-height:12pt; font-size:12pt; color:#000000">such firm included in Exhibit&nbsp;&nbsp;5.1).</P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000"><BR></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:-12pt; padding-left:93pt; padding-top:0pt; padding-right:0pt; padding-bottom:0pt; text-indent:-61.5pt; line-height:12pt; font-size:12pt; color:#000000">23.1</P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding-left:93pt; padding-top:0pt; padding-right:0pt; padding-bottom:0pt; text-indent:-3pt; line-height:12pt; font-size:12pt; color:#000000">Consent of McKee Nelson LLP (included in Exhibit 5.1).</P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000"><BR></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000"><BR></P>
+<HR style="padding-top:7.2pt; padding-bottom:7.2pt; color:#000000" noshade size=1.333>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:324pt; line-height:12pt; font-size:12pt; color:#000000"><B><U>Exhibits 5.1, 8.1 and 23.1</U></B></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000"><BR></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000"><BR></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000"><BR></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000"><BR></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; line-height:12pt; font-size:12pt; color:#000000" align=right>December 29, 2004</P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000"><BR></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; line-height:12pt; font-size:12pt; color:#000000">Mortgage Asset Securitization Transactions, Inc.</P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; line-height:12pt; font-size:12pt; color:#000000">1285 Avenue of the Americas</P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; line-height:12pt; font-size:12pt; color:#000000">New York, New York 10019</P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000"><BR></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000"><BR></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:-12pt; padding:0pt; text-indent:72pt; line-height:12pt; font-size:12pt; color:#000000">Re:</P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:108pt; line-height:12pt; font-size:12pt; color:#000000">Mortgage Asset Securitization Transactions, Inc.,</P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:108pt; line-height:12pt; font-size:12pt; color:#000000"><U>Registration Statement on Form S-3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000"><BR></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; line-height:12pt; font-size:12pt; color:#000000">Ladies and Gentlemen:</P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000"><BR></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:36pt; line-height:12pt; font-size:12pt; color:#000000">We have acted as counsel for Mortgage Asset Securitization Transactions, Inc., a Delaware corporation (the &#147;Company&#148;), in connection with the issuance of the Company&#146;s MASTR Alternative Loan Trust 2004-13 Mortgage Pass-Through Certificates, Series 2004-13 (the &#147;Certificates&#148;), pursuant to a prospectus dated October 25, 2004, as supplemented by a prospectus supplement dated December 23, 2004 (the &#147;Base Prospectus&#148; and the &#147;Prospectus Supplement,&#148; respectively, and collectively the &#147;Prospectus&#148;). &nbsp;A registration statement of the Company on Form S-3 relating to the Certificates (Commission File No. 333-106982) has been filed with the Securities and Exchange Commission (the &#147;Commission&#148;) under the Securities Act of 1933, as amended (the &#147;Securities Act&#148;) and was declared effective on August 5, 
+2003. &nbsp;As set forth in the Prospectus, the Certificates will be issued under and pursuant to the conditions of a pooling and servicing agreement dated as of December 1, 2004 &nbsp;(the &#147;Pooling Agreement&#148;), among the Company, as depositor, UBS Real Estate Securities Inc., as transferor (the &#147;Transferor&#148;), U.S. Bank National Association, as trustee and as custodian (the &#147;Trustee&#148; and a &#147;Custodian&#148;) and Wells Fargo Bank, N.A, as master servicer, as trust administrator and as a custodian (the &#147;Master Servicer&#148;, the &#147;Trust Administrator&#148; and a &#147;Custodian&#148;). &nbsp;</P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000"><BR></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:36pt; line-height:12pt; font-size:12pt; color:#000000">We have examined a form of the Pooling Agreement, forms of the Certificates, the Prospectus, and originals or copies, certified or otherwise identified to our satisfaction, of such instruments, certificates, records and other documents, and have made such examination of law, as we have deemed necessary or appropriate for the purpose of this opinion. &nbsp;In our examination, we have assumed the legal capacity of all natural persons, the genuineness of all signatures, the authenticity of all documents submitted to us as originals, the conformity to original documents of all documents submitted to us as certified or photostatic copies or by facsimile or other means of electronic transmission, and the authenticity of the originals of such latter documents. &nbsp;As to facts relevant to the opinions expressed herein and the other statements made herein, we have relied, to 
+the extent we have deemed appropriate, upon certificates and oral or written statements and representations of officers and other representatives of the Company and others.</P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000"><BR></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:36pt; line-height:12pt; font-size:12pt; color:#000000">Based upon the foregoing, we are of the opinion that:</P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000"><BR></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:-12pt; padding-left:36pt; padding-top:0pt; padding-right:0pt; padding-bottom:0pt; text-indent:36pt; line-height:12pt; font-size:12pt; color:#000000">(i)</P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding-left:36pt; padding-top:0pt; padding-right:0pt; padding-bottom:0pt; text-indent:72pt; line-height:12pt; font-size:12pt; color:#000000">The Pooling Agreement has been duly and validly authorized by all necessary action on the part of the Company and when the Pooling Agreement has been duly executed and delivered by the Company, the Transferor, the Master Servicer, the Trust Administrator, the Custodians, the Trustee and any other party thereto, the Pooling Agreement will constitute a legal, valid and binding agreement of the Company, enforceable against it in accordance with its terms, except as enforcement thereof may be limited by bankruptcy, insolvency, reorganization, moratorium, fraudulent conveyance, fraudulent transfer and other similar laws relating to or affecting creditors&#146; rights generally and to general equitable principles (regardless of whether considered in a proceeding in equity or at law), including concepts of commerci
+al reasonableness, good faith and fair dealing and the possible unavailability of specific performance or injunctive relief, and with respect to the rights of indemnity or contribution, as may be limited by public policy considerations.</P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000"><BR></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:-12pt; padding-left:36pt; padding-top:0pt; padding-right:0pt; padding-bottom:0pt; text-indent:36pt; line-height:12pt; font-size:12pt; color:#000000">(ii)</P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding-left:36pt; padding-top:0pt; padding-right:0pt; padding-bottom:0pt; text-indent:72pt; line-height:12pt; font-size:12pt; color:#000000">The issuance and sale of the Certificates have been duly authorized by all requisite corporate action on the part of the Company and, when duly and validly executed and authenticated in accordance with the terms of the Pooling Agreement and delivered against payment therefor pursuant to the Underwriting Agreement dated as of December 23, 2004 and the Purchase Agreement, dated as of December 29, 2004, and each between the Company and UBS Securities LLC, the Certificates will be duly and validly issued and outstanding, and entitled to the benefits of the Pooling Agreement and enforceable against the Company in accordance with their terms.</P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000"><BR></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:-12pt; padding-left:36pt; padding-top:0pt; padding-right:0pt; padding-bottom:0pt; text-indent:36pt; line-height:12pt; font-size:12pt; color:#000000">(iii)</P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding-left:36pt; padding-top:0pt; padding-right:0pt; padding-bottom:0pt; text-indent:72pt; line-height:12pt; font-size:12pt; color:#000000">Under existing law, assuming compliance with all provisions of the Pooling Agreement, for federal income tax purposes, each segregated pool of assets for which the Pooling Agreement directs that a REMIC election be made will qualify as a &#147;real estate mortgage investment conduit&#148; (&#147;REMIC&#148;) pursuant to Section 860D of the Internal Revenue Code of 1986, as amended (the &#147;Code&#148;); each of the Certificates, other than the Class A-LR and Class A-UR Certificates, will evidence ownership of &#147;regular interests&#148; in a REMIC within the meaning of the Code; the Class A-LR Certificate will be considered to represent the sole class of &#147;residual interest&#148; in the lower-tier REMIC or REMICs that hold the Mortgage Assets within the meaning of Section 860G(a)(2) of the Code and th
+e Class A-UR Certificates will be considered to represent the sole class of &#147;residual interest&#148; in each other REMIC created under the Pooling Agreement within the meaning of Section 860G(a)(2) of the Code.</P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000"><BR></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:-12pt; padding-left:36pt; padding-top:0pt; padding-right:0pt; padding-bottom:0pt; text-indent:36pt; line-height:12pt; font-size:12pt; color:#000000">(iv)</P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding-left:36pt; padding-top:0pt; padding-right:0pt; padding-bottom:0pt; text-indent:72pt; line-height:12pt; font-size:12pt; color:#000000">The statements contained under the caption &#147;Federal Income Tax Consequences,&#148; in the Base Prospectus and &#147;Federal Income Tax Consequences&#148; in the Prospectus Supplement, insofar as such statements constitute conclusions of law, are true and correct in all material respects as set forth therein.</P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000"><BR></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000"><BR></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000"><BR></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:36pt; line-height:12pt; font-size:12pt; color:#000000">In rendering the foregoing opinions, we express no opinion as to the laws of any jurisdiction other than the federal laws of the United States of America and the laws of the State of New York.</P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000"><BR></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:36pt; line-height:12pt; font-size:12pt; color:#000000">We hereby consent to the filing of this letter and to the references to this firm under the headings &#147;Federal Income Tax Consequences&#148; and &#147;Legal Matters&#148; in the Base Prospectus and &#147;Federal Income Tax Consequences&#148; and &#147;Legal Matters&#148; in the Prospectus Supplement, without implying or admitting that we are &#147;experts&#148; within the meaning of the Securities Act or the rules and regulations of the Commission issued thereunder, with respect to any part of the Base Prospectus or the Prospectus Supplement.</P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000"><BR></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000"><BR></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000"><BR></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000"><BR></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding-left:216pt; padding-top:0pt; padding-right:0pt; padding-bottom:0pt; text-indent:0pt; line-height:12pt; font-size:12pt; color:#000000">Very truly yours,</P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000"><BR></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding-left:216pt; padding-top:0pt; padding-right:0pt; padding-bottom:0pt; text-indent:0pt; line-height:11.5pt; font-size:11.5pt; color:#000000">/s/ McKee Nelson LLP</P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:216pt; line-height:11.5pt; font-size:11.5pt; color:#000000">McKee Nelson LLP</P>
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>2
+<FILENAME>f484892form8k008.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 f484892form8k008.jpg
+M_]C_X``02D9)1@`!`0(`)0`E``#_VP!#``@&!@<&!0@'!P<)"0@*#!0-#`L+
+M#!D2$P\4'1H?'AT:'!P@)"XG("(L(QP<*#<I+#`Q-#0T'R<Y/3@R/"XS-#+_
+MVP!#`0D)"0P+#!@-#1@R(1PA,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C(R
+M,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C+_P``1"`!K`&L#`2(``A$!`Q$!_\0`
+M&``!`0$!`0````````````````@'!0;_Q``U$``!``8%"P,%``,`````````
+M`0(#!`4&!P@8-],1$A=55G6$DZ2SM!1&PQ,A,4%1%5*1_\0`%`$!````````
+M`````````````/_$`!01`0````````````````````#_V@`,`P$``A$#$0`_
+M`-OC<;ATN0=O%HL\>G<6&;]1KF++YN<LA5'V50E*?NE"/L@\?ILH\VAZ)XPQ
+M39=!'>'\AF2`!7^FRCS:'HGC#&FRCS:'HGC#)``%?Z;*/-H>B>,,:;*/-H>B
+M>,,D``5_ILH\VAZ)XPQILH\VAZ)XPR0`!7^FRCS:'HGC#&FRCS:'HGC#)``%
+M?Z;*/-H>B>,,:;*/-H>B>,,D``6O+E(DJS=$6CA`XIZMZ9LDMEE/3M6>11"4
+M(2G*NJA'Y61_T]03!5RO#B&ZFG=8E/@9_39=!'>'\AF3!(EX<L[U=>ZJ4_39
+M=!'>'\AF3!(EX<L[U=>ZJ!;X``````````$_UF?:W%_"4`3_`%F?:W%_"!P*
+MN5X<0W4T[K$I\F"KE>'$-U-.ZQ*?`S^FRZ".\/Y#,F"1+PY9WJZ]U4I^FRZ"
+M.\/Y#,F"1+PY9WJZ]U4"WP``````````)_K,^UN+^$H`G^LS[6XOX0.!5RO#
+MB&ZFG=8E/DP5<KPXANIIW6)3X&?TV701WA_(9DP2)>'+.]77NJE/TV701WA_
+M(9DP2)>'+.]77NJ@6^``````````!/\`69]K<7\)0!/]9GVMQ?P@<"KE>'$-
+MU-.ZQ*?)@JY7AQ#=33NL2GP,_ILN@CO#^0S)@D2\.6=ZNO=5*?ILN@CO#^0S
+M)@D2\.6=ZNO=5`M\``````````"?ZS/M;B_A*`)_K,^UN+^$#@5<KPXANIIW
+M6)3Y,%7*\.(;J:=UB4^!G]-ET$=X?R&9,$B7ARSO5U[JI3]-ET$=X?R&9)D)
+MB3:#1EQBCNJS6;N3PS>&:K1"4JI6460LA"<B4)R94?U`%Y@F"T;.&K8'R&V*
+M+1LX:M@?(;8H%/@F"T;.&K8'R&V*+1LX:M@?(;8H%/@F"T;.&K8'R&V*+1LX
+M:M@?(;8H%/@F"T;.&K8'R&V*+1LX:M@?(;8H%/D_UF?:W%_"<"T;.&K8'R&V
+M*>/GFD>,4@^@_P`L[.+'T/U/I^E475RY^;ERYRRW^B/Y^P/85<KPXANIIW6)
+M3Y,%7*\.(;J:=UB4^!Y>D.7'R;I$B4#<&C!F]/7TLQ=NLE"B,UJHNG*E"$I_
+M"J?T819RG#64#Y[;"*?`$P6<IPUE`^>VPA9RG#64#Y[;"*?`$P6<IPUE`^>V
+MPA9RG#64#Y[;"*?`$P6<IPUE`^>VPA9RG#64#Y[;"*?`$P6<IPUE`^>VPA9R
+MG#64#Y[;"*?`$P6<IPUE`^>VPA9RG#64#Y[;"*?`&-T3T3QZ0YJ>HI%'N&MF
+=#5R7=U575HNLLA9*ZBV5.<HJC)D43^_X;(`!_]D_
+`
+end
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>3
+<FILENAME>f484892form8k002.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 f484892form8k002.jpg
+M_]C_X``02D9)1@`!`0(`)0`E``#_VP!#``@&!@<&!0@'!P<)"0@*#!0-#`L+
+M#!D2$P\4'1H?'AT:'!P@)"XG("(L(QP<*#<I+#`Q-#0T'R<Y/3@R/"XS-#+_
+MVP!#`0D)"0P+#!@-#1@R(1PA,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C(R
+M,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C+_P``1"`!K`&L#`2(``A$!`Q$!_\0`
+M&``!`0$!`0````````````````@'!0;_Q``U$``!``8%"P,%``,`````````
+M`0(#!`4&!P@8-],1$A=55G6$DZ2SM!1&PQ,A,4%1%5*1_\0`%`$!````````
+M`````````````/_$`!01`0````````````````````#_V@`,`P$``A$#$0`_
+M`-OC<;ATN0=O%HL\>G<6&;]1KF++YN<LA5'V50E*?NE"/L@\?ILH\VAZ)XPQ
+M39=!'>'\AF2`!7^FRCS:'HGC#&FRCS:'HGC#)``%?Z;*/-H>B>,,:;*/-H>B
+M>,,D``5_ILH\VAZ)XPQILH\VAZ)XPR0`!7^FRCS:'HGC#&FRCS:'HGC#)``%
+M?Z;*/-H>B>,,:;*/-H>B>,,D``6O+E(DJS=$6CA`XIZMZ9LDMEE/3M6>11"4
+M(2G*NJA'Y61_T]03!5RO#B&ZFG=8E/@9_39=!'>'\AF3!(EX<L[U=>ZJ4_39
+M=!'>'\AF3!(EX<L[U=>ZJ!;X``````````$_UF?:W%_"4`3_`%F?:W%_"!P*
+MN5X<0W4T[K$I\F"KE>'$-U-.ZQ*?`S^FRZ".\/Y#,F"1+PY9WJZ]U4I^FRZ"
+M.\/Y#,F"1+PY9WJZ]U4"WP``````````)_K,^UN+^$H`G^LS[6XOX0.!5RO#
+MB&ZFG=8E/DP5<KPXANIIW6)3X&?TV701WA_(9DP2)>'+.]77NJE/TV701WA_
+M(9DP2)>'+.]77NJ@6^``````````!/\`69]K<7\)0!/]9GVMQ?P@<"KE>'$-
+MU-.ZQ*?)@JY7AQ#=33NL2GP,_ILN@CO#^0S)@D2\.6=ZNO=5*?ILN@CO#^0S
+M)@D2\.6=ZNO=5`M\``````````"?ZS/M;B_A*`)_K,^UN+^$#@5<KPXANIIW
+M6)3Y,%7*\.(;J:=UB4^!G]-ET$=X?R&9,$B7ARSO5U[JI3]-ET$=X?R&9)D)
+MB3:#1EQBCNJS6;N3PS>&:K1"4JI6460LA"<B4)R94?U`%Y@F"T;.&K8'R&V*
+M+1LX:M@?(;8H%/@F"T;.&K8'R&V*+1LX:M@?(;8H%/@F"T;.&K8'R&V*+1LX
+M:M@?(;8H%/@F"T;.&K8'R&V*+1LX:M@?(;8H%/D_UF?:W%_"<"T;.&K8'R&V
+M*>/GFD>,4@^@_P`L[.+'T/U/I^E475RY^;ERYRRW^B/Y^P/85<KPXANIIW6)
+M3Y,%7*\.(;J:=UB4^!Y>D.7'R;I$B4#<&C!F]/7TLQ=NLE"B,UJHNG*E"$I_
+M"J?T819RG#64#Y[;"*?`$P6<IPUE`^>VPA9RG#64#Y[;"*?`$P6<IPUE`^>V
+MPA9RG#64#Y[;"*?`$P6<IPUE`^>VPA9RG#64#Y[;"*?`$P6<IPUE`^>VPA9R
+MG#64#Y[;"*?`$P6<IPUE`^>VPA9RG#64#Y[;"*?`&-T3T3QZ0YJ>HI%'N&MF
+=#5R7=U575HNLLA9*ZBV5.<HJC)D43^_X;(`!_]D_
+`
+end
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>4
+<FILENAME>f484892form8k004.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 f484892form8k004.jpg
+M_]C_X``02D9)1@`!`0(`)0`E``#_VP!#``@&!@<&!0@'!P<)"0@*#!0-#`L+
+M#!D2$P\4'1H?'AT:'!P@)"XG("(L(QP<*#<I+#`Q-#0T'R<Y/3@R/"XS-#+_
+MVP!#`0D)"0P+#!@-#1@R(1PA,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C(R
+M,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C+_P``1"`!K`&L#`2(``A$!`Q$!_\0`
+M&``!`0$!`0````````````````@'!0;_Q``U$``!``8%"P,%``,`````````
+M`0(#!`4&!P@8-],1$A=55G6$DZ2SM!1&PQ,A,4%1%5*1_\0`%`$!````````
+M`````````````/_$`!01`0````````````````````#_V@`,`P$``A$#$0`_
+M`-OC<;ATN0=O%HL\>G<6&;]1KF++YN<LA5'V50E*?NE"/L@\?ILH\VAZ)XPQ
+M39=!'>'\AF2`!7^FRCS:'HGC#&FRCS:'HGC#)``%?Z;*/-H>B>,,:;*/-H>B
+M>,,D``5_ILH\VAZ)XPQILH\VAZ)XPR0`!7^FRCS:'HGC#&FRCS:'HGC#)``%
+M?Z;*/-H>B>,,:;*/-H>B>,,D``6O+E(DJS=$6CA`XIZMZ9LDMEE/3M6>11"4
+M(2G*NJA'Y61_T]03!5RO#B&ZFG=8E/@9_39=!'>'\AF3!(EX<L[U=>ZJ4_39
+M=!'>'\AF3!(EX<L[U=>ZJ!;X``````````$_UF?:W%_"4`3_`%F?:W%_"!P*
+MN5X<0W4T[K$I\F"KE>'$-U-.ZQ*?`S^FRZ".\/Y#,F"1+PY9WJZ]U4I^FRZ"
+M.\/Y#,F"1+PY9WJZ]U4"WP``````````)_K,^UN+^$H`G^LS[6XOX0.!5RO#
+MB&ZFG=8E/DP5<KPXANIIW6)3X&?TV701WA_(9DP2)>'+.]77NJE/TV701WA_
+M(9DP2)>'+.]77NJ@6^``````````!/\`69]K<7\)0!/]9GVMQ?P@<"KE>'$-
+MU-.ZQ*?)@JY7AQ#=33NL2GP,_ILN@CO#^0S)@D2\.6=ZNO=5*?ILN@CO#^0S
+M)@D2\.6=ZNO=5`M\``````````"?ZS/M;B_A*`)_K,^UN+^$#@5<KPXANIIW
+M6)3Y,%7*\.(;J:=UB4^!G]-ET$=X?R&9,$B7ARSO5U[JI3]-ET$=X?R&9)D)
+MB3:#1EQBCNJS6;N3PS>&:K1"4JI6460LA"<B4)R94?U`%Y@F"T;.&K8'R&V*
+M+1LX:M@?(;8H%/@F"T;.&K8'R&V*+1LX:M@?(;8H%/@F"T;.&K8'R&V*+1LX
+M:M@?(;8H%/@F"T;.&K8'R&V*+1LX:M@?(;8H%/D_UF?:W%_"<"T;.&K8'R&V
+M*>/GFD>,4@^@_P`L[.+'T/U/I^E475RY^;ERYRRW^B/Y^P/85<KPXANIIW6)
+M3Y,%7*\.(;J:=UB4^!Y>D.7'R;I$B4#<&C!F]/7TLQ=NLE"B,UJHNG*E"$I_
+M"J?T819RG#64#Y[;"*?`$P6<IPUE`^>VPA9RG#64#Y[;"*?`$P6<IPUE`^>V
+MPA9RG#64#Y[;"*?`$P6<IPUE`^>VPA9RG#64#Y[;"*?`$P6<IPUE`^>VPA9R
+MG#64#Y[;"*?`$P6<IPUE`^>VPA9RG#64#Y[;"*?`&-T3T3QZ0YJ>HI%'N&MF
+=#5R7=U575HNLLA9*ZBV5.<HJC)D43^_X;(`!_]D_
+`
+end
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>5
+<FILENAME>f484892form8k006.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 f484892form8k006.jpg
+M_]C_X``02D9)1@`!`0(`)0`E``#_VP!#``@&!@<&!0@'!P<)"0@*#!0-#`L+
+M#!D2$P\4'1H?'AT:'!P@)"XG("(L(QP<*#<I+#`Q-#0T'R<Y/3@R/"XS-#+_
+MVP!#`0D)"0P+#!@-#1@R(1PA,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C(R
+M,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C+_P``1"`!K`&L#`2(``A$!`Q$!_\0`
+M&``!`0$!`0````````````````@'!0;_Q``U$``!``8%"P,%``,`````````
+M`0(#!`4&!P@8-],1$A=55G6$DZ2SM!1&PQ,A,4%1%5*1_\0`%`$!````````
+M`````````````/_$`!01`0````````````````````#_V@`,`P$``A$#$0`_
+M`-OC<;ATN0=O%HL\>G<6&;]1KF++YN<LA5'V50E*?NE"/L@\?ILH\VAZ)XPQ
+M39=!'>'\AF2`!7^FRCS:'HGC#&FRCS:'HGC#)``%?Z;*/-H>B>,,:;*/-H>B
+M>,,D``5_ILH\VAZ)XPQILH\VAZ)XPR0`!7^FRCS:'HGC#&FRCS:'HGC#)``%
+M?Z;*/-H>B>,,:;*/-H>B>,,D``6O+E(DJS=$6CA`XIZMZ9LDMEE/3M6>11"4
+M(2G*NJA'Y61_T]03!5RO#B&ZFG=8E/@9_39=!'>'\AF3!(EX<L[U=>ZJ4_39
+M=!'>'\AF3!(EX<L[U=>ZJ!;X``````````$_UF?:W%_"4`3_`%F?:W%_"!P*
+MN5X<0W4T[K$I\F"KE>'$-U-.ZQ*?`S^FRZ".\/Y#,F"1+PY9WJZ]U4I^FRZ"
+M.\/Y#,F"1+PY9WJZ]U4"WP``````````)_K,^UN+^$H`G^LS[6XOX0.!5RO#
+MB&ZFG=8E/DP5<KPXANIIW6)3X&?TV701WA_(9DP2)>'+.]77NJE/TV701WA_
+M(9DP2)>'+.]77NJ@6^``````````!/\`69]K<7\)0!/]9GVMQ?P@<"KE>'$-
+MU-.ZQ*?)@JY7AQ#=33NL2GP,_ILN@CO#^0S)@D2\.6=ZNO=5*?ILN@CO#^0S
+M)@D2\.6=ZNO=5`M\``````````"?ZS/M;B_A*`)_K,^UN+^$#@5<KPXANIIW
+M6)3Y,%7*\.(;J:=UB4^!G]-ET$=X?R&9,$B7ARSO5U[JI3]-ET$=X?R&9)D)
+MB3:#1EQBCNJS6;N3PS>&:K1"4JI6460LA"<B4)R94?U`%Y@F"T;.&K8'R&V*
+M+1LX:M@?(;8H%/@F"T;.&K8'R&V*+1LX:M@?(;8H%/@F"T;.&K8'R&V*+1LX
+M:M@?(;8H%/@F"T;.&K8'R&V*+1LX:M@?(;8H%/D_UF?:W%_"<"T;.&K8'R&V
+M*>/GFD>,4@^@_P`L[.+'T/U/I^E475RY^;ERYRRW^B/Y^P/85<KPXANIIW6)
+M3Y,%7*\.(;J:=UB4^!Y>D.7'R;I$B4#<&C!F]/7TLQ=NLE"B,UJHNG*E"$I_
+M"J?T819RG#64#Y[;"*?`$P6<IPUE`^>VPA9RG#64#Y[;"*?`$P6<IPUE`^>V
+MPA9RG#64#Y[;"*?`$P6<IPUE`^>VPA9RG#64#Y[;"*?`$P6<IPUE`^>VPA9R
+MG#64#Y[;"*?`$P6<IPUE`^>VPA9RG#64#Y[;"*?`&-T3T3QZ0YJ>HI%'N&MF
+=#5R7=U575HNLLA9*ZBV5.<HJC)D43^_X;(`!_]D_
+`
+end
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

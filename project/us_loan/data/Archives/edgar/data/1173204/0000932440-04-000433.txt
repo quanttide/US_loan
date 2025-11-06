@@ -1,0 +1,827 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ K3ZAMinsHteOc/bvkHo3UCzlMCVh4TAbqviO1EDu6ZhMWuKQKTJSUpCEGwdljWEy
+ WwWo7Ju1pzE645slfqkHUA==
+
+<SEC-DOCUMENT>0000932440-04-000433.txt : 20041227
+<SEC-HEADER>0000932440-04-000433.hdr.sgml : 20041224
+<ACCEPTANCE-DATETIME>20041227134646
+ACCESSION NUMBER:		0000932440-04-000433
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	20041223
+ITEM INFORMATION:		Entry into a Material Definitive Agreement
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20041227
+DATE AS OF CHANGE:		20041227
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ACCESS INTEGRATED TECHNOLOGIES INC
+		CENTRAL INDEX KEY:			0001173204
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-BUSINESS SERVICES, NEC [7389]
+		IRS NUMBER:				223720962
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-31810
+		FILM NUMBER:		041226123
+
+	BUSINESS ADDRESS:	
+		STREET 1:		55 MADISON AVE
+		CITY:			MORRISTOWN
+		STATE:			NJ
+		ZIP:			07960
+		BUSINESS PHONE:		973-290-0080
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>access8k_1-01.htm
+<DESCRIPTION>MATERIAL DEFINITIVE AGREEMENT
+<TEXT>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML>
+<HEAD>
+     <!-- Created by EDGAR Ease Plus (EDGAR Ease+) -->
+     <!-- Project:        untitled                                                         -->
+     <!-- Control Number:                                                                  -->
+     <!-- Rev Number:                                                                      -->
+     <!-- Client Name:    AccessIT Integrated Technologies, Inc.                           -->
+     <!-- Project Name:                                                                    -->
+     <!-- Firm Name:      KDW                                                              -->
+     <TITLE>access8k_1-01</TITLE>
+</HEAD>
+<BODY>
+
+
+<!-- MARKER FORMAT-SHEET="Page Rule Double" FSL="Default" -->
+<HR ALIGN=LEFT WIDTH=100% SIZE=4 NOSHADE>
+
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold-TNR" FSL="Workstation" -->
+<H1 ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=3>SECURITIES AND
+EXCHANGE COMMISSION </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold 1-TNR" FSL="Workstation" -->
+<H1 ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Washington, D.C. 20549 </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold-TNR" FSL="Workstation" -->
+<H1 ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>FORM 8-K </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold-TNR" FSL="Workstation" -->
+<H1 ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>CURRENT REPORT <BR>
+PURSUANT TO SECTION 13 OR 15(d) <BR> OF THE SECURITIES EXCHANGE ACT OF 1934 </FONT></H1>
+
+
+<p ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2><B>December 23, 2004</B><BR>
+(Date of earliest event reported) </FONT></p>
+
+<p ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE="3"><B>Access Integrated
+Technologies, Inc. </B><BR> </FONT>
+<FONT FACE="Times New Roman, Times, Serif" SIZE="2">
+(Exact name of registrant as specified in its charter) </FONT> </p>
+<BR>
+
+
+
+
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="600" ALIGN="CENTER">
+<TR VALIGN=Bottom>
+     <TH COLSPAN="3" WIDTH="37%" ALIGN="CENTER"></TH>
+     <TH COLSPAN=3></TH>
+     <TH COLSPAN=3></TH></TR>
+<TR VALIGN=Bottom>
+     <TD WIDTH="37%" ALIGN="CENTER"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">
+<B>Delaware</B> </FONT></TD>
+     <TD WIDTH="1%" ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD WIDTH="2%" ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD WIDTH="29%" ALIGN="CENTER"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>001-31810</B> </FONT></TD>
+     <TD WIDTH="1%" ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD WIDTH="2%" ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD WIDTH="26%" ALIGN="CENTER"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>22-3720962 </B> </FONT></TD>
+     <TD WIDTH="1%" ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD WIDTH="1%" ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN="CENTER" WIDTH="37%"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>
+(State or other jurisdiction</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="CENTER"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>(Commission File Number)</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="CENTER"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>(IRS Employer</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN="CENTER" WIDTH="37%"><FONT FACE="Times New Roman, Times, Serif" SIZE=2> of incorporation)</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2></FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN="CENTER"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Identification Number)</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+</TABLE>
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 ALIGN=Center WIDTH=600>
+<TR VALIGN=Bottom>
+     <TH COLSPAN=2><FONT FACE="Times New Roman, Times, Serif" SIZE=2></FONT></TH>
+     <TH COLSPAN=2><FONT FACE="Times New Roman, Times, Serif" SIZE=2></FONT></TH></TR>
+<TR VALIGN=Bottom>
+     <TD WIDTH=75% ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</FONT></TD>
+     <TD WIDTH=5% ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD WIDTH=18% ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD WIDTH=2% ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>
+<B>55 Madison Avenue, Suite 300, Morristown NJ</B></FONT></TD>
+
+<TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>
+&nbsp;&nbsp;&nbsp;<B>07960</B></FONT>
+</TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>(Address of principal executive offices)</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>(Zip Code)
+</FONT></TD>
+<TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+</TABLE>
+
+
+
+
+<p ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2><B>(973) 290-0080</B><BR>
+(Registrant&#146;s telephone number, including area code)<BR><BR> </FONT>
+</p>
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center-TNR" FSL="Workstation" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>
+
+<B><U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<B><U>     </U></B>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+
+</U></B>
+<BR> (Former name or former address, if changed
+since last report) </FONT>
+<BR>
+<BR>
+
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Check the appropriate box below if
+the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the
+registrant under any of the following provisions: </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Flush Lv 0- TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>
+|_| &nbsp;&nbsp;&nbsp;&nbsp;Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) <BR>
+|_| &nbsp;&nbsp;&nbsp;&nbsp;Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)  <BR>
+|_| &nbsp;&nbsp;&nbsp;&nbsp;Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))<BR>
+|_| &nbsp;&nbsp;&nbsp;&nbsp;Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+ </FONT></P>
+
+
+<!-- MARKER FORMAT-SHEET="Page Rule Double" FSL="Default" -->
+<HR ALIGN=LEFT WIDTH=100% SIZE=4 NOSHADE>
+
+
+<PAGE>
+
+
+
+<!-- MARKER FORMAT-SHEET="Head Major Left Bold-TNR" FSL="Workstation" -->
+<H1 ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Section 1 &#150;
+Registrant&#146;s Business and Operations </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Head Major Left Bold-TNR" FSL="Workstation" -->
+<H1 ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Item 1.01 Entry into a
+Material Definitive Agreement </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Para Indent Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On
+December 23, 2004, ADM Cinema Corporation (the &#147;Company&#148;), a Delaware
+corporation and a wholly-owned subsidiary of Access Integrated Technologies, Inc.
+(&#147;AccessIT&#148;), entered into an Asset Purchase Agreement (the &#147;Purchase
+Agreement&#148;) with Prichard Square Cinema, LLC d/b/a Pavilion Theatre, a New York
+limited liability company (the &#147;Seller&#148;) that owns and operates the Pavilion
+Movie Theatre/Entertainment Complex located in the Park Slope section of Brooklyn, New
+York (the &#147;Pavilion&#148;), and Norman Adie, the sole member of the Seller, pursuant
+to which Purchase Agreement the Company will acquire from the Seller substantially all of
+the assets related to the Pavilion. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Indent Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Under
+the terms of the Purchase Agreement, and as consideration for the sale of substantially
+all of the assets related to the Pavilion, at the closing of the transactions contemplated
+by the Purchase Agreement, the Company will (i) assume certain specified liabilities and
+obligations of the Seller, including the Seller&#146;s lease agreement, as amended, with
+respect to the Theatre, and (ii) pay an aggregate purchase price of $5,000,000, in a
+combination of cash in the amount of $3,300,000 ($500,000 of which will be held in escrow
+account for indemnification claims) and a 5-year promissory note in the amount of
+$1,700,000, among other things. The transaction is subject to customary closing
+conditions. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Indent Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A
+copy of the press release announcing the transaction is attached hereto as Exhibit 99.1
+and is incorporated herein by reference. This press release may also be found on
+AccessIT&#146;s website at <U>www.accessitx.com</U> under &#147;Latest News.&#148; </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Major Left Bold-TNR" FSL="Workstation" -->
+<H1 ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Section 9 &#150;
+Financial Statements and Exhibits </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Head Major Left Bold-TNR" FSL="Workstation" -->
+<H1 ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Item 9.01 Financial
+Statements and Exhibits. </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Flush Lv 0- TNR" FSL="Workstation" -->
+     <P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>(c)&nbsp;&nbsp;&nbsp;&nbsp;
+          Exhibits. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Indent Lv 0-TNR" FSL="Default" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The
+following exhibit is furnished as part of this report: </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Indent Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;99.1
+    Press Release of Access Integrated Technologies, Inc., dated December 23, 2004. </FONT></P>
+
+
+
+
+<!-- MARKER FORMAT-SHEET="Page Number Center" FSL="Workstation" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>2 <PAGE> </FONT></P>
+
+
+
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold-TNR" FSL="Workstation" -->
+<H1 ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>SIGNATURE </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Default" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Pursuant to the requirements of the
+Securities Exchange Act of 1934, the registrant has duly caused this report to be signed
+on its behalf by the undersigned, thereto duly authorized. </FONT></P>
+
+
+
+
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center-TNR" FSL="Default" -->
+<P ALIGN=center><FONT FACE="Times New Roman, Times, Serif" SIZE=2>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+ ACCESS INTEGRATED TECHNOLOGIES, INC.<BR><BR><BR></FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Exhibit Index Hang" FSL="Workstation" -->
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0 BORDER=0>
+<TR VALIGN=TOP>
+<TD WIDTH=20%><FONT FACE="Times New Roman, Times, Serif" SIZE=2></FONT></TD>
+<TD WIDTH=20%><FONT FACE="Times New Roman, Times, Serif" SIZE=2></FONT></TD>
+<TD WIDTH=40%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>
+
+By:<u>/s/  A. Dale Mayo
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;</u>
+<BR>
+
+&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
+Name:  A. Dale Mayo<BR>
+&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
+Title:  President/CEO<BR>
+&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
+<BR><BR>
+Dated: December 27, 2004.</FONT></TD>
+</TR>
+</TABLE>
+
+<!-- MARKER FORMAT-SHEET="Page Number Center" FSL="Workstation" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>3 <PAGE> </FONT></P>
+
+
+
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold-TNR" FSL="Default" -->
+<H1 ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>EXHIBIT INDEX </FONT></H1>
+
+
+<!-- MARKER FORMAT-SHEET="Exhibit Index Hang" FSL="Workstation" -->
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0 BORDER=0>
+<TR VALIGN=TOP>
+<TD WIDTH=3%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>99.1  </FONT></TD>
+<TD WIDTH=3%><FONT FACE="Times New Roman, Times, Serif" SIZE=2></FONT></TD>
+<TD WIDTH=94%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Press
+Release of Access Integrated Technologies, Inc., dated December 23, 2004. </FONT></TD>
+</TR>
+</TABLE>
+<BR>
+
+
+<!-- MARKER FORMAT-SHEET="Page Number Center" FSL="Workstation" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>4 </FONT></P>
+
+
+
+</BODY>
+
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>2
+<FILENAME>access991_1227-04.htm
+<DESCRIPTION>PRESS RELEASE
+<TEXT>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML>
+<HEAD>
+     <!-- Created by EDGAR Ease Plus (EDGAR Ease+) -->
+     <!-- Project:        G:\CCH\EdgarEasePlus\access8k_1227-04.eep                        -->
+     <!-- Control Number:                                                                  -->
+     <!-- Rev Number:                                                                      -->
+     <!-- Client Name:    Access Integrated Technologies, Inc.                             -->
+     <!-- Project Name:                                                                    -->
+     <!-- Firm Name:      KDW                                                              -->
+     <TITLE>access991_1227-04</TITLE>
+</HEAD>
+<BODY>
+
+
+
+<!-- MARKER FORMAT-SHEET="Head Right-TNR" FSL="Workstation" -->
+<P ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2><B>Exhibit 99.1</B> </FONT></P>
+
+
+<IMG SRC="accessimg.jpg" ALIGN="LEFT">
+<BR><BR><BR><BR><BR><BR><BR>
+<!-- MARKER FORMAT-SHEET="Head Left-TNR" FSL="Workstation" -->
+<P ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>FOR IMMEDIATE RELEASE&nbsp; </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold 1-TNR" FSL="Workstation" -->
+<H1 ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Access Integrated
+Technologies to Acquire Pavilion Movie Theater/Entertainment Complex in Brooklyn, New York&nbsp; </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold 1-TNR" FSL="Workstation" -->
+<H1 ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2><B>&#151;Will Serve as
+Both Profit Center and Showcase for New Digital Cinema Technologies &#151;</B> </FONT></H1>
+
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2><B>MORRISTOWN, N.J. &#150; December
+23, 2004 &#150; Access Integrated Technologies, Inc. (&#147;Access<I>IT</I>&#148;) (AMEX:
+AIX)</B> today announced it has signed an agreement to acquire the businesses and assets
+of the Pavilion Movie Theater/Entertainment Complex (the &#147;Pavilion&#148;) in the
+Park Slope section of Brooklyn, New York.&nbsp; The purchase price will include
+approximately $3.3 million in cash and a $1.7 million 5-year note.&nbsp; Closing is
+subject to completion of due diligence and to obtaining financing satisfactory to <B>Access</B><I>IT</I>.  </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Designed for an evening of total
+entertainment, the Pavilion Complex includes the Living Room Caf&eacute;, a full-service
+restaurant, a club, and an eight-screen multiplex.&nbsp; The popular showplace, housed in
+a 1926 art deco building is also undergoing expansion with the addition of a ninth movie
+screen.&nbsp; It now regularly attracts over 500,000 admissions annually from upscale Park
+Slope and the surrounding communities.&nbsp; </FONT></P>
+
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>The Pavilion will become an asset of
+Access Digital Media, the division of <B>Access</B><I>IT</I> and a leading provider of
+state-of-the-art digital film delivery and content management solutions and services,
+employing technologies that are revolutionizing the motion picture exhibition
+industry.&nbsp; Access Digital Media&#146;s &#147;Theater Command Center&#148; software
+application provides in-theater storage and play-back capabilities to digitally-equipped
+movie theaters around the United States.&nbsp; Continuing to operate as a fully functional
+multiplex, the Pavilion will also become a showplace for <B>Access</B><I>IT</I> to
+demonstrate its integrated digital cinema solutions to the movie entertainment industry. </FONT></P>
+
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Default" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&#147;In addition to being one of the
+most complete and attractive single site entertainment centers in Metro New York offering
+first run films, the Pavilion will afford <B>Access</B><I>IT</I> an ideal venue for
+demonstrating to the public, the media, and other exhibitors the company&#146;s complete
+suite of services, software, and satellite or fiber delivery systems.&nbsp; These systems
+were used to deliver nine major movies in the last half of this year.&nbsp; It will be the
+first multiplex installation of our &#145;Theater Command Center&#146; software, which
+allows theater owners to manage and operate all equipment as well as to receive and
+maintain a library of all movies, trailers and advertising showing in a multiplex&#148;
+said Russell Wintner, President and COO of Access Digital Media.&nbsp; Wintner continued,
+&#147;We will also deploy the Vista Point of Sales system, and our Exhibitor Management
+System (EMS) for back-office, booking and accounting, both supported by
+<B>Access</B><I>IT</I>&#146;s Hollywood Software business unit.&#148;</FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Bud Mayo, President and Chief
+Executive Officer of <B>Access</B><I>IT</I> added:&#147;Besides adding another positive
+cash flow generator to our business, we are tremendously excited about obtaining a fully
+operational showcase at the Pavilion for our unique set of full-service digital cinema
+solutions.&nbsp; It&#146;s another major step in our effort to build a company whose
+various components work together synergistically to serve all the needs of the film
+distribution and exhibition communities in the emerging digital era,&#148; he added.</FONT></P>
+
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2><B>Access</B><I>IT&#146;s</I> management
+team is not new to film exhibition.&nbsp; Mr. Mayo founded the Clearview Cinema chain (&#147;Clearview&#148;),
+developing it into a leading, publicly traded, circuit of movie houses in the New York
+tri-state area before it was acquired by Cablevision Systems Corp. (NYSE: CVC) in  </FONT></P>
+
+
+<!-- MARKER FORMAT-SHEET="Page Number Center" FSL="Workstation" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2> <PAGE> </FONT></P>
+
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1998. Other <B>Access<I>IT</I></B>  officers, who later joined Mayo from
+Clearview, are Gary Loffredo, Senior Vice President and General Counsel; Brett Marks,
+Senior Vice President, Development; and Brian Pflug, Senior Vice President, Accounting and
+Finance and Dale Morris, Manager, Human Resources.&nbsp; In addition, Russell Wintner and
+Gerd Jakuszeit an executive of Access Digital Media have extensive experience in movie
+theater operations. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2><B>Access Integrated Technologies,
+Inc. (Access</B><I>IT)</I> is an early mover in offering a fully managed storage and
+delivery service for owners and distributors of digital content to movie theaters and
+other venues.&nbsp; Supported by its robust platform of fail-safe Internet data centers,
+<B>Access</B><I>IT</I> is able to leverage the market-leading role of its Hollywood
+Software subsidiary with the innovative digital delivery capabilities of its Digital Media
+unit to provide the highest level of technology available to service the emerging digital
+cinema industry. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2><B>Safe Harbor Statement</B><BR>Investors and readers are cautioned
+that certain statements contained in this document, as well as some statements in periodic
+press releases and some oral statements of <B>Access</B><I>IT</I> officials during
+presentations about <B>Access</B><I>IT</I>, along with <B>Access</B><I>IT</I>&#146;s
+filings with the Securities and Exchange Commission, including AccessIT &#146;s
+registration statements, quarterly reports on Form 10-QSB and annual report on Form
+10-KSB, are &#147;forward-looking&#148; statements within the meaning of the Private
+Securities Litigation Reform Act of 1995 (the &#147;Act&#148;).&nbsp; Forward-looking
+statements include statements that are predictive in nature, which depend upon or refer to
+future events or conditions, which include words such as &#147;expects&#148;,
+&#147;anticipates&#148;, &#147;intends&#148;, &#147;plans&#148;, &#147;could&#148;,
+&#147;might&#148;, &#147;believes&#148;, &#147;seeks&#148;, &#147;estimates&#148; or
+similar expressions.&nbsp; In addition, any statements concerning future financial
+performance (including future revenues, earnings or growth rates), ongoing business
+strategies or prospects, and possible future actions, which may be provided by
+<B>Access</B><I>IT</I>&#146;s management, are also forward-looking statements as defined
+by the Act.&nbsp; Forward-looking statements are based on current expectations and
+projections about future events and are subject to various risks, uncertainties and
+assumptions about <B>Access<I>IT</I></B>, its technology, economic and market factors and
+the industries in which <B>Access</B><I>IT</I> does business, among other things.&nbsp; These
+statements are not guarantees of future performance and <B>Access</B><I>IT</I>
+undertakes<B> </B>no specific<B> </B>obligation or intention to update these statements
+after the date of this release. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Page Number Center" FSL="Workstation" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>### </FONT></P>
+
+
+
+<!-- MARKER FORMAT-SHEET="Head Left-TNR" FSL="Default" -->
+<P ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Contact:&nbsp; </FONT></P>
+
+<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 WIDTH=600>
+<TR VALIGN=Bottom>
+     <TH COLSPAN=2></TH>
+     <TH COLSPAN=2></TH></TR>
+<TR VALIGN=Bottom>
+     <TD WIDTH=48% ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Suzanne Tregenza</FONT></TD>
+     <TD WIDTH="10%" ALIGN="LEFT"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD WIDTH=45% ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Michael Glickman</FONT></TD>
+     <TD WIDTH=2% ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2><B>Access<I>IT</I></B></FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>The Dilenschneider Group</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>55 Madison Avenue</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>212.922.0900</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Suite 300</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Morristown, NJ&nbsp; 07960</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>973.290.0080</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>www.accessitx.com</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+</TABLE>
+
+<!-- MARKER FORMAT-SHEET="Page Number Center" FSL="Workstation" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>2 </FONT></P>
+
+</BODY>
+
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>3
+<FILENAME>accessimg.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 accessimg.jpg
+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
+E**`"BBB@`HHHH`****`"BBB@`HHHH`****`"BBB@`HHHH`__V3\_
+`
+end
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

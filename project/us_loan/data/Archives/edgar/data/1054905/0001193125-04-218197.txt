@@ -1,0 +1,457 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ N23hB8fQYUCR8yIcxxlh+WOR37V+jzfrwTtgxLAnOPzflFhYKfu40dGWuIzE9SJW
+ UdFYreaaWPKZJiN5r/TmjQ==
+
+<SEC-DOCUMENT>0001193125-04-218197.txt : 20041222
+<SEC-HEADER>0001193125-04-218197.hdr.sgml : 20041222
+<ACCEPTANCE-DATETIME>20041222125403
+ACCESSION NUMBER:		0001193125-04-218197
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	20041221
+ITEM INFORMATION:		Other Events
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20041222
+DATE AS OF CHANGE:		20041222
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			OCTEL CORP
+		CENTRAL INDEX KEY:			0001054905
+		STANDARD INDUSTRIAL CLASSIFICATION:	CHEMICALS & ALLIED PRODUCTS [2800]
+		IRS NUMBER:				981081725
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-13879
+		FILM NUMBER:		041219912
+
+	BUSINESS ADDRESS:	
+		STREET 1:		GLOBAL HOUSE
+		STREET 2:		BAILEY LANE
+		CITY:			MANCHESTER UK
+		STATE:			X0
+		ZIP:			M90 4AA
+		BUSINESS PHONE:		0114415135
+
+	MAIL ADDRESS:	
+		STREET 1:		GLOBAL HOUSE
+		STREET 2:		BAILEY LANE
+		CITY:			MANCHESTER UK
+		STATE:			X0
+		ZIP:			M90 4AA
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>d8k.htm
+<DESCRIPTION>FORM 8-K
+<TEXT>
+<HTML><HEAD>
+<TITLE>Form 8-K</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+<HR SIZE="3" NOSHADE COLOR="#000000" ALIGN="left"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="5"><B>SECURITIES AND EXCHANGE COMMISSION </B></FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="3"><B>Washington D.C. 20549 </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P><HR WIDTH="17%" SIZE="1" NOSHADE
+COLOR="#000000"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="5"><B>FORM 8-K </B></FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P><HR WIDTH="17%" SIZE="1" NOSHADE COLOR="#000000"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"
+ALIGN="center"><FONT FACE="Times New Roman" SIZE="3"><B>CURRENT REPORT </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="3"><B>PURSUANT TO SECTION 13 OR 15(d) OF THE </B></FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="3"><B>SECURITIES EXCHANGE ACT OF 1934 </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>Date of Report (date of earliest event reported): December 21, 2004 </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P><HR WIDTH="17%" SIZE="1" NOSHADE COLOR="#000000"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman"
+SIZE="6"><B>OCTEL CORP. </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(Exact name of registrant as specified in its charter) </B></FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P><HR WIDTH="17%" SIZE="1" NOSHADE COLOR="#000000"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD WIDTH="34%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="32%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="32%"></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>Delaware</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>1-13879</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>98-0181725</B></FONT></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(State or other jurisdictions</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:1px" ALIGN="center"><FONT
+FACE="Times New Roman" SIZE="1"><B>of Incorporation)</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>Commission File Number</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(I.R.S. employer</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:1px" ALIGN="center"><FONT
+FACE="Times New Roman" SIZE="1"><B>identification number)</B></FONT></P></TD></TR>
+<TR>
+<TD HEIGHT="16" COLSPAN="3"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" COLSPAN="3" ALIGN="center"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>Octel Corp., Global House, Bailey Lane,</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:1px"
+ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>Manchester, UK</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>M90 4AA</B></FONT></TD></TR>
+<TR>
+<TD VALIGN="top" COLSPAN="3" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(Address of principal executive offices)</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(zip code)</B></FONT></TD></TR>
+</TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>Registrant&#146;s
+telephone number, including area code: 011 - 44 -161- 498 - 8889 </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P><HR WIDTH="17%" SIZE="1" NOSHADE COLOR="#000000"> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy
+the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below): </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2"></FONT><FONT FACE="WINGDINGS" SIZE="2" COLOR="#000000">&#168;</FONT><FONT FACE="Times New Roman" SIZE="2"></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2"></FONT><FONT FACE="WINGDINGS" SIZE="2" COLOR="#000000">&#168;</FONT><FONT FACE="Times New Roman" SIZE="2"></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2"></FONT><FONT FACE="WINGDINGS" SIZE="2" COLOR="#000000">&#168;</FONT><FONT FACE="Times New Roman" SIZE="2"></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2"></FONT><FONT FACE="WINGDINGS" SIZE="2" COLOR="#000000">&#168;</FONT><FONT FACE="Times New Roman" SIZE="2"></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT
+SIZE="1">&nbsp;</FONT></P><HR SIZE="3" NOSHADE COLOR="#000000" ALIGN="left">
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>Item 8.01 Other Events </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">On December 21, 2004, Octel Corp. entered into an agreement to acquire 100% of the outstanding share capital of Finetex Inc. for a purchase price of
+US$ 20 million. The acquisition is expected to close in January 2005. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>Item
+9.01 Financial Statements and Exhibits </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">(c) Exhibits:
+</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="3%"></TD>
+<TD WIDTH="94%"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">99.1</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">Press Release, dated December 21, 2004, announcing the acquisition of Finetex.</FONT></TD></TR>
+</TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">2 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>SIGNATURE </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the
+undersigned hereunto duly authorized. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P><DIV ALIGN="right">
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="40%" BORDER="0">
+
+<TR>
+<TD WIDTH="7%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="92%"></TD></TR>
+<TR>
+<TD VALIGN="top" COLSPAN="3"><FONT FACE="Times New Roman" SIZE="2"><B>OCTEL CORP.</B></FONT></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2"><B>By:</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">/<SMALL>S</SMALL>/ P<SMALL>AUL</SMALL> W. J<SMALL>ENNINGS</SMALL></FONT></P><HR SIZE="1" NOSHADE COLOR="#000000"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2"><B>Name:</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>Paul W. Jennings</B></FONT></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2"><B>Title:</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>Executive Vice President and Chief Financial Officer</B></FONT></TD></TR>
+</TABLE></DIV> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Date: December 21, 2004
+</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">3 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>EXHIBIT INDEX </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD WIDTH="95%"></TD></TR>
+<TR>
+<TD VALIGN="bottom" ALIGN="center"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>Exhibit</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman"
+SIZE="1"><B>Number</B></FONT></P><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">99.1</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">Press Release, dated December 21, 2004, announcing the acquisition of Finetex</FONT></TD></TR>
+</TABLE>
+</BODY></HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>dex991.htm
+<DESCRIPTION>PRESS RELEASE
+<TEXT>
+<HTML><HEAD>
+<TITLE>Press Release</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2"><B>Exhibit 99.1 </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center">
+
+<IMG SRC="g56147logo.jpg" ALT="LOGO"> </P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD WIDTH="50%"></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD WIDTH="48%"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Contact:</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Heather Ashworth</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="text-indent:8.00em"><FONT FACE="Times New Roman" SIZE="2">Kelly Tapkas/Victoria Hofstad</FONT></P></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Octel Corp. Investor Relations</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="text-indent:8.00em"><FONT FACE="Times New Roman" SIZE="2">Citigate Financial Intelligence</FONT></P></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">011-44-161-498-8889</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="text-indent:8.00em"><FONT FACE="Times New Roman" SIZE="2">1-201-499-3500</FONT></P></TD></TR>
+</TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>Octel Corp. acquires
+Finetex </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>NEWARK, DELAWARE, December 21, 2004 -</B> Octel Corp. (NYSE:
+OTL) today confirmed that it has entered into an agreement with the shareholders of Finetex to acquire the company for a purchase price of US$ 20 million. The acquisition will close in January. </FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Finetex is a privately-held company, headquartered in New Jersey, with manufacturing sites in
+New Jersey and North Carolina. It is a high quality, technology based business supplying specialty surfactants and emollients to the Personal Care, Cosmetics and other industrial markets. The business has a turnover of approximately US $19 million,
+with strong EBITDA margins, and global sales. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Commenting on the acquisition,
+Dennis Kerrison, President and Chief Executive Officer of Octel Corp., said, &#147;Finetex has significant sales in our key target markets of Personal Care and HI&amp;I, with robust customer positions and a manufacturing base that is capable of
+delivering products globally. The technology base is strong and there is a developing pipeline of new products. This acquisition, together with our recent acquisition of Aroma &amp; Fine Chemicals in the UK, now gives us the critical mass we need to
+grow and further develop our Performance Chemicals business on a global basis.&#148; </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:8%"><FONT
+FACE="Times New Roman" SIZE="2">Octel Corp., a Delaware corporation, is a global chemical company specializing in high performance fuel additives and special and effect chemicals. The company&#146;s strategy is to manage profitably and responsibly
+the decline in world demand for its major product &#150; tetraethyl lead (TEL) in gasoline &#150; through competitive differentiation and stringent product stewardship, to expand its Specialty Chemicals business organically through product
+innovation and focus on customer needs, and to seek synergistic growth opportunities through joint venture, alliances, collaborative arrangements and acquisitions. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Certain of the statements made herein constitute forward-looking statements. Generally, the words &#147;believe,&#148; &#147;expect,&#148;
+&#147;intend,&#148; &#147;estimate,&#148; &#147;project,&#148; &#147;will&#148; and similar expressions identify forward looking statements, which generally are not historical in nature. Forward looking statements are subject to certain risks and
+uncertainties, including the risks associated with business plans, the effects of changing economic and competitive conditions and government regulations, that could cause actual results to differ materially from the Company&#146;s historical
+experience and our present expectations or projections. Other factors that could cause actual results to differ from expectations include, without limitation, the timing of orders received from customers, the gain or loss of significant customers,
+competition from other manufacturers and changes in the demand for our products, including the rate of decline in demand for TEL. In addition, increases in the cost of product, changes in the market in general and significant changes in new product
+introduction could cause actual results to vary from expectations. Additional information may be obtained by reviewing the Company&#146;s reports filed from time to time with the SEC. </FONT></P>
+</BODY></HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>3
+<FILENAME>g56147logo.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 g56147logo.jpg
+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
+M%```````V&NWSQUZZ<::<::<::<::<::<::<::<::<::<::<::<::<::<::<
+1::<::<::<::<::<::<::_]D_
+`
+end
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

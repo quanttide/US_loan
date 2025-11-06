@@ -1,0 +1,425 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ VbaRuWLiWlVHozMxVYt1D0pfzM3F7he66M0MuhM5qWQX4r5yJZVJcQsNSpWkzMX9
+ QT/pCe514Se6qqK0hF4Spg==
+
+<SEC-DOCUMENT>0000892251-04-001180.txt : 20041220
+<SEC-HEADER>0000892251-04-001180.hdr.sgml : 20041220
+<ACCEPTANCE-DATETIME>20041220145737
+ACCESSION NUMBER:		0000892251-04-001180
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20041217
+ITEM INFORMATION:		Other Events
+FILED AS OF DATE:		20041220
+DATE AS OF CHANGE:		20041220
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			HEMAGEN DIAGNOSTICS INC
+		CENTRAL INDEX KEY:			0000892822
+		STANDARD INDUSTRIAL CLASSIFICATION:	IN VITRO & IN VIVO DIAGNOSTIC SUBSTANCES [2835]
+		IRS NUMBER:				042869857
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0930
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-11700
+		FILM NUMBER:		041213876
+
+	BUSINESS ADDRESS:	
+		STREET 1:		9033 RED BRANCH ROAD
+		CITY:			COLUMBIA
+		STATE:			MD
+		ZIP:			21045
+		BUSINESS PHONE:		7818903766
+
+	MAIL ADDRESS:	
+		STREET 1:		9033 RED BRANCH ROAD
+		CITY:			COLUMBIA
+		STATE:			MD
+		ZIP:			21045
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>form8k121704.htm
+<DESCRIPTION>FORM 8-K - 12/17/2004
+<TEXT>
+<HTML>
+<HEAD>
+     <!-- Created by EDGAR Ease Plus (EDGAR Ease+) -->
+     <!-- Project:        G:\APPS\EdgarEasePlus\Hemagen\form8k121704.eep                   -->
+     <!-- Control Number: HE5180                                                           -->
+     <!-- Rev Number:                                                                      -->
+     <!-- Client Name:    Hemagen Diagnostics Inc.                                         -->
+     <!-- Project Name:   Form 8-K - 12/17/2004                                            -->
+     <!-- Firm Name:      KMK                                                              -->
+     <TITLE>Form 8-K - 12/17/2004</TITLE>
+</HEAD>
+<BODY>
+
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold-TNR" FSL="Workstation" -->
+<H1 ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>SECURITIES AND
+EXCHANGE COMMISSION <BR>Washington, D.C. 20549 </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold-TNR" FSL="Workstation" -->
+<H1 ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>FORM 8-K </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold-TNR" FSL="Workstation" -->
+<H1 ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>CURRENT REPORT </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Para Indent Lv 0-TNR" FSL="Workstation" -->
+<P ALIGN="Center"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Pursuant
+to Section 13 or 15(d) of the Securities Exchange Act of 1934 </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Large Indent Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Date
+of Report (Date of earliest event reported):
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <B>December 17, 2004</B> </FONT></P>
+<BR><BR>
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center-TNR" FSL="Workstation" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2><U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<B>HEMAGEN DIAGNOSTICS, INC.
+</B> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U><BR>(Exact
+name of registrant as specified in its charter)  </FONT></P>
+
+<BR><BR>
+<TABLE WIDTH="100%" CELLPADDING="0" CELLSPACING="0">
+<TR VALIGN="BOTTOM">
+     <TH ALIGN="CENTER"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><U>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Delaware&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U>
+</FONT></TH>
+     <TH ALIGN="CENTER"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1-11700&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U>
+</FONT></TH>
+     <TH ALIGN="CENTER"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;04-2869857&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U>
+</FONT></TH></TR>
+<TR VALIGN="TOP">
+     <TD WIDTH="34%" ALIGN="CENTER"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">(State or other
+jurisdiction<BR> of incorporation)
+</FONT></TD>
+     <TD WIDTH="33%" ALIGN="CENTER"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">(Commission File No.)
+</FONT></TD>
+     <TD WIDTH="33%" ALIGN="CENTER"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp;&nbsp;(IRS Employer<BR>
+Identification No.)
+</FONT></TD></TR>
+</TABLE>
+<BR><BR>
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center-TNR" FSL="Workstation" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2><U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<B>9033 Red Branch Road,
+Columbia, Maryland   21045</B>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U><BR>(Address
+of principal executive offices) (Zip Code)  </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center-TNR" FSL="Workstation" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2><U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
+<B>(410) 740-3198</B>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U>
+<BR>(Registrant&#146;s
+telephone number, including area code) </FONT></P>
+
+
+<!-- MARKER FORMAT-SHEET="Para Indent Lv 0-TNR" FSL="Default" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Check
+the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the
+filing obligation of the registrant under any of the following provisions (<I>see
+</I>General Instruction A.2. below): </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Hang Lv 1-TNR" FSL="Workstation" -->
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0 BORDER=0>
+<TR VALIGN=TOP>
+<TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>         [&nbsp;] </FONT></TD>
+<TD WIDTH=90%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>
+    Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)</FONT></TD>
+</TR>
+</TABLE>
+<BR>
+
+<!-- MARKER FORMAT-SHEET="Para Hang Lv 1-TNR" FSL="Workstation" -->
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0 BORDER=0>
+<TR VALIGN=TOP>
+<TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>         [&nbsp;] </FONT></TD>
+<TD WIDTH=90%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>
+    Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)</FONT></TD>
+</TR>
+</TABLE>
+<BR>
+
+<!-- MARKER FORMAT-SHEET="Para Hang Lv 1-TNR" FSL="Workstation" -->
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0 BORDER=0>
+<TR VALIGN=TOP>
+<TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>         [&nbsp;] </FONT></TD>
+<TD WIDTH=90%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>
+    Pre-commencement  communications  pursuant  to  Rule  14d-2(b)  under  the  Exchange
+ Act (17 CFR                  240.14d-2(b))</FONT></TD>
+</TR>
+</TABLE>
+<BR>
+
+<!-- MARKER FORMAT-SHEET="Para Hang Lv 1-TNR" FSL="Workstation" -->
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0 BORDER=0>
+<TR VALIGN=TOP>
+<TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>         [&nbsp;] </FONT></TD>
+<TD WIDTH=90%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>
+    Pre-commencement  communications  pursuant  to  Rule  13e-4(c)  under  the  Exchange
+ Act (17 CFR                  240.13e-4(c))</FONT></TD>
+</TR>
+</TABLE>
+<BR>
+
+
+
+<!-- MARKER PAGE="sheet: 1; page: 1" -->
+<HR SIZE=5 COLOR=GRAY NOSHADE>
+
+
+<!-- MARKER FORMAT-SHEET="Head Major Left Bold-TNR" FSL="Workstation" -->
+<H1 ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Item 8.01 &#150; <U>Other Information.</U> </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Para Indent Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On
+December 17, 2004, the Registrant issued a press release announcing the extension
+of the exchange offer
+for its 8% Senior Subordinated Secured Convertible Notes due April 2005.</FONT></P>
+
+
+<!-- MARKER FORMAT-SHEET="Para Indent Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A
+copy of the press release is furnished as Exhibit 99 to this report and is incorporated
+herein by reference.  </FONT></P>
+
+
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold-TNR" FSL="Workstation" -->
+<H1 ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>SIGNATURES </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Para Indent Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pursuant
+to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused
+this report to be signed on its behalf by the undersigned, hereunto duly authorized. </FONT></P>
+<!-- MARKER FORMAT-SHEET="Signature (Single)" FSL="Workstation" -->
+<TABLE WIDTH=100% CELLSPACING=0 CELLPADDING=0 BORDER=0>
+<TR VALIGN=TOP>
+<TD WIDTH=40%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>
+<BR><BR><BR>Dated:  December 20, 2004</FONT></TD>
+<TD WIDTH=10%><FONT FACE="Times New Roman, Times, Serif" SIZE=2></FONT></TD>
+<TD WIDTH=50%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>
+HEMAGEN DIAGNOSTICS, INC.
+<BR><BR>
+<BR>By: /s/Deborah F. Ricci<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Deborah F. Ricci<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chief Financial Officer<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Principal Accounting Officer)</FONT></TD>
+</TR>
+</TABLE>
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>2
+<FILENAME>ex99121704.htm
+<DESCRIPTION>PRESS RELEASE
+<TEXT>
+<HTML>
+<HEAD>
+     <!-- Created by EDGAR Ease Plus (EDGAR Ease+) -->
+     <!-- Project:        G:\APPS\EdgarEasePlus\Hemagen\form8k121704.eep                   -->
+     <!-- Control Number: HE5180                                                           -->
+     <!-- Rev Number:                                                                      -->
+     <!-- Client Name:    Hemagen Diagnostics Inc.                                         -->
+     <!-- Project Name:   Form 8-K - 12/17/2004                                            -->
+     <!-- Firm Name:      KMK                                                              -->
+     <TITLE>Exhibit 99</TITLE>
+</HEAD>
+<BODY>
+
+<!-- MARKER FORMAT-SHEET="Head Sub 1 Left-TNR" FSL="Workstation" -->
+<P ALIGN="Right"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Exhibit
+99</FONT></P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH=100%>
+<TR VALIGN="TOP">
+     <TD WIDTH="50%"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>NEWS BULLETIN</B>
+</FONT></TD>
+     <TD ALIGN="RIGHT" WIDTH="50%"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>HEMAGEN(R)DIAGNOSTICS, INC.</B><BR>
+9033 Red Branch Road, Columbia, MD  21045
+</FONT></TD></TR>
+</TABLE>
+
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2><U>AT THE COMPANY: </U><BR>
+William P. Hales, President &amp; CEO <BR>(443) 367-5500 Tel.<BR>(443) 367-5527 Fax </FONT></P>
+
+<hr>
+
+
+
+
+<TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0">
+<TR VALIGN="BOTTOM">
+     <TH><FONT SIZE="2"></FONT></TH>
+     <TH><FONT SIZE="2"></FONT></TH></TR>
+<TR VALIGN="TOP">
+     <TD WIDTH="50%"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">FOR IMMEDIATE RELEASE <BR>
+December 17, 2004
+</FONT></TD>
+     <TD WIDTH="50%" ALIGN="Right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">OTC: HMGN.OB
+</FONT></TD></TR>
+</TABLE>
+
+
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold-TNR" FSL="Workstation" -->
+<H1 ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2><U>HEMAGEN EXTENDS
+EXCHANGE OFFER FOR 8% SENIOR SUBORDINATED<BR>SECURED CONVERTIBLE
+NOTES DUE APRIL 2005</U>  </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>COLUMBIA, MD &#150; Hemagen
+Diagnostics, Inc., (NASDAQ: HMGN.OB) announced today that it has extended its offer to
+exchange $6,090,000 principal amount of its 8% Senior Subordinated Secured Convertible
+Notes due 2005 (the &#147;Notes&#148;) for common stock and Modified Notes. The exchange
+offer, as previously extended, was scheduled to expire at 12:00 midnight, Eastern Time, on
+December 17, 2004. The new expiration date for the exchange offer is 12:00 midnight,
+Eastern Time, on December 21, 2004, unless further extended or earlier terminated. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>To date, $5,765,000 or 94.7% of the
+principal amount of the Notes have been deposited for exchange. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>This press release is neither an
+offer to purchase nor a solicitation of an offer to sell securities of Hemagen
+Diagnostics, Inc. The exchange offer will be made only through and upon the terms and
+conditions described in Hemagen Diagnostics, Inc&#146;s Offering Memorandum dated
+September&nbsp;2, 2004, as supplemented, and related letter of transmittal. Hemagen has
+filed a Tender Offer Statement on Schedule TO with the Securities and Exchange Commission.
+The Tender Offer Statement (including an offering circular, a related letter of
+transmittal and other offering documents) contains important information that should be
+read carefully before any decision is made with respect to the offer. The Offering
+Memorandum, as supplemented, the related letter of transmittal and certain other documents
+are being sent to all holders of Hemagen, existing Notes, at no expense to them. The
+Tender Offer Statement (including the offering circular, the related letter of transmittal
+and all other documents filed with the Securities and Exchange Commission) are available
+at no charge at the Securities and Exchange Commission website at <U>http://sec.gov</U> or
+from Hemagen at <U>dricci@hemagen.com</U>. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Investors may also contact
+Mr.&nbsp;Hales, at Hemagen Diagnostics, Inc., to obtain information about the exchange
+offer, including copies of the offering circular and related documents. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Default" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Hemagen Diagnostics, Inc., is a
+biotechnology company that develops, manufactures, and markets more than 150 FDA-cleared
+proprietary medical diagnostic test kits used to aid in the diagnosis of certain
+autoimmune and infectious diseases. Hemagen also manufactures and markets a complete line
+of Clinical Chemistry Reagents through its wholly owned subsidiary RAICHEM. In addition,
+Hemagen manufactures and sells the Analyst&reg; an FDA-cleared Clinical Chemistry Analyzer
+used to measure important constituents in human and animal blood, and the Endochek, a
+clinical chemistry analyzer used to measure important constituents in animal blood. In the
+United States, the Company sells its products directly to physicians, veterinarians,
+clinical laboratories and blood banks and on a private-label basis through multinational
+distributors of medical supplies. Internationally, the Company sells its products
+primarily through distributors. The Company sells the Analyst&reg; and the Endochek both
+directly and through distributors servicing physicians&#146; office laboratories and
+veterinarians&#146; offices. Hemagen&#146;s products are used in many of the largest
+Laboratories, Hospitals, and Blood Banks around the world. Hemagen sells its products to
+over 1,000 customers worldwide. The company focuses on markets that offer significant
+growth opportunities. The Company was incorporated in 1985 and became a public company in
+1993. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Page Rule Single" FSL="Default" -->
+     <HR ALIGN=LEFT WIDTH=100% SIZE=1 NOSHADE>
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Except for any historical information
+contained herein, the matters discussed in this press release contain forward-looking
+statements that involve risks and uncertainties, including those described in the
+Company&#146;s Securities and Exchange Commission Reports and Filings. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Certain Statements contained in this
+News Bulletin that are not historical facts constitute forward-looking statements, within
+the meaning of the Private Securities Litigation Reform Act of 1995, and are intended to
+be covered by the safe harbors created by that Act. Reliance should not be placed on
+forward looking statements because they involve unknown risks, uncertainties and other
+factors which may cause actual results, performance or achievements to differ materially
+from those expressed or implied. Forward looking statements may be identified by words
+such as estimates, anticipates, projects, plans, expects, intends, believes, should and
+similar expressions and by the context in which they are used. Such statements are based
+upon current expectations of the Company and speak only as of the date made. The Company
+undertakes no obligation to update any forward-looking statements to reflect events or
+circumstances after the date on which they are made. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Default" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Statements concerning the
+establishments of reserves and adjustments for dated and obsolete products, expected
+financial performance, on-going business strategies and possible future action, which
+Hemagen intends to pursue to achieve strategic objectives, constitute forward-looking
+information. The sufficiency of such reserves and adjustments, expected performance,
+implementation of on-going business strategies and possible future action, the achievement
+of financial performance are each subject to numerous conditions, uncertainties and risk
+factors. Factors which could cause actual performance to differ materially from these
+forward looking statements, include without limitation, management&#146;s analysis of
+Hemagen&#146;s assets, liabilities and operations, the failure to sell date sensitive
+inventory prior to its expiration, the inability of particular products to support
+goodwill allocated to them, competition, new product development by competitors which
+could render particular products obsolete, the inability to develop or acquire and
+successfully introduce new products or improvements of existing product costs and
+difficulties in complying with laws and regulations administered by the U. S. Food and
+Drug Administration and the ability to assimilate successfully product acquisitions. </FONT></P>
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

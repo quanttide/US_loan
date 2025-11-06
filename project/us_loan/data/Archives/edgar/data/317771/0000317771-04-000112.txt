@@ -1,0 +1,465 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ T12HIUXfbBZARlQwTvpIVZeKDIf4WyT6jQkqfI14ycvkxMPoXUxd1KuksmktDl+W
+ 9Oyos2PpjD2J62/AmlukzA==
+
+<SEC-DOCUMENT>0000317771-04-000112.txt : 20041230
+<SEC-HEADER>0000317771-04-000112.hdr.sgml : 20041230
+<ACCEPTANCE-DATETIME>20041230160543
+ACCESSION NUMBER:		0000317771-04-000112
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	20041230
+ITEM INFORMATION:		Completion of Acquisition or Disposition of Assets
+FILED AS OF DATE:		20041230
+DATE AS OF CHANGE:		20041230
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TELLABS INC
+		CENTRAL INDEX KEY:			0000317771
+		STANDARD INDUSTRIAL CLASSIFICATION:	TELEPHONE & TELEGRAPH APPARATUS [3661]
+		IRS NUMBER:				363831568
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-09692
+		FILM NUMBER:		041234171
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE TELLABS CENTER
+		STREET 2:		1415 WEST DIEHL ROAD
+		CITY:			NAPERVILLE
+		STATE:			IL
+		ZIP:			60563
+		BUSINESS PHONE:		630-378-8800
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE TELLABS CENTER
+		STREET 2:		1415 WEST DIEHL ROAD
+		CITY:			NAPERVILLE
+		STATE:			IL
+		ZIP:			60563
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>tlab8k.htm
+<DESCRIPTION>TELLABS 8-K VINCI ACQUISITION
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>TELLABS 8-K VINCI ACQUISITION 12/30/04</TITLE>
+     <!-- Created by EDGAR Ease Plus (EDGAR Ease+) -->
+</HEAD>
+
+<BODY><H1 align=center><FONT face="Times New Roman, Times, Serif" size=2>UNITED STATES<BR>SECURITIES AND EXCHANGE COMMISSION<BR>Washington, D.C. 20549</FONT></H1>
+
+<H1 align=center><FONT face="Times New Roman, Times, Serif" size=3>FORM 8-K</FONT></H1>
+
+<H1 align=center><FONT face="Times New Roman, Times, Serif" size=3>CURRENT REPORT<BR>PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE<BR>ACT OF 1934</FONT></H1>
+
+<TABLE cellSpacing=0 cellPadding=0 align=center>
+<TR vAlign=bottom>
+<TH><FONT size=2></FONT></TH>
+<TH><FONT size=2></FONT></TH></TR>
+<TR vAlign=top>
+<TD align=center width="10%"><FONT face="Times New Roman, Times, Serif" size=3>&nbsp;</FONT></TD>
+<TD align=center width="50%"><FONT face="Times New Roman, Times, Serif" size=3><B>DATE OF REPORT (Date of earliest event reported)</B></FONT></TD>
+<TD align=center width="2%"><FONT face="Times New Roman, Times, Serif" size=3>&nbsp;</FONT></TD>
+<TD align=center width="20%"><FONT face="Times New Roman, Times, Serif" size=3><B>December 30, 2004</B></FONT></TD>
+<TD align=center width="10%"><FONT face="Times New Roman, Times, Serif" size=3>&nbsp;</FONT></TD></TR>
+</TABLE>
+
+
+<P align=center><FONT face="Times New Roman, Times, Serif" size=3><B>TELLABS, INC.</B><BR>(Exact name of registrant as specified in its charter)</FONT></P>
+
+<TABLE cellSpacing=0 cellPadding=0 align=center>
+<TR vAlign=bottom>
+<TH><FONT size=2></FONT></TH>
+<TH><FONT size=2></FONT></TH>
+<TH><FONT size=2></FONT></TH></TR>
+<TR vAlign=top>
+<TD align=center width="20%"><FONT face="Times New Roman, Times, Serif" size=3><B>Delaware</B></FONT></TD>
+<TD align=center width="20%"><FONT face="Times New Roman, Times, Serif" size=3><B>0-9692</B></FONT></TD>
+<TD align=center width="20%"><FONT face="Times New Roman, Times, Serif" size=3><B>36-3831568</B></FONT></TD></TR>
+<TR vAlign=top>
+<TD align=center><FONT face="Times New Roman, Times, Serif" size=3>(State of Incorporation)</FONT></TD>
+<TD align=center><FONT face="Times New Roman, Times, Serif" size=3>(Commission file</FONT></TD>
+<TD align=center><FONT face="Times New Roman, Times, Serif" size=3>(I.R.S. Employer</FONT></TD></TR>
+<TR vAlign=top>
+<TD align=center><FONT face="Times New Roman, Times, Serif" size=3>&nbsp;</FONT></TD>
+<TD align=center><FONT face="Times New Roman, Times, Serif" size=3>number) </FONT></TD>
+<TD align=center><FONT face="Times New Roman, Times, Serif" size=3>Identification No.)</FONT></TD></TR>
+</TABLE>
+
+
+<TABLE cellSpacing=1 cellPadding=1 width="100%" align=center>
+<TR vAlign=bottom>
+<TH><FONT size=2></FONT></TH>
+<TH><FONT size=2></FONT></TH>
+<TH><FONT size=2></FONT></TH></TR>
+<TR vAlign=top align=center>
+<TD width="25%"><FONT face="Times New Roman, Times, Serif" size=3><B>One Tellabs Center, 1415 W.</B></FONT></TD>
+<TD width="5%"><FONT face="Times New Roman, Times, Serif" size=3>&nbsp;</FONT></TD>
+<TD width="25%"><FONT face="Times New Roman, Times, Serif" size=3>&nbsp;</FONT></TD></TR>
+<TR vAlign=top align=center>
+<TD><FONT face="Times New Roman, Times, Serif" size=3><B>Diehl Road, Naperville, Illinois</B></FONT></TD>
+<TD><FONT face="Times New Roman, Times, Serif" size=3><B>&nbsp;</B></FONT></TD>
+<TD><FONT face="Times New Roman, Times, Serif" size=3><B>60563</B></FONT></TD></TR>
+<TR vAlign=top align=center>
+<TD><FONT face="Times New Roman, Times, Serif" size=3>(Address of Principal Executive Offices)</FONT></TD>
+<TD><FONT face="Times New Roman, Times, Serif" size=3>&nbsp;</FONT></TD>
+<TD><FONT face="Times New Roman, Times, Serif" size=3>(Zip Code)</FONT></TD></TR>
+</TABLE>
+
+
+<!-- MARKER FORMAT-SHEET="Para Large Indent" FSL="Default" -->
+<P align=center><FONT face="Times New Roman, Times, Serif" size=3>Registrant&#146;s telephone number, including area code: <B>(630) 798-8800</B> </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold" FSL="Default" -->
+<A name=A001></A>
+<P align=center><FONT face="Times New Roman, Times, Serif" size=3><B>N/A</B><BR>(Former name or former address, if changed since last report) </FONT></P>
+
+
+<P><FONT face="Times New Roman, Times, Serif" size=2>Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:</FONT></P>
+
+
+<P><FONT face="Times New Roman, Times, Serif" size=2>[&nbsp;&nbsp;]&nbsp;&nbsp;Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)</FONT></P>
+
+
+<P><FONT face="Times New Roman, Times, Serif" size=2>[&nbsp;&nbsp;]&nbsp;&nbsp;Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)</FONT></P>
+
+
+<P><FONT face="Times New Roman, Times, Serif" size=2>[&nbsp;&nbsp;]&nbsp;&nbsp;Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))</FONT></P>
+
+
+<P><FONT face="Times New Roman, Times, Serif" size=2>[&nbsp;&nbsp;]&nbsp;&nbsp;Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))</FONT></P>
+
+<!-- MARKER PAGE="sheet: 10; page: 10" -->
+
+<PAGE>
+
+
+<PAGE>
+
+<HR color=gray noShade SIZE=2>
+
+<!-- MARKER FORMAT-SHEET="Head Major Left Bold" FSL="Default" -->
+<A name=A002></A>
+<H1 align=left><FONT face="Times New Roman, Times, Serif" size=3>Item 2.01&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Completion of Acquisition or Disposition of Assets&nbsp;</FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Para Flush" FSL="Default" -->
+
+<P><FONT face="Times New Roman, Times, Serif" size=2>On December 30, 2004, we acquired 100% of Vinci Systems, a
+privately held developer of optical networking terminals (ONTs) for Fiber-to-the-Home (FTTH) access systems.  Under
+the terms of the agreement, we will pay up to $52.5 million in cash and restricted Tellabs stock.</FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Flush" FSL="Default" -->
+
+<H1 align=left><FONT face="Times New Roman, Times, Serif" size=3>Item 9.01&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Financial Statements and Exhibits&nbsp;</FONT></H1>
+
+<P><FONT face="Times New Roman, Times, Serif" size=2>(c) Exhibits.</FONT></P>
+
+<P><FONT face="Times New Roman, Times, Serif" size=2>Exhibit 99.1&nbsp;-&nbsp;Press Release issued by
+Tellabs, Inc. on December 30, 2004.</FONT></P>
+
+<!-- MARKER PAGE="sheet: 11; page: 11" -->
+
+
+
+<HR color=gray noShade SIZE=2>
+
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold" FSL="Default" -->
+<A name=A003></A>
+<H1 align=center><FONT face="Times New Roman, Times, Serif" size=3>SIGNATURE </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Para Flush" FSL="Default" -->
+
+<P><FONT face="Times New Roman, Times, Serif" size=2>Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized. </FONT></P>
+
+<TABLE cellSpacing=1 cellPadding=1 width="65%" align=center>
+<TR vAlign=bottom>
+<TH></TH>
+<TH></TH>
+<TH></TH></TR>
+<TR vAlign=top>
+<TD width="30%"><FONT face="Times New Roman, Times, Serif" size=2>&nbsp;</FONT></TD>
+<TD width="30%"><FONT face="Times New Roman, Times, Serif" size=2>&nbsp;</FONT></TD>
+<TD width="40%"><FONT face="Times New Roman, Times, Serif" size=2><U><B>TELLABS, INC.</B></U></FONT></TD></TR>
+<TR vAlign=top>
+<TD width="30%"><FONT face="Times New Roman, Times, Serif" size=2>&nbsp;</FONT></TD>
+<TD width="30%"><FONT face="Times New Roman, Times, Serif" size=2>&nbsp;</FONT></TD>
+<TD><FONT face="Times New Roman, Times, Serif" size=2>(Registrant)</FONT></TD></TR>
+</TABLE>
+
+<BR>
+<TABLE cellSpacing=1 cellPadding=1 width="65%" align=center>
+<TR vAlign=bottom>
+<TH><FONT size=2></FONT></TH>
+<TH><FONT size=2></FONT></TH>
+<TH><FONT size=2></FONT></TH></TR>
+<TR vAlign=top>
+<TD width="30%"><FONT face="Times New Roman, Times, Serif" size=2>&nbsp;</FONT></TD>
+<TD width="30%"><FONT face="Times New Roman, Times, Serif" size=2>&nbsp;</FONT></TD>
+<TD width="40%"><FONT face="Times New Roman, Times, Serif" size=2><U><B>/s/ James A. Dite</B> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U></FONT></TD></TR>
+<TR vAlign=top>
+<TD width="30%"><FONT face="Times New Roman, Times, Serif" size=2>&nbsp;</FONT></TD>
+<TD width="30%"><FONT face="Times New Roman, Times, Serif" size=2>&nbsp;</FONT></TD>
+<TD><FONT face="Times New Roman, Times, Serif" size=2>James A. Dite</FONT></TD></TR>
+<TR vAlign=top>
+<TD width="30%"><FONT face="Times New Roman, Times, Serif" size=2>&nbsp;</FONT></TD>
+<TD width="30%"><FONT face="Times New Roman, Times, Serif" size=2>&nbsp;</FONT></TD>
+<TD><FONT face="Times New Roman, Times, Serif" size=2>Vice President and Controller</FONT></TD></TR>
+<TR vAlign=top>
+<TD width="30%"><FONT face="Times New Roman, Times, Serif" size=2>&nbsp;</FONT></TD>
+<TD width="30%"><FONT face="Times New Roman, Times, Serif" size=2>&nbsp;</FONT></TD>
+<TD><FONT face="Times New Roman, Times, Serif" size=2>(Principal Accounting Officer and duly authorized officer)</FONT></TD></TR>
+</TABLE>
+
+
+<P align=left><FONT face="Times New Roman, Times, Serif" size=2><U>December 30, 2004</U><BR>(Date)</FONT></P>
+
+<!-- MARKER PAGE="sheet: 12; page: 12" -->
+
+
+<HR color=gray noShade SIZE=2>
+
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold" FSL="Default" -->
+<A name=A004></A>
+<H1 align=center><FONT face="Times New Roman, Times, Serif" size=3>EXHIBIT INDEX </FONT></H1>
+
+<TABLE cellSpacing=1 cellPadding=1 width="70%">
+<TR vAlign=bottom>
+<TH><FONT size=2></FONT></TH>
+<TH><FONT size=2></FONT></TH>
+<TH><FONT size=2></FONT></TH></TR>
+<TR vAlign=top>
+<TD align=center width="20%"><FONT face="Times New Roman, Times, Serif" size=2><U>Exhibit Number</U></FONT></TD>
+<TD width="5%"><FONT face="Times New Roman, Times, Serif" size=2>&nbsp;</FONT></TD>
+<TD align=center width="40%"><FONT face="Times New Roman, Times, Serif" size=2><U>Description</U></FONT></TD></TR>
+<TR vAlign=top>
+<TD align=center><FONT face="Times New Roman, Times, Serif" size=2>99.1</FONT></TD>
+<TD><FONT face="Times New Roman, Times, Serif" size=2>&nbsp;</FONT></TD>
+<TD align=center><FONT face="Times New Roman, Times, Serif" size=2>
+<A href="ex_99.htm">Press Release issued by Tellabs, Inc., on December 30, 2004.</A></FONT></TD></TR>
+</TABLE>
+
+
+
+<PAGE>
+
+<HR color=gray noShade SIZE=2>
+
+</BODY>
+
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>2
+<FILENAME>ex_99.htm
+<DESCRIPTION>PRESS RELEASE ISSUED 12/30/2004
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>EXHIBIT 99.1 VINCI ACQUISITION PRESS RELEASE</TITLE>
+     <!-- Created by EDGAR Ease Plus (EDGAR Ease+) -->
+</HEAD>
+
+<BODY><H1 align=right><FONT face="Times New Roman, Times, Serif" size=4><B>EXHIBIT 99.1</B></FONT></H1>
+
+<P style="MARGIN: 0in 0in 0pt"><FONT face="Times New Roman" size=2><IMG height=45 src="tellabs.gif" width=125></FONT></P>
+
+<H1 align=right><FONT face="Times New Roman, Times, Serif" size=4><B>NEWS RELEASE</B></FONT></H1>
+
+<HR align=right width="60%" SIZE=2>
+
+<TABLE cellSpacing=0 cellPadding=0 width="100%" align=center>
+<TR vAlign=bottom>
+<TH align=left><FONT size=2></FONT></TH>
+<TH><FONT size=2></FONT></TH>
+<TH align=right><FONT size=2></FONT></TH></TR>
+<TR vAlign=top>
+<TD align=left width="25%"><FONT face="Times New Roman, Times, Serif" size=1>One Tellabs Center</FONT></TD>
+<TD width="25%"><FONT face="Times New Roman, Times, Serif" size=3>&nbsp;</FONT></TD>
+<TD align=right width="25%"><FONT face="Times New Roman, Times, Serif" size=3>FOR IMMEDIATE RELEASE</FONT></TD></TR>
+<TR vAlign=top>
+<TD align=left><FONT face="Times New Roman, Times, Serif" size=1>1415 West Diehl Road</FONT></TD>
+<TD><FONT face="Times New Roman, Times, Serif" size=3>&nbsp;</FONT></TD>
+<TD align=right><FONT face="Times New Roman, Times, Serif" size=3>December 30, 2004</FONT></TD></TR>
+<TR vAlign=top>
+<TD align=left><FONT face="Times New Roman, Times, Serif" size=1>Naperville, Illinois 60563 U.S.A.</FONT></TD>
+<TD><FONT face="Times New Roman, Times, Serif" size=3>&nbsp;</FONT></TD>
+<TD align=right><FONT face="Times New Roman, Times, Serif" size=3>&nbsp;</FONT></TD></TR>
+<TR vAlign=top>
+<TD align=left><FONT face="Times New Roman, Times, Serif" size=1>Tel: +1.630.798.8800</FONT></TD>
+<TD><FONT face="Times New Roman, Times, Serif" size=3></FONT>&nbsp;</TD>
+<TD align=right><FONT face="Times New Roman, Times, Serif" size=3></FONT>&nbsp;</TD></TR>
+<TR vAlign=top>
+<TD align=left><FONT face="Times New Roman, Times, Serif" size=1>Fax: +1.630.798.2000</FONT></TD>
+<TD><FONT face="Times New Roman, Times, Serif" size=3>&nbsp;</FONT></TD>
+<TD align=right><FONT face="Times New Roman, Times, Serif" size=3>MEDIA CONTACT:</FONT></TD></TR>
+<TR vAlign=top>
+<TD align=left><FONT face="Times New Roman, Times, Serif" size=1>www.tellabs.com</FONT></TD>
+<TD><FONT face="Times New Roman, Times, Serif" size=3>&nbsp;</FONT></TD>
+<TD align=right><FONT face="Times New Roman, Times, Serif" size=3>Ariana Nikitas</FONT></TD></TR>
+<TR vAlign=top>
+<TD align=left><FONT face="Times New Roman, Times, Serif" size=3>&nbsp;</FONT></TD>
+<TD><FONT face="Times New Roman, Times, Serif" size=3>&nbsp;</FONT></TD>
+<TD align=right><FONT face="Times New Roman, Times, Serif" size=3>+1.630.798.2532</FONT></TD></TR>
+<TR vAlign=top>
+<TD align=left><FONT face="Times New Roman, Times, Serif" size=3>&nbsp;</FONT></TD>
+<TD><FONT face="Times New Roman, Times, Serif" size=3>&nbsp;</FONT></TD>
+<TD align=right><FONT face="Times New Roman, Times, Serif" size=3><U>ariana.nikitas@tellabs.com</U></FONT></TD></TR>
+<TR vAlign=top>
+<TD align=left><FONT face="Times New Roman, Times, Serif" size=3>&nbsp;</FONT></TD>
+<TD><FONT face="Times New Roman, Times, Serif" size=3>&nbsp;</FONT></TD>
+<TD align=right><FONT face="Times New Roman, Times, Serif" size=3>&nbsp;</FONT></TD></TR>
+<TR vAlign=top>
+<TD align=left><FONT face="Times New Roman, Times, Serif" size=3>&nbsp;</FONT></TD>
+<TD><FONT face="Times New Roman, Times, Serif" size=3>&nbsp;</FONT></TD>
+<TD align=right><FONT face="Times New Roman, Times, Serif" size=3>INVESTOR CONTACT:</FONT></TD></TR>
+<TR vAlign=top>
+<TD align=left><FONT face="Times New Roman, Times, Serif" size=3>&nbsp;</FONT></TD>
+<TD><FONT face="Times New Roman, Times, Serif" size=3>&nbsp;</FONT></TD>
+<TD align=right><FONT face="Times New Roman, Times, Serif" size=3>Tom Scottino</FONT></TD></TR>
+<TR vAlign=top>
+<TD align=left><FONT face="Times New Roman, Times, Serif" size=3>&nbsp;</FONT></TD>
+<TD><FONT face="Times New Roman, Times, Serif" size=3>&nbsp;</FONT></TD>
+<TD align=right><FONT face="Times New Roman, Times, Serif" size=3>+1.630.798.3602</FONT></TD></TR>
+<TR vAlign=top>
+<TD align=left><FONT face="Times New Roman, Times, Serif" size=3>&nbsp;</FONT></TD>
+<TD><FONT face="Times New Roman, Times, Serif" size=3>&nbsp;</FONT></TD>
+<TD align=right><FONT face="Times New Roman, Times, Serif" size=3><U>tom.scottino@tellabs.com</U></FONT></TD></TR>
+</TABLE>
+
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center Bold" FSL="Default" -->
+<A name=A001></A>
+<H1 align=center><FONT face="Times New Roman, Times, Serif" size=2>Tellabs acquires Vinci Systems</FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Para Flush" FSL="Default" -->
+
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2><B>Naperville, Ill. &#151;
+</B>Tellabs today acquired Vinci Systems, a privately held developer of optical networking
+terminals (ONTs) for Fiber-to-the-Home (FTTH) access systems. Under the terms of the
+agreement, Tellabs will pay up to $52.5 million in cash and restricted Tellabs stock. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Flush" FSL="Default" -->
+
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>The move brings Tellabs a family of
+third-generation ONTs that complements the Tellabs FiberDirect<SUP>SM</SUP> solution.
+Vinci Systems, a start-up based in Vienna, Va., was founded in 2002 and has demonstrated
+interoperability of its ONT products with the industry&#146;s leading Optical Line
+Terminal (OLT) vendors. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Flush" FSL="Default" -->
+
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&#147;This acquisition further
+illustrates our commitment to expanding into the growing FTTx market,&#148; said Carl
+DeWilde, executive vice president of access products at Tellabs. &#147;Vinci&#146;s ONT
+technology enables us to deliver a more cost-effective fiber access solution.&#148; </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Flush" FSL="Default" -->
+
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2><B>About Tellabs</B><BR>
+Tellabs delivers technology that
+transforms the way the world communicates&#153;. Tellabs experts design, develop, deploy
+and support wireless and wired network solutions. The company&#146;s comprehensive
+broadband portfolio enables carriers in more than 100 countries to succeed in the new
+competitive environment. Tellabs is part of the NASDAQ-100 Index. <U>www.tellabs.com</U>. </FONT></P>
+
+
+<P><FONT face="Times New Roman, Times, Serif" size=1>
+Tellabs<SUP>&#174;</SUP> and <IMG height=15 src="tellabs.gif" width=50><SUP>&#174;</SUP>and Technology that
+Transforms the Way the World Communicates&#153; are trademarks or registered trademarks of Tellabs or its affiliates in the United
+States and/or other countries. Any other company or product names mentioned herein may be trademarks of their
+respective companies. </FONT></P>
+
+</BODY>
+
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>3
+<FILENAME>tellabs.gif
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 tellabs.gif
+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
+@KW[WR]_Y"N"_``ZP@`=,X`(;^,`(3K""%\Q@`0<$`#L_
+`
+end
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

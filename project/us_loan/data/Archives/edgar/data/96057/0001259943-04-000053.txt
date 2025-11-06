@@ -1,0 +1,575 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ IHpKKJUD6V25gxdSgn11FeYzVKiuqknOtXZ5FJzwv/IloGffQDM++F/px/8HhEoy
+ KbE/w1L106ilS+nLZRsLcA==
+
+<SEC-DOCUMENT>0001259943-04-000053.txt : 20041229
+<SEC-HEADER>0001259943-04-000053.hdr.sgml : 20041229
+<ACCEPTANCE-DATETIME>20041228202357
+ACCESSION NUMBER:		0001259943-04-000053
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	20041228
+ITEM INFORMATION:		Other Events
+FILED AS OF DATE:		20041229
+DATE AS OF CHANGE:		20041228
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SYS
+		CENTRAL INDEX KEY:			0000096057
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		IRS NUMBER:				952467354
+		STATE OF INCORPORATION:			CA
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-04169
+		FILM NUMBER:		041229427
+
+	BUSINESS ADDRESS:	
+		STREET 1:		5050 MURPHY CANYON ROAD
+		STREET 2:		SUITE 200
+		CITY:			SAN DIEGO
+		STATE:			CA
+		ZIP:			92123
+		BUSINESS PHONE:		8587155500
+
+	MAIL ADDRESS:	
+		STREET 1:		5050 MURPHY CANYON ROAD
+		STREET 2:		SUITE 200
+		CITY:			SAN DIEGO
+		STATE:			CA
+		ZIP:			92123
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	SYSTEMS ASSOCIATES INC OF CALIFORNIA
+		DATE OF NAME CHANGE:	19850927
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	SYSTEMS ASSOCIATES INC
+		DATE OF NAME CHANGE:	19800115
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>final8k.htm
+<DESCRIPTION>8K
+<TEXT>
+<html>
+
+<head>
+
+
+<title>SECURITIES AND EXCHANGE COMMISSION</title>
+
+
+
+</head>
+
+<body lang=EN-US style='text-justify-trim:punctuation'>
+
+<div class=Section1>
+
+<p class=MsoTitle align="center"><b>UNITED STATES<br>
+SECURITIES AND EXCHANGE COMMISSION<br>
+WASHINGTON, DC 20549</b></p>
+<table border="1" width="100%" style="border-width: 0px">
+	<tr>
+		<td style="border-style: none; border-width: medium">&nbsp;</td>
+		<td style="border-style: none; border-width: medium">
+		<div style="border-bottom-style: solid; border-bottom-width: 1px; padding-left: 4px; padding-right: 4px; padding-top: 1px; padding-bottom: 1px">
+&nbsp;</div>
+		</td>
+		<td style="border-style: none; border-width: medium">&nbsp;</td>
+	</tr>
+</table>
+
+
+
+<p class=MsoNormal align=center style='text-align:center'><b><font size="5">FORM 8-K</font></b></p>
+
+<p class=MsoNormal align=center style='text-align:center'><b>&nbsp;CURRENT REPORT<br>
+Pursuant to Section 13 or
+15(d) of the<br>
+Securities Exchange Act of
+1934&nbsp;<br>
+&nbsp;</b></p>
+<table border="1" width="100%" style="border-width: 0px">
+	<tr>
+		<td style="border-style: none; border-width: medium" width="298">Date of
+		report (Date of earliest event reported)</td>
+		<td style="border-style: none; border-width: medium">
+		<div style="border-bottom-style: solid; border-bottom-width: 1px">
+			December 29, 2004</div>
+		</td>
+	</tr>
+</table>
+<p>&nbsp;</p>
+<table border="1" width="100%" style="border-width: 0px">
+	<tr>
+		<td style="border-style: none; border-width: medium">
+		<div style="border-bottom-style: solid; border-bottom-width: 1px">
+			<p align="center"><b>SYS</b></div>
+		</td>
+	</tr>
+	<tr>
+		<td style="border-top-style: none; border-top-width: medium; border-bottom-style: none; border-bottom-width: medium">
+		<p align="center">(Exact Name of
+Registrant as Specified in Charter)</td>
+	</tr>
+</table>
+<p align="left">&nbsp;</p>
+<table border="1" width="100%" style="border-width: 0px">
+	<tr>
+		<td style="border-left-style: none; border-left-width: medium; border-right-style: none; border-right-width: medium; border-top-style: none; border-top-width: medium; border-bottom-color: #000000; padding-left: 4px; padding-right: 4px">
+		California</td>
+		<td style="border-left-style: none; border-left-width: medium; border-right-style: none; border-right-width: medium; border-top-style: none; border-top-width: medium; border-bottom-color: #000000; padding-left: 4px; padding-right: 4px">
+		000-04169</td>
+		<td style="border-left-style: none; border-left-width: medium; border-top-style: none; border-top-width: medium; border-bottom-color: #000000; padding-left: 4px; padding-right: 4px">
+		95-2467354</td>
+	</tr>
+	<tr>
+		<td style="border-style: none; border-width: medium" height="24">(State
+		or Other Jurisdiction <br>
+		of Incorporation)</td>
+		<td height="24" style="border-style: none; border-width: medium">
+		(Commission <br>
+		File Number)</td>
+		<td height="24" style="border-style: none; border-width: medium">(IRS
+		Employer <br>
+		Identification No.)</td>
+	</tr>
+</table>
+<p align="left">&nbsp;</p>
+<table border="1" width="100%" style="border-width: 0px">
+	<tr>
+		<td style="border-style: none; border-width: medium" colspan="2">
+		<div style="border-bottom-style: solid; border-bottom-width: 1px">
+			<p align="center">5050 Murphy Canyon Road,
+Suite 200, San Diego, CA 92123</div>
+		</td>
+	</tr>
+	<tr>
+		<td style="border-style: none; border-width: medium" height="24">
+		(Address of Principal Executive Offices)</td>
+		<td style="border-style: none; border-width: medium" height="24">(Zip
+		Code)</td>
+	</tr>
+</table>
+
+<p class=MsoNormal align=center style='text-align:center'>&nbsp;</p>
+<table border="1" width="100%" style="border-width: 0px">
+	<tr>
+		<td style="border-style: none; border-width: medium" width="314">Registrant's
+		telephone number, including area code</td>
+		<td style="border-style: none; border-width: medium">
+		<div style="border-bottom-style: solid; border-bottom-width: 1px">
+			(858) 715-5500</div>
+		</td>
+	</tr>
+</table>
+<p align="left">&nbsp;</p>
+<table border="1" width="100%" style="border-width: 0px">
+	<tr>
+		<td style="border-style: none; border-width: medium">
+		<div style="border-bottom-style: solid; border-bottom-width: 1px">
+			<p align="center">(none)</div>
+		</td>
+	</tr>
+	<tr>
+		<td style="border-style: none; border-width: medium" height="24">
+		<p align="center">(Former Name or Former
+Address, if Changed Since Last Report)</td>
+	</tr>
+</table>
+
+<p class=MsoNormal align=center style='text-align:center'>&nbsp;</p>
+
+</div>
+
+<hr color="#000080">
+<br clear=all style='page-break-before:always'>
+
+
+<div class=Section2>
+
+<p class=MsoNormal><b>Item
+8.&nbsp; Other Events.</b></p>
+
+<p class=MsoNormal><b>&nbsp;</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; On
+December 29, 2004, the Company issued a press release related to its listing on
+the American Stock Exchange.&nbsp; The Company is furnishing the press release as
+Exhibit 99 hereto for informational purposes only pursuant to Regulation FD.</p>
+
+
+
+<p class=MsoNormal>Exhibit
+99 - Press release dated December 29, 2004 related to the Company's listing on
+the Exchange.</p>
+
+
+
+
+
+<h1 align="center"><font size="3"><br>
+<br>
+SIGNATURES</font></h1>
+
+
+
+<p class=MsoNormal style='text-indent:.5in'>Pursuant to the requirements of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed
+on its behalf of the undersigned hereunto duly authorized.<br>
+<br>
+&nbsp;</p>
+<table border="1" width="100%" style="border-width: 0px">
+	<tr>
+		<td style="border-style: none; border-width: medium">&nbsp;</td>
+		<td style="border-style: none; border-width: medium" colspan="2" align="center">
+		SYS</td>
+	</tr>
+	<tr>
+		<td style="border-style: none; border-width: medium">&nbsp;</td>
+		<td style="border-style: none; border-width: medium" colspan="2" align="center">
+		(Registrant)</td>
+	</tr>
+	<tr>
+		<td style="border-style: none; border-width: medium">&nbsp;</td>
+		<td style="border-style: none; border-width: medium" colspan="2">&nbsp;</td>
+	</tr>
+	<tr>
+		<td style="border-style: none; border-width: medium">Date: December 29,
+		2004</td>
+		<td style="border-style: none; border-width: medium">
+		<p align="right">By:</td>
+		<td style="border-style: none; border-width: medium">&nbsp;<u>/s/ Edward
+		M. Lake</u></td>
+	</tr>
+	<tr>
+		<td style="border-style: none; border-width: medium">&nbsp;</td>
+		<td style="border-style: none; border-width: medium">&nbsp;</td>
+		<td style="border-style: none; border-width: medium">Edward M. Lake</td>
+	</tr>
+	<tr>
+		<td style="border-style: none; border-width: medium">&nbsp;</td>
+		<td style="border-style: none; border-width: medium">&nbsp;</td>
+		<td style="border-style: none; border-width: medium">Chief Financial Officer</td>
+	</tr>
+</table>
+
+</div>
+
+</body>
+
+</html>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>2
+<FILENAME>final8k_ex99.htm
+<DESCRIPTION>EXHIBIT 99 FOR 8K
+<TEXT>
+<html>
+
+<head>
+
+
+<title> </title>
+
+
+
+</head>
+
+<body lang=EN-US link=blue vlink=purple>
+
+<div class=Section1>
+
+<p class=MsoNormal><img width=84
+height=55 src="sys.gif"></p>
+
+<p class=MsoNormal style='text-align:justify'><b>NEWS ANNOUNCEMENT</b></p>
+<table border="1" width="100%" style="border-width: 0px">
+	<tr>
+		<td style="border-style: none; border-width: medium"><b>SYS Contact:<br>
+		</b>Edward M. Lake<br>
+		Chief Financial Officer<br>
+		|858-715-5500<br>
+		Email: elake@systechnologies.com</td>
+		<td style="border-style: none; border-width: medium">
+  <p class=MsoNormal style='text-align:justify'><b><br>
+	Porter, Le Vay &amp; Rose, Inc.<br>
+	</b>Cheryl Schneider, VP - Investor Relations<br>
+	Jeff Myhre, VP - Editorial<br>
+	212-564-4700</p>
+		<p>&nbsp;</td>
+	</tr>
+</table>
+
+
+
+
+
+<p class=MsoNormal align=right style='margin-left:3.25in;text-align:right;
+text-indent:-3.25in'><b>FOR IMMEDIATE
+RELEASE</b></p>
+
+
+
+
+
+<p class=MsoNormal align=center style='text-align:center;text-autospace:none'><b>SYS TECHNOLOGIES TO TRADE ITS STOCK ON
+AMERICAN STOCK EXCHANGE&nbsp;</b></p>
+
+<p class=MsoNormal align=center style='text-align:center;text-autospace:none'><b>First Day on AMEX Set for January 3, 2005</b></p>
+
+<p class=MsoNormal style='text-align:justify;text-autospace:none'><b>SAN DIEGO, CA - December 29, 2004</b> - SYS Technologies, (OTC BB: SYYS), a provider of engineering, management and information technology
+consulting services and solutions to commercial and U.S. government customers, announced today that its stock will begin trading on the
+American Stock Exchange effective January 3, 2005 under the ticker symbol SYS.</p>
+
+
+
+<p class=MsoNormal style='text-align:justify;text-autospace:none'>Cliff Cooke, president and CEO of SYS
+Technologies, said, &quot;We are very pleased to be able to start 2005 with a
+listing on the American Stock Exchange.&nbsp; We believe that our current and future
+shareholders will benefit from the specialist system in place there, from the
+heightened profile that the listing gives our stock and from the greater
+liquidity we expect from trading on the Amex.&quot;</p>
+
+
+
+<p class=MsoNormal style='text-align:justify;text-autospace:none'>The Company was approved for listing on the American
+Stock Exchange based upon a review by an Exchange Listing Qualifications Panel
+which authorized approval of the listing pursuant to Section 1203(c) of the
+American Stock Exchange Company Guide;
+notwithstanding the fact that the Company does not fully satisfy the Exchange
+regular initial listing standards with respect to Standard 1, i.e., price per
+share requirement. The Panel's decision was based upon its determination that
+the Company satisfies the minimum Alternative Listing Standards and its
+affirmative finding that mitigating factors warrant listing pursuant to the
+Alternative Listing Standards.</p>
+
+
+
+<p class=MsoNormal style='text-align:justify;text-autospace:none'>Specifically, the Panel noted the Company's consistent
+earnings performance, its strong and conservative management, and the fact that
+it significantly exceeded certain of the initial listing standards in Sections
+101 and 1203 (c) of the AMEX Company Guide (e.g., stockholders equity,
+operating history, market value of public float, and pre-tax income).&nbsp; The
+panel was also impressed with the potential for the Company's business.</p>
+
+
+
+<p class=MsoHeading9><b>About SYS</b></p>
+
+
+
+<p class=MsoNormal style='text-align:justify'>SYS
+has provided engineering, technical, financial and management services to
+commercial and U.S. government customers since 1966.&nbsp; It currently has several
+multiple-year management and engineering service contracts with the U.S. Navy
+and General Services Administration.&nbsp; The Company is publicly traded (OTC BB:
+SYYS).&nbsp; SYS Technologies is headquartered in San Diego at 5050 Murphy Canyon
+Road, San Diego, California 92123 and has offices in Oxnard, California and
+Arlington and Chesapeake, Virginia.&nbsp; For additional information, visit the SYS
+Technologies web site at http://www.systechnologies.com.</p>
+
+
+
+<hr color="#000080"><br clear=all
+style='page-break-before:always'>
+
+
+<p class=MsoNormal style='text-align:justify'><i>This press release includes &quot;forward-looking statements&quot; within
+the meaning of section 27A of the Securities Act of 1933, as amended, and
+Section 21E of the Securities Exchange Act of 1934, as amended.&nbsp; All statements
+other than statements of historical fact included in this press release
+regarding the Company's strategies, plans, objectives, expectations, and future
+operating results are forward-looking statements.&nbsp; Although SYS believes that
+the expectations reflected in such forward-looking statements are reasonable at
+this time, it can give no assurance that such expectations will prove to have
+been correct.&nbsp; Actual results could differ materially based upon a number of
+factors including, but not limited to, the state of economy, competition,
+unanticipated business opportunities, availability of financing, market
+acceptance, government regulation, dependence on key personnel, limited public
+market and liquidity, shares eligible for future sale, continuation and renewal
+of contracts and other risks that may apply to the Company including risks that
+are disclosed in the Company's Securities and Exchange Commission filings.</i></p>
+
+<p class=MsoNormal style='text-align:center'><i>#####</i></p>
+
+<p class=MsoNormal style='text-align:justify'><i>&nbsp;</i></p>
+
+
+
+</div>
+
+</body>
+
+</html>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>3
+<FILENAME>sys.gif
+<DESCRIPTION>GRAPHIC FOR EXHIBIT 99 FOR 8K
+<TEXT>
+begin 644 sys.gif
+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
+!.S\_
+`
+end
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

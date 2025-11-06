@@ -1,0 +1,352 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Du3hRsQ6RRj8bXV0z6LCUZhNU7/NaFs11MNKERtPLrpi14R4U1gj8UD44LZHzamS
+ 6xzYjkREUQ4oeHtpS43eYA==
+
+<SEC-DOCUMENT>0001085037-04-001491.txt : 20041222
+<SEC-HEADER>0001085037-04-001491.hdr.sgml : 20041222
+<ACCEPTANCE-DATETIME>20041222133134
+ACCESSION NUMBER:		0001085037-04-001491
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20041221
+ITEM INFORMATION:		Regulation FD Disclosure
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20041222
+DATE AS OF CHANGE:		20041222
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			EDEN ENERGY CORP
+		CENTRAL INDEX KEY:			0001083866
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-BUSINESS SERVICES, NEC [7389]
+		IRS NUMBER:				980199981
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-31503
+		FILM NUMBER:		041220009
+
+	BUSINESS ADDRESS:	
+		STREET 1:		SUITE 620
+		STREET 2:		800 WEST PENDER STREET
+		CITY:			VANCOUVER
+		STATE:			A1
+		ZIP:			V6C 2V6
+		BUSINESS PHONE:		604 685 5851
+
+	MAIL ADDRESS:	
+		STREET 1:		SUITE 620
+		STREET 2:		800 WEST PENDER STREET
+		CITY:			VANCOUVER
+		STATE:			A1
+		ZIP:			V6C 2V6
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	E COM TECHNOLOGIES CORP
+		DATE OF NAME CHANGE:	20000911
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>f8-k122204.htm
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY>
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center Bold-TNR" FSL="Workstation" -->
+<A NAME=A001></A>
+<H1 ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>UNITED STATES
+SECURITIES AND <BR>EXCHANGE COMMISSION <BR>Washington, D.C. 20549 </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center Bold-TNR" FSL="Workstation" -->
+<A NAME=A004></A>
+<H1 ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>FORM 8-K  </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center-TNR" FSL="Workstation" -->
+<A NAME=A005></A>
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2><B>CURRENT REPORT </B><BR>Pursuant
+to Section 13 OR 15(d) of The Securities Exchange Act of 1934  </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center-TNR" FSL="Workstation" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Date of Report (Date of
+earliest event reported) <B>December 21, 2004</B> </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center-TNR" FSL="Workstation" -->
+<A NAME=A006></A>
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2><B>EDEN ENERGY CORP. </B> <BR>(Exact name of
+registrant as specified in its charter) </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Left-TNR" FSL="Workstation" -->
+<A NAME=A008></A>
+<P ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2><B>Nevada</B> <BR>(State or other jurisdiction of
+incorporation) </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Left-TNR" FSL="Workstation" -->
+<A NAME=A009></A>
+<P ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2><B>000-31503</B>  <BR>(Commission File Number) </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Left-TNR" FSL="Workstation" -->
+<A NAME=A011></A>
+<P ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2><B>98-0199981 </B> <BR>(IRS Employer Identification No.) </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Left-TNR" FSL="Workstation" -->
+<P ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2><B>Suite 1925 &#150; 200
+Burrard Street, Vancouver , British Columbia V6C 3L6 Canada </B><BR>(Address of principal
+executive offices and Zip Code)  </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Left-TNR" FSL="Workstation" -->
+<P ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Registrant's telephone
+number, including area code <B>604.693.0179 </B></FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Left-TNR" FSL="Workstation" -->
+<A NAME=A012></A>
+<P ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2><B>N/A </B><BR>(Former name or former address, if
+changed since last report) </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Default" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Check the appropriate box below if
+the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the
+registrant under any of the following provisions: </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>[ &nbsp; ] Written communications pursuant
+to Rule 425 under the Securities Act (17 CFR 230.425) </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>[ &nbsp; ] Soliciting material pursuant to
+Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>[ &nbsp; ] Pre-commencement communications pursuant
+to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>[ &nbsp; ] Pre-commencement communications
+pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Major Left Bold-TNR" FSL="Workstation" -->
+<A NAME=A010></A>
+<H1 ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Item 7.01. Regulation FD
+Disclosure </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>On December 21, 2004, the Registrant
+issued a News Release announcing that it has acquired leases covering 210,000 acres on its
+Noah Project, located in Eureka and White Pine counties in eastern Nevada. The Noah
+project is located in the Cretaceous Sevier thrust belt, which is part of the North
+American Cordillera that extends from Alaska to Mexico. In areas where the thrusting
+coincides with source rock, the Sevier thrust belt contains some of North America&#146;s
+most prolific oil and gas fields. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Major Left Bold-TNR" FSL="Workstation" -->
+
+<H1 ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Item 9.01 Financial
+Statements and Exhibits </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Head Left-TNR" FSL="Workstation" -->
+
+<P ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>99.1 News Release dated
+December 21, 2004 </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold-TNR" FSL="Workstation" -->
+<A NAME=A013></A>
+<H1 ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>SIGNATURES </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Pursuant to the requirements of the
+Securities Exchange Act of 1934, the registrant has duly caused this report to be signed
+on its behalf by the undersigned hereunto duly authorized. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Major Left Bold-TNR" FSL="Workstation" -->
+<A NAME=A014></A>
+<H1 ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>EDEN ENERGY CORP. </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Head Left-TNR" FSL="Workstation" -->
+<A NAME=A015></A>
+<P ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>/s/ Donald Sharpe<BR>Donald
+Sharpe, President<BR>Date: December 22, 2004 </FONT></P>
+
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>2
+<FILENAME>ex99-1f8k122204.htm
+<DESCRIPTION>EXHIBIT 99.1 - NEWS RELEASE
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY>
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold-TNR" FSL="Workstation" -->
+<A NAME=A001></A>
+<H1 ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>EDEN ENERGY CORPORATION <BR>200 Burrard Street,
+Suite 1925 <BR>Vancouver, BC V6C 3L6<BR>Phone (604) 693-0179
+Fax (604) 638-3525 <BR>info@edenenergycorp.com </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold-TNR" FSL="Workstation" -->
+<A NAME=A006></A>
+<H1 ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>PRESS RELEASE </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold-TNR" FSL="Workstation" -->
+<A NAME=A007></A>
+<H1 ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Eden Energy
+Corporation Acquires 210,000 Acres at its Noah Project, Eureka and White Pine Counties,
+Nevada </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Vancouver, British Columbia, Dec 21,
+2004 &#150; Eden Energy Corporation (EDNE) is pleased to announce that it has acquired
+leases covering 210,000 acres on its Noah Project, located in Eureka and White Pine
+counties in eastern Nevada. The Noah project is located in the Cretaceous Sevier thrust
+belt, which is part of the North American Cordillera that extends from Alaska to Mexico.
+In areas where the thrusting coincides with source rock, the Sevier thrust belt contains
+some of North America&#146;s most prolific oil and gas fields. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Major Left Bold-TNR" FSL="Workstation" -->
+<A NAME=A008></A>
+<H1 ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Background: </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>The commencement of the Noah project
+is the culmination of work done by Dr. Alan Chamberlain in a multi-decade analysis of a
+$200 million stratigraphic data set. The analysis involved extensive field work, a novel
+use of gamma ray logging of outcrop, fossil studies of drill core and outcrop, and
+extensive structural modeling. Dr. Chamberlain&#146;s work has identified an area in
+eastern Nevada with world-class source rocks and large rollover structures and thrust
+fault duplexes. Throughout the world, thrust belt structures are responsible for roughly
+one quarter of the world&#146;s proven oil reserves, including the Canadian Foothills,
+Wyoming, Iran, Iraq and Alaska&#146;s North Slope. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Major Left Bold-TNR" FSL="Workstation" -->
+<A NAME=A009></A>
+<H1 ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Geology: </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>The Noah project is a linear,
+undrilled anticline composed of folded Paleozoic rocks, approximately 53 miles long and 7
+miles wide. The anticline has been identified by surface geology, gravity and magnetic
+surveys and seismic, and has been confirmed by offsetting drilling in down dip positions. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>The targeted reservoir is a
+well-established 200-400 foot thick band of karsted Devonian dolomite, which is the
+producing formation in the prolific Grant Canyon field 60 miles to the south of the Noah
+project. Secondary potential exists in the fractured Lower Devonian Sevy dolomite, which
+produces in the Blackburn field 15 miles to the north of the Noah project. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Default" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>The source rock at the Noah project
+is the Mississippian Chainman shale, an exceptionally rich source rock with total organic
+content of 2%-8% and thousands of feet of thickness. All oil produced in Nevada has been
+typed to the Chainman shale facies. </FONT></P>
+
+
+<HR SIZE=2 NOSHADE>
+<P ALIGN=CENTER>  2</P>
+
+
+
+<!-- MARKER FORMAT-SHEET="Head Major Left Bold-TNR" FSL="Workstation" -->
+<A NAME=A010></A>
+<H1 ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Acreage: </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Eden Energy has accumulated oil and
+gas leases totaling over 210,000 acres in the Noah Project, which virtually covers the
+anticline. The leases are 10-year BLM leases. Eden Energy has 100% working interest in all
+its leases. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Major Left Bold-TNR" FSL="Workstation" -->
+<A NAME=A011></A>
+<H1 ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Financing: </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>On November 15, 2004 Eden closed an
+equity financing totaling $3.105 million at $0.50 per share. The funds are to be used for
+the continued exploration of the Noah anticline, including proprietary gravity surveys,
+field mapping, new and third party seismic acquisition and working capital. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>The shares issued in the private
+placement have not been registered under the Securities Act of 1933, as amended, and may
+not be offered or sold in the United States absent registration or an applicable exemption
+from registration requirements of the Securities Act of 1933. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Eden expects to expend approximately
+$1.5- 2.0 million over the next 12 months to bring the Noah project to the drillable
+stage. Eden currently has approximately $2.5 million in cash. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Major Left Bold-TNR" FSL="Workstation" -->
+<A NAME=A012></A>
+<H1 ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>General: </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Eden Energy Corporation focuses on
+large scale exploration projects with significant resource potential. Its 210,000 acre
+Noah project in eastern Nevada contains exceptionally rich source rocks, large thrusted
+rollover structures, and an excellent potential reservoir rock. The area is similar to
+thrust belts and basins throughout the world which contain approximately one quarter of
+the world&#146;s proven reserves of oil and gas. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>For more information regarding the
+company and the Noah project, please contact the company at 1 866 693-1100 or email:
+info@edenenergycorp.com </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Major Left Bold-TNR" FSL="Workstation" -->
+<A NAME=A013></A>
+<H1 ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Notice Regarding Forward
+Looking Statements </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=1>This news release contains
+&#147;forward-looking statements&#148;, as that term is defined in Section 27A of the
+United States Securities Act of 1933 and Section 21E of the Securities Exchange Act of
+1934. Statements in this press release, which are not purely historical, are
+forward-looking statements and include any statements regarding beliefs, plans,
+expectations or intentions regarding the future. Such forward-looking statements include,
+among other things, the prospective nature of the Noah Project and its geology as
+described above, and our efforts to prepare the Noah Project for a drilling program. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Default" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=1>Actual results could differ from
+those projected in any forward-looking statements due to numerous factors. Such factors
+include, among others, the inherent uncertainties associated with oil and gas exploration;
+changes in reserve estimates if any; the potential productivity of our properties; changes
+in the operating costs and changes in economic conditions and conditions in oil and gas
+exploration. These forward-looking statements are made as of the date of this news
+release, and we assume no obligation to update the forward-looking statements, or to
+update the reasons why actual results could differ from those projected in the
+forward-looking statements. Although we believe that the beliefs, plans, expectations and
+intentions contained in this press release are reasonable, there can be no assurance those
+beliefs, plans, expectations or intentions will prove to be accurate. Investors should
+consult all of the information set forth herein and should also refer to the risk factors
+disclosure outlined in our annual report on Form 10-KSB for the 2003 fiscal year, our
+quarterly reports on Form 10-QSB and other periodic reports filed from time-to-time with
+the Securities and Exchange Commission. </FONT></P>
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

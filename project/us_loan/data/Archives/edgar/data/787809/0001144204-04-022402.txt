@@ -1,0 +1,763 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ V1Dg3sfV4JS88/HuXOvyxTSfCycaNX9zm1+dl8nnutvSOAjF/u+8V4KMvzElJmoh
+ 7qHpiifJT9CqizKp6OuBzg==
+
+<SEC-DOCUMENT>0001144204-04-022402.txt : 20041222
+<SEC-HEADER>0001144204-04-022402.hdr.sgml : 20041222
+<ACCEPTANCE-DATETIME>20041222111155
+ACCESSION NUMBER:		0001144204-04-022402
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20041220
+ITEM INFORMATION:		Results of Operations and Financial Condition
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20041222
+DATE AS OF CHANGE:		20041222
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			MIKRON INFRARED INC
+		CENTRAL INDEX KEY:			0000787809
+		STANDARD INDUSTRIAL CLASSIFICATION:	INDUSTRIAL INSTRUMENTS FOR MEASUREMENT, DISPLAY, AND CONTROL [3823]
+		IRS NUMBER:				221895668
+		STATE OF INCORPORATION:			NJ
+		FISCAL YEAR END:			1031
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-15486
+		FILM NUMBER:		041219473
+
+	BUSINESS ADDRESS:	
+		STREET 1:		16 THORNTON ROAD
+		CITY:			OAKLAND
+		STATE:			NJ
+		ZIP:			07436
+		BUSINESS PHONE:		2014050900
+
+	MAIL ADDRESS:	
+		STREET 1:		16 THORNTON ROAD
+		CITY:			OAKLAND
+		STATE:			NJ
+		ZIP:			07436
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	MIKRON INSTRUMENT CO INC
+		DATE OF NAME CHANGE:	19920703
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>v010254_8k.htm
+<TEXT>
+<HTML><HEAD>
+<TITLE>
+</TITLE>
+</HEAD>
+<BODY id=38><BR>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=center><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><STRONG>U.S. SECURITIES AND EXCHANGE COMMISSION</STRONG></FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=center><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><STRONG>Washington, D.C. 20549</STRONG></FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=justify>&nbsp;</DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=center><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><STRONG>FORM 8-K</STRONG></FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=justify>&nbsp;</DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=center><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><STRONG>CURRENT REPORT</STRONG></FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=justify>&nbsp;</DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=justify><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Date of Report: </FONT><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><STRONG>December 20, 2004</STRONG></FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=justify>&nbsp;</DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=center><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><STRONG>MIKRON INFRARED, INC.</STRONG></FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=center><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">(Exact name of registrant as specified in its charter)</FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=justify>&nbsp;</DIV>
+<TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+<TR>
+<TD vAlign=top align=middle width="27%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=center><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><STRONG>New Jersey</STRONG></FONT></DIV></TD>
+<TD vAlign=top align=middle width="26%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=center><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><STRONG>0-15486</STRONG></FONT></DIV></TD>
+<TD vAlign=top align=middle width="27%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=center><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><STRONG>22-1895668</STRONG></FONT></DIV></TD></TR>
+<TR>
+<TD vAlign=top align=middle width="27%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=center><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><STRONG>(State or other jurisdiction of</STRONG></FONT></DIV></TD>
+<TD vAlign=top align=middle width="26%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=center><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><STRONG>(Commission File</STRONG></FONT></DIV></TD>
+<TD vAlign=top align=middle width="27%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=center><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><STRONG>(IRS Employer</STRONG></FONT></DIV></TD></TR>
+<TR>
+<TD vAlign=top align=middle width="27%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=center><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><STRONG>incorporation)</STRONG></FONT></DIV></TD>
+<TD vAlign=top align=middle width="26%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=center><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><STRONG>Number)</STRONG></FONT></DIV></TD>
+<TD vAlign=top align=middle width="27%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=center><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><STRONG>Identification No.)</STRONG></FONT></DIV></TD></TR></TABLE>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=center><BR></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=center><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><STRONG>16 Thornton Road, Oakland, New Jersey 07436</STRONG></FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=center><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">(Address and Zip Code of Principal Executive Offices)</FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=justify>&nbsp;</DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=center><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><STRONG>(201) 405-0900</STRONG></FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=center><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">(Registrant&#146;s Telephone Number)</FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=justify>&nbsp;</DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):</FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=justify>&nbsp;</DIV>
+<TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+<TR>
+<TD vAlign=top width="6%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=justify><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><FONT face=Wingdings>o</FONT></FONT></DIV></TD>
+<TD vAlign=top width="75%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=justify><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)</FONT></DIV></TD></TR>
+<TR>
+<TD vAlign=top width="6%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=justify><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=justify><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><FONT face=Wingdings>o</FONT></FONT></DIV></FONT></DIV></TD>
+<TD vAlign=top width="75%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=justify><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)</FONT></DIV></TD></TR>
+<TR>
+<TD vAlign=top width="6%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=justify><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=justify><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><FONT face=Wingdings>o</FONT></FONT></DIV></FONT></DIV></TD>
+<TD vAlign=top width="75%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=justify><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))</FONT></DIV></TD></TR>
+<TR>
+<TD vAlign=top width="6%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=justify><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=justify><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><FONT face=Wingdings>o</FONT></FONT></DIV></FONT></DIV></TD>
+<TD vAlign=top width="75%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=justify><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))</FONT></DIV></TD></TR></TABLE>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=justify><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"></FONT>&nbsp;</DIV><BR>
+<TABLE id=PGBRK cellSpacing=0 cellPadding=0 width="100%" align=center border=0>
+<TR vAlign=top>
+<TD width="100%" colSpan=3>&nbsp;&nbsp;</TD></TR>
+<TR>
+<TD align=left width="33%"><FONT size=1>&nbsp;</FONT></TD>
+<TD align=middle width="34%"><FONT size=1>&nbsp;</FONT></TD>
+<TD align=right width="33%"><FONT size=1>&nbsp;</FONT></TD></TR>
+<TR vAlign=top>
+<TD width="100%" colSpan=3><FONT size=1>
+<HR style="PAGE-BREAK-AFTER: always" color=#000000 noShade SIZE=2>
+</FONT></TD></TR></TABLE>
+<TABLE id=HDR cellSpacing=0 cellPadding=0 width="100%" align=center border=0>
+<TR>
+<TD vAlign=bottom width="100%">&nbsp;</TD></TR></TABLE><BR>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=justify></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=justify><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; COLOR: #000000; FONT-FAMILY: Times New Roman"><STRONG>Item 2.02</STRONG></FONT><FONT id=TAB2 style="COLOR: black; LETTER-SPACING: 9pt">&nbsp; &nbsp;</FONT>&nbsp;<FONT style="DISPLAY: inline; FONT-SIZE: 10pt; COLOR: #000000; FONT-FAMILY: Times New Roman"><STRONG>Results of Operations and Financial Condition. </STRONG></FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=justify><BR></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=justify><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">On December 20, 2004, the Registrant issued a press release announcing its earnings for its fiscal year and fourth quarter ended October 31, 2004. Such press release is furnished herewith as Exhibit 99.1.</FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=justify>&nbsp;</DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=justify><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><STRONG>Item 9.01</STRONG></FONT><FONT id=TAB2 style="COLOR: black; LETTER-SPACING: 9pt">&nbsp; &nbsp;</FONT>&nbsp;<FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><STRONG>Financial Statements and Exhibits</STRONG></FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=justify>&nbsp;</DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">The following financial statements, pro forma financial information and exhibits have been filed as part of this Report:</FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=justify>&nbsp;</DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 18pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=justify><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">(a)</FONT><FONT id=TAB2 style="COLOR: black; LETTER-SPACING: 9pt">&nbsp; &nbsp;</FONT>&nbsp;<FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Financial statements of businesses acquired &#151; none</FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=justify>&nbsp;</DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 18pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=justify><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">(b)</FONT><FONT id=TAB2 style="COLOR: black; LETTER-SPACING: 9pt">&nbsp; &nbsp;</FONT>&nbsp;<FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Pro forma financial information &#151; none</FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=justify>&nbsp;</DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 18pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=justify><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">(c)</FONT><FONT id=TAB2 style="COLOR: black; LETTER-SPACING: 9pt">&nbsp; &nbsp;</FONT>&nbsp;<FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Exhibits</FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=justify>&nbsp;</DIV>
+<TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+<TR>
+<TD style="BORDER-BOTTOM: medium none" vAlign=top align=left width="13%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=center><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><U>Number</U></FONT></DIV></TD>
+<TD style="BORDER-BOTTOM: medium none" vAlign=top align=left width="71%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><U>Description</U></FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><U><FONT size=2></FONT></U>&nbsp;</DIV></TD></TR>
+<TR>
+<TD style="BORDER-BOTTOM: medium none" vAlign=top align=left width="13%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=center><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">99.1</FONT></DIV></TD>
+<TD style="BORDER-BOTTOM: medium none" vAlign=top align=left width="71%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Press release of Mikron Infrared, Inc. announcing its earnings for its fiscal year and fourth quarter ended October 31, 2004.</FONT></DIV></TD></TR></TABLE>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; COLOR: #000000; FONT-FAMILY: Times New Roman"></FONT>&nbsp;</DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=justify><BR></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=justify><BR></DIV><BR>
+<TABLE id=PGBRK cellSpacing=0 cellPadding=0 width="100%" align=center border=0>
+<TR vAlign=top>
+<TD width="100%" colSpan=3>&nbsp;&nbsp;</TD></TR>
+<TR>
+<TD align=left width="33%"><FONT size=1>&nbsp;</FONT></TD>
+<TD align=middle width="34%"><FONT size=1>&nbsp;</FONT></TD>
+<TD align=right width="33%"><FONT size=1>&nbsp;</FONT></TD></TR>
+<TR vAlign=top>
+<TD width="100%" colSpan=3><FONT size=1>
+<HR style="PAGE-BREAK-AFTER: always" color=#000000 noShade SIZE=2>
+</FONT></TD></TR></TABLE>
+<TABLE id=HDR cellSpacing=0 cellPadding=0 width="100%" align=center border=0>
+<TR>
+<TD vAlign=bottom width="100%">&nbsp;</TD></TR></TABLE><BR>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=center><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><STRONG>Signature</STRONG></FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=justify>&nbsp;</DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 36pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Pursuant to the requirements of the Exchange Act, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.</FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 36pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left>&nbsp;</DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=justify>
+<TABLE cellSpacing=0 cellPadding=0 width="100%" align=center bgColor=#ffffff border=0>
+<TR vAlign=top bgColor=#ffffff>
+<TD width="50%"><FONT face="Times New Roman" size=2>&nbsp;</FONT></TD>
+<TD width="1%"><FONT face="Times New Roman" size=2>&nbsp;</FONT></TD>
+<TD width="49%"><FONT face="Times New Roman" size=2>&nbsp;</FONT></TD></TR>
+<TR vAlign=top bgColor=#ffffff>
+<TD><FONT face="Times New Roman" size=2>&nbsp;</FONT></TD>
+<TD colSpan=2><FONT face="Times New Roman" size=2>Mikron Infrared, Inc.</FONT></TD></TR>
+<TR vAlign=top bgColor=#ffffff>
+<TD><FONT face="Times New Roman" size=2>&nbsp;<BR>&nbsp;</FONT></TD>
+<TD><FONT face="Times New Roman" size=2>&nbsp;<BR>&nbsp;</FONT></TD>
+<TD><FONT face="Times New Roman" size=2>&nbsp;<BR>&nbsp;</FONT></TD></TR>
+<TR vAlign=top bgColor=#ffffff>
+<TD><FONT face="Times New Roman" size=2>Dated: December 22, 2004</FONT></TD>
+<TD><FONT face="Times New Roman" size=2>By:&nbsp;&nbsp;</FONT></TD>
+<TD><FONT face="Times New Roman" size=2>/s/ Paul A. Kohmescher</FONT></TD></TR>
+<TR vAlign=top bgColor=#ffffff>
+<TD colSpan=2><FONT face="Times New Roman" size=1>&nbsp;</FONT></TD>
+<TD align=left>
+<HR align=left width="80%" color=#000000 noShade SIZE=2>
+
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=justify><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Paul A. Kohmescher, Vice President</FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=justify><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">and Chief (Principal) Financial Officer</FONT></DIV></TD></TR>
+<TR vAlign=top bgColor=#ffffff>
+<TD colSpan=2><FONT face="Times New Roman" size=2>&nbsp;</FONT></TD>
+<TD><FONT face="Times New Roman" size=2></FONT></TD></TR></TABLE></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 216pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=justify><BR>&nbsp;</DIV>
+<DIV><BR>
+<TABLE id=PGBRK cellSpacing=0 cellPadding=0 width="100%" align=center border=0>
+<TR vAlign=top>
+<TD width="100%" colSpan=3>&nbsp;</TD></TR>
+<TR>
+<TD align=left width="33%"><FONT size=1>&nbsp;</FONT></TD>
+<TD align=middle width="34%"><FONT size=1>&nbsp;</FONT></TD>
+<TD align=right width="33%"><FONT size=1>&nbsp;</FONT></TD></TR>
+<TR vAlign=top>
+<TD width="100%" colSpan=3><FONT size=1>
+<HR color=#000000 noShade SIZE=2>
+</FONT></TD></TR></TABLE>
+<TABLE id=HDR cellSpacing=0 cellPadding=0 width="100%" align=center border=0>
+<TR>
+<TD vAlign=bottom width="100%">&nbsp;</TD></TR></TABLE><BR></DIV>
+<DIV>&nbsp;</DIV></BODY></HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>v010254_ex99-1.htm
+<TEXT>
+<HTML><HEAD>
+<TITLE>
+</TITLE>
+</HEAD>
+<BODY id=38><DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=right><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Exhibit No. 99.1</FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=justify>&nbsp;</DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=center><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><STRONG>Mikron Infrared, Inc Reports Results for Fiscal Year 2004</STRONG></FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=center><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><STRONG>Mikron Posts Record Annual Sales and Operating Profits</STRONG></FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=center><BR></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=justify><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Mikron Infrared, Inc. (NASD:MIKR) announced its financial results for its fiscal year ended October 31, 2004. </FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=justify>&nbsp;</DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=justify><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Mikron's fiscal year and fourth fiscal quarter sales and operating income were records for the company. Sales for fiscal 2004 were 13% higher than fiscal 2003 sales ($26,017,127 and $23,075,094 respectively) and fiscal 2004 fourth quarter sales were 18% higher than the same quarter of fiscal 2003 ($7,312,705 and $6,194,353 respectively). </FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=justify>&nbsp;</DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=justify><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Gross profit percentage was 52.6% in fiscal 2004 compared to 49.9% in fiscal 2003 due primarily to a more favorable product mix. </FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=justify>&nbsp;</DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=justify><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Fiscal 2004 operating income was 57% higher than fiscal 2003's operating income ($3,125,215 and $1,985,552 respectively). Fiscal 2004 fourth quarter operating income was 238% higher than the same quarter of fiscal 2003 ($1,081,976 and $319,703 respectively). Basic earnings per share were $0.34 for fiscal 2004 compared to $0.20 for fiscal 2003. Fully diluted earnings per share were $0.33 for the fiscal 2004 compared to $0.19 for fiscal 2003. </FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=justify>&nbsp;</DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=justify><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Gerry Posner, Mikron's President, commented that: "FY 2004 was another benchmark year for Mikron. Both sales and profit results reflected the investment we have been making in strengthening distribution channels and in new products. One of the most gratifying aspects of Mikron's performance during FY2004 was the improvement of approximately 2.7 percentage points in gross profit." </FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=justify>&nbsp;</DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=justify><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Dennis Stoneman, Mikron's Executive Vice President said: "We continue to expand our product offering which allows us to use infrared technology in new applications. FY 2004 saw the introduction of several significant new products during the second half. These new products had a substantial influence on our increased sales during the last half of the year." </FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=justify>&nbsp;</DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=justify><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Mr. Stoneman added, " We believe we have positioned ourselves to capitalize on an improving economy and are looking forward to an even more successful year in fiscal 2005. </FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=justify>&nbsp;</DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=justify><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Mikron Infrared, Inc., founded in 1969, is a developer, manufacturer and marketer of infrared non-contact temperature measurement devices, temperature sensors, calibration sources and thermal imaging systems. Its executive offices and manufacturing facilities are located at 16 Thornton Road, Oakland, NJ (Tel. No. 201/405-0900) </FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=justify>&nbsp;</DIV><BR>
+<TABLE id=PGBRK cellSpacing=0 cellPadding=0 width="100%" align=center border=0>
+<TR vAlign=top>
+<TD width="100%" colSpan=3>&nbsp;&nbsp;</TD></TR>
+<TR>
+<TD align=left width="33%"><FONT size=1>&nbsp;</FONT></TD>
+<TD align=middle width="34%"><FONT size=1>&nbsp;</FONT></TD>
+<TD align=right width="33%"><FONT size=1>&nbsp;</FONT></TD></TR>
+<TR vAlign=top>
+<TD width="100%" colSpan=3><FONT size=1>
+<HR style="PAGE-BREAK-AFTER: always" color=#000000 noShade SIZE=2>
+</FONT></TD></TR></TABLE>
+<TABLE id=HDR cellSpacing=0 cellPadding=0 width="100%" align=center border=0>
+<TR>
+<TD vAlign=bottom width="100%">&nbsp;</TD></TR></TABLE><BR>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=center><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><STRONG>Consolidated Statements Of Operations</STRONG></FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=center><BR></DIV>
+<TABLE id=10001 cellSpacing=0 cellPadding=0 width="100%" border=1>
+<TR>
+<TD style="BORDER-BOTTOM: medium none" vAlign=bottom align=left width="43%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: medium none" width="2%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: medium none" vAlign=bottom align=middle width="12%" colSpan=2>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=center><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">3 Months Ended October 31, 2004</FONT></DIV></TD>
+<TD style="BORDER-BOTTOM: medium none" vAlign=bottom align=left width="2%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: medium none" vAlign=bottom align=middle width="12%" colSpan=2>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=center><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">3 Months Ended October 31, 2003</FONT></DIV></TD>
+<TD style="BORDER-BOTTOM: medium none" vAlign=bottom align=left width="2%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: medium none" vAlign=bottom align=middle width="12%" colSpan=2>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=center><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Fiscal Year Ended October 31, 2004</FONT></DIV></TD>
+<TD style="BORDER-BOTTOM: medium none" vAlign=bottom align=left width="2%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: medium none" vAlign=bottom align=middle width="11%" colSpan=2>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=center><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Fiscal Year Ended October 31, 2003</FONT></DIV></TD>
+<TD style="BORDER-BOTTOM: medium none" vAlign=bottom align=left width="1%">&nbsp;</TD></TR>
+<TR bgColor=#ccffcc>
+<TD style="BORDER-BOTTOM: #ccffcc" vAlign=bottom align=left width="43%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Revenues:</FONT></DIV></TD>
+<TD style="BORDER-BOTTOM: #ccffcc" width="2%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #ccffcc" vAlign=bottom width="12%" colSpan=2>&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #ccffcc" vAlign=bottom align=left width="2%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #ccffcc" vAlign=bottom width="12%" colSpan=2>&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #ccffcc" vAlign=bottom align=left width="2%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #ccffcc" vAlign=bottom width="12%" colSpan=2>&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #ccffcc" vAlign=bottom align=left width="2%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #ccffcc" vAlign=bottom width="11%" colSpan=2>&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #ccffcc" vAlign=bottom align=left width="1%">&nbsp;</TD></TR>
+<TR bgColor=#ffffff>
+<TD style="BORDER-BOTTOM: #ffffff" vAlign=bottom align=left width="43%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp; Net Sales</FONT></DIV></TD>
+<TD style="BORDER-BOTTOM: #ffffff" width="2%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #ffffff" vAlign=bottom align=left width="1%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0px"><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">$</FONT></DIV></TD>
+<TD style="BORDER-BOTTOM: #ffffff" vAlign=bottom align=right width="11%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0px"><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">7,312,705</FONT></DIV></TD>
+<TD style="BORDER-BOTTOM: #ffffff" vAlign=bottom align=left width="2%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #ffffff" vAlign=bottom align=left width="1%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0px"><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">$</FONT></DIV></TD>
+<TD style="BORDER-BOTTOM: #ffffff" vAlign=bottom align=right width="11%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0px"><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">6,194,353</FONT></DIV></TD>
+<TD style="BORDER-BOTTOM: #ffffff" vAlign=bottom align=left width="2%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #ffffff" vAlign=bottom align=left width="1%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0px"><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">$</FONT></DIV></TD>
+<TD style="BORDER-BOTTOM: #ffffff" vAlign=bottom align=right width="11%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0px"><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">26,017,127</FONT></DIV></TD>
+<TD style="BORDER-BOTTOM: #ffffff" vAlign=bottom align=left width="2%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #ffffff" vAlign=bottom align=left width="1%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0px"><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">$</FONT></DIV></TD>
+<TD style="BORDER-BOTTOM: #ffffff" vAlign=bottom align=right width="11%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0px"><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">23,058,982</FONT></DIV></TD>
+<TD style="BORDER-BOTTOM: #ffffff" vAlign=bottom align=left width="1%">&nbsp;</TD></TR>
+<TR bgColor=#ccffcc>
+<TD style="BORDER-BOTTOM: #ccffcc" vAlign=bottom align=left width="43%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp; Royalties</FONT></DIV></TD>
+<TD style="BORDER-BOTTOM: #ccffcc" width="2%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #ccffcc" vAlign=bottom align=left width="1%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #ccffcc" vAlign=bottom align=right width="11%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0px"><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">0</FONT></DIV></TD>
+<TD style="BORDER-BOTTOM: #ccffcc" vAlign=bottom align=left width="2%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #ccffcc" vAlign=bottom align=left width="1%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #ccffcc" vAlign=bottom align=right width="11%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0px"><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">0</FONT></DIV></TD>
+<TD style="BORDER-BOTTOM: #ccffcc" vAlign=bottom align=left width="2%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #ccffcc" vAlign=bottom align=left width="1%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #ccffcc" vAlign=bottom align=right width="11%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0px"><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">0</FONT></DIV></TD>
+<TD style="BORDER-BOTTOM: #ccffcc" vAlign=bottom align=left width="2%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #ccffcc" vAlign=bottom align=left width="1%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #ccffcc" vAlign=bottom align=right width="11%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0px"><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">16,112</FONT></DIV></TD>
+<TD style="BORDER-BOTTOM: #ccffcc" vAlign=bottom align=left width="1%">&nbsp;</TD></TR>
+<TR bgColor=#ffffff>
+<TD style="BORDER-BOTTOM: #ffffff solid" vAlign=bottom align=left width="43%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Total Revenues</FONT></DIV></TD>
+<TD style="BORDER-BOTTOM: #ffffff solid" width="2%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #000000 double" vAlign=bottom align=left width="1%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #000000 double" vAlign=bottom align=right width="11%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0px"><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">7,312,705</FONT></DIV></TD>
+<TD style="BORDER-BOTTOM: #ffffff solid" vAlign=bottom align=left width="2%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #000000 double" vAlign=bottom align=left width="1%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #000000 double" vAlign=bottom align=right width="11%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0px"><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">6,194,353</FONT></DIV></TD>
+<TD style="BORDER-BOTTOM: #ffffff solid" vAlign=bottom align=left width="2%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #000000 double" vAlign=bottom align=left width="1%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #000000 double" vAlign=bottom align=right width="11%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0px"><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">26,017,127</FONT></DIV></TD>
+<TD style="BORDER-BOTTOM: #ffffff solid" vAlign=bottom align=left width="2%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #000000 double" vAlign=bottom align=left width="1%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #000000 double" vAlign=bottom align=right width="11%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0px"><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">23,075,094</FONT></DIV></TD>
+<TD style="BORDER-BOTTOM: #ffffff solid" vAlign=bottom align=left width="1%">&nbsp;</TD></TR>
+<TR bgColor=#ccffcc>
+<TD style="BORDER-BOTTOM: #ccffcc" vAlign=bottom align=left width="43%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Costs and Expenses</FONT></DIV></TD>
+<TD style="BORDER-BOTTOM: #ccffcc" width="2%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #ccffcc" vAlign=bottom align=left width="1%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #ccffcc" vAlign=bottom align=right width="11%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #ccffcc" vAlign=bottom align=left width="2%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #ccffcc" vAlign=bottom align=left width="1%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #ccffcc" vAlign=bottom align=right width="11%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #ccffcc" vAlign=bottom align=left width="2%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #ccffcc" vAlign=bottom align=left width="1%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #ccffcc" vAlign=bottom align=right width="11%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #ccffcc" vAlign=bottom align=left width="2%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #ccffcc" vAlign=bottom align=left width="1%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #ccffcc" vAlign=bottom align=right width="11%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #ccffcc" vAlign=bottom align=left width="1%">&nbsp;</TD></TR>
+<TR bgColor=#ffffff>
+<TD style="BORDER-BOTTOM: #ffffff" vAlign=bottom align=left width="43%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp; Cost of goods sold</FONT></DIV></TD>
+<TD style="BORDER-BOTTOM: #ffffff" width="2%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #ffffff" vAlign=bottom align=left width="1%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #ffffff" vAlign=bottom align=right width="11%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0px"><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">3,528,186</FONT></DIV></TD>
+<TD style="BORDER-BOTTOM: #ffffff" vAlign=bottom align=left width="2%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #ffffff" vAlign=bottom align=left width="1%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #ffffff" vAlign=bottom align=right width="11%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0px"><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">3,035,058</FONT></DIV></TD>
+<TD style="BORDER-BOTTOM: #ffffff" vAlign=bottom align=left width="2%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #ffffff" vAlign=bottom align=left width="1%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #ffffff" vAlign=bottom align=right width="11%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0px"><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">12,333,400</FONT></DIV></TD>
+<TD style="BORDER-BOTTOM: #ffffff" vAlign=bottom align=left width="2%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #ffffff" vAlign=bottom align=left width="1%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #ffffff" vAlign=bottom align=right width="11%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0px"><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">11,552,494</FONT></DIV></TD>
+<TD style="BORDER-BOTTOM: #ffffff" vAlign=bottom align=left width="1%">&nbsp;</TD></TR>
+<TR bgColor=#ccffcc>
+<TD style="BORDER-BOTTOM: #ccffcc" vAlign=bottom align=left width="43%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp; Selling, General and</FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Administrative</FONT></DIV></TD>
+<TD style="BORDER-BOTTOM: #ccffcc" width="2%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #ccffcc" vAlign=bottom align=left width="1%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #ccffcc" vAlign=bottom align=right width="11%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0px"></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0px"><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">2,133,173</FONT></DIV></TD>
+<TD style="BORDER-BOTTOM: #ccffcc" vAlign=bottom align=left width="2%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #ccffcc" vAlign=bottom align=left width="1%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #ccffcc" vAlign=bottom align=right width="11%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0px"></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0px"><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">2,370,551</FONT></DIV></TD>
+<TD style="BORDER-BOTTOM: #ccffcc" vAlign=bottom align=left width="2%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #ccffcc" vAlign=bottom align=left width="1%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #ccffcc" vAlign=bottom align=right width="11%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0px"></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0px"><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">8,482,091</FONT></DIV></TD>
+<TD style="BORDER-BOTTOM: #ccffcc" vAlign=bottom align=left width="2%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #ccffcc" vAlign=bottom align=left width="1%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #ccffcc" vAlign=bottom align=right width="11%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0px"></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0px"><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">7,823,651</FONT></DIV></TD>
+<TD style="BORDER-BOTTOM: #ccffcc" vAlign=bottom align=left width="1%">&nbsp;</TD></TR>
+<TR bgColor=#ffffff>
+<TD style="BORDER-BOTTOM: #ffffff solid" vAlign=bottom align=left width="43%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp; Research, Development</FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; And Engineering</FONT></DIV></TD>
+<TD style="BORDER-BOTTOM: #ffffff solid" width="2%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #000000 double" vAlign=bottom align=left width="1%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #000000 double" vAlign=bottom align=right width="11%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0px"></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0px"><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">569,370</FONT></DIV></TD>
+<TD style="BORDER-BOTTOM: #ffffff solid" vAlign=bottom align=left width="2%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #000000 double" vAlign=bottom align=left width="1%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #000000 double" vAlign=bottom align=right width="11%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0px"></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0px"><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">469,041</FONT></DIV></TD>
+<TD style="BORDER-BOTTOM: #ffffff solid" vAlign=bottom align=left width="2%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #000000 double" vAlign=bottom align=left width="1%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #000000 double" vAlign=bottom align=right width="11%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0px"></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0px"><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">2,076,421</FONT></DIV></TD>
+<TD style="BORDER-BOTTOM: #ffffff solid" vAlign=bottom align=left width="2%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #000000 double" vAlign=bottom align=left width="1%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #000000 double" vAlign=bottom align=right width="11%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0px"></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0px"><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">1,713,397</FONT></DIV></TD>
+<TD style="BORDER-BOTTOM: #ffffff solid" vAlign=bottom align=left width="1%">&nbsp;</TD></TR>
+<TR bgColor=#ccffcc>
+<TD style="BORDER-BOTTOM: #ccffcc solid" vAlign=bottom align=left width="43%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Total Costs and Expenses</FONT></DIV></TD>
+<TD style="BORDER-BOTTOM: #ccffcc solid" width="2%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #000000 double" vAlign=bottom align=left width="1%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #000000 double" vAlign=bottom align=right width="11%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0px"><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">6,230,729</FONT></DIV></TD>
+<TD style="BORDER-BOTTOM: #ccffcc solid" vAlign=bottom align=left width="2%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #000000 double" vAlign=bottom align=left width="1%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #000000 double" vAlign=bottom align=right width="11%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0px"><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">5,874,650</FONT></DIV></TD>
+<TD style="BORDER-BOTTOM: #ccffcc solid" vAlign=bottom align=left width="2%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #000000 double" vAlign=bottom align=left width="1%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #000000 double" vAlign=bottom align=right width="11%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0px"><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">22,891,912</FONT></DIV></TD>
+<TD style="BORDER-BOTTOM: #ccffcc solid" vAlign=bottom align=left width="2%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #000000 double" vAlign=bottom align=left width="1%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #000000 double" vAlign=bottom align=right width="11%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0px"><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">21,089,542</FONT></DIV></TD>
+<TD style="BORDER-BOTTOM: #ccffcc solid" vAlign=bottom align=left width="1%">&nbsp;</TD></TR>
+<TR bgColor=#ffffff>
+<TD style="BORDER-BOTTOM: #ffffff" vAlign=bottom align=left width="43%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Income from Operations</FONT></DIV></TD>
+<TD style="BORDER-BOTTOM: #ffffff" width="2%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #ffffff" vAlign=bottom align=left width="1%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #ffffff" vAlign=bottom align=right width="11%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0px"><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">1,081,976</FONT></DIV></TD>
+<TD style="BORDER-BOTTOM: #ffffff" vAlign=bottom align=left width="2%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #ffffff" vAlign=bottom align=left width="1%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #ffffff" vAlign=bottom align=right width="11%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0px"><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">319,703</FONT></DIV></TD>
+<TD style="BORDER-BOTTOM: #ffffff" vAlign=bottom align=left width="2%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #ffffff" vAlign=bottom align=left width="1%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #ffffff" vAlign=bottom align=right width="11%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0px"><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">3,125,215</FONT></DIV></TD>
+<TD style="BORDER-BOTTOM: #ffffff" vAlign=bottom align=left width="2%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #ffffff" vAlign=bottom align=left width="1%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #ffffff" vAlign=bottom align=right width="11%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0px"><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">1,985,552</FONT></DIV></TD>
+<TD style="BORDER-BOTTOM: #ffffff" vAlign=bottom align=left width="1%">&nbsp;</TD></TR>
+<TR bgColor=#ccffcc>
+<TD style="BORDER-BOTTOM: #ccffcc" vAlign=bottom align=left width="43%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Other Income (Expense):</FONT></DIV></TD>
+<TD style="BORDER-BOTTOM: #ccffcc" width="2%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #ccffcc" vAlign=bottom align=left width="1%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #ccffcc" vAlign=bottom align=right width="11%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #ccffcc" vAlign=bottom align=left width="2%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #ccffcc" vAlign=bottom align=left width="1%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #ccffcc" vAlign=bottom align=right width="11%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #ccffcc" vAlign=bottom align=left width="2%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #ccffcc" vAlign=bottom align=left width="1%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #ccffcc" vAlign=bottom align=right width="11%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #ccffcc" vAlign=bottom align=left width="2%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #ccffcc" vAlign=bottom align=left width="1%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #ccffcc" vAlign=bottom align=right width="11%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #ccffcc" vAlign=bottom align=left width="1%">&nbsp;</TD></TR>
+<TR bgColor=#ffffff>
+<TD style="BORDER-BOTTOM: #ffffff" vAlign=bottom align=left width="43%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp; Interest (Net)</FONT></DIV></TD>
+<TD style="BORDER-BOTTOM: #ffffff" width="2%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #ffffff" vAlign=bottom align=left width="1%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #ffffff" vAlign=bottom align=right width="11%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0px"><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">(91,268</FONT></DIV></TD>
+<TD style="BORDER-BOTTOM: #ffffff" vAlign=bottom align=left width="2%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0px"><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">)</FONT></DIV></TD>
+<TD style="BORDER-BOTTOM: #ffffff" vAlign=bottom align=left width="1%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #ffffff" vAlign=bottom align=right width="11%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0px"><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">(78,971</FONT></DIV></TD>
+<TD style="BORDER-BOTTOM: #ffffff" vAlign=bottom align=left width="2%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0px"><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">)</FONT></DIV></TD>
+<TD style="BORDER-BOTTOM: #ffffff" vAlign=bottom align=left width="1%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #ffffff" vAlign=bottom align=right width="11%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0px"><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">(292,428</FONT></DIV></TD>
+<TD style="BORDER-BOTTOM: #ffffff" vAlign=bottom align=left width="2%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0px"><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">)</FONT></DIV></TD>
+<TD style="BORDER-BOTTOM: #ffffff" vAlign=bottom align=left width="1%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #ffffff" vAlign=bottom align=right width="11%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0px"><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">(288,020</FONT></DIV></TD>
+<TD style="BORDER-BOTTOM: #ffffff" vAlign=bottom align=left width="1%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0px"><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">)</FONT></DIV></TD></TR>
+<TR bgColor=#ccffcc>
+<TD style="BORDER-BOTTOM: #ccffcc solid" vAlign=bottom align=left width="43%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp; Other (Expense)</FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp; Income, net</FONT></DIV></TD>
+<TD style="BORDER-BOTTOM: #ccffcc solid" width="2%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #000000 double" vAlign=bottom align=left width="1%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #000000 double" vAlign=bottom align=right width="11%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0px"></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0px"><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">69,486</FONT></DIV></TD>
+<TD style="BORDER-BOTTOM: #ccffcc solid" vAlign=bottom align=left width="2%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #000000 double" vAlign=bottom align=left width="1%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #000000 double" vAlign=bottom align=right width="11%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0px"></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0px"><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">(65,744</FONT></DIV></TD>
+<TD style="BORDER-BOTTOM: #ccffcc solid" vAlign=bottom align=left width="2%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0px"></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0px"><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">)</FONT></DIV></TD>
+<TD style="BORDER-BOTTOM: #000000 double" vAlign=bottom align=left width="1%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #000000 double" vAlign=bottom align=right width="11%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0px"></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0px"><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">52,855</FONT></DIV></TD>
+<TD style="BORDER-BOTTOM: #ccffcc solid" vAlign=bottom align=left width="2%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #000000 double" vAlign=bottom align=left width="1%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #000000 double" vAlign=bottom align=right width="11%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0px"></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0px"><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">(76,275</FONT></DIV></TD>
+<TD style="BORDER-BOTTOM: #ccffcc solid" vAlign=bottom align=left width="1%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0px"></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0px"><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">)</FONT></DIV></TD></TR>
+<TR bgColor=#ffffff>
+<TD style="BORDER-BOTTOM: #ffffff" vAlign=bottom align=left width="43%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Net Income Before</FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&nbsp; Income Taxes</FONT></DIV></TD>
+<TD style="BORDER-BOTTOM: #ffffff" width="2%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #ffffff" vAlign=bottom align=left width="1%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #ffffff" vAlign=bottom align=right width="11%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0px"></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0px"><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">1,060,194</FONT></DIV></TD>
+<TD style="BORDER-BOTTOM: #ffffff" vAlign=bottom align=left width="2%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #ffffff" vAlign=bottom align=left width="1%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #ffffff" vAlign=bottom align=right width="11%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0px"></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0px"><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">174,988</FONT></DIV></TD>
+<TD style="BORDER-BOTTOM: #ffffff" vAlign=bottom align=left width="2%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #ffffff" vAlign=bottom align=left width="1%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #ffffff" vAlign=bottom align=right width="11%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0px"></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0px"><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">2,885,642</FONT></DIV></TD>
+<TD style="BORDER-BOTTOM: #ffffff" vAlign=bottom align=left width="2%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #ffffff" vAlign=bottom align=left width="1%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #ffffff" vAlign=bottom align=right width="11%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0px"></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0px"><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">1,621,257</FONT></DIV></TD>
+<TD style="BORDER-BOTTOM: #ffffff" vAlign=bottom align=left width="1%">&nbsp;</TD></TR>
+<TR bgColor=#ccffcc>
+<TD style="BORDER-BOTTOM: #ccffcc solid" vAlign=bottom align=left width="43%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp; Income Tax Provision</FONT></DIV></TD>
+<TD style="BORDER-BOTTOM: #ccffcc solid" width="2%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #000000 double" vAlign=bottom align=left width="1%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #000000 double" vAlign=bottom align=right width="11%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0px"><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">(364,560</FONT></DIV></TD>
+<TD style="BORDER-BOTTOM: #ccffcc solid" vAlign=bottom align=left width="2%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0px"><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">)</FONT></DIV></TD>
+<TD style="BORDER-BOTTOM: #000000 double" vAlign=bottom align=left width="1%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #000000 double" vAlign=bottom align=right width="11%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0px"><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">(68,097</FONT></DIV></TD>
+<TD style="BORDER-BOTTOM: #ccffcc solid" vAlign=bottom align=left width="2%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0px"><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">)</FONT></DIV></TD>
+<TD style="BORDER-BOTTOM: #000000 double" vAlign=bottom align=left width="1%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #000000 double" vAlign=bottom align=right width="11%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0px"><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">(1,092,444</FONT></DIV></TD>
+<TD style="BORDER-BOTTOM: #ccffcc solid" vAlign=bottom align=left width="2%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0px"><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">)</FONT></DIV></TD>
+<TD style="BORDER-BOTTOM: #000000 double" vAlign=bottom align=left width="1%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #000000 double" vAlign=bottom align=right width="11%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0px"><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">(639,900</FONT></DIV></TD>
+<TD style="BORDER-BOTTOM: #ccffcc solid" vAlign=bottom align=left width="1%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0px"><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">)</FONT></DIV></TD></TR>
+<TR bgColor=#ffffff>
+<TD style="BORDER-BOTTOM: #ffffff" vAlign=bottom align=left width="43%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Net Income</FONT></DIV></TD>
+<TD style="BORDER-BOTTOM: #ffffff" width="2%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #ffffff" vAlign=bottom align=left width="1%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #ffffff" vAlign=bottom align=right width="11%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0px"><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">695,634</FONT></DIV></TD>
+<TD style="BORDER-BOTTOM: #ffffff" vAlign=bottom align=left width="2%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #ffffff" vAlign=bottom align=left width="1%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #ffffff" vAlign=bottom align=right width="11%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0px"><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">106,891</FONT></DIV></TD>
+<TD style="BORDER-BOTTOM: #ffffff" vAlign=bottom align=left width="2%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #ffffff" vAlign=bottom align=left width="1%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #ffffff" vAlign=bottom align=right width="11%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0px"><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">1,793,198</FONT></DIV></TD>
+<TD style="BORDER-BOTTOM: #ffffff" vAlign=bottom align=left width="2%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #ffffff" vAlign=bottom align=left width="1%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #ffffff" vAlign=bottom align=right width="11%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0px"><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">981.357</FONT></DIV></TD>
+<TD style="BORDER-BOTTOM: #ffffff" vAlign=bottom align=left width="1%">&nbsp;</TD></TR>
+<TR bgColor=#ccffcc>
+<TD style="BORDER-BOTTOM: #ccffcc solid" vAlign=bottom align=left width="43%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Net Income per Share-</FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Basic</FONT></DIV></TD>
+<TD style="BORDER-BOTTOM: #ccffcc solid" width="2%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #000000 double" vAlign=bottom align=left width="1%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0px"><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">$</FONT></DIV></TD>
+<TD style="BORDER-BOTTOM: #000000 double" vAlign=bottom align=right width="11%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0px"><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">0.13</FONT></DIV></TD>
+<TD style="BORDER-BOTTOM: #ccffcc solid" vAlign=bottom align=left width="2%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #000000 double" vAlign=bottom align=left width="1%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0px"><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">$</FONT></DIV></TD>
+<TD style="BORDER-BOTTOM: #000000 double" vAlign=bottom align=right width="11%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0px"><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">0.02</FONT></DIV></TD>
+<TD style="BORDER-BOTTOM: #ccffcc solid" vAlign=bottom align=left width="2%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #000000 double" vAlign=bottom align=left width="1%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0px"><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">$</FONT></DIV></TD>
+<TD style="BORDER-BOTTOM: #000000 double" vAlign=bottom align=right width="11%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0px"><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">0.34</FONT></DIV></TD>
+<TD style="BORDER-BOTTOM: #ccffcc solid" vAlign=bottom align=left width="2%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #000000 double" vAlign=bottom align=left width="1%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0px"><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">$</FONT></DIV></TD>
+<TD style="BORDER-BOTTOM: #000000 double" vAlign=bottom align=right width="11%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0px"><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">0.20</FONT></DIV></TD>
+<TD style="BORDER-BOTTOM: #ccffcc solid" vAlign=bottom align=left width="1%">&nbsp;</TD></TR>
+<TR bgColor=#ffffff>
+<TD style="BORDER-BOTTOM: #ffffff solid" vAlign=bottom align=left width="43%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Weighted Average</FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&nbsp; Number of Shares-Basic</FONT></DIV></TD>
+<TD style="BORDER-BOTTOM: #ffffff solid" width="2%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #000000 double" vAlign=bottom align=left width="1%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #000000 double" vAlign=bottom align=right width="11%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0px"><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">5,269,628</FONT></DIV></TD>
+<TD style="BORDER-BOTTOM: #ffffff solid" vAlign=bottom align=left width="2%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #000000 double" vAlign=bottom align=left width="1%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #000000 double" vAlign=bottom align=right width="11%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0px"><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">4,951,824</FONT></DIV></TD>
+<TD style="BORDER-BOTTOM: #ffffff solid" vAlign=bottom align=left width="2%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #000000 double" vAlign=bottom align=left width="1%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #000000 double" vAlign=bottom align=right width="11%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0px"><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">5,269,628</FONT></DIV></TD>
+<TD style="BORDER-BOTTOM: #ffffff solid" vAlign=bottom align=left width="2%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #000000 double" vAlign=bottom align=left width="1%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #000000 double" vAlign=bottom align=right width="11%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0px"><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">4,951,824</FONT></DIV></TD>
+<TD style="BORDER-BOTTOM: #ffffff solid" vAlign=bottom align=left width="1%">&nbsp;</TD></TR>
+<TR bgColor=#ccffcc>
+<TD style="BORDER-BOTTOM: #ccffcc solid" vAlign=bottom align=left width="43%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Net Income per Share-Diluted</FONT></DIV></TD>
+<TD style="BORDER-BOTTOM: #ccffcc solid" width="2%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #000000 double" vAlign=bottom align=left width="1%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0px"><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">$</FONT></DIV></TD>
+<TD style="BORDER-BOTTOM: #000000 double" vAlign=bottom align=right width="11%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0px"><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">0.13</FONT></DIV></TD>
+<TD style="BORDER-BOTTOM: #ccffcc solid" vAlign=bottom align=left width="2%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #000000 double" vAlign=bottom align=left width="1%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0px"><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">$</FONT></DIV></TD>
+<TD style="BORDER-BOTTOM: #000000 double" vAlign=bottom align=right width="11%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0px"><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">0.02</FONT></DIV></TD>
+<TD style="BORDER-BOTTOM: #ccffcc solid" vAlign=bottom align=left width="2%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #000000 double" vAlign=bottom align=left width="1%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0px"><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">$</FONT></DIV></TD>
+<TD style="BORDER-BOTTOM: #000000 double" vAlign=bottom align=right width="11%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0px"><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">0.33</FONT></DIV></TD>
+<TD style="BORDER-BOTTOM: #ccffcc solid" vAlign=bottom align=left width="2%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #000000 double" vAlign=bottom align=left width="1%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0px"><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">$</FONT></DIV></TD>
+<TD style="BORDER-BOTTOM: #000000 double" vAlign=bottom align=right width="11%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0px"><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">0.19</FONT></DIV></TD>
+<TD style="BORDER-BOTTOM: #ccffcc solid" vAlign=bottom align=left width="1%">&nbsp;</TD></TR>
+<TR bgColor=#ffffff>
+<TD style="BORDER-BOTTOM: #ffffff solid" vAlign=bottom align=left width="43%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Weighted Average</FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&nbsp; Number of Shares-</FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=left><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&nbsp; Diluted</FONT></DIV></TD>
+<TD style="BORDER-BOTTOM: #ffffff solid" width="2%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #000000 double" vAlign=bottom align=left width="1%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #000000 double" vAlign=bottom align=right width="11%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0px"><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">5,417,219</FONT></DIV></TD>
+<TD style="BORDER-BOTTOM: #ffffff solid" vAlign=bottom align=left width="2%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #000000 double" vAlign=bottom align=left width="1%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #000000 double" vAlign=bottom align=right width="11%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0px"><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">5,109,576</FONT></DIV></TD>
+<TD style="BORDER-BOTTOM: #ffffff solid" vAlign=bottom align=left width="2%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #000000 double" vAlign=bottom align=left width="1%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #000000 double" vAlign=bottom align=right width="11%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0px"><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">5,417,219</FONT></DIV></TD>
+<TD style="BORDER-BOTTOM: #ffffff solid" vAlign=bottom align=left width="2%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #000000 double" vAlign=bottom align=left width="1%">&nbsp;</TD>
+<TD style="BORDER-BOTTOM: #000000 double" vAlign=bottom align=right width="11%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0px"><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">5,109,576</FONT></DIV></TD>
+<TD style="BORDER-BOTTOM: #ffffff solid" vAlign=bottom align=left width="1%">&nbsp;</TD></TR></TABLE>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=justify><BR></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=justify><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Safe Harbor Act Statement Under the Private Securities Litigation Reform Act of 1995: -- Certain of the statements contained herein are forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. Such statements are subject to certain risks and uncertainties that could cause actual results to differ materially from those included in the forward-looking statements. These statements are not guarantees of future performance and are subject to certain risks, uncertainties and assumptions that are difficult to predict. Factors that could effect the company's actual results include but are not limited to the risks discussed in the company's Annual Report on Form 10-KSB for the year ended October 31, 2003. Readers are cautioned not to place undue reliance on these
+forward-looking statements, which speak only as of the date of this release. The company undertakes no obligation to update publicly any forward-looking statements to reflect the occurrence of unanticipated events. </FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=justify><BR></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align=justify><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><EM>Contact:</EM></FONT><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"> Mikron Infrared, Inc Paul Kohmescher 201/405-0900</FONT></DIV>
+<DIV></DIV></DIV>
+<DIV><BR>
+<TABLE id=PGBRK cellSpacing=0 cellPadding=0 width="100%" align=center border=0>
+<TR vAlign=top>
+<TD width="100%" colSpan=3>&nbsp;</TD></TR>
+<TR>
+<TD align=left width="33%"><FONT size=1>&nbsp;</FONT></TD>
+<TD align=middle width="34%"><FONT size=1>&nbsp;</FONT></TD>
+<TD align=right width="33%"><FONT size=1>&nbsp;</FONT></TD></TR>
+<TR vAlign=top>
+<TD width="100%" colSpan=3><FONT size=1>
+<HR color=#000000 noShade SIZE=2>
+</FONT></TD></TR></TABLE>
+<TABLE id=HDR cellSpacing=0 cellPadding=0 width="100%" align=center border=0>
+<TR>
+<TD vAlign=bottom width="100%">&nbsp;</TD></TR></TABLE><BR></DIV></BODY></HTML>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

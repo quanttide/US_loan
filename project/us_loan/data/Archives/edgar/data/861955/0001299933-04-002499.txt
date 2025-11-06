@@ -1,0 +1,818 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ EJbIOuI5OZDQPTGw/R9TraVyBkQPCny3WzJv0KC/ynXeQNHc6rKohfIBinAJdZwP
+ ChbdvE8QP6vJif+Ua5jkDQ==
+
+<SEC-DOCUMENT>0001299933-04-002499.txt : 20041230
+<SEC-HEADER>0001299933-04-002499.hdr.sgml : 20041230
+<ACCEPTANCE-DATETIME>20041230162647
+ACCESSION NUMBER:		0001299933-04-002499
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20041230
+ITEM INFORMATION:		Results of Operations and Financial Condition
+FILED AS OF DATE:		20041230
+DATE AS OF CHANGE:		20041230
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CIB MARINE BANCSHARES INC
+		CENTRAL INDEX KEY:			0000861955
+		STANDARD INDUSTRIAL CLASSIFICATION:	STATE COMMERCIAL BANKS [6022]
+		IRS NUMBER:				371203599
+		STATE OF INCORPORATION:			WI
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-24149
+		FILM NUMBER:		041234349
+
+	BUSINESS ADDRESS:	
+		STREET 1:		N27 W24025 PAUL COURT
+		CITY:			PEWAUKEE
+		STATE:			WI
+		ZIP:			53072
+		BUSINESS PHONE:		4146956010
+
+	MAIL ADDRESS:	
+		STREET 1:		N27 W24025 PAUL COURT
+		CITY:			PEWAUKEE
+		STATE:			WI
+		ZIP:			53072
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CENTRAL ILLINOIS BANCORP INC
+		DATE OF NAME CHANGE:	19980427
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>htm_2437.htm
+<DESCRIPTION>LIVE FILING
+<TEXT>
+<!-- CoverPageHeader start -->
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML>
+<HEAD>
+<TITLE> CIB Marine Bancshares, Inc. (Form: 8-K) </TITLE>
+</HEAD>
+<BODY TEXT="#000000" BGCOLOR="#FFFFFF" ALINK="#0000FF" HLINK="#FF0000" VLINK="#800080">
+<A NAME="DOCUMENT_TOP">&nbsp;</A>
+<P>
+<!-- CoverPageHeader end --><!-- CoverPageTitle START -->
+<A NAME="DOCUMENT_TOP">&nbsp;</A>
+<HR NOSHADE>
+<P>
+<P ALIGN="CENTER">
+<FONT SIZE="4">
+		UNITED STATES<BR>
+	SECURITIES AND EXCHANGE COMMISSION
+</FONT>
+<BR>
+<FONT SIZE="2">
+	WASHINGTON, D.C. 20549
+</FONT>
+<P ALIGN="CENTER">
+<FONT SIZE="5">
+	FORM 8-K
+</FONT>
+<FONT SIZE="2">
+
+</FONT>
+</P>
+<P ALIGN="CENTER">
+<FONT SIZE="3">
+	CURRENT REPORT
+</FONT>
+</P>
+<P ALIGN="CENTER">
+<FONT SIZE="2">
+	Pursuant to Section&nbsp;13 or 15(d) of the Securities Exchange Act of 1934
+</FONT>
+</P>
+<CENTER>
+<TABLE CELLSPACING="0" BORDER="0" CELLPADDING="0" WIDTH="100%">
+<TR VALIGN="BOTTOM">
+<TD WIDTH="51%">
+	&nbsp;
+</TD>
+<TD WIDTH="5%">
+	&nbsp;
+</TD>
+<TD WIDTH="44%">
+	&nbsp;
+</TD>
+</TR>
+<TR VALIGN="BOTTOM">
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+	Date of Report (Date of Earliest Event Reported):
+</FONT>
+</TD>
+<TD>
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+	December 30, 2004
+</FONT>
+</TD>
+</TR>
+</TABLE>
+<BR>
+</CENTER>
+<!-- CoverPageTitle END --><!-- CoverPageRegistrant START -->
+<P ALIGN="CENTER"><!-- -->
+<FONT SIZE="6">
+	CIB Marine Bancshares, Inc.
+</FONT>
+<FONT SIZE="2">
+<BR>__________________________________________<BR>
+	(Exact name of registrant as specified in its charter)
+</FONT>
+<CENTER>
+<TABLE CELLSPACING="0" BORDER="0" CELLPADDING="0" WIDTH="100%">
+<TR VALIGN="BOTTOM">
+<TD WIDTH="33%">
+	&nbsp;
+</TD>
+<TD WIDTH="34%">
+	&nbsp;
+</TD>
+<TD WIDTH="33%">
+	&nbsp;
+</TD>
+</TR>
+<TR VALIGN="BOTTOM">
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+	Wisconsin
+</FONT>
+</TD>
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+	000-24149
+</FONT>
+</TD>
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+	37-1203599
+</FONT>
+</TD>
+</TR>
+<TR VALIGN="BOTTOM">
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+_____________________<BR>
+	(State or other jurisdiction
+</FONT>
+</TD>
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+_____________<BR>
+	(Commission
+</FONT>
+</TD>
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+______________<BR>
+	(I.R.S. Employer
+</FONT>
+</TD>
+</TR>
+<TR VALIGN="BOTTOM">
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+	of incorporation)
+</FONT>
+</TD>
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+	File Number)
+</FONT>
+</TD>
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+	Identification No.)
+</FONT>
+</TD>
+</TR>
+<TR VALIGN="BOTTOM">
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+	&nbsp;&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+</TR>
+<TR VALIGN="BOTTOM">
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+	N27 W24025 Paul Court, Pewaukee, Wisconsin
+</FONT>
+</TD>
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+	53072
+</FONT>
+</TD>
+</TR>
+<TR VALIGN="BOTTOM">
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+_________________________________<BR>
+	(Address of principal executive offices)
+</FONT>
+</TD>
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+___________<BR>
+	(Zip Code)
+</FONT>
+</TD>
+</TR>
+</TABLE>
+</CENTER>
+<CENTER>
+<TABLE CELLSPACING="0" BORDER="0" CELLPADDING="0" WIDTH="100%">
+
+<TR VALIGN="BOTTOM">
+<TD WIDTH="51%">
+	&nbsp;
+</TD>
+<TD WIDTH="5%">
+	&nbsp;
+</TD>
+<TD WIDTH="44%">
+	&nbsp;
+</TD>
+</TR>
+<TR VALIGN="BOTTOM">
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+	Registrant&#146;s telephone number, including area code:
+</FONT>
+</TD>
+<TD>
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+	262-695-6010
+</FONT>
+</TD>
+</TR>
+</TABLE>
+</CENTER>
+<P ALIGN="CENTER">
+<FONT SIZE="2">
+	Not Applicable
+<BR>______________________________________________<BR>
+	Former name or former address, if changed since last report
+</FONT>
+<P ALIGN="CENTER">
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+<!-- CoverPageRegistrant END --><P><FONT SIZE="2">
+Check the appropriate box below if the Form 8-K filing is intended to
+simultaneously satisfy the filing obligation of the registrant under any
+of the following provisions:</FONT>
+</P>
+<P><FONT SIZE="2">
+[&nbsp;&nbsp;]&nbsp;&nbsp;Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)<br>
+[&nbsp;&nbsp;]&nbsp;&nbsp;Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)<br>
+[&nbsp;&nbsp;]&nbsp;&nbsp;Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))<br>
+[&nbsp;&nbsp;]&nbsp;&nbsp;Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))<br>
+</P></FONT><!-- PageBreak START -->
+<P>
+<HR NOSHADE>
+<DIV ALIGN="LEFT" STYLE="PAGE-BREAK-BEFORE:ALWAYS">
+<A HREF="#DOCUMENT_TOP">
+<U>
+<B>
+<FONT SIZE="2">Top of the Form</FONT>
+</B>
+</U>
+</A>
+</DIV>
+<!-- PageBreak END --><!-- Item START -->
+<P ALIGN="LEFT">
+<FONT SIZE="2">
+<B>
+	Item 2.02. Results of Operations and Financial Condition.
+</B>
+</FONT>
+</P>
+<P ALIGN="LEFT">
+<FONT SIZE="2">
+The registrant issued a shareholder letter dated December 30, 2004, a copy of which is furnished herewith as Exhibit 99 to this Current Report on Form 8-K.
+</FONT>
+</P>
+<!-- Item END -->
+<BR><BR><BR><BR><P ALIGN="LEFT" STYLE="FONT-SIZE: 10PT"></P><!-- PageBreak START -->
+<P>
+<HR NOSHADE>
+<DIV ALIGN="LEFT" STYLE="PAGE-BREAK-BEFORE:ALWAYS">
+<A HREF="#DOCUMENT_TOP">
+<U>
+<B>
+<FONT SIZE="2">Top of the Form</FONT>
+</B>
+</U>
+</A>
+</DIV>
+<!-- PageBreak END --><!-- SignatureHeader START -->
+<P ALIGN="CENTER">
+<FONT SIZE="2">
+<B>
+	SIGNATURES
+</B>
+</FONT>
+</P>
+<P ALIGN="LEFT">
+<FONT SIZE="2">
+	Pursuant to the requirements of the Securities Exchange Act of 1934, the
+	registrant has duly caused this report to be signed on its behalf by the
+	undersigned hereunto duly authorized.
+</FONT>
+</P>
+<!-- SignatureHeader END --><!-- Signature START -->
+<CENTER>
+<TABLE CELLSPACING="0" BORDER="0" CELLPADDING="0" WIDTH="100%">
+<TR VALIGN="BOTTOM">
+<TD WIDTH="19%">
+	&nbsp;
+</TD>
+<TD WIDTH="34%">
+	&nbsp;
+</TD>
+<TD WIDTH="3%">
+	&nbsp;
+</TD>
+<TD WIDTH="1%">
+	&nbsp;
+</TD>
+<TD WIDTH="43%">
+	&nbsp;
+</TD>
+</TR>
+<TR VALIGN="BOTTOM">
+<TD VALIGN="TOP">
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD>
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD COLSPAN="3" VALIGN="TOP" ALIGN="LEFT">
+<FONT SIZE="2">
+	CIB Marine Bancshares, Inc.
+</FONT>
+</TD>
+</TR>
+<TR VALIGN="BOTTOM">
+<TD VALIGN="TOP">
+<FONT SIZE="2">
+	&nbsp;&nbsp;
+</FONT>
+</TD>
+<TD>
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD>
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+</TR>
+<TR VALIGN="BOTTOM">
+<TD VALIGN="TOP">
+<FONT SIZE="2">
+<I>
+	December 30, 2004
+</I>
+</FONT>
+</TD>
+<TD>
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<FONT SIZE="2">
+<I>
+	By:
+</I>
+</FONT>
+</TD>
+<TD>
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<FONT SIZE="2">
+<I>
+	Donald J. Straka
+</I>
+<BR>
+</FONT>
+</TD>
+</TR>
+<TR>
+<TD VALIGN="TOP">
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD>
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD>
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<HR SIZE="1" NOSHADE>
+</TD>
+</TR>
+<TR VALIGN="BOTTOM">
+<TD VALIGN="TOP">
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD>
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD>
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<FONT SIZE="2">
+<I>
+	Name: Donald J. Straka
+</I>
+</FONT>
+</TD>
+</TR>
+<TR VALIGN="BOTTOM">
+<TD VALIGN="TOP">
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD>
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD>
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<FONT SIZE="2">
+<I>
+	Title: Senior Vice President & Chief Legal Officer
+</I>
+</FONT>
+</TD>
+</TR>
+</TABLE>
+</CENTER>
+<!-- Signature END --><!-- PageBreak START -->
+<P>
+<HR NOSHADE>
+<DIV ALIGN="LEFT" STYLE="PAGE-BREAK-BEFORE:ALWAYS">
+<A HREF="#DOCUMENT_TOP">
+<U>
+<B>
+<FONT SIZE="2">Top of the Form</FONT>
+</B>
+</U>
+</A>
+</DIV>
+<!-- PageBreak END --><P ALIGN="CENTER">
+<FONT SIZE="2">
+	Exhibit&nbsp;Index
+</FONT>
+<CENTER>
+<TABLE CELLSPACING="0" BORDER="0" CELLPADDING="0" WIDTH="60%">
+<TR VALIGN="BOTTOM">
+<TD WIDTH="8%">
+	&nbsp;
+</TD>
+<TD WIDTH="15%">
+	&nbsp;
+</TD>
+<TD WIDTH="77%">
+	&nbsp;
+</TD>
+</TR>
+
+<BR>
+<TR VALIGN="BOTTOM">
+<TD NOWRAP ALIGN="LEFT">
+<FONT SIZE="1">
+<B>
+	Exhibit No.
+</B>
+</FONT>
+</TD>
+<TD>
+<FONT SIZE="1">
+	&nbsp;
+</FONT>
+</TD>
+<TD NOWRAP ALIGN="LEFT">
+<FONT SIZE="1">
+<B>
+	Description
+</B>
+</FONT>
+</TD>
+</TR>
+<TR VALIGN="BOTTOM">
+<TD NOWRAP ALIGN="CENTER">
+<HR SIZE="1" NOSHADE>
+</TD>
+<TD>
+<FONT SIZE="1">
+	&nbsp;
+</FONT>
+</TD>
+<TD NOWRAP ALIGN="CENTER">
+<HR ALIGN="LEFT" SIZE="1" WIDTH="88%" NOSHADE>
+</TD>
+</TR>
+
+
+
+
+
+<TR VALIGN="BOTTOM">
+<TD VALIGN="TOP" WIDTH="8%" nowrap>
+<FONT SIZE="2">
+<DIV ALIGN="LEFT">
+	99
+</DIV>
+</FONT>
+</TD>
+<TD WIDTH="15%">
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP" WIDTH="77%">
+<FONT SIZE="2">
+Shareholder Letter
+</FONT>
+</TD>
+</TR></TABLE></CENTER><!-- HTMLFooter START -->
+</BODY>
+</HTML>
+<!-- HTMLFooter END -->
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>2
+<FILENAME>exhibit1.htm
+<DESCRIPTION>EX-99
+<TEXT>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML>
+<HEAD>
+<TITLE> EX-99 </TITLE>
+</HEAD>
+<BODY TEXT="#000000" BGCOLOR="#FFFFFF" ALINK="#0000FF" HLINK="#FF0000" VLINK="#800080">
+
+<BODY style="font-family: 'Times New Roman',Times,serif">
+<!-- <DIV align="center" style="width: 99%; background: black; padding: 1px; height: 100%"> -->
+<!-- <DIV align="center" style="width: 100%; background: white; padding: 5px; height: 100%">  -->
+
+
+<P align="left" style="font-size: 10pt"><FONT style="font-size: 12pt">December&nbsp;30, 2004</FONT>
+
+
+<P align="left" style="font-size: 12pt">Dear Shareholder,
+
+
+<P align="left" style="font-size: 12pt">On behalf of the Board of Directors of CIB Marine Bancshares, Inc., I would like to take this
+opportunity to provide you with an update on a number of important developments of interest to our
+shareholders.
+
+
+<P align="left" style="font-size: 12pt">We previously informed you that a Special Review Committee of the Board of Directors had been
+formed to review certain credit quality issues and related matters. The Committee and the Board
+engaged independent outside legal counsel to conduct an investigation into these matters.
+Counsel&#146;s investigation is substantially complete. The conclusion of the independent investigation
+will facilitate the completion of the audit of CIB Marine&#146;s 2003 consolidated financial statements
+by our external auditors.
+
+
+<P align="left" style="font-size: 12pt"><B>Preliminary Financial Results</B>
+
+
+<P align="left" style="font-size: 12pt">While the 2003 audit has not yet been completed, we estimate that the Company had a net loss for
+the year ended December&nbsp;31, 2003, of approximately $145&nbsp;million. In addition, we expect to restate
+net income for 2002 and 2001; the restated net income for 2002 and 2001 is estimated to be $14
+million and $26&nbsp;million, respectively. We also estimate that the net loss for the nine months
+ended September&nbsp;30, 2004, was approximately $30&nbsp;million. The book value per share of CIB Marine
+common stock as of December&nbsp;31, 2003 and September&nbsp;30, 2004, is estimated to be $5.66 and $4.14,
+respectively.
+
+
+<P align="left" style="font-size: 12pt">We also estimate that nonperforming assets at December&nbsp;31, 2003 and September&nbsp;30, 2004, were
+approximately $196&nbsp;million and $141&nbsp;million, respectively. It is important to note, however, that
+approximately $68&nbsp;million, or 48%, of the nonperforming assets at September&nbsp;30, 2004 were assets of
+CIB Bank &#150; Chicago, which has been sold to First Banks, Inc. (see &#147;Sale of Chicago Subsidiary&#148;
+below).
+
+
+<P align="left" style="font-size: 12pt">All of these estimates are subject to change based on the final results of the audit, including the
+effect of any restatements on prior periods&#146; consolidated financial statements, and other factors.
+We will provide you with further information regarding our 2003 financial results once the audit
+has been completed.
+
+
+<P align="left" style="font-size: 12pt"><B>Sale of Chicago Subsidiary</B>
+
+
+<P align="left" style="font-size: 12pt">On November&nbsp;30, 2004, CIB Marine completed the previously announced sale of our Chicago-area
+banking subsidiary, known as CIB Bank &#150; Chicago, to First Banks, Inc. of St. Louis, Missouri. The
+final sale price was $67.4&nbsp;million in cash, of which $5.4&nbsp;million was used by CIB Marine to fund
+the purchase of certain assets identified below from CIB Bank &#150; Chicago as required by the sale
+agreement. The sale resulted in a gain of approximately $16&nbsp;million. Total consolidated assets of
+CIB Marine immediately after the sale are estimated to be approximately $1.4&nbsp;billion.
+
+
+<P align="left" style="font-size: 12pt">The transaction accomplished several key strategic objectives. The proceeds of the sale, as well
+as the resulting reduction in assets, have enabled CIB Marine and certain of our subsidiary banks
+to strengthen their capital position. A portion of the sale proceeds was used to repay all
+indebtedness under the Company&#146;s revolving line of credit. The balance of the proceeds will be
+available to help fund ongoing operations. As part of the transaction, CIB Marine acquired CIB
+Bank &#150; Chicago&#146;s investments in MICR and Canron, as well as the loans and claims against the
+borrowers in a Chicago real estate development loan.
+
+
+<P align="left" style="font-size: 12pt">Divesting our Chicago bank will enable CIB Marine to focus on maximizing our community banking
+opportunities through our 41 branch offices in Central Illinois, Wisconsin, Indiana, Florida,
+Nebraska, Arizona and Nevada. In a further example of our sharpened strategic focus, the Company
+has sold operations or assets of other subsidiaries that were deemed to be non-essential to our
+future business direction, including commercial finance and mortgage banking companies.
+
+
+<P align="center" style="font-size: 10pt; display: none">1
+<!-- PAGEBREAK -->
+
+<P align="left" style="font-size: 12pt"><B>Regulatory Compliance</B>
+
+
+<P align="left" style="font-size: 12pt">Following the CIB Bank &#150; Chicago sale, we believe that CIB Marine and all of our banking
+subsidiaries meet the capital requirements specified under the outstanding regulatory orders and
+agreements. Further, we have taken action to comply with the other terms of the regulatory orders
+and agreements, and continue to work diligently with the regulators to comply with any outstanding
+items.
+
+
+<P align="left" style="font-size: 12pt"><B>Additions to the Board of Directors</B>
+
+
+<P align="left" style="font-size: 12pt">We are pleased to announce the appointments of Gary L. Longman and Steven C. Hillard to the CIB
+Marine Board of Directors.
+
+
+<P align="left" style="font-size: 12pt">Mr.&nbsp;Longman was a member of the accounting firm KPMG for 30&nbsp;years, serving in such key roles as
+Partner in Charge of the firm&#146;s Assurance practice for the Chicago Metro area, and Partner in
+Charge of the Chicago Audit practice. He retired from KPMG in 2000 to become President and Chief
+Executive Officer of the Sunny Ridge Family Center adoption agency in Wheaton, Illinois. Mr.
+Longman also serves as Chairman of CIB Marine&#146;s Audit Committee.
+
+
+<P align="left" style="font-size: 12pt">Mr.&nbsp;Hillard is President of HILMUN Holdings, Inc., a diversified holding company that he
+established in 1991. He has a longstanding association with our Company, having served on the CIB
+Marine Board of Directors from 1991 to 2002. In the past, Mr.&nbsp;Hillard also held the positions of
+Chairman of the Board, President and Chief Executive Officer of Central Illinois Bank, McLean
+County (which is now a part of Central Illinois Bank).
+
+
+<P align="left" style="font-size: 12pt">We are encouraged by the willingness of such accomplished professionals as Gary Longman and Steven
+Hillard to join our Board and contribute to the future direction of our Company. In addition, as
+previously disclosed, I have also accepted appointment to the Board, further demonstrating my
+confidence in CIB Marine.
+
+
+<P align="left" style="font-size: 12pt"><B>Focused on the Future</B>
+
+
+<P align="left" style="font-size: 12pt">While CIB Marine still faces numerous challenges, we are encouraged by the positive developments
+described above. The independent review has been substantially completed, efforts are underway to
+complete the audited consolidated financial statements, and the sale of CIB Bank &#150; Chicago has
+improved our capital position and regulatory standing. In addition, we continue to take further
+action to enhance our asset quality, credit culture and operations. We remain sharply focused on
+strengthening CIB Marine and building a growing, profitable community banking organization. As
+always, we appreciate your support and will continue to keep you informed of our progress.
+
+
+<P align="left" style="font-size: 12pt">Sincerely,
+
+
+<P align="left" style="font-size: 12pt">Stanley J. Calderon
+<BR>
+President and Chief Executive Officer
+
+
+<P align="left" style="font-size: 12pt"><I>This letter contains forward-looking information. Actual results could differ materially from
+those indicated by these statements. Please refer to CIB Marine&#146;s periodic reports to the SEC,
+including the sections captioned &#147;Forward Looking Statements&#148;, for information about factors that
+could affect actual results.</I>
+
+
+
+<P align="center" style="font-size: 10pt; display: none">2
+
+
+<!-- </DIV> -->
+<!-- </DIV> -->
+</BODY>
+
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

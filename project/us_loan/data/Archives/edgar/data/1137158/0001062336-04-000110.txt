@@ -1,0 +1,334 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ T2sbfy2L2cezZhe1qCO1kCDvCeccid7JWw0hdK0yI4NKlG1eX5aWQ/2c2/LRU+xZ
+ MHzKgNAEPtRmf31t/z/AAQ==
+
+<SEC-DOCUMENT>0001062336-04-000110.txt : 20041221
+<SEC-HEADER>0001062336-04-000110.hdr.sgml : 20041221
+<ACCEPTANCE-DATETIME>20041221130449
+ACCESSION NUMBER:		0001062336-04-000110
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20041130
+ITEM INFORMATION:		Other Events
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20041221
+DATE AS OF CHANGE:		20041221
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			DISTRIBUTION FINANCIAL SERVICES RV TRUST 1999-1
+		CENTRAL INDEX KEY:			0001137158
+		STANDARD INDUSTRIAL CLASSIFICATION:	MISCELLANEOUS BUSINESS CREDIT INSTITUTION [6159]
+		IRS NUMBER:				911904587
+		STATE OF INCORPORATION:			NY
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-56303-01
+		FILM NUMBER:		041216422
+
+	BUSINESS ADDRESS:	
+		STREET 1:		101 CONVENTION CENTER DRIVE
+		STREET 2:		SUITE 850
+		CITY:			LAS VEGAS
+		STATE:			NV
+		ZIP:			89109
+		BUSINESS PHONE:		9492247679
+
+	MAIL ADDRESS:	
+		STREET 1:		P O BOX 50401
+		CITY:			HENDERSON
+		STATE:			NV
+		ZIP:			89106
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>dfs8k1rv.txt
+<DESCRIPTION>DFS 1999-1 8K NOVEMBER 2004
+<TEXT>
+December 21, 2004
+
+Securities and Exchange Commission
+450 Fifth Street, N.W.
+Judiciary Plaza
+Washington, D.C. 20549
+
+Re: Form 8-K
+    Distribution Financial Services RV Trust 1999-1
+    Registration No. 333-56303-01
+
+On behalf of Distribution Financial Services RV Trust 1999-1 ("Registrant"),
+a Trust which was originated by ETCF Asset Funding Corporation, a Nevada
+corporation, I am transmitting herewith for filing, pursuant to the
+requirements of the Securities and Exchange Commission's Electronic Data
+Gathering, Analysis and Retrieval System, Form 8-K.
+
+Please send either confirmation or suspense notification to e-mail address:
+Darius.Ilgunas@etrade.com at your earliest convenience.
+
+Sincerely,
+
+/s/ Matt Pechulis
+
+<PAGE>
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C. 20549
+
+Commission File Number:  333-56303-01
+
+FORM 8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15 (d) of the Securities Exchange Act of 1934.
+
+December 15, 2004
+(Date of earliest event reporting)
+
+DISTRIBUTION FINANCIAL SERVICES RV TRUST 1999-1
+(Exact name of registrant)
+
+State of Organization - New York
+
+I.R.S. Employer Identification Number: 91-1904587
+
+Principal Executive Offices
+
+c/o Wells Fargo Bank, N.A.
+Sixth and Marquette - N9311-161MAC
+Minneapolis, Minnesota 55479
+Telephone Number: 612-316-1816
+<PAGE>
+Item 8.01.   Other Events.
+
+A copy of the Monthly Payment Date Statement to Noteholders, as required by the
+Transfer and Servicing Agreement, is being filed as Exhibit 1 to this current
+report on Form 8-K.
+Item 9.01.(c). Exhibits.
+<TABLE>
+<CAPTION>
+
+Exhibit
+Number    Document Description
+- ------    ------------------------------------------------------------
+<S>       <C>
+EX-1      Distribution Financial Services RV Trust 1999-1
+          December 15, 2004 Payment Date Statement to Noteholders
+          Per Section 5.08 of the Transfer and Servicing Agreement
+</TABLE>
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the
+Registrant has duly caused this report to be signed on its behalf by the
+Undersigned hereunto duly authorized.
+
+DISTRIBUTION FINANCIAL SERVICES RV TRUST 1999-1
+
+
+By:     Wells Fargo Bank, N.A.
+        Not in its individual capacity but solely as Owner Trustee
+
+
+
+By:     /s/  Sue Dignan
+Title:  Assistant Vice President
+Date:   December 21, 2004
+<PAGE>
+<TABLE>
+EX-1
+DISTRIBUTION FINANCIAL SERVICES RV TRUST 1999-1
+<S>                         <C>
+Accounting Date:            10-Dec-04
+Determination Date:         13-Dec-04
+Monthly Payment Date:       15-Dec-04
+Collection Period Ending:   30-Nov-04
+</TABLE>
+<TABLE>
+I.  COLLECTION ACCOUNT SUMMARY
+
+   Total Available Funds
+   ---------------------
+   <S>                                                                                                               <C>
+    Principal and Interest Payments Received (including Prepayments)                                                  5,549,644.84
+    Net Liquidation Proceeds (including Rebates/Insurance Amounts)                                                       53,968.42
+    Current Monthly Interest Shortfall/Excess                                                                           -73,317.50
+    Recoup of Collection Expenses                                                                                       -16,548.04
+    Amount of Withdrawal, if any, from Reserve Account                                                                  115,906.09
+    Purchase Amounts for Repurchased Receivables                                                                              0.00
+
+   TOTAL AVAILABLE FUNDS                                                                                              5,629,653.81
+</TABLE>
+<TABLE>
+II. SIMPLE INTEREST EXCESS OR SHORTFALLS
+    <S>                                                                                                               <C>
+    Amount of Interest Payments Due During the Collection Period for Receivables                                      1,023,025.40
+    Amount of Interest Payments Received During the Collection Period for Receivables                                 1,096,342.90
+    Amount of Current Month Simple Interest Excess/Shortfall                                                            -73,317.50
+</TABLE>
+<TABLE>
+III.CALCULATION OF RESERVE ACCOUNT DEPOSIT/WITHDRAWALS
+    <S>                                                                                                               <C>
+    Specified Reserve Account Balance (2% of the preceding Collection Period Pool Balance, not less than .75%
+      of the Initial Pool Balance and not more than the outstanding principal balance of the Notes)                   7,500,025.52
+    Beginning Reserve Account Balance                                                                                 7,441,877.11
+    Deposits to Reserve Account (only if Reserve Account is less than the Specified Reserve Account Balance)                  0.00
+    Withdrawals from Reserve Account (to the extent that there are shortfalls on payments of Interest or Principal)    -115,906.09
+    Reserve Account Investment Earnings                                                                                   9,342.88
+    Withdrawals from Reserve Account due to Servicer (to the extent that the Specified Reserve Account Balance
+      and over-collateralization amounts have been met)                                                                       0.00
+    Amount in Reserve Account as of Determination Date (excluding amount to be paid on next Payment Date)             7,335,313.90
+    Total Ending Reserve Balance                                                                                      7,335,313.90
+</TABLE>
+<TABLE>
+IV. COLLECTIONS ON RECEIVABLES
+a)	Interest and Principal Payments Received
+- -----------------------------------------
+    <S>                                                                                                               <C>
+    Interest Payments Received                                                                                        1,096,342.90
+    Scheduled Principal Payments Received                                                                             1,500,495.27
+    Principal Prepayments Received                                                                                    2,952,806.67
+    Total Interest and Principal Payments Received                                                                    5,549,644.84
+
+b)	Liquidation Proceeds
+- ---------------------
+    <S>                                                                                                                 <C>
+    Gross Recovery Proceeds of Liquidated Receivables (including Rebates/Insurance)                                      67,041.87
+      minus Reasonable Expenses                                                                                          13,073.45
+    Net Liquidation Proceeds                                                                                             53,968.42
+    Amount Allocable to Interest                                                                                              0.00
+    Amount Allocable to Principal                                                                                        53,968.42
+
+c)	Purchase Amount - Loans Repurchased from Trust
+- -----------------------------------------------
+    <S>                                                                                                               <C>
+    Amount Allocable to Interest                                                                                              0.00
+    Amount Allocable to Principal                                                                                             0.00
+
+   TOTAL COLLECTED FUNDS                                                                                              5,603,613.26
+</TABLE>
+<PAGE>
+<TABLE>
+V.  CALCULATION OF SERVICING AND TRUSTEE FEES
+   <S>                                                                                                              <C>
+   Pool Balance of Receivables as of the First Day of Collection Period                                             145,073,883.67
+    multiplied by Servicer Fee Rate                                                                                          0.50%
+    divided by Months per Year                                                                                                  12
+   SERVICING FEE AMOUNT                                                                                                  60,447.45
+
+   TRUSTEE FEE AMOUNT (CONSTANT MONTHLY FIGURE)                                                                           1,041.67
+</TABLE>
+<TABLE>
+VI. POOL BALANCE AND PORTFOLIO PERFORMANCE
+
+a)	Pool Balance
+- ------------
+ <S>                                                                                                           <C>
+    Initial Pool Balance                                                                                          1,000,003,402.96
+    Pool Balance as of Preceding Accounting Date                                                                    145,073,883.67
+    Pool Balance as of the Current Accounting Date                                                                  140,141,235.44
+    Age of Pool in Months                                                                                                       69
+
+a.2)Aggregate Note Balance
+   -----------------------
+    <S>                                                                                                             <C>
+    Aggregate Note Balance as of Preceding Accounting Date                                                          143,623,144.83
+    Aggregate Note Balance as of Current Accounting Date                                                            138,739,823.09
+
+b)	Default and Delinquency Performance (includes Repossessions and Bankruptcies)
+- -------------------------------------------------------------------------------
+<CAPTION>
+         Current Month           Number of Loans             Principal Balance            Percentage
+        ---------------         ----------------             -----------------            ----------
+    <S>                              <C>                       <C>                          <C>
+    30-59 Days Delinquent               38                        878,967.89                0.627%
+    60-89 Days Delinquent               17                        378,241.70                0.270%
+    90-119 Days Delinquent              16                        462,863.15                0.330%
+    120+ Days Delinquent                 0                              0.00                0.000%
+    Defaults for Current Period          9                        479,346.29                0.342%
+    Cumulative Defaults              1,253                     50,331,971.49                5.033%
+    Cumulative Recoveries                                      21,227,933.69                2.123%
+
+   Current Period Realized Losses
+   ------------------------------
+    <S>                                                                                                              <C>
+    Current Month Realized Losses                                                                                       479,346.29
+    Current Month Realized Losses as Percentage of Initial Pool Balance                                                     0.048%
+    Preceding Realized Losses                                                                                           323,798.89
+    Preceding Month Realized Losses as Percentage of Initial Pool Balance                                                   0.032%
+    Second Preceding Realized Losses                                                                                    361,011.18
+    Second Preceding Month Realized Losses as Percentage of Initial Pool Balance                                            0.036%
+    Cumulative Realized Losses                                                                                       29,104,037.80
+    Cumulative Realized Losses as Percentage of Initial Pool Balance                                                        2.910%
+</TABLE>
+<PAGE>
+<TABLE>
+VII.DISTRIBUTIONS OF THE TOTAL DISTRIBUTABLE AMOUNT
+<S>                                                                                                                     <C>
+   Total Pool Factor                                                                                                    0.14014076
+   Note Pool Factor                                                                                                     0.13873935
+
+a) Monthly Servicing Fee and any unpaid servicing fee from prior Monthly Payment Dates                                        0.00
+   Servicer Reimbursements for Mistaken Deposits or Posting of Checks Returned for Insufficient Funds (not
+     Otherwise Reimbursed to Servicer)                                                                                        0.00
+
+b) Noteholders' Monthly Interest Distributable Amount
+   ---------------------------------------------------
+    <S>                                                                   <C>
+    Class A-1                                                                   0.00
+    Class A-2                                                                   0.00
+    Class A-3                                                                   0.00
+    Class A-4                                                                   0.00
+    Class A-5                                                             170,429.30
+    Class A-6                                                             322,902.77
+    Class B                                                               132,500.00
+    Class C                                                               120,500.00
+
+   Noteholders' Monthly Principal Distributable Amount
+   --------------------------------------------------
+<CAPTION>
+                                                                                  Noteholders' Monthly
+                                                             Beginning          Principal Distributable                 Ending
+                                                              Balance                   Amount                          Balance
+                                                            ----------         ------------------------                ---------
+    <S>                                                    <C>                       <C>                             <C>
+    Class A-1                                                       0.00                     0.00                             0.00
+    Class A-2                                                       0.00                     0.00                             0.00
+    Class A-3                                                       0.00                     0.00                             0.00
+    Class A-4                                                       0.00                     0.00                             0.00
+    Class A-5                                              34,257,144.83             4,883,321.74                    29,373,823.09
+    Class A-6                                              64,366,000.00                     0.00                    64,366,000.00
+    Class B                                                25,000,000.00                     0.00                    25,000,000.00
+    Class C                                                20,000,000.00                     0.00                    20,000,000.00
+<S>                                                                                                                    <C>
+c) Recaptured Principal from Overcollateralization                                                                       49,326.49
+   Excess Spread Received                                                                                              -165,232.58
+</TABLE>
+<TABLE>
+VIII. POOL STATISTICS
+<S>                                                                                                                  <C>
+   Weighted Average Coupon (WAC)                                                                                             8.89%
+   Weighted Average Remaining Maturity (WAM)                                                                                   107
+
+TOTAL DISTRIBUTION AMOUNT (Serv Fee+Note Int+Note Prin+Reserve Deposit-Reserve Overfunded Withdrawal)                 5,629,653.81
+Plus:     Trustee Fee                                                                                                     1,041.67
+Less:	   Reserve Withdrawal													                 -115,906.09
+TOTAL WIRE TO CHASE                                                                                                   5,514,789.39
+
+Amount Due To Servicer (Excess Spread+Recoup of O/C-Reserve Deposit+Reserve Overfunded Withdrawal-Reserve Withdrawal)         0.00
+</TABLE>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

@@ -1,0 +1,245 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Bdv1siP3LndaBdH7dc8i/kd/zQMi/v+CtlLXAHpbnDITG8WlfzIzLCWOL5L6uEVU
+ VLRrkDCXHc2uaHJmPZJciQ==
+
+<SEC-DOCUMENT>0000890163-04-000457.txt : 20041230
+<SEC-HEADER>0000890163-04-000457.hdr.sgml : 20041230
+<ACCEPTANCE-DATETIME>20041230164426
+ACCESSION NUMBER:		0000890163-04-000457
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20041230
+ITEM INFORMATION:		Departure of Directors or Principal Officers; Election of Directors; Appointment of Principal Officers
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20041230
+DATE AS OF CHANGE:		20041230
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ZIM CORP
+		CENTRAL INDEX KEY:			0001124160
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER PROGRAMMING SERVICES [7371]
+		IRS NUMBER:				651036706
+		STATE OF INCORPORATION:			A6
+		FISCAL YEAR END:			0304
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-31691
+		FILM NUMBER:		041234500
+
+	BUSINESS ADDRESS:	
+		STREET 1:		20 COLONNADE ROAD
+		STREET 2:		SUITE 200
+		CITY:			NEPEAN
+		STATE:			A6
+		ZIP:			K2E 7M6
+		BUSINESS PHONE:		6137271397
+
+	MAIL ADDRESS:	
+		STREET 1:		20 COLONNADE ROAD
+		STREET 2:		SUITE 200
+		CITY:			NEPEAN
+		STATE:			A6
+		ZIP:			K2E 7M6
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	PRIVATE CAPITAL INVESTORS INC
+		DATE OF NAME CHANGE:	20000920
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>s11-5068_8k.txt
+<DESCRIPTION>FORM 8-K
+<TEXT>
+                               NORTHUNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                    FORM 8-K
+
+                                 CURRENT REPORT
+                         Pursuant to Section 13 or 15(d)
+                     of the Securities Exchange Act of 1934
+
+
+       Date of Report (Date of earliest event reported): DECEMBER 29, 2004
+
+
+                                 ZIM CORPORATION
+- --------------------------------------------------------------------------------
+             (Exact name of Registrant as specified in its charter)
+
+                                     CANADA
+             ------------------------------------------------------
+                 (State or other jurisdiction of incorporation)
+
+
+         0-30432                                       NOT APPLICABLE
+- ----------------------------                      --------------------------
+       (Commission                                      (IRS Employer
+       File Number)                                  Identification No.)
+
+                              200-20 COLONNADE ROAD
+                         OTTAWA, ONTARIO, CANADA K2E 7M6
+- --------------------------------------------------------------------------------
+                    (Address of principal executive offices,
+                               including zip code)
+
+                                 (613) 727-1397
+- --------------------------------------------------------------------------------
+                         (Registrant's telephone number)
+
+                                 NOT APPLICABLE
+- --------------------------------------------------------------------------------
+          (Former name or former address, if changed since last report)
+
+
+     Check the appropriate box below if the Form 8-K filing is intended to
+simultaneously satisfy the filing obligations of the registrant under any of the
+following provisions:
+
+| | Written communications pursuant to Rule 425 under the Securities Act (17 CFR
+230.425)
+
+| | Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR
+240.14a-12)
+
+| | Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange
+Act (17 CFR 240.14d-2(b))
+
+| | Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange
+Act (17 CFR 240.13e-4(c))
+
+<PAGE>
+
+ITEM 5.02. DEPARTURE OF DIRECTORS OR PRINCIPAL OFFICERS; ELECTION OF DIRECTORS;
+           APPOINTMENT OF PRINCIPAL OFFICERS.
+
+         (b) On December 30, 2004, ZIM Corporation (OTCBB: ZIMCF) ("ZIM") issued
+a press release announcing Tony Davidson's departure from his position as ZIM's
+Chief Technical Officer and Vice President of Engineering effective as of
+December 29, 2004. A copy of ZIM's press release is furnished as Exhibit 99.1 to
+this Current Report on Form 8-K
+
+ITEM 9.01. FINANCIAL STATEMENTS AND EXHIBITS.
+
+         (c) Exhibits
+
+EXHIBIT NUMBER    EXHIBIT
+
+99.1              Press Release dated December 30, 2004
+
+
+
+
+                                   SIGNATURES
+
+     Pursuant to the requirements of the Securities Exchange Act of 1934, as
+amended, the Registrant has duly caused this Report to be signed on its behalf
+by the undersigned hereunto duly authorized.
+
+
+                                         ZIM CORPORATION
+                                         (Registrant)
+
+
+December 30, 2004                        By: /s/ Michael Cowpland
+                                         ----------------------------------
+                                         Michael Cowpland,
+                                         President and Chief Executive Officer
+
+
+
+
+
+
+
+
+
+
+<PAGE>
+
+
+
+
+
+                                  EXHIBIT INDEX
+
+EXHIBIT NUMBER   EXHIBIT
+
+99.1             Press Release dated December 30, 2004
+
+
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>2
+<FILENAME>s11-5068_ex99.txt
+<DESCRIPTION>EXHIBIT 99.1
+<TEXT>
+                                                                    EXHIBIT 99.1
+
+
+[ZIM LOGO]
+
+
+                         ZIM Announces Management Change
+
+Ottawa, Canada - December 30, 2004 - ZIM Corporation (OTCBB: ZIMCF), a leading
+mobile application developer and service provider for the global SMS (Short
+Message Service) channel, today announced that Tony Davidson has stepped aside
+as Chief Technical Officer and Vice President, Engineering effective December
+29, 2004. As a reflection of the Corporation's streamlined organizational
+structure, ZIM has realigned the Chief Technical Officer and Vice President,
+Engineering responsibilities to other positions within the organization.
+
+"As Tony moves on to pursue new challenges, we would like to thank him for his
+contribution to the success of ZIM and wish him the best for the future," said
+Dr. Michael Cowpland, President and Chief Executive Officer of ZIM.
+
+About ZIM Corporation
+ZIM is a public company in the United States quoted on the NASDAQ owned and
+operated OTCBB under the ticker symbol "ZIMCF". ZIM is a leading mobile
+application developer and service provider for the global SMS channel. ZIM's
+products include mobile e-mail and office tools, such as ZIM SMS Office and ZIM
+SMS Mail, and its message delivery services include Bulk SMS, Premium SMS and
+Location Based Services (LBS). ZIM is also a provider of enterprise-class
+software and tools for designing, developing and manipulating database systems
+and applications. Through its two-way SMS expertise and mobile-enabling
+technologies, ZIM bridges the gap between data and mobility. For more
+information on ZIM and its customers, partners and products, visit: www.zim.biz.
+
+
+
+                                      -30-
+
+
+For more information:
+
+Jeremy Melhuish
+Vice President
+Communications and Marketing
+ZIM Corporation
+
+Text: +16138515144
+Phone: 1 613.727.1397 ext. 171
+E-mail: jmelhuish@zim.biz
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

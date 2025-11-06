@@ -1,0 +1,563 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ K9G5BiTVP15oytjxkhZvqu8z5IfzsT7jrMtw9kuKCNAZ6PTxzpawUd5u1ZRXNA+X
+ JfiKrH7sjddws0B689+tqg==
+
+<SEC-DOCUMENT>0000897101-04-002808.txt : 20041230
+<SEC-HEADER>0000897101-04-002808.hdr.sgml : 20041230
+<ACCEPTANCE-DATETIME>20041230144826
+ACCESSION NUMBER:		0000897101-04-002808
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	20041230
+ITEM INFORMATION:		Temporary Suspension of Trading Under Registrant's Employee Benefit Plans
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20041230
+DATE AS OF CHANGE:		20041230
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			HECLA MINING CO/DE/
+		CENTRAL INDEX KEY:			0000719413
+		STANDARD INDUSTRIAL CLASSIFICATION:	MINING, QUARRYING OF NONMETALLIC MINERALS (NO FUELS) [1400]
+		IRS NUMBER:				820126240
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-08491
+		FILM NUMBER:		041233765
+
+	BUSINESS ADDRESS:	
+		STREET 1:		6500 N MINERAL DRIVE SUITE 200
+		STREET 2:		NONE
+		CITY:			COEUR D'ALENE
+		STATE:			ID
+		ZIP:			83815-9408
+		BUSINESS PHONE:		2087694100
+
+	MAIL ADDRESS:	
+		STREET 1:		6500 N MINERAL DRIVE SUITE 200
+		STREET 2:		NONE
+		CITY:			COEUR D'ALENE
+		STATE:			ID
+		ZIP:			83815-9408
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>hecla046128_8k.htm
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>Hecla Mining Company Form 8-K dated December 30, 2004</TITLE></HEAD>
+<BODY>
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center" FSL="Default" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE="3"><B>UNITED STATES
+<BR>SECURITIES AND EXCHANGE COMMISSION</B> </FONT>
+<BR><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>Washington D.C. 20549</B> </FONT> </P>
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center" FSL="Default" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE="4"><B>FORM 8-K</B> </FONT> </P>
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center" FSL="Default" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>CURRENT REPORT
+<BR>PURSUANT TO SECTION 13 OR 15(d) OF THE
+<BR>SECURITIES EXCHANGE ACT OF 1934 </FONT></P>
+
+<TABLE WIDTH=400 align=center BORDER="0" CELLPADDING="0" CELLSPACING="0">
+<TR VALIGN="BOTTOM">
+<TD WIDTH=45% align=left><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Date of Report<BR>
+(Date of earliest event reported):</FONT></TD>
+<TD WIDTH=9%></TD>
+<TD WIDTH=45% align=right><FONT FACE="Times New Roman, Times, Serif" SIZE=2>December 30, 2004</FONT></TD>
+<TD WIDTH=1%></TD></TR>
+</TABLE>
+<BR><BR>
+
+<TABLE WIDTH=600 align=center BORDER="0" CELLPADDING="0" CELLSPACING="0">
+<TR VALIGN="BOTTOM">
+     <TD colspan=3 align=center><FONT FACE="Times New Roman, Times, Serif" SIZE="4"><B>Hecla Mining Company</B></FONT></TD></TR>
+<TR>
+     <TD colspan=3><HR size=1 color=black></TD></TR>
+<TR VALIGN="BOTTOM">
+     <TD colspan=3 align=center><FONT FACE="Times New Roman, Times, Serif" SIZE=2>(Exact Name of Registrant as Specified in Its Charter) </FONT></TD></TR>
+<TR><TD>&nbsp;</TD></TR>
+
+<TR>
+     <TD colspan=3 align=center><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>Delaware</B> </FONT> </TD></TR>
+<TR>
+     <TD colspan=3><HR size=1 color=black></TD></TR>
+<TR VALIGN="BOTTOM">
+     <TD colspan=3 align=center><FONT FACE="Times New Roman, Times, Serif" SIZE=2>(State or Other Jurisdiction of Incorporation) </FONT></TD></TR>
+<TR><TD>&nbsp;</TD></TR>
+
+<TR VALIGN="BOTTOM">
+     <TD WIDTH=45% align=center><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>1-8491</B> </FONT></TD>
+       <TD WIDTH=9%></TD>
+     <TD WIDTH=45% align=center><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>82-0126240</B> </FONT> </TD>
+       <TD WIDTH=1%></TD></TR>
+<TR>
+     <TD><HR size=1 color=black></TD><TD></TD>
+     <TD><HR size=1 color=black></TD></TR>
+<TR VALIGN="BOTTOM">
+     <TD align=center><FONT FACE="Times New Roman, Times, Serif" SIZE="2">(Commission File Number) </FONT></TD>
+       <TD></TD>
+     <TD align=center><FONT FACE="Times New Roman, Times, Serif" SIZE="2">(IRS Employer Identification No.) </FONT></TD></TR>
+<TR><TD>&nbsp;</TD></TR>
+
+<TR VALIGN="BOTTOM">
+     <TD align=center><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>6500 North Mineral Drive, Suite 200<BR>Coeur d&#146;Alene, Idaho</B> </FONT> </TD>
+       <TD></TD>
+     <TD align=center><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>83815-9408</B> </FONT> </TD></TR>
+<TR>
+     <TD><HR size=1 color=black></TD><TD></TD>
+     <TD><HR size=1 color=black></TD></TR>
+<TR VALIGN="BOTTOM">
+       <TD align=center><FONT FACE="Times New Roman, Times, Serif" SIZE="2">(Address of Principal Executive Offices) </FONT></TD><TD></TD>
+       <TD align=center><FONT FACE="Times New Roman, Times, Serif" SIZE="2">(Zip Code) </FONT></TD></TR>
+<TR><TD>&nbsp;</TD></TR>
+
+
+<TR VALIGN="BOTTOM">
+     <TD colspan=3 align=center><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>(208) 769-4100</B> </FONT> </TD></TR>
+<TR>
+     <TD colspan=3><HR size=1 color=black></TD></TR>
+<TR VALIGN="BOTTOM">
+     <TD colspan=3 align=center><FONT FACE="Times New Roman, Times, Serif" SIZE="2">(Registrant&#146;s Telephone Number, Including Area Code) </FONT></TD></TR>
+
+<TR><TD>&nbsp;</TD></TR>
+
+<TR VALIGN="BOTTOM">
+     <TD colspan=3 align=center><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>N/A</B> </FONT> </TD></TR>
+<TR>
+     <TD colspan=3><HR size=1 color=black></TD></TR>
+<TR VALIGN="BOTTOM">
+     <TD colspan=3 align=center><FONT FACE="Times New Roman, Times, Serif" SIZE="2">(Former Name or Former Address, if Changed Since Last Report) </FONT></TD></TR>
+</TABLE>
+
+<!-- MARKER FORMAT-SHEET="Para Large Indent" FSL="Default" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Check
+the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the
+filing obligation of the registrant under any of the following provisions (<I>see</I>
+General Instruction A.2. below): </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Hang Level 1" FSL="Default" -->
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0>
+<TR VALIGN=TOP>
+<TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp; </FONT></TD>
+<TD WIDTH=5%><FONT FACE="wingdings" SIZE=2>o </FONT></TD>
+<TD><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp; </FONT></TD>
+<TD WIDTH=90%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) </FONT></TD>
+</TR>
+</TABLE>
+<BR>
+
+<!-- MARKER FORMAT-SHEET="Para Hang Level 1" FSL="Default" -->
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0>
+<TR VALIGN=TOP>
+<TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp; </FONT></TD>
+<TD WIDTH=5%><FONT FACE="wingdings" SIZE=2>o </FONT></TD>
+<TD><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp; </FONT></TD>
+<TD WIDTH=90%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) </FONT></TD>
+</TR>
+</TABLE>
+<BR>
+
+<!-- MARKER FORMAT-SHEET="Para Hang Level 1" FSL="Default" -->
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0>
+<TR VALIGN=TOP>
+<TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp; </FONT></TD>
+<TD WIDTH=5%><FONT FACE="wingdings" SIZE=2>o </FONT></TD>
+<TD><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp; </FONT></TD>
+<TD WIDTH=90%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Pre-commencement communications pursuant to Rule 14-d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) </FONT></TD>
+</TR>
+</TABLE>
+<BR>
+
+<!-- MARKER FORMAT-SHEET="Para Hang Level 1" FSL="Default" -->
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0>
+<TR VALIGN=TOP>
+<TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp; </FONT></TD>
+<TD WIDTH=5%><FONT FACE="wingdings" SIZE=2>o </FONT></TD>
+<TD><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp; </FONT></TD>
+<TD WIDTH=90%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) </FONT></TD>
+</TR>
+</TABLE>
+<BR>
+
+
+<BR>
+<HR SIZE=3 COLOR=GRAY NOSHADE>
+<!-- *************************************************************************** -->
+<!-- MARKER PAGE="sheet: 0; page: 0" -->
+<BR>
+
+
+<!-- MARKER FORMAT-SHEET="Head Major Left Bold" FSL="Default" -->
+<H1 ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Item 5.04&nbsp;&nbsp;&nbsp;&nbsp;Temporary
+Suspension of Trading Under Registrant&#146;s Employee Benefit Plans.</FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Para Large Indent" FSL="Default" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On
+December 15, 2004, Hecla Mining Company (the &#147;Company&#148;) sent a notice to all
+participants under the Hecla Mining Company Capital Accumulation (401(k)) Plan (the
+&#147;Plan&#148;) stating that the Company was changing the record keeper of the Plan. As
+a result of the time required to effect this change in the Plan, on December 30, 2004, a
+blackout notice was sent to all executive officers and directors of the Company informing
+them that they (and their immediate family members who share their residence) could not
+purchase, sell, transfer, acquire or dispose of shares of the Company&#146;s common stock
+or options from January 28, 2005 to February 21, 2005. The notice was provided pursuant to
+Regulation BTR under the Securities Act of 1934 and Section 306 of the Sarbanes-Oxley Act
+of 2002. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Indent" FSL="Default" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If
+the executive officers or directors have any questions pertaining to the blackout period
+they are directed to contact Michael B. White by telephone at (208) 769-4110 or by mail at
+6500 N. Mineral Drive, Suite 200, Coeur&nbsp;d&#146;Alene, ID 83815-9408. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Indent" FSL="Default" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A
+copy of the notice transmitted to the executive officers and directors of the Company is
+set forth in Exhibit 99 hereto and is incorporated by reference into this Item. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Major Left Bold" FSL="Default" -->
+<H1 ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Item 9.01&nbsp;&nbsp;&nbsp;&nbsp;Financial Statements and Exhibits. </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Para Hang" FSL="Default" -->
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0>
+<TR VALIGN=TOP>
+<TD WIDTH=5% align=right><FONT FACE="Times New Roman, Times, Serif" SIZE=2>(c) </FONT></TD>
+<TD><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp; </FONT></TD>
+<TD WIDTH=95%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;Exhibits.
+The following exhibit is furnished as part of this report: </FONT></TD>
+</TR>
+</TABLE>
+<BR>
+
+<!-- MARKER FORMAT-SHEET="Para Hang Level 1" FSL="Default" -->
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0>
+<TR VALIGN=TOP>
+<TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp; </FONT></TD>
+<TD WIDTH=5% align=right><FONT FACE="Times New Roman, Times, Serif" SIZE=2>99  </FONT></TD>
+<TD><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp; </FONT></TD>
+<TD WIDTH=90%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;Notice
+of Blackout Period to Directors and Executive Officers of Hecla Mining Company, dated
+December 30, 2004</FONT></TD>
+</TR>
+</TABLE>
+<BR>
+
+
+<HR SIZE=5 COLOR=GRAY NOSHADE>
+<!-- MARKER PAGE="sheet: 2; page: 2" -->
+
+
+<!-- MARKER FORMAT-SHEET="Head Center Underline" FSL="Default" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>SIGNATURE</FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Large Indent" FSL="Default" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pursuant
+to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused
+this report to be signed on its behalf by the undersigned hereunto duly authorized. </FONT></P>
+
+<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 WIDTH=90%>
+<TR VALIGN=Top>
+     <TD WIDTH=38% ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD WIDTH=28% ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD WIDTH=1% ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD WIDTH=1% ALIGN=left><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD WIDTH=33% ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD WIDTH=10% ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+
+<TR VALIGN=Top>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=left colspan=4><FONT FACE="Times New Roman, Times, Serif" SIZE=2>HECLA MINING COMPANY</FONT></TD></TR>
+<TR VALIGN=Top>
+     <TD align=left><FONT FACE="Times New Roman, Times, Serif" SIZE=2><BR>&nbsp;&nbsp;&nbsp;</font></td><TD></TD>
+     <TD align=left><FONT FACE="Times New Roman, Times, Serif" SIZE=2><BR>By:&nbsp;&nbsp;</FONT></TD>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2><BR>/s/&nbsp;&nbsp;&nbsp;Michael B. White </FONT></TD>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR>
+     <TD COLSPAN=3>&nbsp;</td><td colspan=2 align=left><HR NOSHADE COLOR=Black SIZE=1></TD></TR>
+<TR VALIGN=Top>
+     <TD colspan=3></TD><TD colspan=2 ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Name:&nbsp;&nbsp;&nbsp;&nbsp;Michael B. White<BR>
+Title:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Corporate Secretary</FONT></TD>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+</TABLE>
+<BR>
+
+<!-- MARKER FORMAT-SHEET="Head Left" FSL="Default" -->
+<P ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Dated: December 30, 2004</FONT></P>
+
+
+<HR SIZE=5 COLOR=GRAY NOSHADE>
+<!-- MARKER PAGE="sheet: 3; page: 3" -->
+
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center" FSL="Default" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2><B>EXHIBIT INDEX</B></FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Large Hang Level 1" FSL="Default" -->
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0>
+<TR VALIGN=TOP>
+<TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp; </FONT></TD>
+<TD WIDTH=10% align=center><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><U>Exhibit&nbsp;No.</U></FONT></TD>
+<TD><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp; </FONT></TD>
+<TD WIDTH=85%><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><U>Description</U></FONT></TD>
+</TR>
+</TABLE>
+<BR>
+
+<!-- MARKER FORMAT-SHEET="Para Large Hang Level 1" FSL="Default" -->
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0>
+<TR VALIGN=TOP>
+<TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp; </FONT></TD>
+<TD WIDTH=10% align=center><FONT FACE="Times New Roman, Times, Serif" SIZE=2>99</FONT></TD>
+<TD><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp; </FONT></TD>
+<TD WIDTH=85%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Notice of Blackout Period to Directors and Executive Officers of
+Hecla Mining Company, dated December 30, 2004</FONT></TD>
+</TR>
+</TABLE>
+<BR>
+
+
+<BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR>
+<HR SIZE=5 COLOR=GRAY NOSHADE>
+<BR>
+
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>2
+<FILENAME>hecla046128_ex99.htm
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>Exhibit 99 to Hecla Mining Form 8-K dated December 30, 2004</TITLE></HEAD>
+<BODY>
+
+
+<!-- MARKER FORMAT-SHEET="Head Right" FSL="Default" -->
+<P ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2><B>Exhibit 99</B></FONT></P>
+
+
+<!-- MARKER FORMAT-SHEET="Para Default" FSL="Default" -->
+<P><IMG SRC="heclalogo.gif"></P>
+
+
+<!-- MARKER FORMAT-SHEET="Head Center Underline" FSL="Default" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2><U>M E M O R A N D U M</U> </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Hang" FSL="Default" -->
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0>
+<TR VALIGN=TOP>
+<TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>TO:  </FONT></TD>
+<TD><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp; </FONT></TD>
+<TD WIDTH=95%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Directors and Executive Officers </FONT></TD>
+</TR>
+</TABLE>
+<BR>
+
+<!-- MARKER FORMAT-SHEET="Para Hang" FSL="Default" -->
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0>
+<TR VALIGN=TOP>
+<TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>FROM:  </FONT></TD>
+<TD><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp; </FONT></TD>
+<TD WIDTH=95%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Michael B. White, Corporate Secretary </FONT></TD>
+</TR>
+</TABLE>
+<BR>
+
+<!-- MARKER FORMAT-SHEET="Para Hang" FSL="Default" -->
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0>
+<TR VALIGN=TOP>
+<TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>RE:  </FONT></TD>
+<TD><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp; </FONT></TD>
+<TD WIDTH=95%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Notice of Blackout Period </FONT></TD>
+</TR>
+</TABLE>
+<BR>
+
+<!-- MARKER FORMAT-SHEET="Para Hang" FSL="Default" -->
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0>
+<TR VALIGN=TOP>
+<TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Date:  </FONT></TD>
+<TD><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp; </FONT></TD>
+<TD WIDTH=95%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>December 30, 2004 </FONT></TD>
+</TR>
+</TABLE>
+<BR>
+
+<!-- MARKER FORMAT-SHEET="Para Indent" FSL="Default" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As
+a director or executive officer of Hecla Mining Company (the &#147;Company&#148;), you are
+subject to the restrictions under Section 306(a) of the Sarbanes-Oxley Act of 2002, which
+prohibits certain trades during pension plan &#147;blackout&#148; periods.&nbsp; </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Indent" FSL="Default" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The
+Company, as plan sponsor of the Hecla Mining Company Capital Accumulation Plan (401(k)
+Plan) (the &#147;Plan&#148;), has decided to change record-keepers from Strong Investment
+to The Vanguard Group, effective January 28, 2005. In order for Strong Investments to
+perform a final reconciliation of the Plan assets and for The Vanguard Group to establish
+participant accounts, a blackout period will be imposed under the Plan, <B>beginning at
+[4:00 p.m.] Eastern time on January 28, 2005 and ending at [9:30 a.m.] Eastern time on
+February 21, 2005.</B> </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Indent" FSL="Default" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;While
+the blackout period is in effect, you (and your immediate family members who share your
+residence) should not engage in any purchase, sale, transfer, acquisition or disposition
+of any equity securities of the Company, including common stock and options. There are
+transactions exempt from this rule, including dividend reinvestments under a dividend
+reinvestment plan and trading pursuant to a 10b5-1 trading plan. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Indent" FSL="Default" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The
+above prohibition is in addition to the normal restrictions on trading activity that the
+Company imposes on its executive officers and directors.&nbsp; In particular, you will
+continue to be subject to the normal earnings blackout that will begin on January 19,
+2005, and remain in effect until after the Company&#146;s release of earnings in February
+2005. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Indent" FSL="Default" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If
+you have any questions pertaining to the blackout period contact Michael B. White by
+telephone at (208) 769-4110 or by mail at 6500 N. Mineral Drive, Suite 200,
+Coeur&nbsp;d&#146;Alene, ID 83815-9408. </FONT></P>
+
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>3
+<FILENAME>heclalogo.gif
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 heclalogo.gif
+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
+&:B$0"``[
+`
+end
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

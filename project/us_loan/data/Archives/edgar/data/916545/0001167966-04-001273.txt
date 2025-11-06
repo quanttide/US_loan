@@ -1,0 +1,311 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ FuztZZ8fgux53MDX2A8TWO3fhVou+DWCgJDtqD4krVOnSQpffPsWjwzCzn1re/P6
+ 4rlIQy3MBbrvkMH0c/qQ4A==
+
+<SEC-DOCUMENT>0001167966-04-001273.txt : 20041223
+<SEC-HEADER>0001167966-04-001273.hdr.sgml : 20041223
+<ACCEPTANCE-DATETIME>20041222193545
+ACCESSION NUMBER:		0001167966-04-001273
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20041222
+ITEM INFORMATION:		Regulation FD Disclosure
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20041223
+DATE AS OF CHANGE:		20041222
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TURBOCHEF TECHNOLOGIES INC
+		CENTRAL INDEX KEY:			0000916545
+		STANDARD INDUSTRIAL CLASSIFICATION:	REFRIGERATION & SERVICE INDUSTRY MACHINERY [3580]
+		IRS NUMBER:				481100390
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-32334
+		FILM NUMBER:		041222119
+
+	BUSINESS ADDRESS:	
+		STREET 1:		10500 METRIC DRIVE SUITE 128
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75243
+		BUSINESS PHONE:		2143419471
+
+	MAIL ADDRESS:	
+		STREET 1:		10500 NETRIC DRIVE
+		STREET 2:		SUITE 128
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75243
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	TURBOCHEF INC
+		DATE OF NAME CHANGE:	19940207
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>t4384_8k.htm
+<TEXT>
+<HTML><HEAD>
+<TITLE>Turbochef Technologies, Inc. 8-K
+</TITLE>
+</HEAD>
+<BODY id=38><DIV><BR>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1; MARGIN-RIGHT: 0pt" align=center><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif"><STRONG>UNITED STATES</STRONG></FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1; MARGIN-RIGHT: 0pt" align=center><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif"><STRONG>SECURITIES AND EXCHANGE COMMISSION</STRONG></FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1; MARGIN-RIGHT: 0pt" align=center><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif"><STRONG>WASHINGTON, DC 20549</STRONG></FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1; MARGIN-RIGHT: 0pt" align=center><BR></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1; MARGIN-RIGHT: 0pt" align=center><FONT id=TAB1 style="MARGIN-LEFT: 36pt"></FONT><FONT id=TAB1 style="MARGIN-LEFT: 36pt"></FONT><FONT id=TAB1 style="MARGIN-LEFT: 36pt"></FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1; MARGIN-RIGHT: 0pt" align=center>
+<DIV>
+<HR align=center width="20%" color=#000000 noShade SIZE=1>
+</DIV><BR></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1; MARGIN-RIGHT: 0pt" align=center><BR></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1; MARGIN-RIGHT: 0pt" align=center><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif"><STRONG>FORM 8-K</STRONG></FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1; MARGIN-RIGHT: 0pt" align=center><BR></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1; MARGIN-RIGHT: 0pt" align=center><BR></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1; MARGIN-RIGHT: 0pt" align=center><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif"><STRONG>CURRENT REPORT</STRONG></FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1; MARGIN-RIGHT: 0pt" align=center><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif"><STRONG>Pursuant to Section 13 or 15(d) of the</STRONG></FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1; MARGIN-RIGHT: 0pt" align=center><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif"><STRONG>Securities Exchange Act of 1934</STRONG></FONT></DIV>
+<TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+<TR>
+<TD vAlign=top align=left width="43%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1; MARGIN-RIGHT: 0pt" align=left>&nbsp;</DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1; MARGIN-RIGHT: 0pt" align=left>&nbsp;</DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1; MARGIN-RIGHT: 0pt" align=left><FONT style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif">Date of Report (Date of earliest event reported)</FONT></DIV></TD>
+<TD style="BORDER-BOTTOM: black thin solid" vAlign=top align=middle width="36%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1; MARGIN-RIGHT: 0pt" align=center><FONT style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif"><STRONG></STRONG></FONT>&nbsp;</DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1; MARGIN-RIGHT: 0pt" align=center><FONT style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif"><STRONG></STRONG></FONT>&nbsp;</DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1; MARGIN-RIGHT: 0pt" align=center><FONT style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif"><STRONG>December 22, 2004</STRONG></FONT></DIV></TD></TR></TABLE>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1; MARGIN-RIGHT: 0pt" align=center><BR></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1; MARGIN-RIGHT: 0pt" align=center><BR></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1; MARGIN-RIGHT: 0pt" align=center><FONT style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif"><STRONG><U>TURBOCHEF TECHNOLOGIES, INC.</U></STRONG></FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1; MARGIN-RIGHT: 0pt" align=center><FONT style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif">(Exact Name of Registrant as Specified in Charter)</FONT></DIV>
+<TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+<TR>
+<TD style="BORDER-BOTTOM: black thin solid" vAlign=top align=middle width="27%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1; MARGIN-RIGHT: 0pt" align=center>&nbsp;</DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1; MARGIN-RIGHT: 0pt" align=center><FONT style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif"><STRONG>Delaware</STRONG></FONT></DIV></TD>
+<TD style="BORDER-BOTTOM: black thin solid" vAlign=top align=middle width="27%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1; MARGIN-RIGHT: 0pt" align=center><FONT style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif"><STRONG></STRONG></FONT>&nbsp;</DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1; MARGIN-RIGHT: 0pt" align=center><FONT style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif"><STRONG>0-23478</STRONG></FONT></DIV></TD>
+<TD style="BORDER-BOTTOM: black thin solid" vAlign=top align=middle width="27%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1; MARGIN-RIGHT: 0pt" align=center><FONT style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif"><STRONG></STRONG></FONT>&nbsp;</DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1; MARGIN-RIGHT: 0pt" align=center><FONT style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif"><STRONG>48-1100390</STRONG></FONT></DIV></TD></TR>
+<TR>
+<TD vAlign=top align=middle width="27%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1; MARGIN-RIGHT: 0pt" align=center><FONT style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif">(State or Other Jurisdiction</FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1; MARGIN-RIGHT: 0pt" align=center><FONT style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif">of Incorporation)</FONT></DIV></TD>
+<TD vAlign=top align=middle width="27%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1; MARGIN-RIGHT: 0pt" align=center><FONT style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif">(Commission</FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1; MARGIN-RIGHT: 0pt" align=center><FONT style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif">File Number)</FONT></DIV></TD>
+<TD vAlign=top align=middle width="27%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1; MARGIN-RIGHT: 0pt" align=center><FONT style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif">(IRS Employer</FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1; MARGIN-RIGHT: 0pt" align=center><FONT style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif">Identification No.)</FONT></DIV></TD></TR></TABLE>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1; MARGIN-RIGHT: 0pt" align=center><BR></DIV>
+<TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+<TR>
+<TD style="BORDER-BOTTOM: black thin solid" vAlign=top align=middle width="64%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1; MARGIN-RIGHT: 0pt" align=center><FONT style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif"><STRONG>Six Concourse Parkway, Suite 1900, Atlanta, Georgia</STRONG></FONT></DIV></TD>
+<TD style="BORDER-BOTTOM: black thin solid" vAlign=top align=middle width="15%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1; MARGIN-RIGHT: 0pt" align=center><FONT style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif"><STRONG>30328</STRONG></FONT></DIV></TD></TR>
+<TR>
+<TD vAlign=top align=middle width="64%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1; MARGIN-RIGHT: 0pt" align=center><FONT style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif">(Address of Principal Executive Offices)</FONT></DIV></TD>
+<TD vAlign=top align=middle width="15%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1; MARGIN-RIGHT: 0pt" align=center><FONT style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif">(Zip Code)</FONT></DIV></TD></TR></TABLE>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1; MARGIN-RIGHT: 0pt" align=center><BR></DIV>
+<TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+<TR>
+<TD vAlign=top align=left width="46%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1; MARGIN-RIGHT: 0pt" align=left><FONT style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif">Registrant&#146;s telephone number, including area code:</FONT></DIV></TD>
+<TD style="BORDER-BOTTOM: black thin solid" vAlign=top align=middle width="33%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1; MARGIN-RIGHT: 0pt" align=center><FONT style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif"><STRONG>(678) 987-1700</STRONG></FONT></DIV></TD></TR></TABLE>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1; MARGIN-RIGHT: 0pt" align=center><BR></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1; MARGIN-RIGHT: 0pt" align=center><FONT style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif"><STRONG><U>Not Applicable</U></STRONG></FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1; MARGIN-RIGHT: 0pt" align=center><FONT style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif">(Former Name or Former Address, if Changed Since Last Report)</FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1; MARGIN-RIGHT: 0pt" align=justify><BR></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1; MARGIN-RIGHT: 0pt" align=justify><FONT style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif">Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (</FONT><FONT style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif"><EM>see</EM></FONT><FONT style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif"> General Instruction A.2. below):</FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 36pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1; MARGIN-RIGHT: 0pt" align=justify><BR></DIV>
+<TABLE id=hangingindent cellSpacing=0 cellPadding=0 width="100%" align=center border=0>
+<TR style="LINE-HEIGHT: 1" vAlign=top>
+<TD style="WIDTH: 36pt" align=left><FONT face=Wingdings>o</FONT></TD>
+<TD align=left><FONT style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif">Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)</FONT></TD></TR></TABLE>
+<TABLE id=hangingindent cellSpacing=0 cellPadding=0 width="100%" align=center border=0>
+<TR style="LINE-HEIGHT: 1" vAlign=top>
+<TD style="WIDTH: 36pt" align=left><FONT face=Wingdings>o</FONT></TD>
+<TD align=left><FONT style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif">Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)</FONT></TD></TR></TABLE>
+<TABLE id=hangingindent cellSpacing=0 cellPadding=0 width="100%" align=center border=0>
+<TR style="LINE-HEIGHT: 1" vAlign=top>
+<TD style="WIDTH: 36pt" align=left><FONT face=Wingdings>o</FONT></TD>
+<TD align=left><FONT style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif">Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))</FONT></TD></TR></TABLE>
+<TABLE id=hangingindent cellSpacing=0 cellPadding=0 width="100%" align=center border=0>
+<TR style="LINE-HEIGHT: 1" vAlign=top>
+<TD style="WIDTH: 36pt" align=left><FONT face=Wingdings>o</FONT></TD>
+<TD align=left><FONT style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif">Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))</FONT></TD></TR></TABLE>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1; MARGIN-RIGHT: 0pt" align=center><BR></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1; MARGIN-RIGHT: 0pt" align=center><BR></DIV>
+<DIV><BR>
+<TABLE id=PGBRK cellSpacing=0 cellPadding=0 width="100%" align=center border=0>
+<TR vAlign=top>
+<TD width="100%" colSpan=3>&nbsp;</TD></TR>
+<TR>
+<TD align=left width="33%"><FONT size=1>&nbsp;</FONT></TD>
+<TD align=middle width="34%"><FONT size=1>&nbsp;</FONT></TD>
+<TD align=right width="33%"><FONT size=1>&nbsp;</FONT></TD></TR>
+<TR vAlign=top>
+<TD width="100%" colSpan=3><FONT size=1>
+<HR style="PAGE-BREAK-AFTER: always" color=#c0c0c0 noShade SIZE=1>
+</FONT></TD></TR></TABLE>
+<TABLE id=HDR cellSpacing=0 cellPadding=0 width="100%" align=center border=0>
+<TR>
+<TD vAlign=bottom width="100%">&nbsp;</TD></TR></TABLE><BR></DIV>
+<DIV></DIV><BR>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1; MARGIN-RIGHT: 0pt" align=justify><FONT style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif"><STRONG>ITEM 7.01<FONT id=TAB2 style="LETTER-SPACING: 9pt">&nbsp;&nbsp;&nbsp;</FONT>&nbsp;</STRONG></FONT><FONT style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif"><STRONG>REGULATION FD DISCLOSURE</STRONG></FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1; MARGIN-RIGHT: 0pt" align=justify><BR></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1; MARGIN-RIGHT: 0pt" align=justify><FONT id=TAB1 style="MARGIN-LEFT: 36pt"></FONT><FONT style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif">TurboChef Technologies, Inc. filed a Certificate of Amendment to its Restated Certificate of Incorporation (the &#147;Amendment&#148;) on December 22, 2004 making effective as of 9:00 a.m. on December 27, 2004 its previously announced one-for-three reverse split of its outstanding common stock. The Amendment and the reverse stock split are described in detail in TurboChef&#146;s Information Statement dated November 30, 2004, previously mailed to stockholders of record on or about December 7, 2004.</FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1; MARGIN-RIGHT: 0pt" align=justify><BR></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1; MARGIN-RIGHT: 0pt" align=justify><FONT id=TAB1 style="MARGIN-LEFT: 36pt"></FONT><FONT style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif">The information in this Report furnished pursuant to this Item 7.01 shall not be deemed to be &#147;filed&#148; for purposes of Section 18 of the Exchange Act, or otherwise subject to the liabilities of that section. It may only be incorporated by reference in another filing under the Exchange Act or Securities Act of 1933, as amended, if such subsequent filing references this Item 7.01 of this Form 8-K.</FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 72pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1; MARGIN-RIGHT: 0pt" align=left><BR></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1; MARGIN-RIGHT: 0pt" align=left><FONT style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif"><STRONG>ITEM 9.01<FONT id=TAB2 style="LETTER-SPACING: 9pt">&nbsp;&nbsp;&nbsp;</FONT>&nbsp;</STRONG></FONT><FONT style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif"><STRONG>FINANCIAL STATEMENTS AND EXHIBITS</STRONG></FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1; MARGIN-RIGHT: 0pt" align=left><BR></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1; MARGIN-RIGHT: 0pt" align=left><FONT style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif">(c)<FONT id=TAB2 style="LETTER-SPACING: 9pt">&nbsp;&nbsp;&nbsp;</FONT>&nbsp;</FONT><FONT style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif">Exhibits.</FONT></DIV>
+<TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+<TR>
+<TD style="BORDER-BOTTOM: medium none" vAlign=top align=left width="10%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1; MARGIN-RIGHT: 0pt" align=left>&nbsp;</DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1; MARGIN-RIGHT: 0pt" align=center>
+  <FONT style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif; font-weight:700; text-decoration:underline">Exhibit No.</FONT></DIV></TD>
+<TD style="BORDER-BOTTOM: medium none" vAlign=top align=middle width="61%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1; MARGIN-RIGHT: 0pt" align=center>&nbsp;</DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1; MARGIN-RIGHT: 0pt" align=center>
+  <FONT style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif; font-weight:700; text-decoration:underline">Description</FONT></DIV></TD></TR>
+<TR>
+<TD vAlign=top align=left width="10%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1; MARGIN-RIGHT: 0pt" align=left><FONT style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, serif"></FONT>&nbsp;</DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1; MARGIN-RIGHT: 0pt" align=center>
+  <FONT style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif">&nbsp;99.1*</FONT></DIV></TD>
+<TD vAlign=top align=left width="61%">
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1; MARGIN-RIGHT: 0pt" align=left>&nbsp;</DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1; MARGIN-RIGHT: 0pt" align=left>
+  <FONT style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif">Certificate of Amendment to the Restated Certificate of Incorporation of TurboChef Technologies, Inc., as amended</FONT></DIV></TD></TR></TABLE>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1; MARGIN-RIGHT: 0pt" align=left><BR></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1; MARGIN-RIGHT: 0pt" align=left><FONT id=TAB1 style="MARGIN-LEFT: 36pt"></FONT><FONT style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif">* This exhibit is deemed filed pursuant to General Instruction B.2.</FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1; MARGIN-RIGHT: 0pt" align=left><BR></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1; MARGIN-RIGHT: 0pt" align=left><BR></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1; MARGIN-RIGHT: 0pt" align=center><FONT style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif"><STRONG>SIGNATURES</STRONG></FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 36pt; LINE-HEIGHT: 1; MARGIN-RIGHT: 0pt" align=justify><BR></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 36pt; LINE-HEIGHT: 1; MARGIN-RIGHT: 0pt" align=justify><BR></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 36pt; LINE-HEIGHT: 1; MARGIN-RIGHT: 0pt" align=justify><FONT style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif">Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.</FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 216pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1; MARGIN-RIGHT: 0pt" align=justify><BR></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 216pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1; MARGIN-RIGHT: 0pt" align=justify><BR></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 216pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1; MARGIN-RIGHT: 0pt" align=justify><BR></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 216pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1; MARGIN-RIGHT: 0pt" align=justify>
+  <p align="left"><FONT style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif"><STRONG><FONT id=TAB2 style="LETTER-SPACING: 9pt">&nbsp;&nbsp;&nbsp;</FONT>&nbsp;<FONT id=TAB2 style="LETTER-SPACING: 9pt">&nbsp;&nbsp;&nbsp;</FONT>&nbsp;<FONT id=TAB2 style="LETTER-SPACING: 9pt">&nbsp;&nbsp;&nbsp;</FONT>&nbsp;<FONT id=TAB2 style="LETTER-SPACING: 9pt">&nbsp;</FONT>&nbsp;TURBOCHEF TECHNOLOGIES, INC.</STRONG></FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 216pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1; MARGIN-RIGHT: 0pt" align=justify><FONT style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif"><STRONG><FONT id=TAB2 style="LETTER-SPACING: 9pt">&nbsp;&nbsp;&nbsp;</FONT>&nbsp;<FONT id=TAB2 style="LETTER-SPACING: 9pt">&nbsp;&nbsp;&nbsp;</FONT>&nbsp;<FONT id=TAB2 style="LETTER-SPACING: 9pt">&nbsp;&nbsp;&nbsp;</FONT>&nbsp;<FONT id=TAB2 style="LETTER-SPACING: 9pt">&nbsp;</FONT>&nbsp;(Registrant)</STRONG></FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 216pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1; MARGIN-RIGHT: 0pt" align=justify><FONT id=TAB2 style="LETTER-SPACING: 9pt">&nbsp;&nbsp;&nbsp;</FONT>&nbsp;<FONT id=TAB2 style="LETTER-SPACING: 9pt">&nbsp;&nbsp;&nbsp;</FONT>&nbsp;<FONT id=TAB2 style="LETTER-SPACING: 9pt">&nbsp;&nbsp;&nbsp;</FONT>&nbsp;<FONT id=TAB2 style="LETTER-SPACING: 9pt">&nbsp;</FONT>&nbsp;<BR></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 216pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1; MARGIN-RIGHT: 0pt" align=justify><FONT id=TAB2 style="LETTER-SPACING: 9pt">&nbsp;&nbsp;&nbsp;</FONT>&nbsp;<FONT id=TAB2 style="LETTER-SPACING: 9pt">&nbsp;&nbsp;&nbsp;</FONT>&nbsp;<FONT id=TAB2 style="LETTER-SPACING: 9pt">&nbsp;&nbsp;&nbsp;</FONT>&nbsp;<FONT id=TAB2 style="LETTER-SPACING: 9pt">&nbsp;&nbsp;&nbsp;</FONT>&nbsp;<BR></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 216pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1; MARGIN-RIGHT: 0pt" align=left><FONT style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif"><FONT id=TAB2 style="LETTER-SPACING: 9pt">&nbsp;&nbsp;&nbsp;</FONT>&nbsp;<FONT id=TAB2 style="LETTER-SPACING: 9pt">&nbsp;&nbsp;&nbsp;</FONT>&nbsp;<FONT id=TAB2 style="LETTER-SPACING: 9pt">&nbsp;&nbsp;&nbsp;</FONT>&nbsp;<FONT id=TAB2 style="LETTER-SPACING: 9pt">&nbsp;</FONT>&nbsp;By:</FONT><FONT style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif"><U>/s/ Dennis J. Stockwell&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U></FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 234pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1; MARGIN-RIGHT: 0pt" align=left><FONT style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif"><FONT id=TAB2 style="LETTER-SPACING: 9pt">&nbsp;&nbsp;&nbsp;</FONT>&nbsp;<FONT id=TAB2 style="LETTER-SPACING: 9pt">&nbsp;&nbsp;&nbsp;</FONT>&nbsp;<FONT id=TAB2 style="LETTER-SPACING: 9pt">&nbsp;&nbsp;</FONT>&nbsp;<FONT id=TAB2 style="LETTER-SPACING: 9pt">&nbsp;&nbsp;&nbsp;</FONT>&nbsp;Dennis J. Stockwell</FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 234pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1; MARGIN-RIGHT: 0pt" align=left><FONT style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif"><FONT id=TAB2 style="LETTER-SPACING: 9pt">&nbsp;&nbsp;&nbsp;</FONT>&nbsp;<FONT id=TAB2 style="LETTER-SPACING: 9pt">&nbsp;&nbsp;&nbsp;</FONT>&nbsp;<FONT id=TAB2 style="LETTER-SPACING: 9pt">&nbsp;&nbsp;</FONT>&nbsp;<FONT id=TAB2 style="LETTER-SPACING: 9pt">&nbsp;&nbsp;&nbsp;</FONT>&nbsp;Vice President, Secretary<br>
+  <FONT id=TAB3 style="LETTER-SPACING: 9pt">&nbsp;&nbsp;&nbsp;</FONT>&nbsp;<FONT id=TAB4 style="LETTER-SPACING: 9pt">&nbsp;&nbsp;&nbsp;</FONT>&nbsp;<FONT id=TAB5 style="LETTER-SPACING: 9pt">&nbsp;&nbsp;</FONT>&nbsp;<FONT id=TAB6 style="LETTER-SPACING: 9pt">&nbsp;&nbsp;&nbsp;</FONT>&nbsp;and General Counsel</FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1; MARGIN-RIGHT: 0pt" align=left><BR></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1; MARGIN-RIGHT: 0pt" align=left><BR></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1; MARGIN-RIGHT: 0pt" align=left><FONT style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif">Date: December 22, 2004</FONT></DIV>
+<DIV></DIV>
+<TABLE id=LASTFTR width="100%" border=0>
+<TR>
+<TD vAlign=bottom width="100%" colSpan=3>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1; MARGIN-RIGHT: 0pt" align=left><BR></DIV><BR>
+<HR width="100%" noShade SIZE=1>
+</TD></TR>
+<TR>
+<TD align=left width="33%"><FONT size=1>&nbsp;</FONT></TD>
+<TD align=middle width="33%"><FONT size=1>&nbsp;</FONT></TD>
+<TD align=right width="33%"><FONT size=1>&nbsp;</FONT></TD></TR></TABLE></DIV></BODY></HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>2
+<FILENAME>ex99-1.htm
+<TEXT>
+<HTML><HEAD>
+<TITLE>Certificate of Amendment</TITLE>
+</HEAD>
+<BODY id=38>
+<page>
+<DIV><BR>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1; MARGIN-RIGHT: 0pt" align=center><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif"><STRONG>CERTIFICATE OF AMENDMENT</STRONG></FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1; MARGIN-RIGHT: 0pt" align=center><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif"><STRONG>TO THE RESTATED CERTIFICATE OF INCORPORATION OF</STRONG></FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1; MARGIN-RIGHT: 0pt" align=center><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif"><STRONG>TURBOCHEF TECHNOLOGIES, INC.</STRONG></FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1; MARGIN-RIGHT: 0pt" align=justify>&nbsp;</DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 36pt; LINE-HEIGHT: 1; MARGIN-RIGHT: 0pt" align=justify><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif">Pursuant to the provisions of Section 242 of the Delaware General Corporation Law, the undersigned, TurboChef Technologies, Inc., a Delaware corporation (the &#147;Corporation&#148;), adopts the following Certificate of Amendment to its Restated Certificate of Incorporation, as amended:</FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1; MARGIN-RIGHT: 0pt" align=justify>&nbsp;</DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1; MARGIN-RIGHT: 0pt" align=center><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif">I.</FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1; MARGIN-RIGHT: 0pt" align=justify>&nbsp;</DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 36pt; LINE-HEIGHT: 1; MARGIN-RIGHT: 0pt" align=left><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif">The name of the Corporation is: TurboChef Technologies, Inc.</FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1; MARGIN-RIGHT: 0pt" align=justify>&nbsp;</DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1; MARGIN-RIGHT: 0pt" align=center><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif">II.</FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1; MARGIN-RIGHT: 0pt" align=justify>&nbsp;</DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 36pt; LINE-HEIGHT: 1; MARGIN-RIGHT: 0pt" align=justify><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif">Article FOURTH of the Restated Certificate of Incorporation is hereby amended by adding the following paragraphs at the end thereof:</FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1; MARGIN-RIGHT: 0pt" align=justify>&nbsp;</DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 36pt; TEXT-INDENT: 36pt; LINE-HEIGHT: 1; MARGIN-RIGHT: 36pt" align=justify><FONT style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-FAMILY: Times New Roman, serif">Upon this Certificate of Amendment to our certificate of incorporation becoming effective pursuant to the General Corporation Law of the State of Delaware (the &#147;Effective Time&#148;), each share of common stock, par value $0.01 per share (the &#147;Old Common Stock&#148;), issued and outstanding immediately prior to the Effective Time, automatically will be reclassified as and converted into one third (1/3) of a share of our common stock, par value $0.01 per share (the &#147;New Common Stock&#148;). Any stock certificate that, immediately prior to the Effective Time, represented shares of the Old Common Stock will, from and after the Effective Time, automatically and without the necessity of surrendering the same for exchange, represent (i) a number of whole shares of the New Common Stock equal to the resul
+t obtained by dividing the number of shares of Old Common Stock represented by such certificate immediately prior to the Effective Time by three and (ii) the right to receive cash in lieu of a fraction of a share of New Common Stock.</FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1; MARGIN-RIGHT: 0pt" align=justify>&nbsp;</DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 36pt; TEXT-INDENT: 36pt; LINE-HEIGHT: 1; MARGIN-RIGHT: 36pt" align=justify><FONT style="DISPLAY: inline; FONT-SIZE: 11pt; COLOR: #000000; FONT-FAMILY: Times New Roman, serif">From and after the Effective Time, the term &#147;New Common Stock&#148; as used in this Article FOURTH shall mean Common Stock as provided in the Restated Certificate of Incorporation, as amended.</FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1; MARGIN-RIGHT: 0pt" align=justify>&nbsp;</DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1; MARGIN-RIGHT: 0pt" align=center><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif">III.</FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1; MARGIN-RIGHT: 0pt" align=justify>&nbsp;</DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 36pt; LINE-HEIGHT: 1; MARGIN-RIGHT: 0pt" align=justify><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif">This amendment to the Restated Certificate of Incorporation, as amended, shall become effective at 9:00 a.m. Eastern time on December 27, 2004.</FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1; MARGIN-RIGHT: 0pt" align=justify>&nbsp;</DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1; MARGIN-RIGHT: 0pt" align=center><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif">IV.</FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1; MARGIN-RIGHT: 0pt" align=justify>&nbsp;</DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 36pt; LINE-HEIGHT: 1; MARGIN-RIGHT: 0pt" align=justify><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif">This amendment to the Restated Certificate of Incorporation, as amended, was duly approved and adopted in accordance with the provisions of Section 242 of the General Corporation Law of the State of Delaware and the Bylaws of the Corporation at a meeting of the Board of Directors of the Corporation on October 28, 2004. The Board of Directors previously declared the advisability of the amendment and directed that the amendment be submitted to the stockholders of the Corporation for approval.</FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 36pt; LINE-HEIGHT: 1; MARGIN-RIGHT: 0pt" align=justify>&nbsp;</DIV>
+<DIV><BR>
+<TABLE id=PGBRK cellSpacing=0 cellPadding=0 width="100%" align=center border=0>
+<TR vAlign=top>
+<TD width="100%" colSpan=3>&nbsp;</TD></TR>
+<TR>
+<TD align=left width="33%"><FONT size=1>&nbsp;</FONT></TD>
+<TD align=middle width="34%"><FONT size=1>&nbsp;</FONT></TD>
+<TD align=right width="33%"><FONT size=1>&nbsp;</FONT></TD></TR>
+<TR vAlign=top>
+<TD width="100%" colSpan=3><FONT size=1>
+<HR style="PAGE-BREAK-AFTER: always" color=#c0c0c0 noShade SIZE=1>
+</FONT></TD></TR></TABLE>
+<TABLE id=HDR cellSpacing=0 cellPadding=0 width="100%" align=center border=0>
+<TR>
+<TD vAlign=bottom width="100%">&nbsp;</TD></TR></TABLE><BR></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1; MARGIN-RIGHT: 0pt" align=justify>&nbsp;</DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 36pt; LINE-HEIGHT: 1; MARGIN-RIGHT: 0pt" align=justify><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif">By written consent of the majority stockholder of the Corporation dated November 30, 2004, a majority of the shares of outstanding Common Stock entitled to vote thereon approved the amendment in accordance with Section 242 of the General Corporation Law of the State of Delaware.</FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1; MARGIN-RIGHT: 0pt" align=justify>&nbsp;</DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 36pt; LINE-HEIGHT: 1; MARGIN-RIGHT: 0pt" align=justify><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif"><STRONG>IN WITNESS WHEREOF</STRONG></FONT><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif">, the undersigned has executed this Certificate of Amendment to the Restated Certificate of Incorporation of TurboChef Technologies, Inc. this 22nd day of December, 2004.</FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1; MARGIN-RIGHT: 0pt" align=justify>&nbsp;</DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 216pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1; MARGIN-RIGHT: 0pt" align=left><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif"><STRONG><FONT id=TAB2 style="LETTER-SPACING: 9pt">&nbsp;&nbsp;&nbsp;</FONT>&nbsp;<FONT id=TAB2 style="LETTER-SPACING: 9pt">&nbsp;&nbsp;&nbsp;</FONT>&nbsp;<FONT id=TAB2 style="LETTER-SPACING: 9pt">&nbsp;</FONT>TURBOCHEF TECHNOLOGIES, INC.</STRONG></FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 216pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1; MARGIN-RIGHT: 0pt" align=left><STRONG></STRONG>&nbsp;</DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1; MARGIN-RIGHT: 0pt" align=justify>&nbsp;</DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 216pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1; MARGIN-RIGHT: 0pt" align=left><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif"><FONT id=TAB2 style="LETTER-SPACING: 9pt">&nbsp;&nbsp;&nbsp;</FONT>&nbsp;<FONT id=TAB2 style="LETTER-SPACING: 9pt">&nbsp;&nbsp;&nbsp;</FONT>&nbsp;<FONT id=TAB2 style="LETTER-SPACING: 9pt">&nbsp;</FONT>By: /s/ James K. Price</FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 234pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1; MARGIN-RIGHT: 0pt" align=left><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif"><FONT id=TAB2 style="LETTER-SPACING: 9pt">&nbsp;&nbsp;&nbsp;</FONT>&nbsp;<FONT id=TAB2 style="LETTER-SPACING: 9pt">&nbsp;&nbsp;&nbsp;</FONT>&nbsp;<FONT id=TAB2 style="LETTER-SPACING: 9pt">&nbsp;</FONT>James K. Price</FONT></DIV>
+<DIV style="DISPLAY: block; MARGIN-LEFT: 234pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1; MARGIN-RIGHT: 0pt" align=left><FONT style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman, serif"><FONT id=TAB2 style="LETTER-SPACING: 9pt">&nbsp;&nbsp;&nbsp;</FONT>&nbsp;<FONT id=TAB2 style="LETTER-SPACING: 9pt">&nbsp;&nbsp;&nbsp;</FONT>&nbsp;<FONT id=TAB2 style="LETTER-SPACING: 9pt">&nbsp;</FONT>President and Chief Executive Officer</FONT></DIV>
+<DIV></DIV></DIV></BODY></HTML>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

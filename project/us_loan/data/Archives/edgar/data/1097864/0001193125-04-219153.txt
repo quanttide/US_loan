@@ -1,0 +1,643 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ EN2MrMkJCOPAJdrwapd4vd/zcV5gq7t5ObDwibo5T9OdqX+qNE658hyVNMyptFzV
+ 1EOS1tfKJEfYRhgzcBnINw==
+
+<SEC-DOCUMENT>0001193125-04-219153.txt : 20041223
+<SEC-HEADER>0001193125-04-219153.hdr.sgml : 20041223
+<ACCEPTANCE-DATETIME>20041223153458
+ACCESSION NUMBER:		0001193125-04-219153
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		4
+CONFORMED PERIOD OF REPORT:	20041223
+ITEM INFORMATION:		Entry into a Material Definitive Agreement
+ITEM INFORMATION:		Termination of a Material Definitive Agreement
+ITEM INFORMATION:		Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant
+ITEM INFORMATION:		Material Modifications to Rights of Security Holders
+ITEM INFORMATION:		Other Events
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20041223
+DATE AS OF CHANGE:		20041223
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ON SEMICONDUCTOR CORP
+		CENTRAL INDEX KEY:			0001097864
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		IRS NUMBER:				363840979
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-30419
+		FILM NUMBER:		041224213
+
+	BUSINESS ADDRESS:	
+		STREET 1:		5005 EAST MCDOWELL ROAD
+		CITY:			PHOENIX
+		STATE:			AZ
+		ZIP:			85008
+		BUSINESS PHONE:		6022446600
+
+	MAIL ADDRESS:	
+		STREET 1:		5005 EAST MCDOWELL ROAD
+		CITY:			PHOENIX
+		STATE:			AZ
+		ZIP:			85008
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	SCG HOLDING CORP
+		DATE OF NAME CHANGE:	19991027
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>d8k.htm
+<DESCRIPTION>FORM 8-K
+<TEXT>
+<HTML><HEAD>
+<TITLE>Form 8-K</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+<HR SIZE="3" NOSHADE COLOR="#000000" ALIGN="left"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="5"><B>UNITED STATES </B></FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="5"><B>SECURITIES AND EXCHANGE COMMISSION </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman"
+SIZE="3"><B>Washington, D.C. 20549 </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P><HR WIDTH="17%" SIZE="1" NOSHADE COLOR="#000000"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="5"><B>FORM 8-K </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P><HR WIDTH="17%"
+SIZE="1" NOSHADE COLOR="#000000"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="3"><B>CURRENT REPORT </B></FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="3"><B>Pursuant to Section 13 or 15(d) of The Securities Exchange Act of 1934
+</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>Date of report (Date of earliest event reported)
+December 23, 2004 </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P><HR WIDTH="17%" SIZE="1" NOSHADE COLOR="#000000"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="6"><B>ON Semiconductor Corporation </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(Exact
+name of registrant as specified in its charter) </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P><HR WIDTH="17%" SIZE="1" NOSHADE COLOR="#000000"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD WIDTH="34%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="32%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="32%"></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>Delaware</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>000-30419</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>36-3840979</B></FONT></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(State or other jurisdiction</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:1px" ALIGN="center"><FONT
+FACE="Times New Roman" SIZE="1"><B>of incorporation)</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(Commission File Number)</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(IRS Employer</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:1px" ALIGN="center"><FONT FACE="Times New Roman"
+SIZE="1"><B>Identification No.)</B></FONT></P></TD></TR>
+</TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD WIDTH="50%"></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD WIDTH="48%"></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>5005 E. Mc Dowell Road Phoenix, AZ</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>85008</B></FONT></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(Address of principal executive offices)</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(Zip Code)</B></FONT></TD></TR>
+</TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>Registrant&#146;s
+telephone number, including area code 602-244-6600 </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>N/A
+</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(Former name or former address, if changed since last report.) </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P><HR WIDTH="17%" SIZE="1" NOSHADE COLOR="#000000"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Check the
+appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below): </FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2"></FONT><FONT FACE="WINGDINGS" SIZE="2" COLOR="#000000">&#168;</FONT><FONT FACE="Times New Roman" SIZE="2"></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2"></FONT><FONT FACE="WINGDINGS" SIZE="2" COLOR="#000000">&#168;</FONT><FONT FACE="Times New Roman" SIZE="2"></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2"></FONT><FONT FACE="WINGDINGS" SIZE="2" COLOR="#000000">&#168;</FONT><FONT FACE="Times New Roman" SIZE="2"></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2"></FONT><FONT FACE="WINGDINGS" SIZE="2" COLOR="#000000">&#168;</FONT><FONT FACE="Times New Roman" SIZE="2"></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT
+SIZE="1">&nbsp;</FONT></P><HR SIZE="3" NOSHADE COLOR="#000000" ALIGN="left">
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>Item 1.01 Entry into a Material Definitive Agreement. </B></FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">On December 23, 2004, ON Semiconductor Corporation (the &#147;Company&#148;) and its wholly
+owned subsidiary Semiconductor Components Industries, LLC (&#147;SCI LLC&#148;) entered into an amendment and restatement of the Company&#146;s senior secured credit agreement to revise certain terms and increase the size of the existing senior
+secured term loan (as revised, the &#147;Amended Term Facility&#148;) with JPMorgan Chase Bank, N.A., as administrative agent for various lenders. Borrowings have increased from approximately $320.2 million under the existing term facility to
+approximately $645.5 million under the Amended Term Facility and will bear interest at a rate of LIBOR plus 300 basis points, except that for any day on which the Amended Term Facility has a credit rating of at least B from Standard &amp;
+Poor&#146;s Rating Service and at least B2 from Moody&#146;s Investors Service, the Amended Term Facility will bear interest at a rate of LIBOR plus 275 basis points. The Amended Term Facility will mature on December 15, 2011 unless (i) the
+Company&#146;s Zero Coupon Convertible Senior Subordinated Notes due 2024 have not been repaid, redeemed or repurchased in full on or prior to December 15, 2009, in which case the maturity date will be December 15, 2009, or (ii) the Company&#146;s
+10% Junior Subordinated Note due 2011 has not been repaid, redeemed or repurchased in full on or prior to December 15, 2010, in which case the maturity date will be December 15, 2010. The Amended Term Facility contains covenants and events of
+default substantially identical to, and is guaranteed by the same subsidiaries of the Company and secured by the same assets as, the existing term facility. The gross proceeds from the Amended Term Facility were used to prepay the Company&#146;s
+existing term facility and to purchase $195 million principal amount of the Company&#146;s 12% Senior Secured Notes due 2008 (the &#147;2008 Notes&#148;) and $130 million principal amount of the Company&#146;s 12% Senior Secured Notes due 2010 (the
+&#147;2010 Notes&#148; and, together with the 2008 Notes, the &#147;Notes&#148;), each of which were previously issued by the Company and SCI LLC and which comprised 100% of the principal amount of the outstanding notes of each series. The Notes
+were purchased pursuant to a tender offer and consent solicitation commenced by the Company on December 1, 2004 and described more fully in a Form 8-K furnished by the Company on December 1, 2004. </FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">The Company maintains ordinary banking and investment banking relationships with the lenders
+under the Amended Term Facility. In addition, the Company retained Morgan Stanley &amp; Co. Incorporated as Dealer Manager in connection with the tender offer. For these services, the parties have received, and may in the future receive, customary
+compensation and expense reimbursement. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>Item 1.02 Termination of a Material
+Definitive Agreement. </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">As described in Item 1.01 above, as a result of the
+entry into the Amended Term Facility by the Company, the Company&#146;s existing term facility was prepaid in full and the obligations of the Company under the existing term facility were terminated. The existing term facility was entered into on
+April 22, 2004 with JPMorgan Chase Bank, as administrative agent for the various lenders, and bore interest at the rate of LIBOR plus 275 basis points. The Company was not obligated to pay any early termination or prepayment penalties in connection
+with the termination of the existing term facility. The information set forth in Item 1.01 above is incorporated by reference into this Item 1.02. In addition, as a result of the entry into the Amended Term Facility, the Company repurchased all of
+the outstanding 2008 Notes and 2010 Notes, and the related indentures will be discharged as promptly as practicable. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>Item 2.03 Creation of a Direct Financial Obligation or an Obligation under an Off-balance Sheet Arrangement of a Registrant. </B></FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">The information set forth in Item 1.01 above is incorporated by reference into this Item
+2.03. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>Item 3.03 Material Modification to Rights of Security Holders.
+</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Pursuant to the tender offer and consent solicitation for the Notes,
+supplemental indentures for both series of Notes have become effective, modifying or eliminating substantially all of the restrictive covenants contained in the indentures for both series of Notes. The Company has purchased all outstanding Notes of
+both series pursuant to the tender offer and all such Notes have been cancelled and the related indentures will be discharged as promptly as practicable. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">2 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>Item 8.01. Other Events. </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Attached to this Current Report as Exhibit 99.1 is a copy of a news release for ON Semiconductor Corporation dated December 23, 2004 titled &#147;ON Semiconductor
+Successfully Refinances its Senior Secured Credit Facility and Purchases $325 Million of Senior Secured Notes.&#148; Also attached to this Current Report, as Exhibit 99.2, is a copy of a news release for ON Semiconductor Corporation dated December
+23, 2004 titled &#147;ON Semiconductor Updates Interest Expense Guidance after Successful Purchase of $325 Million of Senior Secured Notes.&#148; </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>Item 9.01. Financial Statements and Exhibits. </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">(c) Exhibits </FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="92%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="5%"></TD>
+<TD WIDTH="92%"></TD></TR>
+<TR>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="1"><B>Number</B></FONT><BR><HR WIDTH="42" SIZE="1" NOSHADE ALIGN="left" COLOR="#000000"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="1"><B>Description</B></FONT></P><HR WIDTH="61" SIZE="1" NOSHADE ALIGN="left" COLOR="#000000"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">99.1</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">News release for ON Semiconductor Corporation dated December 23, 2004 titled &#147;ON Semiconductor Successfully Refinances its Senior Secured Credit Facility and Purchases $325 Million of
+Senior Secured Notes.&#148;</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">99.2</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">News release for ON Semiconductor Corporation dated December 23, 2004 titled &#147;ON Semiconductor Updates Interest Expense Guidance after Successful Purchase of $325 Million of Senior
+Secured Notes.&#148;</FONT></TD></TR>
+</TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">3 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">Signatures </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned thereto duly
+authorized. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0">
+
+<TR>
+<TD WIDTH="47%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="4%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="47%"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" COLSPAN="3"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2"><B><U>ON Semiconductor Corporation</U></B></FONT></P></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" COLSPAN="3"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Registrant</FONT></P></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Date: December 23, 2004</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">By:</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-top:0px;margin-bottom:0px; margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">/S/ DONALD A. COLVIN</FONT></P><HR WIDTH="69%" SIZE="1" NOSHADE COLOR="#000000" ALIGN="left"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Name:</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Donald A. Colvin</FONT></P></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Title:</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Chief Financial Officer</FONT></P></TD></TR>
+</TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">4 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">Exhibit Index </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="4%"></TD>
+<TD WIDTH="93%"></TD></TR>
+<TR>
+<TD VALIGN="bottom" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>Number</B></FONT><BR><HR WIDTH="42" SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="1"><B>Description</B></FONT></P><HR WIDTH="61" SIZE="1" NOSHADE ALIGN="left" COLOR="#000000"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">99.1</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">News release for ON Semiconductor Corporation dated December 23, 2004 titled &#147;ON Semiconductor Successfully Refinances its Senior Secured Credit Facility and Purchases $325 Million of
+Senior Secured Notes.&#148;</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">99.2</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">News release for ON Semiconductor Corporation dated December 23, 2004 titled &#147;ON Semiconductor Updates Interest Expense Guidance after Successful Purchase of $325 Million of Senior
+Secured Notes.&#148;</FONT></TD></TR>
+</TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">5 </FONT></P>
+
+</BODY></HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>dex991.htm
+<DESCRIPTION>NEWS RELEASE, ON SEMICONDUCTOR SUCCESSFULLY REFINANCES
+<TEXT>
+<HTML><HEAD>
+<TITLE>News release, ON Semiconductor Successfully Refinances</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2"><B>Exhibit 99.1 </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="right">
+
+<IMG SRC="g30288image123.jpg" ALT="LOGO"> </P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="90%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD WIDTH="33%"></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD WIDTH="32%"></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD WIDTH="31%"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Everett Tackett, APR</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">Ken Rizvi</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Public Relations</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">Investor Relations</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">ON Semiconductor</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">ON Semiconductor</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">(602) 244-4534</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">(602) 244-3437</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">everett.tackett@onsemi.com</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">ken.rizvi@onsemi.com</FONT></TD></TR>
+</TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>ON Semiconductor
+Successfully Refinances its Senior Secured Credit </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>Facilities and Purchases $325 Million of Senior Secured Notes </B></FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><I>Consisting of $195 million in principal amount of its 12 Percent Senior
+Secured Notes due 2008 </I></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><I>and $130 million in principal amount of its 12 Percent Senior Secured Notes due 2010 </I></FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>PHOENIX, Ariz. &#150; Dec. 23, 2004 &#150; </B>ON Semiconductor Corporation (Nasdaq: ONNN)
+today announced that it has successfully refinanced its senior secured credit facilities to fund the purchase of all outstanding 12 percent Senior Secured Notes due 2008 (CUSIP Number: 682188AB3) (the &#147;2008 Notes&#148;) and 12 percent Senior
+Secured Notes due 2010 (CUSIP Number: 682188AD9) (the &#147;2010 Notes&#148; and collectively with the 2008 Notes, the &#147;Notes&#148;) previously issued by the company and Semiconductor Components Industries, LLC. ON Semiconductor will elect to
+accept for payment today all Notes that had been validly tendered on or prior to 10 a.m., New York city time, December 23, 2004. The tenders were solicited pursuant to the terms and conditions set forth in ON Semiconductor&#146;s Offer to Purchase
+For Cash and Consent Solicitation Statement dated Dec. 1, 2004 (the &#147;Offer&#148;). As of 5 p.m., New York city time, Dec. 22, 2004, ON Semiconductor had received tenders and consents from 100 percent of the registered holders of the 2008 Notes
+and 100 percent of the registered holders of the 2010 Notes. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman"
+SIZE="2">ON Semiconductor will fund the purchase of the Notes with approximately $71 million of cash on hand and new borrowings of approximately $325 million under an amendment and restatement of its senior secured credit facilities. The amended and
+restated $645.5 million senior secured credit facilities will bear interest at a rate of LIBOR plus 300 basis points. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">Morgan Stanley &amp; Co. Incorporated is the dealer manager and Solicitation Agent for the Tender Offer and Consent Solicitation. Questions regarding the
+transaction should be directed to Morgan Stanley at (800) 624-1808 (Toll Free) or (212) 761-1941 (attention: Francesco Cipollone). Requests for documents should be directed to Georgeson Shareholder Communications, the Information Agent, at 17 State
+Street, 10th Floor, New York, NY 10004, (866) 873-6990 (Toll Free) (banks and brokerage firms please call (212) 440-9800.) </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">1 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">ON Semiconductor Successfully Purchases $325 Million of Senior Secured Notes 2 &#150; 2 &#150; 2 &#150; 2 </FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">This announcement is not an offer to purchase, a solicitation of an offer to
+sell or a solicitation of consent with respect to any Notes. The Offer is being made solely by the Offer to Purchase For Cash and Consent Solicitation Statement dated Dec. 1, 2004, which sets forth the complete terms of the tender offer and consent
+solicitation. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>About ON Semiconductor </B></FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">ON Semiconductor (Nasdaq: ONNN) offers an extensive portfolio of power- and
+data-management semiconductors and standard semiconductor components that address the design needs of today&#146;s sophisticated electronic products, appliances and automobiles. For more information visit ON Semiconductor&#146;s website at
+http://www.onsemi.com. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"># # # </FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><I>ON Semiconductor and the ON Semiconductor logo are registered trademarks of Semiconductor
+Components Industries, LLC. All other brand and product names appearing in this document are registered trademarks or trademarks of their respective holders. Although the company references its website in this news release, such information on the
+website is not to be incorporated herein. </I></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><I>This news release includes
+&#147;forward-looking statements&#148; as that term is defined in Section 27A of the Securities Act of 1933 and Section 21E of the Securities Exchange Act of 1934. All statements other than statements of historical fact are statements that could be
+deemed forward-looking statements and are often characterized by the use of words such as &#147;believes,&#148; &#147;expects,&#148; &#147;estimates,&#148; &#147;projects,&#148; &#147;may,&#148; &#147;will,&#148; &#147;intends,&#148;
+&#147;plans,&#148; or &#147;anticipates,&#148; or by discussions of strategy, plans or intentions. All forward-looking statements in this news release are made based on management&#146;s current expectations and estimates, which involve risks,
+uncertainties and other factors that could cause results to differ materially from those expressed in forward-looking statements. Among these factors are changes in overall economic conditions, the cyclical nature of the semiconductor industry,
+changes in demand for our products, changes in inventories at our customers and distributors, technological and product development risks, availability of raw materials, competitors&#146; actions, pricing and gross margin pressures, loss of key
+customers, order cancellations or reduced bookings, changes in manufacturing yields, control of costs and expenses, significant litigation, risks associated with acquisitions and dispositions, risks associated with our substantial leverage and
+restrictive covenants in our debt agreements, risks associated with our international operations, the threat or occurrence of international armed conflict and terrorist activities both in the United States and internationally, risks and costs
+associated with increased and new regulation of corporate governance and disclosure standards (including pursuant to Section 404 of the Sarbanes-Oxley Act of 2002), and risks involving environmental or other governmental regulation. Additional
+factors that could affect the company&#146;s future operating results are described in our Form 10-K for the year ended December 31, 2003 under the caption &#147;Trends, Risks and Uncertainties&#148; in the MD&amp;A section, and other factors are
+described from time to time in our SEC filings. Readers are cautioned not to place undue reliance on forward-looking statements. We assume no obligation to update such information. </I></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">2 </FONT></P>
+
+</BODY></HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.2
+<SEQUENCE>3
+<FILENAME>dex992.htm
+<DESCRIPTION>NEWS RELEASE, ON SEMICONDUCTOR UPDATES INTEREST EXPENSE GUIDANCE
+<TEXT>
+<HTML><HEAD>
+<TITLE>News release, ON Semiconductor Updates Interest Expense Guidance</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2"><B>Exhibit 99.2 </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT
+SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="right">
+
+<IMG SRC="g30288image123.jpg" ALT="LOGO"> </P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="92%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD WIDTH="34%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="33%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="31%"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Everett Tackett, APR</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Ken Rizvi</FONT></P></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Public Relations</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Investor Relations</FONT></P></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">ON Semiconductor</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">ON Semiconductor</FONT></P></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">(602) 244-4534</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">(602) 244-3437</FONT></P></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">everett.tackett@onsemi.com</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">ken.rizvi@onsemi.com</FONT></P></TD></TR>
+</TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>ON Semiconductor
+Updates Interest Expense Guidance after Successful </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>Purchase of $325 Million of Senior Secured Notes </B></FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>PHOENIX, Ariz. &#150; Dec. 23, 2004 &#150; </B>ON Semiconductor Corporation (Nasdaq: ONNN)
+today announced that it has successfully purchased $195 million principal amount of its 12 percent Senior Secured Notes due 2008 and $130 million principal amount of its 12 percent Senior Secured Notes due 2010 previously issued by the company and
+Semiconductor Components Industries, LLC, comprising 100% of the outstanding notes of each series. The purchase of notes was financed with approximately $71 million of cash on hand and $325 million of new borrowings under an amendment and
+restatement of the company&#146;s senior secured credit facilities. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman"
+SIZE="2">This transaction will enable the company to reduce annualized interest expense by approximately $27 million for calendar year 2005, given current interest rates. Assuming no change in LIBOR, annualized net interest expense will decrease
+from prior guidance of approximately $88 million to approximately $61 million in calendar year 2005, a reduction of approximately 31 percent. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">Borrowings under the company&#146;s senior secured credit facilities have increased from approximately $320.5 million to approximately $645.5 million
+which is offset by the $325 million reduction of Senior Secured Notes. The $645.5 million senior secured credit facilities will bear interest at a rate of LIBOR plus 300 basis points. Due to debt prepayment costs associated with this transaction,
+the company no longer expects to be profitable on a U.S. GAAP basis in the fourth quarter of 2004, as previously guided. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">&#147;This transaction significantly reduces our interest burden, simplifies our financial structure by the elimination of two series of secured bonds and
+extends the maturity of our debt&#148; said Donald Colvin, ON Semiconductor senior vice president and CFO. &#147;The purchase of $325 million aggregate principal amount of our 2008 and 2010 Senior Secured Notes concludes a year of </FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">1 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">ON Semiconductor Updates Interest Expense Guidance 2 &#150; 2 &#150; 2 &#150; 2 </FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">significant capital structure improvement. With this transaction and assuming no change in
+LIBOR, we have reduced our annualized net interest expense by over $75 million as compared to the end of 2003.&#148; </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>About ON Semiconductor </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">ON Semiconductor (Nasdaq: ONNN) offers an extensive portfolio of power- and data-management semiconductors and standard semiconductor components that
+address the design needs of today&#146;s sophisticated electronic products, appliances and automobiles. For more information visit ON Semiconductor&#146;s website at http://www.onsemi.com. </FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"># # # </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><I>ON Semiconductor and the ON Semiconductor logo are registered trademarks of Semiconductor Components Industries, LLC. All other brand and
+product names appearing in this document are registered trademarks or trademarks of their respective holders. Although the company references its website in this news release, such information on the website is not to be incorporated herein.
+</I></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><I>This news release includes &#147;forward-looking statements&#148; as
+that term is defined in Section 27A of the Securities Act of 1933 and Section 21E of the Securities Exchange Act of 1934. All statements other than statements of historical fact are statements that could be deemed forward-looking statements and are
+often characterized by the use of words such as &#147;believes,&#148; &#147;expects,&#148; &#147;estimates,&#148; &#147;projects,&#148; &#147;may,&#148; &#147;will,&#148; &#147;intends,&#148; &#147;plans,&#148; or &#147;anticipates,&#148; or by
+discussions of strategy, plans or intentions. All forward-looking statements in this news release are made based on management&#146;s current expectations and estimates, which involve risks, uncertainties and other factors that could cause results
+to differ materially from those expressed in forward-looking statements. Among these factors are changes in overall economic conditions, the cyclical nature of the semiconductor industry, changes in demand for our products, changes in inventories at
+our customers and distributors, technological and product development risks, availability of raw materials, competitors&#146; actions, pricing and gross margin pressures, loss of key customers, order cancellations or reduced bookings, changes in
+manufacturing yields, control of costs and expenses, significant litigation, risks associated with acquisitions and dispositions, risks associated with our substantial leverage and restrictive covenants in our debt agreements, risks associated with
+our international operations, the threat or occurrence of international armed conflict and terrorist activities both in the United States and internationally, risks and costs associated with increased and new regulation of corporate governance and
+disclosure standards (including pursuant to Section 404 of the Sarbanes-Oxley Act of 2002), and risks involving environmental or other governmental regulation. Additional factors that could affect the company&#146;s future operating results are
+described in our Form 10-K for the year ended December 31, 2003 under the caption &#147;Trends, Risks and Uncertainties&#148; in the MD&amp;A section, and other factors are described from time to time in our SEC filings. Readers are cautioned not to
+place undue reliance on forward-looking statements. We assume no obligation to update such information. </I></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">2 </FONT></P>
+
+</BODY></HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>4
+<FILENAME>g30288image123.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 g30288image123.jpg
+M_]C_X``02D9)1@`!`@``9`!D``#_[``11'5C:WD``0`$````9```_^X`#D%D
+M;V)E`&3``````?_;`(0``0$!`0$!`0$!`0$!`0$!`0$!`0$!`0$!`0$!`0$!
+M`0$!`0$!`0$!`0$!`0("`@("`@("`@("`P,#`P,#`P,#`P$!`0$!`0$"`0$"
+M`@(!`@(#`P,#`P,#`P,#`P,#`P,#`P,#`P,#`P,#`P,#`P,#`P,#`P,#`P,#
+M`P,#`P,#`P,#_\``$0@`60!:`P$1``(1`0,1`?_$`*\```$#!0$!````````
+M```````'"`D!`P0&"@(%`0$``04!`0$`````````````!P(#!08(`00)$``!
+M`P0!`P(%`08#"0`````!`@,$$04&!P`A$@@Q$T%1(A0)"F&!,B,5%W&QT:'!
+M0E*24R0E%A$``0,#`@,%!08"!PD``````0`"`Q$$!2$&,4$246%Q$P>!D;$B
+M,O"AP4(4"#,5T>%2@J(C0V)RDK)3)#1$)?_:``P#`0`"$0,1`#\`[^.$1PB.
+M$5I3G;\C3X`]?W"E.>.JT=5*C[U2?,`KTU'<@.*-"$&G[:_[@:\\:[JY$+UK
+M@1J'`^"J5]H)5T`^-%?Z<K/=4JIHZ_IJA*^[TI3X>HZ?O'++I.%*#7\VGNXI
+MI6FM0O8-1RXT]0J%YKSXJO/41PB.$1PB.$5":?`_N'/0*JES@TTU7R+Q>[;9
+M(,BYW2='M\"&E3DN5*6EMIEM())*E$#N)Z`>I/*7R10M+YB`WQ7DDT,$9EG/
+M2WEXIC.Q_+J4E<JW:XLWOT*T)R"\(6VQV@D=\2$DH<-?5*E$I(H:<TG*;IF@
+M>Z&T!XZ&BCC,;UGMY#!8@F3D2-$RG,-T[JOBY+TO8%]CA?>0Q;ULP6FAVJ/:
+MV8S32NP4Z=:\T/(Y_<$SB(YRQITT[U'^2W'N&Y))N"PZZ!((YOK?F*N*FVG9
+M^3,OI)#1E2DW%HI'U=BV)S<EHA0^-*\T',;AW9B?FM;MSR.TK7X]W;CLM673
+MR!VI=M8_E#S#%;A#L^Z,>:R?'UJ0U*R?'FU1[]#!("I$FW@F/.0V*DH9;0H_
+M`\HP_P"X&YQLT=ENRU:^$$-$C#5WB0MQPOJM=12LAS+#Y=`.MNM>\J8/5.Y]
+M:[FQAG*];Y1!R6T*<3'D*BK`EVZ4IM+OV5SAJ47X4Q"%`J0OJ.=-8#<>'W1:
+MB[P\K9(Z`D?F'B.2FO%Y2QS<`N<?(U\?N/N2J!056GPI_MYFZ+[0ZKBWF%ZY
+MXO4<(CA$<(L.7*8B-/2)+R(\>.PN0\\ZH(;::;!4M:UD@)2D#J>4E_EU>_2(
+M#4]BHDF9`QTLND314GD%%]LO:EQV_DK]MBN*BX;;9RXUI@I6H"XAE92NY3$"
+MG>7B*H3U[1R,\OD9<E=$6K_^U8?J'`J(\QG9\O>FVMW4MF?,TC@>2R9VM;=!
+MM*)TV=#B^ZE*6VI$N.T\X>T'N:CK6'G6@#3N2DI%*5J.?4S%2361D#>IY&A5
+MMN)EN("YC2^2G)-ERBUM1WI+33K;S0[Z*;4E0I17KVDT/^/-6O+%\1ZI&T;6
+MFO;5:ODK0VKBVX:6.[TV3-(G:RNGU>THA24`K(*VTJ"5]E>P]I!H:=#S2=PX
+MV>YC+H&.<VM*CM'%:E+9OFC\R)KG1DTJ&FFG?1-;RR-WH>]E+JW#W*6AAIUU
+M::?Q%26FUE*4CU)H!SG;<F&N);IS8X))HQJXL!/37M[."URZ@NG/,,(,NE2&
+MCZ1W^"S_`!Q\D,T\7-C,9CC*US[)<51X.88N\\I,#(;.F05.`I'<A%RC!:E,
+M.T!0KY\N>G._,EL7.-N[9[W6,AZ)(C_9![%LFRMQW>V;\"-[G6KN(Y:\05UA
+M:CV?BVX<`QS8V'S43;%DUO8G1E!0+D9U20)$*2D$^U*BN'M6D]1T^?/T/P>>
+ML=PXF',V3P;64"G<>8*ZJQ]_!DK-E["06O"4NH].9E?;Q%>2KPB.$5%&@)X1
+M,Z\SMD/X5K:)9(*NRXYU<39"I"PAQ%I90AZZE!KW)4MAT`'Y\U7=F5_EN.+?
+M^IHM(WYEOY9AQ&.-P_H^WO4=6)WMN(6I!42&07%)!`4M*:**4D=0I5.1Q93]
+M+/)Y/-5%%K*1-TC0,'W54@-M_P#F]:ZFM^S,@LL3,LER5^+1R[LLRVV&YCZV
+M8,&$U*2XS;HT>&V@*#24>XYW*-223*DDS<;CX9#]-!7VA3//DK7"X:*Z#>J1
+M[10=I6A;[M^(9;I"U[;L-DAX[<1]NX]'A,1F$NL/=[;K+R(S;;#I:=*2%%/=
+MT]>8G/BW.%%VQNI<"/&O]*P^Z_+GVR<P8@).FO+2O/V4JO'AGB.+Y9J[8"KW
+M9+-<5SLOD05R9MJ@RI*&7,:LX'MOR([CS9#CI([2*'J.>[58S)X%\4L0$Q<\
+M:CFKFPW097:<<-(W&KQU`#GS[TU'Q2P&#8-G>6.'W^U6ZX2\.QC*HD=VY0(D
+MSVBF%*+;T/[EESVQVK%"BAH.1;Z>8^6QN=Q6]]Y1:'R=(<*D`-=PKR'P6H[,
+ML(X+[+VSXVRAOF-#J#ER%>W@H+KV"@.E1*B'GZD="0EQ0%```D4'PYQ+D(^K
+M)2MB^HRR<.'U'@H:A$)N)X/]4/)\-5,K^&O=DP2MF:,NLQQ3#$IC,\6:>=HT
+MS$<"X]^;9:<)4GOF28Y3V]*`\ZQ_;)NB>^L[O;E[J89&F/W.K\`IZ]-+R6>U
+M=:R5+6N:![BI_FS7M/J*4!^/3G5#6R>:YY^@_AHI6?\`*[H5[EU4HX1>5_PG
+M]W^8X11!_D?R"3#S[6=J0X$L-XW,N)233^9(G2XJEBO3HB.*_&G(,]6,[)CK
+MZWLA_#?"'_XW#\%!_JS.8[VR83\O&G]XA,G@95[<%25/IH6W`:'J?H4>G6M3
+M3FLPW4#FLDC/SD"JT%MS1W'YNL*3[=]S1;_$W7$I:@D/O8G55?7W5)6GK\Z*
+MY+6Z;KR]NVTG*C?@%-6Z+KR]K6TE=.EOP"UK-[BA'@E99G<$AR+;>\UZJ]R5
+MU4#\>@Y5F[EMKM&.=W"C3]Z^7<DWD^GHD=P<P#WU7PO%C:S&L?&/8FQ'XJ)\
+M2T;%0)#"W"W_`.*Y;+%%=7WA*_J::^H=.M.8G;>>M;38HR_4.B*60DU_M2$?
+M?57=CY%EMM!EYIT,=T_`?BEI_M?(M.TM][=M4<#$MF:.=E(E-J06W;\BRRG)
+M:Z`]P6^TKN)I0E/,HW%BWRF4SS!_DW=BT@\M(R2LO_+?+R&0OV:1W-E44X5(
+M^*Y/KW,*$.`!5/K3U]:@]36OIS\X+_\`\^9W;*\_XBN8K>+R7/C/$//Q*=7^
+M,_)IEG\Q<4^U>*&KO8KK:9[0K1R"MZ)*745H"'XJ.O)P_;A4>H9H?_2E^+5+
+MOIB?_OBGT^4[\%U^PU=["'/^XE*_^H5YW</H;_NA3=#_``_[SOB5E<*XCA%Y
+M7_"?W?YCA%#C^5NQOP6M29VT%IC"1>,7G2$I/;&):3,MY=4.@$B1)6E(/J1T
+MYS;^X1QQ\&-RS6=373&)Y[&G45]I*A7U>Q[GQ6N1;P8[I/OK^*B8;RE;<20W
+M4D?;.E*Z]:]A^H#YTY!N/W)/"YT?67/8X`U["0H:%UYC:`T)D&JF?\F!.G>#
+MFLKA:F'YB(;>OY<MR*A3P9CJ0REU]TM@]K2%`A:CT3\>=5;P_4W.P+6YLF&2
+M3HC^GCK13WN^V?-LRU_2?.0QE::UT"US:LURT_CAQ)VY-KMLN1:[%[;$U*H\
+MA2W)(6@>VYVK[E-@D"GH.8S?=Z[&>F3#=AXG+!IS!IK\5\^[P;/T[CBNC5]&
+M:>VM$@.O+LV_^.'?<LA1#6:+;5VD@I(MMA5W`UZ=5<T3%7L=SZ`W=PQM)`UY
+MKWA]0?9187%79=Z32SVPZ7@O-1VAYU]E`$_SQ5V8-I>$<&]/N^Y<K/KS+<6N
+MI4Z7'#,L=CG,+6Y515W+2M/KR4]@YEV<],[:[E=USMLI&/)XDM81JI'VY>.O
+M]I1SR&MP+4M<>>C>:Y',BNGM+>:*N[^8X/45%2:#]O/SZGA\^>[=6G3*^G_$
+M5SFR#S)WD#3K/Q*?7^*7$I.3>3LK)$L>]"Q/&9*5N=>U%PN,R#]JCOKVI6N.
+MVZ0/4A)^7)Y_;%CKF?=EQDW`^3;VSF$]O70C_E4L>FEDYN9-S_IQQD'VZCX+
+MKJACLCLH^*6T@C_!/S^(YV[&:@`\0T*7H]&]Q<3]Y67RXKJ.$5"*BG")M7EC
+MI&)OS2>7X$I*$W=R(B\8O*=("862VGW)-J>J`5!!>Z+IZCFG[]VRS=^U;K!$
+M#SI&5C/,/&HH>1T^]:_NC!Q[@PS[%]>H'J;30U`X>"Y,;B]>L?NESQ^_19%K
+MNUCG2;7<8,I!;DQY<1:FGFGVB3V4I7X@CGYG7\&5L[^XQ<_5#<Q.Z9.JH-&G
+MB*_%<D7>-DL9I+"4.$S7D_AHGX:#_(WL'3&&1M>WO&K3L?$H`6U9V+N?9GV^
+M.XXMY4-R0IN2W+AMNK4I"5(!36@/)GV=^X',X#'-PUU#'=6T`HP%I+C33C75
+M;QA_4#*82S;:7$<<]BP4HX5=W4/]22[R8\UMA>1RK5:[I"@XMB5C>]^VXK9G
+M.^']SVEM,R=([&1,=;:6I*1[:$H!-!S7/4/U6S_J#$VUE!M;-IT8W3G76O'L
+M\%B]T[PR^[HFVQC;'9-<-`"-*_T+1L?\KKSBOCGGOCJ,8MLJU9K>'KO,R5R:
+MZ+A#4XS#8*6(0CEMU(3"12K@(-?GR[C?5&3&;$EV/'"PQRM(+BT_F-3KP\.Y
+M9&QW!=8[;SMMPMC-@[JU(J[YC4Z]M>Y7O'SSZR[QLU_G>L+7B]OR^RYHJZ.J
+M7/G.P';*Y=;7,M\AR&EMJ0EU*S)#BJ]M2@"G7F1V/ZNY':.W9=OBW:Z!_70D
+M$GYQ0TUX4X!9C";ON\99NQ\36&)]:U';V:J,^[W0//GL*UK?D#VFD@N.J<=(
+M[6D(2"I:U*/T@"I^7(>N9OU+W0QLE$\TIZ&BO4XN-?<*K!QP4E$=H"Z21VG/
+M4E=-'XE/&V[:WP*1EF46YV'D>:/Q+[/CR$@/0(+33R+1#>_Y933$ESW$UZ=P
+MY^@OH?M.XVEM0_KF!N2NFM+S_LT-*=AH=5/^T,5)AK%[I12ZF`ZJ\@!I3LXJ
+M;Q+244[:_2*`?LI3_+DPM:&DD<P/N6RAH:T-'!JN<J52.$1PBMK;#E0H`@@`
+M_N)/+;FN<\&NC=1X]_<JFO<WZ>U1#>>O@$[MJ:[MC4_V5KV"EG_WEG<0VQ:\
+MN0RA2FW7G@$^Q>4!-`ZHA+@)[R33D%^K7HXW?#SEL$8H<QT_/U`_YGATZ`D]
+MJCC>.QQG'_K<<61W(U<""2[N%-`?%<[65,WW"[S-Q[+K3<,>O4&0]&E6VYQE
+M0Y`6RZII:VD.(0EZ,M:24.('8I-"#3G#V3P=]MV].,R4,EO=QN(+J<::5:[@
+MH,OL9?XU[H[F(QS`T%1H?MWK4%7UH*JA=4UKZBM?7X_&G,>'^82V-TDE..E?
+M$Z*[:6MY,PEW0-"M>N&0%:EEMP]IZ+`ZJ(^`Z?(\I=>ED7E,:'-[::_>OG,/
+M13S"&^*TE<N9<YS=MM,&;<KK+<"(UO@QW)4V0MQ7:A+,=I"G72M1^`//+*'(
+M9.\98V,<\]P\@`,X-[CX+(XRT%[+Y<$;G/KQY'P4OG@?^.S*[WF-LV)MVVQ4
+M*@MQKCBV(O(#ZH<]1]U%WR`_4R7(XH&HQ^I+J3WIISL;T>]&+S'31[CWFUAG
+MC-882#UMK^9Y/RD'E3533M#:[;-_Z_(MU_*S\P/:3PIX+IWP?#XN'62-;(]%
+M+0@*=5V)3_,*0*]`":`4Z^G.JI'1DAL+2V$<`>/V[%(DCS(ZI6ZC]OKRVJ$<
+M(CA$<(CA%:=:0\@I6D*!^?7Y_P"O/#7E7V*ICBQW4.*:=N_Q!U-O&&XQEV(V
+M6YK4EPMR)$9*9;#C@ZNM2FO;>"P?3N*@/ES7LWM/;VYVB/.6L4K::&@#AXGF
+MOCR.-Q>4;T7T`DKSX$*+/-?PTX<[*EOXKDF4V2,ZXI3,1,U$Z*PDUJAIM3#*
+M@BGI51/(:O\`]M>S9[IUU8W5S;]5?E;P^W:M6N/3W;\YZHG/B/<M"LOX9K*W
+M.2Y>\GRVZ,5)$9B4W`2Z?DZY[,@^W3X`<KL?VX;,M"/UDLTX[M%\HV!C1_$=
+MU^Q2"Z,_'3JO4I:>L^*6F#.4@>[=7D??7AU)H5!R:^DA))'_``(2>2AM[T_V
+MIM4M=@K9D<@%"YX#G$]OBMBQVW\9CB'01@.`XJ0W%<.M&*0TQ;=%::4$I0IQ
+M(!4I*?FHBO7F[R/+S5QJ:+//=U%;8`!Z<H5"KPB.$1PB9GLO\@GA[I_?-A\9
+MME;ZP3#MUY&W9EVW"+S<VXTX*R0+5C;,^2M0AVN3D"6R834A;:Y-/Y85PBS\
+M#\[O%/9^18?B>`[HQ+)\BSW-]EZUQ6U6R0J1*N&>:>B1[ALC%U-MI48MWQ>W
+MS&7GVG>U7MNI4`4J'"*WLKSS\3]/[KQGQVV/NK$<8W'EJ+6NTX5-D.??)%]6
+M$6(762AM4.RJO2SVQ!*6R9"C1ON/3A$ZL7NU`2?<NML1]C(3#G$SHP^SEK`4
+MW%E$N`1Y"TJ!"%T4010=1PB3K.]W:TUS)PV)D^3Q8K^?Y;;\&QAJ#'E7E4_)
+MKK#G3X$!W^E-2A!3)B6YY:77BAKZ/XO3A$H9NEG1'7)-SMR8Z):H#DDSHX8:
+MG)>]@PEN^YV(EA[Z"V2%]_2E>$5PW>W_`')@IN5O^^2%J5$,MG[I*&A5U:V.
+M_P!U*6@:J-*)^/")(=6^1VEMSO;$8UML/'\J7JK-)&O,],"4A",<S&+;85W?
+MLDQQXI;5(3;;@R]W))24+!!X1?4V]O?4NA\)N^R-LY[CN#X1CTNPPKW?KU.9
+M8BV^7E%WA6+'XS_U%:';M=+BTTR*?5W5'0$@B4A%]LRPHINEO/MQ8\UT"6Q5
+MJ'+2%1I3H]RK<>0E0*%F@57IPB2=KR&U8]M[^R+.0*>SQ5HBWIJ(U!E.VQZ-
+M+:?>:9:O2&E6QR:68ZUED.%P!)J.$2W<(N9[S1_"!N?R4\L=Q9QB6W]9X]H/
+MR2VKXV;CV7,RC"YF0;SP;(/'A4A]./ZRS%%QB)M>.9:\I"0R$I3#02#[G"*S
+MX@?@7RGQ2\SO&;RGLFWK7,L^!W'RDRC=FOE1Y[L'*=D;HRC)CC&R\7<==]BV
+MW]>N7['9;P"W_/\`Z.AQ*AWD<(OO><OX:O(_R2_(A8O,#3FZ]4:4AJ<U2BY9
+MQ:L!FS=P6RT:\<4+E8YK]XN]UQK*X]WBJ*(;B(EN<@DU)<(!!$T-7Z=_ROG8
+MSNG%[OY;2KA'V7N776:7>1.RK.I",^Q_%O(38&V[M)NS#-RB2,5N$C%,NBVE
+M$:*\XA;L(N%P-J0TV18VK/TZ'E/KZW8Y:HGEE'M"F&]?S[W>H=US:\3X^88W
+MJ7:FOKQF-I1?;Q.]JYO77.XDYH)4VD_9D&BB%`BRW?T^_F/)T!;]8O\`D5K&
+M/<K)EF:R)5JM/]V85NV5<,HP*P8;:-Y[#OS^PID^1L[#KU:G;["AQ&HT`RGN
+MQ0-"I1%G9!^G>\K)M\V7DEO\T;BYG&:.W.`-F3+OG2+]<L8>B1U_T:Z6IG(!
+M;(K5XD0D1I)CI;<0PLJ2NHH2))+!^G&\UL0UQD^,X)Y&ZMP2?L'-,ENN4V?'
+M?[@1[%;[%?-2XQ@J7[9*&0_U.9D@O%G>?^YDN.*1WA8]>P$2S[?_`$\OD+MB
+MQ^5^/Y7O#6.>C:>0V[.M;Y1G4#8UQS";?X.;:[R.TXQF4AG-V<<A8;C&.XK=
+M+4RW&MBGWDW;W0XVIL$D7G:WZ?SS"V!EFX+W9?+F%A[.>ZVO6.0Y=FN&>QKE
+M.3D.N+;AUGUI<$')'X=NP#4L^*5V1]A`G/,--^ZOW.Y9(ND'QW\1-.^/F&ZL
+ML^,X=:V<DUOKG'<!CY(9-VN5R=CV>`([[BI]WGS9<E3\AQU7N.J6[19!53IP
+=B=5PB.$1PB.$1PB.$1PB.$1PB.$1PB.$1PB__]D_
+`
+end
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

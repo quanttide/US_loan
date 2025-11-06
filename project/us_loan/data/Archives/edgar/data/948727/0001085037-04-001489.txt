@@ -1,0 +1,403 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ D8LIqQqGM4Nkl3PsopLI4mlbKe2fbhDmpPyScOl66BuqxiHU0LD6KJdYOU1tvtIv
+ FC9tScFgXdqpHne4ne7b+g==
+
+<SEC-DOCUMENT>0001085037-04-001489.txt : 20041222
+<SEC-HEADER>0001085037-04-001489.hdr.sgml : 20041222
+<ACCEPTANCE-DATETIME>20041222123035
+ACCESSION NUMBER:		0001085037-04-001489
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	20041222
+ITEM INFORMATION:		Regulation FD Disclosure
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20041222
+DATE AS OF CHANGE:		20041222
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TRIMAINE HOLDINGS INC
+		CENTRAL INDEX KEY:			0000948727
+		STANDARD INDUSTRIAL CLASSIFICATION:	REAL ESTATE [6500]
+		IRS NUMBER:				911636980
+		STATE OF INCORPORATION:			WA
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-26354
+		FILM NUMBER:		041219787
+
+	BUSINESS ADDRESS:	
+		STREET 1:		17 DAME STREET
+		CITY:			DUBLIN 2 IRELAND
+		STATE:			L2
+		BUSINESS PHONE:		6046835767
+
+	MAIL ADDRESS:	
+		STREET 1:		17 DAME STREET
+		CITY:			DUBLIN2 IRELAND
+		STATE:			L2
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	LOGAN INTERNATIONAL CORP/CN
+		DATE OF NAME CHANGE:	19950801
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>f8-k122204.htm
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY>
+
+
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold-TNR" FSL="Workstation" -->
+<A NAME=A001></A>
+<H1 ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>UNITED STATES
+SECURITIES AND<BR> EXCHANGE COMMISSION <BR>Washington, D.C. 20549  </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold-TNR" FSL="Workstation" -->
+<A NAME=A004></A>
+<H1 ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>FORM 8-K </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center-TNR" FSL="Workstation" -->
+<A NAME=A005></A>
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2><B>CURRENT REPORT</B> <BR>Pursuant
+to Section 13 OR 15(d) of The Securities Exchange Act of 1934 </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center-TNR" FSL="Workstation" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Date of Report (Date of
+earliest event reported) <B>December 22, 2004</B> </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center-TNR" FSL="Workstation" -->
+<A NAME=A006></A>
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2><B>TRIMAINE HOLDINGS, INC.</B>  <BR>(Exact name of
+registrant as specified in its charter) </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Left-TNR" FSL="Workstation" -->
+<A NAME=A008></A>
+<P ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2><B>Washington</B>  <BR>(State or other jurisdiction of
+incorporation) </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Left-TNR" FSL="Workstation" -->
+<A NAME=A009></A>
+<P ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2><B>000-26354</B>  <BR>(Commission File Number) </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Left-TNR" FSL="Workstation" -->
+<A NAME=A011></A>
+<P ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2><B>91-1636980  </B><BR>(IRS Employer Identification No.) </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Left-TNR" FSL="Workstation" -->
+<P ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2><B>Unit 803, Dina House,
+Ruttonjee Centre, 11 Duddell Street, Central, Hong Kong, China </B><BR>(Address of principal
+executive offices and Zip Code)  </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Left-TNR" FSL="Workstation" -->
+<A NAME=A012></A>
+<P ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2><B>(852) 2537 3613</B> <BR>Registrant&#146;s telephone number,
+including area code </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Left-TNR" FSL="Workstation" -->
+<A NAME=A013></A>
+<P ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2><B>Not Applicable</B>  <BR>(Former name or former address, if
+changed since last report) </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Default" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Check the appropriate box below if
+the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the
+registrant under any of the following provisions: </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>[&nbsp;&nbsp; ] Written communications pursuant
+to Rule 425 under the Securities Act (17 CFR 230.425) </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>[&nbsp;&nbsp; ] Soliciting material pursuant to
+Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>[&nbsp;&nbsp; ] Pre-commencement communications pursuant
+to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>[&nbsp;&nbsp; ] Pre-commencement communications
+pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Major Left Bold-TNR" FSL="Workstation" -->
+<A NAME=A014></A>
+<H1 ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Item 7.01. Regulation FD
+Disclosure </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>On December 22, 2004, the Registrant
+announced that it intends on filing Articles of Dissolution on December 29, 2004 and will
+be dissolved as of that date. The Registrant has also advised its transfer agent to stop
+processing any transfers after December 29, 2004. The transfer agents contact information
+is as follows: </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Left-TNR" FSL="Workstation" -->
+<A NAME=A015></A>
+<P ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Interwest Transfer Co.<BR>1983
+E. 4800 South <BR>PO Box 17136<BR>Salt Lake
+City, Utah 84117<BR>Phone: 801-272-9294 <BR>Fax: 801-277-3147 </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>The Registrant has provided notice of
+its anticipated dissolution to the NASD and has requested that its shares of common stock
+cease being quoted on the OTC Bulletin Board after December 29, 2004. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Major Left Bold-TNR" FSL="Default" -->
+<A NAME=A018></A>
+<H1 ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Item 9.01. Financial
+Statements and Exhibits. </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>99.1     News Release issued by the
+Registrant on December 22, 2004 </FONT></P>
+
+
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold-TNR" FSL="Workstation" -->
+<A NAME=A019></A>
+<H1 ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>SIGNATURES </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Pursuant to the requirements of the
+Securities Exchange Act of 1934, the registrant has duly caused this report to be signed
+on its behalf by the undersigned hereunto duly authorized. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Major Left Bold-TNR" FSL="Workstation" -->
+<A NAME=A020></A>
+<H1 ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>TRIMAINE HOLDINGS, INC. </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Head Left-TNR" FSL="Workstation" -->
+<A NAME=A021></A>
+<P ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>/s/ Michael J. Smith <BR>By: Michael J. Smith
+<BR>President and Chief Financial Officer<BR>Date: December 22, 2004 </FONT></P>
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>2
+<FILENAME>ex99-1f8k122204.htm
+<DESCRIPTION>EXHIBIT 99.1 - NEWS RELEASE
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY>
+
+<!-- MARKER FORMAT-SHEET="Head Right-TNR" FSL="Workstation" -->
+<A NAME=A001></A>
+<P ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=5>NEWS RELEASE </FONT></P>
+
+
+<!-- MARKER FORMAT-SHEET="Head Left-TNR" FSL="Workstation" -->
+<A NAME=A002></A>
+<P ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>OTC BB: TRMH </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Right-TNR" FSL="Workstation" -->
+<A NAME=A003></A>
+<P ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Exhibit 99.1 </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold-TNR" FSL="Workstation" -->
+<A NAME=A004></A>
+<H1 ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=3>TRIMAINE HOLDINGS INC
+SETS RECORD <BR>DATE FOR FINAL
+DISSOLUTION </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>VANCOUVER, BC, (December 22, 2004)
+&#151; Trimaine Holdings, Inc. (the &#147;Corporation&#148;) (OTC BB: TRMH) today
+announced that it has set December 29, 2004 as the record date for the dissolution of the
+Corporation. The Corporation will file the Articles of Dissolution on December 29, 2004,
+after which it will be deemed to be dissolved. The record date will establish who is
+entitled to participate in the distribution of the net assets. Accordingly no certificates
+and/or book enters will be issued, transferred, traded or otherwise exchanged after this
+date. In addition, the corporation&#146;s common stock will no longer be quoted on the OTC
+Bulletin Board after December 29, 2004. </FONT></P>
+<BR><BR><BR><BR><BR><BR><BR><BR><BR>
+<P ALIGN=CENTER><IMG SRC="trimaine.jpg"></P>
+<P ALIGN=CENTER><FONT SIZE=2>HOLDINGS INC.</FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center-TNR" FSL="Workstation" -->
+<A NAME=A006></A>
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=1>1620 &#150; 400 BURRARD
+STREET &#149; VANCOUVER BC &#149; V6C 3A6 <BR>
+
+                                     PHONE (604) 683 5767 &#149; FAX (604) 683 3205 </FONT></P>
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>3
+<FILENAME>trimaine.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 trimaine.jpg
+M_]C_X``02D9)1@`!`@$`2`!(``#_P``1"`!/`)X#`1$``A$!`Q$!_]L`A``&
+M!`4&!00&!@4&!P<&"`H1"PH)"0H5#Q`,$1D6&AH8%A@7&Q\H(1L=)1X7&"(O
+M(R4I*BPM+!LA,30P*S0H*RPK`0<'!PH)"A0+"Q0K'!@<'"LK*RLK*RLK*RLK
+M*RLK*RLK*RLK*RLK*RLK*RLK*RLK*RLK*RLK*RLK*RLK*RLK*RO_Q`&B```!
+M!0$!`0$!`0```````````0(#!`4&!P@)"@L0``(!`P,"!`,%!00$```!?0$"
+M`P`$$042(3%!!A-180<B<10R@9&A""-"L<$54M'P)#-B<H()"A87&!D:)28G
+M*"DJ-#4V-S@Y.D-$149'2$E*4U155E=865IC9&5F9VAI:G-T=79W>'EZ@X2%
+MAH>(B8J2DY25EI>8F9JBHZ2EIJ>HJ:JRL[2UMK>XN;K"P\3%QL?(R<K2T]35
+MUM?8V=KAXN/DY>;GZ.GJ\?+S]/7V]_CY^@$``P$!`0$!`0$!`0````````$"
+M`P0%!@<("0H+$0`"`0($!`,$!P4$!``!`G<``0(#$00%(3$&$D%1!V%Q$R(R
+M@0@40I&AL<$)(S-2\!5B<M$*%B0TX27Q%Q@9&B8G*"DJ-38W.#DZ0T1%1D=(
+M24I35%565UA96F-D969G:&EJ<W1U=G=X>7J"@X2%AH>(B8J2DY25EI>8F9JB
+MHZ2EIJ>HJ:JRL[2UMK>XN;K"P\3%QL?(R<K2T]35UM?8V=KBX^3EYN?HZ>KR
+M\_3U]O?X^?K_V@`,`P$``A$#$0`_`/-/AG\;/%W@F.UMEN_[5T>,*OV&^8ML
+M0;1B.3[T>%7:!R@R3L)KZ;^Q:=:A"=-VDXKT>GX?UH8^T:>I]1?#?XX>$O&I
+M@M&N?[(UF3:OV*^8+YCG:,12?=?+-A1PYP3L`KP\3@JV&=JBT[]/Z_$T4D]C
+MU*N4H*`"@`H`*`"@`H`*`"@`H`*`"@`H`*`"@"*[N8+.TFNKR:*"V@0R2RRN
+M%2-0,EF)X``&230!X?X]_:3\-:#=&T\.6DGB*X1]LLL<OD6ZX+`[9"K%SD`@
+MJI4ALAN,5Z.&RK$8A<R5EW?]7_0AS2/G+QQ\:?'GB.Z2Y?7KK2XT/[NVTF1[
+M:-,@`_=.YL[<_.S8).,`XKJS#+*>$PZDG>3E_GT%&;DSS^+_`%2?[HKZ7!?[
+MO3_PK\C&6['$9&#TKHE%25GL(]?\)_%CQ=X+\!:#+IFH_:H3J5[`UMJ`,\9B
+MC@M!&@)(9%7S&(5&49/<<5\K/+J=;'5*,?=25U^'^9MSM13/4_!_[46EW/E0
+M>+=%N;"4^6C75BWG1$GAW9#AD4<$!?,.,CD@9PKY+B:>L?>7E_E_E<:J)GM_
+M@_QCX>\96+7?AG5;:_B3'F*A*R19)`WQL`R9VMC<!D#(R*\J<)0ERR5F:&_4
+M@%`!0`4`%`!0`4`%`!0`4`>;^-_C5X(\(37%K>:H;[4H.'LM/3SG#;RK*6X1
+M64@DJS`@#IR,]%#"5J_\.+?Y??L)R2W,7XU?$[4/#_PET3Q/X42.)];>%8FO
+M(MSP1RP22!@H;;O&U>NY>N0:K!8=8BO&DW9/_AQ2=E<\.^'7C?Q-XMD^(S>(
+M]<OK^-O!^H2>0\FV%658U#+$N$4X)Y"CJ?4UWYM@:6%C!4^M[_@3"3E>YXE7
+MV!@07O\`JA_O5XF?_P"[Q_Q?HS2EN?4G[5?P^\*^'/"EEKF@:-;Z=J-SJ<<$
+MAMBR1E/)E.!$#L7E%.0H.1GN<^1E%:I]9A3YGRZZ7TV?0NHE:Y\_>"/#%]XR
+M\56&@:5);17MX7$;W+LL8VQLYR54GHA[=:^DQ^,^J4U/EO=V[&48\SL=?\5/
+M`^L?#_PQH&D:_P#9FN'U*_GCDMI-\<B&&R&02`1\RL,$`Y'I@GR<LQ'UC'3J
+MVM>/^2+FK1L><00RW$A2WBDE<(SE8T+$*JEF;`[!5))[`$GI7O5J].BDZCLF
+M[&23>QUGPH\<7/P^\:6FMP?-;?ZB^B$8<RVS,I<+DC#?*"IR.5&>,@\.;X2-
+M:@Y=8JZ_4NG*S/:/VG?&_B;PE\5]+;PYKE]81KI,<GD))NA9FDG4LT391C@#
+MDJ>@]!7AY3@:6*C-5.EK?B:3DXVL5/@_\8O&VJW?BV;6M6348]+\.7>HP0S6
+ML2)YT10J3Y:JQ')!&>]3FN`IX3DY&W>^_E8(2<MQVC?M4ZO#:NNM>%["]N2Y
+M*R6ET]LH7`P"K+(2<YYR.HXXR>BIP_53]R::\[K_`#$JJ/3_`(8_&Z'QEH7B
+MW5KW0I-.MO#MJMU*L-T+AID*RL0H*H`0(CC)YSVKRL7A)X6:A-J]KZ%QDI(Q
+M_P#AJ/P9_P!`CQ)_WX@_^/5T?V1C/Y/Q7^8O:1.]^%?Q2T7XE'5!H=IJ5L=.
+M\KS?ML:+N\S?MV[7;^X<YQVKDQ&&J8>7+45G8I-/8X+QQ^TIHWA_5-0TO3M`
+MU&^U&PO9+6<7$J01'8S*S*XWL?F48!4<'.1C!ZL+E>(Q$5.*23ZM_P!,F4TC
+MEM&_:3UWQ!XZ\/:98:%IEAIM]>V]I.LTCW$OSRA697!0#AA@%3R,Y.<#?$9/
+M.A0E5G)771?+KI^0E43=CT+]J7Q/K7A;X=VEQX>U"6PN+O4%M)98@-YB:&4D
+M*2"5.5!W+AAC@BN3+Z$*^(C3GL_\KE3=E<^>_@!J^I:U\>_"MUK6HWNHW*K<
+M1K->7#S.$%O,0H9B3C))Q[FO8S?!T,/AU[.-O>_1]3.G)MZG%?$__DIGC#_L
+M-7G_`*/>O2RC_<X?/\V14^(]-\8ZC_:'[)7@H/>?:I[76VMY,R[VBVK=;$/.
+M5Q&8\#LI7'&*\/"0Y,TY;6]Z7Y.QK+X#E_@?_P`U#_[$S4?_`&G75Q#_`,N_
+MG^A-+J>92$B-B.H!KW<5.4*,Y1W47^1FMS[_`/#/P8\`^'[4Q0^'+*^D9$62
+M;4D%TSE0?FP^50G))V!0?3@8^#K8BK6=ZDFSI22V.(_;,_Y)GI'_`&&H_P#T
+M1/79E'^^0^?Y,FI\)X/^S1_R7'PO_O7/_I-+7N9__N\?\7Z,SI;GJ'[;?^M\
+M%?[M[_[0KS,@_P!XE_A_5%U=CP3P!_R'KO\`[`^J?^F^XKT\_P#]WC_B_1D4
+MMSFI?]4_^Z:]+&_[O4_PO\B([H]X_;(_Y*GIO_8%A_\`1T]>)P]_R\^7ZFE7
+MH<I\#_\`FH?_`&)FH_\`M.CB'_EW\_T"EU/-*^D,CLO!&L:A8^$?B!965U)!
+M;76E0O,L9P7*WEO&!NZXV3RJ1G!#G(/%>!FM*#Q-!M;NS]+K_-FD'[K.-KWS
+M,^GOV)/];XU_W;+_`-KU\CG_`/O$?\/ZLWI;'S3J%_<ZMJ%UJ-_+YM[>2O<3
+MR;0N^1R68X&`,DDX`Q7T>`A&&&IJ/\J_'4QENR&"ZFM9(KNSFE@N(2)8I8V*
+MO&PY5E(Y!!`((J,3*-;!RG;1PO\`A=#6DC[$_;,_Y)GI'_8:C_\`1$]?+91_
+MOD/G^3-JGPG@_P"S1_R7'PO_`+US_P"DTM>YG_\`N\?\7Z,SI;G+_$__`)*9
+MXP_[#5Y_Z/>NG*/]SA\_S9-3XAT7B-/^%6W7AB5HU<:Y#J-NH1M[@V\L<I+?
+M=P-L.!P?F/7MRU:')F<*G22?WI-?E8I/W&CH_@?_`,U#_P"Q,U'_`-IUS\0_
+M\N_G^@Z74\RE_P!4_P#NFO;QO^[U/\+_`",X[H_2C1/%GAS7KM[70]?TC4KE
+M$,C16=[',ZJ"`6(4DXR0,^XK\_.H\?\`VS/^29Z1_P!AJ/\`]$3UZ64?[Y#Y
+M_DR*GPG@_P"S1_R7'PO_`+US_P"DTM>YG_\`N\?\7Z,SI;GJ'[;?^M\%?[M[
+M_P"T*\S(/]XE_A_5%U=CYDBEF@<O;S2PN59"T3E2592K*2.Q5B".X)%?2XK"
+M4\3%1J;)W,8R:V-CP1X;N?&/B_2O#MDVR?4)=ADP#Y<8!,CX)`.U`S8R"<8'
+M)%<N:8N%&C*#WDM-_3?;0J$6V>M_MD?\E3TW_L"P_P#HZ>O.X>_Y>?+]2JO0
+MY3X'_P#-0_\`L3-1_P#:='$/_+OY_H%+J>92G$;D=<&O<Q<G&A-K?E?Y&<=T
+M6+6_N;:"ZBMI"D-]"(+A=H.^,.DH&3T^>)#QZ8Z$@\M6E'$SH5K:7O\`>KI_
+M)I#3LFBLC9ED'8`5M1K.>)J0Z14?U?\`7H#6B/H;]ES59]!\(?%35[-(GN=/
+MTZ&ZB64$HS)'<L`P!!QD<X(KYW/_`/>(_P"']6:TMCYY<;86`)X7BOHZT?8X
+M648/X8.WR1BM9&KXETG^P?$FK:-YWVC^SKR:T\[9M\SRW*;L9.,[<XR<>M1E
+MM3VF%@[=+?=I^@YJTF>__&*_MM2_98^'4UE+YD4<]I;L=I&)(K::.0<^CHPS
+MT.,C(YKYG*X2ACHQENF_R9M/X3SS]FC_`)+CX7_WKG_TFEKV<_\`]WC_`(OT
+M9G2W.7^)_P#R4SQA_P!AJ\_]'O73E'^YP^?YLFI\1RSKET;^Z3_*NBM0YZU.
+MHOLM_<T_UL)/1H].^!__`#4/_L3-1_\`:=>+Q#_R[^?Z&E+J>:5](9'NW[&_
+M_)4]2_[`LW_HZ"OF^(?^7?S_`$-:74]0_;,_Y)GI'_8:C_\`1$]>9E'^^0^?
+MY,NI\)X/^S1_R7'PO_O7/_I-+7N9_P#[O'_%^C,Z6YZA^VW_`*WP5_NWO_M"
+MO,R#_>)?X?U1=78^=_#.FQ:KJ<UO</(B1V%[<@QD`EH;6691R#P6C`/MG!'6
+MO;S7%5,-2C.F]>9?DS.$4WJ5M&UC4/#^J6VK:-=26FHVC>9#-&>5./R((R"#
+MD$$@@@D5OF%*%3#3YE>R;^:0H.S/:?VR/^2IZ;_V!8?_`$=/7C\/?\O/E^I=
+M7H<I\#_^:A_]B9J/_M.CB'_EW\_T"EU/,I?]4_\`NFO;QO\`N]3_``O\C..Z
+M-GQ?I<&A^+M=TBT>1[;3[^>UB:4@NR1R,BEB`!G`&<`5CEE1SPD&^UONT'-6
+MDQVO6%M9Z5X9N+>+9-?::\]PVXG>XO+F,'GI\D:#`P.,]237+ELY3Q.(<OYE
+M^%T5/9'H/PHU2?2/@]\7KBV2-GEM;"U(D!(V322PN>".0LA(]\=>E<&;TU4Q
+MU.#V:2_%E4W:+/-_#-W9V'B72+S5;;[7IUM>PRW5OL5_-B5U+IM;`;*@C!X.
+M>:]S,*=2IAY0I;O_`#U_`S@TGJ2^,-3AUOQ?KVK6J2QV]_J%Q=1)*`'57D9@
+M&P2,X(S@FIRVC.CAHPFK-7_-A-INZ/4O$5_;7G[)?A.WMY=\UCXAD@N%VD;'
+M*W,@'/7Y)$.1D<XZ@BO"P\)0S5J7\TOQ39H_@,3]FC_DN/A?_>N?_2:6O0S_
+M`/W>/^+]&32W.7^)_P#R4SQA_P!AJ\_]'O73E'^YP^?YLFI\1R\3;HU;.21S
+M73@ZWMJ$)WO=?CU_$4E9V/3?@?\`\U#_`.Q,U'_VG7B<0_\`+OY_H:4NIYFQ
+MVJ2>@&:^AJU%3@YO9*YDE=GU1^S/\,O%_@WQ]?:EXFT8V-E)IDD"2&YADRYE
+MB8#".3T1N<8XKY#-<?3Q?)R)JU]_.QO"+CN;_P"V9_R3/2/^PU'_`.B)ZRRC
+M_?(?/\F.I\)X/^S1_P`EQ\+_`.]<_P#I-+7N9_\`[O'_`!?HS.EN>H?MM_ZW
+MP5_NWO\`[0KS,@_WB7^']475V/!/`'_(>N_^P/JG_ION*]//_P#=X_XOT9%+
+M<YJ7_5/_`+IKTL;_`+O4_P`+_(B.Z/>/VR/^2IZ;_P!@6'_T=/7B</?\O/E^
+MII5Z'*?`_P#YJ'_V)FH_^TZ.(?\`EW\_T"EU/,I?]4_^Z:]O&_[O4_PO\C..
+MZ.W^-6ESZ/\`%KQ;:W+QM(^HR7(,9)&V8^<HY`Y"R*#[YZ]:XLEJ*6$271M?
+MK^I51>\.^)ND_P!C6'@.V\[SO-\,P7>[9MQY]Q<3;<9/W?,VY[XS@9Q7+DE3
+MVE2M.UKM/[[E5%9)&7IFH_9_A[XBL8[SRI;O4M/WVZR[3/$D=V3E<_,JOY1/
+M8'9WQ6N(AS9G3TO:-_S_`%$O@9E:'ID^M:YINE6;1+<W]U%:Q-*2$#2.%!8@
+M$@9/.`:]+&8CZO1=6U[?YV(BKNP:YID^BZYJ6E7C1-<V%U+:RM$24+1N5)4D
+M`D9'&0*,'B/K%%5;6O\`YV"2L['>_P#-LW_<Y_\`MC7B?\SC^OY33_EV/_9H
+M_P"2X^%_]ZY_])I:Z<__`-WC_B_1BI;G+_$__DIGC#_L-7G_`*/>NG*/]SA\
+M_P`V34^(R-;TG^Q;N&T\[S]]G:W6_9MQYUO'-MQD_=\S;GOC/&<5EDE3GPJ5
+MMFU^OZCJ+WCO/@?_`,U#_P"Q,U'_`-IUQ<0_\N_G^A5+J>92_P"J?_=->WC?
+M]WJ?X7^1G'='ZA5^?G4>"_MF?\DSTC_L-1_^B)Z]+*/]\A\_R9%3X3P?]FC_
+M`)+CX7_WKG_TFEKW,_\`]WC_`(OT9G2W/4/VV_\`6^"O]V]_]H5YF0?[Q+_#
+M^J+J['@G@#_D/7?_`&!]4_\`3?<5Z>?_`.[Q_P`7Z,BEN<S,0(GR0,@UZ&/G
+M&.'GS.UXM?@1'='U!^TQX!\5>,OBG9-X9T2ZOHH]&C#S#;'$")I<KYCD+N^9
+M3MSG!SC%?,Y5CJ6$4W4OK;;YFTXN6PGPD^!WB_1['Q-<:Q_9MG+K'A^\TR&V
+M>X+R12R%0I<HI7;\F<JS'!'&<@1F>81Q<H\JLE?\;#A'E([;]E&YDLXC>>,8
+M8KAHQYL<6FF14;'(5C*I8`]"5&?0=*TK9W6J1E#E23377K\Q*FD>F>.O@)X8
+M\9^*[_Q!J>HZW#>7FSS$MIHEC&U%08#1D]$'?K7#A\?7P\>6G*ROV13BGN)X
+ML^`?ACQ-_8OV[4=;B_LK3(=,@\B:(;HHMVTMF,Y;YCDC`]A4X?&5L/?V3M?T
+M_4;BGN8/_#+7@O?N_M;Q)NQC_CX@_P#C-:_VEB?:>UYO>M;9;;]A<BM8+']F
+MO1M'\3Z!J^AZ_J48TZ]BNI8;V))O.\MU=55D";/ND$D-U'3'-5<SQ%6G*G4=
+MT_+_`"!02=T4?C-\`-6\8^+]1\2:'K=BMQ?21;K.\B>-8U2)4)$B[BQR@.-@
+MZGGCG7`9I+"1<.6Z;OV%*',>;#X'?$"U\):[I8T1)[A]5LY86BO(=LT<4=VK
+M.I9P0,RQX#`-\W3@XVGF=.>,AB&G91L_Q_S%R/E:*/P"T#6="^./A$:YH^I:
+M89S=>5]MM9(?,Q;2YV[P,XR,XZ9'K71F^-H8B@E2E=J2_)]R:<6GJ<+\3_\`
+MDIGC#_L-7G_H]Z]3*/\`<X?/\V14^(Z_XX:']BT7X:ZS'';)%J?ABTB;RQAW
+MEAC3<S\<_))$H.2<)C@`5Y7#]7WITWVO_G^:-*JZE7X'_P#-0_\`L3-1_P#:
+M=7Q#_P`N_G^@J74\RD!,;`=2#7NXJ$IT9QCNXO\`(S6Y]_\`AGXS^`?$%J98
+M?$=E8R*B-)#J3BU9"P/RY?"N1@@["P'KR,_!UL/5HNU2+1TII['$?MF?\DST
+MC_L-1_\`HB>NS*/]\A\_R9-3X3P?]FC_`)+CX7_WKG_TFEKW,_\`]WC_`(OT
+M9G2W/H+]I+X<>(?B)J/A.'P]%;>5:B[%S<W,P2.'<(BF0,L<[&'RJ><9P.:\
+M#+\8L)4=1J^EOQ1K./,K&5\+/V<;?0KC^T?%^I"^NVAF@-E9$K`$ECDB<-(0
+M'?*2<$!"IS][K5X_,ZF+2BU:*?\`6HHP43V;PUX,\->&"C>']"TW3YEA$'GP
+M6ZB5T&.&DQN;)4$EB22,G)KSI2<G=[EF_2`*`"@`H`*`"@`H`*`"@`H`\\\7
+M_!KP+XJN[J\U#1$AU"X1@UU9R-`V]B29"JG8SY8G<ZMGC.0,5O2Q-:C_``Y-
+M:_UH)I/<QOBW\(O^$J^&NA>'=`N+:*]T/R4L[B_7)>)8_+9&D5<KD;6.%()1
+M>!U%X+%/#5E42OY;7%*-U8\-\`>`?%7@T>/V\3:)=6,4G@S4`DQVR1$G9A?,
+M0E=WRL=N<X&<8KNS7'4L6H.G?2^_R)A%QW/#:^Q,""]_U0_WJ\3/_P#=X_XO
+MT9I2W/T$^-OP^N/B3X<TS1[?4(M/2'4%NIIWB,A"B*5<*H(R2SKU(XR>V#\Q
+MAL1+#U%4CNC9JZL3?#SX2^$O`92?2-/-QJ2Y_P")C>D2SC[P^4X"I\KE3L"Y
+M&,YZT5\35KRYJDK@DEL=[6`PH`*`"@`H`*`"@`H`*`"@`H`*`"@`H`*`(KNV
+M@O+2:UO(8I[:=#'+%*@9)%(P58'@@@X(-`'A_CW]FSPUKUT;OPY=R>';AWW2
+MQ1Q>?;MDL3MC+*4.2``K!0%P%YS7HX;-<1AURIW79_U?]"'!,^7?BK\.O$'P
+M\NK6V\0Q6WEW1;[-<VTP>.;:%+XSAAC>H^91STR.:ZLPS.GB\.HI6DI?Y]11
+%@XL__]D_
+`
+end
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

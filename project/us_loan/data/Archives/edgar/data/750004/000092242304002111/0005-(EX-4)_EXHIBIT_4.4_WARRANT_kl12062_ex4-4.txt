@@ -1,0 +1,1501 @@
+
+                                                                     Exhibit 4.4
+
+
+
+
+
+
+Bear Stearns International Limited
+One Canada Square
+London, England
+E14 5AD
+
+                                                December 23, 2004
+
+To: Scientific Games Corporation
+750 Lexington Avenue, 25th Floor
+New York, NY 10022
+Attention: Treasurer
+Telephone No.:  (212) 754-2233
+Facsimile No.:  (212) 754-2372
+
+
+Re: Warrants
+
+Reference: NY33267
+
+      The purpose of this letter agreement is to confirm the terms and
+conditions of the Warrants issued by Scientific Games Corporation (the
+"Company") to Bear, Stearns International Limited ("Bear Stearns") on the Trade
+Date specified below (the "Transaction"). This letter agreement constitutes a
+"Confirmation" as referred to in the ISDA Master Agreement specified below. This
+Confirmation shall replace any previous letter and serve as the final
+documentation for this Transaction.
+
+      The definitions and provisions contained in the 1996 ISDA Equity
+Derivatives Definitions (the "Equity Definitions"), as published by the
+International Swaps and Derivatives Association, Inc., are incorporated into
+this Confirmation. In the event of any inconsistency between the Equity
+Definitions and this Confirmation, this Confirmation shall govern. This
+Transaction shall be deemed to be a Share Option Transaction within the meaning
+set forth in the Equity Definitions.
+
+      Each party is hereby advised, and each such party acknowledges, that the
+other party has engaged in, or refrained from engaging in, substantial financial
+transactions and has taken other material actions in reliance upon the parties'
+entry into the Transaction to which this Confirmation relates on the terms and
+conditions set forth below.
+
+1.    This Confirmation evidences a complete and binding agreement between Bear
+      Stearns and the Company as to the terms of the Transaction to which this
+      Confirmation relates. This Confirmation shall supplement, form a part of,
+      and be subject to an agreement in the form of the 2002 ISDA Master
+      Agreement (the "Agreement") as if Bear Stearns and the Company had
+      executed an agreement in such form (but without any Schedule except for
+      the election of the laws of the State of New York as the governing law and
+      United States dollars as the Termination Currency) on the Trade Date. In
+      the event of any inconsistency between provisions of that Agreement and
+      this Confirmation, this Confirmation will prevail for the purpose of the
+      Transaction to which this Confirmation relates. The parties hereby agree
+      that no Transaction other than the Transaction to which this Confirmation
+      relates shall be governed by the Agreement.
+
+<PAGE>
+
+2.    The terms of the particular Transaction to which this Confirmation relates
+      are as follows:
+
+General Terms:
+
+     Trade Date:                  December 23, 2004
+
+     Warrants:                    Equity call warrants on the terms hereof, each
+                                  giving the holder the right to purchase one
+                                  Share at the Strike Price, subject to the
+                                  Settlement Terms set forth below. For the
+                                  purposes of the Equity Definitions, each
+                                  reference to a Warrant shall be deemed to be a
+                                  reference to a Call Option.
+
+     Warrant Style:               European
+
+     Buyer:                       Bear Stearns
+
+     Seller:                      Company
+
+     Shares:                      The Class A Common Stock of the Company, par
+                                  value USD 0.01 per Share (Exchange symbol
+                                  "SGMS")
+
+     Number of Warrants:          4,295,533
+
+     Daily Number of Warrants:    71,592.22, subject to adjustments provided
+                                  herein.
+
+     Warrant Entitlement:         One Share per Warrant
+
+     Strike Price:                USD 37.248
+
+     Premium:                     USD 17,130,000
+
+     Premium Payment Date:        December 23, 2004
+
+     Exchange:                    The NASDAQ National Market System
+
+     Related Exchange(s):         The principal exchange(s) for options
+                                  contracts or futures contracts, if any, with
+                                  respect to the Shares
+
+Exercise and Valuation:
+
+      Expiration Time:            The Valuation Time
+
+      First Expiration Date:      June 1, 2010, subject to Market Disruption
+                                  Event below.
+
+      Expiration Date:            For any Daily Number of Warrants, each of the
+                                  60 Exchange Business Days beginning on and
+                                  including the First Expiration Date.
+
+      Automatic Exercise:         Applicable; and means that a number of
+                                  Warrants for each Expiration Date equal to the
+                                  Daily Number of Warrants (as adjusted pursuant
+                                  to the terms hereof) for such Expiration Date
+
+
+                                       2
+<PAGE>
+
+                                  will be deemed to be automatically exercised.
+                                  For the avoidance of doubt, Automatic Exercise
+                                  shall apply separately to each Expiration
+                                  Date.
+
+      Market Disruption Event:    Modified Postponement (as if each Expiration
+                                  Date were an Averaging Date for the purposes
+                                  of Section 4.4(d)(iii)(A) of the Equity
+                                  Definitions and for the purposes of the
+                                  definition of "Valid Date"); provided that
+                                  references in Section 4.4(d)(iii)(A) to "fifth
+                                  Exchange Business Day" shall be replaced by
+                                  "eighth Exchange Business Day".
+
+Valuation applicable to each
+Warrant:
+
+     Valuation Time:              At the close of trading of the regular
+                                  trading session on the Exchange; provided
+                                  that if the principal trading session is
+                                  extended, the Calculation Agent shall
+                                  determine the Valuation Time in its
+                                  reasonable discretion.
+
+     Valuation Date:              Each Exercise Date.
+
+Settlement Terms applicable to
+the Transaction:
+
+     Method of Settlement:        Net Share Settlement; and means that, on each
+                                  Settlement Date, Company shall deliver to Bear
+                                  Stearns, the Share Delivery Quantity of Shares
+                                  for such Settlement Date to the account
+                                  specified hereto free of payment through the
+                                  Clearance System.
+
+     Share Delivery Quantity:     For any Settlement Date, a number of Shares,
+                                  as calculated by the Calculation Agent, equal
+                                  to the Net Share Settlement Amount for such
+                                  Settlement Date divided by the Settlement
+                                  Price on the Valuation Date in respect of such
+                                  Settlement Date, plus cash in lieu of any
+                                  fractional shares (based on such Settlement
+                                  Price).
+
+     Net Share Settlement Amount: For any Settlement Date, any amount equal to
+                                  (i) the Number of Warrants being exercised on
+                                  the relevant Exercise Date multiplied by (ii)
+                                  the Strike Price Differential for such
+                                  Settlement Date.
+
+     Strike Price Differential:   (a) If the Settlement Price for any Valuation
+                                  Date is greater than the Strike Price, an
+                                  amount equal to the excess of such Settlement
+                                  Price over the Strike Price; or
+
+                                  (b) If such Settlement Price is less than or
+                                  equal to the Strike Price, zero.
+
+     Settlement Price:            For any Valuation Date, the official closing
+                                  price per Share quoted by the Exchange (or, if
+                                  no closing price is so quoted, the last
+                                  reported sale price) as of the Valuation Time
+                                  on such Valuation Date.
+
+
+                                       3
+<PAGE>
+
+     Settlement Date:             For any Exercise Date, the date defined as
+                                  such in Section 6.2 of the Equity Definitions,
+                                  subject to Section 9(o)(i) hereof.
+
+     Failure to Deliver:          Inapplicable
+
+     Other Applicable Provisions: The provisions of Sections 6.6, 6.7, 6.8, 6.9
+                                  and 6.10 of the Equity Definitions will be
+                                  applicable, except that all references in such
+                                  provisions to "Physically-Settled" shall be
+                                  read as references to "Net Share Settled".
+                                  "Net Share Settled" in relation to any Warrant
+                                  means that Net Share Settlement is applicable
+                                  to that Warrant.
+
+3. Additional Terms applicable
+   to the Transaction:
+
+   Adjustments applicable to the
+   Warrants:
+
+     Method of Adjustment:        Calculation Agent Adjustment. For avoidance of
+                                  doubt, in making any adjustments under the
+                                  Equity Definitions, the Calculation Agent may
+                                  adjust the Daily Number of Warrants.
+                                  Notwithstanding the foregoing, any cash
+                                  dividends or distributions, whether or not
+                                  extraordinary, shall be governed by Section
+                                  9(j) of this Confirmation and not by Section
+                                  9.1(c) of the Equity Definitions.
+
+   Extraordinary Events applicable
+   to the Transaction:
+
+     Consequence of Merger Events
+
+     (a)  Share-for-Share:        Alternative Obligation; provided that the
+                                  Calculation Agent will determine if the Merger
+                                  Event affects the theoretical value of the
+                                  Transaction and if so Bear Stearns in its sole
+                                  discretion may elect to make adjustments to
+                                  the Strike Price and any other term necessary
+                                  to reflect the characteristics (including
+                                  volatility, dividend practice, borrow cost,
+                                  and policy and liquidity) of the New Shares.
+                                  Notwithstanding the foregoing, Cancellation
+                                  and Payment shall apply in the event the New
+                                  Shares are not publicly traded on a United
+                                  States national securities exchange or quoted
+                                  on the NASDAQ National Market System.
+
+     (b)  Share-for-Other:        Cancellation and Payment
+
+     (c)  Share-for-Combined:     Cancellation and Payment
+
+     Nationalization or
+     Insolvency:                  Cancellation and Payment
+
+4. Calculation Agent:             Bear Stearns, whose calculations and
+                                  determinations shall be made in good faith and
+                                  in a commercially reasonable manner.
+
+
+                                       4
+<PAGE>
+
+5. Account Details:
+
+      (a) Account for payments to Company:
+
+             Scientific Games Management Corp., Agent
+             The Bank of New York
+             New York, NY
+             ABA # 021-000-018
+             CHIPS # 0001
+             SWIFT Code IRVUS3N
+             Account Number 6302386623
+             Reference: Scientific Games Corp.
+
+
+             Account for delivery of Shares to Company:
+
+             As notified to Bear Stearns by Company in writing from time to
+             time.
+
+      (b) Account for payments to Bear Stearns:
+
+             Citibank, N.A., New York
+             ABA:  021-000-089
+             Account Name: Bear, Stearns Securities Corp.
+             Account Number: 09253186
+             Further Credit: Bear, Stearns International Limited
+             Sub Account Number: 101-80048-10
+
+             Account for delivery of Shares from Bear Stearns:
+
+             DTC 352
+
+6. Offices:
+
+The Office of Company for the Transaction is: Inapplicable, Company is not a
+Multibranch Party.
+
+The Office of Bear Stearns for the Transaction is: Inapplicable, Bear Stearns
+is not a Multibranch Party.
+
+7. Notices: For purposes of this Confirmation:
+
+      (a)   Address for notices or communications to Company: 750 Lexington
+            Avenue, 25th Floor
+            New York, NY 10022
+            Attention: Treasurer
+            Telephone No.:  (212) 754-2233
+            Facsimile No.:  (212) 754-2372
+
+            Address for notices or communications to Bear Stearns:
+
+             Bear, Stearns International Limited.
+             One Canada Square
+             London, England
+             E14 5AD
+             Attention:  Legal Department
+
+
+                                       5
+<PAGE>
+
+             With a copy to:
+
+             Bear, Stearns & Co. Inc.
+             383 Madison Avenue
+             New York, NY  10179
+             Attention: Kevin T. Robik
+             Facsimile No.:   (212) 272-9857
+
+8. Representations and Warranties of the Company and Other Matters
+
+(a)         The Company hereby represents and warrants to Bear Stearns that the
+            Company and each of its subsidiaries have been duly organized and
+            are validly existing and in good standing under the laws of their
+            respective jurisdictions of organization, are duly qualified to do
+            business and are in good standing in each jurisdiction in which
+            their respective ownership or lease of property or the conduct of
+            their respective businesses requires such qualification, and have
+            all power and authority necessary to own or hold their respective
+            properties and to conduct the businesses in which they are engaged,
+            except where the failure to be so qualified or have such power or
+            authority would not, individually or in the aggregate, have a
+            material adverse effect on the business, properties, management,
+            financial position, results of operations or prospects of the
+            Company and its subsidiaries taken as a whole or on the performance
+            by the Company of its obligations under the Transaction (a "Material
+            Adverse Effect").
+
+(b)         The Company hereby represents and warrants to Bear Stearns that the
+            Company has all necessary corporate power and authority to execute,
+            deliver and perform its obligations in respect of this Transaction;
+            such execution, delivery and performance have been duly authorized
+            by all necessary corporate action on the Company's part; and this
+            Confirmation has been duly and validly executed and delivered by the
+            Company and constitutes its valid and binding obligation,
+            enforceable against the Company in accordance with its terms,
+            subject to applicable bankruptcy, insolvency, fraudulent conveyance,
+            reorganization, moratorium and similar laws affecting creditors'
+            rights and remedies generally, and subject, as to enforceability, to
+            general principles of equity, including principles of commercial
+            reasonableness, good faith and fair dealing (regardless of whether
+            enforcement is sought in a proceeding at law or in equity) and
+            except that rights to indemnification and contribution thereunder
+            may be limited by federal or state securities laws or public policy
+            relating thereto.
+
+(c)         The Company hereby represents and warrants to Bear Stearns that
+            neither the Company nor any of its subsidiaries is (i) in violation
+            of its charter or by-laws or similar organizational documents; (ii)
+            in default, and no event has occurred that, with notice or lapse of
+            time or both, would constitute such a default, in the due
+            performance or observance of any term, covenant or condition
+            contained in any indenture, mortgage, deed of trust, loan agreement
+            or other agreement or instrument to which the Company or any of its
+            subsidiaries is a party or by which the Company or any of its
+            subsidiaries is bound or to which any of the property or assets of
+            the Company or any of its subsidiaries is subject; or (iii) in
+            violation of any applicable law or statute or any judgment, order,
+            rule or regulation of any court or arbitrator or governmental or
+            regulatory authority having jurisdiction over the Company or any of
+            its subsidiaries or any of their properties, as applicable,
+
+                                       6
+<PAGE>
+
+             except, in the case of clauses (ii) and (iii) above, for any such
+             default or violation that would not, individually or in the
+             aggregate, have a Material Adverse Effect.
+
+(d)          The Company hereby represents and warrants to Bear Stearns that the
+             execution, delivery and performance by the Company of this
+             Confirmation and compliance by the Company with the terms hereof
+             and the consummation of the Transaction will not (i) conflict with
+             or result in a breach or violation of any of the terms or
+             provisions of, or constitute a default under, or result in the
+             creation or imposition of any lien, charge or encumbrance upon any
+             property or assets of the Company or any of its subsidiaries
+             pursuant to, any indenture, mortgage, deed of trust, loan agreement
+             (including but not limited to the Credit Agreement dated as of
+             December 23, 2004 among the Counterparty, as borrower, the several
+             lenders from time to time thereto and JPMorgan, as administrative
+             agent) or other agreement or instrument to which the Company or any
+             of its subsidiaries is a party or by which the Company or any of
+             its subsidiaries is bound or to which any of the property or assets
+             of the Company or any of its subsidiaries is subject, (ii) result
+             in any violation of the provisions of the charter or by-laws or
+             similar organizational documents of the Company or any of its
+             subsidiaries or (iii) result in the violation of any applicable law
+             or statute or any judgment, order, rule or regulation of any court
+             or arbitrator or governmental or regulatory authority having
+             jurisdiction over the Company or any of its subsidiaries or any of
+             their properties, as applicable, except, in the case of clauses (i)
+             and (iii) above, for any such conflict, breach or violation that
+             would not, individually or in the aggregate, have a Material
+             Adverse Effect.
+
+(e)          The Company hereby represents and warrants to Bear Stearns that the
+             Shares of the Company initially issuable upon exercise of the
+             Warrant by the net share settlement method (the "Warrant Shares")
+             have been reserved for issuance by all required corporate action of
+             the Company. The Warrant Shares have been duly authorized and, when
+             delivered against payment therefor (which may include Net Share
+             Settlement in lieu of cash) and otherwise as contemplated by the
+             terms of the Warrant following the exercise of the Warrant in
+             accordance with the terms and conditions of the Warrant, will be
+             validly issued, fully-paid and non-assessable, and the issuance of
+             the Warrant Shares will not be subject to any preemptive or similar
+             rights.
+
+(f)          The Company hereby represents and warrants to Bear Stearns that
+             except as set forth or incorporated by reference in the Company's
+             Annual Report on Form 10-K for the year ended December 31, 2003
+             (the "Company's 10-K"), as updated by any subsequent filings, there
+             are no legal, governmental or regulatory investigations, actions,
+             suits or proceedings pending to which the Company or any of its
+             subsidiaries is or may be a party or to which any property of the
+             Company or any of its subsidiaries is or may be the subject that,
+             individually or in the aggregate, if determined adversely to the
+             Company or any of its subsidiaries, could reasonably be expected to
+             have a Material Adverse Effect; and no such investigations,
+             actions, suits or proceedings are threatened or, to the knowledge
+             of the Company, are contemplated by any governmental or regulatory
+             authority or threatened in writing by others.
+
+(g)          The Company hereby represents and warrants to Bear Stearns that the
+             Company's 10-K, as updated by any subsequent filings, does not, as
+             of the Trade Date, contain an untrue statement of a material fact
+             or omit to state a material fact required to be stated therein or
+             necessary in order to make the statements therein, in the light of
+             the circumstances under which they were made, not misleading.
+
+(h)          The Company hereby represents and warrants to Bear Stearns that it
+             is an "eligible contract participant" (as such term is defined in
+             Section 1(a)(12) of the Commodity Exchange Act, as amended (the
+             "CEA") because one or more of the following is true:
+
+
+                                       7
+<PAGE>
+
+            The Company is a corporation, partnership, proprietorship,
+            organization, trust or other entity and:
+
+            (A)   the Company has total assets in excess of USD 10,000,000;
+
+            (B)   the obligations of Company hereunder are guaranteed, or
+                  otherwise supported by a letter of credit or keepwell, support
+                  or other agreement, by an entity of the type described in
+                  Section 1a(12)(A)(i) through (iv), 1a(12)(A)(v)(I),
+                  1a(12)(A)(vii) or 1a(12)(C) of the CEA; or
+
+            (C)   the Company has a net worth in excess of USD 1,000,000 and has
+                  entered into this Agreement in connection with the conduct of
+                  Company's business or to manage the risk associated with an
+                  asset or liability owned or incurred or reasonably likely to
+                  be owned or incurred by Company in the conduct of Company's
+                  business.
+
+(i)         The Company hereby represents and warrants to Bear Stearns that
+            neither the Company nor any of its subsidiaries is an "investment
+            company" or an entity "controlled" by an "investment company" within
+            the meaning of the Investment Company Act of 1940, as amended, and
+            the rules and regulations of the Commission thereunder.
+
+(j)         The Company hereby represents and warrants to Bear Stearns that the
+            Company and its subsidiaries possess all licenses, certificates,
+            permits and other authorizations issued by, and have made all
+            declarations and filings with, the appropriate federal, state, local
+            or foreign governmental or regulatory authorities that are necessary
+            for the ownership or lease of their respective properties or the
+            conduct of their respective businesses as described in the Company's
+            10-K, as updated by any subsequent filings, except where the failure
+            to possess or make the same would not, individually or in the
+            aggregate, have a Material Adverse Effect; and except as described
+            in the Company's 10-K, as updated by any subsequent filings, neither
+            the Company nor any of its subsidiaries has received written notice
+            of any revocation or modification of any such license, certificate,
+            permit or authorization or has any reason to believe that any such
+            license, certificate, permit or authorization will not be renewed in
+            the ordinary course.
+
+(k)         The Company hereby represents and warrants to Bear Stearns that no
+            order, consent, approval, license, authorization or validation of,
+            or filing, recording, qualification or registration with, or
+            exemption or waiver by, any governmental authority or other person
+            with responsibility for regulating gaming laws having jurisdiction
+            over the Company or its subsidiaries, is required for the execution,
+            delivery and performance by the Company of this Confirmation, other
+            than the Order of the West Virginia State Lottery Commission dated
+            and obtained December 7, 2004 and a waiver by the New Jersey Casino
+            Control Commission (the "New Jersey Commission") of the requirement
+            that Bear Stearns satisfy the applicable qualification provisions of
+            the New Jersey Casino Control Act and the regulations promulgated
+            thereunder by the New Jersey Commission; further, subject to
+            compliance with the requirements described above, the execution,
+            delivery and performance of this Confirmation does not and will not
+            result in a violation in any material respect of any gaming law or
+            regulation.
+
+(l)         The Company represents and warrants to Bear Stearns that each of it
+            and its affiliates is not, on the date hereof, in possession of any
+            material non-public information with respect to Company.
+
+(m)         The Company shall deliver an opinion of counsel, dated as of the
+            Trade Date, to Bear Stearns in the forms attached as Exhibit A,
+            Exhibit B and Exhibit C.
+
+
+                                       8
+<PAGE>
+
+(n)         If the Initial Purchasers party to the Purchase Agreement among the
+            Company and J.P. Morgan Securities Inc. and Bear, Stearns & Co., as
+            representatives of the Initial Purchasers, dated as of December 1,
+            2004, relating to the purchase of the Convertible Notes exercise
+            their right to receive additional Convertible Notes pursuant to the
+            Initial Purchasers' option to purchase additional Convertible Notes,
+            then, at the discretion of the Company, Bear Stearns and the Company
+            will amend this Confirmation (substantially in the form attached as
+            Exhibit D to this Confirmation) to provide for such increase in
+            Convertible Notes (such amendment to this Confirmation to provide
+            for the payment by the Company to Bear Stearns of the additional
+            premium related thereto).
+
+9. Other Provisions:
+
+(a)         No Reliance, etc. Each party represents that (i) it is entering into
+            the Transaction evidenced hereby as principal (and not as agent or
+            in any other capacity); (ii) neither the other party or parties nor
+            any of its or their agents are acting as a fiduciary for it; (iii)
+            it is not relying upon any representations except those expressly
+            set forth in the Agreement or this Confirmation; (iv) it has not
+            relied on the other party or parties for any legal, regulatory, tax,
+            business, investment, financial, and accounting advice, and it has
+            made its own investment, hedging, and trading decisions based upon
+            its own judgment and not upon any view expressed by the other party
+            or parties or any of its or their agents; and (v) it is entering
+            into this Transaction with a full understanding of the terms,
+            conditions and risks thereof and it is capable of and willing to
+            assume those risks.
+
+(b)         Share De-listing Event. If at any time during the period from and
+            including the Trade Date, to and including the final Valuation Date,
+            the Shares cease to be listed or quoted on the Exchange for any
+            reason (other than a Merger Event as a result of which all of the
+            property underlying the Options consists of shares of common stock
+            that are listed or quoted on The New York Stock Exchange, The
+            American Stock Exchange or the NASDAQ National Market System (or
+            their respective successors) (the "Successor Exchange")) and are not
+            immediately re-listed or quoted as of the date of such de-listing on
+            the Successor Exchange, then Cancellation and Payment (as defined in
+            Section 9.6 of the Equity Definitions treating the "Announcement
+            Date" as the date of first public announcement that the Share
+            De-Listing will occur and the "Merger Date" as the date of the Share
+            De-Listing) shall apply, and the date of the de-listing shall be
+            deemed the date of termination for purposes of calculating any
+            payment due from one party to any of the others in connection with
+            the cancellation of this Transaction. If the Shares are immediately
+            re-listed on a Successor Exchange upon their de-listing from the
+            Exchange, this Transaction shall continue in full force and effect,
+            provided that the Successor Exchange shall be deemed to be the
+            Exchange for all purposes hereunder. In addition, the Calculation
+            Agent shall make any adjustments it deems necessary to the terms of
+            the Transaction in accordance with Calculation Agent Adjustment
+            method as defined under Section 9.1(c) of the Equity Definitions.
+
+(c)         Repurchase Notices. Company shall, on any day on which Company
+            effects any repurchase of Shares, promptly give Bear Stearns a
+            written notice of such repurchase (a "Repurchase Notice") on such
+            day if following such repurchase, the Warrants Equity Percentage as
+            determined on such day is (i) equal to or greater than 7.5% and (ii)
+            greater by 0.5% than the Warrants Equity Percentage included in the
+            immediately preceding Repurchase Notice (or, in the case of the
+            first such Repurchase Notice, greater than the Warrants Equity
+            Percentage as of the date hereof). The "Warrants Equity Percentage"
+            as of any day is the fraction (A) the numerator of which is the
+            product of the Number of Warrants and the Warrant Entitlement and
+            (B) the denominator of which is the number of Shares outstanding on
+            such day. Company agrees to indemnify and hold harmless Bear Stearns
+            and its affiliates and their respective officers, directors,
+            employees,
+
+                                       9
+<PAGE>
+
+            affiliates, advisors, agents and controlling persons (each, an
+            "Indemnified Person") from and against any and all losses (including
+            losses relating to Bear Stearns's hedging activities as a
+            consequence of becoming, or of the risk of becoming, a Section 16
+            "insider", including without limitation, any forbearance from
+            hedging activities or cessation of hedging activities and any losses
+            in connection therewith with respect to this Transaction), claims,
+            damages, judgments, liabilities and expenses (including reasonable
+            attorney's fees), joint or several, which an Indemnified Person
+            actually may become subject to, a result of Company's failure to
+            provide Bear Stearns with a Repurchase Notice on the day and in the
+            manner specified in this Section 9(c), and to reimburse, within 30
+            days, upon written request, each of such Indemnified Persons for any
+            reasonable legal or other expenses incurred in connection with
+            investigating, preparing for, providing testimony or other evidence
+            in connection with or defending any of the foregoing. If any suit,
+            action, proceeding (including any governmental or regulatory
+            investigation), claim or demand shall be brought or asserted against
+            the Indemnified Person, such Indemnified Person shall promptly
+            notify the Company in writing, and the Company, upon request of the
+            Indemnified Person, shall retain counsel reasonably satisfactory to
+            the Indemnified Person to represent the Indemnified Person and any
+            others the Company may designate in such proceeding and shall pay
+            the fees and expenses of such counsel related to such proceeding.
+            Company shall not be liable for any settlement of any proceeding
+            effected without its written consent, but if settled with such
+            consent or if there be a final judgment for the plaintiff, Company
+            agrees to indemnify any Indemnified Person from and against any loss
+            or liability by reason of such settlement or judgment. Company shall
+            not, without the prior written consent of the Indemnified Person,
+            effect any settlement of any pending or threatened proceeding in
+            respect of which any Indemnified Person is or could have been a
+            party and indemnity could have been sought hereunder by such
+            Indemnified Person, unless such settlement includes an unconditional
+            release of such Indemnified Person from all liability on claims that
+            are the subject matter of such proceeding on terms reasonably
+            satisfactory to such Indemnified Person. If the indemnification
+            provided for in this paragraph (c) is unavailable to an Indemnified
+            Person or insufficient in respect of any losses, claims, damages or
+            liabilities referred to therein, then Company under such paragraph,
+            in lieu of indemnifying such Indemnified Person thereunder, shall
+            contribute to the amount paid or payable by such Indemnified Person
+            as a result of such losses, claims, damages or liabilities. The
+            remedies provided for in this paragraph (c) are not exclusive and
+            shall not limit any rights or remedies which may otherwise be
+            available to any Indemnified Person at law or in equity. The
+            indemnity and contribution agreements contained in this paragraph
+            (c) shall remain operative and in full force and effect regardless
+            of the termination of this Transaction.
+
+(d)         Regulation M. The Company was not on the Trade Date and is not on
+            the date hereof engaged in a distribution, as such term is used in
+            Regulation M under the Securities Exchange Act of 1934, as amended
+            ("Exchange Act"), of any securities of Company, other than a
+            distribution of securities meeting the requirements of the exception
+            set forth in sections 101(b)(10) and 102(b)(7) of Regulation M. The
+            Company shall not, until the fifth Exchange Business Day immediately
+            following the Trade Date, engage in any such distribution.
+
+(e)         No Manipulation. The Company is not entering into this Transaction
+            to create actual or apparent trading activity in the Shares (or any
+            security convertible into or exchangeable for the Shares) or to
+            raise or depress or otherwise manipulate the price of the Shares (or
+            any security convertible into or exchangeable for the Shares).
+
+(f)         Board Authorization. Company represents that it is entering into the
+            Transaction, solely for the purposes stated in the board resolution
+            authorizing this Transaction and in its public disclosure. Company
+            further represents that there is no internal policy, whether written
+            or oral, of Company
+
+                                       10
+<PAGE>
+
+            that would prohibit Company from entering into any aspect of this
+            Transaction, including, but not limited to, the purchases of Shares
+            to be made pursuant hereto.
+
+(g)         Transfer or Assignment. Company may not transfer any of its rights
+            or obligations under this Transaction without the prior written
+            consent of Bear Stearns. Bear Stearns may transfer or assign all or
+            any portion of its rights or obligations under this Transaction
+            without consent of the Company. If Bear Stearns, in its sole
+            discretion, determines that its "beneficial ownership" (within the
+            meaning of Section 16 of the Exchange Act and rules promulgated
+            thereunder) exceeds 8 % or more of the Company's outstanding Shares
+            and, in its sole discretion, Bear Stearns is unable after its
+            commercially reasonable efforts to effect a transfer or assignment
+            on pricing terms and in a time period reasonably acceptable to Bear
+            Stearns that would reduce its "beneficial ownership" to 7.5 %, Bear
+            Stearns may designate any Exchange Business Day as an Early
+            Termination Date with respect to a portion (the "Terminated
+            Portion") of this Transaction, such that the its "beneficial
+            ownership" following such partial termination will be equal to or
+            less than 8%. In the event that Bear Stearns so designates an Early
+            Termination Date with respect to a portion of this Transaction, a
+            payment shall be made pursuant to Section 6 of the Agreement as if
+            (i) an Early Termination Date had been designated in respect of a
+            Transaction having terms identical to this Transaction and a Number
+            of Warrants equal to the Terminated Portion, (ii) the Company and
+            Bear Stearns shall both be Affected Parties with respect to such
+            partial termination and (iii) such Transaction shall be the only
+            Terminated Transaction. For the avoidance of doubt, if Bear Stearns
+            assigns or terminates any Warrants hereunder, each Daily Number of
+            Warrants not previously settled shall be reduced proportionally, as
+            calculated by the Calculation Agent. Notwithstanding any other
+            provision in this Confirmation to the contrary requiring or allowing
+            Bear Stearns to purchase, sell, receive or deliver any shares or
+            other securities to or from Company, Bear Stearns may designate any
+            of its affiliates to purchase, sell, receive or deliver such shares
+            or other securities and otherwise to perform Bear Stearns's
+            obligations in respect of this Transaction and any such designee may
+            assume such obligations. Bear Stearns shall be discharged of its
+            obligations to Company to the extent of any such performance.
+
+(h)         Amendment. Paragraph (i) of Section 9.7(b) of the Equity Definitions
+            is hereby amended for purposes of this Transaction by replacing
+            "two-year" with "90 calendar day".
+
+(i)         Damages. Neither party shall be liable under Section 6.10 of the
+            Equity Definitions for special, indirect or consequential damages,
+            even if informed of the possibility thereof.
+
+(j)         Dividends. If at any time during the period from and including the
+            Trade Date, to but excluding the Expiration Date, an ex-dividend
+            date for a cash dividend occurs with respect to the Shares (an
+            "Ex-Dividend Date"), and that dividend is greater than the Regular
+            Dividend on a per Share basis then the Calculation Agent will adjust
+            the Strike Price to preserve the fair value of the Warrant to Bear
+            Stearns after taking into account such dividend. "Regular Dividend"
+            shall mean USD 0.00 per Share per quarter.
+
+(k)         Role of Agent. Each party agrees and acknowledges that (i) Calyon
+            ("Agent"), has acted solely as agent and not as principal with
+            respect to this Transaction and (ii) Agent has no obligation or
+            liability, by way of guaranty, endorsement or otherwise, in any
+            manner in respect of this Transaction (including, if applicable, in
+            respect of the settlement thereof). Each party agrees it will look
+            solely to the other party (or any guarantor in respect thereof) for
+            performance of such other party's obligations under this
+            Transaction.
+
+
+                                       11
+<PAGE>
+
+(l)         Additional Provisions.
+            ---------------------
+
+            (i) The first paragraph of Section 9.1(c) of the Equity Definitions
+            is hereby amended to read as follows: (c) `If "Calculation Agent
+            Adjustment" is specified as the method of adjustment in the
+            Confirmation of a Share Option Transaction, then following the
+            declaration by the Issuer of the terms of any Potential Adjustment
+            Event, the Calculation Agent will determine whether such Potential
+            Adjustment Event has a material effect on the theoretical value of
+            the relevant Shares or Warrants and, if so, will (i) make
+            appropriate adjustment(s), if any, to any one or more of:' and, the
+            sentence immediately preceding Section 9.1(c)(ii) is hereby amended
+            by deleting the words "diluting or concentrative".
+
+            (ii) Section 9.1(e)(vi) of the Equity Definitions is hereby amended
+            by deleting the words "other similar" between "any" and "event";
+            deleting the words "diluting or concentrative" and replacing them
+            with "material"; and adding the following words at the end of the
+            sentence "or Warrants".
+
+            (iii) Section 9.6(a)(ii) of the Equity Definitions is hereby amended
+            by (1) deleting from the third line thereof the word "or" after the
+            word "official" and inserting a comma therefor, and (2) deleting the
+            period at the end of subsection (ii) thereof and inserting the
+            following words therefor " or (C) at Bear Stearns's option, the
+            occurrence of any of the events specified in Section 5(a)(vii) (1)
+            through (9) of the ISDA Master Agreement with respect to that
+            Issuer."
+
+            (iv) Notwithstanding Section 9.7 of the Equity Definitions,
+            everything in the first paragraph of Section 9.7(b) of the Equity
+            Definitions after the words "Calculation Agent" in the third line
+            through the remainder of such Section 9.7 shall be deleted and
+            replaced with the following:
+
+            "based on an amount representing the Calculation Agent's
+            determination of the fair value to Buyer of an option with terms
+            that would preserve for Buyer the economic equivalent of any payment
+            or delivery (assuming satisfaction of each applicable condition
+            precedent) by the parties in respect of the relevant Transaction
+            that would have been required after that date but for the occurrence
+            of the Merger Event, Nationalization, Insolvency or De-Listing
+            Event, as the case may be."
+
+(m)         No Collateral, Netting or Setoff. Notwithstanding any provision of
+            the Agreement or any other agreement between the parties to the
+            contrary, the obligations of the Company hereunder are not secured
+            by any collateral. Obligations under this Transaction shall not be
+            netted or set off against any other obligations of the parties,
+            whether arising under the Agreement, this Confirmation, under any
+            other agreement between the parties hereto, by operation of law or
+            otherwise. Any provision in the Agreement with respect to the
+            satisfaction of the Company's payment obligations to the extent of
+            Bear Stearns's payment obligations to the Company in the same
+            currency and in the same Transaction (including, without limitation
+            Section 2(c) thereof) shall not apply to the Company and, for the
+            avoidance of doubt, the Company shall fully satisfy such payment
+            obligations notwithstanding any payment obligation to the Company by
+            Bear Stearns in the same currency and in the same Transaction. In
+            calculating any amounts under Section 6(e) of the Agreement,
+            notwithstanding anything to the contrary in the Agreement, (i)
+            separate amounts shall be calculated as set forth in such Section
+            6(e) with respect to (a) this Transaction and (ii) all other
+            Transactions, and (2) such separate amounts shall be payable
+            pursuant to Section 6(d)(ii) of the Agreement.
+
+(n)         Alternative Calculations and Payment on Early Termination and on
+            Certain Extraordinary Events. If, in respect of this Transaction, an
+            amount is payable by the Company to Bear Stearns, (i) pursuant to
+            Section 9.7 of the Equity Definitions (except in the event of a
+            Nationalization or Insolvency or a Merger Event, in each case, in
+            which the consideration to be paid to holders of
+
+                                       12
+<PAGE>
+
+            Shares consists solely of cash) or (ii) pursuant to Section 6(d)(ii)
+            of the Agreement (except in the event of an Event of Default in
+            which Company is the Defaulting Party or a Termination Event in
+            which Company is the Affected Party, other than an Event of Default
+            of the type described in Section 5(a)(iii), (v), (vi) or (vii) of
+            the Agreement or a Termination Event of the type described in
+            Section 5(b)(i), (ii), (iii), (iv),(v) or (vi) of the Agreement that
+            resulted from an event or events outside Company's control) (a
+            "Payment Obligation"), Company may, in its sole discretion, satisfy
+            any such Payment Obligation by the Share Termination Alternative (as
+            defined below) and shall give irrevocable telephonic notice to Bear
+            Stearns, confirmed in writing within one Currency Business Day,
+            between the hours of 9:00 a.m. and 4:00 p.m. New York local time on
+            the Merger Date, the date of the occurrence of the Nationalization
+            or Insolvency, or Early Termination Date, as applicable ("Notice of
+            Share Termination"). Upon Notice of Share Termination no later than
+            8:00 a.m. on the Exchange Business Day immediately following the
+            Merger Date, the date of the occurrence of the Nationalization or
+            Insolvency, or Early Termination Date, as applicable, the following
+            provisions shall apply:
+
+            Share Termination Alternative: Applicable and means that Company
+                                           shall deliver to Bear Stearns the
+                                           Share Termination Delivery Property
+                                           on the date (the "Share Termination
+                                           Payment Date") when the Payment
+                                           Obligation would otherwise be due,
+                                           subject to paragraph (o)(i) below, in
+                                           satisfaction, subject to paragraph
+                                           (o)(ii) below, of the Payment
+                                           Obligation in the manner reasonably
+                                           requested by Bear Stearns free of
+                                           payment.
+
+            Share Termination Delivery     A number of Share Termination
+            Property:                      Delivery Units, as calculated by the
+                                           Calculation Agent, equal to the
+                                           Payment Obligation divided by the
+                                           Share Termination Unit Price. The
+                                           Calculation Agent shall adjust the
+                                           Share Termination Delivery Property
+                                           by replacing any fractional portion
+                                           of a security therein with an amount
+                                           of cash equal to the value of such
+                                           fractional security based on the
+                                           values used to calculate the Share
+                                           Termination Unit Price.
+
+            Share Termination Unit Price:  The value to Bear Stearns of property
+                                           contained in one Share Termination
+                                           Delivery Unit on the date such Share
+                                           Termination Delivery Units are to be
+                                           delivered as Share Termination
+                                           Delivery Property, as determined by
+                                           the Calculation Agent in its
+                                           discretion by commercially reasonable
+                                           means and notified by the Calculation
+                                           Agent to Company at the time of
+                                           notification of the Payment
+                                           Obligation. In the case of a Private
+                                           Placement of Share Termination
+                                           Delivery Units that are Restricted
+                                           Shares (as defined below) as
+
+                                       13
+<PAGE>
+
+                                           set forth in paragraph (o)(i) below,
+                                           the Share Termination Unit Price
+                                           shall be determined by the discounted
+                                           price applicable to such Share
+                                           Termination Delivery Units. In the
+                                           case of a Registered Settlement of
+                                           Share Termination Delivery Units that
+                                           are Restricted Shares (as defined
+                                           below) as set forth in paragraph
+                                           (o)(ii) below, the Share Termination
+                                           Unit Price shall be the Settlement
+                                           Price on the Merger Date, the date of
+                                           the occurrence of the Nationalization
+                                           or Insolvency, or Early Termination
+                                           Date, as applicable.
+
+            Share Termination Delivery     In the case of a Termination Event or
+            Unit:                          Event of Default, one Share or, in
+                                           the case of Nationalization or
+                                           Insolvency or a Merger Event, a unit
+                                           consisting of the number or amount of
+                                           each type of property received by a
+                                           holder of one Share (without
+                                           consideration of any requirement to
+                                           pay cash or other consideration in
+                                           lieu of fractional amounts of any
+                                           securities) in such Nationalization
+                                           or Insolvency or such Merger Event.
+                                           If a Share Termination Delivery Unit
+                                           consists of property other than cash
+                                           or New Shares, the Calculation Agent
+                                           will replace such property with cash,
+                                           New Shares or a combination thereof
+                                           as components of a Share Termination
+                                           Delivery Unit in such amounts, as
+                                           determined by the Calculation Agent
+                                           in its discretion by commercially
+                                           reasonable means, as shall have a
+                                           value equal to the value of the
+                                           property so replaced. If such Merger
+                                           Event involves a choice of
+                                           consideration to be received by
+                                           holders, such holder shall be deemed
+                                           to have elected to receive the
+                                           maximum possible amount of cash.
+
+            Other applicable provisions:   If this Transaction is to be Share
+                                           Termination Settled, the provisions
+                                           of Sections 6.6, 6.7, 6.8, 6.9 and
+                                           6.10 (as modified above) of the
+                                           Equity Definitions will be
+                                           applicable, except that all
+                                           references in such provisions to
+                                           "Physically-Settled" shall be read as
+                                           references to "Share Termination
+                                           Settled" and all references to
+                                           "Shares" shall be read as references
+                                           to "Share Termination Delivery
+                                           Units". "Share Termination Settled"
+                                           in relation to this Transaction means
+                                           that Share Termination Settlement is
+                                           applicable to this Transaction.
+
+(o)          Registration/Private Placement Procedures. If, in the reasonable
+             opinion of Bear Stearns, following any delivery of Shares or Share
+             Termination Delivery Property to Bear Stearns hereunder, such
+             Shares or Share Termination Delivery Property would be in the hands
+             of Bear Stearns subject to any applicable restrictions with respect
+             to any registration or qualification requirement or prospectus
+             delivery requirement for such Shares or Share Termination Delivery
+             Property pursuant to any applicable federal or state securities law
+             (including, without limitation, any such requirement arising under
+             Section 5 of the Securities Act as a result of such Shares or Share
+             Termination Delivery Property being "restricted securities", as
+             such term is defined in Rule 144 under the Securities Act, or as a
+             result of the sale of such Shares or Share Termination Delivery
+             Property being subject to paragraph (c) of Rule 145 under the
+             Securities Act) (such
+
+                                       14
+<PAGE>
+
+            Shares or Share Termination Delivery Property, "Restricted Shares"),
+            then delivery of such Restricted Shares shall be effected pursuant
+            to either clause (i) or (ii) below at the election of Company,
+            unless waived by Bear Stearns. Notwithstanding the foregoing, solely
+            in respect of any Daily Number of Warrants exercised or deemed
+            exercised on any Expiration Date, the Company shall elect, prior to
+            the first Settlement Date for the first Expiration Date, a Private
+            Placement Settlement or Registered Settlement for all deliveries of
+            Restricted Shares for all such Expiration Dates which election shall
+            be applicable to all Settlement Dates for such Daily Number of
+            Warrants and the procedures in clause (i) or clause (ii) below shall
+            apply for all such delivered Restricted Shares on an aggregate basis
+            commencing after the final Settlement Date for such Daily Number of
+            Warrants. The Calculation Agent shall make reasonable adjustments to
+            settlement terms and provisions under this Confirmation to reflect a
+            single Private Placement or Registered Settlement for such aggregate
+            Restricted Shares delivered hereunder.
+
+             (i)   If the Company elects to settle the Transaction pursuant to
+                   this clause (i) (a "Private Placement Settlement"), then
+                   delivery of Restricted Shares by the Company shall be
+                   effected in customary private placement procedures with
+                   respect to such Restricted Shares reasonably acceptable to
+                   Bear Stearns; provided that the Company may not elect a
+                   Private Placement Settlement if, on the date of its election,
+                   it has taken, or caused to be taken, any action that would
+                   make unavailable either the exemption pursuant to Section
+                   4(2) of the Securities Act for the sale by the Company to
+                   Bear Stearns (or any affiliate designated by Bear Stearns) of
+                   the Restricted Shares or the exemption pursuant to Section
+                   4(1) or Section 4(3) of the Securities Act for resales of the
+                   Restricted Shares by Bear Stearns (or any such affiliate of
+                   Bear Stearns). The Private Placement Settlement of such
+                   Restricted Shares shall include customary representations,
+                   covenants, blue sky and other governmental filings and/or
+                   registrations, indemnities to Bear Stearns, due diligence
+                   rights (for Bear Stearns or any designated buyer of the
+                   Restricted Shares by Bear Stearns), opinions and
+                   certificates, and such other documentation as is customary
+                   for private placement agreements, all reasonably acceptable
+                   to Bear Stearns. In the case of a Private Placement
+                   Settlement, Bear Stearns shall determine the appropriate
+                   discount to the Share Termination Unit Price (in the case of
+                   settlement of Share Termination Delivery Units pursuant to
+                   paragraph (n) above) or any Settlement Price (in the case of
+                   settlement of Shares pursuant to Section 2 above) applicable
+                   to such Restricted Shares in a commercially reasonable manner
+                   and appropriately adjust the amount of such Restricted Shares
+                   to be delivered to Bear Stearns hereunder; provided that in
+                   no event shall such number be greater than 49,619,010 (the
+                   "Maximum Amount"). Notwithstanding the Agreement or this
+                   Confirmation, the date of delivery of such Restricted Shares
+                   shall be the Exchange Business Day following notice by Bear
+                   Stearns to the Company, of such applicable discount and the
+                   number of Restricted Shares to be delivered pursuant to this
+                   clause (i). For the avoidance of doubt, delivery of
+                   Restricted Shares shall be due as set forth in the previous
+                   sentence and not be due on the Share Termination Payment Date
+                   (in the case of settlement of Share Termination Delivery
+                   Units pursuant to paragraph (n) above) or on the Settlement
+                   Date for such Restricted Shares (in the case of settlement of
+                   Shares pursuant to Section 2 above).
+
+                   In the event of a Private Placement, the Net Share Settlement
+                   Amount or the Payment Obligation, respectively, shall be
+                   deemed to be the Net Share Settlement Amount or the Payment
+                   Obligation, respectively, plus an additional amount
+                   (determined from time to time by the Calculation Agent in its
+                   commercially reasonable judgment) attributable to interest
+                   that would be earned on such Net Share Settlement Amount or
+                   the Payment Obligation, respectively, (increased on a daily
+                   basis to reflect the accrual of such interest and reduced
+                   from time to time by the amount of net proceeds received by
+                   Bear Stearns as
+
+                                       15
+<PAGE>
+
+                   provided herein) at a rate equal to the open Federal Funds
+                   Rate plus the Spread for the period from, and including, such
+                   Settlement Date or the date on which the Payment Obligation
+                   is due, respectively, to, but excluding, the related date on
+                   which all the Restricted Shares have been sold and calculated
+                   on an Actual/360 basis. The foregoing provision shall be
+                   without prejudice to Bear Stearns's rights under the
+                   Agreement (including, without limitation, Sections 5 and 6
+                   thereof).
+
+                   As used in this Section 9(o)(i), "Spread" means, with respect
+                   to any Net Share Settlement Amount or Payment Obligation,
+                   respectively, the credit spread over the applicable overnight
+                   rate that would be imposed if Bear Stearns were to extend
+                   credit to Company in an amount equal to such Net Share
+                   Settlement Amount, all as determined by the Calculation Agent
+                   using its commercially reasonable judgment as of the related
+                   Settlement Date or the date on which the Payment Obligation
+                   is due, respectively. Commercial reasonableness shall take
+                   into consideration all factors deemed relevant by the
+                   Calculation Agent, which are expected to include, among other
+                   things, the credit quality of the Company (and any relevant
+                   affiliates) in the then-prevailing market and the credit
+                   spread of similar companies in the relevant industry and
+                   other companies having a substantially similar credit
+                   quality.
+
+            (ii)   If the Company elects to settle the Transaction pursuant to
+                   this clause (ii) (a "Registration Settlement"), then the
+                   Company shall promptly (but in any event no later than the
+                   beginning of the Resale Period) file and use its reasonable
+                   best efforts to make effective under the Securities Act a
+                   registration statement or supplement or amend an outstanding
+                   registration statement in form and substance reasonably
+                   satisfactory to Bear Stearns, to cover the resale of such
+                   Restricted Shares in accordance with customary resale
+                   registration procedures, including covenants, conditions,
+                   representations, underwriting discounts (if applicable),
+                   commissions (if applicable), indemnities due diligence
+                   rights, opinions and certificates, and such other
+                   documentation as is customary for equity resale underwriting
+                   agreements, all reasonably acceptable to Bear Stearns. If
+                   Bear Stearns, in its sole reasonable discretion, is not
+                   satisfied with such procedures and documentation Private
+                   Placement Settlement shall apply. If Bear Stearns is
+                   satisfied with such procedures and documentation, it shall
+                   sell the Restricted Shares pursuant to such registration
+                   statement during a period (the "Resale Period") commencing on
+                   the Exchange Business Day following delivery of such
+                   Restricted Shares (which, for the avoidance of doubt, shall
+                   be (x) the Share Termination Payment Date in case of
+                   settlement of Share Termination Delivery Units pursuant to
+                   paragraph (n) above or (y) the Settlement Date in respect of
+                   the final Expiration Date for all Daily Number of Warrants)
+                   and ending on the earliest of (i) the Exchange Business Day
+                   on which Bear Stearns completes the sale of all Restricted
+                   Shares or, in the case of settlement of Share Termination
+                   Delivery Units, a sufficient number of Restricted Shares so
+                   that the realized net proceeds of such sales exceed the
+                   Payment Obligation (as defined above), (ii) the date upon
+                   which all Restricted Shares have been sold or transferred
+                   pursuant to Rule 144 (or similar provisions then in force) or
+                   Rule 145(d)(1) or (2) (or any similar provision then in
+                   force) under the Securities Act and (iii) the date upon which
+                   all Restricted Shares may be sold or transferred by a
+                   non-affiliate pursuant to Rule 144(k) (or any similar
+                   provision then in force) or Rule 145(d)(3) (or any similar
+                   provision then in force) under the Securities Act. If the
+                   Payment Obligation exceeds the realized net proceeds from
+                   such resale, Company shall transfer to Bear Stearns by the
+                   open of the regular trading session on the Exchange on the
+                   Exchange Trading Day immediately following the last day of
+                   the Resale Period the amount of such excess (the "Additional
+                   Amount") in cash or in a number of Shares ("Make-whole
+                   Shares") in an amount that, based on the
+
+                                       16
+<PAGE>
+
+                   Settlement Price on the last day of the Resale Period (as if
+                   such day was the "Valuation Date" for purposes of computing
+                   such Settlement Price), has a dollar value equal to the
+                   Additional Amount. The Resale Period shall continue to enable
+                   the sale of the Make-whole Shares. If Company elects to pay
+                   the Additional Amount in Shares, the requirements and
+                   provisions for Registration Settlement shall apply. This
+                   provision shall be applied successively until the Additional
+                   Amount is equal to zero. In no event shall the Company
+                   deliver a number of Restricted Shares greater than the
+                   Maximum Amount.
+
+            (iii)  Without limiting the generality of the foregoing, Company
+                   agrees that any Restricted Shares delivered to Bear Stearns,
+                   as purchaser of such Restricted Shares, (i) may be
+                   transferred by and among Bear Stearns Chase Bank and its
+                   affiliates and Company shall effect such transfer without any
+                   further action by Bear Stearns and (ii) after the minimum
+                   "holding period" within the meaning of Rule 144(d) under the
+                   Securities Act has elapsed after any Settlement Date for such
+                   Restricted Shares, Company shall promptly remove, or cause
+                   the transfer agent for such Restricted Shares to remove, any
+                   legends referring to any such restrictions or requirements
+                   from such Restricted Shares upon delivery by Bear Stearns (or
+                   such affiliate of Bear Stearns) to Company or such transfer
+                   agent of seller's and broker's representation letters
+                   customarily delivered by Bear Stearns in connection with
+                   resales of restricted securities pursuant to Rule 144 under
+                   the Securities Act, without any further requirement for the
+                   delivery of any certificate, consent, agreement, opinion of
+                   counsel, notice or any other document, any transfer tax
+                   stamps or payment of any other amount or any other action by
+                   Bear Stearns (or such affiliate of Bear Stearns).
+
+             If the Private Placement Settlement or the Registration Settlement
+             shall not be effected as set forth in clauses (i) or (ii), as
+             applicable, then failure to effect such Private Placement
+             Settlement or such Registration Settlement shall constitute an
+             Event of Default with respect to which Company shall be the
+             Defaulting Party.
+
+(p)          Limit on Beneficial Ownership. Notwithstanding any other provisions
+             hereof, Bear Stearns may not exercise any Warrant hereunder, and
+             Automatic Exercise shall not apply with respect thereto, to the
+             extent (but only to the extent) that such receipt would result in
+             Bear Stearns directly or indirectly beneficially owning (as such
+             term is defined for purposes of Section 13(d) of the Exchange Act)
+             at any time in excess of 9.0% of the outstanding Shares. Any
+             purported delivery hereunder shall be void and have no effect to
+             the extent (but only to the extent) that such delivery would result
+             in Bear Stearns directly or indirectly so beneficially owning in
+             excess of 9.0% of the outstanding Shares. If any delivery owed to
+             Bear Stearns hereunder is not made, in whole or in part, as a
+             result of this provision, the Company's obligation to make such
+             delivery shall not be extinguished and the Company shall make such
+             delivery as promptly as practicable after, but in no event later
+             than one Business Day after, Bear Stearns gives notice to the
+             Company that such delivery would not result in Bear Stearns
+             directly or indirectly so beneficially owning in excess of 9.0% of
+             the outstanding Shares.
+
+(q)          Share Deliveries. The Company acknowledges and agrees that, to the
+             extent the holder of this Warrant is not then an affiliate and has
+             not been an affiliate for 90 days (it being understood that Bear
+             Stearns will not be considered an affiliate under this Section 9(q)
+             solely by reason of its receipt of Shares pursuant to this
+             Transaction), and otherwise satisfies all holding period and other
+             requirements of Rule 144 of the Securities Act applicable to it,
+             any delivery of Shares or Share
+
+                                       17
+<PAGE>
+
+             Termination Property hereunder at any time after 2 years from the
+             Trade Date shall be eligible for resale under Rule 144(k) of the
+             Securities Act and the Company agrees to promptly remove, or cause
+             the transfer agent for such Shares or Share Termination Property,
+             to remove, any legends referring to any restrictions on resale
+             under the Securities Act from the Shares or Share Termination
+             Property. The Company further agrees, for any delivery of Shares or
+             Share Termination Property hereunder at any time after 1 year from
+             the Trade Date but within 2 years of the Trade Date, to the to the
+             extent the holder of this Warrant then satisfies the holding period
+             and other requirements of Rule 144 of the Securities Act, to
+             promptly remove, or cause the transfer agent for such Restricted
+             Share to remove, any legends referring to any such restrictions or
+             requirements from such Restricted Shares. Such Restricted Shares
+             will be de-legended upon delivery by Bear Stearns (or such
+             affiliate of Bear Stearns) to the Company or such transfer agent of
+             customary seller's and broker's representation letters in
+             connection with resales of restricted securities pursuant to Rule
+             144 of the Securities Act, without any further requirement for the
+             delivery of any certificate, consent, agreement, opinion of
+             counsel, notice or any other document, any transfer tax stamps or
+             payment of any other amount or any other action by Bear Stearns (or
+             such affiliate of Bear Stearns). The Company further agrees that
+             any delivery of Shares or Share Termination Delivery Property prior
+             to the date that is 1 year from the Trade Date, may be transferred
+             by and among Bear Stearns and its affiliates and the Company shall
+             effect such transfer without any further action by Bear Stearns.
+             Notwithstanding anything to the contrary herein, the Company agrees
+             that any delivery of Shares or Share Termination Delivery Property
+             shall be effected by book-entry transfer through the facilities of
+             DTC, or any successor depositary, if at the time of delivery, such
+             class of Shares or class of Share Termination Delivery Property is
+             in book-entry form at DTC or such successor depositary.
+             Notwithstanding anything to the contrary herein, to the extent the
+             provisions of Rule 144 of the Securities Act or any successor rule
+             are amended, or the applicable interpretation thereof by the
+             Securities and Exchange Commission or any court change after the
+             Trade Date, the agreements of the Company herein shall be deemed
+             modified to the extent necessary, in the opinion of outside counsel
+             of the Company, to comply with Rule 144 of the Securities Act,
+             including Rule 144(k) as in effect at the time of delivery of the
+             relevant Shares or Share Termination Property.
+
+(r)          Hedging Disruption Event. The occurrence of a Hedging Disruption
+             Event will constitute an Additional Termination Event under the
+             Agreement permitting Bear Stearns to terminate the Transaction,
+             with Counterparty as the sole Affected Party and the Transaction as
+             the sole Affected Transaction.
+
+             "Hedging Disruption Event" means with respect to Bear Stearns, as
+             determined in its reasonable discretion, the inability or
+             impracticality, due to market illiquidity, illegality, lack of
+             hedging transactions, credit worthy market participants or other
+             similar events, to establish, re-establish or maintain any
+             transactions necessary or advisable to hedge, directly or
+             indirectly, the equity price risk of entering into and performing
+             under the Transaction on terms including costs reasonable to Bear
+             Stearns or an affiliate in its reasonable discretion, including the
+             event that at any time Bear Stearns reasonably concludes that it or
+             any of its affiliates are unable to establish, re-establish or
+             maintain a full hedge of its position in respect of the Transaction
+             through share borrowing arrangements on terms including costs
+             deemed reasonable to Bear Stearns in its reasonable discretion. For
+             the avoidance of doubt, the parties hereto agree that if (i) Bear
+             Stearns reasonably determines that it is unable to borrow Shares to
+             hedge its exposure with respect to the Transaction at a stock loan
+             rebate rate equal to or in excess of zero; or (ii) the prevailing
+             stock loan rebate rate for the Shares, as determined by the
+             Calculation Agent, is less than zero, an Additional Termination
+             Event under the Agreement shall occur with Counterparty as the sole
+             Affected Party and the Transaction as the sole Affected
+             Transaction.
+
+(s)          Gaming Laws. If, in connection with the Transaction or in
+             connection with acquiring, establishing, re-establishing,
+             substituting, maintaining, unwinding or disposing of any
+             transactions or assets Bear Stearns or any of its affiliates in its
+             reasonable discretion deems necessary or desirable to hedge the
+             equity price risk of entering into and performing its obligations
+             with respect to the Transaction, or in
+
+                                       18
+<PAGE>
+
+             performing such obligations themselves, or in connection with
+             holding any interest that would be considered an ownership interest
+             in the Company's securities for purposes of any gaming law, rule or
+             regulation, Bear Stearns or any of its affiliates determines in its
+             sole good faith discretion that it is, or is reasonably likely to
+             be, (A) in violation of any gaming law, rule or regulation, (B)
+             obligated to register with or provide notification or information
+             to any gaming authority, and that such registration or notification
+             or the provision of such information, when viewed in the aggregate
+             for all relevant gaming authorities, would be Unduly Burdensome, or
+             (C) incurring additional risk, liability or cost as a result of
+             gaming laws or rules or regulations (except to the extent such
+             costs have been paid or reimbursed by the Company, and except for
+             up to $250,000 of costs that have not yet been paid or reimbursed
+             by the Company but are paid or reimbursed by the Company within 60
+             days following the Company's receipt of an invoice therefor); then,
+             subject to the third following paragraph, such event shall
+             constitute an Additional Termination Event applicable to this
+             Transaction and, with respect to such event, (i) the Company shall
+             be deemed to be the sole Affected Party and Bear Stearns shall be
+             deemed to be the party that is not the Affected Party and (ii) Bear
+             Stearns shall be the party entitled to designate an Early
+             Termination Date pursuant to Section 6(b) of the Agreement solely
+             with respect to this Transaction. The Company shall indemnify Bear
+             Stearns and its affiliates on an as-incurred basis for any costs,
+             expenses, losses or liabilities or losses incurred by them in
+             connection with any gaming law, rule or regulation (including, for
+             the avoidance of doubt, any filing fees or costs, legal fees and
+             regulatory investigation fees), in each case incurred in connection
+             with this Transaction.
+
+             Any determination made by Bear Stearns in respect of clause (A) or
+             (C), or (B) (as to the obligation to register or provide
+             notification or information), above shall be made on the advice of
+             counsel, and any determination made by Bear Stearns in respect of
+             clause (C) above shall also be made after consultation with the
+             Company.
+
+             "Unduly Burdensome" means (i) any registration or notification or
+             provision of information which is more burdensome to Bear Stearns
+             or any of its affiliates or any of their employees, officers,
+             directors and agents in any particular instance than any of the
+             Known Filings, (ii) registrations, notifications or provision of
+             information to in excess of 20 jurisdictions, (iii) any obligation
+             to disclose information which Bear Stearns and/or any of its
+             affiliates is not otherwise required to disclose to the general
+             public in generally available filings (other than information that
+             is readily and generally publicly available) or to disclose any
+             information earlier or more frequently than it otherwise does or
+             would otherwise be obligated to do, or (iv) any registration of, or
+             provision of information by or in respect of, any employee, officer
+             or director or agents of Bear Stearns or any of its affiliates,
+             other than the provision of such information as Bear Stearns and/or
+             any of its affiliates is otherwise required to disclose to the
+             general public in generally available filings and other readily and
+             generally publicly available information, or (v) any requirement in
+             respect of the gaming laws of any jurisdiction which, in the sole
+             good faith discretion of Bear Stearns, would cause undue hardship
+             on, injury to the business or reputation of, or disclosure of
+             confidential information of Bear Stearns or any of its affiliates
+             or any of their employees, officers, directors and agents. "Known
+             Filings" means initial filings with the States of New Jersey and
+             West Virginia in form and substance contemplated by Bear Stearns as
+             of December 1, 2004.
+
+             Prior to declaring an Additional Termination Event with respect to
+             the events described in clause (B) or (C) above, Bear Stearns shall
+             use commercially reasonable efforts to transfer or assign all or a
+             portion of this Transaction to any third party or parties each with
+             a rating for its long term, unsecured and unsubordinated
+             indebtedness of A+ or better by Standard and Poor's Rating Group,
+             Inc. or its successor ("S&P"), or A1 or better by Moody's Investor
+             Service, Inc. or its successor ("Moody's") or, if either S&P or
+             Moody's ceases to rate such debt, at least an equivalent rating or
+             better by a substitute agency rating mutually agreed by the Company
+             and Bear Stearns. If, in the discretion of Bear Stearns, Bear
+             Stearns is unable to effect such transfer or assignment after its
+
+                                       19
+<PAGE>
+
+             commercially reasonable efforts on pricing terms reasonably
+             acceptable to Bear Stearns and within a time period reasonably
+             acceptable to Bear Stearns, Bear Stearns may designate any Exchange
+             Business Day as an Early Termination Date.
+
+             Notwithstanding any provision of the Agreement or any other
+             agreement between the parties to the contrary, if, with respect to
+             any Transaction relating to Shares under another 2002 ISDA Master
+             Agreement between Bear Stearns and the Company (any such other
+             Transaction, an "Other Transaction"), Bear Stearns or its successor
+             or assign designates an Early Termination Date thereunder due to
+             the occurrence of an Additional Termination Event substantially
+             similar to the Additional Termination Event set forth in this
+             Section 9(s), and Bear Stearns does not deliver a notice
+             designating an Early Termination Date in respect of this
+             Transaction due to the occurrence of the Additional Termination
+             Event set forth in this Section 9(s) within 5 Exchange Business
+             Days of the date of delivery of the notice designating an Early
+             Termination Date in respect of any Other Transaction, then the
+             Company has the right to deliver a written notice to Bear Stearns
+             instructing Bear Stearns to designate an Early Termination Date
+             under the Agreement with respect to this Transaction. Bear Stearns
+             hereby agrees to comply with such instruction and, for the
+             avoidance of doubt, such event shall constitute an Additional
+             Termination Event applicable solely with respect to this
+             Transaction and the Company shall be deemed to be the sole Affected
+             Party and Bear Stearns shall be deemed to be the party that is not
+             the Affected Party. For the avoidance of doubt, the parties hereto
+             agree that the occurrence of any event which constitutes an
+             Additional Termination Event as set forth in this Section 9(s) will
+             also constitute an Additional Termination Event with respect to any
+             Other Transactions the confirmation for which contains an
+             Additional Termination Event substantially similar to that set
+             forth in this Section 9(s), such that Bear Stearns has the right to
+             declare an Additional Termination Event in respect of such Other
+             Transaction and this Transaction.
+
+(t)          Governing Law. New York law (without reference to choice of law
+             doctrine).
+
+(u)          Waiver of Jury Trial. Each party waives, to the fullest extent
+             permitted by applicable law, any right it may have to a trial by
+             jury in respect of any suit, action or proceeding relating to this
+             Transaction. Each party (i) certifies that no representative, agent
+             or attorney of the other party has represented, expressly or
+             otherwise, that such other party would not, in the event of such a
+             suit, action or proceeding, seek to enforce the foregoing waiver
+             and (ii) acknowledges that it and the other party have been induced
+             to enter into this Transaction, as applicable, by, among other
+             things, the mutual waivers and certifications provided herein.
+
+(v)         Tax Disclosure. Company acknowledges and understands that, in
+            connection with certain disclosure and list maintenance regulations
+            promulgated by the Internal Revenue Service (the "IRS"), Bear
+            Stearns will retain documents related to this Transaction and other
+            information. The relevant regulations cover many transactions,
+            including certain transactions that create book-tax differences.
+            Upon request from the IRS, Bear Stearns expects to provide such
+            documents and information to the IRS. In addition, Company shall
+            consult with its tax advisors with respect to any disclosure
+            obligations that Company may have.
+
+
+                                       20
+<PAGE>
+
+      Please confirm that the foregoing correctly sets forth the terms of our
+agreement by executing this Confirmation and returning it to SEP Documentation
+Group, Bear, Stearns & Co. Inc., 383 Madison Avenue, New York, NY 10179, or by
+fax on 212-272-9857.
+
+                                       Very truly yours,
+
+                                          Bear, Stearns International
+                                          Limited
+
+
+                                          By: _________________________
+                                          Authorized Signatory
+                                          Name:
+
+
+      Accepted and confirmed
+      as of the Trade Date:
+
+      Scientific Games Corporation
+
+
+      By:____________________________
+      Authorized Signatory
+      Name:
+
+
+<PAGE>
+
+                                                                         ANNEX A
+
+
+                                   PRICING GRID
+
+  Execution Price          Premium         Execution Price         Premium
+  ---------------          -------         ---------------         -------
+
+       $22.00           $1,407,265.00          $24.00           $1,810,504.50
+       $22.10           $1,426,331.00          $24.10           $1,831,846.00
+       $22.20           $1,445,515.00          $24.20           $1,853,296.50
+       $22.30           $1,464,816.50          $24.30           $1,874,856.00
+       $22.40           $1,484,235.50          $24.40           $1,896,523.50
+       $22.50           $1,503,771.00          $24.50           $1,918,298.00
+       $22.60           $1,523,423.00          $24.60           $1,940,180.50
+       $22.70           $1,543,190.50          $24.70           $1,962,169.00
+       $22.80           $1,563,073.50          $24.80           $1,984,264.00
+       $22.90           $1,583,071.50          $24.90           $2,006,465.00
+       $23.00           $1,603,183.50          $25.00           $2,028,771.00
+       $23.10           $1,623,410.00          $25.10           $2,051,182.00
+       $23.20           $1,643,750.00          $25.20           $2,073,697.50
+       $23.30           $1,664,203.00          $25.30           $2,096,317.00
+       $23.40           $1,684,769.00          $25.40           $2,119,039.50
+       $23.50           $1,705,447.00          $25.50           $2,141,865.50
+       $23.60           $1,726,236.50          $25.60           $2,164,793.50
+       $23.70           $1,747,138.00          $25.70           $2,187,824.00
+       $23.80           $1,768,149.50          $25.80           $2,210,956.00
+       $23.90           $1,789,274.00          $25.90           $2,234,189.00
+
+

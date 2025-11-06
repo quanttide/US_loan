@@ -1,0 +1,305 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ BJ1lul1fr0bdrY5O7olrKWiFfj7ZBC1GY+87ywng+DLSyzqnqLhga5ATv6iQM3OG
+ L2tIhZ5DUjw2AU7cJ74OCA==
+
+<SEC-DOCUMENT>0001162318-04-000978.txt : 20041222
+<SEC-HEADER>0001162318-04-000978.hdr.sgml : 20041222
+<ACCEPTANCE-DATETIME>20041222120548
+ACCESSION NUMBER:		0001162318-04-000978
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20041222
+ITEM INFORMATION:		Other Events
+FILED AS OF DATE:		20041222
+DATE AS OF CHANGE:		20041222
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AEGIS ASSET BACKED SECURITIES CORP
+		CENTRAL INDEX KEY:			0001174819
+		STANDARD INDUSTRIAL CLASSIFICATION:	ASSET-BACKED SECURITIES [6189]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-90230
+		FILM NUMBER:		041219690
+
+	MAIL ADDRESS:	
+		STREET 1:		1111 WILCREST GREEN
+		STREET 2:		STE 250
+		CITY:			HOUSTON
+		STATE:			TX
+		ZIP:			77042
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>form8k.htm
+<DESCRIPTION>FORM 8-K
+<TEXT>
+<!doctype html public "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<TITLE>FORM 8-K</TITLE>
+</HEAD>
+<BODY style="line-height:12pt; font-size:10pt; color:#000000">
+<BR>
+<P style="margin:0pt; line-height:16.5pt; font-family:Times New Roman; font-size:14.5pt" align=center>UNITED STATES</P>
+<P style="margin:0pt; line-height:16.5pt; font-family:Times New Roman; font-size:14.5pt" align=center>SECURITIES AND EXCHANGE COMMISSION</P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<P style="margin-top:0pt; margin-bottom:12pt; line-height:14pt; font-family:Times New Roman; font-size:12pt" align=center>Washington, D.C. &nbsp;20549</P>
+<P style="margin:0pt; line-height:16.5pt; font-family:Times New Roman; font-size:14.5pt" align=center>FORM 8-K</P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<P style="margin-top:0pt; margin-bottom:12pt; line-height:14pt; font-family:Times New Roman; font-size:12pt" align=center>CURRENT REPORT</P>
+<P style="margin:0pt; line-height:14pt; font-family:Times New Roman; font-size:12pt" align=center>PURSUANT TO SECTION 13 OR 15(d) OF THE</P>
+<P style="margin-top:0pt; margin-bottom:24pt; line-height:14pt; font-family:Times New Roman; font-size:12pt" align=center>SECURITIES EXCHANGE ACT OF 1934</P>
+<P style="margin:0pt; line-height:14pt; font-family:Times New Roman; font-size:12pt" align=center>Date of Report (Date of earliest event reported)</P>
+<P style="margin-top:0pt; margin-bottom:24pt; line-height:14pt; font-family:Times New Roman; font-size:12pt" align=center>December 22, 2004</P>
+<P style="margin:0pt; line-height:14pt; font-family:Times New Roman; font-size:12pt" align=center><U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Aegis Asset Backed Securities Corporation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U></P>
+<P style="margin:0pt; line-height:14pt; font-family:Times New Roman; font-size:12pt" align=center>(Exact Name of Registrant as Specified in its Charter)</P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<TABLE style="font-size:10pt" cellspacing=0><TR><TD valign=top width=212.8><P style="margin:0pt; line-height:14pt; font-family:Times New Roman; font-size:12pt" align=center><U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Delaware&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U></P>
+</TD><TD valign=top width=212.8><P style="margin:0pt; line-height:14pt; font-family:Times New Roman; font-size:12pt" align=center><U>333-118695</U></P>
+</TD><TD valign=top width=212.8><P style="margin:0pt; line-height:14pt; font-family:Times New Roman; font-size:12pt" align=center><U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;43-1964014&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U></P>
+</TD></TR>
+<TR><TD valign=top width=212.8><P style="margin:0pt; line-height:14pt; font-family:Times New Roman; font-size:12pt" align=center>(State or Other Jurisdiction</P>
+<P style="margin:0pt; line-height:14pt; font-family:Times New Roman; font-size:12pt" align=center>Of Incorporation)</P>
+</TD><TD valign=top width=212.8><P style="margin:0pt; line-height:14pt; font-family:Times New Roman; font-size:12pt" align=center>(Commission</P>
+<P style="margin:0pt; line-height:14pt; font-family:Times New Roman; font-size:12pt" align=center>File Number)</P>
+</TD><TD valign=top width=212.8><P style="margin:0pt; line-height:14pt; font-family:Times New Roman; font-size:12pt" align=center>(I.R.S. Employer</P>
+<P style="margin:0pt; line-height:14pt; font-family:Times New Roman; font-size:12pt" align=center>Identification No.)</P>
+</TD></TR>
+</TABLE>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<TABLE style="font-size:10pt" cellspacing=0><TR><BR>
+<TD valign=top width=319.2><P style="margin:0pt; line-height:14pt; font-family:Times New Roman; font-size:12pt" align=center><U>3250 Briarpark, Suite 400, Houston, Texas</U></P>
+</TD><TD valign=top width=106.4>&nbsp;</TD><TD valign=top width=212.8><P style="margin:0pt; font-family:Times New Roman; font-size:12pt" align=center><BR></P>
+<P style="margin:0pt; line-height:14pt; font-family:Times New Roman; font-size:12pt" align=center><U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;77042&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U></P>
+</TD></TR>
+<TR><TD valign=top width=319.2><P style="margin:0pt; line-height:14pt; font-family:Times New Roman; font-size:12pt" align=center>(Address of Principal Executive Offices)</P>
+</TD><TD valign=top width=106.4>&nbsp;</TD><TD valign=top width=212.8><P style="margin:0pt; line-height:14pt; font-family:Times New Roman; font-size:12pt" align=center>(Zip Code)</P>
+</TD></TR>
+</TABLE>
+<P style="margin-top:0pt; margin-bottom:12pt; font-family:Times New Roman; font-size:12pt" align=justify><BR></P>
+<P style="margin-top:0pt; margin-bottom:12pt; text-indent:36pt; line-height:14pt; font-family:Times New Roman; font-size:12pt" align=justify>Registrant&#146;s telephone number, including area code: &nbsp;800-991-5625</P>
+<P style="margin:0pt; line-height:14pt; font-family:Times New Roman; font-size:12pt" align=center><U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No Change&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U></P>
+<P style="margin:0pt; line-height:14pt; font-family:Times New Roman; font-size:12pt" align=center>(Former Name or Former Address, if Changed Since Last Report)</P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<P style="margin:0pt; font-family:TimesNewRoman">Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:</P>
+<P style="margin:0pt; font-family:TimesNewRoman">[ &nbsp;&nbsp;] Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)</P>
+<P style="margin:0pt; font-family:TimesNewRoman">[ &nbsp;&nbsp;] Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)</P>
+<P style="margin:0pt; font-family:TimesNewRoman">[ &nbsp;&nbsp;] Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))</P>
+<P style="margin:0pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">[ &nbsp;&nbsp;] Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))</P>
+<BR>
+<BR>
+<HR style="padding-top:7.2pt; padding-bottom:7.2pt" noshade size=1.333>
+<BR>
+<P style="page-break-before:always; margin:0pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<BR>
+<BR>
+<HR style="padding-top:7.2pt; padding-bottom:7.2pt" noshade size=1.333>
+<P style="page-break-before:always; margin:0pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<P style="margin:0pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">Aegis Asset Backed Securities Corporation</P>
+<P style="margin:0pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">December 22, 2004</P>
+<P style="margin:0pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">Page </P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<BR>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<P style="margin:0pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">Item 8.01. &nbsp;<U>Other Events</U></P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<P style="margin-top:0pt; margin-bottom:12pt; text-indent:72pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">McKee Nelson LLP has been retained by this Registrant as counsel for its Registration Statement on Form S-3 (Commission File No. 333-118695) in connection with various transactions. &nbsp;Legal opinions by McKee Nelson LLP to be incorporated into the Registration Statement are attached hereto as Exhibit 5.1, Exhibit 8.1 and Exhibit 23.1.</P>
+<P style="margin-top:0pt; margin-bottom:12pt; text-indent:36pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">Item 9.01. &nbsp;<U>Financial Statements and Exhibits</U></P>
+<P style="margin-top:0pt; margin-bottom:-14pt; padding-left:36pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">(a)</P>
+<P style="margin:0pt; padding-left:36pt; text-indent:36pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">Not applicable.</P>
+<P style="margin:0pt; padding-left:36pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<P style="margin-top:0pt; margin-bottom:-14pt; padding-left:36pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">(b)</P>
+<P style="margin:0pt; padding-left:36pt; text-indent:36pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">Not applicable.</P>
+<P style="margin:0pt; padding-left:36pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<P style="margin-top:0pt; margin-bottom:-14pt; padding-left:36pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">(c)</P>
+<P style="margin-top:0pt; margin-bottom:12pt; padding-left:36pt; text-indent:36pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">Exhibits:</P>
+<P style="margin-top:0pt; margin-bottom:-14pt; padding-left:36pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">&nbsp;&nbsp;5.1</P>
+<P style="margin-top:0pt; margin-bottom:10pt; padding-left:36pt; text-indent:36pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">Opinion of McKee Nelson LLP as to legality (including consent of such firm).</P>
+<P style="margin-top:0pt; margin-bottom:-14pt; padding-left:72pt; text-indent:-36pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">&nbsp;&nbsp;8.1</P>
+<P style="margin-top:0pt; margin-bottom:10pt; padding-left:72pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">Opinion of McKee Nelson LLP as to certain tax matters (including consent of such firm included in Exhibit&nbsp;5.1).</P>
+<P style="margin-top:0pt; margin-bottom:-14pt; padding-left:72pt; text-indent:-36pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">23.1</P>
+<P style="margin-top:0pt; margin-bottom:10pt; padding-left:72pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">Consent of McKee Nelson LLP (included in Exhibit 5.1).</P>
+<BR>
+<BR>
+<HR style="padding-top:7.2pt; padding-bottom:7.2pt" noshade size=1.333>
+<P style="page-break-before:always; margin:0pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<P style="margin:0pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">Aegis Asset Backed Securities Corporation</P>
+<P style="margin:0pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">December 22, 2004</P>
+<P style="margin:0pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">Page </P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<BR>
+<P style="margin-top:0pt; margin-bottom:10pt; padding-left:72pt; text-indent:-36pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<P style="margin-top:0pt; margin-bottom:10pt; line-height:14pt; font-family:Times New Roman; font-size:12pt" align=center><B>SIGNATURES</B></P>
+<P style="margin:0pt; text-indent:36pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.</P>
+<P style="margin:0pt; padding-left:216pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">AEGIS ASSET BACKED SECURITIES CORPORATION</P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<P style="margin:0pt; text-indent:216pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">By: <U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/s/ Stuart D. Marvin&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U></P>
+<P style="margin:0pt; padding-left:216pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">Name: Stuart D. Marvin<BR>
+Title: &nbsp;Executive Vice President<BR>
+</P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<P style="margin-top:0pt; margin-bottom:-14pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">Dated: </P>
+<P style="margin:0pt; text-indent:36pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">December 22, 2004</P>
+<P style="margin-top:0pt; margin-bottom:12pt; font-family:Times New Roman; font-size:12pt" align=justify><BR></P>
+<P style="margin-top:0pt; margin-bottom:12pt; font-family:Times New Roman; font-size:12pt" align=justify><BR></P>
+<P style="margin-top:0pt; margin-bottom:12pt; font-family:Times New Roman; font-size:12pt" align=justify><BR></P>
+<P style="margin-top:0pt; margin-bottom:12pt; font-family:Times New Roman; font-size:12pt" align=justify><BR></P>
+<P style="margin-top:0pt; margin-bottom:12pt; font-family:Times New Roman; font-size:12pt" align=justify><BR></P>
+<P style="margin-top:0pt; margin-bottom:12pt; font-family:Times New Roman; font-size:12pt" align=justify><BR></P>
+<P style="margin-top:0pt; margin-bottom:12pt; font-family:Times New Roman; font-size:12pt" align=justify><BR></P>
+<P style="margin-top:0pt; margin-bottom:12pt; font-family:Times New Roman; font-size:12pt" align=justify><BR></P>
+<P style="margin-top:0pt; margin-bottom:12pt; font-family:Times New Roman; font-size:12pt" align=justify><BR></P>
+<P style="margin-top:0pt; margin-bottom:12pt; font-family:Times New Roman; font-size:12pt" align=justify><BR></P>
+<P style="margin-top:0pt; margin-bottom:12pt; font-family:Times New Roman; font-size:12pt" align=justify><BR></P>
+<P style="margin-top:0pt; margin-bottom:12pt; font-family:Times New Roman; font-size:12pt" align=justify><BR></P>
+<P style="margin-top:0pt; margin-bottom:12pt; font-family:Times New Roman; font-size:12pt" align=justify><BR></P>
+<P style="margin-top:0pt; margin-bottom:12pt; font-family:Times New Roman; font-size:12pt" align=justify><BR></P>
+<P style="margin-top:0pt; margin-bottom:12pt; font-family:Times New Roman; font-size:12pt" align=justify><BR></P>
+<BR>
+<BR>
+<HR style="padding-top:7.2pt; padding-bottom:7.2pt" noshade size=1.333>
+<P style="page-break-before:always; margin:0pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<P style="margin:0pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">Aegis Asset Backed Securities Corporation</P>
+<P style="margin:0pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">December 22, 2004</P>
+<P style="margin:0pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">Page </P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<BR>
+<P style="margin:0pt; line-height:14pt; font-family:Times New Roman; font-size:12pt" align=center><U>EXHIBIT INDEX</U></P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<P style="margin-top:0pt; margin-bottom:-14pt; line-height:14pt; font-family:Times New Roman; font-size:12pt" align=justify><U>Exhibit No.</U></P>
+<P style="margin-top:0pt; margin-bottom:-14pt; text-indent:108pt; line-height:14pt; font-family:Times New Roman; font-size:12pt" align=justify><U>Description</U></P>
+<P style="margin:0pt; text-indent:324pt; font-family:Times New Roman; font-size:12pt" align=justify><BR></P>
+<P style="margin-top:0pt; margin-bottom:10pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<P style="margin-top:0pt; margin-bottom:-14pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">&nbsp;&nbsp;5.1</P>
+<P style="margin-top:0pt; margin-bottom:10pt; text-indent:36pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">Opinion of McKee Nelson LLP as to legality (including consent of such firm).</P>
+<P style="margin-top:0pt; margin-bottom:-14pt; padding-left:36pt; text-indent:-36pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">&nbsp;&nbsp;8.1</P>
+<P style="margin-top:0pt; margin-bottom:10pt; padding-left:36pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">Opinion of McKee Nelson LLP as to certain tax matters (including consent of such firm included in Exhibit&nbsp;&nbsp;5.1).</P>
+<P style="margin-top:0pt; margin-bottom:-14pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">23.1</P>
+<P style="margin-top:0pt; margin-bottom:10pt; text-indent:36pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">Consent of McKee Nelson LLP (included in Exhibit 5.1).</P>
+<P style="margin-top:0pt; margin-bottom:12pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<P style="margin-top:0pt; margin-bottom:12pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<P style="margin-top:0pt; margin-bottom:12pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<P style="margin-top:0pt; margin-bottom:12pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<P style="margin-top:0pt; margin-bottom:12pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<P style="margin-top:0pt; margin-bottom:12pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<P style="margin-top:0pt; margin-bottom:12pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<P style="margin-top:0pt; margin-bottom:12pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<P style="margin-top:0pt; margin-bottom:12pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<P style="margin-top:0pt; margin-bottom:12pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<P style="margin-top:0pt; margin-bottom:12pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<P style="margin-top:0pt; margin-bottom:12pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<P style="margin-top:0pt; margin-bottom:12pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<P style="margin-top:0pt; margin-bottom:12pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<P style="margin-top:0pt; margin-bottom:12pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<P style="margin-top:0pt; margin-bottom:12pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<P style="margin-top:0pt; margin-bottom:12pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<BR>
+<BR>
+<HR style="padding-top:7.2pt; padding-bottom:7.2pt" noshade size=1.333>
+<P style="page-break-before:always; margin:0pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<P style="margin:0pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">Aegis Asset Backed Securities Corporation</P>
+<P style="margin:0pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">December 22, 2004</P>
+<P style="margin:0pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">Page </P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<BR>
+<P style="margin-top:12pt; margin-bottom:0pt; line-height:14pt; font-family:Times New Roman; font-size:12pt" align=right><B><U>Exhibits 5.1, 8.1 and 23.1</U></B></P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<P style="margin:0pt; line-height:14pt; font-family:Times New Roman; font-size:12pt" align=right>December 22, 2004</P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<P style="margin:0pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">Aegis Asset Backed Securities Corporation</P>
+<P style="margin:0pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">3250 Briarpark, Suite 400</P>
+<P style="margin:0pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">Houston, Texas 77042</P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<P style="margin-top:0pt; margin-bottom:-14pt; text-indent:36pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">Re:</P>
+<P style="margin:0pt; text-indent:72pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">Aegis Asset Backed Securities Corporation,</P>
+<P style="margin:0pt; text-indent:72pt; line-height:14pt; font-family:Times New Roman; font-size:12pt"><U>Registration Statement on Form S-3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U></P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<P style="margin-top:0pt; margin-bottom:12pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">Ladies and Gentlemen:</P>
+<P style="margin-top:0pt; margin-bottom:12pt; text-indent:36pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">We have acted as special counsel for Aegis Asset Backed Securities Corporation, a Delaware corporation (the &#147;Company&#148;), in connection with the offering of the Aegis Asset Backed Securities Trust 2004-6 Mortgage Backed Notes (the &#147;Notes&#148;). &nbsp;A Registration Statement of the Company on Form S-3 relating to the Notes (Commission File No. 333-118695) has been filed with the Securities and Exchange Commission (the &#147;Commission&#148;) under the Securities Act of 1933, as amended (the &#147;Securities Act&#148;) and was declared effective on October 5, 2004. &nbsp;As set forth in the prospectus dated December 8, 2004, as supplemented by a prospectus supplement dated October 21, 2004 (the &#147;Base Prospectus&#148; and the &#147;Prospectus Supplement,&#148; respectively), the Notes will be issued under and pursuant to the conditions of an indenture dated as of Dec
+ember 1, 2004 (the &#147;Indenture&#148;), among Aegis Asset Backed Securities Trust 2004-6, a Delaware statutory trust (the &#147;Issuer&#148; or the &#147;Trust&#148;), Wells Fargo Bank, N.A. (&#147;Wells Fargo&#148;), as administrator (in such capacity, the &#147;Administrator&#148;), and Wachovia Bank, National Association, as indenture trustee (the &#147;Indenture Trustee&#148;).</P>
+<P style="margin-top:0pt; margin-bottom:12pt; text-indent:36pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">Pursuant to a trust agreement dated as of December 1, 2004 (the &#147;Trust Agreement&#148;), among Wilmington Trust Company, as owner trustee (the &#147;Owner Trustee&#148;), the Administrator and the Depositor, the Issuer will also issue a single ownership certificate evidencing the equity interest in the Issuer. &nbsp;The Notes will be secured primarily by fixed and adjustable rate, fully amortizing and balloon, first and second lien residential mortgage loans and related notes and mortgages (the &#147;Mortgage Loans&#148;), together with certain other assets (such Mortgage Loans and other assets, as defined in the Indenture, the &#147;Collateral&#148;) conveyed to the Issuer and pledged under the Indenture on the Closing Date. &nbsp;On the Closing Date, the Depositor will have conveyed the Collateral to the Issuer pursuant to a transfer and servicing agreement dated as of Decembe
+r 1, 2004 (the &#147;Transfer and Servicing Agreement&#148;), among the Issuer, the Depositor, Aegis REIT Corporation, as seller (the &#147;Seller&#148;), Wells Fargo, as master servicer (in such capacity, the &#147;Master Servicer&#148;), as custodian (in such capacity, the &#147;Custodian&#148;) and as Administrator, Ocwen Federal Bank FSB, as servicer (the &#147;Servicer&#148;), The Murrayhill Company, as credit risk manager, and the Indenture Trustee.</P>
+<BR>
+<BR>
+<HR style="padding-top:7.2pt; padding-bottom:7.2pt" noshade size=1.333>
+<P style="page-break-before:always; margin:0pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<P style="margin:0pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">Aegis Asset Backed Securities Corporation</P>
+<P style="margin:0pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">December 22, 2004</P>
+<P style="margin:0pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">Page </P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<BR>
+<P style="margin-top:0pt; margin-bottom:12pt; text-indent:36pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">We have examined forms of the Indenture, the Trust Agreement, the Transfer and Servicing Agreement, the Notes, the Base Prospectus, the Prospectus Supplement, and originals or copies, certified or otherwise identified to our satisfaction, of such instruments, certificates, records and other documents, and have made such examination of law, as we have deemed necessary or appropriate for the purpose of this opinion. &nbsp;In our examination, we have assumed the legal capacity of all natural persons, the genuineness of all signatures, the authenticity of all documents submitted to us as originals, the conformity to original documents of all documents submitted to us as certified or photostatic copies or by facsimile or other means of electronic transmission, and the authenticity of the originals of such latter documents. &nbsp;As to facts relevant to the opinions expressed herein and th
+e other statements made herein, we have relied, to the extent we have deemed appropriate, upon certificates and oral or written statements and representations of officers and other representatives of the Company and others.</P>
+<P style="margin-top:0pt; margin-bottom:12pt; text-indent:36pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">In addition, with respect to the opinions set forth in subparagraphs (iii) through (v) below, we have assumed that the Seller will file with its federal income tax return for its taxable year ending December&nbsp;31, 2004, an election to be a real estate investment trust (a &#147;REIT&#148;), that the Seller has been organized in conformity with the requirements for REIT qualification set forth in the Internal Revenue Code of 1986, as amended (the &#147;Code&#148;), that the Seller has operated and will continue to operate in a manner that enables it to qualify as a REIT, and that the Seller will not undertake any action that would cause the Trust to be subject to federal income tax.</P>
+<P style="margin-top:0pt; margin-bottom:12pt; text-indent:36pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">Based upon the foregoing, we are of the opinion that:</P>
+<P style="margin-top:0pt; margin-bottom:-14pt; padding-left:36pt; text-indent:36pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">(i)</P>
+<P style="margin-top:0pt; margin-bottom:12pt; padding-left:36pt; text-indent:72pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">When the Indenture has been duly and validly authorized by all necessary action on the part of the Owner Trustee on behalf of the Trust and has been duly executed and delivered by the Trust and the Indenture Trustee, and any other party thereto, the Indenture will constitute a legal, valid and binding agreement of the Trust, enforceable against the Trust in accordance with its terms, except as enforcement thereof may be limited by bankruptcy, insolvency, reorganization, moratorium, fraudulent conveyance, fraudulent transfer and other similar laws relating to or affecting creditors&#146; rights generally and to general equitable principles (regardless of whether considered in a proceeding in equity or at law), including concepts of commercial reasonableness, good faith and fair dealing and the possible unavailability of specific performance or injunctive relief, and
+ with respect to the rights of indemnity or contribution, as may be limited by public policy considerations.</P>
+<P style="margin-top:0pt; margin-bottom:-14pt; padding-left:36pt; text-indent:36pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">(ii)</P>
+<P style="margin-top:0pt; margin-bottom:12pt; padding-left:36pt; text-indent:72pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">When the issuance and sale of the Notes have been duly authorized by all corporate action on the part of the Trust, and when the Notes have been duly and validly executed and authenticated in accordance with the terms of the Indenture and delivered against payment therefor pursuant to the underwriting agreement dated December 8, 2004 among the Company, Aegis Mortgage Corporation, Bear, Stearns &amp; Co. Inc., Lehman </P>
+<BR>
+<BR>
+<HR style="padding-top:7.2pt; padding-bottom:7.2pt" noshade size=1.333>
+<P style="page-break-before:always; margin:0pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<P style="margin:0pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">Aegis Asset Backed Securities Corporation</P>
+<P style="margin:0pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">December 22, 2004</P>
+<P style="margin:0pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">Page </P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<BR>
+<P style="margin-top:0pt; margin-bottom:12pt; padding-left:36pt; text-indent:36pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">Brothers Inc., Credit Suisse First Boston LLC and UBS Securities LLC, the Notes will be duly and validly issued and outstanding, and entitled to the benefits of the Indenture.</P>
+<P style="margin-top:0pt; margin-bottom:-14pt; padding-left:36pt; text-indent:36pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">(iii)</P>
+<P style="margin-top:0pt; margin-bottom:12pt; padding-left:36pt; text-indent:72pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">The Notes will be treated as debt for U.S. federal income tax purposes.</P>
+<P style="margin-top:0pt; margin-bottom:-14pt; padding-left:36pt; text-indent:36pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">(iv)</P>
+<P style="margin-top:0pt; margin-bottom:12pt; padding-left:36pt; text-indent:72pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">For U.S. federal income tax purposes, the Trust will not be classified as an association taxable as a corporation or a publicly traded partnership taxable as a corporation; although the Trust will be classified as a taxable mortgage pool during the time that any Notes are outstanding, the Trust will not be subject to federal income tax during such time as long as the beneficial owner of the Ownership Certificate qualifies as a REIT, a qualified REIT Subsidiary, or a Disregarded Entity (each as defined in the Trust Agreement) under the Code.</P>
+<P style="margin-top:0pt; margin-bottom:-14pt; padding-left:36pt; text-indent:36pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">(v)</P>
+<P style="margin-top:0pt; margin-bottom:12pt; padding-left:36pt; text-indent:72pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">The statements contained under the caption &#147;Material Federal Income Tax Considerations&#148; in the Base Prospectus and the Prospectus Supplement, insofar as such statements constitute conclusions of law, are true and correct in all material respects as set forth therein.</P>
+<P style="margin-top:0pt; margin-bottom:12pt; text-indent:36pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">In rendering the foregoing opinions, we express no opinion as to the laws of any jurisdiction other than the federal laws of the United States of America and the laws of the State of New York.</P>
+<P style="margin-top:0pt; margin-bottom:12pt; text-indent:36pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">The opinions set forth in paragraphs (iii) through (v) herein are based upon the existing provisions of the Code and Treasury regulations issued or proposed thereunder, published Revenue Rulings and releases of the Internal Revenue Service and existing case law, any of which could be changed at any time. &nbsp;Any such changes could be retroactive in application and could modify the legal conclusions upon which our opinions are based. &nbsp;The opinions expressed herein are limited as described above, and we do not express an opinion on any other tax aspect of the transactions contemplated by the Prospectus Supplement, the Transfer and Servicing Agreement, the Indenture or the Trust Agreement or the effect of such transactions.</P>
+<P style="margin-top:0pt; margin-bottom:12pt; text-indent:36pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">We hereby consent to the filing of this letter and to the references to this firm under the headings &#147;Legal Matters&#148; and &#147;Material Federal Income Tax Considerations&#148; in the Base Prospectus and the Prospectus Supplement, without implying or admitting that we are &#147;experts&#148; within the meaning of the Securities Act or the rules and regulations of the Commission issued thereunder, with respect to any part of the Base Prospectus or the Prospectus Supplement.</P>
+<P style="margin:0pt; text-indent:252pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">Very truly yours,</P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<P style="margin:0pt; text-indent:252pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">/s/ McKee Nelson LLP</P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<P style="margin:0pt; text-indent:252pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">McKee Nelson LLP</P>
+<BR>
+<BR>
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

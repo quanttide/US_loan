@@ -1,0 +1,997 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Lj6vD0bqtbZLFmmfyyzBKCk1Yh+g0QY4PM65hv13TGLGDiMPz5A7M2NdKM6+Qd25
+ 2QeObWcajxAnihSH3xPHYA==
+
+<SEC-DOCUMENT>0001193125-04-219028.txt : 20041223
+<SEC-HEADER>0001193125-04-219028.hdr.sgml : 20041223
+<ACCEPTANCE-DATETIME>20041223133839
+ACCESSION NUMBER:		0001193125-04-219028
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20041222
+ITEM INFORMATION:		Other Events
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20041223
+DATE AS OF CHANGE:		20041223
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BANC OF AMERICA MORTGAGE SECURITIES INC
+		CENTRAL INDEX KEY:			0001207409
+		STANDARD INDUSTRIAL CLASSIFICATION:	ASSET-BACKED SECURITIES [6189]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-101500
+		FILM NUMBER:		041223532
+
+	BUSINESS ADDRESS:	
+		STREET 1:		201 NORTH TRYON ST
+		CITY:			CHARLOTTE
+		STATE:			NC
+		ZIP:			28255
+		BUSINESS PHONE:		7043884503
+
+	MAIL ADDRESS:	
+		STREET 1:		201 NORTH TRYON STREET
+		CITY:			CHARLOTTE
+		STATE:			NC
+		ZIP:			3884503
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BA RESIDENTIAL SECURITIES INC
+		DATE OF NAME CHANGE:	20021125
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>d8k.txt
+<DESCRIPTION>FORM 8-K
+<TEXT>
+<PAGE>
+
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                    FORM 8-K
+
+                                 CURRENT REPORT
+
+                     Pursuant to Section 13 or 15(d) of the
+                         Securities Exchange Act of 1934
+
+Date of Report: December 22, 2004
+(Date of earliest event reported)
+
+                    Banc of America Mortgage Securities, Inc.
+             (Exact name of registrant as specified in its charter)
+
+            Delaware                      333-118843              36-4514369
+ (State or other jurisdiction of    (Commission File No.)       (IRS Employer
+        incorporation)                                       Identification No.)
+
+201 North Tryon Street, Charlotte, North Carolina                   28255
+      Address of principal executive offices                      (Zip Code)
+
+Registrant's telephone number, including area code (704) 387-8239
+
+  ----------------------------------------------------------------------------
+          (Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form 8-K filing is intended to
+simultaneously satisfy the filing obligation of the registrant under any of the
+following provisions:
+
+[ ] Written communications pursuant to Rule 425 under the Securities Act (17 CFR
+230.425)
+
+[ ] Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR
+240.14a-12)
+
+[ ] Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange
+Act (17 CFR 240.14d-2(b))
+
+[ ] Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange
+Act (17 CFR 240.13e-4(c))
+
+<PAGE>
+
+ITEM 8.01. Other Events
+
+          Attached as an exhibit are the Computational Materials (as defined in
+the no-action letter dated May 21, 1994 issued by the Securities and Exchange
+Commission to Kidder, Peabody Acceptance Corporation I, Kidder, Peabody & Co.
+Incorporated and Kidder Structured Asset Corporation) prepared by Banc of
+America Securities LLC, which are hereby filed pursuant to such letter.
+
+                                       -2-
+
+<PAGE>
+
+ITEM 9.01 Financial Statements and Exhibits
+
+          (c) Exhibits
+
+Item 601(a)
+of Regulation S-K
+
+Exhibit No.   Description
+- -----------   -----------
+    (99)      Computational Materials prepared by Banc of America
+              Securities LLC in connection with Banc of Mortgage
+              Securities Inc., Mortgage Pass-Through Certificates, Series
+              2004-11
+
+                                       -3-
+
+<PAGE>
+
+          Pursuant to the requirements of the Securities Exchange Act of 1934,
+the registrant has duly caused this report to be signed on its behalf by the
+undersigned hereunto duly authorized.
+
+                                                        BANC OF AMERICA MORTGAGE
+                                                        SECURITIES, INC.
+
+December 22, 2004
+
+
+                                                        By: /s/ Judy Lowman
+                                                            --------------------
+                                                            Judy Lowman
+                                                            Vice President
+
+                                       -4-
+
+<PAGE>
+
+                                INDEX TO EXHIBITS
+
+                                                                  Paper (P) or
+Exhibit No.   Description                                         Electronic (E)
+- -----------   -----------                                         --------------
+    (99)      Computational Materials prepared by Banc of         E
+              America Securities LLC in connection with Banc
+              of America Mortgage Securities, Inc., Mortgage
+              Pass-Through Certificates, Series 2004-11
+
+                                       -5-
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>2
+<FILENAME>dex99.txt
+<DESCRIPTION>COMPUTATIONAL MATERIALS
+<TEXT>
+<PAGE>
+
+                                                                      Exhibit 99
+
+                                 BM04011 -- 5A1
+
+BANC OF AMERICA
+
+<TABLE>
+<S>       <C>              <C>             <C>          <C>      <C>        <C>       <C>
+Balance   $78,068,000.00   Delay           24           WAC(5)   6.71332    WAM(5)    287
+Coupon    6.50000          Dated           12/01/2004   NET(5)   6.459822   WALA(5)   32
+Settle    12/30/2004       First Payment   01/25/2005
+</TABLE>
+
+<TABLE>
+<CAPTION>
+- -----------------------------------------------------------------------------------------------------
+         Price                1               2               3               4               5
+- -----------------------------------------------------------------------------------------------------
+                                Yield           Yield           Yield           Yield           Yield
+- -----------------------------------------------------------------------------------------------------
+<S>                     <C>             <C>             <C>             <C>             <C>
+           102-30.000           6.214           5.720           5.288           4.468           3.807
+           102-31.000           6.210           5.712           5.276           4.449           3.782
+           103-00.000           6.207           5.704           5.265           4.430           3.757
+           103-01.000           6.204           5.696           5.253           4.411           3.732
+           103-02.000           6.200           5.689           5.241           4.392           3.707
+           103-03.000           6.197           5.681           5.230           4.373           3.682
+           103-04.000           6.193           5.673           5.218           4.354           3.658
+           103-05.000           6.190           5.665           5.207           4.336           3.633
+           103-06.000           6.187           5.658           5.195           4.317           3.608
+           103-07.000           6.183           5.650           5.183           4.298           3.583
+           103-08.000           6.180           5.642           5.172           4.279           3.559
+           103-09.000           6.177           5.634           5.160           4.260           3.534
+           103-10.000           6.173           5.627           5.149           4.241           3.509
+
+Spread @ Center Price             179             208             199             140              87
+                  WAL          15.103           5.043           3.071           1.742           1.293
+             Mod Durn            8.93            3.88            2.60            1.59            1.22
+        Mod Convexity           1.255           0.304           0.143           0.054           0.032
+     Principal Window   Jan05 - Mar32   Jan05 - Mar32   Jan05 - Mar32   Jan05 - Feb31   Jan05 - Mar10
+- -----------------------------------------------------------------------------------------------------
+            LIBOR_1MO            2.41            2.41            2.41            2.41            2.41
+             CMT_10YR           4.184           4.184           4.184           4.184           4.184
+- -----------------------------------------------------------------------------------------------------
+           Prepay (5)           0 CPR          15 CPR          25 CPR          40 CPR          50 CPR
+  Optional Redemption        Call (N)        Call (N)        Call (N)        Call (N)        Call (N)
+- -----------------------------------------------------------------------------------------------------
+</TABLE>
+
+Yield Curve   Mat    6MO     2YR     3YR     5YR     10YR    30YR
+              ---   -----   -----   -----   -----   -----   -----
+              Yld   2.481   3.024   3.198   3.586   4.205   4.833
+
+This Structural Term Sheet, Collateral Term Sheet, or Computational Materials,
+as appropriate (the "material"), is for your private information and Banc of
+America Securities LLC (the "Underwriter") is not soliciting any action based
+upon it. This material is not to be construed as an offer to sell or the
+solicitation of any offer to buy any security in any jurisdiction where such an
+offer or solicitation would be illegal. This material is based on information
+that the Underwriter considers reliable, but the Underwriter does not represent
+that it is accurate or complete and it should not be relied upon as such. By
+accepting this material the recipient agrees that it will not distribute or
+provide the material to any other person. The information contained in this
+material may pertain to securities that ultimately are not sold. The information
+contained in this material may be based on assumptions regarding market
+conditions and other matters as reflected herein. The Underwriter makes no
+representation regarding the reasonableness of such assumptions or the
+likelihood that any of such assumptions will coincide with actual market
+conditions or events, and this material should not be relied upon for such
+purposes. The Underwriter and its affiliates, officers, directors, partners and
+employees, including persons involved in the preparation or issuance of this
+material may, from time to time, have long or short positions in, and buy and
+sell, the securities mentioned herein or derivatives thereof (including
+options). This material may be filed with the Securities and Exchange Commission
+(the "SEC") and incorporated by reference into an effective registration
+statement previously filed with the SEC under Rule 415 of the Securities Act of
+1933, including all cases where the material does not pertain to securities that
+are ultimately offered for sale pursuant to such registration statement.
+Information contained in this material is current as of the date appearing on
+this material only. Information in this material regarding any assets backing
+any securities discussed herein supersedes all prior information regarding such
+assets. Any information in the material, whether regarding the assets backing
+any securities discussed herein or otherwise, will be superseded by the
+information contained in any final prospectus for any securities actually sold
+to you. This material is furnished solely by the Underwriter and not by the
+issuer of the securities. The issuer of the securities has not prepared,
+reviewed or participated in the preparation of this material, is not responsible
+for the accuracy of this material and has not authorized the dissemination of
+this material. The Underwriter is acting as underwriter and not acting as agent
+for the issuer in connection with the proposed transaction.
+
+<PAGE>
+
+                                 BM04011 -- 1A3
+
+BANC OF AMERICA
+
+<TABLE>
+<S>       <C>               <C>             <C>          <C>               <C>       <C>
+Balance   $147,466,000.00   Delay           24           WAC(1) 5.87085    WAM(1)    359
+Coupon    5.50000           Dated           12/01/2004   NET(1) 5.617349   WALA(1)   1
+Settle    12/30/2004        First Payment   01/25/2005
+</TABLE>
+
+<TABLE>
+<CAPTION>
+- -----------------------------------------------------------------------------------------------------
+        Price                 1               2               3               4               5
+- -----------------------------------------------------------------------------------------------------
+                                Yield           Yield           Yield           Yield           Yield
+- -----------------------------------------------------------------------------------------------------
+<S>                     <C>             <C>             <C>             <C>             <C>
+           101-11.000           5.397           5.275           5.007           4.799           4.561
+           101-12.000           5.394           5.270           4.997           4.785           4.543
+           101-13.000           5.391           5.265           4.986           4.771           4.525
+           101-14.000           5.388           5.260           4.976           4.758           4.507
+           101-15.000           5.385           5.255           4.966           4.744           4.489
+           101-16.000           5.382           5.250           4.956           4.730           4.471
+           101-17.000           5.379           5.244           4.946           4.716           4.453
+           101-18.000           5.376           5.239           4.936           4.703           4.435
+           101-19.000           5.373           5.234           4.926           4.689           4.417
+           101-20.000           5.370           5.229           4.916           4.675           4.399
+           101-21.000           5.367           5.224           4.906           4.661           4.381
+           101-22.000           5.364           5.219           4.896           4.648           4.363
+           101-23.000           5.361           5.213           4.886           4.634           4.345
+
+Spread @ Center Price              90             128             164             160             147
+                  WAL          17.009           7.979           3.503           2.455           1.832
+             Mod Durn           10.22            5.93            3.06            2.23            1.70
+        Mod Convexity           1.633           0.579           0.141           0.073           0.043
+     Principal Window   Jan05 - May32   Jan05 - May24   Jan05 - Aug12   Jan05 - Sep09   Jan05 - Mar08
+- -----------------------------------------------------------------------------------------------------
+            LIBOR_1MO            2.41            2.41            2.41            2.41            2.41
+             CMT_10YR           4.184           4.184           4.184           4.184           4.184
+- -----------------------------------------------------------------------------------------------------
+           Prepay (1)           0 PSA         100 PSA         300 PSA         500 PSA         800 PSA
+  Optional Redemption        Call (N)        Call (N)        Call (N)        Call (N)        Call (N)
+- -----------------------------------------------------------------------------------------------------
+</TABLE>
+
+Yield Curve   Mat     6MO     2YR     3YR     5YR    10YR    30YR
+              ---     ---     ---     ---     ---    ----    ----
+              Yld   2.481   3.024   3.198   3.586   4.205   4.833
+
+This Structural Term Sheet, Collateral Term Sheet, or Computational Materials,
+as appropriate (the "material"), is for your private information and Banc of
+America Securities LLC (the "Underwriter") is not soliciting any action based
+upon it. This material is not to be construed as an offer to sell or the
+solicitation of any offer to buy any security in any jurisdiction where such an
+offer or solicitation would be illegal. This material is based on information
+that the Underwriter considers reliable, but the Underwriter does not represent
+that it is accurate or complete and it should not be relied upon as such. By
+accepting this material the recipient agrees that it will not distribute or
+provide the material to any other person. The information contained in this
+material may pertain to securities that ultimately are not sold. The information
+contained in this material may be based on assumptions regarding market
+conditions and other matters as reflected herein. The Underwriter makes no
+representation regarding the reasonableness of such assumptions or the
+likelihood that any of such assumptions will coincide with actual market
+conditions or events, and this material should not be relied upon for such
+purposes. The Underwriter and its affiliates, officers, directors, partners and
+employees, including persons involved in the preparation or issuance of this
+material may, from time to time, have long or short positions in, and buy and
+sell, the securities mentioned herein or derivatives thereof (including
+options). This material may be filed with the Securities and Exchange Commission
+(the "SEC") and incorporated by reference into an effective registration
+statement previously filed with the SEC under Rule 415 of the Securities Act of
+1933, including all cases where the material does not pertain to securities that
+are ultimately offered for sale pursuant to such registration statement.
+Information contained in this material is current as of the date appearing on
+this material only. Information in this material regarding any assets backing
+any securities discussed herein supersedes all prior information regarding such
+assets. Any information in the material, whether regarding the assets backing
+any securities discussed herein or otherwise, will be superseded by the
+information contained in any final prospectus for any securities actually sold
+to you. This material is furnished solely by the Underwriter and not by the
+issuer of the securities. The issuer of the securities has not prepared,
+reviewed or participated in the preparation of this material, is not responsible
+for the accuracy of this material and has not authorized the dissemination of
+this material. The Underwriter is acting as underwriter and not acting as agent
+for the issuer in connection with the proposed transaction.
+
+<PAGE>
+
+                                 BM04011 -- 1A4
+
+BANC OF AMERICA
+
+<TABLE>
+<S>       <C>             <C>             <C>          <C>      <C>        <C>       <C>
+Balance   $8,536,000.00   Delay           24           WAC(1)   5.87085    WAM(1)    359
+Coupon    5.25000         Dated           12/01/2004   NET(1)   5.617349   WALA(1)   1
+Settle    12/30/2004      First Payment   01/25/2005
+</TABLE>
+
+<TABLE>
+<CAPTION>
+- -----------------------------------------------------------------------------------------------------
+        Price                 1               2               3               4               5
+- -----------------------------------------------------------------------------------------------------
+                            Yield           Yield           Yield           Yield           Yield
+- -----------------------------------------------------------------------------------------------------
+<S>                     <C>             <C>             <C>             <C>             <C>
+            98-21.000           5.391           5.408           5.434           5.452           5.529
+            98-22.000           5.388           5.405           5.430           5.448           5.522
+            98-23.000           5.386           5.402           5.426           5.443           5.515
+            98-24.000           5.383           5.399           5.422           5.438           5.508
+            98-25.000           5.380           5.395           5.418           5.434           5.501
+            98-26.000           5.378           5.392           5.414           5.429           5.494
+            98-27.000           5.375           5.389           5.410           5.425           5.487
+            98-28.000           5.372           5.386           5.406           5.420           5.480
+            98-29.000           5.370           5.383           5.402           5.416           5.473
+            98-30.000           5.367           5.380           5.398           5.411           5.466
+            98-31.000           5.365           5.376           5.394           5.407           5.459
+            99-00.000           5.362           5.373           5.390           5.402           5.452
+            99-01.000           5.359           5.370           5.386           5.397           5.445
+
+Spread @ Center Price             119             121             123             124             130
+                  WAL          20.948          15.656          11.046           9.059           5.330
+             Mod Durn           11.99            9.93            7.92            6.90            4.52
+        Mod Convexity           2.123           1.442           0.862           0.624           0.249
+     Principal Window   Jan10 - Dec34   Jan10 - Dec34   Jan10 - Dec34   Jan10 - Dec34   Apr09 - Nov12
+
+- -----------------------------------------------------------------------------------------------------
+            LIBOR_1MO            2.41            2.41            2.41            2.41            2.41
+             CMT_10YR           4.184           4.184           4.184           4.184           4.184
+- -----------------------------------------------------------------------------------------------------
+           Prepay (1)           0 PSA         100 PSA         300 PSA         500 PSA         800 PSA
+- -----------------------------------------------------------------------------------------------------
+  Optional Redemption        Call (N)        Call (N)        Call (N)        Call (N)        Call (N)
+- -----------------------------------------------------------------------------------------------------
+</TABLE>
+
+This Structural Term Sheet, Collateral Term Sheet, or Computational Materials,
+as appropriate (the "material"), is for your private information and Banc of
+America Securities LLC (the "Underwriter") is not soliciting any action based
+upon it. This material is not to be construed as an offer to sell or
+solicitation of any offer to buy any security in any jurisdiction where such an
+offer or solicitation would be illegal. This material is based on information
+that the Underwriter considers reliable, but the Underwriter does not represent
+that it is accurate or complete and it should not be relied upon as such. By
+accepting this material the recipient agrees that it will not distribute or
+provide the material to any other person. The information contained in this
+material may pertain to securities that ultimately are not sold. The information
+contained in this material may be based on assumptions regarding market
+conditions and other matters as reflected herein. The Underwriter makes no
+representation regarding the reasonableness of such assumptions or the
+likelihood that any of such assumptions will coincide with actual market
+conditions or events, and this material should not be relied upon for such
+purposes. The Underwriter and its affiliates, officers, directors, partners and
+employees, including persons involved in the preparation or issuance of this
+material may, from time to time, have long or short positions in, and buy and
+sell, the securities mentioned herein or derivatives thereof (including
+options). This material may be filed with the Securities and Exchange Commission
+(the "SEC") and incorporated by reference into an effective registration
+statement previously filed with the SEC under Rule 415 of the Securities Act of
+1933, including all cases where the material does not pertain to securities that
+are ultimately offered for sale pursuant to such registration statement.
+Information contained in this material is current as of the date appearing on
+this material only. Information in this material regarding any assets backing
+any securities discussed herein supersedes all prior information regarding such
+assets. Any information in the material, whether regarding the assets backing
+any securities discussed herein or otherwise, will be superseded by the
+information contained in any final prospectus for any securities actually sold
+to you. This material is furnished solely by the Underwriter and not by the
+issuer of the securities. The issuer of the securities has not prepared,
+reviewed or participated in the preparation of this material, is not responsible
+for the accuracy of this material and has not authorized the dissemination of
+this material. The Underwriter is acting as underwriter and not acting as agent
+for the issuer in connection with the proposed transaction.
+
+<PAGE>
+
+                                 BM04011 -- 1A5
+
+BANC OF AMERICA
+
+<TABLE>
+<S>       <C>             <C>             <C>          <C>      <C>        <C>       <C>
+Balance   $3,000,000.00   Delay           24           WAC(1)   5.87085    WAM(1)    359
+Coupon    5.50000         Dated           12/01/2004   NET(1)   5.617349   WALA(1)   1
+Settle    12/30/2004      First Payment   01/25/2005
+</TABLE>
+
+<TABLE>
+<CAPTION>
+- -----------------------------------------------------------------------------------------------------
+        Price                 1               2               3               4               5
+- -----------------------------------------------------------------------------------------------------
+                            Yield           Yield           Yield           Yield           Yield
+- -----------------------------------------------------------------------------------------------------
+<S>                     <C>             <C>             <C>             <C>             <C>
+            96-27.000           5.764           5.775           5.883           6.119           6.393
+            96-28.000           5.762           5.773           5.880           6.112           6.383
+            96-29.000           5.760           5.770           5.876           6.106           6.374
+            96-30.000           5.757           5.768           5.872           6.100           6.364
+            96-31.000           5.755           5.765           5.869           6.093           6.355
+            97-00.000           5.753           5.763           5.865           6.087           6.346
+            97-01.000           5.751           5.760           5.861           6.081           6.336
+            97-02.000           5.748           5.758           5.858           6.074           6.327
+            97-03.000           5.746           5.756           5.854           6.068           6.317
+            97-04.000           5.744           5.753           5.851           6.062           6.308
+            97-05.000           5.741           5.751           5.847           6.056           6.298
+            97-06.000           5.739           5.748           5.843           6.049           6.289
+            97-07.000           5.737           5.746           5.840           6.043           6.280
+
+Spread @ Center Price              92              94             155             234             295
+                  WAL          29.187          25.835          12.620           6.179           3.897
+             Mod Durn           13.98           13.28            8.80            5.08            3.40
+        Mod Convexity           3.001           2.625           0.997           0.312           0.140
+     Principal Window   Jan34 - Apr34   Mar30 - Jun31   Nov16 - May18   Dec10 - May11   Oct08 - Dec08
+
+- -----------------------------------------------------------------------------------------------------
+            LIBOR_1MO            2.41            2.41            2.41            2.41            2.41
+             CMT_10YR           4.184           4.184           4.184           4.184           4.184
+- -----------------------------------------------------------------------------------------------------
+           Prepay (1)           0 PSA         100 PSA         300 PSA         500 PSA         800 PSA
+  Optional Redemption        Call (N)        Call (N)        Call (N)        Call (N)        Call (N)
+- -----------------------------------------------------------------------------------------------------
+</TABLE>
+
+Yield Curve   Mat    6MO     2YR     3YR     5YR     10YR    30YR
+              ---   -----   -----   -----   -----   -----   -----
+              Yld   2.481   3.024   3.198   3.586   4.205   4.833
+
+This Structural Term Sheet, Collateral Term Sheet, or Computational Materials,
+as appropriate (the "material"), is for your private information and Banc of
+America Securities LLC (the "Underwriter") is not soliciting any action based
+upon it. This material is not to be construed as an offer to sell or the
+solicitation of any offer to buy any security in any jurisdiction where such an
+offer or solicitation would be illegal. This material is based on information
+that the Underwriter considers reliable, but the Underwriter does not represent
+that it is accurate or complete and it should not be relied upon as such. By
+accepting this material the recipient agrees that it will not distribute or
+provide the material to any other person. The information contained in this
+material may pertain to securities that ultimately are not sold. The information
+contained in this material may be based on assumptions regarding market
+conditions and other matters as reflected herein. The Underwriter makes no
+representation regarding the reasonableness of such assumptions or the
+likelihood that any of such assumptions will coincide with actual market
+conditions or events, and this material should not be relied upon for such
+purposes. The Underwriter and its affiliates, officers, directors, partners and
+employees, including persons involved in the preparation or issuance of this
+material may, from time to time, have long or short positions in, and buy and
+sell, the securities mentioned herein or derivatives thereof (including
+options). This material may be filed with the Securities and Exchange Commission
+(the "SEC") and incorporated by reference into an effective registration
+statement previously filed with the SEC under Rule 415 of the Securities Act of
+1933, including all cases where the material does not pertain to securities that
+are ultimately offered for sale pursuant to such registration statement
+Information contained in this material is current as of the date appering on
+this material only. Information in this material regarding any assets backing
+any securities discussed herein supersedes all prior information regarding such
+assets. Any information in the material, whether regarding the assets backing
+any securities discussed herein or otherwise, will be superseded by the
+information contained in any final prospectus for any securities actually sold
+to you. This material is furnished solely by the Underwriter and not by the
+issuer of the securities. The issuer of the securities has not prepared,
+reviewed or participated in the preparation of this material, is not responsible
+for the accuracy of this material and has not authorized the dissemination of
+this material. The Underwriter is acting as underwriter and not acting as agent
+for the issuer in connection with the proposed transaction.
+
+<PAGE>
+
+                                 BM04011 -- 1A6
+
+BANC OF AMERICA
+
+<TABLE>
+<S>       <C>             <C>             <C>          <C>      <C>        <C>       <C>
+Balance   $3,000,000.00   Delay           24           WAC(1)   5.87085    WAM(1)    359
+Coupon    5.50000         Dated           12/01/2004   NET(1)   5.617349   WALA(1)   1
+Settle    12/30/2004      First Payment   01/25/2005
+</TABLE>
+
+<TABLE>
+<CAPTION>
+- -----------------------------------------------------------------------------------------------------
+        Price                  1               2               3               4              5
+- -----------------------------------------------------------------------------------------------------
+                                Yield           Yield           Yield           Yield           Yield
+- -----------------------------------------------------------------------------------------------------
+<S>                     <C>             <C>             <C>             <C>             <C>
+            96-27.000           5.764           5.770           5.855           6.089           6.366
+            96-28.000           5.761           5.768           5.852           6.083           6.357
+            96-29.000           5.759           5.766           5.848           6.077           6.348
+            96-30.000           5.757           5.763           5.845           6.071           6.339
+            96-31.000           5.754           5.761           5.842           6.065           6.330
+            97-00.000           5.752           5.759           5.838           6.059           6.321
+            97-01.000           5.750           5.756           5.835           6.053           6.312
+            97-02.000           5.748           5.754           5.832           6.047           6.302
+            97-03.000           5.745           5.751           5.828           6.041           6.293
+            97-04.000           5.743           5.749           5.825           6.035           6.284
+            97-05.000           5.741           5.747           5.822           6.029           6.275
+            97-06.000           5.738           5.744           5.818           6.023           6.266
+            97-07.000           5.736           5.742           5.815           6.017           6.257
+
+Spread @ Center Price              92              92             145             226             290
+                  WAL          29.456          27.165          14.503           6.599           4.040
+             Mod Durn           14.03           13.58            9.66            5.36            3.51
+        Mod Convexity           3.030           2.777           1.228           0.349           0.149
+     Principal Window   Apr34 - Jul34   Jun31 - Nov32   May18 - Sep20   May11 - Oct11   Dec08 - Feb09
+- -----------------------------------------------------------------------------------------------------
+            LIBOR_1MO            2.41            2.41            2.41            2.41            2.41
+             CMT_10YR           4.184           4.184           4.184           4.184           4.184
+- -----------------------------------------------------------------------------------------------------
+           Prepay (1)           0 PSA         100 PSA         300 PSA         500 PSA         800 PSA
+  Optional Redemption        Call (N)        Call (N)        Call (N)        Call (N)        Call (N)
+- -----------------------------------------------------------------------------------------------------
+</TABLE>
+
+Yield Curve   Mat     6MO     2YR     3YR     5YR    10YR    30YR
+              ---   -----   -----   -----   -----   -----   -----
+              Yld   2.481   3.024   3.198   3.586   4.205   4.833
+
+This Structural Term Sheet, Collateral Term Sheet, or Computational Materials,
+as appropriate (the "material"), is for your private information and Banc of
+America Securities LLC (the "Underwriter") is not soliciting any action based
+upon it. This material is not to be construed as an offer to sell or
+solicitation of any offer to buy any security in any jurisdiction where such an
+offer or solicitation would be illegal. This material is based on information
+that the Underwriter considers reliable, but the Underwriter does not represent
+that it is accurate or complete and it should not be relied upon as such. By
+accepting this material the recipient agrees that it will not distribute or
+provide the material to any other person. The information contained in this
+material may pertain to securities that ultimately are not sold. The information
+contained in this material may be based on assumptions regarding market
+conditions and other matters as reflected herein. The Underwriter makes no
+representation regarding the reasonableness of such assumptions or the
+likelihood that any of such assumptions will coincide with actual market
+conditions or events, and this material should not be relied upon for such
+purposes. The Underwriter and its affiliates, officers, directors, partners and
+employees, including persons involved in the preparation or issuance of this
+material may, from time to time, have long or short positions in, and buy and
+sell, the securities mentioned herein or derivatives thereof (including
+options). This material may be filed with the Securities and Exchange Commission
+(the "SEC") and incorporated by reference into an effective registration
+statement previously filed with the SEC under Rule 415 of the Securities Act of
+1933, including all cases where the material does not pertain to securities that
+are ultimately offered for sale pursuant to such registration statement.
+Information contained in this material is current as of the date appearing on
+this material only. Information in this material regarding any assets backing
+any securities discussed herein supersedes all prior information regarding such
+assets. Any information in the material, whether regarding the assets backing
+any securities discussed herein or otherwise, will be superseded by the
+information contained in any final prospectus for any securities actually sold
+to you. This material is furnished solely by the Underwriter and not by the
+issuer of the securities. The issuer of the securities has not prepared,
+reviewed or participated in the preparation of this material, is not responsible
+for the accuracy of this material and has not authorized the dissemination of
+this material. The Underwriter is acting as underwriter and not acting as agent
+for the issuer in connection with the proposed transaction.
+
+<PAGE>
+
+                                 BM04011 -- 1A7
+
+BANC OF AMERICA
+
+<TABLE>
+<S>       <C>             <C>             <C>          <C>      <C>        <C>       <C>
+Balance   $4,000,000.00   Delay           24           WAC(1)   5.87085    WAM(1)    359
+Coupon    5.50000         Dated           12/01/2004   NET(1)   5.617349   WALA(1)   1
+Settle    12/30/2004      First Payment   01/25/2005
+</TABLE>
+
+<TABLE>
+<CAPTION>
+- -----------------------------------------------------------------------------------------------------
+        Price                 1               2               3               4               5
+- -----------------------------------------------------------------------------------------------------
+                                Yield           Yield           Yield           Yield           Yield
+- -----------------------------------------------------------------------------------------------------
+<S>                     <C>             <C>             <C>             <C>             <C>
+            96-27.000           5.763           5.765           5.810           6.046           6.334
+            96-28.000           5.760           5.763           5.807           6.040           6.325
+            96-29.000           5.758           5.761           5.804           6.035           6.316
+            96-30.000           5.756           5.758           5.801           6.029           6.308
+            96-31.000           5.754           5.756           5.798           6.024           6.299
+            97-00.000           5.751           5.754           5.795           6.018           6.290
+            97-01.000           5.749           5.751           5.793           6.013           6.281
+            97-02.000           5.747           5.749           5.790           6.007           6.272
+            97-03.000           5.745           5.747           5.787           6.002           6.264
+            97-04.000           5.742           5.744           5.784           5.996           6.255
+            97-05.000           5.740           5.742           5.781           5.991           6.246
+            97-06.000           5.738           5.740           5.779           5.985           6.237
+            97-07.000           5.735           5.738           5.776           5.980           6.229
+
+Spread @ Center Price              92              92             122             213             284
+                  WAL          29.766          28.883          19.408           7.331           4.232
+             Mod Durn           14.09           13.92           11.43            5.85            3.66
+        Mod Convexity           3.063           2.967           1.838           0.417           0.162
+     Principal Window   Jul34 - Dec34   Nov32 - Dec34   Sep20 - Dec34   Oct11 - Dec12   Feb09 - Apr09
+- -----------------------------------------------------------------------------------------------------
+            LIBOR_1MO            2.41            2.41            2.41            2.41            2.41
+             CMT_10YR           4.184           4.184           4.184           4.184           4.184
+- -----------------------------------------------------------------------------------------------------
+           Prepay (1)           0 PSA         100 PSA         300 PSA         500 PSA         800 PSA
+  Optional Redemption        Call (N)        Call (N)        Call (N)        Call (N)        Call (N)
+- -----------------------------------------------------------------------------------------------------
+</TABLE>
+
+Yield Curve   Mat     6MO     2YR     3YR     5YR    10YR    30YR
+              ---   -----   -----   -----   -----   -----   -----
+              Yld   2.481   3.024   3.198   3.586   4.205   4.833
+
+This Structural Term Sheet, Collateral Term Sheet, or Computational Materials,
+as appropriate (the "material"), is for your private information and Banc of
+America Securities LLC (the "Underwriter") is not soliciting any action based
+upon it. This material is not to be construed as an offer to sell or the
+solicitation of any offer to buy any security in any jurisdiction where such an
+offer or solicitation would be illegal. This material is based on information
+that the Underwriter considers reliable, but the Underwriter does not represent
+that it is accurate or complete and it should not be relied upon as such. By
+accepting this material the recipient agrees that it will not distribute or
+provide the material to any other person. The information contained in this
+material may pertain to securities that ultimately are not sold. The information
+contained in this material may be based on assumptions regarding market
+conditions and other matters as reflected herein. The Underwriter makes no
+representation regarding the reasonableness of such assumptions or the
+likelihood that any of such assumptions will coincide with actual market
+conditions or events, and this material should not be relied upon for such
+purposes. The Underwriter and its affiliates, officers, directors, partners and
+employees, including persons involved in the preparation or issuance of this
+material may, from time to time, have long or short positions in, and buy and
+sell, the securities mentioned herein or derivatives thereof (including
+options). This material may be filed with the Securities and Exchange Commission
+(the "SEC") and incorporated by reference into an effective registration
+statement previously filed with the SEC under Rule 415 of the Securities Act of
+1933, including all cases where the material does not pertain to securities that
+are ultimately offered for sale pursuant to such registration statement.
+Information contained in this material is current as of the date appearing on
+this material only. Information in this material regarding any assets backing
+any securities discussed herein supersedes all prior information regarding such
+assets. Any information in the material, whether regarding the assets backing
+any securities discussed herein or otherwise, will be superseded by the
+information contained in any final prospectus for any securities actually sold
+to you. This material is furnished solely by the Underwriter and not by the
+issuer of the securities. The issuer of the securities has not prepared,
+reviewed or participated in the preparation of this material, is not responsible
+for the accuracy of this material and has not authorized the dissemination of
+this material. The Underwriter is acting as underwriter and not acting as agent
+for the issuer in connection with the proposed transaction.
+
+<PAGE>
+
+                                 BM04011 -- 1A8
+
+BANC OF AMERICA
+
+<TABLE>
+<S>       <C>             <C>             <C>          <C>      <C>        <C>       <C>
+Balance   $7,000,000.00   Delay           24           WAC(1)   5.87085    WAM(1)    359
+Coupon    5.50000         Dated           12/01/2004   NET(1)   5.617349   WALA(1)   1
+Settle    12/30/2004      First Payment   01/25/2005
+</TABLE>
+
+<TABLE>
+<CAPTION>
+- -----------------------------------------------------------------------------------------------------
+        Price                 1               2               3               4               5
+- -----------------------------------------------------------------------------------------------------
+                                Yield           Yield           Yield           Yield           Yield
+- -----------------------------------------------------------------------------------------------------
+<S>                     <C>             <C>             <C>             <C>             <C>
+           100-09.250           5.508           5.497           5.480           5.468           5.418
+           100-10.250           5.505           5.494           5.476           5.463           5.411
+           100-11.250           5.503           5.490           5.472           5.459           5.404
+           100-12.250           5.500           5.487           5.468           5.454           5.397
+           100-13.250           5.497           5.484           5.464           5.450           5.390
+           100-14.250           5.495           5.481           5.460           5.445           5.384
+           100-15.250           5.492           5.478           5.456           5.441           5.377
+           100-16.250           5.490           5.475           5.452           5.436           5.370
+           100-17.250           5.487           5.471           5.449           5.432           5.363
+           100-18.250           5.484           5.468           5.445           5.427           5.356
+           100-19.250           5.482           5.465           5.441           5.423           5.349
+           100-20.250           5.479           5.462           5.437           5.418           5.342
+           100-21.250           5.476           5.459           5.433           5.414           5.335
+
+Spread @ Center Price             131             129             127             126             119
+                  WAL          20.948          15.656          11.046           9.059           5.330
+             Mod Durn           11.81            9.82            7.85            6.85            4.50
+        Mod Convexity           2.073           1.417           0.852           0.618           0.248
+     Principal Window   Jan10 - Dec34   Jan10 - Dec34   Jan10 - Dec34   Jan10 - Dec34   Apr09 - Nov12
+
+- -----------------------------------------------------------------------------------------------------
+            LIBOR_1MO            2.41            2.41            2.41            2.41            2.41
+             CMT_10YR           4.184           4.184           4.184           4.184           4.184
+- -----------------------------------------------------------------------------------------------------
+           Prepay (1)           0 PSA         100 PSA         300 PSA         500 PSA         800 PSA
+  Optional Redemption        Call (N)        Call (N)        Call (N)        Call (N)        Call (N)
+- -----------------------------------------------------------------------------------------------------
+</TABLE>
+
+This Structural Term Sheet, Collateral Term Sheet, or Computational Materials,
+as appropriate (the "material"), is for your private information and Banc of
+America Securities LLC (the "Underwriter") is not soliciting any action based
+upon it. This material is not to be construed as an offer to sell or the
+solicitation of any offer to buy any security in any jurisdiction where such an
+offer or solicitation would be illegal. This material is based on information
+that the Underwriter considers reliable, but the Underwriter does not represent
+that it is accurate or complete and it should not be relied upon as such. By
+accepting this material the recipient agrees that it will not distribute or
+provide the material to any other person. The information contained in this
+material may pertain to securities that ultimately are not sold. The information
+contained in this material may be based on assumptions regarding market
+conditions and other matters as reflected herein. The Underwriter makes no
+representation regarding the reasonableness of such assumptions or the
+likelihood that any of such assumptions will coincide with actual market
+conditions or events, and this material should not be relied upon for such
+purposes. The Underwriter and its affiliates, officers, directors, partners and
+employees, including persons involved in the preparation or issuance of this
+material may, from time to time, have long or short positions in, and buy and
+sell, the securities mentioned herein or derivatives thereof (including
+options). This material may be filed with the Securities and Exchange Commission
+(the "SEC") and incorporated by reference into an effective registration
+statement previously filed with the SEC under Rule 415 of the Securities Act of
+1933, including all cases where the material does not pertain to securities that
+are ultimately offered for sale pursuant to such registration statement.
+Information contained in this material is current as of the date appearing on
+this material only. Information in this material regarding any assets backing
+any securities discussed herein supersedes all prior information regarding such
+assets. Any information in the material, whether regarding the assets backing
+any securities discussed herein or otherwise, will be superseded by the
+information contained in any final prospectus for any securities actually sold
+to you. This material is furnished solely by the Underwriter and not by the
+issuer of the securities. The issuer of the securities has not prepared,
+reviewed or participated in the preparation of this material, is not responsible
+for the accuracy of this material and has not authorized the dissemination of
+this material. The Underwriter is acting as underwriter and not acting as agent
+for the issuer in connection with the proposed transaction.
+
+<PAGE>
+
+                                 BM04011 -- 1A1
+
+BANC OF AMERICA
+
+<TABLE>
+<S>       <C>              <C>             <C>          <C>      <C>        <C>       <C>
+Balance   $19,758,000.00   Delay           24           WAC(1)   5.87085    WAM(1)    359
+Coupon    5.50000          Dated           12/01/2004   NET(1)   5.617349   WALA(1)   1
+Settle    12/30/2004       First Payment   01/25/2005
+</TABLE>
+
+<TABLE>
+<CAPTION>
+- -----------------------------------------------------------------------------------------------------
+        Price                 1               2               3               4               5
+- -----------------------------------------------------------------------------------------------------
+                                Yield           Yield           Yield           Yield           Yield
+- -----------------------------------------------------------------------------------------------------
+<S>                     <C>             <C>             <C>             <C>             <C>
+           100-01.000           5.530           5.523           5.513           5.505           5.475
+           100-02.000           5.527           5.520           5.509           5.501           5.468
+           100-03.000           5.524           5.517           5.505           5.496           5.461
+           100-04.000           5.522           5.513           5.501           5.492           5.454
+           100-05.000           5.519           5.510           5.497           5.487           5.447
+           100-06.000           5.516           5.507           5.493           5.483           5.440
+           100-07.000           5.514           5.504           5.489           5.478           5.434
+           100-08.000           5.511           5.501           5.485           5.474           5.427
+           100-09.000           5.509           5.498           5.481           5.469           5.420
+           100-10.000           5.506           5.494           5.477           5.465           5.413
+           100-11.000           5.503           5.491           5.473           5.460           5.406
+           100-12.000           5.501           5.488           5.469           5.455           5.399
+           100-13.000           5.498           5.485           5.465           5.451           5.392
+
+Spread @ Center Price             133             132             130             129             125
+                  WAL          20.948          15.656          11.046           9.059           5.330
+             Mod Durn           11.79            9.81            7.85            6.85            4.50
+        Mod Convexity           2.069           1.414           0.850           0.617           0.248
+     Principal Window   Jan10 - Dec34   Jan10 - Dec34   Jan10 - Dec34   Jan10 - Dec34   Apr09 - Nov12
+
+- -----------------------------------------------------------------------------------------------------
+            LIBOR_1MO            2.41            2.41            2.41            2.41            2.41
+             CMT_10YR           4.184           4.184           4.184           4.184           4.184
+- -----------------------------------------------------------------------------------------------------
+           Prepay (1)           0 PSA         100 PSA         300 PSA         500 PSA         800 PSA
+  Optional Redemption        Call (N)        Call (N)        Call (N)        Call (N)        Call (N)
+- -----------------------------------------------------------------------------------------------------
+</TABLE>
+
+This Structural Term Sheet, Collateral Term Sheet, or Computational Materials,
+as appropriate (the "material"), is for your private information and Banc of
+America Securities LLC (the"Underwriter") is not soliciting any action based
+upon it. This material is not to be construed as an offer to sell or the
+solicitation of any offer to buy any security in any jurisdiction where such an
+offer or solicitation would be illegal. This material is based on information
+that the Underwriter considers reliable, but the Underwriter does not represent
+that it is accurate or complete and it should not be relied upon as such. By
+accepting this material the recipient agrees that it will not distribute or
+provide the material to any other person. The information contained in this
+material may pertain to securities that ultimately are not sold. The information
+contained in this material may be based on assumptions regarding market
+conditions and other matters as reflected herein. The Underwriter makes no
+representation regarding the reasonableness of such assumptions or the
+likelihood that any of such assumptions will coincide with actual market
+conditions or events, and this material should not be relied upon for such
+purposes. The Underwriter and its affiliates, officers, directors, partners and
+employees, including persons involved in the preparation or issuance of this
+material may, from time to time, have long or short positions in, and buy and
+sell, the securities mentioned herein or derivatives thereof (including
+options). This material may be filed with the Securities and Exchange Commission
+(the "SEC") and incorporated by reference into an effective registration
+statement previously filed with the SEC under Rule 415 of the Securities Act of
+1933, including all cases where the material does not pertain to securities that
+are ultimately offered for sale pursuant to such registration statement.
+Information contained in this material is current as of the date appearing on
+this material only. Information in this material regarding any assets backing
+any securities discussed herein supersedes all prior information regarding such
+assets. Any information in the material, whether regarding the assets backing
+any securities discussed herein or otherwise, will be superseded by the
+information contained in any final prospectus for any securities actually sold
+to you. This material is furnished solely by the Underwriter and not by the
+issuer of the securities. The issuer of the securities has not prepared,
+reviewed or participated in the preparation of this material, is not responsible
+for the accuracy of this material and has not authorized the dissemination of
+this material. The Underwriter is acting as underwriter and not acting as agent
+for the issuer in connection with the proposed transaction.
+
+<PAGE>
+
+                                 BM04011 -- 1A10
+
+BANC OF AMERICA
+
+<TABLE>
+<S>       <C>              <C>             <C>          <C>      <C>        <C>       <C>
+Balance   $24,486,000.00   Delay           24           WAC(1)   5.87085    WAM(1)    359
+Coupon    5.25000          Dated           12/01/2004   NET(1)   5.617349   WALA(1)   1
+Settle    12/30/2004       First Payment   01/25/2005
+</TABLE>
+
+<TABLE>
+<CAPTION>
+- ------------------------------------------------------------------------------------------------------
+        Price                 1                2               3               4               5
+- ------------------------------------------------------------------------------------------------------
+                                Yield            Yield           Yield           Yield           Yield
+- ------------------------------------------------------------------------------------------------------
+<S>                     <C>              <C>             <C>             <C>             <C>
+           100-16.500           5.185            5.185           5.151           5.086           5.006
+           100-17.500           5.181            5.181           5.146           5.079           4.995
+           100-18.500           5.177            5.177           5.140           5.071           4.984
+           100-19.500           5.172            5.172           5.134           5.063           4.973
+           100-20.500           5.168            5.168           5.129           5.055           4.962
+           100-21.500           5.164            5.164           5.123           5.047           4.951
+           100-22.500           5.159            5.159           5.118           5.039           4.940
+           100-23.500           5.155            5.155           5.112           5.031           4.930
+           100-24.500           5.150            5.150           5.106           5.023           4.919
+           100-25.500           5.146            5.146           5.101           5.015           4.908
+           100-26.500           5.142            5.142           5.095           5.007           4.897
+           100-27.500           5.137            5.137           5.090           4.999           4.886
+           100-28.500           5.133            5.133           5.084           4.991           4.876
+
+Spread @ Center Price              99               99             130             154             169
+                  WAL           9.646            9.646           6.834           4.509           3.179
+             Mod Durn            7.07             7.07            5.52            3.90            2.85
+        Mod Convexity           0.748            0.748           0.408           0.194           0.104
+     Principal Window   Jan05 - Sep21    Jan05 - Sep21   Jan05 - Nov13   Jan05 - Apr10   Jan05 - Jul08
+- ------------------------------------------------------------------------------------------------------
+LIBOR_1MO                        2.41             2.41            2.41            2.41            2.41
+CMT_10YR                        4.184            4.184           4.184           4.184           4.184
+- ------------------------------------------------------------------------------------------------------
+Prepay (1)                      0 PSA          100 PSA         300 PSA         500 PSA         800 PSA
+Optional Redemption          Call (N)         Call (N)        Call (N)        Call (N)        Call (N)
+- ------------------------------------------------------------------------------------------------------
+</TABLE>
+
+Yield Curve   Mat     6MO     2YR     3YR     5YR    10YR    30YR
+              ---   -----   -----   -----   -----   -----   -----
+              Yld   2.481   3.024   3.198   3.586   4.205   4.833
+
+This Structural Term Sheet, Collateral Term Sheet, or Computational Materials,
+as appropriate (the "material"), is for your private information and Banc of
+America Securities LLC (the "Underwriter") is not soliciting any action based
+upon it. This material is not to be construed as an offer to sell or the
+solicitation of any offer to buy any security in any jurisdiction where such an
+offer or solicitation would be illegal. This material is based on information
+that the Underwriter considers reliable, but the Underwriter does not represent
+that it is accurate or complete and it should not be relied upon as such. By
+accepting this material the recipient agrees that it will not distribute or
+provide the material to any other person. The information contained in this
+material may pertain to securities that ultimately are not sold. The information
+contained in this material may be based on assumptions regarding market
+conditions and other matters as reflected herein. The Underwriter makes no
+representation regarding the reasonableness of such assumptions or the
+likelihood that any of such assumptions will coincide with actual market
+conditions or events, and this material should not be relied upon for such
+purposes. The Underwriter and its affiliates, officers, directors, partners and
+employees, including persons involved in the preparation or issuance of this
+material may, from time to time, have long or short positions in, and buy and
+sell, the securities mentioned herein or derivatives thereof (including
+options). This material may be filed with the Securities and Exchange Commission
+(the "SEC") and incorporated by reference into an effective registration
+statement previously filed with the SEC under Rule 415 of the Securities Act of
+1933, including all cases where the material does not pertain to securities that
+are ultimately offered for sale pursuant to such registration statement.
+Information contained in this material is current as of the date appearing on
+this material only. Information in this material regarding any assets backing
+any securities discussed herein supersedes all prior information regarding such
+assets. Any information in the material, whether regarding the assets backing
+any securities discussed herein or otherwise, will be superseded by the
+information contained in any final prospectus for any securities actually sold
+to you. This material is furnished solely by the Underwriter and not by the
+issuer of the securities. The issuer of the securities has not prepared,
+reviewed or participated in the preparation of this material, is not responsible
+for the accuracy of this material and has not authorized the dissemination of
+this material. The Underwriter is acting as underwriter and not acting as agent
+for the issuer in connection with the proposed transaction.
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

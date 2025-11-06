@@ -1,0 +1,732 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ C/CZUD00T5ZGtmjob6WGa4MsInVWmbDUlBBMudkVR3ZHHACLXQeVJLpsTNUL28TM
+ vYKog7m2KLBl7A3M37sLzg==
+
+<SEC-DOCUMENT>0001058926-04-000009.txt : 20041220
+<SEC-HEADER>0001058926-04-000009.hdr.sgml : 20041220
+<ACCEPTANCE-DATETIME>20041220155243
+ACCESSION NUMBER:		0001058926-04-000009
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20041215
+ITEM INFORMATION:		Other Events
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20041220
+DATE AS OF CHANGE:		20041220
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			RURAL ELECTRIC COOPERATIVE GRANTOR TRUST KEPCO SERIES 1997
+		CENTRAL INDEX KEY:			0001058926
+		STANDARD INDUSTRIAL CLASSIFICATION:	MISCELLANEOUS BUSINESS CREDIT INSTITUTION [6159]
+		IRS NUMBER:				367233686
+		STATE OF INCORPORATION:			NY
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-25029-01
+		FILM NUMBER:		041214153
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2201 COOPERATIVE WAY
+		CITY:			HERNDON
+		STATE:			VA
+		ZIP:			20171
+		BUSINESS PHONE:		7037096700
+
+	MAIL ADDRESS:	
+		STREET 1:		2201 COOPERATIVE WAY
+		CITY:			HERNDON
+		STATE:			VA
+		ZIP:			20171
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>dec20048k.htm
+<TEXT>
+<html>
+<head>
+<title>Form 8-K - December 20, 2004</title>
+</head>
+<body>
+<center>
+<table BORDER="0" CELLSPACING="0" CELLPADDING="0" WIDTH="662" height="1637">
+  <tr>
+    <td COLSPAN="10" height="21">&nbsp;</td>
+  </tr>
+  <tr>
+    <td COLSPAN="10" height="17"><b><font SIZE="2">
+      <p ALIGN="CENTER">UNITED STATES</font></b></td>
+  </tr>
+  <tr>
+    <td COLSPAN="10" height="17"><b><font SIZE="2">
+      <p ALIGN="CENTER">SECURITIES AND EXCHANGE COMMISSION</font></b></td>
+  </tr>
+  <tr>
+    <td COLSPAN="10" height="17"><b><font SIZE="2">
+      <p ALIGN="CENTER">Washington, D.C. 20549</font></b></td>
+  </tr>
+  <tr>
+    <td COLSPAN="10" height="21">&nbsp;</td>
+  </tr>
+  <tr>
+    <td COLSPAN="10" height="17"><b><font SIZE="2">
+      <p ALIGN="CENTER">FORM 8-K</font></b></td>
+  </tr>
+  <tr>
+    <td COLSPAN="10" height="21">&nbsp;</td>
+  </tr>
+  <tr>
+    <td COLSPAN="10" height="17"><font SIZE="2">
+      <p ALIGN="CENTER">CURRENT REPORT</font></td>
+  </tr>
+  <tr>
+    <td COLSPAN="10" height="21">&nbsp;</td>
+  </tr>
+  <tr>
+    <td COLSPAN="10" height="17"><font SIZE="2">
+      <p ALIGN="CENTER">Pursuant to Section 13 or 15(d) of the</font></td>
+  </tr>
+  <tr>
+    <td COLSPAN="10" height="17"><font SIZE="2">
+      <p ALIGN="CENTER">Securities Exchange Act of 1934</font></td>
+  </tr>
+  <tr>
+    <td COLSPAN="10" height="21">&nbsp;</td>
+  </tr>
+  <tr>
+    <td COLSPAN="10" height="17"><font SIZE="2">
+      <p ALIGN="CENTER">Date of Report (Date of earliest event reported)</font></td>
+  </tr>
+  <tr>
+    <td COLSPAN="10" height="17"><b><font SIZE="2">
+      <p ALIGN="CENTER">December 15, 2004</font></b></td>
+  </tr>
+  <tr>
+    <td COLSPAN="10" height="21">&nbsp;</td>
+  </tr>
+  <tr>
+    <td COLSPAN="10" height="17"><b><font SIZE="2">
+      <p ALIGN="CENTER">RURAL ELECTRIC COOPERATIVE GRANTOR TRUST (KEPCO) SERIES
+      1997</font></b></td>
+  </tr>
+  <tr>
+    <td COLSPAN="10" height="17"><font SIZE="2">
+      <p ALIGN="CENTER">(Exact name of registrant as specified in its charter)</font></td>
+  </tr>
+  <tr>
+    <td COLSPAN="10" height="21">&nbsp;</td>
+  </tr>
+  <tr>
+    <td WIDTH="34%" COLSPAN="7" height="21">&nbsp;</td>
+    <td WIDTH="32%" COLSPAN="2" height="21">&nbsp;</td>
+    <td WIDTH="33%" height="21">&nbsp;</td>
+  </tr>
+  <tr>
+    <td WIDTH="34%" COLSPAN="7" height="17"><u><font SIZE="2">
+      <p ALIGN="CENTER">New York</font></u></td>
+    <td WIDTH="32%" COLSPAN="2" height="17"><u><font SIZE="2">
+      <p ALIGN="CENTER">333-25029</font></u></td>
+    <td WIDTH="33%" height="17"><u><font SIZE="2">
+      <p ALIGN="CENTER">36-7233686</font></u></td>
+  </tr>
+  <tr>
+    <td WIDTH="34%" COLSPAN="7" height="17"><font SIZE="2">
+      <p ALIGN="CENTER">(State or other jurisdic-</font></td>
+    <td WIDTH="32%" COLSPAN="2" height="17"><font SIZE="2">
+      <p ALIGN="CENTER">(Commission File</font></td>
+    <td WIDTH="33%" height="17"><font SIZE="2">
+      <p ALIGN="CENTER">(IRS Employer</font></td>
+  </tr>
+  <tr>
+    <td WIDTH="34%" COLSPAN="7" height="17"><font SIZE="2">
+      <p ALIGN="CENTER">tion of incorporation)</font></td>
+    <td WIDTH="32%" COLSPAN="2" height="17"><font SIZE="2">
+      <p ALIGN="CENTER">Number)</font></td>
+    <td WIDTH="33%" height="17"><font SIZE="2">
+      <p ALIGN="CENTER">Identification No.)</font></td>
+  </tr>
+  <tr>
+    <td WIDTH="67%" COLSPAN="9" height="21">&nbsp;</td>
+    <td WIDTH="33%" height="21">&nbsp;</td>
+  </tr>
+  <tr>
+    <td WIDTH="67%" COLSPAN="9" height="21"><font SIZE="2">
+      <p>National Rural Utilities Cooperative</font></td>
+    <td WIDTH="33%" height="21">&nbsp;</td>
+  </tr>
+  <tr>
+    <td WIDTH="67%" COLSPAN="9" height="1">
+        <font SIZE="2">
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        Finance Corporation
+      </font></td>
+    <td WIDTH="33%" height="1"></td>
+  </tr>
+  <tr>
+    <td WIDTH="67%" COLSPAN="9" height="21"><font SIZE="2">
+      <p>Woodland Park</font></td>
+    <td WIDTH="33%" height="21">&nbsp;</td>
+  </tr>
+  <tr>
+    <td WIDTH="67%" COLSPAN="9" height="17"><u><font SIZE="2">
+      <p>2201 Cooperative Way, Herndon, VA</font></u></td>
+    <td WIDTH="33%" height="17"><u><font SIZE="2">
+      <p ALIGN="CENTER">20171-3025</font></u></td>
+  </tr>
+  <tr>
+    <td WIDTH="67%" COLSPAN="9" height="17"><font SIZE="2">
+      <p>(Address of principal executive offices)</font></td>
+    <td WIDTH="33%" height="17"><font SIZE="2">
+      <p ALIGN="CENTER">(ZIP Code)</font></td>
+  </tr>
+  <tr>
+    <td WIDTH="67%" COLSPAN="9" height="21">&nbsp;</td>
+    <td WIDTH="33%" height="21">&nbsp;</td>
+  </tr>
+  <tr>
+    <td WIDTH="67%" COLSPAN="9" height="17"><font SIZE="2">
+      <p>Registrant's telephone number, including area code:</font></td>
+    <td WIDTH="33%" height="17"><u><font SIZE="2">
+      <p ALIGN="CENTER">(703) 709-6700</font></u></td>
+  </tr>
+  <tr>
+    <td WIDTH="67%" COLSPAN="9" height="21">&nbsp;</td>
+    <td WIDTH="33%" height="21">&nbsp;</td>
+  </tr>
+  <tr>
+    <td COLSPAN="10" height="17">
+      <p align="center"><font SIZE="2">
+      (Former name or former address, if changed since last
+      report)</font></td>
+  </tr>
+  <tr>
+    <td COLSPAN="10" height="21">
+      <p ALIGN="CENTER">&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td COLSPAN="10" height="217">
+      <blockquote>
+        <font SIZE="2">
+        <p>Check the appropriate box below if the Form 8-K filing is intended to
+        simultaneously satisfy the filing obligation of the registrant under any
+        of the following provisions (see General Instruction A.2. below):</p>
+        <p>[ ] Written communications pursuant to Rule 425 under the Securities
+        Act (17 CFR 230.425)</p>
+        <p>[ ] Soliciting material pursuant to Rule 14a-12 under the Exchange
+        Act (17 CFR 240.14a-12)</p>
+        <p>[ ] Pre-commencement communications pursuant to Rule 14d-2(b) under
+        the Exchange Act (17 CFR 240.14d-2(b))</p>
+        <p>[ ] Pre-commencement communications pursuant to Rule 13e-4(c) under
+        the Exchange Act (17 CFR 240.13e-4(c))
+        </blockquote>
+      </font></td>
+  </tr>
+  <tr>
+    <td COLSPAN="10" height="21"><font SIZE="2">
+      <p></font></td>
+  </tr>
+  <tr>
+    <td COLSPAN="10" height="21"><font SIZE="2">
+      <HR>
+      </font></td>
+  </tr>
+  <tr>
+    <td COLSPAN="10" height="21">
+      <p>&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td WIDTH="13%" COLSPAN="2" height="17"><font SIZE="2">
+      <p>Item 8.01.</font></td>
+    <td WIDTH="87%" COLSPAN="8" height="17"><font SIZE="2">
+      <p>Other Events</font></td>
+  </tr>
+  <tr>
+    <td COLSPAN="10" height="17"><font SIZE="2">
+      <p>&nbsp;&nbsp;&nbsp;&nbsp;</font></td>
+  </tr>
+  <tr>
+    <td COLSPAN="10" height="17"><font SIZE="2">
+      <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></td>
+  </tr>
+  <tr>
+    <td COLSPAN="10" height="32"><font SIZE="2">
+      <p>In accordance with Section 5.1 of the First Amendment to the Trust
+      Agreement, a semi-annual report dated December 15, 2004 was sent to
+      certificateholders. A copy of the report
+      appears as an exhibit to this filing.</font></p>
+    </td>
+  </tr>
+  <tr>
+    <td COLSPAN="10" height="17"><font SIZE="2">
+      <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></td>
+  </tr>
+  <tr>
+    <td COLSPAN="10" height="40"><font SIZE="2">
+      <HR><DIV STYLE='PAGE-BREAK-BEFORE:ALWAYS'>
+      </font></td>
+  </tr>
+  <tr>
+    <td COLSPAN="10" height="21"><font SIZE="2">
+      <p></font></td>
+  </tr>
+  <tr>
+    <td WIDTH="11%" height="17"><font SIZE="2">
+      <p>Item 9.01.</font></td>
+    <td WIDTH="89%" COLSPAN="9" height="17"><font SIZE="2">
+      <p>Financial Statements and Exhibits</font></td>
+  </tr>
+  <tr>
+    <td COLSPAN="10" height="21"><font SIZE="2">
+      <p></font></td>
+  </tr>
+  <tr>
+    <td WIDTH="17%" COLSPAN="3" height="21">&nbsp;</td>
+    <td WIDTH="83%" COLSPAN="7" height="21"><font SIZE="2">
+      <p>(c) Exhibits</font></td>
+  </tr>
+  <tr>
+    <td WIDTH="17%" COLSPAN="3" height="21"><font SIZE="2">
+      <p></font></td>
+    <td WIDTH="83%" COLSPAN="7" height="21"><font SIZE="2">
+      <p></font></td>
+  </tr>
+  <tr>
+    <td WIDTH="17%" COLSPAN="3" height="21">&nbsp;</td>
+    <td WIDTH="83%" COLSPAN="7" height="21"><font SIZE="2">
+      <p>The following exhibit is filed herewith:</font></td>
+  </tr>
+  <tr>
+    <td WIDTH="17%" COLSPAN="3" height="21">&nbsp;</td>
+    <td WIDTH="5%" height="21">&nbsp;</td>
+    <td WIDTH="6%" COLSPAN="2" height="21"><font SIZE="2">
+      <p>20.1</font></td>
+    <td WIDTH="71%" COLSPAN="4" height="21"><font SIZE="2">
+      <p>Semi-annual Report to Certificateholders dated December 15, 2004.</font></td>
+  </tr>
+  <tr>
+    <td COLSPAN="10" height="21">
+      <p ALIGN="CENTER">&nbsp;</td>
+  </tr>
+  <tr>
+    <td COLSPAN="10" height="21">
+      <p ALIGN="CENTER">&nbsp;</td>
+  </tr>
+  <tr>
+    <td COLSPAN="10" height="21">
+      <p ALIGN="CENTER">&nbsp;</td>
+  </tr>
+  <tr>
+    <td COLSPAN="10" height="17"><b><u><font SIZE="2">
+      <p ALIGN="CENTER">SIGNATURES</font></u></b></td>
+  </tr>
+  <tr>
+    <td COLSPAN="10" height="21"><font SIZE="2">
+      <p ALIGN="CENTER"></font></td>
+  </tr>
+  <tr>
+    <td COLSPAN="10" height="21"><font SIZE="2">
+      <p ALIGN="CENTER"></font></td>
+  </tr>
+  <tr>
+    <td COLSPAN="10" height="32"><font SIZE="2">
+      <p>Pursuant to the requirements of the Securities Exchange Act of 1934,
+      the registrant has duly caused this report to be signed on its behalf by
+      the undersigned hereunto duly authorized.</font></td>
+  </tr>
+  <tr>
+    <td COLSPAN="10" height="21"><font SIZE="2">
+      <p ALIGN="CENTER"></font></td>
+  </tr>
+  <tr>
+    <td COLSPAN="10" height="21"><font SIZE="2">
+      <p ALIGN="CENTER"></font></td>
+  </tr>
+  <tr>
+    <td COLSPAN="10" height="21"><font SIZE="2">
+      <p ALIGN="CENTER"></font></td>
+  </tr>
+  <tr>
+    <td COLSPAN="10" height="21"><font SIZE="2">
+      <p ALIGN="CENTER"></font></td>
+  </tr>
+  <tr>
+    <td COLSPAN="10" height="21">&nbsp;</td>
+  </tr>
+  <tr>
+    <td COLSPAN="10" height="36">
+      <blockquote>
+        <blockquote>
+          <font SIZE="2">
+          <p>&nbsp;
+          </blockquote>
+        </blockquote>
+      </font></td>
+  </tr>
+  <tr>
+    <td WIDTH="26%" COLSPAN="5" height="21">&nbsp;</td>
+    <td WIDTH="74%" COLSPAN="5" height="21"><font SIZE="2">
+      <p>NATIONAL RURAL UTILITIES COOPERATIVE</font></td>
+  </tr>
+  <tr>
+    <td WIDTH="26%" COLSPAN="5" height="36">&nbsp;</td>
+    <td WIDTH="74%" COLSPAN="5" height="36">
+      <blockquote>
+        <blockquote>
+          <font SIZE="2">
+          <p>FINANCE CORPORATION
+          </blockquote>
+        </blockquote>
+      </font></td>
+  </tr>
+  <tr>
+    <td WIDTH="26%" COLSPAN="5" height="21"><font SIZE="2">
+      <p></font></td>
+    <td WIDTH="74%" COLSPAN="5" height="21"><font FACE="Courier New" SIZE="2">
+      <p></font></td>
+  </tr>
+  <tr>
+    <td WIDTH="26%" COLSPAN="5" height="21"><font SIZE="2">
+      <p></font></td>
+    <td WIDTH="32%" COLSPAN="3" height="21"><font SIZE="2">
+      <p><u>/s/ Steven L. Lilly&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u></font></td>
+    <td WIDTH="42%" COLSPAN="2" height="21">&nbsp;</td>
+  </tr>
+  <tr>
+    <td WIDTH="26%" COLSPAN="5" height="32">&nbsp;</td>
+    <td WIDTH="32%" COLSPAN="3" height="32"><font SIZE="2">
+      <p>Steven L. Lilly, Chief Financial Officer</font></td>
+    <td WIDTH="42%" COLSPAN="2" height="32">&nbsp;</td>
+  </tr>
+  <tr>
+    <td WIDTH="26%" COLSPAN="5" height="21"><font SIZE="2">
+      <p></font></td>
+    <td WIDTH="74%" COLSPAN="5" height="21"><font FACE="Courier New" SIZE="2">
+      <p></font></td>
+  </tr>
+  <tr>
+    <td WIDTH="26%" COLSPAN="5" height="21"><font SIZE="2">
+      <p></font></td>
+    <td WIDTH="74%" COLSPAN="5" height="21"><font FACE="Courier New" SIZE="2">
+      <p></font></td>
+  </tr>
+  <tr>
+    <td WIDTH="26%" COLSPAN="5" height="21"><font SIZE="2">
+      <p>December 20, 2004</font></td>
+    <td WIDTH="74%" COLSPAN="5" height="21">&nbsp;</td>
+  </tr>
+</table>
+<HR><DIV STYLE='PAGE-BREAK-BEFORE:ALWAYS'>
+</center>
+<div align="center">
+  <center>
+<table BORDER="0" CELLSPACING="0" CELLPADDING="0" WIDTH="655">
+  <tr>
+    <td COLSPAN="7" width="653"><font SIZE="2">
+      <p ALIGN="right">Exhibit 20.1</font></td>
+  </tr>
+  <tr>
+    <td COLSPAN="7" width="653"><font SIZE="2">
+      <p>To the holders of:</font></td>
+  </tr>
+  <tr>
+    <td COLSPAN="7" width="653"><font SIZE="2">
+      <p></font></td>
+  </tr>
+  <tr>
+    <td COLSPAN="7" width="653"><font SIZE="2">
+      <p>RURAL ELECTRIC COOPERATIVE GRANTOR TRUST (KEPCO) SERIES 1997</font></td>
+  </tr>
+  <tr>
+    <td COLSPAN="7" width="653"><font SIZE="2">
+      <p>CUSIP: 781681 AU 5</font></td>
+  </tr>
+  <tr>
+    <td COLSPAN="7" width="653"><font SIZE="2">
+      <p>&nbsp;&nbsp;&nbsp;</font></td>
+  </tr>
+  <tr>
+    <td COLSPAN="7" width="653"><font SIZE="2">
+      <p>The following information has been furnished to us, as your Trustee, by
+      National Rural Utilities Cooperative Finance Corporation (the &quot;Servicer&quot;),
+      pursuant to Section 5.1 of the First Amendment to the Trust Agreement
+      dated as amended November 18, 1997.</font></td>
+  </tr>
+  <tr>
+    <td COLSPAN="7" width="653"><font SIZE="2">
+      <p>&nbsp;&nbsp;&nbsp;</font></td>
+  </tr>
+  <tr>
+    <td WIDTH="458" COLSPAN="3"><font SIZE="2">
+      <p>Certificate Payment Date:</font></td>
+    <td WIDTH="116" COLSPAN="3"><font SIZE="2">
+      <p ALIGN="CENTER"><u>December 15, 2004</u></font></td>
+    <td WIDTH="75">&nbsp;</td>
+  </tr>
+  <tr>
+    <td WIDTH="458" COLSPAN="3"><font SIZE="2">
+      <p>&nbsp;&nbsp;</font></td>
+    <td WIDTH="17" align="right">
+      <p ALIGN="CENTER">&nbsp;</td>
+    <td WIDTH="97">
+      <p ALIGN="CENTER">&nbsp;</td>
+    <td WIDTH="75" COLSPAN="2"><font SIZE="2">
+      <p ALIGN="CENTER">&nbsp;</font></td>
+  </tr>
+  <tr>
+    <td WIDTH="458" COLSPAN="3"><font SIZE="2">
+      <p>Distribution to Certificateholders</font></td>
+    <td WIDTH="17" align="right">
+      <p ALIGN="right"><font size="2">$</font></td>
+    <td WIDTH="97" align="right"><font SIZE="2">
+      <p ALIGN="right">2,197,578.00</font></td>
+    <td WIDTH="75" COLSPAN="2">&nbsp;</td>
+  </tr>
+  <tr>
+    <td WIDTH="458" COLSPAN="3">&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td WIDTH="17" align="right">&nbsp;&nbsp;</td>
+    <td WIDTH="97" align="right">
+      <p ALIGN="right"><font size="2">&nbsp;</font></td>
+    <td WIDTH="75" COLSPAN="2">&nbsp;</td>
+  </tr>
+  <tr>
+    <td WIDTH="458" COLSPAN="3"><font SIZE="2">
+      <p>Allocable to Principal</font></td>
+    <td WIDTH="17" align="right"><font SIZE="2">
+      <p ALIGN="right">$</font></td>
+    <td WIDTH="97" align="right"><font SIZE="2">
+      <p ALIGN="right">1,900,000.00</font></td>
+    <td WIDTH="75" COLSPAN="2">&nbsp;</td>
+  </tr>
+  <tr>
+    <td WIDTH="458" COLSPAN="3"><font SIZE="2">
+      <p>Allocable to Interest</font></td>
+    <td WIDTH="17" align="right"><font SIZE="2">
+      <p ALIGN="right">$</font></td>
+    <td WIDTH="97" align="right"><font SIZE="2">
+      <p ALIGN="right">297,578.00</font></td>
+    <td WIDTH="75" COLSPAN="2">&nbsp;</td>
+  </tr>
+  <tr>
+    <td WIDTH="458" COLSPAN="3">&nbsp;&nbsp;</td>
+    <td WIDTH="17" align="right">
+      <p ALIGN="right"><font size="2">&nbsp;</font></p>
+    </td>
+    <td WIDTH="97" align="right">
+      <p ALIGN="right"><font size="2">&nbsp;</font></p>
+    </td>
+    <td WIDTH="75" COLSPAN="2">&nbsp;</td>
+  </tr>
+  <tr>
+    <td WIDTH="458" COLSPAN="3"><font SIZE="2">
+      <p>Payment Received From Cooperative (Grantor)</font></td>
+    <td WIDTH="17" align="right"><font SIZE="2">
+      <p ALIGN="right">$</font></td>
+    <td WIDTH="97" align="right"><font SIZE="2">
+      <p ALIGN="right">3,785,575.40</font></td>
+    <td WIDTH="75" COLSPAN="2">&nbsp;</td>
+  </tr>
+  <tr>
+    <td WIDTH="458" COLSPAN="3"><font SIZE="2">
+      <p>Principal</font></td>
+    <td WIDTH="17" align="right"><font SIZE="2">
+      <p ALIGN="right">$</font></td>
+    <td WIDTH="97" align="right"><font SIZE="2">
+      <p ALIGN="right">1,900,000.00</font></td>
+    <td WIDTH="75" COLSPAN="2">&nbsp;</td>
+  </tr>
+  <tr>
+    <td WIDTH="458" COLSPAN="3"><font SIZE="2">
+      <p>Interest</font></td>
+    <td WIDTH="17" align="right"><font SIZE="2">
+      <p ALIGN="right">$</font></td>
+    <td WIDTH="97" align="right"><font SIZE="2">
+      <p ALIGN="right">1,885,575.40</font></td>
+    <td WIDTH="75" COLSPAN="2">&nbsp;</td>
+  </tr>
+  <tr>
+    <td WIDTH="458" COLSPAN="3">&nbsp;&nbsp;</td>
+    <td WIDTH="17" align="right">
+      <p ALIGN="right"><font size="2">&nbsp;</font></p>
+    </td>
+    <td WIDTH="97" align="right">
+      <p ALIGN="right"><font size="2">&nbsp;</font></p>
+    </td>
+    <td WIDTH="75" COLSPAN="2">&nbsp;</td>
+  </tr>
+  <tr>
+    <td WIDTH="458" COLSPAN="3"><font SIZE="2">
+      <p>Service Fees Paid to Servicer</font></td>
+    <td WIDTH="17" align="right"><font SIZE="2">
+      <p ALIGN="right">$</font></td>
+    <td WIDTH="97" align="right"><font SIZE="2">
+      <p ALIGN="right">23, 082.60</font></td>
+    <td WIDTH="75" COLSPAN="2">&nbsp;</td>
+  </tr>
+  <tr>
+    <td WIDTH="458" COLSPAN="3">&nbsp;&nbsp;</td>
+    <td WIDTH="17" align="right">
+      <p ALIGN="right"><font size="2">&nbsp;</font></p>
+    </td>
+    <td WIDTH="97" align="right">
+      <p ALIGN="right"><font size="2">&nbsp;</font></p>
+    </td>
+    <td WIDTH="75" COLSPAN="2">&nbsp;</td>
+  </tr>
+  <tr>
+    <td WIDTH="458" COLSPAN="3"><font SIZE="2">
+      <p>Payments Related to Swap Agreement</font></td>
+    <td WIDTH="17" align="right">
+      <p ALIGN="right"><font size="2">&nbsp;</font></p>
+    </td>
+    <td WIDTH="97" align="right">
+      <p ALIGN="right"><font size="2">&nbsp;</font></p>
+    </td>
+    <td WIDTH="75" COLSPAN="2">&nbsp;</td>
+  </tr>
+  <tr>
+    <td WIDTH="458" COLSPAN="3"><font SIZE="2">
+      <p>Payment Received From Morgan (Swap Provider)</font></td>
+    <td WIDTH="17" align="right"><font SIZE="2">
+      <p ALIGN="right">$</font></td>
+    <td WIDTH="97" align="right"><font SIZE="2">
+      <p ALIGN="right">297,578.00</font></td>
+    <td WIDTH="75" COLSPAN="2">&nbsp;</td>
+  </tr>
+  <tr>
+    <td WIDTH="458" COLSPAN="3"><font SIZE="2">
+      <p>Payment to Morgan (Swap Provider)</font></td>
+    <td WIDTH="17" align="right"><font SIZE="2">
+      <p ALIGN="right">$</font></td>
+    <td WIDTH="97" align="right"><font SIZE="2">
+      <p ALIGN="right">1,862,492.80</font></td>
+    <td WIDTH="75" COLSPAN="2">&nbsp;</td>
+  </tr>
+  <tr>
+    <td WIDTH="458" COLSPAN="3">&nbsp;</td>
+    <td WIDTH="17" align="right">
+      <p ALIGN="right"><font size="2">&nbsp;</font></p>
+    </td>
+    <td WIDTH="97" align="right">&nbsp;</td>
+    <td WIDTH="75" COLSPAN="2">&nbsp;</td>
+  </tr>
+  <tr>
+    <td WIDTH="458" COLSPAN="3"><font SIZE="2">
+      <p>Principal Balance of Certificates Outstanding After Principal Payment:</font></td>
+    <td WIDTH="17" align="right"><font SIZE="2">
+      <p ALIGN="right">$</font></td>
+    <td WIDTH="97" align="right"><font SIZE="2">
+      <p ALIGN="right">47,740,000.00</font></td>
+    <td WIDTH="75" COLSPAN="2">&nbsp;</td>
+  </tr>
+  <tr>
+    <td COLSPAN="7" width="653"><font SIZE="2">
+      <p>&nbsp;</font></td>
+  </tr>
+  <tr>
+    <td COLSPAN="7" width="653"><font SIZE="2">
+      <p>The Cooperative assigned to the Trust certain rights under an interest
+      rate swap agreement (the &quot;Swap Agreement&quot;). The counterparty to
+      the Swap Agreement is JP Morgan Chase Bank (successor to Morgan Guaranty
+      Trust Company of New York (&quot;Morgan&quot;)). Pursuant to the Swap
+      Agreement, the Trust pays to Morgan a fixed rate of interest on the
+      outstanding notional amount, and Morgan pays the Trust a variable rate of
+      interest on the outstanding notional amount. The structure is designed
+      such that the interest amounts paid by the Cooperative to the Trust are
+      the same amounts paid to Morgan, pursuant to the Swap Agreement, plus the
+      amounts payable to CFC, as servicer. The amounts paid by Morgan to the
+      Trust under the Swap Agreement are the same as the interest payable by the
+      Trust to the Certificateholders.</font></td>
+  </tr>
+  <tr>
+    <td COLSPAN="7" width="653"><font SIZE="2">
+      <p>&nbsp;</font></td>
+  </tr>
+  <tr>
+    <td COLSPAN="7" width="653"><font SIZE="2">
+      <p>No delinquency in payment under either the Note, the Guarantee or the
+      Swap Agreement has occurred and no Event of Servicing Termination, or, to
+      the best of the Servicer's knowledge, event that with notice or lapse of
+      time or both would become an Event of Servicing Termination, has occurred
+      and is continuing.</font></td>
+  </tr>
+  <tr>
+    <td COLSPAN="7" width="653"><font SIZE="2">
+      <p>&nbsp;&nbsp;</font></td>
+  </tr>
+  <tr>
+    <td COLSPAN="7" width="653"><font SIZE="2">
+      <p>I, the undersigned, do hereby certify that I am a Responsible Officer
+      of National Rural Utilities Cooperative Finance Corporation, and as such
+      officer, I further certify that to the best of my knowledge and belief,
+      the Semiannual Report is complete and accurate.</font></td>
+  </tr>
+  <tr>
+    <td COLSPAN="7" width="653"><font SIZE="2">
+      <p>&nbsp;&nbsp;</font></td>
+  </tr>
+  <tr>
+    <td WIDTH="151">&nbsp;</td>
+    <td WIDTH="500" COLSPAN="6"><font SIZE="2">
+      <p>NATIONAL RURAL UTILITIES COOPERATIVE</font></td>
+  </tr>
+  <tr>
+    <td WIDTH="151"></td>
+    <td WIDTH="500" COLSPAN="6">
+      <blockquote>
+        <blockquote>
+          <font SIZE="2">
+          <p>FINANCE CORPORATION
+          </blockquote>
+        </blockquote>
+      </font></td>
+  </tr>
+  <tr>
+    <td WIDTH="151">
+      <p>&nbsp;</td>
+    <td WIDTH="500" COLSPAN="6"><font FACE="Courier New" SIZE="2">
+      <p></font></td>
+  </tr>
+  <tr>
+    <td WIDTH="151">&nbsp;</td>
+    <td WIDTH="241"><font SIZE="2">
+      <p><u>/s/ Steven L. Lilly&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u></font></td>
+    <td WIDTH="257" COLSPAN="5">&nbsp;</td>
+  </tr>
+  <tr>
+    <td WIDTH="151">&nbsp;</td>
+    <td WIDTH="241"><font SIZE="2">
+      <p>Steven L. Lilly, Chief Financial Officer</font></td>
+    <td WIDTH="257" COLSPAN="5">&nbsp;</td>
+  </tr>
+  <tr>
+    <td WIDTH="151"><font SIZE="2">
+      <p>&nbsp;</font></td>
+    <td WIDTH="500" COLSPAN="6"><font FACE="Courier New" SIZE="2">
+      <p></font></td>
+  </tr>
+  <tr>
+    <td WIDTH="151"><font SIZE="2">
+      <p>December 20, 2004</font></td>
+    <td WIDTH="500" COLSPAN="6">&nbsp;</td>
+  </tr>
+</table>
+      </center>
+    </div>
+</body>
+</html>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

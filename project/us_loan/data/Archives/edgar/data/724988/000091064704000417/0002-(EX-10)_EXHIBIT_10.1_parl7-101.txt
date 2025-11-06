@@ -1,0 +1,1866 @@
+
+
+                                                               Exhibit 10.1
+
+
+
+
+                           Joint Venture Agreement
+                           -----------------------
+
+
+                       This Agreement is made between
+
+
+                          Parlex Asia Pacific Ltd.,
+
+a corporation organized and existing under the laws of Hong Kong and having
+its registered office at 2802 Admiralty Centre Tower One, 18 Harcourt Road,
+Hong Kong
+
+                    hereinafter referred to as "Parlex";
+
+
+
+                 Infineon Technologies Asia Pacific Pte Ltd
+                 (Company Registration Number: 197000667M),
+
+     a corporation organized and existing under the laws of Singapore and
+     having its registered office at 168, Kallang Way, Singapore 349253
+
+                   hereinafter referred to as "Infineon".
+
+
+      Infineon and Parlex are hereinafter individually referred to as a
+                 "Party" and collectively as the "Parties".
+
+
+<PAGE>
+
+
+                              TABLE OF CONTENTS
+                              -----------------
+
+Preamble                                                                  1
+- --------
+1.    Definitions                                                         2
+- --    -----------
+2.    Establishment of the Companies                                      3
+- --    ------------------------------
+3.    Transfer of Certain Assets to NewCo                                 5
+- --    -----------------------------------
+4.    Financing of the Companies                                          7
+- --    --------------------------
+5.    Pre-emption Rights, Call and Put Option                             8
+- --    ---------------------------------------
+6.    Ancillary Agreements                                               15
+- --     -------
+7.    Shareholders' Meeting of HoldCo                                    16
+- --    -------------------------------
+8.    Board of Directors                                                 17
+- --    ------------------
+9.    Management of the Companies                                        19
+- --    ---------------------------
+10.   Staff                                                              20
+- ---   -----
+11.   Organisational Structure                                           21
+- ---   ------------------------
+12.   Operation of the Company                                           21
+- ---   ------------------------
+13.   Accounting and Financial Reporting                                 21
+- ---   ----------------------------------
+14.   Dividend Policy                                                    23
+- ---   ---------------
+15.   Foreign Exchange Rate                                              24
+- ---   ---------------------
+16.   Confidentiality                                                    24
+- ---   ---------------
+17.   Conditions Precedent                                               25
+- ---   --------------------
+18.   Representation and Warranties of Parlex                            25
+- ---   ---------------------------------------
+19.   Representation and Warranties of Infineon                          26
+- ---   -----------------------------------------
+20.   Deadlock Resolution Procedure                                      27
+- ---   -----------------------------
+21.   Term and Termination                                               29
+- ---   --------------------
+22.   Dissolution                                                        32
+- ---   -----------
+23.   Applicable law                                                     32
+- ---   --------------
+24.   Dispute Resolution                                                 32
+- ---   ------------------
+25.   Miscellaneous                                                      34
+- ---   -------------
+
+
+<PAGE>  i
+
+
+List of Exhibits:
+- ----------------
+
+2.2     Name of NewCo in Chinese language
+2.5 a - Memorandum and Articles of Association (HoldCo)
+2.5 b - Articles of Incorporation (NewCo)
+3.1 - Equipment and Software Licenses
+3.2 - Employees
+3.3 - Suppliers
+4.1 - Business Plan
+4.3 - Inventory
+5.3.1(a) - Formula for Infineon Call Option
+5.3.1(b) - Performance Criteria for Infineon Call Option
+5.3.1(c) - Competitors
+5.3.2(a) - Formula for Parlex Call Option
+5.3.2(b) - Minimum Volume Requirement
+6.2 - Supply Agreement
+6.4 - NewCo Lease
+6.5 - Services Agreement
+6.7 - Laser Drilling Service Agreement
+8.4 - Rules of Procedure (for each of the Companies)
+11 - Organizational Structure - NewCo
+
+
+<PAGE>  ii
+
+
+Preamble
+- --------
+
+This Agreement is being entered into under the following circumstances:
+
+Whereas, Infineon's ultimate shareholder, Infineon Technologies AG, of
+Munich, Germany, is presently engaged, inter alia, in the development,
+manufacture and sale of integrated circuits and modules for smart cards;
+and
+
+Whereas, Parlex Asia Pacific Ltd., through its subsidiary, Parlex
+(Shanghai) Interconnect Products Co., Ltd. ("Parlex Shanghai"), based in
+Shanghai, PRC, is presently engaged, inter alia, in the development and
+manufacture and sale of FCOS(TM) substrate and flip chip module substrate
+materials and is supplying such product to Infineon Technologies AG; and
+
+Whereas, Parlex has decided to spin-off its Smart Card substrate
+manufacturing business of Parlex Shanghai ("Carved Out Business") into a
+Wholly Foreign Owned Enterprise based in Shanghai to be held by an
+investment company based in Hong Kong in which each of Parlex and
+Infineon will be shareholders.
+
+Now, therefore, for and in consideration of the premises and mutual
+covenants herein contained, Infineon and Parlex hereby set forth their
+agreement as follows:
+
+
+<PAGE>
+
+
+1.    Definitions
+- -----------------
+
+Wherever the following terms are used in this Agreement, or in any of its
+annexes, they shall be understood as defined below.
+
+1.1   "Affiliate" means any corporation, other juridical entity,
+partnership or other business enterprise which qualifies under any one of
+the following:
+
+      a)    Which owns or controls, directly or indirectly, fifty per cent
+            (50 %) or more of the voting rights with respect to the
+            election of directors of a Party hereto;
+
+      b)    Of which fifty per cent (50 %) or more of the voting rights
+            with respect to the election of directors is owned or
+            controlled, directly or indirectly, by a Party hereto;
+
+      c)    Of which fifty per cent (50 %) or more of the total voting
+            rights with respect to the election of directors is owned or
+            controlled, directly or indirectly, by any corporation, other
+            juridical entity, partnership or other business enterprise
+            qualifying under clauses a) or b) above.
+
+1.2   "Agreement" means this Joint Venture Agreement and its Exhibits.
+
+1.3   "Companies" means NewCo and HoldCo and "Company" shall mean any one
+      of them.
+
+1.4   "HoldCo" is referring to a company established in Hong Kong which is
+      the sole investor in NewCo.
+
+1.5   "Long Stop Date" means 31 March 2005.
+
+1.6   "NewCo" is referring to the Wholly Foreign Owned Enterprise based in
+      Shanghai, PRC, to which Parlex shall spin-off its Smart Card
+      substrate manufacturing business.
+
+1.7   "Parlex Corporation" means Parlex Corporation, a Massachusetts
+      Corporation with its place of business at One Parlex Place, Methuen,
+      MA 01844.
+
+
+<PAGE>
+
+
+1.8   "PRC" refers to People's Republic of China.
+
+1.9   "Products" means FCOS(TM) substrate and flip chip module substrate
+      material.
+
+1.10  The following terms are defined in the following Clauses of this
+      Agreement.
+
+      a)    Ancillary Agreement         in Clause 6
+      b)    Auditor                     in Clause 13.3
+      c)    Business Plan               in Clause 4
+      d)    Closing Date                in Clause 3.1
+      e)    Rules of Procedure          in Clause 8.4
+      f)    Effective Date              in Clause 21.1
+      g)    Stock Transfer Agreement    in Clause 6.3
+
+2.    Establishment of the Companies
+- ------------------------------------
+
+2.1   Organisation and Registration
+
+      a)    Parlex shall upon execution of this Agreement and without undue
+      delay, organize and register HoldCo in the legal form of a company
+      limited by shares under the laws of Hong Kong. It is agreed that the
+      HoldCo shall be incorporated within 3 weeks of signing of this
+      Agreement.
+
+      b)    Upon registration of HoldCo, Parlex shall organize and register
+      NewCo as a Wholly Foreign Owned Enterprise in the form of a limited
+      liability company under the laws of PRC where HoldCo shall be the
+      sole shareholder of NewCo. The parties acknowledge and understand
+      that the process to apply for the issuance of a business license and
+      to register NewCo may take approximately 100 days, but Parlex shall
+      exercise its best efforts to procure the issuance of a business
+      license and to register NewCo. In the event that NewCo is not
+      registered and the business licence is not issued by the Long Stop
+      Date, Article II, Section 2.2(a)(ii) and (iii) of the Stock Transfer
+      Agreement will apply accordingly.
+
+
+<PAGE>
+
+
+      c)    The Parties hereto shall closely cooperate and consult with
+      each other with respect to the procedures and particulars of the
+      organization and registration of the Companies.
+
+2.2   Company Names
+
+      a)    The name of HoldCo shall be Pacific Advanced Interconnect
+      Products Ltd.
+
+      b)    The name of NewCo in the Chinese language shall be as set forth
+      in Exhibit 2.2 and Shanghai Advanced Interconnect Products Ltd. in
+      the English language.
+
+2.3   Head Office
+
+      a)    HoldCo shall have its registered seat and administrative head
+      office in Hong Kong.
+
+      b)    NewCo shall have its registered seat and administrative head
+      office in Shanghai.
+
+2.4   Business Scope of the Companies
+
+      a)    The business scope of HoldCo shall be to hold the investment
+      in NewCo and to act as a trading company.
+
+      b)    The business scope of NewCo shall be the production of FCOS(TM)
+      substrate and flip chip module substrate materials as well as RFID
+      antennas and the further development of these product technologies
+      only (process and equipment). All activities of NewCo shall comply
+      with relevant prevailing published laws and regulations of PRC at all
+      times.
+
+2.5   Articles of the Companies
+
+a)    HoldCo shall adopt the Memorandum and Articles of Association
+pursuant to the laws of Hong Kong in the form as attached to this Agreement
+as Exhibit 2.5 a) by the Closing Date.
+
+b)    NewCo shall adopt Articles of Incorporation pursuant to the laws of
+the PRC in the form as attached to this Agreement as Exhibit 2.5 b). It is
+agreed that in the event that there is any inconsistency between the
+Chinese and English versions of the Articles of Incorporation of the NewCo,
+the English version of the NewCo's Articles of Incorporation shall prevail.
+
+
+<PAGE>
+
+
+c)    The Memorandum and Articles of Association of HoldCo and the Articles
+of Incorporation of NewCo (collectively defined as the "Articles") shall be
+consistent with the terms of this Agreement and in case of any conflict the
+terms of this Agreement shall prevail as between the Parties. Without
+limiting the generality of the foregoing, the Parties shall exercise all
+rights available to them to give effect to the terms of this Agreement and
+shall take all reasonable steps to amend the respective Articles to the
+extent necessary to remove such inconsistency or conflict.
+
+2.6   Share Capital of HoldCo
+
+HoldCo shall have a share capital of 10,000 Hong Kong Dollars divided into
+10,000 shares at a par value of one Hong Kong Dollar per share. Shares at
+equal par value shall carry equal rights and obligations.
+
+Any shares of HoldCo ("HoldCo Shares") issued through capital increase
+shall be offered by HoldCo to the Parties exclusively unless the Parties
+hereto otherwise mutually agree in writing.
+
+The Parties have the pre-emptive right to subscribe for such new HoldCo
+Shares in proportion to their then respective shareholding in HoldCo. If a
+Party refuses to accept such offer in whole or in part, then the other
+Party shall be entitled to subscribe to such HoldCo Shares not subscribed
+to by the refusing Party and the Parties shall procure a resolution of
+shareholders of HoldCo to be passed to approve the allotment of such
+HoldCo Shares.
+
+2.7   Total Registered Capital of NewCo
+
+The registered capital of NewCo shall be Five Million US Dollars (the
+"Registered Capital").
+
+3.    Transfer of Certain Assets to NewCo
+- -----------------------------------------
+
+3.1   Parlex shall transfer, or cause to be transferred, to NewCo
+simultaneously on the Closing Date, as said term is defined in the Stock
+Transfer Agreement, the equipment and relevant software and software
+licenses listed in Exhibit 3.1 that is attached hereto ("Equipment").
+Parlex and Infineon (where applicable) shall promptly upon execution of
+this Agreement cause the timely execution and filing of all legal documents
+by NewCo, Parlex and any other Parlex's Affiliate required for the proper
+and effective transfer of Equipment to NewCo by the Closing Date.
+
+
+<PAGE>
+
+
+3.2   Parlex shall transfer, or cause to be transferred, to NewCo
+simultaneously on the Closing Date, the employees listed in Exhibit 3.2
+that is attached hereto ("Employees") and were formerly employed by Parlex,
+Parlex Shanghai or its Affiliate. Parlex and Infineon (where applicable)
+shall promptly upon execution of this Agreement cause the timely execution
+and filing by NewCo, Parlex, Parlex Shanghai and any other Parlex's
+Affiliates of all legal documents required for the proper and effective
+transfer of Employees to NewCo by the Closing Date. For the avoidance of
+doubt, it is agreed that any compensation benefits or any other amounts due
+to the Employees under all applicable laws and requirements and arising or
+accruing prior to the Closing Date ("Accrued Benefits") shall be solely
+borne by Parlex and NewCo is not required to make any payment of such
+Accrued Benefits to the Employees. Any such benefits or other amounts
+arising or accruing on or after the Closing Date which are not Accrued
+Benefits shall be solely borne by NewCo.
+
+3.3   Parlex and any relevant Parlex Affiliate shall use its best efforts
+to assist NewCo in establishing trading relationships with the suppliers
+listed in Exhibit 3.3 which is attached hereto ("Suppliers") on or as soon
+as reasonably possible after the Closing Date, in order for NewCo to obtain
+such materials and services from the Suppliers which are required for its
+operations at terms no less favorable than those enjoyed by Parlex and/or
+Parlex Shanghai. In addition, on or as soon as reasonably possible after
+the Closing Date, Parlex shall provide NewCo with the details of all open
+purchase orders and contracts, if any, that are necessary for NewCo to take
+over the manufacturing of Products and shall transfer its respective legal
+rights and obligations under such purchase orders and contracts to NewCo.
+For the avoidance of doubt, all open purchase orders and contracts between
+Parlex, Parlex Corporation or any relevant Parlex Affiliate and Infineon
+and/or any Infineon's Affiliate shall be transferred to NewCo on the
+Closing Date and Parlex, Parlex Corporation and/or any relevant Parlex
+Affiliate and Infineon (where applicable) shall promptly upon execution of
+this Agreement cause the timely execution and filing by NewCo and Parlex,
+Parlex Corporation and/or any relevant Parlex Affiliate to give effect to
+the foregoing.
+
+
+<PAGE>
+
+
+3.4   Subject to the provisions of Clause 2.2 and 2.3 of the Stock Transfer
+Agreement, Infineon shall assign and transfer, or cause to be assigned and
+transferred, to NewCo simultaneously on the Closing Date, all of its
+rights, title and interest under the License Agreement dated between
+Infineon and Parlex Corporation of even date.
+
+4.    Financing of the Companies
+- --------------------------------
+
+4.1   The Parties agree that NewCo and HoldCo together shall require a
+      total working capital of US$500,000.00 in the aggregate in accordance
+      with the Business Plan attached in Exhibit 4.1 ("Business Plan").
+
+4.2   At the Closing Date, Infineon and Parlex shall provide shareholder
+      loans in proportion to their respective share ownership in HoldCo and
+      on equal terms and conditions up to a maximum amount of US$500,000 in
+      the aggregate to HoldCo that shall then loan the money to NewCo
+      except that the Parties understand and agree that Parlex may be
+      transferring inventory in lieu of United States Dollars as its
+      initial shareholder loan. It is agreed that the contribution of the
+      Parties pursuant to the provisions of this Clause shall be in
+      accordance with the terms and conditions of a Shareholder Loan
+      Agreement to be entered into by the Parties on the Closing Date.
+
+4.3   The transfer of inventory by Parlex in accordance with Clause 4.2
+      shall take place simultaneously on the Closing Date and shall consist
+      of the inventory to be listed on Exhibit 4.3 ("Inventory"), such
+      Exhibit 4.3 to be provided to the parties within five (5) Business
+      Days after the Closing Date. Parlex and Infineon (where applicable)
+      shall promptly upon execution of this Agreement cause the timely
+      execution and filing by NewCo, Parlex and any of Parlex's Affiliates
+      of all legal documents, if any, required for the proper and effective
+      transfer of the Inventory to either of the Companies (as the case may
+      be) by the Closing Date. Infineon shall have the right to send a
+      delegate to Parlex's premises in order to conduct a physical
+      inspection and confirmation of the Inventory two days before Closing
+      Date. In the event the value of the Inventory transferred exceeds
+      US$255,000.00, then and in that event the Companies shall pay Parlex
+      for the value of the Inventory in excess of US$255,000.00 within
+      normal industry trade terms. For purposes of this Agreement, the
+      Inventory being transferred by Parlex to either of the Companies
+      shall be valued at its cost plus fifteen per cent (15%). In the event
+      that the value of the
+
+
+<PAGE>
+
+
+      Inventory transferred is less than US$225,000.00, then Parlex shall
+      loan the Companies the difference in cash on Closing Date.
+
+4.4   Neither Party shall be under the obligation to make any further
+      capital contributions, cash or loan advances to the Companies or to
+      provide any collateral or security for any bank financing to be
+      obtained by the Companies beyond the agreement on providing
+      shareholder loans in this Clause 4 unless unanimously agreed to by
+      the Board of Directors of HoldCo in order to support the ongoing
+      needs of NewCo as required by the Business Plan.
+
+4.5   The Board of Directors of HoldCo shall assess NewCo's cash flow and
+      financial situation on a quarterly basis. If the Board of Directors
+      of HoldCo by unanimous decision determines that NewCo requires
+      additional capital contributions, it shall by written notice to the
+      Parties call for the Parties to subscribe for additional shares of
+      HoldCo in proportion to their respective pro rata shareholding based
+      on the total number of issued shares of HoldCo then outstanding. To
+      the extent a party does not fully subscribe to its pro rata share of
+      such additional shares, the remaining party shall be entitled to
+      purchase any of such unsubscribed shares in proportion to its pro
+      rata shareholding. Each party agrees (i) to advise HoldCo of its
+      intention to subscribe to its pro rata share of any additional shares
+      at the earliest practicable date and in any event within thirty (30)
+      days following a determination by the Board of Directors of HoldCo in
+      accordance with [SECTION] 4(4) of the Rules of Procedure to issue
+      additional shares and (ii) to pay the purchase price in cash for such
+      shares not later than thirty (30) days thereafter.
+
+5.    Pre-emption Rights, Call and Put Option
+- ---------------------------------------------
+
+5.1   Pre-emption Rights
+
+In the case that either Party desires to sell to a bona fide third party
+all or any of its shares in HoldCo, the transfer of such shares by a Party
+to a third party shall be subject to the following conditions:
+
+a)    If a Party ("the Offeror") wishes to transfer shares in HoldCo, it
+      shall first offer them in writing ("the Offer") to the other Party
+      ("the Offeree").
+
+
+<PAGE>
+
+
+b)    If within 21 days from receipt of the Offer the Offeree indicates in
+      writing that it is not interested in purchasing the shares or does
+      not reply to the Offer, the Offeror shall have the right to offer its
+      shares to a bona fide third party. If within 21 days from receipt of
+      the Offer the Offeree indicates in writing that it is interested in
+      purchasing the shares, the Parties shall seek to agree on a
+      reasonable purchase price.
+
+c)    If the Parties fail to agree on the purchase price within 45 days
+      from the time the Offer was received by the Offeree, the Offeror
+      shall, within a period of one month commencing after the elapse of
+      the aforementioned 45-day period, be entitled to request that a
+      valuation specialist who has been engaged in the appraisal of
+      businesses similar to the Company ("Valuation Specialist") prepare an
+      opinion on the Fair Value of the shares.
+
+      "Fair Value" shall mean fair value in the open market as between a
+      willing seller and a willing buyer thereby acquiring control of the
+      Company. In determining and certifying the Fair Value of the shares
+      of the Company the Valuation Specialist shall act as expert and not
+      as arbitrators and their determination of the Fair Value shall be
+      final and binding on the Parties. The Valuation Specialist shall take
+      into consideration and use any legitimate third party offer as part
+      of the evaluation. The cost of the opinion of the Valuation
+      Specialist shall be shared by the Offeror and the Offeree in
+      proportion to their then respective shareholding.
+
+e)    The Offeror shall inform the Offeree within 14 days from receiving
+      the Valuation Specialist's opinion on the price whether it is
+      prepared to sell its shares at the price stated in the opinion. If
+      the Offeror refuses to sell its shares at that price or if it does
+      not inform the Offeree within that 14 day period of its desire to
+      sell its shares, it shall not be entitled to sell its shares to a
+      third party.
+
+f)    The Offeree shall inform the Offeror within 14 days after the Offeror
+      has indicated his willingness to sell pursuant to Clause 5.1(e)
+      whether it is prepared to purchase the shares at the price given in
+      the Valuation Specialist's opinion. If the Offeree refuses to
+      purchase the shares at this price or if it does not within the period
+      of 14 days inform the Offeror in writing of its desire to purchase
+      the shares, the Offeror shall have the right to offer his shares for
+      sale to a third party. This right to offer its shares for sale to a
+      third party will expire if such sale has not been consummated within
+      one year.
+
+
+<PAGE>
+
+
+g)    If so required by the Offeree, the Offeror, when selling its shares
+      to a third party, shall cause the third party, prior to and as a
+      precondition to such transfer, to enter into an agreement with the
+      other Party by which such third party agrees to be bound by the
+      covenants of this Agreement and the Ancillary Agreements and to
+      perform the obligations of the transferring Party under this
+      Agreement and the Ancillary Agreements.
+
+5.2   Transfer to Affiliate
+
+The pre-emption rights contained in Clause 5.1 shall not apply to a
+transfer of shares in HoldCo to an Affiliate of any Party. It is a
+precondition for such transfer of shares that 1) the transferring Party
+shall have caused such Affiliate to enter into an agreement with the other
+Party by which such Affiliate agrees to be bound by the covenants of this
+Agreement and the Ancillary Agreements and to perform the obligations of
+the transferring Party under this Agreement and the Ancillary Agreements,
+and that 2) the transferring Party shall have caused such Affiliate to
+agree that should it at anytime cease to be an Affiliate it will before
+this happens transfer all its shares in HoldCo to another Affiliate of the
+original transferring Party.
+
+5.3   Call Option
+
+5.3.1 Call Option for Infineon
+
+Parlex hereby grants to Infineon pursuant to the terms and conditions set
+forth in this Clause a call option to acquire all (but not less than all)
+of Parlex's outstanding shares in HoldCo exercisable at any time within
+three years after the Effective Date but only exercisable upon the
+occurrence of any one of the following events ("Infineon Call Option
+Trigger Event") for an amount in accordance with the formula defined in
+Exhibit 5.3 1 (a) ("Parlex Formula").
+
+      a)    The performance criteria defined in Exhibit 5.3.1 (b) hereto of
+the Products manufactured by NewCo for Infineon with regard to yield,
+delivery, reliability and quality are not met by NewCo for a period of more
+than six (6) consecutive months and after notice is given by Infineon to
+NewCo ("Performance Defect Notice") describing in complete detail the
+nature and extent of the Performance Defect; or
+
+      b)    Parlex Corporation or any Parlex Affiliate enters into an
+agreement to transfer controlling interest in Parlex Corporation or any
+Parlex Affiliate to a company that is then
+
+
+<PAGE>
+
+
+currently in the business of manufacturing smart cards and/or smart cards
+ICs and is a direct competitor to Infineon or any Infineon Affiliate and is
+listed on Exhibit 5.3.1 (c); or
+
+      c)    The commencement of any voluntary or involuntary proceeding
+seeking relief with regard to Parlex Corporation's debts under any
+bankruptcy, insolvency or other similar law, or seeking appointment of a
+trustee, receiver, liquidator or other similar official for it or any
+substantial part of its assets; provided, however, that if such proceeding
+is an involuntary action brought by a third party, the option shall only be
+exercisable upon Parlex Corporation's failure to obtain an order to dismiss
+or stay such proceeding within ninety (90) days of commencement thereof; or
+
+      d)    the non-fulfilment by NewCo of the exclusivity period
+stipulated in Clause 2.1.2 of the Supply Agreement, attached in Exhibit
+6.2.
+
+Infineon may exercise the call option upon written notification to Parlex
+in accordance with the mechanics provided in Clause 5.3.3 below.
+
+5.3.2 Call Option for Parlex
+
+Infineon hereby grants to Parlex pursuant to the terms and conditions set
+forth in this Clause a call option to acquire sufficient shares of
+Infineon's outstanding shares of HoldCo ("Call Option Shares") so that
+Parlex's ownership in HoldCo does not exceed 80.1% of the issued and
+outstanding shares of HoldCo and said call option may be exercisable at any
+time upon the occurrence of either of the following events ("Parlex Call
+Option Trigger Event") for an amount in accordance with the formula defined
+in Exhibit 5.3.2(a)("Infineon Formula").
+
+      a)    At Parlex's sole discretion and for any reason; provided,
+however, that such call option may only be exercised during the time period
+commencing 12 months after the Effective Date and terminating 24 months
+after the Effective Date; or
+
+      b)    Upon Infineon's failure to fulfil its minimum volume
+commitment as set forth in Exhibit 5.3.2(b); provided, however, that such
+call option may only be exercised during the time period commencing 24
+months after the Effective Date and terminating 36 months after the
+Effective Date.
+
+
+<PAGE>
+
+
+Parlex may exercise the call option upon written notification to Infineon
+in accordance with the mechanics provided in Clause 5.3.3 below.
+
+5.3.3 Call Option Mechanics
+
+      a)    Within 30 days after the occurrence of a Parlex Call Option
+Trigger Event or an Infineon Call Option Trigger Event (whichever the case
+may be), written notice (the "Call Notice") shall be given by the party
+exercising the call option by delivery in person, certified or registered
+mail, return receipt requested, or by overnight delivery, to the other
+party notifying such party of the occurrence of a Parlex Call Option
+Trigger Event or an Infineon Call Option Trigger Event (whichever the case
+may be), and specifying the applicable Formula in Clause 5.3.1 or 5.3.2 (as
+the case may be), the date when said party will purchase the shares being
+called which date shall not be more than 30 days after the issuance of the
+Call Notice ("Call Date"), the number of shares to be called from such
+holder (if applicable) and the place where the purchase amount based on the
+applicable Formula shall be payable. The Call Notice shall be addressed to
+each party at its address as shown by the records of the Company. From and
+after the close of business on the Call Date, unless there shall have been
+a default in the payment of the purchase amount based on the applicable
+Formula plus accrued interest, rights of the respective holder of such
+shares of the HoldCo (except the right to receive the purchase amount based
+on the applicable Formula) shall cease with respect to the shares to be
+called on such Call Date.
+
+      b)    The non-calling party may dispute any amounts reflected on the
+calling party's Call Notice, but only on the basis of its belief that the
+amounts reflected on the Call Notice were not arrived at in accordance with
+this Agreement or resulted from a mistake of fact, or other inaccuracy, or
+an interpretation of GAAP; provided, however, that the non calling party
+shall have notified the other party in writing of each disputed item,
+specifying the amount thereof in dispute and setting forth, in reasonable
+detail, the basis for such dispute, within thirty (30) days of its receipt
+of the Call Notice. The Call Notice shall be binding and conclusive upon
+and deemed final and accepted by the non calling party and the non calling
+party shall be deemed to have waived its right to object to the Call Notice
+unless the non calling party shall have notified the calling party in
+writing of its objections within thirty (30) days of its receipt of the
+Call Notice. In the event of such a dispute, Parlex and Infineon shall
+attempt to reconcile their differences. If Parlex and Infineon are unable
+to reach a resolution with such effect within thirty (30) days after
+receipt by the calling party of written notice of dispute, Parlex and
+Infineon shall submit the items remaining in dispute for resolution to
+NewCo's auditors, Deloitte Touche Tohmatsu (or, if such firm shall decline
+or is unable to act or is not, at the time of such submission, to another
+
+
+<PAGE>
+
+
+independent accounting firm of international reputation mutually acceptable
+to Parlex and Infineon) (either Deloitte Touche Tohmatsu or such other
+accounting firm being referred to herein as the "Independent Accounting
+Firm"), which submission shall include (x) a statement by each party as to
+the matters in dispute and such party's calculation of the respective
+purchase amount based on the applicable Formula based on its interpretation
+of such disputed matters and (y) such other documents and information as
+the Independent Accounting Firm may request. Each party may also furnish to
+the Independent Accounting Firm such other information and documents as it
+deems relevant with appropriate copies or notification being given to the
+other parties. The Independent Accounting Firm may conduct a conference
+concerning the disagreement between Parlex and Infineon, at which
+conference each party shall have the right to present additional documents,
+materials and other evidence and to have present its or their advisors,
+counsel or accountants. The Independent Accounting Firm shall, within
+thirty (30) days after such submission, determine and report to Parlex and
+Infineon upon such remaining disputed items. The final resolution shall be
+(A) in writing setting forth the Independent Accounting Firm's calculation
+of the respective purchase amount based on the applicable Formula (which
+calculation may conclusively rely on the accuracy of matters not in dispute
+and the Independent Accounting Firm's determination regarding matters in
+dispute), (B) furnished to Parlex and Infineon, within thirty (30) days
+after the items in dispute have been referred to the Independent Accounting
+Firm, (C) made in accordance with this Agreement and (D) conclusive and
+binding upon the parties to this Agreement and not subject to collateral
+attack for any reason. Nothing herein will be construed to authorize or
+permit the Independent Accounting Firm to determine (i) any question or
+matter whatsoever under or in connection with this Agreement, except the
+determination of what adjustments, if any, must be made in one or more
+disputed items reflected on the respective Formula calculations delivered
+by a party in the Call Notice. The fees and disbursements of the
+Independent Accounting Firm shall be shared equally by Parlex and Infineon.
+In acting under this Agreement, the Independent Accounting Firm shall be
+entitled to the privileges and immunities customary of arbitrators.
+
+      c)    Within ten days after the issuance in writing of the
+Independent Accounting Firm's calculation of the respective purchase amount
+based on the applicable Formula, the calling party shall pay by certified
+check or wire transfer to the non calling the purchase amount based on the
+applicable Formula as determined by the Independent Accounting Firm.
+
+      d)    Upon the occurrence of a call or put option (as described in
+Clause 5.4 below), the party selling the shares of HoldCo shall surrender
+the certificate or certificates representing such shares of HoldCo, duly
+assigned or endorsed for transfer to the other party (or accompanied by
+
+
+<PAGE>
+
+
+duly executed instruments of transfer and sold notes relating thereto), or,
+in the event the certificate or certificates are lost, stolen or missing,
+shall deliver an affidavit of loss, at the principal executive office of
+HoldCo or such other place as HoldCo may from time to time designate by
+written notice to the holder of its shares. It is further agreed that all
+stamp duty payable in respect of such transfer of HoldCo shares pursuant to
+the exercise of a call or put option shall be borne solely by the relevant
+buyer of such shares.
+
+5.4   Put Option for Infineon
+
+      a)    Parlex grants to Infineon pursuant to the terms and conditions
+set forth in this Clause a put option to allow Infineon the right (but not
+an obligation) to sell certain of its outstanding shares in HoldCo to
+Parlex upon the occurrence of the following event ("Infineon Put Option
+Trigger Event") for an amount equal to the Infineon Formula. The put option
+shall be exercisable if, and only if, Parlex Corporation or any other
+entity which holds Parlex's shares in HoldCo ("Parlex's Associate") has
+entered into an arrangement or agreement which will cause a Change of
+Control (as defined herein) to occur. For purposes of this provision, a
+"Change of Control" shall be deemed to occur upon (i) any "person" becoming
+the beneficial owner of 50% or more of the combined voting power of Parlex
+and/or Parlex's Associate in HoldCo (subject to certain exceptions such as
+the acquisition of shares by an employee benefit plan, repurchase of
+securities by Parlex or a subsidiary thereof, etc.). Infineon's right to
+sell its outstanding shares in HoldCo to Parlex pursuant to this Section
+5.4(a) shall be limited to the sale of either (i) all (and not less than
+all) of its outstanding shares in HoldCo, or (ii) such number of shares in
+HoldCo as may be required to reduce Infineon's ownership interest in HoldCo
+to 19.9% of the then-outstanding shares in HoldCo.
+
+      b)    Infineon's put option shall only be exercisable during the time
+period commencing with the delivery of written notice by Parlex Corporation
+and/or Parlex's Associate to Infineon that Parlex Corporation and/or
+Parlex's Associate has entered to an agreement which will cause a "Change
+of Control" to occur ("Change of Control Notice"), and terminating thirty
+days after delivery of the Change of Control Notice. Infineon will give
+Parlex Corporation and/or Parlex's Associate written notice of its intent
+to exercise the put option ("Put Option Notice") within ten days after its
+receipt of the Change of Control Notice from Parlex Corporation and/or
+Parlex's Associate. In the event that a "Change of Control" event has
+occurred and Parlex Corporation and/or Parlex's Associate failed to issue a
+Change of Control Notice to Infineon, then and in that event only Infineon
+shall have the right to exercise the put option by issuing a Put Option
+Notice
+
+
+<PAGE>
+
+
+within 30 days following the date it becomes aware that a Change of Control
+Notice should have been issued.
+
+      c)    The put option mechanics shall be the same as those outlined in
+Clause 5.3.3 above as the call option mechanics.
+
+5.5   Conflict
+
+In the event that any call or put option has been exercised by a Party
+hereto, the corresponding call or put options of the other Party shall be
+rendered void unless the exercising party fails to consummate the
+transaction, in which event the non-exercising party shall then have the
+right to exercise its respective call or put option. By way of example, (1)
+if Infineon has exercised its call option on Parlex's entire shareholding
+and the share transfer to Infineon is closed, Parlex may not subsequently
+exercise its call option on Infineon's shareholding in HoldCo, or (2) if
+Parlex exercises its call option by issuing a written notice to Infineon on
+a given date and Infineon exercises its call option one day after this
+given date, the call option exercised by Parlex shall supersede and take
+precedence over the call option issued by Infineon.
+
+6.    Ancillary Agreements
+- --------------------------
+
+On the Closing Date, the following agreements shall have been or be entered
+into by or among Infineon, Infineon Technologies AG, Parlex, Parlex
+Corporation and NewCo, as the case may be (the "Ancillary Agreements"):
+
+6.1   License Agreement between Parlex Corporation and Infineon
+
+      Parlex Corporation and Infineon shall have entered into the License
+      Agreement on the date of this Agreement.
+
+6.2   Supply Agreement
+
+      Infineon Technologies AG and NewCo shall enter into an agreement for
+      the supply by NewCo to Infineon Technologies AG and/or its Affiliates
+      of products manufactured by NewCo in the form attached hereto as
+      Exhibit 6.2.
+
+6.3   Stock Transfer Agreement
+
+
+<PAGE>
+
+
+      Parlex, Parlex Corporation and Infineon shall have entered into the
+      Stock Transfer Agreement as of the date of this Agreement regarding
+      the purchase of 49% of the issued and outstanding shares in HoldCo.
+
+6.4   Lease Agreement
+
+      NewCo and Shanghai Jingling Holding Co. Ltd. shall enter into the
+      Lease Agreement regarding the lease of space and the use of
+      equipment, in the form substantially attached hereto as Exhibit 6.4.
+
+6.5   Service Agreement
+
+      Parlex and NewCo shall enter into a Service Agreement as provided for
+      in Clause 12.1 in the form attached hereto as Exhibit 6.5.
+
+6.6   Shareholder Loan Agreement
+
+      Parlex and Infineon and HoldCo shall enter into a Shareholder Loan
+      Agreement in the form attached hereto as Exhibit 4.2.
+
+6.7   Laser Drilling Service Agreement
+
+      Parlex and NewCo shall enter into a Laser Drilling Service Agreement
+      in the form attached hereto as Exhibit 6.7.
+
+
+7.    Shareholders' Meeting of HoldCo
+- -------------------------------------
+
+7.1   Resolutions of the Shareholders' Meeting for HoldCo
+
+The Shareholders' Meeting for HoldCo ("Shareholders' Meeting") shall
+resolve all issues where its decision is required by all applicable laws of
+Hong Kong. Except as otherwise required by applicable laws or the Articles
+of Association of HoldCo, all actions and resolutions of the Shareholders'
+Meeting shall be by two-thirds of the shares represented in person or by
+proxy at a
+
+
+<PAGE>
+
+
+Shareholders' Meeting at which a quorum is present unless a special
+resolution is required by mandatory law.
+
+7.2   Quorum
+
+A quorum for a Shareholders' Meeting shall require the presence, in person
+or by proxy, of shareholders of the Company holding at least two-thirds of
+the total number of issued and outstanding shares of HoldCo. Shareholders'
+Meeting may be attended electronically by teleconference, videoconference
+or internet. HoldCo shall hold a Shareholders' Meeting at least once per
+year.
+
+7.3   Agenda, Notice etc.
+
+At the request of either Parlex or Infineon, the Parties shall discuss the
+points of the agenda prior to any Shareholders' Meeting.
+
+Each shareholder of HoldCo shall be given timely, written notice of the
+time, date, agenda and place of the Shareholders' Meeting, in no event
+later than four weeks prior to the date of convocation of the Annual
+Meeting and two weeks for a special meeting. All notices and agendas of
+Shareholders' Meetings shall be in English language.
+
+7.4   Compliance of Shareholder with terms of this Agreement
+
+Each of the Parties shall at all times exercise its powers and votes as a
+shareholder of HoldCo so that HoldCo will comply with all obligations under
+this Agreement and the Articles of Association and that all directors of
+HoldCo and any representative of either Party will implement the provisions
+of this Agreement in relation to HoldCo and the other Party.
+
+8.    Board of Directors
+- ------------------------
+
+8.1   Nomination of Directors
+
+The Boards of Directors of HoldCo and NewCo shall each consist of five
+members. Parlex shall nominate three directors and Infineon shall nominate
+two directors for each of HoldCo and NewCo. The Parties shall appoint the
+nominees to the Board of HoldCo at a Shareholders' Meeting of HoldCo and
+shall cause HoldCo to nominate each Party's nominees to the Board of
+
+
+<PAGE>
+
+
+NewCo. The right to nominate includes the right to replace a director. If
+Parlex exercises its call option, one of Infineon's nominees (to be
+selected at Infineon's sole discretion) shall resign and Parlex will
+receive the right to appoint a replacement therefor upon consummation of
+the call option transaction. If Infineon exercises its call option,
+Parlex's nominees shall resign as directors upon consummation of the call
+option transaction. If Infineon exercises its put option with respect to
+all of its outstanding shares in HoldCo, Infineon's nominees shall resign
+as directors upon consummation of the put option transaction. If Infineon
+exercises its put option such that its ownership interest in HoldCo is
+reduced to 19.9%, then one of Infineon's nominees (to be selected at
+Infineon's sole discretion) shall resign and Parlex shall have the right to
+appoint a replacement therefor upon consummation of the put option
+transaction.
+
+8.2   Responsibility of the Board
+
+The Board of Directors of HoldCo shall have the broadest powers to manage
+and supervise the business and the affairs of HoldCo except for those
+matters which are explicitly reserved for approval by shareholders under
+Hong Kong company law.
+
+The Board of Directors of NewCo shall have the broadest powers to manage
+and supervise the business and the affairs of NewCo and shall be the
+highest authority of NewCo which shall make all major policy decisions of
+NewCo.
+
+The annual operating plan of HoldCo and/or NewCo and the approval of
+appointment of the General Manager of HoldCo/NewCo as recommended by
+Parlex requires the unanimous approval of the Board of Directors of HoldCo
+and/or NewCo (as the case may be). In addition, the unanimous approval of
+the relevant Board of Directors is required for all material events not
+disclosed in the relevant operating plan. However, it is agreed between the
+parties that HoldCo shall only select a General Manager if the relevant
+local law requires it.
+
+Notwithstanding the foregoing, the Parties shall comply with the Rules of
+Procedure for the Board of Directors of each Company, as attached hereto in
+Exhibit 8.4 ("Rules of Procedure") and it is agreed that if there is any
+inconsistency between the provisions of the Rules of Procedure and this
+Agreement, the provisions of this Agreement shall prevail.
+
+8.3   Quorum
+
+
+<PAGE>
+
+
+At least four members of the Board of Directors must be present or
+represented at a meeting to constitute a quorum and convene the meeting,
+provided that quorum shall require the presence of at least one Infineon
+Director.
+
+8.4   Rules of Procedure for the Board of Directors
+
+Rules of Procedure for the Board of Directors shall be adopted as set forth
+in Exhibit 8.4 which is attached hereto and incorporated into the Articles
+of Association of HoldCo and Articles of Incorporation of NewCo by the
+Closing Date.
+
+8.5   Meetings of the Board of Directors
+
+Each of the directors of the Company shall be given timely written notice
+of the time, date and place of meetings of the Board of Directors, in no
+event later than two weeks prior to the date of convocation of each such
+meeting, provided, however, that such period of notice maybe shortened for
+particular meetings by the unanimous written consent thereto by the
+directors then in office. Notices of meetings of the Board of Directors
+shall be sent by e-mail and followed by registered airmail. All notices of
+meetings of the Board of Directors shall be accompanied by a complete
+agenda for the meeting, as well as texts of all resolutions proposed to be
+adopted at such meetings. All notices and agendas of meetings of the Board
+of Directors, as well as the list of proposed resolutions of the Board of
+Directors, shall be accompanied by complete and accurate English language
+translation thereof.
+
+8.6   Chairman of the Board of NewCo
+
+The Board of Directors of NewCo shall have a Chairman and a Vice Chairman.
+The Chairman shall be the legal representative of NewCo. Should the
+Chairman be unable to assume his duties, the Vice Chairman shall be the
+legal representative of NewCo during such inability. The Chairman shall be
+a nominee appointed by Parlex and the Vice-Chairman shall be a nominee
+appointed by Infineon.
+
+9.    Management of the Companies
+- ---------------------------------
+
+9.1   General Manager of NewCo
+
+
+<PAGE>
+
+
+NewCo shall have a General Manager to be nominated by Parlex and appointed
+by the Board of Directors unanimously.
+
+9.2   Responsibility of the General Manager
+
+9.2.1 Except as provided otherwise in this Agreement, or mandatory
+applicable law, the Board of Directors of NewCo shall delegate the daily
+operation and management of New Co to the General Manager, including
+without limitation:
+
+a)    Appointment of senior management staff of NewCo;
+
+b)    Proposal to the Board of Directors of annual and quarterly budgets
+      and business plan;
+
+c)    Execution of annual and quarterly budgets approved by the Board of
+      Directors; and
+
+d)    Preparation of the annual report, the balance sheet and the profit
+      and loss statement.
+
+9.2.2 The General Manager of NewCo shall be responsible for:
+
+a)    the proper conduct of NewCo's business;
+
+b)    the efficient organisation of NewCo; and
+
+c)    the personnel of NewCo.
+
+10.   Staff
+- -----------
+
+NewCo shall recruit an adequate number of qualified technical, operation,
+managerial and other personnel necessary for its operations at the market-
+based compensation level. The general conditions of employment at NewCo
+shall be established in an Employment Handbook to be adopted by the General
+Manager of NewCo.
+
+Furthermore, both Parties agree that the Directors appointed by Infineon to
+the Board of Directors of NewCo, or their authorized representatives, will
+have the right to interview potential new hires for the top engineering,
+operations, management and financial positions at NewCo, but such interview
+shall not unreasonably delay or impede the hiring process. After the
+relevant interview,
+
+
+<PAGE>
+
+
+the Directors may provide written objections, if any, within five business
+days of said interview. In such event, the Directors will provide Parlex
+with a brief description of the reason(s) for their objection(s). In the
+event the Directors do not provide written objections within such time
+period, they shall be deemed to have assented to the hiring.
+
+11.   Organisational Structure
+- ------------------------------
+
+The Companies shall have the organisational structure as set forth in
+Exhibit 11 and as amended from time to time by resolution of the Board of
+Directors in accordance with [SECTION]4(4) of the Rules of Procedure which is
+attached hereto as Exhibit 8.4.
+
+12.   Operation of the Company
+- ------------------------------
+
+12.1  Services
+
+Parlex and/or its Affiliates will supply certain services to NewCo in
+accordance with the provisions of the Service Agreement as attached hereto
+as Exhibit 6.5.
+
+12.2  Business Plan
+
+The initial business plan of NewCo shall be as set out in Exhibit 4.1 and
+may be subject to subsequent revisions by the Board of Directors of NewCo
+in accordance with [SECTION]4(4) of the Rules of Procedure which is attached
+hereto as Exhibit 8.4.
+
+13.   Accounting and Financial Reporting
+- ----------------------------------------
+
+13.1  Accounting Period (Financial Year)
+
+      a)    The accounting period (financial year) of NewCo shall commence
+on 1 January and end on 31 December, provided, however, that the first
+accounting period of NewCo shall commence as of the date of registration
+and organization of NewCo and shall end on 31 December 2004.
+
+      b)    The accounting period (financial year) of HoldCo shall commence
+on 1 July and end on 30 June, provided, however, that the first accounting
+period of HoldCo shall commence as of the date of registration and
+organization of HoldCo and shall end on 30 June 2005.
+
+
+<PAGE>
+
+
+13.2  Books of Account
+
+The Companies shall keep true and accurate books of account and records in
+accordance with sound accounting practices, employing standards and
+procedures in conformity with mandatory requirements under applicable law
+and, insofar as practicable, in conformity with US GAAP accounting
+principles.
+
+13.3  Independent Public Accountants (Auditors)
+
+At the end of each accounting period of each Company, the books of account
+and records of the Companies shall be audited by a firm of independent
+public accountants competent to audit the books of the Companies. The
+Parties hereby designate and appoint the firm of Deloitte Touche Tohmatsu
+to initially serve as such independent public accountants (herein the
+"Auditors"). The Auditors shall prepare for and supply to the parties
+certified balance sheets, profit and loss statements and other financial
+reports suitable for use by each of the parties hereto in connection with
+its financial and tax reports within three months of the end of the fiscal
+year. Such statements and reports shall be in the English language.
+
+13.4  Financial Reporting
+
+Within 20 calendar days after the end of each month HoldCo shall prepare
+and submit to each Party its US GAAP unaudited balance sheet, profit and
+loss statement and cash flow statement of such month in a form satisfactory
+to the Parties.
+
+Within 20 calendar days after the end of each month NewCo shall prepare and
+submit to each Party its US GAAP and China GAAP unaudited balance sheet and
+profit and loss statement of such month in a form satisfactory to the
+Parties.
+
+Within 45 calendar days after the end of each quarter, NewCo shall prepare
+and submit to each Party its US GAAP and China GAAP unaudited balance
+sheet, profit and loss statement and cash flow statement of such quarter.
+
+In order to cooperate with the public reporting of financial statements of
+the Parties, the Companies shall tender to the Parties such accounting
+records including without limitation the financial statements as are
+necessary for the consolidated accounting of the Companies with
+
+
+<PAGE>
+
+
+either or both Parties. Expenses relating to the preparation of such
+accounting records for the Party so requesting shall be borne by such
+Party.
+
+13.5  Audit and Inspection Right
+
+Each Party shall have the right to undertake, and to appoint accounting
+auditors or business auditors registered in or outside the PRC to undertake
+a financial audit and examination of the Companies' financial statements
+and the other Party hereby consents to such an audit. HoldCo and NewCo, as
+the case may be, shall cooperate with the Parties and the auditors, and
+immediately upon receiving notice from the Party requesting such audit, it
+shall make all documents, including but not limited to ledgers and
+accounting records, requested by such Party available for inspection and
+shall extend all assistance reasonably necessary for the completion of any
+such audit, including but not limited to the provision of written and oral
+explanations as may be required by the auditors. All expenses of such
+financial audit and examination shall be borne by the Party that appointed
+the auditors. Any such auditor shall, as a condition to the conduct of the
+audit, be required to undertake in writing, in favour of the Companies and
+the other Party, to maintain the confidentiality of all information to
+which it has gained access during the course of such audit.
+
+Each Director shall have the right to inspect all of HoldCo's or NewCo's
+books and records, including without limitation all accounting documents,
+ledgers and vouchers at any time and to take such copies thereof as he may
+require.
+
+14.   Dividend Policy
+- ---------------------
+
+The Companies shall not distribute dividends for the financial years 2005
+and 2006 unless otherwise unanimously agreed to by the respective Board of
+Directors and shareholders. As of 2007, the Parties (unless otherwise
+agreed) agree that the Companies shall pay or distribute to their
+shareholders proportionate to their shareholdings and subject to a
+resolution of the Board of Directors of NewCo and the Shareholders' Meeting
+of HoldCo and to the extent permitted by applicable laws and regulations,
+the net profits as defined by US GAAP for the respective Company having
+regard to the following:
+
+a)    The paying or making of all necessary provisions for taxation;
+
+
+<PAGE>
+
+
+b)    The making of all necessary provisions for the repayment of
+      borrowings by the Companies;
+
+c)    The making of such reserves provisions and retentions as the Board of
+      Directors shall agree as being reasonable and prudent; and
+
+d)    Meeting all cash flow requirements of the business plan submitted for
+      the following year.
+
+15.   Foreign Exchange Rate
+- ---------------------------
+
+Any conversion between United States Dollars and Renminbi shall be
+calculated according to the median of the United States Dollars buying and
+selling rates quoted by the Bank of China on the date the deposit of such
+contribution is made into NewCo's bank account.
+
+16.   Confidentiality
+- ---------------------
+
+Each Party agrees to keep secret and confidential all business and
+technical information received from the other Party in connection with this
+Agreement and its performance and which the other Party expressly states to
+be confidential, or the confidential nature of which can be assumed on the
+basis of the circumstances of its disclosure, and to use such business and
+technical information solely for the purposes for which it was provided,
+and shall treat it in the same way as its own business secrets and not make
+it available to any third party, unless the business or technical
+information in question:
+
+a)    is generally available from public sources or in the public domain;
+or
+
+b)    is received at any time from any third party without nondisclosure
+obligation to the receiving Party; or
+
+c)    is shown to have been developed independently by the receiving Party
+without reliance on the disclosing Party's confidential information or to
+have been known to the receiving Party prior to its disclosure by the
+disclosing Party; or
+
+d)    must be disclosed to a third party for the purpose of performing this
+Agreement, if the third party is or becomes subject to an equivalent
+confidentiality obligation; or
+
+
+<PAGE>
+
+
+e)    is required to be disclosed pursuant to any applicable laws or any
+legal process issued by any competent court or tribunal.
+
+The obligations imposed by this clause shall continue and survive and
+remain in force and effect for a period of three years after termination of
+this Agreement.
+
+The Parties shall take all necessary steps to ensure that their directors,
+officers, employees, agent and subcontractors, if any, will comply in all
+respects with the provisions of this Clause 16.
+
+17.   Conditions Precedent and Subsequent
+- -----------------------------------------
+
+The respective obligation of each Party under this Agreement shall be
+conditional upon the satisfaction of the following conditions precedent on
+or prior to the Closing Date:
+
+17.1  Approvals and Documentation
+
+Any and all duly executed documentation, approvals required to be obtained
+from third parties and all relevant authorities to give effect to the
+transactions contemplated in this Agreement and the Ancillary Agreements,
+including all necessary business licenses, shall have been obtained by
+Parlex Corporation, Parlex and/or NewCo and/or HoldCo (as the case may be).
+Copies of all relevant documentation to evidence the foregoing and such
+other relevant documentation as may be necessary to evidence the foregoing
+shall be provided by Parlex not less than 5 days prior to the Closing Date.
+
+17.2  Legal Opinion
+
+Parlex shall provide Infineon with a legal opinion from the PRC law firm of
+Siway & Seaway, 14th Floor, Panorama Mansion, 53 HuangPu Road, Bund,
+200080, Shanghai, PRC in the form attached as Exhibit 5.2(m)(i) to the
+Stock Transfer Agreement and a legal opinion from the Hong Kong law firm of
+Morrison & Foerster in the form attached as Exhibit 5.2(m)(ii) to the Stock
+Transfer Agreement.
+
+17.3  Remaining Permits, Actions and Registrations
+
+Notwithstanding the provisions of Clause 17.1, all actions, consents,
+permits, approvals and registrations for items 1.1 to 1.9 in Exhibit 6.5 to
+the Stock Transfer Agreement shall be obtained
+
+
+<PAGE>
+
+
+and issued within 30 Business Days of the Closing Date and all actions,
+consents, permits, approvals and registrations for items 1.10 to 1.12 as in
+Exhibit 6.5 of the Stock Transfer Agreement shall be obtained and issued
+within 60 Business Days of the Closing Date.
+
+18.   Representation and Warranties of Parlex
+- ---------------------------------------------
+
+Parlex hereby represents and warrants to Infineon that, as of the Effective
+Date, the following statements are and shall be true and correct:
+
+a)    Organization
+
+Parlex is a corporation duly organized and validly existing under the laws
+of Hong Kong, and has the corporate power and authority to enter into and
+perform this Agreement.
+
+b)    Permits; Approvals
+
+Parlex holds all licenses, permits, certifications and other
+authorizations, the absence of which would have a material adverse effect
+on its financial condition or business, and there has been no default or
+violation under any such authorization and there is no proceeding or
+investigation that is pending or, to Parlex's actual knowledge, threatened
+under which any such authorization may be revoked, terminated or suspended.
+
+c)    Authorization
+
+All corporate action on the part of Parlex necessary for the authorization,
+execution and delivery of this Agreement and for the performance of all of
+its obligations hereunder has been taken, and this Agreement, when fully
+executed and delivered, shall constitute a valid, legally binding and
+enforceable obligation on Parlex.
+
+d)    Effect of Agreement
+
+Parlex's execution, delivery and performance of this Agreement will not (i)
+violate the Articles of Association of Parlex or any provision of any law,
+statute, rule or regulation to which Parlex is subject, (ii) violate any
+judgment, order, writ, injunction or decree of any court applicable to
+Parlex, or (iii) have any effect on the compliance of Parlex with any
+applicable licenses, permits or authorizations which would materially and
+adversely affect Parlex.
+
+
+<PAGE>
+
+
+19.   Representation and Warranties of Infineon
+- -----------------------------------------------
+
+Infineon hereby represents and warrants to Parlex that, as of the Effective
+Date, the following statements are and shall be true and correct:
+
+a)    Organization
+
+Infineon is a corporation duly organized and validly existing under the
+laws of Singapore and has the corporate power and authority to enter into
+and perform this Agreement.
+
+b)    Permits; Approvals
+
+Infineon holds all licenses, permits, certifications and other
+authorizations, the absence of which would have a material adverse effect
+on its financial condition or business, and there has been no default or
+violation under any such authorization and there is no proceeding or
+investigation that is pending or, to Infineon's actual knowledge,
+threatened under which any such authorization may be revoked, terminated or
+suspended.
+
+c)    Authorization
+
+All corporate action on the part of Infineon necessary for the
+authorization, execution and delivery of this Agreement and for the
+performance of all of its obligations hereunder has been taken, and this
+Agreement, when fully executed and delivered, shall constitute a valid,
+legally binding and enforceable obligation on Infineon.
+
+d)    Effect of Agreement
+
+Infineon's execution, delivery and performance of this Agreement will not
+(i) violate the Articles of Association of Infineon or any provision of any
+law, statute, rule or regulation to which Infineon is subject, (ii) violate
+any judgment, order, writ, injunction or decree of any court applicable to
+Infineon, or (iii) have any effect on the compliance of Infineon with any
+applicable licenses, permits or authorizations which would materially and
+adversely affect Infineon.
+
+20.   Deadlock Resolution Procedure
+- -----------------------------------
+
+
+<PAGE>
+
+
+Any controversy or claim specifically arising out of or relating to a
+Deadlock (as defined below in Clause 20.1 of this Agreement), shall be
+settled using the following procedure:
+
+20.1  Definition of Deadlock
+
+"Deadlock" shall mean any situation relating to any aspect of the business
+planning, operation or financial aspects of HoldCo or NewCo and which
+exists and has persisted for not less than sixty (60) days in which there
+is a substantial business disagreement between the Parties, which is
+manifested by the failure to garner affirmative votes for a resolution of
+the Board of Directors of either HoldCo or NewCo or the Shareholder
+Meetings of HoldCo.
+
+20.2  Good Faith Resolution of Deadlock
+
+In the event that a Deadlock exists, such Deadlock shall be submitted by
+either Party containing a notice that summarizes the issues in dispute
+(hereinafter the "Deadlock Notice") to CEO of Infineon's Secure Mobile
+Solutions Group and/or General Manager of Infineon's Chip Card Division of
+Infineon and CEO of Parlex for resolution. The respective senior officers
+of Parlex and Infineon shall meet at least once in person in a mutually
+convenient location and shall use their best efforts to resolve the dispute
+in the 14 calendar day period after the Deadlock Notice is submitted.
+
+In the event that the Deadlock cannot be resolved within the said 14
+calendar days period the Deadlock shall be submitted to the CEO of
+Infineon's Secure Mobile Solutions Group and/or General Manager of
+Infineon's Chip Card Division and the CEO of Parlex for resolution. The CEO
+of Parlex and the CEO of Infineon's Secure Mobile Solutions Group and/or
+General Manager of Infineon's Chip Card Division shall meet at least once
+in person in a mutually convenient location and will then use their best
+effort to resolve the dispute in the 14 calendar day period after such
+dispute is submitted.
+
+20.3  Mediation
+
+If the respective CEOs of the Parties are unable to resolve the Deadlock
+after the expiration of the second 14 calendar day period, they agree to
+jointly appoint a mutually acceptable neutral person not affiliated with
+either of the parties (the "Neutral"), seeking assistance in such regard
+from the Singapore Mediation Center - if they have been unable to agree
+upon such appointment within thirty (30) days from the initial meeting
+under Clause 20.2. The fees of the Neutral shall be
+
+
+<PAGE>
+
+
+shared equally by the parties, one half by Parlex and one half by Infineon.
+In consultation with the Neutral, the parties will select or devise a
+mediation procedure ("Mediation") by which they will attempt to resolve the
+dispute, and a time and place for the Mediation to be held, with the
+neutral making the decision as to the procedure, and/or place and time (but
+not later than twenty (20) days after selection of the Neutral), if the
+parties have been unable to agree on any such matters within fifteen (15)
+days after initial consultation with the Neutral. The parties agree to
+participate in good faith in the Mediation to its conclusion as designated
+by the Neutral, but in no event shall this obligation extend for more than
+sixty (60) days after selection of the Neutral, after which the parties
+shall be entitled to seek all remedies available to them hereunder, at law,
+in equity or otherwise.
+
+20.4  Buy-out Option
+
+a)    If the Parties fail to resolve the Deadlock in good faith in
+accordance with the provisions of paragraphs 20.2 and 20.3 above, then any
+Party ("First Party") may within 30 days after the failure of the
+mediation, serve a sale notice on the other Party ("Second Party") offering
+the Second Party the whole (but not part) of the First Party's shareholding
+in HoldCo for sale at the price stipulated therein (the "Sale Price"). The
+Sale Price shall specify the price for the entire shareholding of the First
+Party as well as a price per share. The sale notice shall provide that the
+offer will lapse 45 days after the sale notice is served on the Second
+Party.
+
+b)    The Second Party may, or may nominate a third party to, accept the
+offer to purchase the shareholding at the Sale Price at any time before the
+offer lapses.
+
+c)    If the offer is not accepted before it lapses, the Second Party will
+be deemed to have served a sale notice on the First Party offering to sell
+all its shareholding in HoldCo at the same Sale Price (proportionate to its
+shareholding and based on the price per share stipulated in the sale
+notice). The First Party will be bound to accept the offer within seven
+days, unless it introduces a third party which accepts the offer in that
+period.
+
+d)    Any sale under this clause shall be made effective within thirty days
+of the date of acceptance.
+
+21.   Term and Termination
+- --------------------------
+
+21.1  Term of Agreement
+
+
+<PAGE>
+
+
+This Agreement shall become effective upon fulfilment of the conditions
+precedent listed in Clause 17, the consummation of the Ancillary Agreements
+listed in Clause 6 and compliance with Clauses 2.5, 2.7, 3 and 4 on the
+Closing Date (herein collectively "Effective Date"), and continue in force
+until NewCo and HoldCo are both dissolved or unless this Agreement is
+sooner terminated pursuant to the provisions of this Clause 21 or if any
+Party ceases to be a shareholder of HoldCo. If the conditions precedent
+have not been satisfied within six months following the signing date, this
+Agreement shall become null and void.
+
+21.2  Termination for Cause
+
+In case of the occurrence of any of the following circumstances, this
+Agreement may be terminated with immediate effect by either Party by
+serving written notice (the "Termination Notice") upon the other Party:
+
+a)    The other Party is in material breach of this Agreement and the
+      breaching Party was granted a 60 day cure period before the
+      Termination Notice is served and did not cure the material breach
+      within this 60 day period;
+
+b)    The other Party is permanently or for a period of ninety (90)
+      consecutive days prevented or incapable of fulfilling its obligations
+      under this Agreement;
+
+c)    The other Party undergoes bankruptcy, composition or reorganization
+      proceedings or any other insolvency proceedings opened against it by
+      a court or another public authority or has voluntarily filed a
+      respective petition or has involuntarily filed against it a
+      respective petition which is not dismissed within sixty days;
+
+d)    The other Party has become insolvent or faces a substantial
+      deterioration, actual or imminent, from its position at the time of
+      execution of the Agreement in its assets;
+
+e)    The other Party has an order entered against it either appointing a
+      receiver or trustee for, or issuing a levy attachment against, a
+      substantial portion of its assets, without such order being vacated,
+      set aside or stayed within sixty days;
+
+f)    The other Party has its shares in the company seized by a creditor or
+      makes an assignment for the benefit of its creditors; or
+
+
+<PAGE>
+
+
+g)    The other Party is wound up.
+
+21.3  Consequences of Termination
+
+21.3.1   In case any of the circumstances stipulated in Clause 21.2 occurs,
+the Party serving the Termination Notice may elect either one of the
+following options:
+
+a)    Within 30 days after the day the Termination Notice was served, to
+serve a sale notice (the "Sale Notice") on the other Party offering to sell
+all of its shares in HoldCo at 120% of the Fair Value or Net Asset Value,
+which ever is higher (the "Put Option Price"). The Party who receives the
+Sale Notice must, by itself or through a third party nominee, accept the
+offer and must purchase all of the requesting Party's shares at the Put
+Option Price within 60 days after the above notice is served.
+
+b)    Within 30 days after the day the Termination Notice was served, to
+serve a purchase notice (the "Purchase Notice") on the other Party offering
+to purchase all of its shares at 80% of either the Fair Value or Net Asset
+Value, whichever is lower (the "Call Option Price"). The Party who receives
+the Purchase Notice must, by itself or through a third party nominee,
+accept the offer and must sell all of its shares to the requesting Party at
+the Call Option Price within 30 days after the above notice is served.
+
+21.3.2   For the purpose of this Clause 21 Net Asset Value and Fair Value
+shall mean the following:
+
+a)    Net Asset Value shall mean the book value of the assets of the
+Companies as determined by their latest available audited financial
+statements, as adjusted for capital increase or decrease or other major
+corporate activities which may affect the content of such financial
+statements, such valuation and adjustments to be made and certified by
+the Auditors within 30 days after the Sale Notice or Purchase Notice was
+served.
+
+b)    Fair Value shall mean fair value in the open market as between a
+willing seller and a willing buyer thereby acquiring control of HoldCo as
+determined by the Auditors. The Party serving the Termination Notice may
+request the Auditors to determine and certify the sum per share considered
+by them to be the Fair Value of the shares as at the date of service of the
+Termination Notice. The Auditors shall notify HoldCo of their determination
+of the Fair Value
+
+
+<PAGE>
+
+
+within 30 days after having received the request and HoldCo shall give
+immediate notice to the Parties in writing of the Fair Value so determined
+by the Auditors and a payment for the shares shall be due within thirty
+(30) days of the completion of the appraisal by the Auditor. In determining
+and certifying the Fair Value of the shares of HoldCo the Auditors shall
+act at the cost and expense of the Party that did not serve the Termination
+Notice and shall act as experts and not as arbitrators and their
+determination of the Fair Value shall be final and binding on the Parties.
+
+21.4  Survival
+
+Clauses 16, 23 and 24 shall survive termination of this Agreement. No
+termination shall relieve any Party from liability for any breach of this
+Agreement.
+
+22.   Dissolution
+- -----------------
+
+If a Company is dissolved following any decision by the Board of Directors
+of the Company in accordance with [SECTION]4(4) of the Rules of Procedure, the
+Company's debts shall be paid to the extent the Company's assets are
+available to do so and the remaining assets of the Company shall be
+distributed among its shareholders in accordance with the provisions of
+applicable law.
+
+23.   Applicable law
+- --------------------
+
+The substantive law applicable to this Agreement and its Exhibits is the
+law in force in Singapore unless (i) the Companies are subject to mandatory
+local law, or (ii) a different substantive law is explicitly mutually
+agreed upon in an Exhibit hereto.
+
+24.   Dispute Resolution
+- ------------------------
+
+24.1  Resolution in Good Faith
+
+Any controversy or claim arising out of or relating to this Agreement
+including any question regarding its existence, validity, termination or
+performance hereunder ("Dispute") (other than any dispute specifically
+arising out of or relating to a Deadlock (as defined in Clause 20.1 of this
+Agreement), which are to be regulated in the manner provided in Clauses
+20.2-20.4 hereof), shall be settled using the following procedure:
+
+
+<PAGE>
+
+
+In the event that a Dispute exists, such Dispute shall be submitted by
+either Party containing a notice that summarizes the issues in dispute
+(hereinafter the "Dispute Notice") to CEO of Infineon's Secure Mobile
+Solutions Group and/or General Manager of Infineon's Chip Card Division of
+Infineon and CEO of Parlex -for resolution. The respective senior officers
+of Parlex and Infineon shall meet at least once in person in a mutually
+convenient location and shall use their best efforts to resolve the dispute
+in the 14 calendar day period after the Dispute Notice is submitted.
+
+In the event that the Dispute cannot be resolved within the said 14
+calendar days period the Dispute shall be submitted to the CEO of
+Infineon's Secure Mobile Solutions Group and the CEO of Parlex for
+resolution. The respective CEOs of Parlex and Infineon's Secure Mobile
+Solutions Group shall meet at least once in person in xxx (or any other
+location agreed between the Parties) and will then use their best effort to
+resolve the dispute in the 14 calendar day period after such dispute is
+submitted.
+
+24.2  Mediation
+
+If the respective CEOs of the Parties are unable to resolve the dispute
+after the expiration of the second 14 calendar day period, they agree to
+jointly appoint a mutually acceptable neutral person not affiliated with
+either of the parties (the "Neutral"), seeking assistance in such regard
+from the Singapore Mediation Centre if they have been unable to agree upon
+such appointment within thirty (30) days from the initial meeting under
+Clause 24.1. The fees of the Neutral shall be shared equally by the
+parties, one half by Parlex and one half by Infineon. In consultation with
+the Neutral, the parties will select or devise a mediation procedure
+("Mediation") by which they will attempt to resolve the dispute, and a time
+and place for the Mediation to be held, with the neutral making the
+decision as to the procedure, and/or place and time (but not later than
+twenty (20) days after selection of the Neutral), if the parties have been
+unable to agree on any such matters within fifteen (15) days after initial
+consultation with the Neutral. The parties agree to participate in good
+faith in the Mediation to its conclusion as designated by the Neutral, but
+in no event shall this obligation extend for more than sixty (60) days
+after selection of the Neutral, after which the parties shall be entitled
+to seek all remedies available to them hereunder, at law, in equity or
+otherwise.
+
+24.3  Arbitration
+
+
+<PAGE>
+
+
+In the event that the Dispute can neither be resolved in good faith by
+senior management, nor through mediation, then the Dispute shall be
+submitted for final and binding arbitration to the Singapore International
+Arbitration Centre ("SIAC") by 3 arbitrators appointed in accordance with
+the provisions of the rules of SIAC ("SIAC Rules"). If there are two or
+more defendants, any nomination of an arbitrator by or on behalf of such
+defendants must be by joint agreement between them. If such defendants
+fail, within the time-limit specified by the SIAC Rules, to agree on such
+joint nomination, the proceedings against each of them must be separated.
+
+The seat of arbitration shall be Singapore. The procedural law of Singapore
+shall apply where the SIAC Rules are silent.
+
+The language to be used in the arbitration proceedings shall be English.
+
+The arbitral award shall be substantiated in writing. The arbitral tribunal
+shall decide on the matter of costs of the arbitration and on the
+allocation of expenditures among the respective Parties to the arbitration
+proceedings. Each Party shall bear the cost of its own attorneys' fees and
+expert witness fees.
+
+25.   Miscellaneous
+- -------------------
+
+25.1  This Agreement cannot be modified except by written instrument signed
+      by both Parties. This requirement of written form can only be waived
+      in writing.
+
+25.2  Neither Party shall be liable to the others for failure or delay in
+      the performance of any of its obligations under this Agreement for
+      the time and to the extent such failure or delay is caused by force
+      majeure (such as without limitation, riots, wars, freight embargo,
+      shortage of supply, hostilities between nations, governmental laws,
+      earthquakes, storms, fires, sabotages, explosions or any other
+      contingencies beyond the reasonable control of the respective Party).
+      On the occurrence of such an event, the affected Party shall
+      immediately inform the other Party of such circumstances together
+      with documents of proof and the performance of obligations hereunder
+      shall be suspended during, but not longer than, the period of
+      existence of such cause and the period reasonably required to perform
+      the obligations in such cases. The Party suffering such force majeure
+      shall use reasonable efforts to remove or remedy such cause.
+
+
+<PAGE>
+
+
+25.3  This Agreement may be executed in several counterparts, each of which
+      shall be deemed to be an original, but all of which shall constitute
+      one and the same instrument. Delivery of an executed counterpart of a
+      signature page to this Agreement by facsimile shall be as effective
+      as the delivery of a manually executed counterpart of this Agreement.
+
+25.4  Except otherwise provided in this Agreement, communications between
+      Infineon and Parlex shall be given in writing, by post, or by
+      telefax, to the following addresses of the Parties or to such other
+      addresses as the Party concerned may subsequently notify in writing
+      to the other Party:
+
+      If to Parlex to:
+      ----------------
+      Parlex Corporation
+      One Parlex Place
+      Methuen, MA 01844
+      United States
+      Attn.: Peter Murphy, President and CEO
+      Fax: 00-1-978-685-7867
+
+      with a copy to:
+      Kutchin & Rufo, P.C.
+      155 Federal Street
+      Boston, MA 02110
+      United States
+      Attn.: Edward D. Kutchin, Esq.
+      Fax: 00-1-617-542-3001
+
+      If to Infineon to:
+      ------------------
+      Infineon Technologies AG
+      Legal Department
+      p.o. box 800949
+      81609 Munich, Germany
+      Fax: + 49 89 234 26993
+
+25.5  No right or interest in this Agreement shall be assigned or
+      transferred to any third party by a Party hereto without first
+      obtaining written consent from the other Party, except that each
+      Party may freely assign this Agreement to an Affiliate, provided
+      however that the
+
+
+<PAGE>
+
+
+      transferring Party shall have caused such Affiliate to enter into any
+      agreement with the other Party by which such Affiliate agrees to be
+      bound by the covenants of this Agreement and to perform the
+      obligations of the transferring Party under this Agreement.
+
+25.6  The governing language between the Parties shall be English. All
+      reports, statements, balance sheets and the like to be prepared and
+      issued by NewCo shall be made available in English language. The same
+      applies for any kind of communication in and between the corporate
+      bodies of NewCo and between HoldCo, NewCo and the Parties hereto.
+
+25.7  If any provision contained in this Agreement is or becomes
+      ineffective or is held to be invalid by a competent authority or
+      court having final jurisdiction thereover, all other provisions of
+      this Agreement shall remain in full force and effect and there shall
+      be substituted for the said invalid provision a valid provision
+      having an economic effect as similar as possible to the original
+      provision.
+
+25.8  This Agreement and any documents attached hereto constitute the
+      entire agreement between the Parties with respect to the transactions
+      contemplated hereby and, except as otherwise expressly set forth
+      herein, supersedes all prior discussions, understandings, agreements
+      and negotiations between the Parties with respect to such subject
+      matter.
+
+25.9  The Exhibits, which are or will be attached hereto, shall constitute
+      an integral part hereof.
+
+25.10 Unless otherwise required by applicable law or by obligations of the
+      Parties or their Affiliates pursuant to any listing agreement with or
+      rules of any securities exchange, the Parties shall consult with each
+      other before issuing any press release or otherwise making any public
+      statement with respect to this Agreement, the transactions
+      contemplated hereby or the activities and operations of the other
+      Party and shall not issue any such release or make any such statement
+      without the prior written consent of the other Party (such consent
+      not to be unreasonably withheld or delayed).
+
+25.11 No Third Party Beneficiaries
+
+      This Agreement is for the sole benefit of the parties hereto and
+      their permitted assigns and Affiliates and nothing herein, express or
+      implied, is intended to or shall confer upon any other party any
+      legal or equitable benefit, claim, cause of action, remedy or right
+      of any
+
+
+<PAGE>
+
+
+      kind. The parties further agree that the Contracts (Rights of Third
+      Parties) Act (Chapter 53B) is hereby expressly excluded.
+
+
+<PAGE>
+
+
+IN WITNESS WHEREOF the Parties have caused their duly authorized
+representatives to execute this Agreement as of the dates stated below.
+
+
+Infineon Technologies Asia Pacific Pte Ltd
+
+
+By: /s/ Loh Kin Wah                       And By: /s/ Klaus Gohlke
+    ----------------------------------            -------------------------
+
+Print Name: Mr. Loh Kin Wah               Print Name: Dr. Klaus Gohlke
+            --------------------------                ---------------------
+
+Title: President and Managing Director    Title: Vice President, AP
+       -------------------------------           Corporate Finance and
+                                                 Company Director
+
+Date: December 22, 2004                   Date: December 22, 2004
+      --------------------------------          ---------------------------
+
+
+Parlex Asia Pacific Ltd.
+
+
+By: s/ Peter J. Murphy
+    -------------------------
+
+Print Name: Peter J. Murphy
+            -----------------
+
+Title: Director
+       ----------------------
+
+Date: December 22, 2004
+      -----------------------
+
+
+<PAGE>
+
+

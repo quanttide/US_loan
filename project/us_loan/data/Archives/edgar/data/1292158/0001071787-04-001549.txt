@@ -1,0 +1,385 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ ExKJrunD1+XRJiscoJWe2FFGVPa/1jT+AePRYpp+0vrH/DKiP3/ZttOs1qISyHOQ
+ sOWAwI70E6aYHH0bcJMoig==
+
+<SEC-DOCUMENT>0001071787-04-001549.txt : 20041229
+<SEC-HEADER>0001071787-04-001549.hdr.sgml : 20041229
+<ACCEPTANCE-DATETIME>20041229165632
+ACCESSION NUMBER:		0001071787-04-001549
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20041225
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20041229
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CWMBS Mortgage Pass-Through Trust 2004-HYB3
+		CENTRAL INDEX KEY:			0001292158
+		STANDARD INDUSTRIAL CLASSIFICATION:	ASSET-BACKED SECURITIES [6189]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-109248-17
+		FILM NUMBER:		041231649
+
+	BUSINESS ADDRESS:	
+		STREET 1:		4500 PARK GRANADA
+		CITY:			CALABASAS
+		STATE:			CA
+		ZIP:			91302
+		BUSINESS PHONE:		8183045591
+
+	MAIL ADDRESS:	
+		STREET 1:		4500 PARK GRANADA
+		STREET 2:		155 N LAKE AVE
+		CITY:			PASADENA
+		STATE:			CA
+		ZIP:			91302
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>cw04hb3_8k0412.txt
+<TEXT>
+                      SECURITIES AND EXCHANGE COMMISSION
+
+                            Washington, D.C. 20549
+
+                                   FORM 8-K
+
+                                CURRENT REPORT
+
+                    Pursuant to Section 13 or 15(d) of the
+
+                        Securities Exchange Act of 1934
+
+      Date of Report (Date of earliest event reported): December 20, 2004
+
+                                       CW
+
+                                  (Depositor)
+
+    (Issuer in respect of CHL Mortgage Pass-Through Trust, Series 2004-HYB3)
+
+                (Exact name of registrant as specified in charter)
+
+Delaware                      33-63714                      95-4449516
+(State or other               (Commission File No.)         (I.R.S. Employer
+    jurisdiction of                                         Identification No.)
+    organization)
+
+
+
+, , N/A                                                     91110-7137
+(Address of principal executive offices)                    (Zip Code)
+
+
+Registrant's Telephone Number, including area code: (818)-304-4428
+
+                                 Not Applicable
+              (Former name, former address and former fiscal year,
+                          if changed since last report)
+
+Check the appropriate box below if the Form 8-K filing is intended to
+simultaneously satisfy the filing obligation of the registrant under any of the
+following provisions.
+
+[]Written communications pursuant to Rule 425 under the Securities Act (17
+  CFR 230.425)
+[]Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17
+  CFR 240.14a-12)
+[]Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange
+  Act (17 CFR 240.14d-2(b))
+[]Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange
+  Act (17 CFR 240.13e-4(c))
+
+
+<PAGE>
+
+
+                    Section 8 - Other Events
+
+  Item 8.01  Other Events
+
+                    Section 9 - Financial Statements and Exhibits
+
+  Item 9.01  Financial Statements and Exhibits
+
+
+<PAGE>
+
+
+
+                                   SIGNATURES
+
+Pursuant  to the  requirements  of the  Securities  Exchange  Act of  1934,  the
+registrant  has duly  caused  this  report  to be  signed  on its  behalf by the
+undersigned thereunto duly authorized.
+
+Dated: December 20, 2004
+
+
+                                       CW
+
+
+                          By: /s/ AnnMarie Cassano
+                              ------------------------------
+                          Name:   AnnMarie Cassano
+                                  Assistant Treasurer
+                                  The Bank of New York,
+                                  as Trustee
+
+
+
+<PAGE>
+
+
+
+                                 EXHIBIT INDEX
+
+
+
+Exhibit
+
+
+99                  Monthly Remittance Statement dated December 20, 2004
+
+
+                             Payment Date: 12/20/04
+
+
+          ------------------------------------------------------------
+                      Countrywide Home Loans Servicing LP
+               CHL Mortgage Pass-Through Trust, Series 2004-HYB3
+          ------------------------------------------------------------
+<TABLE>
+<CAPTION>
+
+Class Information                                Current Payment Information
+
+- ----------------------------------------------------------------------------------------------------------------------------------
+                                 Beginning       Pass Thru     Principal       Interest      Total           Principal  Interest
+Type       Class Code   Name     Cert. Bal.      Rate          Dist. Amt.      Dist. Amt.    Dist.           Losses     Shortfalls
+- ----------------------------------------------------------------------------------------------------------------------------------
+<S>        <C>          <C>      <C>             <C>           <C>             <C>           <C>             <C>        <C>
+Senior                  1A        106,793,086.12    3.608577%     2,370,085.81    321,142.53    2,691,228.34       0.00       0.00
+                        2A        138,662,268.68    4.163000%     2,836,302.88    481,042.53    3,317,345.42       0.00       0.00
+                        3A         31,620,803.67    3.854272%         8,931.93    101,562.64      110,494.57       0.00       0.00
+Residual                AR                  0.00    0.000000%             0.00          0.00            0.00       0.00       0.00
+- ----------------------------------------------------------------------------------------------------------------------------------
+Subordinate             M           3,928,068.43    3.904394%         3,051.88     12,780.61       15,832.49       0.00       0.00
+                        B1          3,142,653.84    3.904394%         2,441.66     10,225.13       12,666.80       0.00       0.00
+                        B2          2,199,957.23    3.904394%         1,709.24      7,157.92        8,867.16       0.00       0.00
+                        B3          2,199,957.23    3.904394%         1,709.24      7,157.92        8,867.16       0.00       0.00
+                        B4            785,414.60    3.904394%           610.22      2,555.47        3,165.70       0.00       0.00
+                        B5            472,695.65    3.904394%           367.24      1,537.99        1,905.23       0.00       0.00
+- ----------------------------------------------------------------------------------------------------------------------------------
+- ----------------------------------------------------------------------------------------------------------------------------------
+Totals          -        -        289,804,905.46     -            5,225,210.11    945,162.74    6,170,372.85     -          -
+- ----------------------------------------------------------------------------------------------------------------------------------
+Class Information
+
+- --------------------------------------------------------------------------------
+                                             Ending Cert.          Unpaid
+Type             Class Code     Name         Notional Bal.         Interest
+- --------------------------------------------------------------------------------
+Senior                          1A        104,423,000.31              0.00
+                                2A        135,825,965.80              0.00
+                                3A         31,611,871.74              0.00
+Residual                        AR                  0.00              0.00
+- --------------------------------------------------------------------------------
+Subordinate                     M           3,925,016.55              0.00
+                                B1          3,140,212.18              0.00
+                                B2          2,198,247.99              0.00
+                                B3          2,198,247.99              0.00
+                                B4            784,804.37              0.00
+                                B5            472,328.41              0.00
+- --------------------------------------------------------------------------------
+- --------------------------------------------------------------------------------
+Totals            -              -        284,579,695.35     -
+- --------------------------------------------------------------------------------
+
+</TABLE>
+<PAGE>
+                             Payment Date: 12/20/04
+
+
+          ------------------------------------------------------------
+                      Countrywide Home Loans Servicing LP
+               CHL Mortgage Pass-Through Trust, Series 2004-HYB3
+          ------------------------------------------------------------
+<TABLE>
+<CAPTION>
+
+Class Information                                Current Payment Information
+
+                                                      Factors per $1,000
+
+- ------------------------------------------------------------------------------------------------------------------------
+                                   Beginning     Pass Thru    CUSIP       Principal     Interest    Ending Cert./
+Type        Class Code    Name   Cert. Bal.(Face)  Rate       Numbers       Dist.         Dist.     Notional Bal.
+- ------------------------------------------------------------------------------------------------------------------------
+<S>         <C>           <C>    <C>               <C>        <C>         <C>           <C>         <C>
+- ------------------------------------------------------------------------------------------------------------------------
+Senior                     1A    106,793,086.12     3.608577% 12669FYX5    19.173590      2.597988    844.764265
+                           2A    138,662,268.68     4.163000% 12669FYY3    19.321917      3.277035    925.295423
+                           3A     31,620,803.67     3.854272% 12669FYZ0     0.274415      3.120300    971.208693
+Residual                   AR              0.00     0.000000% 12669FZG1     0.000000      0.000000      0.000000
+- ------------------------------------------------------------------------------------------------------------------------
+Subordinate                M       3,928,068.43     3.904394% 12669FZA4     0.773412      3.238877    994.682349
+                           B1      3,142,653.84     3.904394% 12669FZB2     0.773412      3.238877    994.682349
+                           B2      2,199,957.23     3.904394% 12669FZC0     0.773412      3.238877    994.682349
+                           B3      2,199,957.23     3.904394% 12669FZD8     0.773412      3.238877    994.682349
+                           B4        785,414.60     3.904394% 12669FZE6     0.773412      3.238877    994.682349
+                           B5        472,695.65     3.904394% 12669FZF3     0.773379      3.238913    994.693681
+- ------------------------------------------------------------------------------------------------------------------------
+- ------------------------------------------------------------------------------------------------------------------------
+Totals       -             -     289,804,905.46       -            -           -             -           -
+- ------------------------------------------------------------------------------------------------------------------------
+- ------------------------------------------------------------------------------------------------------------------------
+</TABLE>
+
+
+<PAGE>
+
+          ------------------------------------------------------------
+                      Countrywide Home Loans Servicing LP
+               CHL Mortgage Pass-Through Trust, Series 2004-HYB3
+          ------------------------------------------------------------
+
+- --------------------------------------------------------------------------------
+                             COLLATERAL INFORMATION
+- --------------------------------------------------------------------------------
+
+Prin balance       109,587,646.99   142,006,761.72    32,985,286.52
+Loan count                    219              267               51
+Avg loan rate           3.992577%        4.773778%        4.238272%
+Prepay amount        2,209,481.17     2,788,940.20         8,957.64
+
+                          Total
+                          -----
+Prin balance       284,579,695.23
+Loan count                    537
+Avg loan rate                4.41
+Prepay amount        5,007,379.01
+
+- --------------------------------------------------------------------------------
+                                FEES AND ADVANCES
+- --------------------------------------------------------------------------------
+
+Master serv fees        30,181.58        65,789.68        10,310.69
+Sub servicer fees            0.00           509.11             0.00
+Trustee fees               839.74         1,086.34           247.46
+
+
+Agg advances                  N/A              N/A              N/A
+Adv this period          5,805.71         8,994.72         2,776.04
+
+                          Total
+                          -----
+Master serv fees       106,281.95
+Sub servicer fees          509.11
+Trustee fees             2,173.54
+
+
+Agg advances                  N/A
+Adv this period         17,576.47
+
+- --------------------------------------------------------------------------------
+                          LOSSES & INSURANCE COVERAGES
+- --------------------------------------------------------------------------------
+
+Realized losses              0.00             0.00             0.00
+Cumulative losses            0.00             0.00             0.00
+
+                          Total
+                          -----
+Realized losses              0.00
+Cumulative losses            0.00
+
+Coverage Amounts
+- ----------------
+Bankruptcy              40,802.55        48,453.67        10,743.78
+Fraud                2,576,599.26     3,059,751.57       678,448.17
+Special Hazard       1,529,875.54             0.00             0.00
+
+                          Total
+                          -----
+Bankruptcy             100,000.00
+Fraud                6,314,799.00
+Special Hazard       1,529,875.54
+
+
+                         Aggregate Certificate Information
+   -----------------------------------------------------------------------------
+   Class            Aggregate           Aggregate                     Aggregate
+   Type            Percentage           Prepay Pct.              End Cert. Bal.
+   -----------------------------------------------------------------------------
+   Senior           95.611085%           100.000000%            277,076,158.48
+   -----------------------------------------------------------------------------
+   Junior            4.388915%             0.000000%             12,718,857.49
+   -----------------------------------------------------------------------------
+
+- --------------------------------------------------------------------------------
+                          DELINQUENCY INFORMATION
+- --------------------------------------------------------------------------------
+Period                             Loan Count    Ending Stated Balance
+- ------                             ----------    ---------------------
+30 to 59 days                           6                 3,694,933.03
+60 to 89 days                           0                         0.00
+90 or more                              0                         0.00
+Foreclosure                             0                         0.00
+
+Totals:                                 6                 3,694,933.03
+- --------------------------------------------------------------------------------
+
+
+<PAGE>
+- --------------------------------------------------------------------------------
+                                REO INFORMATION
+- --------------------------------------------------------------------------------
+   REO Date        Loan Number     Ending Stated Balance          Book Value
+   --------        -----------     ---------------------          ----------
+   N/A              #                   0                            N/A
+   N/A              #                   0                            N/A
+   N/A              #                   0                            N/A
+   N/A              #                   0                            N/A
+   N/A              #                   0                            N/A
+   N/A              #                   0                            N/A
+   N/A              #                   0                            N/A
+   N/A              #                   0                            N/A
+   Totals:                              0                            N/A
+
+Current Total Outstanding Balance:                                      0.00
+Current Total Outstanding Number of Loans:                                 0
+
+
+
+<PAGE>
+- --------------------------------------------------------------------------------
+                               OTHER INFORMATION
+- --------------------------------------------------------------------------------
+                                  Amount/Withdrawal     Total/Ending Bal.
+                                  -----------------     -----------------
+Available remittance amount            6,170,372.85          6,170,372.85
+Principal remittance amount            5,225,210.11          5,225,210.11
+Interest remittance amount               945,162.74            945,162.74
+
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

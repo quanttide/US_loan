@@ -1,0 +1,189 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ GTwSlCTn1SG4+vw0On02gvkCOavy7suu8MSJkmAOt6RR5a6UeOjUbUgUNXupdnik
+ xePYt6WcTh/Sw4kJteZSyg==
+
+<SEC-DOCUMENT>0000891092-04-006023.txt : 20041222
+<SEC-HEADER>0000891092-04-006023.hdr.sgml : 20041222
+<ACCEPTANCE-DATETIME>20041222171333
+ACCESSION NUMBER:		0000891092-04-006023
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20041222
+ITEM INFORMATION:		Other Events
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20041222
+DATE AS OF CHANGE:		20041222
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			MARINE PRODUCTS CORP
+		CENTRAL INDEX KEY:			0001129155
+		STANDARD INDUSTRIAL CLASSIFICATION:	SHIP & BOAT BUILDING & REPAIRING [3730]
+		IRS NUMBER:				582572419
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-16263
+		FILM NUMBER:		041221592
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2170 PIEDMONT ROAD NE
+		CITY:			ATLANTA
+		STATE:			GA
+		ZIP:			30324
+		BUSINESS PHONE:		4043212140
+
+	MAIL ADDRESS:	
+		STREET 1:		2170 PIEDMONT ROAD NE
+		CITY:			ATLANTA
+		STATE:			GA
+		ZIP:			30324
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>e20208_8k.txt
+<DESCRIPTION>FORM 8-K
+<TEXT>
+================================================================================
+
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+
+                        --------------------------------
+
+                                    FORM 8-K
+
+                        --------------------------------
+
+                                 CURRENT REPORT
+                     PURSUANT TO SECTION 13 OR 15(d) OF THE
+                         SECURITIES EXCHANGE ACT OF 1934
+
+       Date of Report (Date of earliest event reported): December 22, 2004
+
+                           MARINE PRODUCTS CORPORATION
+             (Exact name of registrant as specified in its charter)
+
+          Delaware                       1-6263                  58-2572419
+(State or Other Jurisdiction    (Commission File Number)       (IRS Employer
+      of Incorporation)                                      Identification No.)
+
+                 2170 Piedmont Road, NE, Atlanta, Georgia 30324
+               (Address of principal executive office) (zip code)
+
+       Registrant's telephone number, including area code: (404) 321-7910
+
+      Check the  appropriate  box below if the Form 8-K  filing is  intended  to
+simultaneously  satisfy the filing obligation of the registrant under any of the
+following provisions (see General Instruction A.2. below):
+
+|_|   Written  communications  pursuant to Rule 425 under the Securities Act (17
+      CFR 230.425)
+
+|_|   Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR
+      240.14a-12)
+
+|_|   Pre-commencement  communications  pursuant  to  Rule  14d-2(b)  under  the
+      Exchange Act (17 CFR 240.14d-2(b))
+
+|_|   Pre-commencement  communications  pursuant  to  Rule  13e-4(c)  under  the
+      Exchange Act (17 CFR 240.13e-4(c))
+
+================================================================================
+<PAGE>
+
+Item 8.01 Other Events.
+
+On  December  22,  2004,  Marine  Products  Corporation  issued a press  release
+entitled,  "Marine Products  Corporation  Comments on Unusual Trading Activity,"
+that  commented  on  trading  volume and price  changes  in its common  stock on
+December 22, 3004.
+
+Item 9.01 Financial Statements and Exhibits.
+
+      (c)   Exhibits.
+
+      Exhibit 99 - Press Release dated December 22, 2004.
+
+
+                                      -2-
+<PAGE>
+
+                                   SIGNATURES
+
+      Pursuant  to the  requirements  of the  Securities  Exchange  Act of 1934,
+Marine  Products  Corporation  has duly  caused  this report to be signed on its
+behalf by the undersigned hereunto duly authorized.
+
+                                              Marine Products Corporation.
+
+Date: December 22, 2004                       /s/ BEN M. PALMER
+                                              ----------------------------------
+                                              Ben M. Palmer
+                                              Vice President,
+                                              Chief Financial Officer and
+                                              Treasurer
+
+
+                                      -3-
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>2
+<FILENAME>e20208ex99.txt
+<DESCRIPTION>PRESS RELEASE
+<TEXT>
+                                                                      Exhibit 99
+
+[LOGO] MARINE PRODUCTS
+       CORPORATION
+
+FOR IMMEDIATE RELEASE
+
+                     MARINE PRODUCTS CORPORATION COMMENTS ON
+                            UNUSUAL TRADING ACTIVITY
+
+ATLANTA, December 22, 2004 -- Marine Products Corporation (AMEX: MPX) commented
+today on unusual trading activity in its common stock. The trading volume of
+Marine Products Corporation's stock was approximately 168,000 shares today and
+the closing price was $24.07, a decline of $3.18 or 11.7% from the previous
+day's closing price.
+
+The Company stated that there has been no material development in its business
+and affairs not previously disclosed publicly, or to its knowledge, any other
+reason to account for the unusual market activity.
+
+Marine Products is a leading manufacturer of fiberglass boats, including
+Chaparral pleasure boats and Robalo sport fishing boats. Marine Products
+Corporation's investor Web site can be found on the Internet at
+http://www.marineproductscorp.com.
+
+For information about Marine Products Corporation please contact:
+
+BEN M. PALMER
+Chief Financial Officer
+404.321.7910
+irdept@marineproductscorp.com
+
+JIM LANDERS
+Corporate Finance
+404.321.2162
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

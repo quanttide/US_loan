@@ -1,0 +1,1501 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ VT+BhFsPKDRFTozCFkqBUihv/EpQv+3tvLDKs0RcD7NMutNASNz7KVQH/r3H//kP
+ PN18BhTd+CvHxZqkd+bjbw==
+
+<SEC-DOCUMENT>0001170377-04-000013.txt : 20041228
+<SEC-HEADER>0001170377-04-000013.hdr.sgml : 20041228
+<ACCEPTANCE-DATETIME>20041228130411
+ACCESSION NUMBER:		0001170377-04-000013
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20041220
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20041228
+DATE AS OF CHANGE:		20041228
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			HOUSEHOLD REVOLVING HOME EQUITY LOAN TRUST 2001-1
+		CENTRAL INDEX KEY:			0001170377
+		STANDARD INDUSTRIAL CLASSIFICATION:	ASSET-BACKED SECURITIES [6189]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-84611-01
+		FILM NUMBER:		041227988
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2700 SANDERS RD
+		CITY:			PROSPECT HEIGHTS
+		STATE:			IL
+		ZIP:			60070
+		BUSINESS PHONE:		8475645000
+
+	MAIL ADDRESS:	
+		STREET 1:		2700 SANDERS ROAD
+		CITY:			PROSPECT HEIGHTS
+		STATE:			IL
+		ZIP:			60070
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>hel20011.htm
+<TEXT>
+<HTML>
+<HEAD>
+
+<TITLE>SECURITIES AND EXCHANGE COMMISSION</TITLE>
+</HEAD>
+<BODY>
+
+<TABLE BORDER CELLSPACING=1 CELLPADDING=7 WIDTH=630>
+<TR><TD VALIGN="TOP" COLSPAN=6>
+<P ALIGN="CENTER">UNITED STATES<BR>
+SECURITIES AND EXCHANGE COMMISSION</TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=6>
+<FONT SIZE=3><P ALIGN="CENTER">Washington, D.C. 20549<BR>
+</FONT></TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=6>
+<B><P ALIGN="CENTER">FORM 8-K<BR>
+</B></TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=6>
+<B><P ALIGN="CENTER">CURRENT REPORT</B></TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=6>
+<B><P ALIGN="CENTER">Pursuant to Section 13 or 15 (d) of the Securities Exchange Act of 1934<BR>
+</B></TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=6>
+<P>Date of Report (Date of earliest event reported):<U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;December 20, 2004&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<BR>
+</U></TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=6>
+<P ALIGN="CENTER">HOUSEHOLD HOME EQUITY LOAN TRUST 2001-1</TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=6>
+<P ALIGN="CENTER">(Exact name of registrant as specified in its charter)<BR>
+</TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=6>
+<U><P ALIGN="CENTER">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HSBC FINANCE CORPORATION&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<BR>
+</U>(Master Servicer of the Trust)<BR>
+(Exact name as specified in Master Servicer's charter)<BR>
+</TD>
+</TR>
+<TR><TD WIDTH="35%" VALIGN="TOP" COLSPAN=3>
+<U><P ALIGN="CENTER">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Delaware&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P>
+</U><P ALIGN="CENTER">(State or other jurisdiction of incorporation of Master Servicer)<BR>
+</TD>
+<TD WIDTH="32%" VALIGN="TOP">
+<U><P ALIGN="CENTER">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;333-84611-01&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P>
+</U><P ALIGN="CENTER">(Commission File Number)</TD>
+<TD WIDTH="33%" VALIGN="TOP" COLSPAN=2>
+<U><P ALIGN="CENTER">Not Applicable<BR>
+</U>(IRS Employer Identification Number of Registrant)</TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" COLSPAN=5>
+<U><P>&nbsp;&nbsp;&nbsp;2700 Sanders Road, Prospect Heights, Illinois&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<BR>
+</U>(Address of principal executive offices of Master Servicer)<U> </U></TD>
+<TD WIDTH="27%" VALIGN="TOP">
+<U><P ALIGN="CENTER">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;60070&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<BR>
+</U>(Zip Code)<BR>
+</TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=6>
+<P>Master Servicer's telephone number, including area code <U>847/564-5000</U></TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" COLSPAN=5>&nbsp;</TD>
+<TD WIDTH="27%" VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=6>
+<P ALIGN="CENTER">Not Applicable</TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=6>
+<P ALIGN="CENTER">(Former name or former address, if changed since last report.)</TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=6>
+
+<P>Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2.below):</P>
+
+<P>[  ]  Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)</P>
+
+<P>[  ]  Solicitation material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)</P>
+
+<P>[  ]  Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act <BR>
+(17 CFR 240.14d-2(b))</P>
+
+<P>[  ]  Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act <BR>
+(17 CFR 240.13e-4(c))</TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" COLSPAN=5>&nbsp;</TD>
+<TD WIDTH="27%" VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=6>
+<P ALIGN="CENTER">- Page 1 -</TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" COLSPAN=5>&nbsp;</TD>
+<TD WIDTH="27%" VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="73%" VALIGN="TOP" COLSPAN=5>&nbsp;</TD>
+<TD WIDTH="27%" VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=6>
+<P>Item 9.01&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;FINANCIAL STATEMENTS AND EXHIBITS<BR>
+</TD>
+</TR>
+<TR><TD WIDTH="20%" VALIGN="TOP" COLSPAN=2>
+<P>(c)&nbsp;&nbsp;&nbsp;<U>Exhibits<BR>
+</U></TD>
+<TD WIDTH="80%" VALIGN="TOP" COLSPAN=4>&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="20%" VALIGN="TOP" COLSPAN=2>
+<P>99(a)</TD>
+<TD WIDTH="80%" VALIGN="TOP" COLSPAN=4>
+<P>Monthly Statement to Certificateholders dated December 20, 2004 pursuant to Section 5.02 of the Pooling and Servicing Agreement dated as of May 1, 2001 (the &quot;Agreement&quot;), by and among HFC Revolving Corporation, as Seller, Household Finance Corporation, as Master Servicer, and Bank One, National Association, as Trustee, with respect to the Closed-End Home Equity Loan Asset Backed Certificates, Series 2001-1.<BR>
+</TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=6>&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=6>
+<P ALIGN="CENTER">SIGNATURE<BR>
+</TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=6>
+<P ALIGN="JUSTIFY">&nbsp;&nbsp;&nbsp;&nbsp;Pursuant to the requirements of the Securities Exchange Act of 1934, the Master Servicer has duly caused this report to be signed on behalf of the undersigned hereunto duly authorized.</TD>
+</TR>
+<TR><TD WIDTH="19%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="81%" VALIGN="TOP" COLSPAN=5>
+<P>HSBC FINANCE CORPORATION,<BR>
+as Master Servicer of and on behalf of the </P>
+<P><BR>
+<U>HOUSEHOLD HOME EQUITY LOAN TRUST 2001-1</U><BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Registrant)</TD>
+</TR>
+<TR><TD WIDTH="19%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="81%" VALIGN="TOP" COLSPAN=5>&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="19%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="81%" VALIGN="TOP" COLSPAN=5>&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="19%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="81%" VALIGN="TOP" COLSPAN=5>
+<P>By:&nbsp;&nbsp;<U>/s/ P. D. Schwartz&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<BR>
+</U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Patrick D. Schwartz<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Authorized Representative<BR>
+</TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=6>
+<P>Dated: <U>December 27, 2004</U></TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=6>
+<P ALIGN="CENTER">- Page 2 -</TD>
+</TR>
+</TABLE>
+
+<FONT SIZE=2>
+<P>&nbsp;</P></FONT>
+<TABLE CELLSPACING=0 BORDER=0 CELLPADDING=7 WIDTH=624>
+<TR><TD WIDTH="21%" VALIGN="TOP" COLSPAN=2>&nbsp;</TD>
+<TD WIDTH="79%" VALIGN="TOP">
+<P><BR>
+</TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=3>
+<P ALIGN="CENTER">EXHIBIT INDEX</TD>
+</TR>
+<TR><TD WIDTH="20%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="80%" VALIGN="TOP" COLSPAN=2>&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="20%" VALIGN="TOP">
+<P>Exhibit<BR>
+<U>Number&nbsp;&nbsp;&nbsp;</U></TD>
+<TD WIDTH="80%" VALIGN="TOP" COLSPAN=2>
+<P><BR>
+<U>Exhibit<BR>
+</U></TD>
+</TR>
+<TR><TD WIDTH="20%" VALIGN="TOP">
+<P>99(a)</TD>
+<TD WIDTH="80%" VALIGN="TOP" COLSPAN=2>
+<P>Monthly Statement to Certificateholders dated December 20, 2004 pursuant to Section 5.02 of the Pooling and Servicing Agreement dated as of May 1, 2001 (the &quot;Agreement&quot;), by and among HFC Revolving Corporation, as Seller, Household Finance Corporation, as Master Servicer, and Bank One, National Association, as Trustee, with respect to the Closed-End Home Equity Loan Asset Backed Certificates, Series 2001-1.<BR>
+</TD>
+</TR>
+<TR><TD WIDTH="20%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="80%" VALIGN="TOP" COLSPAN=2>&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="20%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="80%" VALIGN="TOP" COLSPAN=2>&nbsp;</TD>
+</TR>
+<TR><TD VALIGN="TOP" COLSPAN=3>
+<P ALIGN="CENTER">- Page 3 - </TD>
+</TR>
+<TR><TD WIDTH="20%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="80%" VALIGN="TOP" COLSPAN=2>&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="20%" VALIGN="TOP">&nbsp;</TD>
+<TD WIDTH="80%" VALIGN="TOP" COLSPAN=2>&nbsp;</TD>
+</TR>
+</TABLE>
+
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>2
+<FILENAME>xhel20011.htm
+<TEXT>
+<HTML>
+<HEAD>
+
+<TITLE>STATEMENT  TO CERTIFICATEHOLDERS</TITLE>
+</HEAD>
+<BODY>
+
+<TABLE CELLSPACING=0 BORDER=0 CELLPADDING=2 WIDTH=692>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="CENTER">STATEMENT  TO CERTIFICATEHOLDERS</FONT></TD>
+<TD WIDTH="20%" VALIGN="TOP" COLSPAN=2 HEIGHT=16><P></P></TD>
+<TD WIDTH="17%" VALIGN="TOP" COLSPAN=4 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="20%" VALIGN="TOP" COLSPAN=2 HEIGHT=16><P></P></TD>
+<TD WIDTH="17%" VALIGN="TOP" COLSPAN=4 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P>Household Home Equity Loan Trust 2001-1</FONT></TD>
+<TD WIDTH="20%" VALIGN="TOP" COLSPAN=2 HEIGHT=16><P></P></TD>
+<TD WIDTH="17%" VALIGN="TOP" COLSPAN=4 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">Distribution Number</FONT></TD>
+<TD WIDTH="20%" VALIGN="TOP" COLSPAN=2 HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">                    43 </FONT></TD>
+<TD WIDTH="17%" VALIGN="TOP" COLSPAN=4 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">Beginning Date of Collection Period</FONT></TD>
+<TD WIDTH="20%" VALIGN="TOP" COLSPAN=2 HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">01-Nov-04</FONT></TD>
+<TD WIDTH="17%" VALIGN="TOP" COLSPAN=4 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">End Date of Collection Period</FONT></TD>
+<TD WIDTH="20%" VALIGN="TOP" COLSPAN=2 HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">30-Nov-04</FONT></TD>
+<TD WIDTH="17%" VALIGN="TOP" COLSPAN=4 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">Distribution Date</FONT></TD>
+<TD WIDTH="20%" VALIGN="TOP" COLSPAN=2 HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">20-Dec-04</FONT></TD>
+<TD WIDTH="17%" VALIGN="TOP" COLSPAN=4 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">Previous Distribution Date</FONT></TD>
+<TD WIDTH="20%" VALIGN="TOP" COLSPAN=2 HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">22-Nov-04</FONT></TD>
+<TD WIDTH="17%" VALIGN="TOP" COLSPAN=4 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="20%" VALIGN="TOP" COLSPAN=2 HEIGHT=16><P></P></TD>
+<TD WIDTH="17%" VALIGN="TOP" COLSPAN=4 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="20%" VALIGN="TOP" COLSPAN=2 HEIGHT=16><P></P></TD>
+<TD WIDTH="17%" VALIGN="TOP" COLSPAN=4 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P>Funds Disbursement</FONT></TD>
+<TD WIDTH="20%" VALIGN="TOP" COLSPAN=2 HEIGHT=16><P></P></TD>
+<TD WIDTH="17%" VALIGN="TOP" COLSPAN=4 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P>          Available Funds for Distribution and Skip-A-Pay / Collected Funds</FONT></TD>
+<TD WIDTH="20%" VALIGN="TOP" COLSPAN=2 HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">7,576,911.37 </FONT></TD>
+<TD WIDTH="17%" VALIGN="TOP" COLSPAN=4 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P>                 Available Distribution Amount</FONT></TD>
+<TD WIDTH="20%" VALIGN="TOP" COLSPAN=2 HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">7,506,873.45 </FONT></TD>
+<TD WIDTH="17%" VALIGN="TOP" COLSPAN=4 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P>                 Principal Collections</FONT></TD>
+<TD WIDTH="20%" VALIGN="TOP" COLSPAN=2 HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">     6,093,275.11 </FONT></TD>
+<TD WIDTH="17%" VALIGN="TOP" COLSPAN=4 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P>                 Interest Collections (net of servicing fee)</FONT></TD>
+<TD WIDTH="20%" VALIGN="TOP" COLSPAN=2 HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">     1,413,598.34 </FONT></TD>
+<TD WIDTH="17%" VALIGN="TOP" COLSPAN=4 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P>                 Collections of Interest (net of servicing fee and principal recoveries)</FONT></TD>
+<TD WIDTH="20%" VALIGN="TOP" COLSPAN=2 HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">     1,368,287.98 </FONT></TD>
+<TD WIDTH="17%" VALIGN="TOP" COLSPAN=4 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P>                    Servicing Fee</FONT></TD>
+<TD WIDTH="20%" VALIGN="TOP" COLSPAN=2 HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">         70,037.92 </FONT></TD>
+<TD WIDTH="17%" VALIGN="TOP" COLSPAN=4 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P>                    Principal recoveries</FONT></TD>
+<TD WIDTH="20%" VALIGN="TOP" COLSPAN=2 HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">         45,310.36 </FONT></TD>
+<TD WIDTH="17%" VALIGN="TOP" COLSPAN=4 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=15><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=15>
+<FONT FACE="Courier New" SIZE=2><P>                 Skip-A-Pay Advances</FONT></TD>
+<TD WIDTH="20%" VALIGN="TOP" COLSPAN=2 HEIGHT=15>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">0.00 </FONT></TD>
+<TD WIDTH="17%" VALIGN="TOP" COLSPAN=4 HEIGHT=15><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P>                 Skip-A-Pay Reimbursement Amount</FONT></TD>
+<TD WIDTH="20%" VALIGN="TOP" COLSPAN=2 HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">0.00 </FONT></TD>
+<TD WIDTH="17%" VALIGN="TOP" COLSPAN=4 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="20%" VALIGN="TOP" COLSPAN=2 HEIGHT=16><P></P></TD>
+<TD WIDTH="17%" VALIGN="TOP" COLSPAN=4 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P>         Disbursements</FONT></TD>
+<TD WIDTH="20%" VALIGN="TOP" COLSPAN=2 HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">     7,576,911.37 </FONT></TD>
+<TD WIDTH="17%" VALIGN="TOP" COLSPAN=4 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P>                 Interest Paid to Certificates</FONT></TD>
+<TD WIDTH="20%" VALIGN="TOP" COLSPAN=2 HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">       215,889.43 </FONT></TD>
+<TD WIDTH="17%" VALIGN="TOP" COLSPAN=4 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P>                 Principal Paid to Certificates</FONT></TD>
+<TD WIDTH="20%" VALIGN="TOP" COLSPAN=2 HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">     4,223,699.48 </FONT></TD>
+<TD WIDTH="17%" VALIGN="TOP" COLSPAN=4 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P>                 Equity Certificate</FONT></TD>
+<TD WIDTH="20%" VALIGN="TOP" COLSPAN=2 HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">     3,067,284.54 </FONT></TD>
+<TD WIDTH="17%" VALIGN="TOP" COLSPAN=4 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P>                 Servicing Fee</FONT></TD>
+<TD WIDTH="20%" VALIGN="TOP" COLSPAN=2 HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">         70,037.92 </FONT></TD>
+<TD WIDTH="17%" VALIGN="TOP" COLSPAN=4 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="20%" VALIGN="TOP" COLSPAN=2 HEIGHT=16><P></P></TD>
+<TD WIDTH="17%" VALIGN="TOP" COLSPAN=4 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P>Pool Balance</FONT></TD>
+<TD WIDTH="20%" VALIGN="TOP" COLSPAN=2 HEIGHT=16><P></P></TD>
+<TD WIDTH="17%" VALIGN="TOP" COLSPAN=4 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P>          Begin Principal Balance</FONT></TD>
+<TD WIDTH="20%" VALIGN="TOP" COLSPAN=2 HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">168,091,014.07 </FONT></TD>
+<TD WIDTH="17%" VALIGN="TOP" COLSPAN=4 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P>          Principal Collections (including repurchases)</FONT></TD>
+<TD WIDTH="20%" VALIGN="TOP" COLSPAN=2 HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">6,093,275.11 </FONT></TD>
+<TD WIDTH="17%" VALIGN="TOP" COLSPAN=4 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P>          Additional Principal Reduction Amount</FONT></TD>
+<TD WIDTH="20%" VALIGN="TOP" COLSPAN=2 HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">210,753.96 </FONT></TD>
+<TD WIDTH="17%" VALIGN="TOP" COLSPAN=4 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P>          End Principal Balance</FONT></TD>
+<TD WIDTH="20%" VALIGN="TOP" COLSPAN=2 HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT"> 161,786,985.00 </FONT></TD>
+<TD WIDTH="17%" VALIGN="TOP" COLSPAN=4 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="20%" VALIGN="TOP" COLSPAN=2 HEIGHT=16><P></P></TD>
+<TD WIDTH="17%" VALIGN="TOP" COLSPAN=4 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P>Collateral Performance</FONT></TD>
+<TD WIDTH="20%" VALIGN="TOP" COLSPAN=2 HEIGHT=16><P></P></TD>
+<TD WIDTH="17%" VALIGN="TOP" COLSPAN=4 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P>          Cash Yield  (% of beginning balance)</FONT></TD>
+<TD WIDTH="20%" VALIGN="TOP" COLSPAN=2 HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">10.27%</FONT></TD>
+<TD WIDTH="17%" VALIGN="TOP" COLSPAN=4 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P>          Charge off Rate  (net of principal recoveries; % of beginning balance)</FONT></TD>
+<TD WIDTH="20%" VALIGN="TOP" COLSPAN=2 HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">1.18%</FONT></TD>
+<TD WIDTH="17%" VALIGN="TOP" COLSPAN=4 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P>          Net Yield</FONT></TD>
+<TD WIDTH="20%" VALIGN="TOP" COLSPAN=2 HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">9.09%</FONT></TD>
+<TD WIDTH="17%" VALIGN="TOP" COLSPAN=4 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="20%" VALIGN="TOP" COLSPAN=2 HEIGHT=16><P></P></TD>
+<TD WIDTH="17%" VALIGN="TOP" COLSPAN=4 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P>          Delinquent Loans </FONT></TD>
+<TD WIDTH="20%" VALIGN="TOP" COLSPAN=2 HEIGHT=16><P></P></TD>
+<TD WIDTH="17%" VALIGN="TOP" COLSPAN=4 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P>          30-59 days  principal balance of loan</FONT></TD>
+<TD WIDTH="20%" VALIGN="TOP" COLSPAN=2 HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">6,618,561.35 </FONT></TD>
+<TD WIDTH="17%" VALIGN="TOP" COLSPAN=4 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P>          30-59 days  number of loans</FONT></TD>
+<TD WIDTH="20%" VALIGN="TOP" COLSPAN=2 HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">                    94 </FONT></TD>
+<TD WIDTH="17%" VALIGN="TOP" COLSPAN=4 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P>          60-89 days principal balance of loan</FONT></TD>
+<TD WIDTH="20%" VALIGN="TOP" COLSPAN=2 HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">1,025,293.10 </FONT></TD>
+<TD WIDTH="17%" VALIGN="TOP" COLSPAN=4 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P>          60-89 days number of loans</FONT></TD>
+<TD WIDTH="20%" VALIGN="TOP" COLSPAN=2 HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">                    18 </FONT></TD>
+<TD WIDTH="17%" VALIGN="TOP" COLSPAN=4 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P>          90+ days principal balance of loan</FONT></TD>
+<TD WIDTH="20%" VALIGN="TOP" COLSPAN=2 HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">11,426,961.01 </FONT></TD>
+<TD WIDTH="17%" VALIGN="TOP" COLSPAN=4 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P>          90+ days number of loans</FONT></TD>
+<TD WIDTH="20%" VALIGN="TOP" COLSPAN=2 HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">                  151 </FONT></TD>
+<TD WIDTH="17%" VALIGN="TOP" COLSPAN=4 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="20%" VALIGN="TOP" COLSPAN=2 HEIGHT=16><P></P></TD>
+<TD WIDTH="17%" VALIGN="TOP" COLSPAN=4 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P>Loan Detail</FONT></TD>
+<TD WIDTH="20%" VALIGN="TOP" COLSPAN=2 HEIGHT=16><P></P></TD>
+<TD WIDTH="17%" VALIGN="TOP" COLSPAN=4 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P>          Number of loans purchased or substituted pursuant to 2.02 during the period</FONT></TD>
+<TD WIDTH="20%" VALIGN="TOP" COLSPAN=2 HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">                    -   </FONT></TD>
+<TD WIDTH="17%" VALIGN="TOP" COLSPAN=4 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P>          Principal balance of loans purchased or substituted pursuant to 2.02 during the period</FONT></TD>
+<TD WIDTH="20%" VALIGN="TOP" COLSPAN=2 HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">                    -   </FONT></TD>
+<TD WIDTH="17%" VALIGN="TOP" COLSPAN=4 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P>          Number of loans purchased or substituted pursuant to 2.04 during the period</FONT></TD>
+<TD WIDTH="20%" VALIGN="TOP" COLSPAN=2 HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">                    -   </FONT></TD>
+<TD WIDTH="17%" VALIGN="TOP" COLSPAN=4 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P>          Principal balance of loans purchased or substituted pursuant to 2.04 during the period</FONT></TD>
+<TD WIDTH="20%" VALIGN="TOP" COLSPAN=2 HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">                    -   </FONT></TD>
+<TD WIDTH="17%" VALIGN="TOP" COLSPAN=4 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P>          Number of loans purchased or substituted pursuant to 3.01 during the period</FONT></TD>
+<TD WIDTH="20%" VALIGN="TOP" COLSPAN=2 HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">                    -   </FONT></TD>
+<TD WIDTH="17%" VALIGN="TOP" COLSPAN=4 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P>          Principal balance of loans purchased or substituted pursuant to 3.01 during the period</FONT></TD>
+<TD WIDTH="20%" VALIGN="TOP" COLSPAN=2 HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">                    -   </FONT></TD>
+<TD WIDTH="17%" VALIGN="TOP" COLSPAN=4 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P>          Substitution Adjustment Amounts</FONT></TD>
+<TD WIDTH="20%" VALIGN="TOP" COLSPAN=2 HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">                    -   </FONT></TD>
+<TD WIDTH="17%" VALIGN="TOP" COLSPAN=4 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P>          Number of HEL outstanding (BOP)</FONT></TD>
+<TD WIDTH="20%" VALIGN="TOP" COLSPAN=2 HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">               2,448 </FONT></TD>
+<TD WIDTH="17%" VALIGN="TOP" COLSPAN=4 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P>          Number of HEL outstanding (EOP)</FONT></TD>
+<TD WIDTH="20%" VALIGN="TOP" COLSPAN=2 HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">               2,366 </FONT></TD>
+<TD WIDTH="17%" VALIGN="TOP" COLSPAN=4 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P>          Principal balance of REO as of the end of the collection period</FONT></TD>
+<TD WIDTH="20%" VALIGN="TOP" COLSPAN=2 HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">     2,715,106.51 </FONT></TD>
+<TD WIDTH="17%" VALIGN="TOP" COLSPAN=4 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P>          Number of loans that went into REO during the collection period</FONT></TD>
+<TD WIDTH="20%" VALIGN="TOP" COLSPAN=2 HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">                      3 </FONT></TD>
+<TD WIDTH="17%" VALIGN="TOP" COLSPAN=4 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P>          Principal balance of loans that went into  REO during the collection period</FONT></TD>
+<TD WIDTH="20%" VALIGN="TOP" COLSPAN=2 HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">380,242.88 </FONT></TD>
+<TD WIDTH="17%" VALIGN="TOP" COLSPAN=4 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="20%" VALIGN="TOP" COLSPAN=2 HEIGHT=16><P></P></TD>
+<TD WIDTH="17%" VALIGN="TOP" COLSPAN=4 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="20%" VALIGN="TOP" COLSPAN=2 HEIGHT=16><P></P></TD>
+<TD WIDTH="17%" VALIGN="TOP" COLSPAN=4 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="20%" VALIGN="TOP" COLSPAN=2 HEIGHT=16><P></P></TD>
+<TD WIDTH="17%" VALIGN="TOP" COLSPAN=4 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P>Overcollateralization </FONT></TD>
+<TD WIDTH="20%" VALIGN="TOP" COLSPAN=2 HEIGHT=16><P></P></TD>
+<TD WIDTH="17%" VALIGN="TOP" COLSPAN=4 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P>        Begin OC Amount</FONT></TD>
+<TD WIDTH="20%" VALIGN="TOP" COLSPAN=2 HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">   55,470,034.64 </FONT></TD>
+<TD WIDTH="17%" VALIGN="TOP" COLSPAN=4 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P>        OC Release Amount</FONT></TD>
+<TD WIDTH="20%" VALIGN="TOP" COLSPAN=2 HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">2,080,329.59 </FONT></TD>
+<TD WIDTH="17%" VALIGN="TOP" COLSPAN=4 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P>        Extra Principal Distribution Amount</FONT></TD>
+<TD WIDTH="20%" VALIGN="TOP" COLSPAN=2 HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">                    -   </FONT></TD>
+<TD WIDTH="17%" VALIGN="TOP" COLSPAN=4 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P>        End OC Amount  </FONT></TD>
+<TD WIDTH="20%" VALIGN="TOP" COLSPAN=2 HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">   53,389,705.05 </FONT></TD>
+<TD WIDTH="17%" VALIGN="TOP" COLSPAN=4 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="20%" VALIGN="TOP" COLSPAN=2 HEIGHT=16><P></P></TD>
+<TD WIDTH="17%" VALIGN="TOP" COLSPAN=4 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P>          Target OC Amount</FONT></TD>
+<TD WIDTH="20%" VALIGN="TOP" COLSPAN=2 HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">   53,389,705.05 </FONT></TD>
+<TD WIDTH="17%" VALIGN="TOP" COLSPAN=4 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P>          Interim OC Amount</FONT></TD>
+<TD WIDTH="20%" VALIGN="TOP" COLSPAN=2 HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">   55,470,034.64 </FONT></TD>
+<TD WIDTH="17%" VALIGN="TOP" COLSPAN=4 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P>          Interim OC Deficiency</FONT></TD>
+<TD WIDTH="20%" VALIGN="TOP" COLSPAN=2 HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">                    -   </FONT></TD>
+<TD WIDTH="17%" VALIGN="TOP" COLSPAN=4 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="20%" VALIGN="TOP" COLSPAN=2 HEIGHT=16><P></P></TD>
+<TD WIDTH="17%" VALIGN="TOP" COLSPAN=4 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P>          Monthly Excess Cashflow</FONT></TD>
+<TD WIDTH="20%" VALIGN="TOP" COLSPAN=2 HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">       986,954.95 </FONT></TD>
+<TD WIDTH="17%" VALIGN="TOP" COLSPAN=4 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P>          Principal Distribution Amount</FONT></TD>
+<TD WIDTH="20%" VALIGN="TOP" COLSPAN=2 HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">     4,012,945.52 </FONT></TD>
+<TD WIDTH="17%" VALIGN="TOP" COLSPAN=4 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P>            Principal Collections</FONT></TD>
+<TD WIDTH="20%" VALIGN="TOP" COLSPAN=2 HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">     6,093,275.11 </FONT></TD>
+<TD WIDTH="17%" VALIGN="TOP" COLSPAN=4 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P>            OC Release Amount</FONT></TD>
+<TD WIDTH="20%" VALIGN="TOP" COLSPAN=2 HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">     2,080,329.59 </FONT></TD>
+<TD WIDTH="17%" VALIGN="TOP" COLSPAN=4 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="20%" VALIGN="TOP" COLSPAN=2 HEIGHT=16><P></P></TD>
+<TD WIDTH="17%" VALIGN="TOP" COLSPAN=4 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P>Other</FONT></TD>
+<TD WIDTH="20%" VALIGN="TOP" COLSPAN=2 HEIGHT=16><P></P></TD>
+<TD WIDTH="17%" VALIGN="TOP" COLSPAN=4 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P>          Stepdown</FONT></TD>
+<TD WIDTH="20%" VALIGN="TOP" COLSPAN=2 HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT"> Yes </FONT></TD>
+<TD WIDTH="17%" VALIGN="TOP" COLSPAN=4 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P>          Trigger Event</FONT></TD>
+<TD WIDTH="20%" VALIGN="TOP" COLSPAN=2 HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT"> No </FONT></TD>
+<TD WIDTH="17%" VALIGN="TOP" COLSPAN=4 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P>          Event of Default</FONT></TD>
+<TD WIDTH="20%" VALIGN="TOP" COLSPAN=2 HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT"> No </FONT></TD>
+<TD WIDTH="17%" VALIGN="TOP" COLSPAN=4 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P>          Total Certificate Balance as Percent of Total Original Certificate Balance</FONT></TD>
+<TD WIDTH="20%" VALIGN="TOP" COLSPAN=2 HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">15.12%</FONT></TD>
+<TD WIDTH="17%" VALIGN="TOP" COLSPAN=4 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="20%" VALIGN="TOP" COLSPAN=2 HEIGHT=16><P></P></TD>
+<TD WIDTH="17%" VALIGN="TOP" COLSPAN=4 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="20%" VALIGN="TOP" COLSPAN=2 HEIGHT=16><P></P></TD>
+<TD WIDTH="17%" VALIGN="TOP" COLSPAN=4 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P>Interest Calculations</FONT></TD>
+<TD WIDTH="20%" VALIGN="TOP" COLSPAN=2 HEIGHT=16><P></P></TD>
+<TD WIDTH="17%" VALIGN="TOP" COLSPAN=4 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P>          1 month LIBOR</FONT></TD>
+<TD WIDTH="20%" VALIGN="TOP" COLSPAN=2 HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">2.14000%</FONT></TD>
+<TD WIDTH="17%" VALIGN="TOP" COLSPAN=4 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P>          Class A Formula Rate (1 mo Libor plus 29bps)</FONT></TD>
+<TD WIDTH="20%" VALIGN="TOP" COLSPAN=2 HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">2.43000%</FONT></TD>
+<TD WIDTH="17%" VALIGN="TOP" COLSPAN=4 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P>          Class A Pass-Through Rate </FONT></TD>
+<TD WIDTH="20%" VALIGN="TOP" COLSPAN=2 HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">2.43000%</FONT></TD>
+<TD WIDTH="17%" VALIGN="TOP" COLSPAN=4 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P>          Class M Formula Rate (1 mo Libor plus 55bps)</FONT></TD>
+<TD WIDTH="20%" VALIGN="TOP" COLSPAN=2 HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">2.69000%</FONT></TD>
+<TD WIDTH="17%" VALIGN="TOP" COLSPAN=4 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P>          Class M Pass-Through Rate</FONT></TD>
+<TD WIDTH="20%" VALIGN="TOP" COLSPAN=2 HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">2.69000%</FONT></TD>
+<TD WIDTH="17%" VALIGN="TOP" COLSPAN=4 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P>          Available Funds  Cap</FONT></TD>
+<TD WIDTH="20%" VALIGN="TOP" COLSPAN=2 HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">9.94500%</FONT></TD>
+<TD WIDTH="17%" VALIGN="TOP" COLSPAN=4 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="20%" VALIGN="TOP" COLSPAN=2 HEIGHT=16><P></P></TD>
+<TD WIDTH="17%" VALIGN="TOP" COLSPAN=4 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P>Class A Certificateholder's Statement</FONT></TD>
+<TD WIDTH="20%" VALIGN="TOP" COLSPAN=2 HEIGHT=16><P></P></TD>
+<TD WIDTH="17%" VALIGN="TOP" COLSPAN=4 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P>     A.   Information on Distributions              </FONT></TD>
+<TD WIDTH="20%" VALIGN="TOP" COLSPAN=2 HEIGHT=16><P></P></TD>
+<TD WIDTH="17%" VALIGN="TOP" COLSPAN=4 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P>            1.   Total Distribution per $1,000</FONT></TD>
+<TD WIDTH="20%" VALIGN="TOP" COLSPAN=2 HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">6.189965</FONT></TD>
+<TD WIDTH="17%" VALIGN="TOP" COLSPAN=4 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P>            2.   Principal Distribution per $1,000</FONT></TD>
+<TD WIDTH="20%" VALIGN="TOP" COLSPAN=2 HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">5.892975</FONT></TD>
+<TD WIDTH="17%" VALIGN="TOP" COLSPAN=4 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P>            3.   Interest Distribution per $1,000</FONT></TD>
+<TD WIDTH="20%" VALIGN="TOP" COLSPAN=2 HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">0.296989</FONT></TD>
+<TD WIDTH="17%" VALIGN="TOP" COLSPAN=4 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="20%" VALIGN="TOP" COLSPAN=2 HEIGHT=16><P></P></TD>
+<TD WIDTH="17%" VALIGN="TOP" COLSPAN=4 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P>     B.   Calculation of Class A Interest Due &amp; Paid</FONT></TD>
+<TD WIDTH="20%" VALIGN="TOP" COLSPAN=2 HEIGHT=16><P></P></TD>
+<TD WIDTH="17%" VALIGN="TOP" COLSPAN=4 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P>            1.   Class A Pass-Through Rate</FONT></TD>
+<TD WIDTH="20%" VALIGN="TOP" COLSPAN=2 HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">2.43000%</FONT></TD>
+<TD WIDTH="17%" VALIGN="TOP" COLSPAN=4 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P>            2.   Days  in Accrual Period</FONT></TD>
+<TD WIDTH="20%" VALIGN="TOP" COLSPAN=2 HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">                    28 </FONT></TD>
+<TD WIDTH="17%" VALIGN="TOP" COLSPAN=4 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="20%" VALIGN="TOP" COLSPAN=2 HEIGHT=16><P></P></TD>
+<TD WIDTH="17%" VALIGN="TOP" COLSPAN=4 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P>            3.   Class A Interest Due</FONT></TD>
+<TD WIDTH="20%" VALIGN="TOP" COLSPAN=2 HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">       184,480.72 </FONT></TD>
+<TD WIDTH="17%" VALIGN="TOP" COLSPAN=4 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P>            4.   Class A Interest Paid</FONT></TD>
+<TD WIDTH="20%" VALIGN="TOP" COLSPAN=2 HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">       184,480.72 </FONT></TD>
+<TD WIDTH="17%" VALIGN="TOP" COLSPAN=4 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="20%" VALIGN="TOP" COLSPAN=2 HEIGHT=16><P></P></TD>
+<TD WIDTH="17%" VALIGN="TOP" COLSPAN=4 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P>            5.   Class A Interest Carry Forward Amount Paid</FONT></TD>
+<TD WIDTH="20%" VALIGN="TOP" COLSPAN=2 HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">0.00 </FONT></TD>
+<TD WIDTH="17%" VALIGN="TOP" COLSPAN=4 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P>            6.   Class A Supplemental Interest Amount Paid</FONT></TD>
+<TD WIDTH="20%" VALIGN="TOP" COLSPAN=2 HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">0.00 </FONT></TD>
+<TD WIDTH="17%" VALIGN="TOP" COLSPAN=4 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="20%" VALIGN="TOP" COLSPAN=2 HEIGHT=16><P></P></TD>
+<TD WIDTH="17%" VALIGN="TOP" COLSPAN=4 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P>            7.   Class A Unpaid Interest Carry Forward Amount, EOP</FONT></TD>
+<TD WIDTH="20%" VALIGN="TOP" COLSPAN=2 HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">0.00 </FONT></TD>
+<TD WIDTH="17%" VALIGN="TOP" COLSPAN=4 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P>            8.   Class A Unpaid Supplemental Interest Amount, EOP</FONT></TD>
+<TD WIDTH="20%" VALIGN="TOP" COLSPAN=2 HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">0.00 </FONT></TD>
+<TD WIDTH="17%" VALIGN="TOP" COLSPAN=4 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="20%" VALIGN="TOP" COLSPAN=2 HEIGHT=16><P></P></TD>
+<TD WIDTH="17%" VALIGN="TOP" COLSPAN=4 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P>     C.   Calculation of Class A Principal Due &amp; Paid</FONT></TD>
+<TD WIDTH="20%" VALIGN="TOP" COLSPAN=2 HEIGHT=16><P></P></TD>
+<TD WIDTH="17%" VALIGN="TOP" COLSPAN=4 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P>            1.   Class A Principal Balance, BOP</FONT></TD>
+<TD WIDTH="20%" VALIGN="TOP" COLSPAN=2 HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">   97,608,848.82 </FONT></TD>
+<TD WIDTH="17%" VALIGN="TOP" COLSPAN=4 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P>            2.   Class A Principal Due</FONT></TD>
+<TD WIDTH="20%" VALIGN="TOP" COLSPAN=2 HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">     3,660,539.55 </FONT></TD>
+<TD WIDTH="17%" VALIGN="TOP" COLSPAN=4 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P>            3.   Class A Principal Paid</FONT></TD>
+<TD WIDTH="20%" VALIGN="TOP" COLSPAN=2 HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">     3,660,539.55 </FONT></TD>
+<TD WIDTH="17%" VALIGN="TOP" COLSPAN=4 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P>            4.   Class A Principal Carry Forward Amount Paid</FONT></TD>
+<TD WIDTH="20%" VALIGN="TOP" COLSPAN=2 HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">0.00 </FONT></TD>
+<TD WIDTH="17%" VALIGN="TOP" COLSPAN=4 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P>            5.   Class A Unpaid Principal Carry Forward Amount </FONT></TD>
+<TD WIDTH="20%" VALIGN="TOP" COLSPAN=2 HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">0.00 </FONT></TD>
+<TD WIDTH="17%" VALIGN="TOP" COLSPAN=4 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P>            6.   Class A Principal Balance, EOP</FONT></TD>
+<TD WIDTH="20%" VALIGN="TOP" COLSPAN=2 HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">   93,948,309.27 </FONT></TD>
+<TD WIDTH="17%" VALIGN="TOP" COLSPAN=4 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="20%" VALIGN="TOP" COLSPAN=2 HEIGHT=16><P></P></TD>
+<TD WIDTH="17%" VALIGN="TOP" COLSPAN=4 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="97%" VALIGN="TOP" COLSPAN=7 HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P>            7.   Class A Certificate Balance as a % of the Original Class A Certificate Balance, EOP</FONT></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P>            8.   Class A Certificate Balance as a % of the Pool Balance, EOP</FONT></TD>
+<TD WIDTH="19%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">        0.5806914 </FONT></TD>
+<TD WIDTH="19%" VALIGN="TOP" COLSPAN=5 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="19%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="19%" VALIGN="TOP" COLSPAN=5 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P>Class M Certificateholder's Statement</FONT></TD>
+<TD WIDTH="19%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="19%" VALIGN="TOP" COLSPAN=5 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P>     A.   Information on Distributions</FONT></TD>
+<TD WIDTH="19%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="19%" VALIGN="TOP" COLSPAN=5 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P>            1.   Total Distribution per $1,000</FONT></TD>
+<TD WIDTH="19%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">6.221941</FONT></TD>
+<TD WIDTH="19%" VALIGN="TOP" COLSPAN=5 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P>            2.   Principal Distribution per $1,000</FONT></TD>
+<TD WIDTH="19%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">5.893260</FONT></TD>
+<TD WIDTH="19%" VALIGN="TOP" COLSPAN=5 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P>            3.   Interest Distribution per $1,000</FONT></TD>
+<TD WIDTH="19%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">0.328681</FONT></TD>
+<TD WIDTH="19%" VALIGN="TOP" COLSPAN=5 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="19%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="19%" VALIGN="TOP" COLSPAN=5 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P>     B.   Calculation of Class M Interest Due &amp; Paid</FONT></TD>
+<TD WIDTH="19%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="19%" VALIGN="TOP" COLSPAN=5 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P>            1.   Class M Pass-Through Rate</FONT></TD>
+<TD WIDTH="19%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">2.69000%</FONT></TD>
+<TD WIDTH="19%" VALIGN="TOP" COLSPAN=5 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P>            2.   Days  in Accrual Period</FONT></TD>
+<TD WIDTH="19%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">                    28 </FONT></TD>
+<TD WIDTH="19%" VALIGN="TOP" COLSPAN=5 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="19%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="19%" VALIGN="TOP" COLSPAN=5 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P>            3.   Class M Interest Due</FONT></TD>
+<TD WIDTH="19%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">         31,408.71 </FONT></TD>
+<TD WIDTH="19%" VALIGN="TOP" COLSPAN=5 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P>            4.   Class M Interest Paid</FONT></TD>
+<TD WIDTH="19%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">         31,408.71 </FONT></TD>
+<TD WIDTH="19%" VALIGN="TOP" COLSPAN=5 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="19%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="19%" VALIGN="TOP" COLSPAN=5 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P>            5.   Class M Interest Carry Forward Amount Paid</FONT></TD>
+<TD WIDTH="19%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">0.00 </FONT></TD>
+<TD WIDTH="19%" VALIGN="TOP" COLSPAN=5 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P>            6.   Class M Supplemental Interest Amount Paid</FONT></TD>
+<TD WIDTH="19%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">0.00 </FONT></TD>
+<TD WIDTH="19%" VALIGN="TOP" COLSPAN=5 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="19%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="19%" VALIGN="TOP" COLSPAN=5 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P>            7.   Class M Unpaid Interest Carry Forward Amount, EOP</FONT></TD>
+<TD WIDTH="19%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">0.00 </FONT></TD>
+<TD WIDTH="19%" VALIGN="TOP" COLSPAN=5 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P>            8.   Class M Unpaid Supplemental Interest Amount, EOP</FONT></TD>
+<TD WIDTH="19%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">0.00 </FONT></TD>
+<TD WIDTH="19%" VALIGN="TOP" COLSPAN=5 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="19%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="19%" VALIGN="TOP" COLSPAN=5 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P>     C.   Calculation of Class M Principal Due &amp; Paid</FONT></TD>
+<TD WIDTH="19%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="19%" VALIGN="TOP" COLSPAN=5 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P>            1.   Class M Principal Balance, BOP</FONT></TD>
+<TD WIDTH="19%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">   15,012,130.61 </FONT></TD>
+<TD WIDTH="19%" VALIGN="TOP" COLSPAN=5 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P>            2.   Class M Principal Due</FONT></TD>
+<TD WIDTH="19%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">563,159.93 </FONT></TD>
+<TD WIDTH="19%" VALIGN="TOP" COLSPAN=5 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P>            3.   Class M Principal Paid</FONT></TD>
+<TD WIDTH="19%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">563,159.93 </FONT></TD>
+<TD WIDTH="19%" VALIGN="TOP" COLSPAN=5 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P>            4.   Class M Principal Carry Forward Amount Paid</FONT></TD>
+<TD WIDTH="19%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">0.00 </FONT></TD>
+<TD WIDTH="19%" VALIGN="TOP" COLSPAN=5 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P>            5.   Class M Unpaid Principal Carry Forward Amount </FONT></TD>
+<TD WIDTH="19%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">0.00 </FONT></TD>
+<TD WIDTH="19%" VALIGN="TOP" COLSPAN=5 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P>            6.   Class M Principal Balance, EOP</FONT></TD>
+<TD WIDTH="19%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">   14,448,970.68 </FONT></TD>
+<TD WIDTH="19%" VALIGN="TOP" COLSPAN=5 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="19%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="19%" VALIGN="TOP" COLSPAN=5 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="97%" VALIGN="TOP" COLSPAN=7 HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P>            7.   Class M Certificate Balance as a % of the Original Class M Certificate Balance, EOP</FONT></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P>            8.   Class M Certificate Balance as a % of the Pool Balance, EOP</FONT></TD>
+<TD WIDTH="19%" VALIGN="TOP" HEIGHT=16>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">0.0893086 </FONT></TD>
+<TD WIDTH="19%" VALIGN="TOP" COLSPAN=5 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="19%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="19%" VALIGN="TOP" COLSPAN=5 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="19%" VALIGN="TOP" HEIGHT=16><P></P></TD>
+<TD WIDTH="19%" VALIGN="TOP" COLSPAN=5 HEIGHT=16><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="CENTER">HSBC FINANCE CORPORATION</FONT></TD>
+<TD WIDTH="19%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="19%" VALIGN="TOP" COLSPAN=5 HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="CENTER">HOUSEHOLD HOME EQUITY LOAN TRUST 2001-1</FONT></TD>
+<TD WIDTH="19%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="19%" VALIGN="TOP" COLSPAN=5 HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="19%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="19%" VALIGN="TOP" COLSPAN=5 HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="19%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="19%" VALIGN="TOP" COLSPAN=5 HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="84%" VALIGN="TOP" COLSPAN=6 HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>The   undersigned,   a   duly   authorized    representative   of   HSBC Finance</FONT></TD>
+<TD WIDTH="13%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="2%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="84%" VALIGN="TOP" COLSPAN=6 HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>Corporation,  as  Servicer  ( the  "Servicer" ),  pursuant  to  a  Pooling  and  Servicing</FONT></TD>
+<TD WIDTH="13%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="2%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="84%" VALIGN="TOP" COLSPAN=6 HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>Agreement dated as of May 1, 2001  (the "Pooling and Servicing Agreement"),</FONT></TD>
+<TD WIDTH="13%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="2%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="84%" VALIGN="TOP" COLSPAN=6 HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>by and among  HFC Revolving Corporation,  as  Depositor,  the  Servicer,  and</FONT></TD>
+<TD WIDTH="13%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="2%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="84%" VALIGN="TOP" COLSPAN=6 HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>JPMorgan Chase Bank (as successor to Bank One, National Association) as Trustee, does </FONT></TD>
+<TD WIDTH="13%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="2%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="84%" VALIGN="TOP" COLSPAN=6 HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>hereby certify with respect to the information set forth below as follows:</FONT></TD>
+<TD WIDTH="13%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="2%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="19%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="19%" VALIGN="TOP" COLSPAN=5 HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="19%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="19%" VALIGN="TOP" COLSPAN=5 HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">1</FONT></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>Capitalized terms used in this  Certificate  shall  have  the  respective</FONT></TD>
+<TD WIDTH="19%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="19%" VALIGN="TOP" COLSPAN=5 HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>meanings set forth in the Pooling and Servicing Agreement.</FONT></TD>
+<TD WIDTH="19%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="19%" VALIGN="TOP" COLSPAN=5 HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="19%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="19%" VALIGN="TOP" COLSPAN=5 HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">2</FONT></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>HSBC Finance Corporation  is,  as  of  the  date  hereof,   the</FONT></TD>
+<TD WIDTH="19%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="19%" VALIGN="TOP" COLSPAN=5 HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>Servicer under the Pooling and Servicing Agreement.</FONT></TD>
+<TD WIDTH="19%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="19%" VALIGN="TOP" COLSPAN=5 HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="19%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="19%" VALIGN="TOP" COLSPAN=5 HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">3</FONT></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>The undersigned is a Servicing Officer.</FONT></TD>
+<TD WIDTH="19%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="19%" VALIGN="TOP" COLSPAN=5 HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="19%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="19%" VALIGN="TOP" COLSPAN=5 HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">4</FONT></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>This Certificate relates to the Distribution Date occurring on December 20, 2004</FONT></TD>
+<TD WIDTH="19%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="19%" VALIGN="TOP" COLSPAN=5 HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="19%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="19%" VALIGN="TOP" COLSPAN=5 HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">5</FONT></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>As of the date hereof, to the best knowledge of the undersigned, the</FONT></TD>
+<TD WIDTH="19%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="19%" VALIGN="TOP" COLSPAN=5 HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>Servicer  has  performed in all  material  respects  all  its  obligations</FONT></TD>
+<TD WIDTH="19%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="19%" VALIGN="TOP" COLSPAN=5 HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>under the Pooling and Servicing Agreement through the Collection Period</FONT></TD>
+<TD WIDTH="19%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="19%" VALIGN="TOP" COLSPAN=5 HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>preceding such Distribution Date.</FONT></TD>
+<TD WIDTH="19%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="19%" VALIGN="TOP" COLSPAN=5 HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="19%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="19%" VALIGN="TOP" COLSPAN=5 HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P ALIGN="RIGHT">6</FONT></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>As of the date hereof, to the best  knowledge of the  undersigned, no</FONT></TD>
+<TD WIDTH="19%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="19%" VALIGN="TOP" COLSPAN=5 HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>Event of Default has been deemed to have occurred on or prior to</FONT></TD>
+<TD WIDTH="19%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="19%" VALIGN="TOP" COLSPAN=5 HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>such Distribution Date.</FONT></TD>
+<TD WIDTH="19%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="19%" VALIGN="TOP" COLSPAN=5 HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="19%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="19%" VALIGN="TOP" COLSPAN=5 HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="19%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="19%" VALIGN="TOP" COLSPAN=5 HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>IN  WITNESS  WHEREOF,  the  undersigned  has  duly  executed  and  delivered this </FONT></TD>
+<TD WIDTH="19%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="19%" VALIGN="TOP" COLSPAN=5 HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>Certificate the 17th day of December, 2004.</FONT></TD>
+<TD WIDTH="19%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="19%" VALIGN="TOP" COLSPAN=5 HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="19%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="19%" VALIGN="TOP" COLSPAN=5 HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>HSBC FINANCE CORPORATION</FONT></TD>
+<TD WIDTH="19%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="19%" VALIGN="TOP" COLSPAN=5 HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>as Servicer</FONT></TD>
+<TD WIDTH="19%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="19%" VALIGN="TOP" COLSPAN=5 HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="19%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="19%" VALIGN="TOP" COLSPAN=5 HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="19%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="19%" VALIGN="TOP" COLSPAN=5 HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=20>
+<U><FONT FACE="Courier New" SIZE=2><P>By:   /s/ Dennis Mickey                                                                                     </U></FONT></TD>
+<TD WIDTH="19%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="19%" VALIGN="TOP" COLSPAN=5 HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=20>
+<FONT FACE="Courier New" SIZE=2><P>Title:     Servicing Officer</FONT></TD>
+<TD WIDTH="19%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="19%" VALIGN="TOP" COLSPAN=5 HEIGHT=20><P></P></TD>
+</TR>
+<TR><TD WIDTH="3%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="60%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="19%" VALIGN="TOP" HEIGHT=20><P></P></TD>
+<TD WIDTH="19%" VALIGN="TOP" COLSPAN=5 HEIGHT=20><P></P></TD>
+</TR>
+</TABLE>
+
+<FONT SIZE=2></FONT></BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

@@ -1,0 +1,1369 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ EFV+9RZR46+zof4KRoRCAW8rpcjtZ4cC5orzTOnzld5jaY7DqnSJxlSVqLXRTPwx
+ /NdB2YmFzBvHq1upapWNpw==
+
+<SEC-DOCUMENT>0000066960-04-000026.txt : 20041223
+<SEC-HEADER>0000066960-04-000026.hdr.sgml : 20041223
+<ACCEPTANCE-DATETIME>20041223140305
+ACCESSION NUMBER:		0000066960-04-000026
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20041220
+ITEM INFORMATION:		Entry into a Material Definitive Agreement
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20041223
+DATE AS OF CHANGE:		20041223
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AQUILA  INC
+		CENTRAL INDEX KEY:			0000066960
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRIC SERVICES [4911]
+		IRS NUMBER:				440541877
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-03562
+		FILM NUMBER:		041223642
+
+	BUSINESS ADDRESS:	
+		STREET 1:		20 WEST NINTH STREET
+		STREET 2:		--
+		CITY:			KANSAS CITY
+		STATE:			MO
+		ZIP:			64105-1711
+		BUSINESS PHONE:		8164216600
+
+	MAIL ADDRESS:	
+		STREET 1:		20 WEST NINTH STREET
+		CITY:			KANSAS CITY
+		STATE:			MO
+		ZIP:			64105-1711
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	UTILICORP UNITED INC
+		DATE OF NAME CHANGE:	19920703
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	MISSOURI PUBLIC SERVICE CO
+		DATE OF NAME CHANGE:	19850516
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>a8k_122004.htm
+<DESCRIPTION>FORM 8-K
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY>
+
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center-TNR" FSL="Project" -->
+<P align=center><FONT face="Times New Roman, Times, Serif" size=3><B>UNITED STATES <br>SECURITIES</B><B> AND EXCHANGE
+ COMMISSION</B><BR>Washington, D.C. 20549 </FONT></P>
+
+
+
+
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold-TNR" FSL="Project" -->
+<h1 align=CENTER><font face="Times New Roman, Times, Serif" size=3>FORM 8-K </font></h1>
+
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold-TNR" FSL="Project" -->
+<h1 align=CENTER><font face="Times New Roman, Times, Serif" size=3>CURRENT REPORT </font></h1>
+
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold 1-TNR" FSL="Project" -->
+<h1 align=CENTER><font face="Times New Roman, Times, Serif" size=2>Pursuant to Section 13
+or 15(d) ofthe <BR>Securities Exchange Act of 1934 </font></h1>
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center-TNR" FSL="Project" -->
+<p align=CENTER><font face="Times New Roman, Times, Serif" size=2>Date of Report (Date of
+earliest event reported) December 20, 2004  </font></p>
+
+
+<P align=center><FONT FACE="Times New Roman, Times, Serif" SIZE="3"><U><B>Aquila, Inc. </B></U><BR> </FONT><FONT FACE="Times New Roman, Times, Serif" SIZE="2">(Exact name of registrant
+as specified in charter) </FONT></P><br>
+
+
+<TABLE cellSpacing=0 cellPadding=0 width=600 align=center>
+<TR vAlign=bottom>
+<TH colSpan=2><FONT face="Times New Roman, Times, Serif" size=2>Delaware</FONT>
+<HR width="100%" color=black noShade SIZE=1>
+</TH>
+<TH colSpan=2><FONT face="Times New Roman, Times, Serif" size=2>1-03562</FONT>
+<HR width="100%" color=black noShade SIZE=1>
+</TH>
+<TH colSpan=2><FONT face="Times New Roman, Times, Serif" size=2>44-0541877</FONT>
+<HR width="100%" color=black noShade SIZE=1>
+</TH></TR>
+<TR vAlign=bottom>
+<TD align=center width="32%"><FONT face="Times New Roman, Times, Serif" size=2>(State or other</FONT></TD>
+<TD align=left width="6%"><FONT face="Times New Roman, Times, Serif" size=2>&nbsp;</FONT></TD>
+<TD align=center width="25%"><FONT face="Times New Roman, Times, Serif" size=2>(Commission</FONT></TD>
+<TD align=left width="6%"><FONT face="Times New Roman, Times, Serif" size=2>&nbsp;</FONT></TD>
+<TD align=center width="29%"><FONT face="Times New Roman, Times, Serif" size=2>(IRS Employer</FONT></TD>
+<TD align=left width="2%"><FONT face="Times New Roman, Times, Serif" size=2>&nbsp;</FONT></TD></TR>
+<TR vAlign=bottom>
+<TD align=center><FONT face="Times New Roman, Times, Serif" size=2>jurisdiction of</FONT></TD>
+<TD align=left><FONT face="Times New Roman, Times, Serif" size=2>&nbsp;</FONT></TD>
+<TD align=center><FONT face="Times New Roman, Times, Serif" size=2>File Number)</FONT></TD>
+<TD align=left><FONT face="Times New Roman, Times, Serif" size=2>&nbsp;</FONT></TD>
+<TD align=center><FONT face="Times New Roman, Times, Serif" size=2>Identification</FONT></TD>
+<TD align=left><FONT face="Times New Roman, Times, Serif" size=2>&nbsp;</FONT></TD></TR>
+<TR vAlign=bottom>
+<TD align=center><FONT face="Times New Roman, Times, Serif" size=2>incorporation)</FONT></TD>
+<TD align=left><FONT face="Times New Roman, Times, Serif" size=2>&nbsp;</FONT></TD>
+<TD align=center><FONT face="Times New Roman, Times, Serif" size=2></FONT></TD>
+<TD align=left><FONT face="Times New Roman, Times, Serif" size=2>&nbsp;</FONT></TD>
+<TD align=center><FONT face="Times New Roman, Times, Serif" size=2>No.)</FONT></TD>
+<TD align=left><FONT face="Times New Roman, Times, Serif" size=2>&nbsp;</FONT></TD></TR>
+</TABLE>
+
+
+
+<TABLE cellSpacing=0 cellPadding=0 width=600 align=center>
+<TR vAlign=bottom>
+<TH colSpan=2>
+
+<P><FONT face="Times New Roman, Times, Serif" size=2></FONT>&nbsp;</P>
+
+
+<P><FONT face="Times New Roman, Times, Serif" size=2></FONT>
+
+<P><FONT face="Times New Roman, Times, Serif" size=2>20 West 9th, Kansas City, Missouri</FONT>
+<HR width="100%" color=black noShade SIZE=1>
+</TH>
+<TH colSpan=2><FONT face="Times New Roman, Times, Serif" size=2>64105</FONT>
+<HR width="100%" color=black noShade SIZE=1>
+</TH></TR>
+<TR vAlign=bottom>
+<TD align=center width="75%"><FONT face="Times New Roman, Times, Serif" size=2>(Address of principal executive offices)</FONT></TD>
+<TD align=left width="5%"><FONT face="Times New Roman, Times, Serif" size=2>&nbsp;</FONT></TD>
+<TD align=center width="18%"><FONT face="Times New Roman, Times, Serif" size=2>(Zip Code)</FONT></TD>
+<TD align=left width="2%"><FONT face="Times New Roman, Times, Serif" size=2>&nbsp;</FONT></TD></TR>
+</TABLE>
+
+
+<P><FONT face="Times New Roman, Times, Serif" size=2>Registrant's telephone number including area code:
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ (816) 421-6600 </FONT></P>
+
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Default" -->
+<p><font face="Times New Roman, Times, Serif" size=2>Check the appropriate box below if
+the Form 8-K filing is intended to simultaneously satisfy the obligation of the registrant
+under any of the following provisions: </font></p>
+
+
+<!-- MARKER FORMAT-SHEET="Para (List) Flush Lv 0- TNR" FSL="Project" -->
+<p><font face="Times New Roman, Times, Serif" size=2>[ &nbsp;&nbsp;&nbsp;&nbsp;]  Written
+communication pursuant to Rule 425 under the Securities Act (17 CFR 230.425) </font></p>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Flush Lv 0- TNR" FSL="Project" -->
+<p><font face="Times New Roman, Times, Serif" size=2>[ &nbsp;&nbsp;&nbsp;&nbsp;]
+ Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) </font></p>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Flush Lv 0- TNR" FSL="Project" -->
+<p><font face="Times New Roman, Times, Serif" size=2>[ &nbsp;&nbsp;&nbsp;&nbsp;]
+ Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR
+240.14d-2(b)) </font></p>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Flush Lv 0- TNR" FSL="Project" -->
+<p><font face="Times New Roman, Times, Serif" size=2>[ &nbsp;&nbsp;&nbsp;&nbsp;]
+ Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR
+240.13e-4(c)) </font></p>
+
+
+<!-- MARKER PAGE="sheet: 1; page: 1" -->
+<HR SIZE=5 COLOR=GRAY NOSHADE>
+
+
+<!-- MARKER FORMAT-SHEET="Head Major Left Bold-TNR" FSL="Project" -->
+<h1 align=LEFT><font face="Times New Roman, Times, Serif" size=2>Item 1.01 Entry into a
+Material Definitive Agreement. </font></h1>
+
+<!-- MARKER FORMAT-SHEET="Para Indent Lv 0-TNR" FSL="Project" -->
+<p><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On
+December 20, 2004, we entered into an agreement with South Mississippi Electric Power
+Association (SMEPA) pursuant to which we agreed to (i) terminate a power sales contract
+between us and SMEPA and (ii) assign to SMEPA our rights and obligations under power sales
+agreements between us and LSP Energy Limited Partnership. Consummation of the transaction
+is subject to regulatory approvals and other closing conditions. We will receive a payment
+of $16.25 million from SMEPA upon closing, subject to adjustment. </font></p>
+
+<!-- MARKER FORMAT-SHEET="Head Major Left Bold-TNR" FSL="Default" -->
+<h1 align=LEFT><font face="Times New Roman, Times, Serif" size=2>Item 9.01 Financial
+Statements and Exhibits. </font></h1>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Indent Lv 0- TNR" FSL="Project" -->
+<p><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;&nbsp;         10.1 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Power
+Purchase and Sales Contract Assignment and Termination Agreement dated December 20, 2004. </font></p>
+
+
+
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold 1-TNR" FSL="Project" -->
+<h1 align=CENTER><font face="Times New Roman, Times, Serif" size=2>Signatures </font></h1>
+
+<!-- MARKER FORMAT-SHEET="Para Indent Lv 0-TNR" FSL="Project" -->
+<p><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pursuant
+to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused
+this report to be signed on its behalf by the undersigned hereunto duly authorized. </font></p>
+
+<!-- MARKER FORMAT-SHEET="Head Left-TNR" FSL="Default" -->
+<p align=LEFT><font face="Times New Roman, Times, Serif" size=2>Aquila, Inc. </font></p>
+
+
+<TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0">
+<TR VALIGN="BOTTOM">
+     <TH><FONT FACE="Times New Roman, Times, Serif" SIZE="1"></FONT></TH>
+     <TH><FONT FACE="Times New Roman, Times, Serif" SIZE="1"></FONT></TH></TR>
+<TR VALIGN="TOP">
+     <TD WIDTH="5%"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">By:
+</FONT></TD>
+     <TD WIDTH="95%"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><U>/s/ Rick J. Dobson</U>
+</FONT></TD></TR>
+<TR VALIGN="TOP">
+     <TD><FONT FACE="Times New Roman, Times, Serif" SIZE="2"></FONT></TD>
+     <TD><FONT FACE="Times New Roman, Times, Serif" SIZE="2"> Rick J. Dobson<BR>
+Senior Vice President and<BR>
+Chief Financial Officer<BR>
+<BR>
+Date: December 22, 2004
+</FONT></TD></TR>
+</TABLE>
+
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10
+<SEQUENCE>2
+<FILENAME>aexhibit101_122004.htm
+<DESCRIPTION>EXHIBIT 10.1
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY>
+
+
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold-TNR" FSL="Project" -->
+<h1 align=CENTER><font face="Times New Roman, Times, Serif" size=2>POWER PURCHASE AND
+SALES CONTRACT </font></h1>
+
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold-TNR" FSL="Project" -->
+<h1 align=CENTER><font face="Times New Roman, Times, Serif" size=2>ASSIGNMENT AND
+TERMINATION AGREEMENT </font></h1>
+
+<!-- MARKER FORMAT-SHEET="Para Indent Lv 0-TNR" FSL="Project" -->
+<p><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This
+POWER PURCHASE AND SALES CONTRACT ASSIGNMENT AND TERMINATION AGREEMENT<b> </b>is dated as
+of December 20, 2004 by and among Aquila, Inc., a Delaware corporation formerly known as
+UtiliCorp United Inc. (&#147;<u>AI</u>&#148;), Aquila Merchant Services, Inc., a Delaware
+corporation which is the successor by merger to Aquila Energy Marketing Corporation, which
+in turn was formerly known as Aquila Power Corporation (&#147;<u>AMS</u>&#148;), Aquila
+Long Term, Inc., a Delaware corporation (&#147;<u>ALT</u>&#148; and, together with AI and
+AMS, &#147;Aquila&#148;), and South Mississippi Electric Power Association, a Mississippi
+corporation (&#147;<u>SMEPA</u>&#148;). Each of AI, AMS, ALT and SMEPA is individually
+referred to herein as a &#147;<u>Party</u>&#148;, and collectively AI, AMS, ALT and SMEPA
+are referred to herein as the &#147;<u>Parties</u>&#148;. </font></p>
+
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold-TNR" FSL="Project" -->
+<h1 align=CENTER><font face="Times New Roman, Times, Serif" size=2>RECITALS </font></h1>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Indent Lv 0- TNR" FSL="Project" -->
+<p><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;&nbsp;A.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;          AI,
+ALT (as successor to AMS) and SMEPA are parties to the SMEPA Power Sales
+          Agreement (as defined below).  </font></p>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Indent Lv 0- TNR" FSL="Project" -->
+<p><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;&nbsp;B.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;          AI,
+ALT (as successor to AMS) and LSP Energy Limited Partnership, a Delaware
+          limited partnership (&#147;<u>LSP</u>&#148;), are parties to the LSP Agreements
+          (as defined below).  </font></p>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Indent Lv 0- TNR" FSL="Project" -->
+<p><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;&nbsp;C.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;          The
+Parties desire (a) to terminate the SMEPA Power Sales Agreement, and (b)           that
+Aquila assign to SMEPA and that SMEPA assume all of Aquila&#146;s rights           and
+obligations under the LSP Agreements, in each case in accordance with the           terms
+and conditions set forth herein.  </font></p>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Indent Lv 0- TNR" FSL="Project" -->
+<p><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;&nbsp;Accordingly, &nbsp;the
+Parties agree as follows:  </font></p>
+
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold-TNR" FSL="Project" -->
+<h1 align=CENTER><font face="Times New Roman, Times, Serif" size=2>ARTICLE I </font></h1>
+
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold-TNR" FSL="Default" -->
+<h1 align=CENTER><font face="Times New Roman, Times, Serif" size=2>DEFINITIONS </font></h1>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Indent Lv 0- TNR" FSL="Project" -->
+<p><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp;&nbsp;&nbsp;&nbsp;1.1 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<U>Definitions</U>.
+In addition to the terms defined elsewhere herein, the terms below are defined as
+follows: </FONT> </p>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Indent Lv 0- TNR" FSL="Project" -->
+<p><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;&nbsp;&#147;<u>Agreement</u>&#148;means
+this Power Purchase and Sales Contract Assignment and Termination Agreement, as the same
+may be amended from time to time in accordance with the terms hereof.  </font></p>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Indent Lv 0- TNR" FSL="Project" -->
+<p><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;&nbsp;&#147;<u>Assignment
+and Termination Price</u>&#148; has the meaning set forth in Section 2.3.  </font></p>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Indent Lv 0- TNR" FSL="Project" -->
+<p><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;&nbsp;&#147;<u>Assumed
+Liabilities</u>&#148; means all liabilities and obligations of Aquila under the LSP
+Agreements arising after the Closing Date.  </font></p>
+
+
+<!-- MARKER FORMAT-SHEET="Para (List) Indent Lv 0- TNR" FSL="Project" -->
+<p><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;&nbsp;&#147;<u>Baseline
+Date</u>&#148; means February 28, 2005.  </font></p>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Indent Lv 0- TNR" FSL="Project" -->
+<p><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;&nbsp;&#147;<u>Closing</u>&#148;has
+the meaning set forth in Section 2.4.  </font></p>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Indent Lv 0- TNR" FSL="Project" -->
+<p><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;&nbsp;&#147;<u>Closing
+Date</u>&#148; has the meaning set forth in Section 2.4.  </font></p>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Indent Lv 0- TNR" FSL="Project" -->
+<p><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;&nbsp;&#147;<u>Credit
+Support</u>&#148; means the Credit Support (as defined in the LSP PPA) provided by LSP
+and held by Aquila pursuant to Section 13.6 of the LSP PPA.  </font></p>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Indent Lv 0- TNR" FSL="Project" -->
+<p><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;&nbsp;&#147;<u>FERC</u>&#148;means
+the Federal Energy Regulatory Commission.  </font></p>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Indent Lv 0- TNR" FSL="Project" -->
+<p><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;&nbsp;&#147;<u>Gas
+Transportation and Fuel Management Agreement</u>&#148; has the meaning ascribed thereto
+in Section 6.1(h).  </font></p>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Indent Lv 0- TNR" FSL="Project" -->
+<p><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;&nbsp;&#147;<u>Governmental
+Authority</u>&#148; means any domestic or foreign governmental or regulatory agency,
+authority, bureau, commission, department, official or similar body or instrumentality
+thereof, or any governmental court, arbitral tribunal or other body administering
+alternative dispute resolution.  </font></p>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Indent Lv 0- TNR" FSL="Project" -->
+<p><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;&nbsp;&#147;<u>KCC</u>&#148;means
+the Kansas Corporation Commission.  </font></p>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Indent Lv 0- TNR" FSL="Project" -->
+<p><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;&nbsp;&#147;<u>Lender
+Consent Agreement</u>&#148; means the Consent and Agreement dated as of August 28, 1998
+by ALT (as successor to AMS) and Aquila, as accepted and agreed to by IBJ Schroder Bank
+and Trust Company and LSP.  </font></p>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Indent Lv 0- TNR" FSL="Project" -->
+<p><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;&nbsp;&#147;<u>LSP</u>&#148;means
+LSP Energy Limited Partnership, a Delaware limited partnership.  </font></p>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Indent Lv 0- TNR" FSL="Project" -->
+<p><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;&nbsp;&#147;<u>LSP
+Agreements</u>&#148; means (a) the Power Purchase Agreement dated May 21, 1998 (as
+amended, the &#147;<u>LSP PPA</u>&#148;) by and between LSP, as seller, and ALT (as
+successor to AMS) and AI, as purchaser, as amended by (i) the Letter Agreement dated July
+14, 1998, (ii) the Letter Agreement dated July 16, 1998, (iii) the First Amendment to
+Power Purchase Agreement dated as of August 4, 2000 by and between LSP, ALT (as successor
+to AMS) and AI, (iv) the agency letter agreements for notices dated April 20, 2001 and
+May 30, 2001, (v) the letter from LSP to Jeremy Morgan dated July 31, 2003 re: derate on
+Batesville unit, and (vi) the letter from Jeremy Morgan to LSP dated September 21, 2001
+relating to generator imbalance service, (b) the Lender Consent Agreement, and (c) the
+TGC Connection Consent and Agreement.  </font></p>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Indent Lv 0- TNR" FSL="Project" -->
+<p><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;&nbsp;&#147;<u>LSP
+PPA</u>&#148; has the meaning ascribed thereto in the definition of &#147;LSP Agreements&#148;.  </font></p>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Indent Lv 0- TNR" FSL="Project" -->
+<p><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;&nbsp;&#147;<u>Margin
+Amount</u>&#148; means the amount of margin between the LSP PPA and the SMEPA Power Sales
+Agreement calculated on a daily basis, which amount the Parties have agreed is Four
+Thousand One Hundred Dollars ($4,100.00).  </font></p>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Indent Lv 0- TNR" FSL="Project" -->
+<p><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;&nbsp;&#147;<u>Non-Surviving
+Representations and Warranties</u>&#148; has the meaning set forth in Section 8.1.  </font></p>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Indent Lv 0- TNR" FSL="Project" -->
+<p><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;&nbsp;&#147;<u>Outside
+Date</u>&#148; means May 1, 2005 (or any other date to which the Parties subsequently
+agree in writing).  </font></p>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Indent Lv 0- TNR" FSL="Project" -->
+<p><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;&nbsp;&#147;<u>Party</u>&#148;has
+the meaning set forth in the preface of this Agreement.  </font></p>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Indent Lv 0- TNR" FSL="Project" -->
+<p><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;&nbsp;&#147;<u>Person</u>&#148;means
+an individual, corporation, partnership, limited liability company, joint venture,
+association, trust or other entity or organization or Governmental Authority.  </font></p>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Indent Lv 0- TNR" FSL="Project" -->
+<p><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;&nbsp;&#147;<u>SMEPA
+Power Sales Agreement</u>&#148; means the Power Sales Agreement dated August 18, 1999
+among ALT (as successor to AMS), AI and SMEPA.  </font></p>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Indent Lv 0- TNR" FSL="Project" -->
+<p><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;&nbsp;&#147;<u>TGC
+Connection Consent and Agreement</u>&#148; means the Consent and Agreement dated as of
+January 28, 2000 by and among AMS, AI and LSP.  </font></p>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Indent Lv 0- TNR" FSL="Project" -->
+<p><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Certain
+Interpretive Matters.  </font></p>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Indent Lv 0- TNR" FSL="Project" -->
+     <p><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;&nbsp;(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+          When a reference is made in this Agreement to an Article or Section, such
+          reference will be to an Article or Section of this Agreement unless otherwise
+          indicated. Whenever the words &#147;<u>include</u>&#148;,
+          &#147;<u>includes</u>&#148; or &#147;<u>including</u>&#148; are used in this
+          Agreement, they will be deemed to be followed by the words &#147;<u>without
+          limitation</u>&#148;. The words &#147;<u>hereof</u>&#148;,
+          &#147;<u>herein</u>&#148; and &#147;<u>hereunder</u>&#148; and words of similar
+          import when used in this Agreement refer to this Agreement as a whole and not to
+          any particular provision of this Agreement. All terms defined in this Agreement
+          have the defined meanings when used in any certificate or other document made or
+          delivered pursuant hereto unless otherwise defined therein. The definitions
+          contained in this Agreement are applicable to the singular as well as the plural
+          forms of such terms and to the masculine as well as to the feminine and neuter
+          genders of such term. All references to $ or dollar amounts are to the lawful
+          currency of the United States of America. Any agreement, instrument or statute
+          defined or referred to herein or in any agreement or instrument that is referred
+          to herein means such agreement, instrument or statute as from time to time
+          amended, modified or supplemented, including (in the case of agreements or
+          instruments) by waiver or consent and (in the case of statutes) by succession of
+          comparable successor statutes. References to a Person are also to its successors
+          and permitted assigns. </font></p>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Indent Lv 0- TNR" FSL="Project" -->
+     <p><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;&nbsp;(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+          No provision of this Agreement will be interpreted in favor of, or against, any
+          of the Parties by reason of the extent to which any such Party or its counsel
+          participated in the drafting thereof or by reason of the extent to which any
+          such provision is inconsistent with any prior draft hereof or thereof. </font></p>
+
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold-TNR" FSL="Project" -->
+<h1 align=CENTER><font face="Times New Roman, Times, Serif" size=2>ARTICLE II </font></h1>
+
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold-TNR" FSL="Project" -->
+<h1 align=CENTER><font face="Times New Roman, Times, Serif" size=2>BASIC TRANSACTION </font></h1>
+
+<!-- MARKER FORMAT-SHEET="Para Indent Lv 0-TNR" FSL="Project" -->
+<p><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<u>Termination of the SMEPA Power Sales Agreement; Assignment of the LSP Agreements</u>.
+On and subject to the terms and conditions of this Agreement, (a) the Parties agree to
+terminate the SMEPA Power Sales Agreement, and (b) Aquila agrees to assign, and SMEPA
+agrees to accept the assignment of, the LSP Agreements, in each case at the Closing (and
+effective at 11:59 p.m. on the Closing Date) for the consideration specified in Section
+2.3. The Parties agree that all payments to be paid or received by Aquila (or, after the
+Closing Date, by SMEPA) under the LSP Agreements shall be prorated as of the Closing Date,
+with Aquila being responsible for and entitled to the benefit of payments attributable to
+the period up to and through the Closing Date, and SMEPA being responsible for and
+entitled to the benefit of payments attributable to the period commencing on the day after
+the Closing Date. After Closing, Aquila will promptly remit and send to SMEPA any and all
+payments, funds, assets, notices, reports and other documents and information received by
+Aquila or its agents or representatives that relate to periods after the Closing Date.
+After Closing, SMEPA will promptly remit and send to Aquila any and all payments, funds,
+assets, notices, reports and other documents and information received by SMEPA or its
+agents or representatives that relate to periods on or prior to the Closing Date. </font></p>
+
+<!-- MARKER FORMAT-SHEET="Para Indent Lv 0-TNR" FSL="Project" -->
+<p><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<u>Assumption of Liabilities</u>. On and subject to the terms and conditions of this
+Agreement, SMEPA agrees to assume and become responsible for the Assumed Liabilities at
+the Closing. </font></p>
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Project" -->
+<p><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>Assignment and Termination
+Price</u>. SMEPA agrees to pay Aquila (by payment to AI) Sixteen Million Two Hundred Fifty
+Thousand Dollars ($16,250,000.00) subject to adjustment in the event that the Closing Date
+is not the Baseline Date as provided in this Section 2.3 (as so adjusted, the
+&#147;<u>Assignment and Termination Price</u>&#148;). In the event that the Closing Date
+occurs after the Baseline Date, the Parties agree that the Assignment and Termination
+Price shall be reduced by the product of (i) the Margin Amount, and (ii) the number of
+days between the Baseline Date and the Closing Date (including the Closing Date). In the
+event that the Closing Date occurs prior to the Baseline Date, the Parties agree that the
+Assignment and Termination Price shall be increased by the product of (i) the Margin
+Amount, and (ii) the number of days between and including the Closing Date and the
+Baseline Date (including the Baseline Date). </font></p>
+
+<!-- MARKER FORMAT-SHEET="Para Indent Lv 0-TNR" FSL="Project" -->
+<p><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.4&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<u>The Closing</u>. The closing of the transactions contemplated by this Agreement (the
+&#147;<u>Closing</u>&#148;) shall take place at the Kansas City office of Blackwell
+Sanders Peper Martin LLP commencing at 9:00 a.m. local time on the first business day
+following the satisfaction or waiver of all conditions to the obligations of the Parties
+to consummate the transactions contemplated hereby (other than conditions with respect to
+actions the respective Parties will take at the Closing itself) or such other date as the
+Parties may mutually determine (the &#147;<u>Closing Date</u>&#148;). </font></p>
+
+<!-- MARKER FORMAT-SHEET="Para Indent Lv 0-TNR" FSL="Project" -->
+<p><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.5&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<u>Deliveries at the Closing</u>. At the Closing, (a) Aquila will deliver to SMEPA the
+various certificates, instruments and documents referred to in Section 6.1 below executed
+by the appropriate parties, (b) SMEPA will deliver to Aquila the various certificates,
+instruments and documents referred to in Section 6.2 below executed by the appropriate
+parties, (c) SMEPA will deliver to Aquila the consideration specified in Section 2.3
+above, and (d) Aquila will deliver to SMEPA the Credit Support. </font></p>
+
+<!-- MARKER FORMAT-SHEET="Para Indent Lv 0-TNR" FSL="Project" -->
+<p><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.6&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<u>Ongoing AMS Services</u>. Following the Closing, AMS shall continue to provide gas
+transportation services and fuel procurement and scheduling services in accordance with
+the letter agreement regarding transportation capacity dated July 15, 2002 between AMS and
+SMEPA and the Gas Transportation and Fuel Management Agreement until December 31, 2005. </font></p>
+
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold-TNR" FSL="Project" -->
+<h1 align=CENTER><font face="Times New Roman, Times, Serif" size=2>ARTICLE III </font></h1>
+
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold-TNR" FSL="Project" -->
+<h1 align=CENTER><font face="Times New Roman, Times, Serif" size=2>REPRESENTATIONS AND
+WARRANTIES OF AQUILA </font></h1>
+
+<!-- MARKER FORMAT-SHEET="Para Indent Lv 0-TNR" FSL="Project" -->
+<p><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Aquila
+represents and warrants to SMEPA that the statements contained in this Article III are
+correct as of the date of this Agreement and will be correct as of the Closing Date. </font></p>
+
+<!-- MARKER FORMAT-SHEET="Para Indent Lv 0-TNR" FSL="Project" -->
+<p><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<u>Organization</u>. Each of AI, AMS and ALT is a corporation duly organized, validly
+existing and in good standing under the laws of the State of Delaware. </font></p>
+
+<!-- MARKER FORMAT-SHEET="Para Indent Lv 0-TNR" FSL="Project" -->
+<p><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<u>Authorization of Transaction; Enforceability</u>. AI, AMS and ALT have full power and
+authority to execute and deliver this Agreement and to perform their obligations
+hereunder. This Agreement has been duly authorized by each of AI, AMS and ALT and
+constitutes the valid and legally binding obligation of AI, AMS and ALT, enforceable in
+accordance with its terms and conditions. </font></p>
+
+<!-- MARKER FORMAT-SHEET="Para Indent Lv 0-TNR" FSL="Project" -->
+<p><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<u>Non-Contravention</u>. Except as set forth in <u>Schedule 3.3</u>, neither the
+execution and delivery of this Agreement, nor the consummation of the transactions
+contemplated hereby, will (a) violate any constitution, statute, regulation, rule,
+injunction, judgment, order, decree, ruling, charge or other restriction of any
+Governmental Authority to which AI, AMS or ALT is subject or any provision of the charter
+or bylaws of AI, AMS or ALT, or (b) conflict with, result in the breach of, constitute a
+default under, result in the acceleration or termination of, create in any party the right
+to accelerate, terminate, modify or cancel, or require any notice under the LSP Agreements
+or any other agreement, contract, lease, license, instrument or other arrangement to which
+AI, AMS or ALT is a party or by which it is bound, except where the violation, conflict,
+breach, default, acceleration, termination, modification, cancellation or failure to give
+notice would not have a material adverse effect on the ability of AI, AMS and ALT to
+consummate the transactions contemplated by this Agreement. Except as set forth in
+<u>Schedule 3.3</u>, none of AI, AMS or ALT needs to give any notice to, make any filing
+with, or obtain any authorization, consent or approval of any Governmental Authority in
+order for the Parties to consummate the transactions contemplated by this Agreement. </font></p>
+
+<!-- MARKER FORMAT-SHEET="Para Indent Lv 0-TNR" FSL="Project" -->
+<p><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.4&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<u>Broker&#146;s Fees</u>. AI, AMS and ALT have no liability or obligation to pay any fees
+or commissions to any broker, finder or agent with respect to the transactions
+contemplated by this Agreement for which SMEPA could become liable or obligated. </font></p>
+
+<!-- MARKER FORMAT-SHEET="Para Indent Lv 0-TNR" FSL="Project" -->
+<p><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.5&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<u>LSP Agreements</u>. The LSP Agreements are valid and binding obligations of AI, AMS
+and/or ALT, as applicable, and are in full force and effect. None of AI, AMS or ALT (a) is
+in default (with or without notice or lapse of time) or breach in any material respect
+under the terms of the LSP Agreements, or (b) other than pursuant to this Agreement, has
+transferred any interest in the LSP Agreements to a Person not included in the definition
+of &#147;Aquila&#148;. LSP has provided Credit Support under Section 13.6 of the LSP PPA
+due to LSP&#146;s failure to maintain a Debt Service Coverage Ratio (as defined in the LSP
+PPA) of at least 1.25 to 1.00 for four (4) consecutive quarters. Otherwise, to the
+knowledge of Aquila, no counterparty to an LSP Agreement is in default (with or without
+notice or lapse of time) or breach in any material respect under the terms thereof. </font></p>
+
+<!-- MARKER FORMAT-SHEET="Para Indent Lv 0-TNR" FSL="Project" -->
+<p><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.6&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<u>No Other Arrangements</u>. Aquila is not a party to any contract or agreement relating
+to the Facility (as defined in the LSP PPA) other than: (a) the agreements referenced in
+Section 2.6; and (b) prior to consummation of the transactions contemplated by this
+Agreement, the LSP Agreements and the SMEPA Power Sales Agreement. Additionally, SMEPA and
+LSP have agreed to an interpretation of the definition of &#147;EUDH&#148; as set forth in
+Section 10.3 of the LSP PPA, which will be memorialized by LSP and SMEPA in the Assignment
+and Assumption Agreement attached hereto as <u>Exhibit 6.1(f)</u>. </font></p>
+
+<!-- MARKER FORMAT-SHEET="Para Indent Lv 0-TNR" FSL="Project" -->
+<p><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<u>Disclaimer of Other Representations and Warranties</u>. EXCEPT AS EXPRESSLY SET FORTH
+IN THIS ARTICLE III, AQUILA MAKES NO REPRESENTATION OR WARRANTY, EXPRESS OR IMPLIED, AT
+LAW OR IN EQUITY, IN RESPECT OF ANY OF ITS ASSETS AND LIABILITIES (INCLUDING, WITHOUT
+LIMITATION, THE LSP AGREEMENTS) OR OPERATIONS, AND ANY SUCH OTHER REPRESENTATIONS AND
+WARRANTIES INCLUDING, WITHOUT LIMITATION, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND
+FITNESS FOR A PARTICULAR PURPOSE ARE HEREBY EXPRESSLY DISCLAIMED. </font></p>
+
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold-TNR" FSL="Project" -->
+<h1 align=CENTER><font face="Times New Roman, Times, Serif" size=2>ARTICLE IV </font></h1>
+
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold-TNR" FSL="Project" -->
+<h1 align=CENTER><font face="Times New Roman, Times, Serif" size=2>REPRESENTATIONS AND
+WARRANTIES OF SMEPA </font></h1>
+
+<!-- MARKER FORMAT-SHEET="Para Indent Lv 0-TNR" FSL="Project" -->
+<p><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SMEPA
+represents and warrants to Aquila that the statements contained in this Article IV are
+correct as of the date of this Agreement and will be correct as of the Closing Date. </font></p>
+
+<!-- MARKER FORMAT-SHEET="Para Indent Lv 0-TNR" FSL="Project" -->
+<p><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<u>Organization of SMEPA</u>. SMEPA is a corporation duly organized, validly existing and
+in good standing under the laws of the State of Mississippi. </font></p>
+
+<!-- MARKER FORMAT-SHEET="Para Indent Lv 0-TNR" FSL="Project" -->
+<p><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<u>Authorization of Transaction; Enforceability</u>. SMEPA has full power and authority to
+execute and deliver this Agreement and to perform its obligations hereunder. This
+Agreement has been duly authorized by SMEPA and constitutes the valid and legally binding
+obligation of SMEPA, enforceable in accordance with its terms and conditions. </font></p>
+
+<!-- MARKER FORMAT-SHEET="Para Indent Lv 0-TNR" FSL="Project" -->
+<p><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<u>Non-Contravention</u>. Except as set forth in <u>Schedule 4.3</u>, neither the
+execution and delivery of this Agreement, nor the consummation of the transactions
+contemplated hereby and thereby by SMEPA, will (a) violate any constitution, statute,
+regulation, rule, injunction, judgment, order, decree, ruling, charge or other restriction
+of any Governmental Authority to which SMEPA is subject or any provision of the charter or
+bylaws of SMEPA, or (b) conflict with, result in the breach of, constitute a default
+under, result in the acceleration of, create in any party the right to accelerate,
+terminate, modify or cancel, or require any notice under any agreement, contract, lease,
+license, instrument or other arrangement to which SMEPA is a party or by which it is
+bound, except where the violation, conflict, breach, default, acceleration, termination,
+modification, cancellation or failure to give notice would not have a material adverse
+effect on the ability of SMEPA to consummate the transactions contemplated by this
+Agreement. Except as set forth in <u>Schedule 4.3</u>, SMEPA does not need to give any
+notice to, make any filing with, or obtain any authorization, consent or approval of any
+Governmental Authority in order for the Parties to consummate the transactions
+contemplated by this Agreement. </font></p>
+
+<!-- MARKER FORMAT-SHEET="Para Indent Lv 0-TNR" FSL="Project" -->
+<p><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.4&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<u>Broker&#146;s Fees</u>. SMEPA has no liability or obligation to pay any fees or
+commissions to which any broker, finder or agent with respect to the transactions
+contemplated by this Agreement for which Aquila could become liable or obligated. </font></p>
+
+<!-- MARKER FORMAT-SHEET="Para Indent Lv 0-TNR" FSL="Project" -->
+<p><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.5&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<u>Source of Assignment and Termination Price</u>. The payment of the Assignment and
+Termination Price by SMEPA shall be initially funded through normal credit lines. </font></p>
+
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold-TNR" FSL="Project" -->
+<h1 align=CENTER><font face="Times New Roman, Times, Serif" size=2>ARTICLE V </font></h1>
+
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold-TNR" FSL="Project" -->
+<h1 align=CENTER><font face="Times New Roman, Times, Serif" size=2>PRE-CLOSING COVENANTS </font></h1>
+
+<!-- MARKER FORMAT-SHEET="Para Indent Lv 0-TNR" FSL="Project" -->
+<p><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The
+Parties agree as follows with respect to the period between execution of this Agreement
+and the Closing. </font></p>
+
+<!-- MARKER FORMAT-SHEET="Para Indent Lv 0-TNR" FSL="Project" -->
+<p><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5.1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<u>General</u>. Each of the Parties will use commercially reasonable efforts to take all
+action and to do all things necessary, proper and advisable in order to consummate and
+make effective the transactions contemplated by this Agreement (including satisfaction,
+but not waiver, of the closing conditions set forth in Article VI below). </font></p>
+
+<!-- MARKER FORMAT-SHEET="Para Indent Lv 0-TNR" FSL="Project" -->
+<p><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5.2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<u>Notices and Consents</u>. Each of the Parties will give any notices to, make any
+filings with, and use its commercially reasonable efforts to obtain any authorizations,
+consents and approvals of Governmental Authorities in connection with the matters referred
+to in Sections 3.3 and 4.3 above. Without limiting the generality of the foregoing, within
+ten (10) days following the date of this Agreement, Aquila shall request orders (a) under
+Section 203 of the Federal Power Act from FERC, and (b) from the KCC, in each case
+approving the transactions contemplated by this Agreement. SMEPA will provide all
+assistance reasonably requested by Aquila in order to obtain and expedite FERC and KCC
+approval. </font></p>
+
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold-TNR" FSL="Project" -->
+<h1 align=CENTER><font face="Times New Roman, Times, Serif" size=2>ARTICLE VI </font></h1>
+
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold-TNR" FSL="Default" -->
+<h1 align=CENTER><font face="Times New Roman, Times, Serif" size=2>CONDITIONS TO
+OBLIGATION TO CLOSE </font></h1>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Indent Lv 0- TNR" FSL="Project" -->
+<p><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp;&nbsp;&nbsp;&nbsp; 6.1 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<U>Conditions
+to Obligations of SMEPA</U>. The obligation of SMEPA to consummate the transactions to be
+performed by it in connection with the Closing is subject to the following conditions: </FONT> </p>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Indent Lv 1- TNR" FSL="Project" -->
+          <table width=600 cellpadding=0 cellspacing=0>
+               <tr valign=TOP>
+               <td align=RIGHT width=5%></td>
+               <td width=95%><p align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;&nbsp;(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+               the representations and warranties set forth in Article III above shall be true
+               and correct in all material respects at and as of the Closing Date (except for
+               representations and warranties which are qualified by &#147;materiality&#148; or
+               &#147;material&#148;, which representations and warranties shall be true and
+               correct in all respects at and as of the Closing Date); </font></p></td>
+               </tr>
+               </table>
+               <br>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Indent Lv 1- TNR" FSL="Project" -->
+          <table width=600 cellpadding=0 cellspacing=0>
+               <tr valign=TOP>
+               <td align=RIGHT width=5%></td>
+               <td width=95%><p align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;&nbsp;(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+               Aquila shall have performed and complied with all of its covenants hereunder in
+               all material respects through the Closing; </font></p></td>
+               </tr>
+               </table>
+               <br>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Indent Lv 1- TNR" FSL="Project" -->
+          <table width=600 cellpadding=0 cellspacing=0>
+               <tr valign=TOP>
+               <td align=RIGHT width=5%></td>
+               <td width=95%><p align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;&nbsp;(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+               there shall not be any injunction, judgment, order, decree, ruling or charge
+               pending, threatened or in effect preventing consummation of any of the
+               transactions contemplated by this Agreement; </font></p></td>
+               </tr>
+               </table>
+               <br>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Indent Lv 1- TNR" FSL="Project" -->
+          <table width=600 cellpadding=0 cellspacing=0>
+               <tr valign=TOP>
+               <td align=RIGHT width=5%></td>
+               <td width=95%><p align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;&nbsp;(d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+               Aquila shall have delivered to SMEPA a certificate to the effect that each of
+               the conditions specified above in Section 6.1(a)-(c) is satisfied in all
+               respects; </font></p></td>
+               </tr>
+               </table>
+               <br>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Indent Lv 1- TNR" FSL="Project" -->
+          <table width=600 cellpadding=0 cellspacing=0>
+               <tr valign=TOP>
+               <td align=RIGHT width=5%></td>
+               <td width=95%><p align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;&nbsp;(e)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+               the Parties shall have received all authorizations, consents and approvals of
+               Governmental Authorities (which shall be final and non-appealable) and other
+               third parties referred to in Sections 3.3, 4.3 and 5.2 above; </font></p></td>
+               </tr>
+               </table>
+               <br>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Indent Lv 1- TNR" FSL="Project" -->
+          <table width=600 cellpadding=0 cellspacing=0>
+               <tr valign=TOP>
+               <td align=RIGHT width=5%></td>
+               <td width=95%><p align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;&nbsp;(f)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+               Aquila and LSP shall have entered into an Assignment and Assumption Agreement in
+               substance substantially similar to that set forth in <u>Exhibit 6.1(f)</u>
+               hereto (subject to any reasonable changes requested by LSP that do not adversely
+               affect SMEPA); </font></p></td>
+               </tr>
+               </table>
+               <br>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Indent Lv 1- TNR" FSL="Project" -->
+          <table width=600 cellpadding=0 cellspacing=0>
+               <tr valign=TOP>
+               <td align=RIGHT width=5%></td>
+               <td width=95%><p align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;&nbsp;(g)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+               Aquila shall have entered into and delivered to SMEPA a Termination Agreement in
+               form and substance substantially similar to that set forth in <u>Exhibit
+               6.1(g)</u> hereto; and </font></p></td>
+               </tr>
+               </table>
+               <br>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Indent Lv 1- TNR" FSL="Project" -->
+          <table width=600 cellpadding=0 cellspacing=0>
+               <tr valign=TOP>
+               <td align=RIGHT width=5%></td>
+               <td width=95%><p align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;&nbsp;(h)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+               AMS shall have entered into and delivered to SMEPA a Gas Transportation and Fuel
+               Management Agreement (the &#147;<u>Gas Transportation and Fuel Management
+               Agreement</u>&#148;) between SMEPA and AMS in form and substance substantially
+               similar to that set forth in <u>Exhibit 6.1(h)</u> hereto. </font></p></td>
+               </tr>
+               </table>
+               <br>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Indent Lv 1- TNR" FSL="Project" -->
+          <table width=600 cellpadding=0 cellspacing=0>
+               <tr valign=TOP>
+               <td align=RIGHT width=5%></td>
+               <td width=95%><p align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;&nbsp;(i)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+               AMS shall have delivered to SMEPA an irrevocable standby letter of credit
+               written with SMEPA as the beneficiary, in form and substance substantially
+               similar to that set forth in <u>Exhibit 6.1(i)</u> hereto (subject to any
+               reasonable changes requested by Bank One, N.A.) (the &#147;<b>Letter of
+               Credit</b>&#148;), for an amount totaling the product of Fifty Thousand Dollars
+               ($50,000.00) times the number of partial and full calendar months between the
+               Closing Date and December 31, 2005, which total amount will be decreased by
+               Fifty Thousand Dollars ($50,000.00) on the last day of each calendar month
+               during the term of the Letter of Credit. </font></p></td>
+               </tr>
+               </table>
+               <br>
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 1-TNR" FSL="Project" -->
+<table width=600 cellpadding=0 cellspacing=0 border=0>
+<tr valign=TOP>
+<td width=5%>&nbsp;</td>
+<td width=95%><font face="Times New Roman, Times, Serif" size=2>
+A
+waiver of a condition specified in Section 6.1 shall be evidenced either by (i) a writing
+expressly waiving the condition executed by SMEPA, or (ii) SMEPA&#146;s consummation of
+the transactions to be performed by it in connection with the Closing notwithstanding the
+failure of the condition to be met. </font></td>
+</tr>
+</table>
+<br>
+
+<!-- MARKER FORMAT-SHEET="Para Indent Lv 0-TNR" FSL="Project" -->
+<p><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6.2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<u>Conditions to Obligations of Aquila</u>. The obligation of Aquila to consummate the
+transactions to be performed by it in connection with the Closing is subject to the
+following conditions: </font></p>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Indent Lv 1- TNR" FSL="Project" -->
+          <table width=600 cellpadding=0 cellspacing=0>
+               <tr valign=TOP>
+               <td align=RIGHT width=5%></td>
+               <td width=95%><p align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;&nbsp;(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+               the representations and warranties set forth in Article IV above shall be true
+               and correct in all material respects at and as of the Closing Date (except for
+               representations and warranties which are qualified by &#147;materiality&#148; or
+               &#147;material&#148;, which representations and warranties shall be true and
+               correct in all respects at and as of the Closing Date); </font></p></td>
+               </tr>
+               </table>
+               <br>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Indent Lv 1- TNR" FSL="Project" -->
+          <table width=600 cellpadding=0 cellspacing=0>
+               <tr valign=TOP>
+               <td align=RIGHT width=5%></td>
+               <td width=95%><p align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;&nbsp;(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+               SMEPA shall have performed and complied with all of its covenants hereunder
+               (including, without limitation, the payment of the Assignment and Termination
+               Price pursuant to Section 2.3 hereof) in all respects through the Closing; </font></p></td>
+               </tr>
+               </table>
+               <br>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Indent Lv 1- TNR" FSL="Project" -->
+          <table width=600 cellpadding=0 cellspacing=0>
+               <tr valign=TOP>
+               <td align=RIGHT width=5%></td>
+               <td width=95%><p align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;&nbsp;(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+               there shall not be any injunction, judgment, order, decree, ruling or charge
+               pending, threatened or in effect preventing consummation of any of the
+               transactions contemplated by this Agreement; </font></p></td>
+               </tr>
+               </table>
+               <br>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Indent Lv 1- TNR" FSL="Project" -->
+          <table width=600 cellpadding=0 cellspacing=0>
+               <tr valign=TOP>
+               <td align=RIGHT width=5%></td>
+               <td width=95%><p align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;&nbsp;(d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+               SMEPA shall have delivered to Aquila a certificate to the effect that each of
+               the conditions specified in Section 6.2(a)-(c) is satisfied in all respects; </font></p></td>
+               </tr>
+               </table>
+               <br>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Indent Lv 1- TNR" FSL="Project" -->
+          <table width=600 cellpadding=0 cellspacing=0>
+               <tr valign=TOP>
+               <td align=RIGHT width=5%></td>
+               <td width=95%><p align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;&nbsp;(e)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+               the Parties shall have received all authorizations, consents and approvals of
+               Governmental Authorities (which shall be final and non-appealable) and other
+               third parties referred to in Sections 3.3, 4.3 and 5.2 above; </font></p></td>
+               </tr>
+               </table>
+               <br>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Indent Lv 1- TNR" FSL="Project" -->
+          <table width=600 cellpadding=0 cellspacing=0>
+               <tr valign=TOP>
+               <td align=RIGHT width=5%></td>
+               <td width=95%><p align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;&nbsp;(f)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+               SMEPA and LSP shall have entered into an Assignment and Assumption Agreement in
+               substance substantially similar to that set forth in <u>Exhibit 6.1(f)</u>
+               hereto (subject to any reasonable changes requested by LSP that do not adversely
+               affect Aquila); </font></p></td>
+               </tr>
+               </table>
+               <br>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Indent Lv 1- TNR" FSL="Project" -->
+          <table width=600 cellpadding=0 cellspacing=0>
+               <tr valign=TOP>
+               <td align=RIGHT width=5%></td>
+               <td width=95%><p align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;&nbsp;(g)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+               SMEPA shall have entered into and delivered to Aquila a Termination Agreement in
+               form and substance substantially similar to that set forth in <u>Exhibit
+               6.1(g)</u> hereto; </font></p></td>
+               </tr>
+               </table>
+               <br>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Indent Lv 1- TNR" FSL="Project" -->
+          <table width=600 cellpadding=0 cellspacing=0>
+               <tr valign=TOP>
+               <td align=RIGHT width=5%></td>
+               <td width=95%><p align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;&nbsp;(h)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+               SMEPA shall have entered into and delivered to AMS the Gas Transportation and
+               Fuel Management Agreement between SMEPA and AMS in form and substance
+               substantially similar to that set forth in <u>Exhibit 6.1(h)</u> hereto; and </font></p></td>
+               </tr>
+               </table>
+               <br>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Indent Lv 1- TNR" FSL="Project" -->
+          <table width=600 cellpadding=0 cellspacing=0>
+               <tr valign=TOP>
+               <td align=RIGHT width=5%></td>
+               <td width=95%><p align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;&nbsp;(i)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+               Aquila shall have been released from all liability under the LSP Agreements and
+               all other contractual obligations relating in any way to the Facility (as
+               defined in the LSP PPA) or to LSP or SMEPA with respect to the Facility (except
+               under the agreements referenced in Section 2.6). </font></p></td>
+               </tr>
+               </table>
+               <br>
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Project" -->
+<p><font face="Times New Roman, Times, Serif" size=2>A waiver of a condition specified in
+Section 6.2 shall be evidenced either by (i) a writing expressly waiving the condition
+executed by AI, AMS and ALT, or (ii) with the exception of the Section 6.2(b) condition
+that SMEPA pay the Assignment and Termination Price, Aquila&#146;s consummation of the
+transactions to be performed by it in connection with the Closing notwithstanding the
+failure of the condition to be met. </font></p>
+
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold-TNR" FSL="Project" -->
+<h1 align=CENTER><font face="Times New Roman, Times, Serif" size=2>ARTICLE VII </font></h1>
+
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold-TNR" FSL="Default" -->
+<h1 align=CENTER><font face="Times New Roman, Times, Serif" size=2>TERMINATION </font></h1>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Indent Lv 0- TNR" FSL="Project" -->
+<p><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp;&nbsp;&nbsp;&nbsp; 7.1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<U>Termination
+of this Agreement</U>. The Parties may terminate this Agreement prior to the Closing as
+follows: </FONT> </p>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Indent Lv 1- TNR" FSL="Project" -->
+          <table width=600 cellpadding=0 cellspacing=0>
+               <tr valign=TOP>
+               <td align=RIGHT width=5%></td>
+               <td width=95%><p align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;&nbsp;(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+               Aquila and SMEPA may terminate this Agreement by mutual written consent. </font></p></td>
+               </tr>
+               </table>
+               <br>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Indent Lv 1- TNR" FSL="Project" -->
+          <table width=600 cellpadding=0 cellspacing=0>
+               <tr valign=TOP>
+               <td align=RIGHT width=5%></td>
+               <td width=95%><p align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;&nbsp;(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+               SMEPA may terminate this Agreement by giving written notice to Aquila in the
+               event: (i) Aquila has breached any representation, warranty or covenant
+               contained in this Agreement in any material respect, SMEPA has notified Aquila
+               of the breach, and the breach has continued without cure for a period of thirty
+               (30) days after the notice of the breach; or (ii) the Closing shall not have
+               occurred on or before the Outside Date by reason of the failure of any condition
+               precedent under Section 6.1 hereof (unless the failure results primarily from
+               SMEPA itself breaching any representation, warranty or covenant contained in
+               this Agreement). </font></p></td>
+               </tr>
+               </table>
+               <br>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Indent Lv 1- TNR" FSL="Project" -->
+          <table width=600 cellpadding=0 cellspacing=0>
+               <tr valign=TOP>
+               <td align=RIGHT width=5%></td>
+               <td width=95%><p align=LEFT><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;&nbsp;(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+               Aquila may terminate this Agreement by giving written notice to SMEPA in the
+               event: (i) SMEPA has breached any representation, warranty or covenant contained
+               in this Agreement in any material respect, Aquila has notified SMEPA of the
+               breach, and the breach has continued without cure for a period of thirty (30)
+               days after the notice of the breach; or (ii) the Closing shall not have occurred
+               on or before the Outside Date by reason of the failure of any condition
+               precedent under Section 6.2 hereof (unless the failure results primarily from
+               Aquila itself breaching any representation, warranty or covenant contained in
+               this Agreement). </font></p></td>
+               </tr>
+               </table>
+               <br>
+
+<!-- MARKER FORMAT-SHEET="Para Indent Lv 0-TNR" FSL="Project" -->
+<p><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7.2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<u>Effect of Termination</u>. If any Party terminates this Agreement pursuant to Section
+7.1 above, all rights and obligations of the Parties hereunder shall terminate without any
+liability of any Party to any other Party (except for any liability of any Party then in
+breach). </font></p>
+
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold-TNR" FSL="Project" -->
+<h1 align=CENTER><font face="Times New Roman, Times, Serif" size=2>ARTICLE VIII </font></h1>
+
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold-TNR" FSL="Project" -->
+<h1 align=CENTER><font face="Times New Roman, Times, Serif" size=2>NO SURVIVAL OF
+REPRESENTATIONS AND WARRANTIES </font></h1>
+
+<!-- MARKER FORMAT-SHEET="Para Indent Lv 0-TNR" FSL="Project" -->
+<p><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8.1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<u>Representations and Warranties</u>. The representations and warranties of the Parties
+in Sections 3.3, 3.5, 3.6, 4.3 and 4.5 of this Agreement (such non-surviving
+representations and warranties referred to herein as the &#147;<u>Non-Surviving
+Representations and Warranties</u>&#148;) shall not survive the Closing, and any and all
+breaches of such representations and warranties shall be deemed waived at Closing. The
+remaining representations and warranties of the Parties in this Agreement shall survive
+the Closing indefinitely. In no event shall Aquila&#146;s aggregate liability to SMEPA
+under this Agreement exceed the Assignment and Termination Price. </font></p>
+
+<!-- MARKER FORMAT-SHEET="Para Indent Lv 0-TNR" FSL="Project" -->
+<p><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8.2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<u>Covenants</u>. The covenants contained in this Agreement shall survive for the period
+stated herein or, if no time is specified, indefinitely. </font></p>
+
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold-TNR" FSL="Project" -->
+<h1 align=CENTER><font face="Times New Roman, Times, Serif" size=2>ARTICLE IX </font></h1>
+
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold-TNR" FSL="Project" -->
+<h1 align=CENTER><font face="Times New Roman, Times, Serif" size=2>MISCELLANEOUS </font></h1>
+
+<!-- MARKER FORMAT-SHEET="Para Indent Lv 0-TNR" FSL="Project" -->
+<p><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9.1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<u>Press Releases and Public Announcements</u>. No Party shall issue any press release or
+make any public announcement relating to the subject matter of this Agreement without
+prior consultation with the other Parties; <i>provided, however</i>, that any Party may
+make any public disclosure it believes in good faith is required by applicable law or any
+listing or trading agreement concerning its publicly traded securities. </font></p>
+
+<!-- MARKER FORMAT-SHEET="Para Indent Lv 0-TNR" FSL="Project" -->
+<p><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9.2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<u>No Third-Party Beneficiaries</u>. This Agreement shall not confer any rights or
+remedies upon any Person other than the Parties and their respective successors and
+permitted assigns. </font></p>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Indent Lv 0- TNR" FSL="Project" -->
+     <p><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9.3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+          <u>Entire Agreement</u>. This Agreement (including the documents referred to
+          herein), together with (a) the Confidentiality Agreement dated August 19, 2004
+          among AI, AMS and SMEPA, and (b) the Confidentiality Agreement dated November 1,
+          2004 among AI, AMS and SMEPA, in each case as amended, modified and extended,
+          constitute the entire agreement among the Parties and supersede any prior
+          understandings, agreements or representations by or among the Parties, written
+          or oral, to the extent that they relate to the subject matter hereof. </font></p>
+
+<!-- MARKER FORMAT-SHEET="Para Indent Lv 0-TNR" FSL="Project" -->
+<p><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9.4&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<u>Succession and Assignment</u>. This Agreement shall be binding upon and inure to the
+benefit of the Parties named herein and their respective successors and permitted assigns.
+No Party may assign either this Agreement or any of its rights, interests or obligations
+hereunder without the prior written approval of the other Parties, except that SMEPA after
+the Closing may assign its rights in (but not its obligations under) this Agreement to its
+lenders. </font></p>
+
+<!-- MARKER FORMAT-SHEET="Para Indent Lv 0-TNR" FSL="Project" -->
+<p><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9.5&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<u>Counterparts; Facsimile Signatures</u>. This Agreement may be executed in one or more
+counterparts, each of which shall be deemed an original but all of which together will
+constitute one and the same instrument. This Agreement may be executed by facsimile
+signatures. </font></p>
+
+<!-- MARKER FORMAT-SHEET="Para Indent Lv 0-TNR" FSL="Project" -->
+<p><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9.6&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<u>Headings</u>. The section headings contained in this Agreement are inserted for
+convenience only and shall not affect in any way the meaning or interpretation of this
+Agreement. </font></p>
+
+<!-- MARKER FORMAT-SHEET="Para Indent Lv 0-TNR" FSL="Default" -->
+<p><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9.7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<u>Notices</u>. All notices, requests, demands, claims and other communications hereunder
+will be in writing. Any notice, request, demand, claim or other communication hereunder
+shall be deemed duly given if (and then two business days after) it is sent by registered
+or certified mail, return receipt requested, postage prepaid, and addressed to the
+intended recipient as set forth below: </font></p>
+
+
+
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr valign="bottom">
+     <th></th>
+     <th></th>
+     <th></th>
+     <th></th></tr>
+<tr valign="top">
+     <td width="25%"><font face="Times New Roman, Times, Serif" size="2"></font></td>
+     <td width="25%"><font face="Times New Roman, Times, Serif" size="2">If to AI, AMS or ALT:  <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+<br>
+If to SMEPA:           <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+<br>
+SMEPA Delivery Address:
+</font></td>
+     <td width="25%"><font face="Times New Roman, Times, Serif" size="2">Aquila, Inc.<br>
+20 West Ninth Street<br>
+Kansas City, Missouri 64105<br>
+Facsimile No.: 816-783-5175<br>
+Attention: General Counsel<br>
+<br>
+South Mississippi Electric Power Association<br>
+P.O. Box 15849<br>
+Hattiesburg, Mississippi 39404-5489<br>
+Facsimile No.: 601-261-2351<br>
+Attention: James Compton<br>
+<br>
+South Mississippi Electric Power Association<br>
+7037 U.S. Highway 49<br>
+Hattiesburg, Mississippi  39402
+</font></td>
+     <td width="25%"><font face="Times New Roman, Times, Serif" size="2"></font></td></tr>
+</table>
+
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Project" -->
+<p><font face="Times New Roman, Times, Serif" size=2>Any Party may send any notice,
+request, demand, claim or other communication hereunder to the intended recipient at the
+address set forth above using any other means (including personal delivery, expedited
+courier, messenger service, facsimile transmission, ordinary mail or electronic mail), but
+no such notice, request, demand, claim or other communication shall be deemed to have been
+duly given unless and until it is actually received by the intended recipient. </font></p>
+
+<!-- MARKER FORMAT-SHEET="Para Indent Lv 0-TNR" FSL="Project" -->
+<p><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9.8&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<u>Governing Law</u>. This Agreement shall be governed by and construed in accordance with
+the laws of the State of Mississippi without giving effect to any choice or conflict of
+law provision or rule (whether of the State of Mississippi or any other jurisdiction) that
+would cause the application of the laws of any jurisdiction other than the State of
+Mississippi. </font></p>
+
+<!-- MARKER FORMAT-SHEET="Para Indent Lv 0-TNR" FSL="Project" -->
+<p><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9.9&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<u>Severability</u>. Any term or provision of this Agreement that is invalid or
+unenforceable in any situation in any jurisdiction shall not affect the validity or
+enforceability of the remaining terms and provisions hereof or the validity or
+enforceability of the offending term or provision in any other situation or in any other
+jurisdiction. </font></p>
+
+<!-- MARKER FORMAT-SHEET="Para Indent Lv 0-TNR" FSL="Project" -->
+<p><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9.10&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<u>Expenses</u>. Each Party will bear its own costs and expenses (including legal fees and
+expenses) incurred in connection with this Agreement and the transactions contemplated
+hereby. If any legal action or other proceeding is brought for the enforcement of any of
+the rights or provisions of this Agreement, or because of a dispute or alleged breach,
+default or misrepresentation arising under, out of, or in connection with this Agreement
+or the other documents contemplated hereby, the successful or prevailing Party shall be
+entitled to recover reasonable attorneys fees and all other reasonable costs and expenses
+in connection therewith, in addition to any other relief to which it may be entitled. </font></p>
+
+<!-- MARKER FORMAT-SHEET="Para Indent Lv 0-TNR" FSL="Project" -->
+<p><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9.11&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<u>Incorporation of Exhibits and Schedules</u>. The Exhibits and Schedules identified in
+this Agreement are incorporated herein by reference and made a part hereof. </font></p>
+
+<!-- MARKER FORMAT-SHEET="Para Indent Lv 0-TNR" FSL="Project" -->
+<p><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9.12&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<u>Further Assurances</u>. At SMEPA&#146;s expense and without cost or expense to Aquila,
+Aquila agrees that it shall execute and deliver or cause to be executed and delivered from
+time to time such documents and take such other action as SMEPA reasonably may request to
+transfer to and vest in SMEPA the assets assigned hereunder. </font></p>
+
+<!-- MARKER FORMAT-SHEET="Para Large Indent Lv 0-TNR" FSL="Project" -->
+<p><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Remainder
+of page intentionally left blank; </font></p>
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center-TNR" FSL="Default" -->
+<p align=CENTER><font face="Times New Roman, Times, Serif" size=2>signature page follows] </font></p>
+
+
+<!-- MARKER PAGE="sheet: 5; page: 5" -->
+<HR SIZE=5 COLOR=GRAY NOSHADE>
+
+
+
+<!-- MARKER FORMAT-SHEET="Para Indent Lv 0-TNR" FSL="Project" -->
+<p><font face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IN
+WITNESS WHEREOF, this Agreement has been duly executed by the Parties as of the date first
+written above. </font></p>
+
+<!-- MARKER FORMAT-SHEET="Head Left-TNR" FSL="Project" -->
+<p align=LEFT><font face="Times New Roman, Times, Serif" size=2>AQUILA, INC. </font></p>
+
+
+<TABLE cellSpacing=0 cellPadding=0 width=600 border=0>
+<TR vAlign=bottom>
+<TH colSpan=2><FONT face="Times New Roman, Times, Serif" size=2></FONT></TH>
+<TH colSpan=2><FONT face="Times New Roman, Times, Serif" size=2></FONT></TH></TR>
+<TR vAlign=bottom>
+<TD align=left width="9%"><FONT face="Times New Roman, Times, Serif" size=2>By:</FONT></TD>
+<TD align=left width="9%"><FONT face="Times New Roman, Times, Serif" size=2>&nbsp;</FONT></TD>
+<TD align=left width="80%"><FONT face="Times New Roman, Times, Serif" size=2><U>/s/ Leslie J. Parrette</U> </FONT></TD>
+<TD align=left width="2%"><FONT face="Times New Roman, Times, Serif" size=2>&nbsp;</FONT></TD></TR>
+<TR vAlign=bottom>
+<TD align=left><FONT face="Times New Roman, Times, Serif" size=2></FONT></TD>
+<TD align=left><FONT face="Times New Roman, Times, Serif" size=2>&nbsp;</FONT></TD>
+<TD align=left><FONT face="Times New Roman, Times, Serif" size=2>Name:   Leslie J. Parrette</FONT></TD>
+<TD align=left><FONT face="Times New Roman, Times, Serif" size=2>&nbsp;</FONT></TD></TR>
+<TR vAlign=bottom>
+<TD align=left><FONT face="Times New Roman, Times, Serif" size=2></FONT></TD>
+<TD align=left><FONT face="Times New Roman, Times, Serif" size=2>&nbsp;</FONT></TD>
+<TD align=left><FONT face="Times New Roman, Times, Serif" size=2>Title:  Senior Vice President</FONT></TD>
+<TD align=left><FONT face="Times New Roman, Times, Serif" size=2>&nbsp;</FONT></TD></TR>
+<TR vAlign=bottom>
+
+<TD align=left><FONT face="Times New Roman, Times, Serif" size=2></FONT></TD>
+<TD align=left><FONT face="Times New Roman, Times, Serif" size=2>&nbsp;</FONT></TD>
+<TD align=left><FONT face="Times New Roman, Times, Serif" size=2><BR></FONT></TD>
+<TD align=left><FONT face="Times New Roman, Times, Serif" size=2>&nbsp;</FONT></TD></TR>
+</TABLE>
+
+<!-- MARKER FORMAT-SHEET="Head Left-TNR" FSL="Project" -->
+<p align=LEFT><font face="Times New Roman, Times, Serif" size=2>AQUILA MERCHANT SERVICES,
+INC. </font></p>
+
+
+<TABLE cellSpacing=0 cellPadding=0 width=600 border=0>
+<TR vAlign=bottom>
+<TH colSpan=2><FONT face="Times New Roman, Times, Serif" size=2></FONT></TH>
+<TH colSpan=2><FONT face="Times New Roman, Times, Serif" size=2></FONT></TH></TR>
+<TR vAlign=bottom>
+<TD align=left width="9%"><FONT face="Times New Roman, Times, Serif" size=2>By:</FONT></TD>
+<TD align=left width="9%"><FONT face="Times New Roman, Times, Serif" size=2>&nbsp;</FONT></TD>
+<TD align=left width="80%"><FONT face="Times New Roman, Times, Serif" size=2><U>/s/ Brogan Sullivan</U> </FONT></TD>
+<TD align=left width="2%"><FONT face="Times New Roman, Times, Serif" size=2>&nbsp;</FONT></TD></TR>
+<TR vAlign=bottom>
+<TD align=left><FONT face="Times New Roman, Times, Serif" size=2></FONT></TD>
+<TD align=left><FONT face="Times New Roman, Times, Serif" size=2>&nbsp;</FONT></TD>
+<TD align=left><FONT face="Times New Roman, Times, Serif" size=2>Name:   Brogan Sullivan</FONT></TD>
+<TD align=left><FONT face="Times New Roman, Times, Serif" size=2>&nbsp;</FONT></TD></TR>
+<TR vAlign=bottom>
+<TD align=left><FONT face="Times New Roman, Times, Serif" size=2></FONT></TD>
+<TD align=left><FONT face="Times New Roman, Times, Serif" size=2>&nbsp;</FONT></TD>
+<TD align=left><FONT face="Times New Roman, Times, Serif" size=2>Title:  Vice President</FONT></TD>
+<TD align=left><FONT face="Times New Roman, Times, Serif" size=2>&nbsp;</FONT></TD></TR>
+<TR vAlign=bottom>
+
+<TD align=left><FONT face="Times New Roman, Times, Serif" size=2></FONT></TD>
+<TD align=left><FONT face="Times New Roman, Times, Serif" size=2>&nbsp;</FONT></TD>
+<TD align=left><FONT face="Times New Roman, Times, Serif" size=2><BR></FONT></TD>
+<TD align=left><FONT face="Times New Roman, Times, Serif" size=2>&nbsp;</FONT></TD></TR>
+</TABLE>
+
+
+<!-- MARKER FORMAT-SHEET="Head Left-TNR" FSL="Project" -->
+<p align=LEFT><font face="Times New Roman, Times, Serif" size=2>AQUILA LONG TERM, INC.  </font></p>
+
+
+<TABLE cellSpacing=0 cellPadding=0 width=600 border=0>
+<TR vAlign=bottom>
+<TH colSpan=2><FONT face="Times New Roman, Times, Serif" size=2></FONT></TH>
+<TH colSpan=2><FONT face="Times New Roman, Times, Serif" size=2></FONT></TH></TR>
+<TR vAlign=bottom>
+<TD align=left width="9%"><FONT face="Times New Roman, Times, Serif" size=2>By:</FONT></TD>
+<TD align=left width="9%"><FONT face="Times New Roman, Times, Serif" size=2>&nbsp;</FONT></TD>
+<TD align=left width="80%"><FONT face="Times New Roman, Times, Serif" size=2><U>/s/ Brogan Sullivan</U> </FONT></TD>
+<TD align=left width="2%"><FONT face="Times New Roman, Times, Serif" size=2>&nbsp;</FONT></TD></TR>
+<TR vAlign=bottom>
+<TD align=left><FONT face="Times New Roman, Times, Serif" size=2></FONT></TD>
+<TD align=left><FONT face="Times New Roman, Times, Serif" size=2>&nbsp;</FONT></TD>
+<TD align=left><FONT face="Times New Roman, Times, Serif" size=2>Name:   Brogan Sullivan</FONT></TD>
+<TD align=left><FONT face="Times New Roman, Times, Serif" size=2>&nbsp;</FONT></TD></TR>
+<TR vAlign=bottom>
+<TD align=left><FONT face="Times New Roman, Times, Serif" size=2></FONT></TD>
+<TD align=left><FONT face="Times New Roman, Times, Serif" size=2>&nbsp;</FONT></TD>
+<TD align=left><FONT face="Times New Roman, Times, Serif" size=2>Title:  Vice President</FONT></TD>
+<TD align=left><FONT face="Times New Roman, Times, Serif" size=2>&nbsp;</FONT></TD></TR>
+<TR vAlign=bottom>
+
+<TD align=left><FONT face="Times New Roman, Times, Serif" size=2></FONT></TD>
+<TD align=left><FONT face="Times New Roman, Times, Serif" size=2>&nbsp;</FONT></TD>
+<TD align=left><FONT face="Times New Roman, Times, Serif" size=2><BR></FONT></TD>
+<TD align=left><FONT face="Times New Roman, Times, Serif" size=2>&nbsp;</FONT></TD></TR>
+</TABLE>
+
+
+<!-- MARKER FORMAT-SHEET="Head Left-TNR" FSL="Project" -->
+<p align=LEFT><font face="Times New Roman, Times, Serif" size=2>SOUTH MISSISSIPPI
+ELECTRIC<br>POWER ASSOCIATION </font></p>
+
+<!-- MARKER FORMAT-SHEET="Head Left-TNR" FSL="Project" -->
+<p align=LEFT><font face="Times New Roman, Times, Serif" size=2><i></i> </font></p>
+
+
+<TABLE cellSpacing=0 cellPadding=0 width=600 border=0>
+<TR vAlign=bottom>
+<TH colSpan=2><FONT face="Times New Roman, Times, Serif" size=2></FONT></TH>
+<TH colSpan=2><FONT face="Times New Roman, Times, Serif" size=2></FONT></TH></TR>
+<TR vAlign=bottom>
+<TD align=left width="9%"><FONT face="Times New Roman, Times, Serif" size=2>By:</FONT></TD>
+<TD align=left width="9%"><FONT face="Times New Roman, Times, Serif" size=2>&nbsp;</FONT></TD>
+<TD align=left width="80%"><FONT face="Times New Roman, Times, Serif" size=2><U>/s/ James Compton</U> </FONT></TD>
+<TD align=left width="2%"><FONT face="Times New Roman, Times, Serif" size=2>&nbsp;</FONT></TD></TR>
+<TR vAlign=bottom>
+<TD align=left><FONT face="Times New Roman, Times, Serif" size=2></FONT></TD>
+<TD align=left><FONT face="Times New Roman, Times, Serif" size=2>&nbsp;</FONT></TD>
+<TD align=left><FONT face="Times New Roman, Times, Serif" size=2>Name:   James Compton</FONT></TD>
+<TD align=left><FONT face="Times New Roman, Times, Serif" size=2>&nbsp;</FONT></TD></TR>
+<TR vAlign=bottom>
+<TD align=left><FONT face="Times New Roman, Times, Serif" size=2></FONT></TD>
+<TD align=left><FONT face="Times New Roman, Times, Serif" size=2>&nbsp;</FONT></TD>
+<TD align=left><FONT face="Times New Roman, Times, Serif" size=2>Title:  General Manager</FONT></TD>
+<TD align=left><FONT face="Times New Roman, Times, Serif" size=2>&nbsp;</FONT></TD></TR>
+<TR vAlign=bottom>
+
+<TD align=left><FONT face="Times New Roman, Times, Serif" size=2></FONT></TD>
+<TD align=left><FONT face="Times New Roman, Times, Serif" size=2>&nbsp;</FONT></TD>
+<TD align=left><FONT face="Times New Roman, Times, Serif" size=2><BR></FONT></TD>
+<TD align=left><FONT face="Times New Roman, Times, Serif" size=2>&nbsp;</FONT></TD></TR>
+</TABLE>
+
+
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

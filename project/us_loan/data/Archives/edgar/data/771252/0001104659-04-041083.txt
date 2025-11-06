@@ -1,0 +1,406 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Qk34jzXdWUSNYEe1j2jZEDQ9DwGBG2gJO18AGBmYT+6c0hRk8nIruNv777H35bpg
+ BPiJyPGFBat+7xPLu/XtUA==
+
+<SEC-DOCUMENT>0001104659-04-041083.txt : 20041223
+<SEC-HEADER>0001104659-04-041083.hdr.sgml : 20041223
+<ACCEPTANCE-DATETIME>20041223123316
+ACCESSION NUMBER:		0001104659-04-041083
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20041221
+ITEM INFORMATION:		Unregistered Sales of Equity Securities
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20041223
+DATE AS OF CHANGE:		20041223
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			DIGITAL ANGEL CORP
+		CENTRAL INDEX KEY:			0000771252
+		STANDARD INDUSTRIAL CLASSIFICATION:	COMMUNICATIONS EQUIPMENT, NEC [3669]
+		IRS NUMBER:				521233960
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-15177
+		FILM NUMBER:		041223266
+
+	BUSINESS ADDRESS:	
+		STREET 1:		490 VILLAUME AVENUE
+		CITY:			SOUTH ST. PAUL
+		STATE:			MN
+		ZIP:			55075
+		BUSINESS PHONE:		6514551621
+
+	MAIL ADDRESS:	
+		STREET 1:		490 VILLAUME AVENUE
+		CITY:			SOUTH ST. PAUL
+		STATE:			MN
+		ZIP:			55075
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	MEDICAL ADVISORY SYSTEMS INC
+		DATE OF NAME CHANGE:	19920703
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>a04-15277_18k.htm
+<DESCRIPTION>8-K
+<TEXT>
+<html>
+
+<head>
+
+
+
+
+
+</head>
+
+<body lang="EN-US">
+
+<div style="font-family:Times New Roman;">
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<div style="border:none;border-top:double windowtext 9.0pt;padding:0in 0in 0in 0in;">
+
+<p align="center" style="border:none;margin:0in 0in .0001pt;padding:0in;text-align:center;"><b><font size="5" face="Times New Roman" style="font-size:18.0pt;font-weight:bold;">&nbsp;</font></b></p>
+
+</div>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="5" face="Times New Roman" style="font-size:18.0pt;font-weight:bold;">UNITED STATES</font></b></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="5" face="Times New Roman" style="font-size:18.0pt;font-weight:bold;">SECURITIES AND EXCHANGE
+COMMISSION</font></b></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Washington, D.C. 20549</font></b></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<h4 style="font-weight:bold;margin:0in 0in .0001pt;page-break-after:avoid;text-align:center;"><b><font size="5" face="Times New Roman" style="font-size:18.0pt;">FORM 8-K</font></b></h4>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<h5 style="font-weight:bold;margin:0in 0in .0001pt;page-break-after:avoid;text-align:center;"><b><font size="3" face="Times New Roman" style="font-size:12.0pt;">CURRENT REPORT</font></b></h5>
+
+<p style="margin:0in 0in .0001pt;"><font size="3" face="Times New Roman">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="3" face="Times New Roman" style="font-size:12.0pt;font-weight:bold;">Pursuant
+to Section 13 or 15(d) of the</font></b></p>
+
+<h5 style="font-weight:bold;margin:0in 0in .0001pt;page-break-after:avoid;text-align:center;"><b><font size="3" face="Times New Roman" style="font-size:12.0pt;font-variant:normal !important;">Securities
+Exchange Act of 1934</font></b></h5>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Date of Report (Date of earliest event reported): <b><font style="font-weight:bold;">December 21, 2004</font></b></font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="5" face="Times New Roman" style="font-size:18.0pt;font-weight:bold;">DIGITAL ANGEL CORPORATION</font></b></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(Exact name of registrant
+as specified in its charter)</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<div align="center">
+
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;width:100.0%;">
+ <tr>
+  <td width="31%" valign="top" style="padding:0in .7pt 0in .7pt;width:31.7%;">
+  <h6 align="center" style="font-weight:bold;margin:0in 0in .0001pt;page-break-after:avoid;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;">Delaware</font></b></h6>
+  </td>
+  <td width="2%" valign="bottom" style="padding:0in .7pt 0in .7pt;width:2.44%;">
+  <h6 style="font-weight:bold;margin:0in 0in .0001pt;page-break-after:avoid;"><b><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></b></h6>
+  </td>
+  <td width="31%" valign="top" style="padding:0in .7pt 0in .7pt;width:31.7%;">
+  <h6 align="center" style="font-weight:bold;margin:0in 0in .0001pt;page-break-after:avoid;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;">1-15177</font></b></h6>
+  </td>
+  <td width="2%" valign="bottom" style="padding:0in .7pt 0in .7pt;width:2.44%;">
+  <h6 style="font-weight:bold;margin:0in 0in .0001pt;page-break-after:avoid;"><b><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></b></h6>
+  </td>
+  <td width="31%" valign="top" style="padding:0in .7pt 0in .7pt;width:31.7%;">
+  <h6 align="center" style="font-weight:bold;margin:0in 0in .0001pt;page-break-after:avoid;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;">52-1233960</font></b></h6>
+  </td>
+ </tr>
+ <tr>
+  <td width="31%" valign="top" style="padding:0in .7pt 0in .7pt;width:31.7%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(State of other
+  jurisdiction</font></p>
+  </td>
+  <td width="2%" valign="bottom" style="padding:0in .7pt 0in .7pt;width:2.44%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="31%" valign="top" style="padding:0in .7pt 0in .7pt;width:31.7%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(Commission File
+  Number)</font></p>
+  </td>
+  <td width="2%" valign="bottom" style="padding:0in .7pt 0in .7pt;width:2.44%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="31%" valign="top" style="padding:0in .7pt 0in .7pt;width:31.7%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(I.R.S. Employer</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="31%" valign="top" style="padding:0in .7pt 0in .7pt;width:31.7%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">of incorporation)</font></p>
+  </td>
+  <td width="2%" valign="bottom" style="padding:0in .7pt 0in .7pt;width:2.44%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="31%" valign="top" style="padding:0in .7pt 0in .7pt;width:31.7%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="2%" valign="bottom" style="padding:0in .7pt 0in .7pt;width:2.44%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="31%" valign="top" style="padding:0in .7pt 0in .7pt;width:31.7%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Identification No.)</font></p>
+  </td>
+ </tr>
+</table>
+
+</div>
+
+<p style="margin:0in 0in .0001pt;text-indent:.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="font-weight:bold;margin:0in 0in .0001pt;page-break-after:avoid;text-align:center;text-indent:.25in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;">490 Villaume Avenue,
+South St. Paul, MN&#160;&#160;&#160; 55075</font></b></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;text-indent:.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(Address of
+Principal Executive Offices)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Zip Code)</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;text-indent:.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;text-indent:.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(Registrant&#146;s
+telephone number, including area code)&nbsp;&nbsp;&nbsp;&nbsp;<b><font style="font-weight:bold;">(651) 455-1621</font></b></font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;text-indent:.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;text-indent:.25in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Not
+applicable.</font></b></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;text-indent:.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(Former name or
+former address, if changed since last report.)</font></p>
+
+<p style="margin:0in 0in .0001pt;text-indent:.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;text-indent:.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;text-indent:.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;text-indent:.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Check the appropriate box below if the Form 8-K filing
+is intended to simultaneously satisfy the filing obligation of the registrant
+under any of the following provisions:</font></p>
+
+<p style="margin:0in 0in .0001pt;text-indent:.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;text-indent:.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Wingdings" style="font-size:10.0pt;">o</font><font size="2" style="font-size:10.0pt;">&nbsp;&nbsp;Written communications
+pursuant to Rule 425 under the Securities Act (17 CFR 230.425)</font></p>
+
+<p style="margin:0in 0in .0001pt;text-indent:.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Wingdings" style="font-size:10.0pt;">o</font><font size="2" style="font-size:10.0pt;">&nbsp;&nbsp;Soliciting material pursuant
+to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Wingdings" style="font-size:10.0pt;">o</font><font size="2" style="font-size:10.0pt;">&nbsp;&nbsp;Pre-commencement
+communications pursuant to Rule 14d-2(b) under the Exchange Act
+(17&nbsp;CFR.14d-2(b))</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Wingdings" style="font-size:10.0pt;">o</font><font size="2" style="font-size:10.0pt;">&nbsp;&nbsp;Pre-commencement
+communications pursuant to Rule 13e-4(c) under the Exchange Act
+(17&nbsp;CFR&nbsp;240.13e-4(c))</font></p>
+
+<div style="border:none;border-bottom:double windowtext 9.0pt;padding:0in 0in 0in 0in;">
+
+<p style="border:none;margin:0in 0in .0001pt;padding:0in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+</div>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<div style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">
+
+<hr size="2" width="100%" noshade color="gray" align="left">
+
+</font></div>
+
+</div>
+<!-- SEQ.=1,FOLIO='',FILE='C:\JMS\chunt\04-15277-1\task261554\15277-1-ba.htm',USER='chunt',CD='Dec 23 00:01 2004' -->
+
+
+<br clear="all" style="page-break-before:always;">
+
+
+<div style="font-family:Times New Roman;">
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Item 3.02. &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; <u>Unregistered
+Sales of Equity Securities</u></font></b></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt 81.0pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">On December 21, 2004, Digital
+Angel Corporation issued 1,000,000 shares of unregistered common stock to
+Applied Digital Solutions, Inc. upon exercise of a 1,000,000 share warrant in
+Digital Angel Corporation.&#160; The exercise
+price of the warrant, which was granted to Applied Digital Solutions, Inc on
+August 14, 2003 was $3.74 per share in cash.</font></p>
+
+<p style="margin:0in 0in .0001pt 81.0pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt 81.0pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">From December 1, 2004
+through December 21, 2004 99,096 shares of Digital Angel Corporation&#146;s Series A
+Preferred Stock were converted into 3,963,840 shares of unregistered common
+stock pursuant to Section 4 of the Certificate of Designation of the Relative
+Rights, Restrictions and Preferences of Series A Preferred Stock.</font></p>
+
+<p style="margin:0in 0in .0001pt 81.0pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt 1.0in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt 1.0in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Item 9.01.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; <u>Financial
+Statements and Exhibits</u></font></b></p>
+
+<p style="margin:0in 0in .0001pt;text-indent:.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt 1.0in;text-indent:-27.0pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(a)</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font size="2" style="font-size:10.0pt;">Financial statements of businesses
+acquired-Not Applicable</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt 1.0in;text-indent:-27.0pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(b)</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font size="2" style="font-size:10.0pt;">Pro forma financial information-Not Applicable</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt 1.0in;text-indent:-27.0pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(c)</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font size="2" style="font-size:10.0pt;">Exhibits-Not Applicable</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;text-indent:4.5pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt 1.0in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<h5 style="font-weight:bold;margin:0in 0in .0001pt;page-break-after:avoid;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-variant:normal !important;">SIGNATURES</font></b></h5>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Pursuant to the
+requirements of the Securities Exchange Act of 1934, the Registrant has duly
+caused this report to be signed on its behalf by the undersigned hereunto duly
+authorized.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Date: December 23, 2004</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<table border="0" cellspacing="0" cellpadding="0" width="88%" style="border-collapse:collapse;width:88.9%;">
+ <tr>
+  <td width="44%" valign="top" style="padding:0in .7pt 0in .7pt;width:44.42%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="55%" valign="top" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in .7pt 0in .7pt;width:55.58%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">/s/ James P. Santelli</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="44%" valign="top" style="padding:0in .7pt 0in .7pt;width:44.42%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="55%" valign="top" style="border:none;padding:0in .7pt 0in .7pt;width:55.58%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Digital Angel Corporation</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="44%" valign="top" style="padding:0in .7pt 0in .7pt;width:44.42%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="55%" valign="top" style="padding:0in .7pt 0in .7pt;width:55.58%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">James P. Santelli</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="44%" valign="top" style="padding:0in .7pt 0in .7pt;width:44.42%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="55%" valign="top" style="padding:0in .7pt 0in .7pt;width:55.58%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Vice-President of Finance and Chief Financial
+  Officer</font></p>
+  </td>
+ </tr>
+</table>
+
+<p align="right" style="margin:0in 0in .0001pt;text-align:right;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="right" style="margin:0in 0in .0001pt;text-align:right;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<div style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">
+
+<hr size="2" width="100%" noshade color="gray" align="left">
+
+</font></div>
+
+</div>
+<!-- SEQ.=1,FOLIO='',FILE='C:\JMS\chunt\04-15277-1\task261554\15277-1-ba.htm',USER='chunt',CD='Dec 23 00:01 2004' -->
+
+
+</body>
+
+</html>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

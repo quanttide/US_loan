@@ -1,0 +1,595 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ IF3Kq8dLXB7k/f0Dv3Bh6PtOvhYlG+m6iVyqxtZqzQUFi8e303UsVRy8EYG8jSZF
+ cH5QayUu8cY4TtTu7/W1ew==
+
+<SEC-DOCUMENT>0000950144-04-012334.txt : 20041223
+<SEC-HEADER>0000950144-04-012334.hdr.sgml : 20041223
+<ACCEPTANCE-DATETIME>20041222175021
+ACCESSION NUMBER:		0000950144-04-012334
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20041220
+ITEM INFORMATION:		Termination of a Material Definitive Agreement
+ITEM INFORMATION:		Other Events
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20041223
+DATE AS OF CHANGE:		20041222
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CENUCO INC
+		CENTRAL INDEX KEY:			0000843494
+		STANDARD INDUSTRIAL CLASSIFICATION:	COMMUNICATION SERVICES, NEC [4899]
+		IRS NUMBER:				752228820
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-32187
+		FILM NUMBER:		041221826
+
+	BUSINESS ADDRESS:	
+		STREET 1:		6421 CONGRESS AVENUE
+		STREET 2:		STE 201
+		CITY:			BOCA RATON
+		STATE:			FL
+		ZIP:			33487
+		BUSINESS PHONE:		5619944446
+
+	MAIL ADDRESS:	
+		STREET 1:		6421 CONGRESS AVENUE
+		STREET 2:		STE 201
+		CITY:			BOCA RATON
+		STATE:			FL
+		ZIP:			33487
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	VIRTUAL ACADEMICS COM INC
+		DATE OF NAME CHANGE:	20000110
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	DONNEBROOKE CORP
+		DATE OF NAME CHANGE:	19920703
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ALLURISTICS INC
+		DATE OF NAME CHANGE:	19890911
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>g92511e8vk.htm
+<DESCRIPTION>CENUCO, INC. FORM 8-K
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>CENUCO, INC. FORM 8-K</TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF">
+<!-- PAGEBREAK -->
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+<HR size="4" noshade color="#000000" style="margin-top: -5px">
+<HR size="1" noshade color="#000000" style="margin-top: -10px">
+
+
+
+
+
+<P align="center" style="font-size: 14pt"><B>UNITED STATES<BR>
+SECURITIES AND EXCHANGE COMMISSION</B>
+
+<DIV align="center" style="font-size: 12pt"><B>Washington, D.C. 20549</B>
+</DIV>
+
+
+<P align="center" style="font-size: 10pt"><HR align="center" size="1" noshade width="25%">
+
+
+<P align="center" style="font-size: 18pt"><B>FORM 8-K</B>
+
+
+<P align="center" style="font-size: 10pt"><B>CURRENT REPORT</B>
+
+
+
+<P align="center" style="font-size: 10pt"><B>Pursuant to Section&nbsp;13 or 15(d) of the Securities Exchange Act of 1934</B>
+
+
+
+<P align="center" style="font-size: 10pt"><B>Date of Report (Date of earliest event reported) December&nbsp;20, 2004</B>
+
+
+<P align="center" style="font-size: 24pt"><B>CENUCO, INC.<BR>
+<HR align="center" size="1" noshade width="85%"></B>
+
+
+<DIV align="center" style="font-size: 10pt"><B>(Exact name of registrant as specified in its charter)</B></DIV>
+
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="85%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="30%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="30%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="30%">&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD align="center" valign="top"><B>Delaware</B>
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top"><B>033-25900</B>
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top"><B>75-2228820</B></TD>
+</TR>
+
+<TR style="font-size: 1px">
+    <TD align="center" valign="top"><HR size="1" noshade>&nbsp;
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top"><HR size="1" noshade>&nbsp;
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top"><HR size="1" noshade>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD align="center" valign="top">(State or Other Jurisdiction<BR>
+of Incorporation)
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">(Commission<BR>
+File Number)
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">(I.R.S. Employer<BR>
+Identification No.)</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+
+<P align="center" style="font-size: 10pt"><B>6421 Congress Avenue<BR>
+Boca Raton, Florida 33487<BR>
+(Address of Principal Executive Office) (Zip Code)</B>
+
+
+
+<P align="center" style="font-size: 10pt"><B>(561)&nbsp;994-4446<BR>
+(Registrant&#146;s telephone number, including area code)</B>
+
+
+
+<P align="center" style="font-size: 10pt"><B>Not Applicable<BR>
+(Former Name or Former Address, If Changed Since Last Report.)</B>
+
+
+
+<P align="center" style="font-size: 10pt"><HR align="center" size="1" noshade width="100%">
+
+
+<P align="left" style="font-size: 10pt">Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy
+the filing obligation of the registrant under any of the following provisions:
+
+
+
+<P>
+<TABLE width="100%" border="0" cellpadding="2" cellspacing="0" style="font-size: 10pt; background: transparent; color: #000000">
+<TR>
+    <TD width="1%"></TD>
+    <TD width="99%"></TD>
+</TR>
+<TR valign="top">
+    <TD nowrap><FONT face="Wingdings">&#111;</FONT>&nbsp;</TD>
+    <TD>Written communications pursuant to Rule&nbsp;425 under the Securities Act (17 CFR 230.425)</TD>
+</TR>
+</TABLE>
+
+
+<P>
+<TABLE width="100%" border="0" cellpadding="2" cellspacing="0" style="font-size: 10pt; background: transparent; color: #000000">
+<TR>
+    <TD width="1%"></TD>
+    <TD width="99%"></TD>
+</TR>
+<TR valign="top">
+    <TD nowrap><FONT face="Wingdings">&#120;</FONT>&nbsp;</TD>
+    <TD>Soliciting material pursuant to Rule&nbsp;14a-12 under the Exchange Act (17 CFR 240.14a-12)</TD>
+</TR>
+</TABLE>
+
+
+<P>
+<TABLE width="100%" border="0" cellpadding="2" cellspacing="0" style="font-size: 10pt; background: transparent; color: #000000">
+<TR>
+    <TD width="1%"></TD>
+    <TD width="99%"></TD>
+</TR>
+<TR valign="top">
+    <TD nowrap><FONT face="Wingdings">&#111;</FONT>&nbsp;</TD>
+    <TD>Pre-commencement communications pursuant to Rule&nbsp;14d-2(b) under the Exchange Act (17
+CFR 240.14d-2 (b))</TD>
+</TR>
+</TABLE>
+
+
+<P>
+<TABLE width="100%" border="0" cellpadding="2" cellspacing="0" style="font-size: 10pt; background: transparent; color: #000000">
+<TR>
+    <TD width="1%"></TD>
+    <TD width="99%"></TD>
+</TR>
+<TR valign="top">
+    <TD nowrap><FONT face="Wingdings">&#111;</FONT>&nbsp;</TD>
+    <TD>Pre-commencement communications pursuant to Rule&nbsp;13e-4(c) under the Exchange Act (17
+CFR 240.13e-4 (c))</TD>
+</TR>
+</TABLE>
+
+
+<P>
+<HR size="1" noshade color="#000000" style="margin-top: -2px">
+<HR size="4" noshade color="#000000" style="margin-top: -10px">
+
+
+
+
+
+
+<P align="center" style="font-size: 10pt">&nbsp;
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+
+
+
+
+
+<P align="center" style="font-size: 10pt"><B>Section&nbsp;1 &#150; Registrant&#146;s Business and Operations</B>
+
+
+
+<P align="left" style="font-size: 10pt"><B>Item&nbsp;1.02. Termination of a Material Definitive Agreement.</B>
+
+
+<P align="left" style="font-size: 10pt">As previously disclosed on a Form 8-K filed with the Commission on October&nbsp;25, 2004, Cenuco, Inc.,
+a Delaware corporation (the &#147;Company&#148;), entered into an Asset Purchase Agreement, dated as of
+October&nbsp;21, 2004 (the &#147;Purchase Agreement&#148;), with Omni Point Marketing, LLC, a Florida limited
+liability company (&#147;Omni Point&#148;), pursuant to which the Company agreed to acquire substantially all
+of the assets of Omni Point for an aggregate purchase price of $22,500,000, payable in a
+combination of $5,400,000 in cash and $17,100,000 in shares of the Company&#146;s common stock, valued
+at $4.00 per share. The material terms and conditions of the Purchase Agreement were previously
+disclosed in the Company&#146;s Definitive Proxy Statement filed with the Commission on December&nbsp;13,
+2004.
+
+
+<P align="left" style="font-size: 10pt">On December&nbsp;20, 2004, the Company announced that it had terminated the Purchase Agreement because
+the Company&#146;s board and management had come to a decision that pursuing the acquisition was no
+longer in the best interests of the Company and its stockholders. Omni Point was informed of this
+decision and the escrow agent under the Purchase Agreement refunded the Company&#146;s $5,000,000
+deposit on December&nbsp;21, 2004, pursuant to Omni Point&#146;s written request.
+
+
+<P align="left" style="font-size: 10pt">The closing of the proposed transaction had been conditioned upon, among other things, the approval
+by the Company&#146;s stockholders of the issuance of shares of the Company&#146;s common stock to Omni
+Point. As described in its Definitive Proxy Statement, the Company intended to seek its
+stockholders&#146; approval of such issuance of shares of its common stock to Omni Point at its Annual
+Meeting of Stockholders to be held on December&nbsp;30, 2004. Upon preliminarily determining on
+December&nbsp;14, 2004 that pursuing the transaction was no longer in the best interests of the Company
+or its stockholders, the Company elected to delay mailing its Definitive Proxy Statement to its
+stockholders. The Company has changed the date of its Annual Meeting of Stockholders to January
+27, 2005 and will revise its Definitive Proxy Statement to remove the proposal to approve the
+issuance of shares of the Company&#146;s common stock to Omni Point. The remaining proposals in the
+Definitive Proxy Statement will be submitted to the Company&#146;s stockholders at the January&nbsp;27, 2005
+Annual Meeting.
+
+
+
+<P align="center" style="font-size: 10pt">2
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+
+<P align="center" style="font-size: 10pt"><B>Section&nbsp;8 &#150; Other Events</B>
+
+
+
+<P align="left" style="font-size: 10pt"><B>Item&nbsp;8.01. Other Events.</B>
+
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On December&nbsp;20, 2004, the Company issued a press release announcing its termination of the
+Purchase Agreement, a copy of which is furnished herewith as Exhibit&nbsp;99.
+
+
+<P align="center" style="font-size: 10pt"><B>Section&nbsp;9 &#151; Financial Statements and Exhibits</B>
+
+
+
+<P align="left" style="font-size: 10pt"><B>Item&nbsp;9.01 Financial Statements and Exhibits.</B>
+
+
+
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="right">(a)</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Not applicable.</TD>
+</TR>
+
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="right">(b)</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Not applicable.</TD>
+</TR>
+
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="right">(c)</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Exhibits</TD>
+</TR>
+
+</TABLE>
+
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="3%" style="background: transparent">&nbsp;</TD>
+    <TD width="1%" nowrap align="right">99</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Press Release, dated December&nbsp;20, 2004, announcing the termination of the
+Purchase Agreement.</TD>
+</TR>
+
+</TABLE>
+<P align="center" style="font-size: 10pt">3
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<P><TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+
+</TABLE>
+
+<P align="center" style="font-size: 10pt"><B>SIGNATURES</B>
+
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused
+this report to be signed on its behalf by the undersigned, hereunto duly authorized.
+
+
+<TABLE width="100%" border="0" cellspacing="0" cellpadding="0" style="font-size: 10pt">
+<TR>
+    <TD width="48%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="35%">&nbsp;</TD>
+    <TD width="15%">&nbsp;</TD>
+</TR>
+<TR>
+    <TD valign="top" align="left">&nbsp;</TD>
+    <TD colspan="3" align="left"><B>CENUCO, INC.</B><BR>
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">Date: December 22, 2004&nbsp;</TD>
+    <TD valign="top">By:&nbsp;&nbsp;</TD>
+    <TD colspan="2" style="border-bottom: 1px solid #000000" align="left">/s/ Steven Bettinger
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="2" align="left">STEVEN BETTINGER&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="2" align="left">President&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+</TABLE>
+
+<P align="center" style="font-size: 10pt">4
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<TABLE width="100%" border="0" cellspacing="0" cellpadding="0" style="font-size: 10pt">
+<TR>
+    <TD width="48%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="35%">&nbsp;</TD>
+    <TD width="15%">&nbsp;</TD>
+</TR>
+
+</TABLE>
+
+<P align="center" style="font-size: 10pt"><B>EXHIBIT INDEX</B>
+
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="65%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="8%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="87%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD nowrap align="left"><B>Exhibit</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center"><B>&nbsp;</B></TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD nowrap align="left"><B>Number</B><HR size="1" noshade></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center"><B>Exhibit Title or Description</B><HR size="1" noshade></TD>
+</TR>
+
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">99
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Press Release, dated December&nbsp;20, 2004, announcing the termination
+of the Purchase Agreement.</TD>
+</TR>
+
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+
+<P align="center" style="font-size: 10pt">5
+</DIV>
+
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>2
+<FILENAME>g92511exv99.htm
+<DESCRIPTION>PRESS RELEASE
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>PRESS RELEASE</TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF">
+<!-- PAGEBREAK -->
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<P align="right" style="font-size: 10pt"><B>EXHIBIT 99</B>
+
+
+
+<P align="center" style="font-size: 10pt">CENUCO TERMINATES OMNIPOINT ACQUISITION AGREEMENT
+
+
+<P align="left" style="font-size: 10pt">Monday, December&nbsp;20, 2004.
+
+
+<P align="left" style="font-size: 10pt">BOCA RATON, Fla. &#150; December&nbsp;20, 2004&#151;Cenuco, Inc. (AMEX:ICU &#151; News) today announced it has
+terminated the agreement to acquire Omnipoint Marketing LLC.
+
+
+<P align="left" style="font-size: 10pt">Steven Bettinger, CEO of Cenuco, commented, &#147;Cenuco&#146;s board and management have come to the
+decision that pursuing this acquisition any further is no longer in the best interests of our
+company or our stockholders. Cenuco continues to remain focused on its strategy to expand its
+wireless video monitoring business.&#148;
+
+
+<P align="left" style="font-size: 10pt">Cenuco recently announced its initial carrier deployment of MobileMonitor(sm) through First
+Cellular of Southern Illinois. MobileMonitor allows consumers and business owners to see live video
+of their home or office right through their cellular handset, no matter where they are. The
+MobileMonitor product is carrier agnostic, and has been BREW certified by Qualcomm, as well as
+Windows Mobile certified by Microsoft for Pocket PC phones, and the entire Smart Phone platform.
+
+
+<P align="left" style="font-size: 10pt">The Company is in advanced discussions with additional carriers for further deployment of its core
+technology.
+
+
+<P align="left" style="font-size: 10pt">In addition, Cenuco is negotiating with a major provider of electronic security services to
+commercial, government and residential customers throughout the United States to license and
+install Cenuco&#146;s technology for wireless video monitoring.
+
+
+<P align="left" style="font-size: 10pt">About Cenuco
+
+
+<P align="left" style="font-size: 10pt">Cenuco, Inc. develops wireless and Internet based software solutions for transmitting live
+streaming video, and other targeted content, directly onto cellular phones and remote computers.
+The Company&#146;s technology has applications in a variety of markets. The company&#146;s wireless data
+technology is primarily focused on wireless video monitoring solutions that allow users to view
+real-time streaming video of security cameras or video content feeds at their home or place of
+business from anywhere they receive a cellular connection, regardless of the cellular carrier,
+user&#146;s location, or type of cellular phone or wireless device. The Company&#146;s products address the
+fast-growing security, surveillance and Homeland Security markets, and some of its monitoring
+products have been listed on the Federal General Services Administration (GSA)&nbsp;schedule. These
+products have also been Windows Mobile Certified by Microsoft, have received BREW certification
+from Qualcomm, and are listed in the Intel Mobility Catalog. Visit http://www.cenuco.com for
+additional information.
+
+
+<P align="left" style="font-size: 10pt">Certain statements contained herein may constitute forward-looking statements within the meaning of
+Section&nbsp;27A of the Securities Act of 1933, 21E of the Exchange Act of 1934 and/or the Private
+Securities Litigation Reform Act of 1995. Such statements include, without limitation, statements
+regarding business plans, future regulatory environment and approval and, the Company&#146;s ability to
+comply with the rules and policies of independent regulatory agencies. Although the Company
+believes the statements contained herein to be accurate as of the date they were made, it can give
+no assurance that such expectations will prove to be correct. The Company undertakes no obligation
+to update these forward-looking statements.
+
+
+<P align="left" style="font-size: 10pt">Contact: Cenuco, Inc., Boca Raton, Jordan Serlin, 561-997-2602
+
+
+
+
+<P align="center" style="font-size: 10pt">&nbsp;
+</DIV>
+
+
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

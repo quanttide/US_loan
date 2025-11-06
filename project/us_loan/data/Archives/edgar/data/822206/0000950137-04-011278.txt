@@ -1,0 +1,776 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ PyOs4llR85oW40oNvAPuwwFwHRNNrJvW49Wmi5qUEwp/bPq6bUroHlJoavq3xWI7
+ zEegZ1Vg8EO7c9+qzqs+0g==
+
+<SEC-DOCUMENT>0000950137-04-011278.txt : 20041221
+<SEC-HEADER>0000950137-04-011278.hdr.sgml : 20041221
+<ACCEPTANCE-DATETIME>20041221135721
+ACCESSION NUMBER:		0000950137-04-011278
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20041221
+ITEM INFORMATION:		Other Events
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20041221
+DATE AS OF CHANGE:		20041221
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			EPIMMUNE INC
+		CENTRAL INDEX KEY:			0000822206
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		IRS NUMBER:				330245076
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-19591
+		FILM NUMBER:		041216649
+
+	BUSINESS ADDRESS:	
+		STREET 1:		5820 NANCY RIDGE DRIVE
+		CITY:			SAN DIEGO
+		STATE:			CA
+		ZIP:			92121
+		BUSINESS PHONE:		858-860-2500
+
+	MAIL ADDRESS:	
+		STREET 1:		5820 NANCY RIDGE DRIVE
+		CITY:			SAN DIEGO
+		STATE:			CA
+		ZIP:			92121
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CYTEL CORP/DE
+		DATE OF NAME CHANGE:	19940324
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>a04192e8vk.htm
+<DESCRIPTION>FORM 8-K
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>Epimmune Inc.</TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF">
+<!-- PAGEBREAK -->
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<P><DIV style="position: relative; float: left; margin-right: 1%; width: 65%">
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+</DIV>
+
+<DIV style="border: 1px solid black; padding: 1px; position: relative; float: right; margin-left: 1%; width: 33%">
+
+<P align="center" style="font-size: 10pt"><U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;OMB&nbsp;APPROVAL&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U>
+
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+
+<!-- Begin Table Head --><TR valign="bottom">
+    <TD width="60%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="35%">&nbsp;</TD>
+</TR>
+
+<!-- End Table Head -->
+
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">OMB Number:
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" valign="bottom">&nbsp;3235-0060</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">Expires:
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" valign="bottom">March&nbsp;31, 2006</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">Estimated average burden<BR>
+hours per response
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" valign="bottom">&nbsp;28.0</TD>
+</TR>
+
+
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+</DIV>
+<BR clear="all"><BR>
+
+<P align="center" style="font-size: 10pt"><B>EFFECTIVE AUGUST 23RD, 2004</B>
+
+
+<P align="center" style="font-size: 14pt"><B>UNITED STATES<BR>
+SECURITIES AND EXCHANGE COMMISSION</B>
+
+<DIV align="center" style="font-size: 12pt"><B>Washington, D.C. 20549</B>
+</DIV>
+
+<P align="center" style="font-size: 18pt"><B>FORM 8-K</B>
+
+
+<P align="center" style="font-size: 10pt"><B>CURRENT REPORT<BR>
+Pursuant to Section&nbsp;13 OR 15(d) of<BR>
+The Securities Exchange Act of 1934</B>
+
+
+
+<P align="center" style="font-size: 10pt">Date of Report (Date of
+earliest event reported): December&nbsp;21, 2004
+
+
+<P align="center" style="font-size: 24pt"><B>EPIMMUNE INC.</B>
+
+<DIV align="center" style="font-size: 10pt">(Exact name of registrant as specified in its charter)</DIV>
+
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+
+<!-- Begin Table Head --><TR valign="bottom">
+    <TD width="30%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="30%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="30%">&nbsp;</TD>
+</TR>
+
+<!-- End Table Head -->
+
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD align="center" valign="top"><B>Delaware</B>
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top"><B>0-19591</B>
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top"><B>33-0245076</B></TD>
+</TR>
+
+<TR valign="bottom">
+    <TD align="center" valign="top">(State or other jurisdiction<BR>
+of incorporation)
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">(Commission<BR>
+File Number)
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">(IRS Employer<BR>
+Identification No.)</TD>
+</TR>
+
+
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+
+<!-- Begin Table Head --><TR valign="bottom">
+    <TD width="47%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="47%">&nbsp;</TD>
+</TR>
+
+<!-- End Table Head -->
+
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD align="center" valign="top"><B>5820 Nancy Ridge Drive<BR>
+San Diego, California</B>
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="bottom"><B>92121</B></TD>
+</TR>
+
+<TR valign="bottom">
+    <TD align="center" valign="top">(Address of principal executive offices)
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">(Zip Code)</TD>
+</TR>
+
+
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+
+<P align="center" style="font-size: 10pt">Registrant&#146;s telephone number, including area code: <B>(858)&nbsp;860-2500</B>
+
+
+<P align="left" style="font-size: 10pt">Check the appropriate box below if the Form 8-K filing is intended to
+simultaneously satisfy the filing obligation of the registrant under any of the
+following provisions (see General Instruction A.2. below):
+
+
+<P align="left" style="font-size: 10pt">&#091;&nbsp;&nbsp;&#093; Written communications pursuant to Rule&nbsp;425 under the Securities Act (17
+CFR 230.425)
+
+
+<P align="left" style="font-size: 10pt">&#091;&nbsp;&nbsp;&#093; Soliciting material pursuant to Rule&nbsp;14a-12 under the Exchange Act (17 CFR
+240.14a-12)
+
+
+<P align="left" style="font-size: 10pt">&#091;&nbsp;&nbsp;&#093; Pre-commencement communications pursuant to Rule&nbsp;14d-2(b) under the
+Exchange Act (17 CFR 240.14d-2(b))
+
+
+<P align="left" style="font-size: 10pt">&#091;&nbsp;&nbsp;&#093; Pre-commencement communications pursuant to Rule&nbsp;13e-4(c) under the
+Exchange Act (17 CFR 240.13e-4(c))
+
+
+
+<P align="center" style="font-size: 10pt">&nbsp;
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<!-- TOC -->
+<A name="toc"><DIV align="CENTER" style="page-break-before:always"><U><B>TABLE OF CONTENTS</B></U></DIV></A>
+
+<P><CENTER>
+<TABLE border="0" width="90%" cellpadding="0" cellspacing="0">
+<TR>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="76%"></TD>
+</TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#000">Item&nbsp;8.01 Other Events.</A></TD></TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#001">Item&nbsp;9.01 Financial Statements and Exhibits.</A></TD></TR>
+<TR><TD colspan="9"><A HREF="#002">SIGNATURES</A></TD></TR>
+<TR><TD colspan="9"><A HREF="#003">INDEX TO EXHIBITS</A></TD></TR>
+<TR><TD colspan="9"><A HREF="a04192exv99w1.txt">EXHIBIT 99.1</A></TD></TR>
+</TABLE>
+</CENTER>
+<!-- /TOC -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+<!-- link2 "Item&nbsp;8.01 Other Events." -->
+<DIV align="left"><A NAME="000"></A></DIV>
+
+<P align="left" style="font-size: 10pt"><B>Item&nbsp;8.01 Other Events.</B>
+
+
+<P align="left" style="font-size: 10pt">On December&nbsp;21, 2004, Epimmune Inc. issued a press release providing an update of ongoing clinical
+development programs with its EP-2101 therapeutic cancer vaccine and its EP-1090 therapeutic HIV
+vaccine.
+
+<!-- link2 "Item&nbsp;9.01 Financial Statements and Exhibits." -->
+<DIV align="left"><A NAME="001"></A></DIV>
+
+<P align="left" style="font-size: 10pt"><B>Item&nbsp;9.01 Financial Statements and Exhibits.</B>
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+
+<!-- Begin Table Head --><TR valign="bottom">
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="94%">&nbsp;</TD>
+</TR>
+
+<!-- End Table Head -->
+
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">99.1
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Press Release of Epimmune Inc. dated December&nbsp;21, 2004.</TD>
+</TR>
+
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+<P align="center" style="font-size: 10pt">&nbsp;
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<!-- link1 "SIGNATURES" -->
+<DIV align="left"><A NAME="002"></A></DIV>
+
+<P align="center" style="font-size: 10pt"><B>SIGNATURES</B>
+
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly
+caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+
+<!-- Begin Table Head --><TR valign="bottom">
+    <TD width="51%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="40%">&nbsp;</TD>
+</TR>
+
+<!-- End Table Head -->
+
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="3" valign="top" align="left"><B>EPIMMUNE INC.</B></TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">Date: December&nbsp;21, 2004
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">By:
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">/s/ Robert De Vaere</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top"><HR size="1" noshade>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Robert De Vaere</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Vice President, Finance and Administration,</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Chief Financial Officer and Secretary</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top"><I>(Principal Accounting Officer and Officer duly
+authorized to sign this report on behalf of the
+Registrant)</I></TD>
+</TR>
+
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+<P align="center" style="font-size: 10pt">&nbsp;
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<!-- link1 "INDEX TO EXHIBITS" -->
+<DIV align="left"><A NAME="003"></A></DIV>
+
+<P align="center" style="font-size: 10pt"><B>INDEX TO EXHIBITS</B>
+
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+
+<!-- Begin Table Head --><TR valign="bottom">
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="94%">&nbsp;</TD>
+</TR>
+
+<!-- End Table Head -->
+
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">99.1
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Press Release of Epimmune Inc. dated December&nbsp;21, 2004.</TD>
+</TR>
+
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+<P align="center" style="font-size: 10pt">&nbsp;
+</DIV>
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>a04192exv99w1.txt
+<DESCRIPTION>EXHIBIT 99.1
+<TEXT>
+<PAGE>
+                                                                    Exhibit 99.1
+
+
+                                [EPIMMUNE LOGO]
+              5820 Nancy Ridge Drive, San Diego, California 92121
+                   Phone: (858) 860-2500- Fax: (858) 860-2600
+
+- --------------------------------------------------------------------------------
+
+FOR FURTHER INFORMATION
+
+<TABLE>
+<S>                      <C>                                      <C>
+AT EPIMMUNE:             AT FINANCIAL RELATIONS BOARD:
+Robert De Vaere          Lars Glassen                             Tricia Ross
+VP, Finance & Admin.     General Information                      Investor/Analyst Information
+& CFO                    (310) 854-8313                           (617) 520-7064
+(858) 860-2500           lglassen@financialrelationsboard.com     tross@financialrelationsboard.com
+</TABLE>
+
+- --------------------------------------------------------------------------------
+
+FOR IMMEDIATE RELEASE
+DECEMBER 21, 2004
+
+    EPIMMUNE PROVIDES UPDATE ON CANCER AND HIV CLINICAL DEVELOPMENT PROGRAMS
+
+SAN DIEGO, DECEMBER 21, 2004 - EPIMMUNE INC. (NASDAQ: EPMN) today provided an
+update of ongoing clinical development programs with its EP-2101 therapeutic
+cancer vaccine and its EP-1090 therapeutic HIV vaccine.
+
+CANCER VACCINE CLINICAL DEVELOPMENT
+
+Epimmune conducted two Phase 1 clinical trials of its EP-2101 cancer vaccine
+candidate at seven clinical sites in the U.S. One trial enrolled stage IIB/IIIA
+non-small cell lung (NSCL) cancer patients, and the other trial enrolled stage
+III colorectal cancer patients. The cancer vaccine candidate used in these
+trials is constructed of nine cytotoxic T lymphocyte (CTL) epitopes from four
+tumor associated antigens (TAA); these include two native epitopes from the
+human TAA, and seven analog epitopes, which are native epitopes modified by
+proprietary Epimmune technology. Tolerance to TAA, which is a failure of the
+immune system to recognize the cancer as diseased tissue, can be broken by using
+these analog epitopes, which are designed to enhance the potency of the T cell
+response. The vaccine candidate also includes Epimmune's proprietary, synthetic,
+universal helper T lymphocyte (HTL) epitope, PADRE(R), which is designed to
+enhance the magnitude and duration of cellular immune responses. Patients
+enrolled in the trials previously had surgery to remove all detectable cancer
+cells and, as a result, were generally expected to have normal immune system
+function. Each patient who completed the trial received six injections of the
+vaccine at three-week intervals. Primary endpoints of the trials were safety and
+immunogenicity as measured by the quantity and breadth of CTL generated.
+
+Analysis of these two Phase 1 studies of EP-2101 is now complete. Data from
+sixteen patients with either stage IIB/IIIA NSCL or stage III colorectal cancer,
+who completed the full course of vaccine treatment, showed that EP-2101:
+
+- -     was safe and well tolerated;
+- -     was immunogenic - defined as inducing a response to at least one epitope
+      included in the vaccine - in approximately 94% of the treated patients;
+- -     induced a multi-epitope response with approximately four vaccine epitopes
+      being the average number recognized by the treated patients; 50% of the
+      treated patients responded to at least five of the nine epitopes included
+      in the vaccine; and
+
+
+Financial Relations Board serves as financial relations counsel to this company,
+  is acting on the company's behalf in issuing this bulletin and is receiving
+    compensation therefor. The information contained herein is furnished for
+     informational purposes only and is not to be construed as an offer to
+                            buy or sell securities.
+<PAGE>
+Epimmune Inc.
+Page 2 of 5
+
+
+- -     induced a response in 69% of the patients to the PADRE(R) epitope included
+      in the vaccine, raising HTL responses thought to be useful to support the
+      anti-tumor activity mediated by CTL.
+
+Based on this safety and immunogenicity data, as planned, the Company filed an
+amendment to its Investigational New Drug application (IND) and has begun the
+process of enrolling patients in a Phase 2 study of patients with late stage
+NSCL cancer.
+
+The goal of this Phase 2 study is to correlate overall survival and clinical
+benefit to patients with immunogenicity. It is being conducted in stage IIIB/IV
+NSCL cancer patients with advanced disease as a single dose level, open-label
+study with six treatments administered at three-week intervals. The primary
+endpoints are overall survival and safety. Secondary endpoints are
+progression-free survival and vaccine immunogenicity. The study is being
+conducted by Epimmune in the United States and is expected to involve between 10
+and 12 sites and enroll approximately 84 patients. Enrollment has begun and is
+expected to be complete by the end of 2005 with initial data from the study
+expected to be available beginning in the second half of 2006.
+
+HIV VACCINE CLINICAL DEVELOPMENT
+
+Epimmune, with sponsorship from the National Institutes of Health (NIH),
+conducted a Phase 1 clinical trial of EP-1090, its multi-epitope, DNA vaccine
+designed to stimulate CTL responses to HIV. EP-1090 encodes 21 CTL epitopes from
+conserved regions of multiple HIV virus proteins. Because these epitopes are
+commonly found in the majority of HIV subtypes, they are believed to be crucial
+to the fitness of all viral strains, with the result that the virus should be
+unable to rapidly mutate away from immune responses targeted by EP-1090. Such
+mutation has presented an obstacle to conventional vaccine development. The
+vaccine candidate also includes Epimmune's proprietary, synthetic, universal HTL
+epitope, PADRE(R), which is designed to enhance the magnitude and duration of
+cellular immune responses.
+
+In the Phase 1 trial, EP-1090 was designed to amplify anti-viral responses in
+patients who have been receiving multiple anti-retroviral drugs to suppress HIV
+replication, which is a regimen termed "highly active anti-retroviral therapy"
+or "HAART." The Phase 1 trial was a double blind, placebo-controlled,
+dose-escalation safety study, which was conducted in HIV-infected patients at
+the University of Colorado Health Sciences Center. Forty patients were enrolled
+in the trial and were randomized into four groups which received intramuscular
+doses of 0.5, 1, 2 or 4 mg of vaccine or placebo at 0, 4, 8, and 16 weeks. A
+secondary objective of the study was to assess the immunogenicity of the vaccine
+as measured by the magnitude and epitope breadth of the patients' cellular
+immune responses.
+
+Based on analysis of the data from the Phase 1 study, no serious adverse events
+were observed and disease specific indicators such as CD4+ T cell counts
+remained stable, indicating that EP-1090 was safe and well tolerated at all dose
+levels.
+
+For the assessment of immunogenicity, or epitope-specific CTL responses, patient
+blood samples were tested using two independent in vitro ELISPOT assays which
+measure the number of epitope-specific CTL per million peripheral blood
+mononuclear cells (PBMC) in the patient samples:
+
+- -     DIRECT ELISPOT: Epitope-specific CTL are detected directly after blood
+      draws from the patients. The following results were obtained using direct
+      ELISPOT:
+
+      o     2/32 (6%) of vaccine recipients responded to 2 or more epitopes
+<PAGE>
+Epimmune Inc.
+Page 3 of 5
+
+
+      o     5/32 (15%) of vaccine recipients responded to 1 or more epitopes
+
+- -     RESTIMULATED ELISPOT: After blood draws, the PBMC are incubated in vitro
+      for seven days with a pool of the 21 vaccine epitopes prior to detecting
+      the epitope-specific CTL. This incubation expands the population of
+      epitope-specific cells, thereby increasing assay sensitivity. It also may
+      simulate the in vivo re-emergence of HIV antigen that occurs when patients
+      withdraw from anti-retroviral drug therapy. The following results were
+      obtained using restimulated ELISPOT:
+
+      o     9/32 (28%) of vaccine recipients responded to 2 or more epitopes
+      o     17/32 (53%) of vaccine recipients responded to 1 or more epitopes
+      o     1/8 (12.5%) of placebo recipients responded to 2 or more epitopes
+
+      Because of the small group size, vaccine responses were not statistically
+      significant compared to placebo response.
+
+Results from the restimulated ELISPOT assay indicated priming of new CTLs, which
+is believed to be required for virus suppression and is not achieved by
+conventional vaccines designed to stimulate antibody responses. Based on the
+data from the Phase 1 study, the Company plans to amend its IND to open an
+additional arm of the Phase 1 study. The goal of this arm, in addition to
+demonstrating safety, is to determine whether the immune response can be
+enhanced sufficiently to justify continuing to a Phase 2 study. Under the
+amended IND, the Company plans to evaluate the use of a needle-free injection
+device (NFID) in conjunction with a compressed immunization schedule. Data
+presented by other groups indicates that both of these approaches act to
+increase the immune response.
+
+The additional evaluation would be conducted in two dose groups consisting of 2
+and 4 mgs of vaccine or placebo respectively, assuming the safety profile of
+EP-1090 remains favorable. The study arm will involve approximately 16 patients
+in each dose group, 12 receiving vaccine and 4 receiving placebo. Total study
+duration for each patient, including follow-up, is estimated to be approximately
+six months.
+
+The ultimate treatment goal, which would be the subject of a Phase 2 study, is
+to allow patients to discontinue HAART for a period of time by using EP-1090 to
+stimulate their natural immune suppression of HIV replication.
+
+MANAGEMENT COMMENTS
+
+Dr. Emile Loria, President and CEO of Epimmune said, "We are very pleased with
+the progress we have made in our cancer clinical program, particularly the Phase
+1 results demonstrating the ability of our proprietary epitope analogs to elicit
+a multi-epitope response in a cancer setting where breaking tolerance has always
+been a key challenge. The Phase 2 study we have initiated in later stage lung
+cancer patients, who continue to have limited treatment options and poor
+clinical prognosis, is an important milestone in the continuing development of
+our epitope vaccine technology."
+
+Dr. Loria continued, "We also remain committed to finding the most efficient way
+to deliver our epitopes in the HIV setting. We believe epitope vaccines
+represent a promising approach to dealing with the virus' ability to mutate away
+from natural immune responses. Given the complexity of vaccine design and the
+alternatives for improving response, we feel there are multiple avenues for
+investigation; by expanding our Phase 1 HIV study to explore some of these, we
+hope to improve and
+<PAGE>
+Epimmune Inc.
+Page 4 of 5
+
+
+maximize the vaccine potency before entering a Phase 2 study. We remain
+optimistic that we will overcome the tactical difficulties of achieving that
+goal."
+
+ABOUT EPIMMUNE INC.
+
+EPIMMUNE INC., based in San Diego, is focused on the development of vaccines
+using multiple epitopes to specifically activate the body's immune system.
+Epitopes, critical signaling molecules, stimulate the T cell arm of the immune
+system to respond to specific regions of cancer cells or infectious agents. By
+combining multiple, selected epitopes into a single vaccine candidate, the
+immune response can be both targeted and optimized for strength. Epimmune's
+therapeutic vaccine candidates have been designed to treat disease by
+stimulating the body's immune system to respond aggressively to infections such
+as HIV, hepatitis C virus and hepatitis B virus, and tumors such as breast,
+colon, lung and prostate. The Company's prophylactic vaccine candidates have
+been designed to protect against disease by teaching the body's immune system to
+react quickly when exposed to infectious agents. Epimmune's technology can also
+be used to identify and potentially eliminate undesirable reactions to
+therapeutic drugs or consumer products by modifying specific epitopes to
+suppress the unwanted immune response without degrading product efficacy. For
+more information on Epimmune, visit www.epimmune.com.
+
+FORWARD-LOOKING STATEMENTS
+
+This press release includes forward-looking statements that reflect Epimmune's
+management's current views of future events, including statements regarding the
+potential advantages of analog epitopes in cancer vaccines, the ability of the
+Company's PADRE(R) technology to enhance the immune response and support
+anti-tumor activity, the support provided by the data from the Phase 1 trial of
+EP-2101 for the design and implementation of a Phase 2 trial with survival,
+immunogenicity and safety endpoints, the support the preliminary data from the
+two Phase 1 cancer trials provide for the Company's multi-epitope approach, the
+timing for completion of enrollment for the Phase 2 study and the availability
+of data from the study, the ability of epitope-based vaccines to treat lung
+cancer and colorectal cancer, the intended benefits of the Company's EP HIV-1090
+therapeutic vaccine, the ultimate treatment goal for use of EP HIV-1090, the
+support the preliminary data from the Company's Phase 1 cancer and HIV trials
+provides for the Company's multi-epitope approach to inducing an immune
+response, the ability of an epitope-based vaccine to prevent or treat HIV
+infection, and the safety and efficacy of epitope-based products in humans.
+Actual results may differ materially from the above forward-looking statements
+due to a number of important factors such as whether the Company will be able to
+enroll the desired number of patients in its Phase 2 NSCL cancer study on
+schedule, whether patients enrolled in the Phase 2 study complete the study,
+whether the Company will be able to obtain and analyze data from the study by
+the second half of 2006, whether results in the Phase 2 study will be consistent
+with results from the Phase 1 study, whether there will be a correlation in the
+Phase 2 study between overall survival and clinical benefit to patients with
+immunogenicity, whether patients with advanced stage cancer will be able to
+mount an immune response, whether the Company will be successful in enhancing
+the immune response sufficiently in a new arm of its Phase 1 HIV study to
+justify continuing to a Phase 2 study, whether in vitro re-stimulation reflects
+the levels of CTL activity that could be achieved were the CTL exposed to the
+HIV antigens naturally, whether the Company will have sufficient funding
+available to support further development of its vaccine candidates, whether the
+Company or any of its partners is able to develop pharmaceutical products using
+epitopes or analog epitopes, the regulatory approval process, the possibility
+that the FDA may comment or raise concerns or questions with respect to any IND
+or IND amendment the Company files and, therefore, clinical trials may not begin
+when planned, the
+<PAGE>
+Epimmune Inc.
+Page 5 of 5
+
+
+possibility that the Company's clinical studies may not provide the FDA with
+sufficient clinical data to permit proceeding to the next stage of clinical
+development of a new drug even though the Company believes it is doing the right
+studies based on the protocol, and the possibility that testing may reveal
+undesirable and unintended side effects or other characteristics that may
+prevent or limit the commercial use of proposed products. These factors are more
+fully discussed in the Company's Annual Report on Form 10-K, as amended, filed
+with the SEC for the year ended December 31, 2003, the Company's Quarterly
+Report on Form 10-Q filed with the SEC for the quarter ended September 30, 2004
+and other periodic reports filed with the Securities and Exchange Commission.
+Epimmune expressly disclaims any intent or obligation to update these
+forward-looking statements, except as required by law.
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

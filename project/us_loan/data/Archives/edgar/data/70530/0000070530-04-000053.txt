@@ -1,0 +1,184 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ RDoI3nqP0htUrKjYiuV/6VC8gd7lBkzUYdhrjnAAwQPS0rIuSTBQExhhRmpK5pch
+ di7YUFaW1rwkWYiHrfqlDA==
+
+<SEC-DOCUMENT>0000070530-04-000053.txt : 20041220
+<SEC-HEADER>0000070530-04-000053.hdr.sgml : 20041220
+<ACCEPTANCE-DATETIME>20041217202221
+ACCESSION NUMBER:		0000070530-04-000053
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20041217
+ITEM INFORMATION:		Other Events
+FILED AS OF DATE:		20041220
+DATE AS OF CHANGE:		20041217
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			NATIONAL SEMICONDUCTOR CORP
+		CENTRAL INDEX KEY:			0000070530
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		IRS NUMBER:				952095071
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0531
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-06453
+		FILM NUMBER:		041212708
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2900 SEMICONDUCTOR DR
+		STREET 2:		PO BOX 58090
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95052-8090
+		BUSINESS PHONE:		4087215000
+
+	MAIL ADDRESS:	
+		STREET 1:		2900 SEMICONDUCTOR DR
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95052-8090
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>form8k_121704.txt
+<DESCRIPTION>FORM 8-K FOR NEWS RELEASE DATED 12/17/04
+<TEXT>
+
+
+
+
+                UNITED STATES SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                    FORM 8-K
+
+                                 CURRENT REPORT
+                       Pursuant to Section 13 or 15(d) of
+                       The Securities Exchange Act of 1934
+
+       Date of Report (Date of earliest event reported): December 16, 2004
+
+
+                       NATIONAL SEMICONDUCTOR CORPORATION
+             (Exact name of registrant as specified in its charter)
+
+          DELAWARE                     1-6453           95-2095071
+          --------                     ------           ----------
+          (State of  Incorporation)    (Commission      (I.R.S.Employer
+                                       File Number)     Identification Number)
+
+
+                    2900 SEMICONDUCTOR DRIVE, P.O. BOX 58090
+                       SANTA CLARA, CALIFORNIA 95052-8090
+                       ----------------------------------
+                    (Address of Principal Executive Offices)
+
+                                 (408) 721-5000
+
+              (Registrant's telephone number, including area code)
+
+
+Check  the  appropriate  box  below  if the  Form  8-K  filing  is  intended  to
+simultaneously  satisfy the filing obligation of the registrant under any of the
+following provisions (see General Instruction A.2. below):
+
+
+[ ] Written communication  pursuant to Rule 425 under the Securities Act (17 CFR
+    230.425)
+
+[ ] Soliciting  material  pursuant to Rule 14a-12 under the Exchange Act (17 CFR
+    240.14a-12)
+
+[ ] Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange
+    Act (17 CFR 240.14d-2(b)
+
+[ ] Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange
+    Act (17 CFR 240.13e-4(c))
+
+
+
+
+<PAGE>
+NATIONAL SEMICONDUCTOR CORPORATION
+
+Table of Contents
+
+
+                                                                            Page
+                                                                            ----
+
+Section 8 - Other Events
+- ------------------------
+
+Item 8.01       Other Events                                                3
+
+
+Signature                                                                   4
+
+
+
+<PAGE>
+
+NATIONAL SEMICONDUCTOR CORPORATION
+
+Item 8.01       OTHER EVENTS
+
+In April 2002, ZF Micro  Solutions,  Inc.  brought suit against us in California
+Superior  Court  alleging a number of  contract  and tort  claims  related to an
+agreement we entered into in 1999 to design and manufacture a custom  integrated
+circuit device for ZF Micro Devices. ZF Micro Devices ceased business operations
+in February 2002 and the case was brought by ZF Micro  Solutions as successor to
+ZF Micro  Devices.  The case began trial in May 2004 and on June 14,  2004,  the
+jury  in the  case  found  for ZF  Micro  Solutions  on a claim  on  intentional
+misrepresentation, awarding damages of $28.0 million and on a claim of breach of
+the implied  covenant of good faith and fair dealing,  awarding  damages of $2.0
+million. On seven other claims brought by the plaintiff,  the jury found for us.
+The jury also  found  for us on our  breach of  contract  cross-claim,  awarding
+damages of $1.1 million.  In response to our challenges to the verdicts in favor
+of ZF Micro  Solutions in post-trial  motions,  the court ordered a new trial on
+all  issues  and a new trial  date of  February  22,  2005 was set by the court.
+During a settlement  conference held December 16, 2004, the case was settled. We
+have agreed to pay to the plaintiff  the sum of $20 million,  which must be paid
+into an escrow  account no later than  January 5,  2005.  In  addition,  we have
+agreed to grant the  plaintiff a royalty  free license for the  manufacture  and
+sale of the custom  device at issue in the case.  All claims will be released by
+the parties  and the case  dismissed  once the  settlement  documents  have been
+completed and the settlement funds released to the plaintiff.
+
+
+
+<PAGE>
+
+                                   SIGNATURES
+
+Pursuant  to the  requirements  of the  Securities  Exchange  Act of  1934,  the
+registrant  has duly  caused  this  report  to be  signed  on its  behalf by the
+undersigned hereunto duly authorized.
+
+                                        NATIONAL SEMICONDUCTOR CORPORATION
+
+                                        //S// Robert E.  DeBarr
+                                        -----------------------
+
+Dated:  December 17, 2004               Robert E.  DeBarr
+                                        Controller
+                                        Signing on behalf of the registrant and
+                                        as principal accounting officer
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

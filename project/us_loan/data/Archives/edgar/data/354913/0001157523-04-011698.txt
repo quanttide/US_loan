@@ -1,0 +1,218 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Bhr3bfUHR+2rZP/4P1roCNH+/JyRlZYqEXslL5l/ZdN7McAhkez2F8I6kuEL7sHt
+ n4E1HFUe96tVFsWEXYh63w==
+
+<SEC-DOCUMENT>0001157523-04-011698.txt : 20041222
+<SEC-HEADER>0001157523-04-011698.hdr.sgml : 20041222
+<ACCEPTANCE-DATETIME>20041222083848
+ACCESSION NUMBER:		0001157523-04-011698
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20041221
+ITEM INFORMATION:		Entry into a Material Definitive Agreement
+ITEM INFORMATION:		Regulation FD Disclosure
+FILED AS OF DATE:		20041222
+DATE AS OF CHANGE:		20041222
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			INTERDIGITAL COMMUNICATIONS CORP
+		CENTRAL INDEX KEY:			0000354913
+		STANDARD INDUSTRIAL CLASSIFICATION:	PATENT OWNERS & LESSORS [6794]
+		IRS NUMBER:				231882087
+		STATE OF INCORPORATION:			PA
+		FISCAL YEAR END:			0930
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-11152
+		FILM NUMBER:		041219114
+
+	BUSINESS ADDRESS:	
+		STREET 1:		781 THIRD AVE
+		CITY:			KING OF PRUSSIA
+		STATE:			PA
+		ZIP:			19406-1409
+		BUSINESS PHONE:		6102787800
+
+	MAIL ADDRESS:	
+		STREET 1:		781 THIRD AVE
+		STREET 2:		2200 RENAISANCE BLVD STE 105
+		CITY:			KING OF PRUSSIA
+		STATE:			PA
+		ZIP:			19406-1409
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	INTERNATIONAL MOBILE MACHINES CORP
+		DATE OF NAME CHANGE:	19920703
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>a4789373.txt
+<DESCRIPTION>INTERDIGITAL COMMUNICATIONS 8-K
+<TEXT>
+================================================================================
+
+                UNITED STATES SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+                                 ______________
+
+                                    FORM 8-K
+
+                                 CURRENT REPORT
+
+                        PURSUANT TO SECTION 13 OR 15 (d)
+                     OF THE SECURITIES EXCHANGE ACT OF 1934
+
+       DATE OF REPORT (Date of earliest event reported): December 21, 2004
+                                 ______________
+
+                     InterDigital Communications Corporation
+             (Exact name of registrant as specified in its charter)
+
+
+
+        Pennsylvania                 1-11152                 23-1882087
+(State or other jurisdiction     (Commission File           (IRS Employer
+      of incorporation)               Number)             Identification No.)
+
+
+
+
+781 Third Avenue, King of Prussia, Pennsylvania              19406-1409
+    (Address of Principal Executive Offices)                 (Zip Code)
+
+
+        Registrant's telephone number, including area code: 610-878-7800
+
+
+Check the appropriate box below if the Form 8-K filing is intended to
+simultaneously satisfy the filing obligation of the registrant under any of the
+following provisions:
+
+|_|  Written communications pursuant to Rule 425 under the Securities Act
+     (17 CFR 230.425)
+
+|_|  Soliciting material pursuant to Rule 14a-12 under the Exchange Act
+     (17 CFR 240.14a-12)
+
+|_|  Pre-commencement communications pursuant to Rule 14d-2(b) under the
+     Exchange Act (17 CFR 240.14d-2(b))
+
+|_|  Pre-commencement communications pursuant to Rule 13e-4(c) under the
+     Exchange Act (17 CFR 240.13e-4(c))
+
+================================================================================
+<PAGE>
+
+
+Item 1.01.   Entry into a Material Definitive Agreement.
+
+InterDigital Communications Corporation (the "Company" or "InterDigital") has
+entered into an agreement with General Dynamics Decision Systems, Inc. ("General
+Dynamics"), to serve as a subcontractor on the Mobile User Objective System
+("MUOS") program for the U.S. military. MUOS is an advanced tactical terrestrial
+and satellite communications system utilizing Third Generation ("3G") commercial
+cellular technology to provide significantly improved high data rate and assured
+communications for U.S. warfighters. Lockheed Martin leads the MUOS program
+team.
+
+The Software License Agreement requires InterDigital to deliver its
+standards-compliant Wideband Code Division Multiple Access ("WCMDA") modem
+technology to General Dynamics for incorporation into handheld terminals. The
+MUOS 3G WCDMA waveform is the air interface technology that will transmit text,
+voice, video, and multimedia to a wide range of platforms, including handheld
+terminals with an "always-on" connection that is expected to be significantly
+faster than previous systems.
+
+Under the agreement, InterDigital expects to receive $18.5 million for delivery
+and a limited license of its commercial technology solution for use within the
+government's MUOS and Joint Tactical Radio System programs, maintenance and
+product training. The agreement also includes options that are exercisable by
+General Dynamics at various times through March 2006 for additional deliverables
+for up to $4.0 million, and contains a termination for convenience provision,
+penalties for delays, and other provisions typical for contracts involving
+government procurements. The Company anticipates that at least a majority of its
+MUOS program deliverables and related payments will occur in 2005, excluding the
+exercise of options for additional deliverables. InterDigital will provide
+maintenance and support to General Dynamics for three (3) years following
+delivery of the technology. In addition to the deliverables specifically
+identified in the agreement, InterDigital has agreed to provide additional
+future services as requested by General Dynamics under an agreed to pricing
+structure.
+
+Given the complexity of accounting for revenue associated with the agreement,
+the Company has not finalized the manner in which revenue will be recognized for
+payments to be received under the agreement. The Company will provide
+appropriate guidance after the revenue recognition evaluation is complete.
+
+
+Item 7.01    Regulation FD Disclosure.
+
+Due to actual and anticipated cash receipts from new and amended patent license
+agreements, the Company now expects fourth quarter 2004 book tax expense to
+exceed previous guidance of $1.0 to $1.5 million, the amount of which is
+dependent on the finalization of taxable financial results for 2004. The final
+book tax expense also could be affected by higher than previously anticipated
+taxable fiscal year 2004 per-unit patent license royalties.
+
+
+
+
+
+
+
+
+This Form 8-K contains forward-looking statements regarding our expectations as
+to anticipated cash receipts from patent licensing activity and the agreement
+with General Dynamics, and the anticipated timing of deliverables and related
+payments under the agreement with General Dynamics. Such forward-looking
+statements are subject to risks and uncertainties and actual outcomes could
+differ materially from those expressed in the forward-looking statements due to
+a variety of factors including, but not limited to: (i) timing and amounts of
+actual cash receipts received; (ii) exercise of termination for convenience
+rights under the agreement with General Dynamics; and (iii) unanticipated delays
+in connection with performance under the agreement with General Dynamics,
+including delays associated with performance of third parties. We undertake no
+duty to publicly update any forward-looking statements, whether as a result of
+new information, future events or otherwise.
+
+
+
+
+<PAGE>
+
+
+                                   SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the
+Registrant has duly caused this Current Report on Form 8-K to be signed on its
+behalf by the undersigned hereunto duly authorized.
+
+
+                                         INTERDIGITAL COMMUNICATIONS CORPORATION
+
+
+                                         By: /s/ Lawrence F. Shay
+                                             -----------------------------------
+                                             Lawrence F. Shay
+                                             General Counsel
+
+
+
+Dated: December 22, 2004
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

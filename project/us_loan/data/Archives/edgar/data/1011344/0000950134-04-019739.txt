@@ -1,0 +1,754 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ DEKrHBUdBNtUU0r68OyNsK/Yn8b7EDoELfdZNchCWdnh7WBSSm9tIHxBsp8MaaUF
+ YTbBsu1p0iypT8ZPsX9qoA==
+
+<SEC-DOCUMENT>0000950134-04-019739.txt : 20041222
+<SEC-HEADER>0000950134-04-019739.hdr.sgml : 20041222
+<ACCEPTANCE-DATETIME>20041222143035
+ACCESSION NUMBER:		0000950134-04-019739
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	20041221
+ITEM INFORMATION:		Entry into a Material Definitive Agreement
+ITEM INFORMATION:		Completion of Acquisition or Disposition of Assets
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20041222
+DATE AS OF CHANGE:		20041222
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			PACKETEER INC
+		CENTRAL INDEX KEY:			0001011344
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER INTEGRATED SYSTEMS DESIGN [7373]
+		IRS NUMBER:				770420107
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-26785
+		FILM NUMBER:		041220336
+
+	BUSINESS ADDRESS:	
+		STREET 1:		10201 NORTH DE ANZA BLVD
+		CITY:			CUPERTINO
+		STATE:			CA
+		ZIP:			95014-2028
+		BUSINESS PHONE:		4088734400
+
+	MAIL ADDRESS:	
+		STREET 1:		10201 N. DE ANZA BLVD
+		CITY:			CUPERTINO
+		STATE:			CA
+		ZIP:			95014-2028
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CYBERSWITCH INC
+		DATE OF NAME CHANGE:	19960530
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>f04236e8vk.htm
+<DESCRIPTION>FORM 8-K
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>e8vk</TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF">
+<!-- PAGEBREAK -->
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+<P align="center" style="font-size: 14pt"><B>UNITED STATES<BR>
+SECURITIES AND EXCHANGE COMMISSION</B>
+
+<DIV align="center" style="font-size: 12pt"><B>WASHINGTON, D.C. 20549</B>
+</DIV>
+
+
+<P align="center" style="font-size: 10pt"><HR align="center" size="1" noshade width="15%">
+
+
+<P align="center" style="font-size: 18pt"><B>FORM 8-K</B>
+
+
+<P align="center" style="font-size: 10pt">CURRENT REPORT PURSUANT<BR>
+TO SECTION 13 OR 15(d) OF THE<BR>
+SECURITIES EXCHANGE ACT OF 1934
+
+
+
+<P align="center" style="font-size: 10pt"><HR align="center" size="1" noshade width="15%">
+
+
+
+<P align="center" style="font-size: 10pt">Date of report (Date of earliest event reported): December&nbsp;22, 2004 (December&nbsp;21, 2004)
+
+
+<P align="center" style="font-size: 24pt"><B>PACKETEER, INC.</B>
+
+<DIV align="center" style="font-size: 10pt">(Exact name of Registrant as specified in its charter)</DIV>
+
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+
+<!-- Begin Table Head --><TR valign="bottom">
+    <TD width="30%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="30%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="30%">&nbsp;</TD>
+</TR>
+
+<!-- End Table Head -->
+
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD align="center" valign="top">DELAWARE
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">000-26785
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">77-0420107</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD align="center" valign="top"><HR size="1" noshade>&nbsp;
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top"><HR size="1" noshade>&nbsp;
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top"><HR size="1" noshade>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD align="center" valign="top">(State or other jurisdiction<BR>
+of incorporation)
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">(Commission<BR>
+File Number)
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">(I.R.S. Employer<BR>
+Identification No.)</TD>
+</TR>
+
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+<P align="center" style="font-size: 10pt">10201 NORTH DE ANZA BLVD.<BR>
+CUPERTINO, CALIFORNIA 95014<BR>
+(Address of principal executive offices)
+
+
+
+<P align="center" style="font-size: 10pt">Registrant&#146;s telephone number, including area code: (408)&nbsp;873-4400
+
+
+
+<P align="center" style="font-size: 10pt">N/A<BR>
+(Former Name or Former Address, if Changed Since Last Report)
+
+
+<P align="left" style="font-size: 10pt">Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the
+filing obligation of the registrant under any of the following provisions:
+
+
+<P align="left" style="font-size: 10pt">&#091; &#093; Written communications pursuant to Rule&nbsp;425 under the Securities Act (17 CFR 230.425)
+
+
+<P align="left" style="font-size: 10pt">&#091; &#093; Soliciting material pursuant to Rule&nbsp;14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+
+<P align="left" style="font-size: 10pt">&#091; &#093; Pre-commencement communications pursuant to Rule&nbsp;14d-2(b) under the Exchange Act (17 CFR
+240.14d-2(b))
+
+
+<P align="left" style="font-size: 10pt">&#091; &#093; Pre-commencement communications pursuant to Rule&nbsp;13e-4(c) under the Exchange Act (17 CFR
+240.13e-4(c))
+
+
+
+<P align="center" style="font-size: 10pt">&nbsp;
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<!-- TOC -->
+<A name="toc"><DIV align="CENTER" style="page-break-before:always"><U><B>TABLE OF CONTENTS</B></U></DIV></A>
+
+<P><CENTER>
+<TABLE border="0" width="90%" cellpadding="0" cellspacing="0">
+<TR>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="76%"></TD>
+</TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#000">Item&nbsp;1.01 Entry into a Material Definitive Agreement</A></TD></TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#001">Item&nbsp;2.01 Acquisition or Disposition of Assets</A></TD></TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#002">Item&nbsp;9.01 Financial Statements and Exhibits</A></TD></TR>
+<TR><TD colspan="9"><A HREF="#003"> SIGNATURE</A></TD></TR>
+<TR><TD colspan="9"><A HREF="#004">EXHIBIT INDEX</A></TD></TR>
+<TR><TD colspan="9"><A HREF="f04236exv99w1.htm">EXHIBIT 99.1</A></TD></TR>
+</TABLE>
+</CENTER>
+<!-- /TOC -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+
+
+
+
+
+<!-- link2 "Item&nbsp;1.01 Entry into a Material Definitive Agreement " -->
+<DIV align="left"><A NAME="000"></A></DIV>
+
+<P align="left" style="font-size: 10pt"><B>Item&nbsp;1.01 Entry into a Material Definitive Agreement</B>
+
+<P align="left" style="font-size: 10pt">On December&nbsp;21, 2004, Packeteer, Inc., a Delaware corporation (&#147;Packeteer&#148;) entered into an
+Agreement and Plan of Reorganization (the &#147;Agreement&#148;) by and among Packeteer, P Acquisition
+Corporation, a California corporation and wholly-owned subsidiary of Packeteer (&#147;Merger Sub&#148;),
+Mentat, Inc., a California corporation (&#147;Mentat&#148;), and certain shareholders of Mentat.
+
+
+<P align="left" style="font-size: 10pt">Pursuant to the Agreement, Mentat and Merger Sub shall combine into a single company through the
+statutory merger of Merger Sub with and into Mentat, with Mentat as the surviving
+corporation. The Agreement provides, among other things, that the outstanding shares of Mentat&#146;s
+Common Stock shall be converted into the right to receive approximately $16.5&nbsp;million in cash. In
+addition, Packeteer will pay approximately $3.5&nbsp;million in retention bonuses to Mentat employees in
+both cash and restricted stock, with the majority being paid over the next two years.
+
+
+<P align="left" style="font-size: 10pt">Mentat and Packeteer have made customary representations, warranties and covenants in the
+Agreement.
+
+
+<P align="left" style="font-size: 10pt">A copy of the press release announcing the Agreement is attached hereto as Exhibit&nbsp;99.1 and
+incorporated herein by reference.
+
+
+<!-- link2 "Item&nbsp;2.01 Acquisition or Disposition of Assets" -->
+<DIV align="left"><A NAME="001"></A></DIV>
+
+<P align="left" style="font-size: 10pt"><B>Item&nbsp;2.01 Acquisition or Disposition of Assets</B>
+
+<P align="left" style="font-size: 10pt">On December&nbsp;22, 2004, Packeteer, Inc., announced that, through its wholly owned subsidiary, P
+Acquisition Corporation, it has completed the acquisition of Mentat, Inc. a privately held company
+in Los Angeles, California, as described in Item&nbsp;1.01 above. Mentat is a technology leader in
+protocol acceleration technologies and transparent proxies, providing high-performance networking
+solutions for satellite and high-latency network links. The acquisition extends Packeteer&#146;s
+intellectual property and provides advanced acceleration capabilities for new WAN performance
+solutions for global enterprise customers.
+
+
+<P align="left" style="font-size: 10pt">As described in Item&nbsp;1.01 above, under the terms of the agreement, Packeteer will pay approximately
+$16.5&nbsp;million in cash to acquire all the outstanding shares of Mentat. In addition, Packeteer will
+pay approximately $3.5&nbsp;million in retention bonuses to Mentat employees in both cash and restricted
+stock, with the majority being paid over the next two years.
+
+
+<P align="left" style="font-size: 10pt">Packeteer will fund the cash portion of the initial proceeds from its current investments.
+
+
+<P align="left" style="font-size: 10pt">Neither Mentat nor its shareholders have any prior relationship with Packeteer, Inc.
+
+
+<!-- link2 "Item&nbsp;9.01 Financial Statements and Exhibits" -->
+<DIV align="left"><A NAME="002"></A></DIV>
+
+<P align="left" style="font-size: 10pt"><B>Item&nbsp;9.01 Financial Statements and Exhibits</B>
+
+
+<P>
+
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="3%" style="background: transparent">&nbsp;</TD>
+    <TD width="1%" nowrap align="right">(c)</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Exhibits</TD>
+</TR>
+
+</TABLE>
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="95%">
+
+<!-- Begin Table Head --><TR valign="bottom">
+    <TD width="8%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="87%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD nowrap align="left"><B>Exhibit</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center"><B>&nbsp;</B></TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD nowrap align="left"><B>Number</B><HR size="1" noshade></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center"><B>Description</B><HR size="1" noshade></TD>
+</TR>
+
+
+<!-- End Table Head -->
+
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">99.1
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Press Release of Packeteer, Inc. dated December&nbsp;22, 2004 announcing the
+acquisition of Mentat, Inc.</TD>
+</TR>
+
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+<P align="center" style="font-size: 10pt">&nbsp;
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+<!-- link1 " SIGNATURE" -->
+<DIV align="left"><A NAME="003"></A></DIV>
+
+<P align="center" style="font-size: 10pt">SIGNATURE
+
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly
+caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+
+<P align="left" style="font-size: 10pt">Date: December&nbsp;22, 2004
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+
+<!-- Begin Table Head --><TR valign="bottom">
+    <TD width="48%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="46%">&nbsp;</TD>
+</TR>
+
+<!-- End Table Head -->
+
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="3" valign="top" align="left">Packeteer, Inc.</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">By:
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">/s/ David C. Yntema</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top"><HR size="1" noshade>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Name: David C. Yntema<BR>
+Title: Chief Financial Officer and Secretary</TD>
+</TR>
+
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+<P align="center" style="font-size: 10pt">&nbsp;
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+<!-- link1 "EXHIBIT INDEX " -->
+<DIV align="left"><A NAME="004"></A></DIV>
+
+
+
+
+<P align="center" style="font-size: 10pt">EXHIBIT INDEX
+
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="95%">
+
+<!-- Begin Table Head --><TR valign="bottom">
+    <TD width="8%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="87%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD nowrap align="left"><B>Exhibit</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center"><B>&nbsp;</B></TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD nowrap align="left"><B>Number</B><HR size="1" noshade></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center"><B>Description</B><HR size="1" noshade></TD>
+</TR>
+
+
+<!-- End Table Head -->
+
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">99.1
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Press Release of Packeteer, Inc. dated December&nbsp;22, 2004 announcing the
+acquisition of Mentat, Inc.</TD>
+</TR>
+
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+<P align="center" style="font-size: 10pt">&nbsp;
+</DIV>
+
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>f04236exv99w1.htm
+<DESCRIPTION>EXHIBIT 99.1
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>exv99w1</TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF">
+<!-- PAGEBREAK -->
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<P align="right" style="font-size: 10pt">Exhibit&nbsp;99.1
+
+
+<P align="center" style="font-size: 10pt"><IMG src="f04236f0423600.gif" alt="(PACKETEER LOGO)">
+
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+
+<!-- Begin Table Head --><TR valign="bottom">
+    <TD width="30%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="65%">&nbsp;</TD>
+</TR>
+
+<!-- End Table Head -->
+
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px"><B>Media Contact:</B>
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top"><B>Investor Contact:</B></TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">Heather Fitzsimmons
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">David Yntema</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">Mindshare PR
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Chief Financial Officer</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">650-947-7400
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">408-873-4518</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px"><B>heather@mindsharepr.com</B>
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top"><B>dyntema@packeteer.com</B></TD>
+</TR>
+
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+<P align="center" style="font-size: 10pt"><B>PACKETEER<FONT style="font-family: Symbol"><sup>&#210;</sup></FONT>
+ACQUIRES LEADING HIGH-PERFORMANCE NETWORKING COMPANY</B>
+
+
+
+<P align="center" style="font-size: 10pt"><I>Acquisition expands Packeteer&#146;s Fast WAN vision by incorporating Mentat for accelerated<BR>
+applications over satellite and long-haul networks</I>
+
+
+<P align="left" style="font-size: 10pt"><B>CUPERTINO, Calif. &#151; December&nbsp;22, 2004 &#151; </B>Packeteer<FONT style="font-family: Symbol">&#210;</FONT>, Inc. (NASDAQ: PKTR), the
+pioneer and global leader in WAN Application Traffic Management, today announced that it has
+acquired privately held Mentat Inc. of Los Angeles, Calif. Mentat is a technology leader in
+protocol acceleration technologies and transparent proxies providing high-performance networking
+solutions for satellite and high-latency network links. The acquisition deepens and extends
+Packeteer&#146;s intellectual property and provides advanced acceleration capabilities for new WAN
+performance solutions for global enterprise customers.
+
+
+<P align="left" style="font-size: 10pt">Under the terms of the agreement, Packeteer will pay approximately $16.5&nbsp;million in cash to acquire
+all outstanding shares of Mentat. In addition, Packeteer will pay approximately $3.5&nbsp;million in
+retention bonuses to Mentat employees in both cash and restricted stock, with the majority being
+paid over the next two years. Mentat will operate as a Packeteer business unit reporting to Mike
+Schumacher, VP of Engineering for Packeteer.
+
+
+<P align="left" style="font-size: 10pt">&#147;This acquisition is an important step in more fully defining our network system vision for Fast
+WAN appliances and it provides significant technology for additional acceleration capabilities that
+make us more strategic to enterprise networks,&#148; said Dave C&#244;t&#233;, president and CEO of Packeteer.
+&#147;In addition to the immediate synergies that we gain in the marketplace, Mentat&#146;s technology
+provides a foundation for increasing returns as we consolidate more capabilities into one
+appliance.&#148;
+
+
+<P align="left" style="font-size: 10pt">Mentat brings unique expertise in computer networking to satellite and long-haul links where
+Mentat&#146;s award-winning SkyX<sup>&#174;</sup> product line overcomes the limitations of TCP/IP to allow
+high-performance network access. Network service providers, corporations and government
+organizations throughout the world rely on the SkyX products for high-performing networks with
+great user experience.
+
+
+<P align="left" style="font-size: 10pt">Kay Guyer, Mentat&#146;s CEO stated, &#147;We&#146;re excited to join a company that shares our vision and is
+driving this explosive market. Our customers have been requesting more WAN performance and
+optimization features such as QoS, monitoring, and central management. With Packeteer, we can now
+deliver the most complete solution for WAN performance and optimization to the market.&#148;
+
+
+<P align="left" style="font-size: 10pt">Dave C&#244;t&#233;, president and CEO, and David Yntema, Chief Financial Officer, will host a conference
+call at 11:00 am EDT on Wednesday, December&nbsp;22, 2004, to discuss the acquisition of Mentat. The
+dial-in number is 888-316-9415 and the pass code is PACKETEER. A replay of the live conference
+call will be available until December&nbsp;29, 2004. To access the replay, the dial-in number is
+800-839-9137 and the pass code is 2303.
+
+
+
+<P align="center" style="font-size: 10pt">&nbsp;
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+<P align="left" style="font-size: 10pt">Packeteer expects the acquisition will add between $6.0&nbsp;million and $7.0&nbsp;million to total net
+revenues in 2005, and be neutral to total operating income prior to amortization of intangibles and
+other acquisition related expenses. Packeteer will provide additional details on the acquisition
+during its regularly scheduled year-end financial conference call planned for January&nbsp;27, 2005.
+
+
+<P align="left" style="font-size: 10pt">Viant Capital of San Francisco acted as financial advisor to Packeteer.
+
+
+<P align="left" style="font-size: 10pt"><B>About Mentat</B><BR>
+Mentat is the leading supplier of standards-based, high-performance networking solutions to ISPs,
+enterprises, and government organizations in over 90 countries across all seven continents. More
+information can be found at www.mentat.com.
+
+
+<P align="left" style="font-size: 10pt"><B>About Packeteer</B><BR>
+Packeteer<sup>&#174;</sup>, Inc., (NASDAQ: PKTR) is the global market leader in Application Traffic Management for
+wide area networks. Deployed at more than 7,000 companies in 50 countries, Packeteer solutions
+empower IT organizations with patented network visibility, control, and acceleration capabilities
+delivered through a family of intelligent, scalable appliances. For more information, contact
+Packeteer at &#043;1 (408)&nbsp;873-4400 or visit the company&#146;s web site at www.packeteer.com.
+
+
+
+<P align="center" style="font-size: 10pt">&nbsp;
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<P align="center" style="font-size: 10pt"># # #
+
+
+<P align="left" style="font-size: 10pt"><B><I>Safe Harbor Clause</I></B>
+
+
+<P align="left" style="font-size: 10pt"><I>The statements contained in this press release that are not purely historical are forward-looking
+statements within the meaning of Section&nbsp;21E of the Securities and Exchange Act of 1934, as
+amended, including statements regarding Packeteer&#146;s expectations, beliefs, intentions or strategies
+regarding the future. Forward-looking statements include express or implied statements regarding
+expected benefits and synergies of the acquisition, including the expected financial impact of the
+acquisition and customer response to the product capabilities added as a result of the acquisition,
+as well as our expected success in the market and macro economic conditions. All forward-looking
+statements included in this press release are based upon information available to Packeteer as of
+the date hereof. Packeteer assumes no obligation to update any such forward-looking statements.
+Forward-looking statements involve risks and uncertainties, which could cause actual results to
+differ materially from those projected. Actual results may differ materially due to a number of
+factors including our ability to realize the expected benefits of the acquisition, the perceived
+need for our products and the additional capabilities brought by Mentat&#146;s products and technology,
+our ability to convince potential customers of our value proposition, the costs of competitive
+solutions, continued capital spending by prospective customers and macro economic conditions. These
+and other risks relating to Packeteer&#146;s business are set forth in Packeteer&#146;s Form 10-K filed with
+the Securities and Exchange Commission on March&nbsp;5, 2004, and Packeteer&#146;s Form 10-Qs and other
+reports filed from time to time with the Securities and Exchange Commission.</I>
+
+
+
+
+<P align="center" style="font-size: 10pt">&nbsp;
+</DIV>
+
+
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>3
+<FILENAME>f04236f0423600.gif
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 f04236f0423600.gif
+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
+%F(```#L_
+`
+end
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

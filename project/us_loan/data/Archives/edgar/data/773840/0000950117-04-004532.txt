@@ -1,0 +1,426 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ TEe/Ud28PNxz/i3Rt3UQyxbJsc7IdlC00PwPVdO1hUrshU5etDRXLFXazAkfcPwB
+ DHLxlOafj4ZUOYllLWh7fw==
+
+<SEC-DOCUMENT>0000950117-04-004532.txt : 20041221
+<SEC-HEADER>0000950117-04-004532.hdr.sgml : 20041221
+<ACCEPTANCE-DATETIME>20041221170845
+ACCESSION NUMBER:		0000950117-04-004532
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20041217
+ITEM INFORMATION:		Entry into a Material Definitive Agreement
+FILED AS OF DATE:		20041221
+DATE AS OF CHANGE:		20041221
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			HONEYWELL INTERNATIONAL INC
+		CENTRAL INDEX KEY:			0000773840
+		STANDARD INDUSTRIAL CLASSIFICATION:	MOTOR VEHICLE PARTS & ACCESSORIES [3714]
+		IRS NUMBER:				222640650
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-08974
+		FILM NUMBER:		041218184
+
+	BUSINESS ADDRESS:	
+		STREET 1:		101 COLUMBIA RD
+		STREET 2:		PO BOX 4000
+		CITY:			MORRISTOWN
+		STATE:			NJ
+		ZIP:			07962
+		BUSINESS PHONE:		9734552000
+
+	MAIL ADDRESS:	
+		STREET 1:		101 COLUMBIA RD P O BOX 4000
+		STREET 2:		101 COLUMBIA RD P O BOX 4000
+		CITY:			MORRISTOWN
+		STATE:			NJ
+		ZIP:			07962
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ALLIEDSIGNAL INC
+		DATE OF NAME CHANGE:	19940929
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>a38941.htm
+<DESCRIPTION>HONEYWELL INTERNATIONAL INC.
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY>
+
+<HR ALIGN=LEFT WIDTH=100% COLOR="#000000" SIZE=2 NOSHADE STYLE="margin-top: -5px">
+<HR ALIGN=LEFT WIDTH=100% COLOR="#000000" SIZE=1 NOSHADE STYLE="margin-top: -10px">
+
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center-TNR" FSL="Default" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>SECURITIES AND EXCHANGE
+COMMISSION<BR>
+WASHINGTON, D.C. 20549 </FONT></P>
+
+<HR WIDTH="75" SIZE="1" ALIGN="Center" NOSHADE="Noshade">
+
+
+<H1 ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=4>FORM 8-K </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center-TNR" FSL="Workstation" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>CURRENT REPORT<BR>
+PURSUANT TO SECTION 13 OR 15(D) OF THE SECURITIES EXCHANGE ACT OF 1934<BR>
+DATE OF REPORT &#150;
+December 17, 2004<BR>
+(Date of earliest event reported) </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 5-TNR" FSL="Default" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=4>
+<B>HONEYWELL INTERNATIONAL INC.</B><BR>
+</FONT>
+<FONT FACE="Times New Roman, Times, Serif" SIZE=2>(Exact name of Registrant as specified in its Charter)</FONT></P>
+
+<BR>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR VALIGN="BOTTOM">
+     <TH ALIGN="CENTER" VALIGN="TOP"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"></FONT></TH>
+     <TH ALIGN="CENTER" VALIGN="TOP"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"></FONT></TH>
+     <TH ALIGN="CENTER" VALIGN="TOP"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"></FONT></TH></TR>
+<TR VALIGN="TOP">
+     <TD ALIGN="CENTER" VALIGN="TOP"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">DELAWARE<BR>
+(State or other jurisdiction of<BR>
+incorporation)
+</FONT></TD>
+     <TD ALIGN="CENTER" VALIGN="TOP"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">1-8974<BR>
+(Commission File Number)
+</FONT></TD>
+     <TD ALIGN="CENTER" VALIGN="TOP"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">22-2640650<BR>
+(I.R.S. Employer Identification Number)
+</FONT></TD></TR>
+<TR VALIGN="TOP">
+     <TD ALIGN="CENTER" VALIGN="TOP"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp;</FONT></TD>
+     <TD ALIGN="CENTER" VALIGN="TOP"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp;</FONT></TD>
+     <TD ALIGN="CENTER" VALIGN="TOP"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp;</FONT></TD></TR>
+<TR VALIGN="TOP">
+     <TD COLSPAN="2" ALIGN="CENTER" VALIGN="TOP"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">101 COLUMBIA ROAD, P.O. BOX 4000, MORRISTOWN, NEW JERSEY<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Address of principal executive offices)
+</FONT></TD>
+     <TD ALIGN="CENTER" VALIGN="TOP"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">07962-2497<BR>
+(Zip Code)
+</FONT></TD></TR>
+</TABLE>
+
+
+<!-- MARKER FORMAT-SHEET="Para Large Indent Lv 0-TNR" FSL="Workstation" -->
+<P ALIGN="Center"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Registrant&#146;s
+telephone number, including area code: (973) 455-2000 </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Check the appropriate box below if
+the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the
+registrant under any of the following provisions: </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Default" -->
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font face="wingdings 2">&#163;</font>&nbsp;&nbsp;&nbsp;<FONT FACE="Times New Roman, Times, Serif" SIZE=2>Written communications
+pursuant to Rule 425 under the Securities Act (17 CFR 230.425)</FONT></P>
+
+
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font face="wingdings 2">&#163;</font>&nbsp;&nbsp;&nbsp;<FONT FACE="Times New Roman, Times, Serif" SIZE=2>Soliciting material
+pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)</FONT></P>
+
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font face="wingdings 2">&#163;</font>&nbsp;&nbsp;&nbsp;<FONT FACE="Times New Roman, Times, Serif" SIZE=2>Pre-commencement
+communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))</FONT></P>
+
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font face="wingdings 2">&#163;</font>&nbsp;&nbsp;&nbsp;<FONT FACE="Times New Roman, Times, Serif" SIZE=2>Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR
+240.13e-4(c))</FONT></P>
+
+<HR SIZE="1" NOSHADE COLOR="#000000" STYLE="margin-top: -2px">
+<HR SIZE="4" NOSHADE COLOR="#000000" STYLE="margin-top: -10px">
+
+<HR SIZE=5 COLOR=GRAY NOSHADE>
+
+<!-- MARKER PAGE="sheet: 1; page: 1" -->
+
+
+<!-- MARKER FORMAT-SHEET="Head Left-TNR" FSL="Workstation" -->
+<P ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE="2">ITEM 1.01 <U>AMENDMENT OF A
+MATERIAL DEFINITIVE AGREEMENT</U></FONT> </P>
+
+<!-- MARKER FORMAT-SHEET="Para Large Indent Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On
+December 17, 2004, Honeywell International Inc. amended nonqualified deferred compensation
+plans, equity compensation plans, individual employment agreements, and severance plans
+and agreements that the Company and its affiliates maintain for the benefit of its
+directors, executive officers, and certain other employees (collectively &#147;the
+Plans&#148;). Effective January 1, 2005, the Plans are potentially subject to new
+restrictions on the timing of elections, the time and form of distributions, the
+acceleration of benefits, and other matters under section 409A of the Internal Revenue
+Code, which was enacted on October 22 as part of the American Jobs Creation Act of 2004.
+The amendment reflects Honeywell&#146;s intent to operate the Plans in accordance with a
+reasonable interpretation of the new requirements until the Treasury Department and
+Internal Revenue Service issue interpretive guidance that will permit the Company to adopt
+more detailed amendments. The amendment also provides that, effective for amounts deferred
+after January 1, 2005, Honeywell reserves the right to change the rate of interest
+credited to a participant&#146;s deferred compensation regardless of when the underlying
+deferral occurred. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Large Indent Lv 0-TNR" FSL="Default" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A
+copy of the amendment is filed as Exhibit 10.1 to this report. </FONT></P>
+
+<P ALIGN="Center"><FONT SIZE="2">2 </FONT></P>
+
+
+<HR SIZE=5 COLOR=GRAY NOSHADE>
+<!-- MARKER PAGE="sheet: 2; page: 2" -->
+
+
+
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center-TNR" FSL="Workstation" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>SIGNATURE </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Indent Lv 0-TNR" FSL="Default" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pursuant
+to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused
+this report to be signed on its behalf by the undersigned hereunto duly authorized. </FONT></P>
+
+
+<TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0">
+<TR VALIGN="BOTTOM">
+     <TH><FONT FACE="Times New Roman, Times, Serif" SIZE="2"></FONT></TH>
+     <TH><FONT FACE="Times New Roman, Times, Serif" SIZE="2"></FONT></TH>
+     <TH><FONT FACE="Times New Roman, Times, Serif" SIZE="2"></FONT></TH></TR>
+<TR VALIGN="TOP">
+     <TD WIDTH="34%"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">Date: December 21, 2004
+</FONT></TD>
+     <TD WIDTH="33%" COLSPAN="2"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">Honeywell International Inc.
+</FONT></TD></TR>
+
+<TR VALIGN=BOTTOM>
+<TD ALIGN=RIGHT>&nbsp;</TD>
+<TD ALIGN=RIGHT>&nbsp;</TD>
+<TD ALIGN=RIGHT>&nbsp;</TD>
+</TR>
+
+
+<TR VALIGN="TOP">
+     <TD><FONT FACE="Times New Roman, Times, Serif" SIZE="2"></FONT></TD>
+     <TD><FONT FACE="Times New Roman, Times, Serif" SIZE="2">By:</FONT></TD>
+     <TD><FONT FACE="Times New Roman, Times, Serif" SIZE="2">/s/ Thomas F. Larkins
+</FONT><BR>
+<HR SIZE=1 NOSHADE WIDTH=200 ALIGN=LEFT>
+<FONT FACE="Times New Roman, Times, Serif" SIZE="2">Thomas F. Larkins<BR>
+Vice President, Corporate Secretary and<BR>
+Deputy General Counsel
+</FONT></TD></TR>
+<TR VALIGN="TOP">
+     <TD><FONT FACE="Times New Roman, Times, Serif" SIZE="2"></FONT></TD>
+     <TD><FONT FACE="Times New Roman, Times, Serif" SIZE="2"></FONT></TD>
+     <TD><FONT FACE="Times New Roman, Times, Serif" SIZE="2"></FONT></TD></TR>
+</TABLE>
+
+<P ALIGN="Center"><FONT SIZE="2">3</FONT></P>
+
+
+<HR SIZE=5 COLOR=GRAY NOSHADE>
+
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10
+<SEQUENCE>2
+<FILENAME>ex10-1.htm
+<DESCRIPTION>EXHIBIT 10.1
+<TEXT>
+
+
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY>
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold 1-TNR" FSL="Workstation" -->
+<H1 ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2><U>Exhibit 10.1</U> </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold-TNR" FSL="Workstation" -->
+<H1 ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>AMENDMENT TO </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold 1-TNR" FSL="Workstation" -->
+<H1 ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>DEFERRED COMPENSATION
+PLAN FOR NON-EMPLOYEE DIRECTORS<BR>
+OF HONEYWELL INTERNATIONAL INC.</FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center Bold-TNR" FSL="Workstation" -->
+<H1 ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>2003 STOCK INCENTIVE
+PLAN OF<BR>HONEYWELL
+INTERNATIONAL INC.<BR>AND ITS AFFILIATES </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center Bold-TNR" FSL="Workstation" -->
+<H1 ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1993 STOCK PLAN FOR
+EMPLOYEES OF<BR>HONEYWELL
+INTERNATIONAL INC.<BR>
+AND ITS AFFILIATES </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center Bold-TNR" FSL="Workstation" -->
+<H1 ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>SALARY AND INCENTIVE
+AWARD DEFERRAL PLAN<BR>
+FOR SELECTED EMPLOYEES
+OF HONEYWELL INTERNATIONAL INC. AND ITS AFFILIATES </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold-TNR" FSL="Workstation" -->
+<H1 ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>SUPPLEMENTAL
+NON-QUALIFIED SAVINGS PLAN<BR>FOR HIGHLY COMPENSATED
+EMPLOYEES<BR>OF HONEYWELL INTERNATIONAL INC. AND ITS SUBSIDIARIES (CAREER BAND 6 AND ABOVE) </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold-TNR" FSL="Workstation" -->
+<H1 ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>SUPPLEMENTAL
+NON-QUALIFIED SAVINGS PLAN<BR>FOR HIGHLY COMPENSATED
+EMPLOYEES<BR>OF HONEYWELL INTERNATIONAL INC. AND ITS SUBSIDIARIES (CAREER BAND 5 AND BELOW) </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold-TNR" FSL="Workstation" -->
+<H1 ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>HONEYWELL
+INTERNATIONAL INC. SUPPLEMENTAL EXECUTIVE<BR>RETIREMENT PLAN FOR
+EXECUTIVES IN CAREER BAND 6 AND ABOVE </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center Bold-TNR" FSL="Workstation" -->
+<H1 ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>ALLIEDSIGNAL INC.<BR>INCENTIVE COMPENSATION
+PLAN FOR EXECUTIVE EMPLOYEES </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold-TNR" FSL="Workstation" -->
+<H1 ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>EMPLOYMENT AGREEMENTS </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold-TNR" FSL="Workstation" -->
+<H1 ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>EMPLOYEE LETTERS OF
+UNDERSTANDING </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold-TNR" FSL="Workstation" -->
+<H1 ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>RETENTION AGREEMENTS </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold-TNR" FSL="Workstation" -->
+<H1 ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>SEVERANCE PLANS AND AGREEMENTS </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold-TNR" FSL="Workstation" -->
+<H1 ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>ANY OTHER PLAN, PROGRAM OR AGREEMENT SUBJECT TO THE REQUIREMENTS OF INTERNAL REVENUE CODE
+SECTION 409A</FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Indent Lv 0- TNR" FSL="Workstation" -->
+     <P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+          Each of the plans, programs, and agreements listed above, including any
+          individual awards under those plans, programs, or agreements that are currently
+          outstanding or that are granted in the future (all such plans, programs,
+          agreements, and individual awards are referred to collectively as the
+          &#147;Plans&#148;), shall be operated and administered in accordance with a
+          reasonable interpretation of section 409A of the Internal Revenue Code of 1986
+          (the &#147;Code&#148;) and section 885 of the American Jobs Creation Act of 2004
+          (the &#147;AJCA&#148;), including any regulations or other guidance of general
+          applicability interpreting Code section 409A or the AJCA, effective with respect
+          to amounts deferred after December 31, 2004. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Indent Lv 0- TNR" FSL="Workstation" -->
+     <P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+          To the extent that any provision of the Plans is inconsistent with the
+          restrictions imposed by Code section 409A or the AJCA (including, but not
+          limited to, restrictions on the timing of elections, the time or form of
+          distributions, the acceleration of benefits, or the events that will constitute
+          a substantial risk of forfeiture), that provision shall be deemed to be amended
+          to the extent necessary to bring it into compliance with Code section 409A and
+          the AJCA. Additional restrictions under the Plans are necessary to ensure that
+          the systems and procedures used to administer the Plans comply with Code section
+          409A. </FONT></P>
+
+
+
+<BR>
+
+
+
+<P ALIGN="Center"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>4</FONT>
+</P>
+
+
+<HR SIZE=5 COLOR=GRAY NOSHADE>
+
+<!-- MARKER PAGE="sheet: 1; page: 1" -->
+
+
+
+
+
+<!-- MARKER FORMAT-SHEET="Para (List) Indent Lv 0- TNR" FSL="Workstation" -->
+     <P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+          The primary purpose of this amendment is to protect participants in the Plans
+          against the substantial unanticipated tax liability that would result from the
+          Plans&#146; failure to comply with Code section 409A. Accordingly, to the extent
+          that an amendment to any Plan requires the consent of an individual participant,
+          each participant shall be deemed to have consented to the amendment unless the
+          participant provides written notice of his objection within a reasonable period
+          after being notified of the amendment. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Indent Lv 0- TNR" FSL="Workstation" -->
+     <P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+          This amendment shall not affect any amounts that are deferred before January 1,
+          2005, within the meaning of Code section 409A and the AJCA, and no change shall
+          be made in the administration of the Plans that would constitute a
+          &#147;material modification&#148; of the Plans with respect to such amounts.
+          Nothing in this amendment shall be construed to prevent Honeywell International
+          Inc. (the &#147;Corporation&#148;) from amending any Plan at a later date to
+          apply the restrictions set forth in Code section 409A to amounts deferred before
+          January 1, 2005, or to prevent the Corporation from amending any Plan in a
+          manner that constitutes a &#147;material modification&#148; of the Plan with
+          respect to such amounts. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Indent Lv 0- TNR" FSL="Workstation" -->
+     <P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+          Effective with respect to amounts deferred on or after January 1, 2005, if a
+          Plan calculates earnings on contributions to a participant&#146;s account by
+          reference to a stated interest rate, the Plan is amended to permit the
+          Corporation to change the interest rate (either up or down), even if the
+          underlying contribution was credited to the participant&#146;s account in a
+          prior year. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Indent Lv 0- TNR" FSL="Default" -->
+     <P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+          This amendment shall remain in effect until the Plans are further amended in an
+          instrument adopted or ratified by the Corporation to reflect the requirements of
+          Code section 409A and the AJCA, as interpreted in regulations or other guidance
+          issued by the Treasury Department or Internal Revenue Service. </FONT></P>
+
+
+
+<BR>
+
+
+
+<P ALIGN="Center"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>5</FONT>
+</P>
+
+
+<HR SIZE=5 COLOR=GRAY NOSHADE>
+
+
+
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

@@ -1,0 +1,886 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ NIuJEfS4K01uI+oyirIFD8tuDup/wnGsgb5uwvxvVm/GU8S3iYGRlsT7bvG4r+JS
+ TxXwMEECJCdhxXAHPgiSig==
+
+<SEC-DOCUMENT>0000914317-04-004557.txt : 20041227
+<SEC-HEADER>0000914317-04-004557.hdr.sgml : 20041224
+<ACCEPTANCE-DATETIME>20041227142231
+ACCESSION NUMBER:		0000914317-04-004557
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20041222
+ITEM INFORMATION:		Entry into a Material Definitive Agreement
+ITEM INFORMATION:		Departure of Directors or Principal Officers; Election of Directors; Appointment of Principal Officers
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20041227
+DATE AS OF CHANGE:		20041227
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			YDI WIRELESS INC
+		CENTRAL INDEX KEY:			0000712511
+		STANDARD INDUSTRIAL CLASSIFICATION:	RADIO & TV BROADCASTING & COMMUNICATIONS EQUIPMENT [3663]
+		IRS NUMBER:				042751645
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-29053
+		FILM NUMBER:		041226184
+
+	BUSINESS ADDRESS:	
+		STREET 1:		20 INDUSTRIAL DRIVE EAST
+		CITY:			SOUTH DEERFIELD
+		STATE:			MA
+		ZIP:			01373
+		BUSINESS PHONE:		4136658551
+
+	MAIL ADDRESS:	
+		STREET 1:		20 INDUSTRIAL DRIVE EAST
+		STREET 2:		INDUSTRIAL PARK
+		CITY:			SOUTH DEERFIELD
+		STATE:			MA
+		ZIP:			01373
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	TELAXIS COMMUNICATIONS CORP
+		DATE OF NAME CHANGE:	19991015
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	MILLITECH CORP
+		DATE OF NAME CHANGE:	19990913
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>form8k-64597_ydi.htm
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+     <!-- Created by EDGAR Ease Plus (EDGAR Ease+) -->
+</HEAD>
+
+<BODY><P align=center><FONT face="Times New Roman, Times, Serif" size=2>UNITED STATES </FONT><BR><FONT face="Times New Roman, Times, Serif" size=2>SECURITIES AND EXCHANGE COMMISSION </FONT><BR><FONT face="Times New Roman, Times, Serif" size=2>Washington, D.C. 20549 </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center-TNR" FSL="Project" -->
+<P align=center><FONT face="Times New Roman, Times, Serif" size=2>FORM 8-K </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center-TNR" FSL="Project" -->
+<P align=center><FONT face="Times New Roman, Times, Serif" size=2>CURRENT REPORT </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center-TNR" FSL="Project" -->
+<P align=center><FONT face="Times New Roman, Times, Serif" size=2>Pursuant to Section 13 or 15(d) of the </FONT><BR><FONT face="Times New Roman, Times, Serif" size=2>Securities Exchange Act of 1934 </FONT></P>
+
+<TABLE cellSpacing=0 cellPadding=0 width="100%">
+<TR vAlign=bottom>
+<TH align=left><FONT face="Times New Roman, Times, Serif" size=2></FONT></TH>
+<TH align=left><FONT face="Times New Roman, Times, Serif" size=2></FONT></TH></TR>
+<TR vAlign=top>
+<TD align=left width="27%"><FONT face="Times New Roman, Times, Serif" size=2>Date of Report (date of earliest event reported): </FONT></TD>
+<TD align=left width="73%"><FONT face="Times New Roman, Times, Serif" size=2>December 22, 2004 </FONT>
+<HR color=black SIZE=1>
+</TD></TR>
+</TABLE>
+
+<BR>
+<TABLE cellSpacing=0 cellPadding=0 width="100%">
+<TR vAlign=bottom>
+<TH align=center></TH></TR>
+<TR vAlign=top>
+<TD align=center width="100%"><FONT face="Times New Roman, Times, Serif" size=2>YDI WIRELESS, INC.</FONT>
+<HR color=black SIZE=1>
+<FONT face="Times New Roman, Times, Serif" size=2>(Exact name of registrant as specified in its charter) </FONT></TD></TR>
+</TABLE>
+
+<BR>
+<TABLE cellSpacing=0 cellPadding=0 width="100%">
+<TR vAlign=bottom>
+<TH align=center></TH>
+<TH align=center></TH>
+<TH align=center></TH></TR>
+<TR vAlign=top>
+<TD align=center width="40%"><FONT face="Times New Roman, Times, Serif" size=2>Delaware</FONT>
+<HR color=black SIZE=1>
+<FONT face="Times New Roman, Times, Serif" size=2>(State or other jurisdiction of<BR>incorporation) </FONT></TD>
+<TD align=center width="20%"><FONT face="Times New Roman, Times, Serif" size=2>000-29053</FONT>
+<HR color=black SIZE=1>
+<FONT face="Times New Roman, Times, Serif" size=2>(Commission file number) </FONT></TD>
+<TD align=center width="40%"><FONT face="Times New Roman, Times, Serif" size=2>04-2751645</FONT>
+<HR color=black SIZE=1>
+<FONT face="Times New Roman, Times, Serif" size=2>(IRS employer identification no.) </FONT></TD></TR>
+</TABLE>
+
+<BR>
+<TABLE cellSpacing=0 cellPadding=0 width="100%">
+<TR vAlign=bottom>
+<TH align=center></TH>
+<TH align=center></TH>
+<TH align=center></TH></TR>
+<TR vAlign=top>
+<TD align=center width="40%"><FONT face="Times New Roman, Times, Serif" size=2>8000 Lee Highway, Falls Church, VA</FONT>
+<HR color=black SIZE=1>
+<FONT face="Times New Roman, Times, Serif" size=2>(Address of principal executive offices) </FONT></TD>
+<TD align=center width="20%"><FONT face="Times New Roman, Times, Serif" size=2>&nbsp;</FONT>
+<HR color=black SIZE=1>
+<FONT face="Times New Roman, Times, Serif" size=2>&nbsp;</FONT></TD>
+<TD align=center width="40%"><FONT face="Times New Roman, Times, Serif" size=2>22042</FONT>
+<HR color=black SIZE=1>
+<FONT face="Times New Roman, Times, Serif" size=2>(Zip code) </FONT></TD></TR>
+</TABLE>
+
+<BR>
+<TABLE cellSpacing=0 cellPadding=0 width="100%">
+<TR vAlign=bottom>
+<TH align=left></TH>
+<TH align=left></TH></TR>
+<TR vAlign=top>
+<TD align=left width="30%"><FONT face="Times New Roman, Times, Serif" size=2>Registrant's telephone number, including area code: </FONT></TD>
+<TD align=left width="70%"><FONT face="Times New Roman, Times, Serif" size=2>(703) 205-0600 </FONT>
+<HR color=black SIZE=1>
+</TD></TR>
+</TABLE>
+
+<BR>
+<TABLE cellSpacing=0 cellPadding=0 width="100%">
+<TR vAlign=bottom>
+<TH align=center></TH></TR>
+<TR vAlign=top>
+<TD align=center width="100%"><FONT face="Times New Roman, Times, Serif" size=2>Not Applicable </FONT>
+<HR color=black SIZE=1>
+<FONT face="Times New Roman, Times, Serif" size=2>(Former name or former address, if changed since last report) </FONT></TD></TR>
+</TABLE>
+
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Default" -->
+
+<P><FONT size=2>Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below): </FONT></P>
+
+
+<P><FONT size=2><FONT face=WINGDINGS size=2>&#168;</FONT> &nbsp;&nbsp;Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) </FONT></P>
+
+
+<P><FONT size=2><FONT face=WINGDINGS size=2>&#168;</FONT> &nbsp;&nbsp; Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)</FONT></P>
+
+
+<P><FONT size=2><FONT face=WINGDINGS size=2>&#168;</FONT> &nbsp;&nbsp; Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) </FONT></P>
+
+
+<P><FONT size=2><FONT face=WINGDINGS size=2>&#168;</FONT> &nbsp;&nbsp; Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) </FONT></P>
+
+<P ALIGN=CENTER><FONT FACE="Times New Roman" size=2></FONT></P><HR SIZE=5 COLOR=GRAY STYLE="page-break-after:always">
+
+<P><FONT size=2>Item 1.01 <U>Entry into a Material Definitive Agreement.</U></FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Indent Lv 0-TNR" FSL="Project" -->
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 1-TNR" FSL="Project" -->
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0 BORDER=0>
+<TR VALIGN=TOP>
+<TD WIDTH=5%>&nbsp;</TD>
+<TD WIDTH=95%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>
+See
+the description under Item 5.02(c) below.  </FONT></TD>
+</TR>
+</TABLE>
+<BR>
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Project" -->
+
+<P><FONT size=2>Item 5.02 <U>Departure of Directors or Principal Officers; Election of Directors; Appointment of Principal Officers</U>. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Hang Lv 1-TNR" FSL="Project" -->
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0 BORDER=0>
+<TR VALIGN=TOP>
+<TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>(b) </FONT></TD>
+<TD WIDTH=90%><FONT FACE="Times New Roman, Times, Serif" SIZE=2><U>Director
+Resignation</U></FONT></TD>
+</TR>
+</TABLE>
+<BR>
+
+<!-- MARKER FORMAT-SHEET="Para Indent Lv 0-TNR" FSL="Project" -->
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 1-TNR" FSL="Project" -->
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0 BORDER=0>
+<TR VALIGN=TOP>
+<TD WIDTH=5%>&nbsp;</TD>
+<TD WIDTH=95%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>
+Effective
+December 23, 2004, Patrick L. Milton voluntarily resigned his position as a member of the
+board of directors of YDI Wireless, Inc.  </FONT></TD>
+</TR>
+</TABLE>
+<BR>
+
+<!-- MARKER FORMAT-SHEET="Para Hang Lv 1-TNR" FSL="Project" -->
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0 BORDER=0>
+<TR VALIGN=TOP>
+<TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>(c) </FONT></TD>
+<TD WIDTH=90%><FONT FACE="Times New Roman, Times, Serif" SIZE=2><U>Appointment
+of President and Chief Operating Officer</U></FONT></TD>
+</TR>
+</TABLE>
+<BR>
+
+<!-- MARKER FORMAT-SHEET="Para Indent Lv 0-TNR" FSL="Project" -->
+
+<P><FONT size=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On December 22, 2004, Thomas C. Bennett, age 56, signed an employment agreement with YDI Wireless, Inc. for Mr. Bennett to be President and Chief Operating Officer of YDI. From August 2002 to January 2004, Mr. Bennett was President of Texel Corporation, an installer of telecom infrastructure. From March 2000 to July 2001, Mr. Bennett was Executive Vice President and Chief Operating Officer of Lightrade, Inc., an installer and operator of large optical switching facilities for major city telecom hotels. From November 1998 to March 2000, Mr. Bennett was President and Chief Operating Officer of Maxlink Communications, Inc., a fixed wireless carrier. Before that, Mr. Bennett had worked for Advanced Radio Telecom for approximately two years and for GTE Government Systems Corporation for approximately thirteen years. Mr. Bennett served for approximately thirteen years in the U.S. Army Signal Corps. He has a B.S. in Engineering from the United
+States Military Academy at West Point, an M.S. in Operations Research and an M.S. in Industrial Engineering both from Stanford University, and an M.B.A. from Long Island University. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Indent Lv 0-TNR" FSL="Project" -->
+
+<P><FONT size=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The employment agreement establishes an at-will employment relationship. Mr. Bennett&#146;s annual base salary is set at $200,000 subject to future adjustment. In addition, Mr. Bennett is entitled to receive an annual performance bonus ranging from 0% to 50% of his base salary as determined by YDI&#146;s board of directors. Mr. Bennett is also entitled to participate in YDI&#146;s normal benefit programs. Upon a change of control, the agreement specifies that Mr. Bennett will receive continued salary for six months. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Indent Lv 0-TNR" FSL="Project" -->
+
+<P><FONT size=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The employment agreement contemplates Mr. Bennett being granted options to purchase 100,000 shares of YDI&#146;s common stock, vesting over three years. The agreement allows for full vesting of these options upon a change in control. The options have been granted by YDI with an exercise price of $2.56 per share &#150; the fair market value of YDI&#146;s common stock on the date of grant. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Indent Lv 0- TNR" FSL="Project" -->
+
+<P><FONT size=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mr.Bennett agreed not to compete with YDI during his employment. He agreed to treat YDI&#146;s non-public information confidentially and to return all of YDI&#146;s business information and other property to YDI in the event of his termination. Mr. Bennett also agreed to assign to YDI any inventions and intellectual property he develops during his employment. He also agreed that he will not, during his employment and for one year after termination of his employment, encourage any other company executive to terminate his or her employment with YDI or any other person engaged by YDI to represent it to terminate that relationship. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Indent Lv 0-TNR" FSL="Project" -->
+
+<P><FONT size=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The employment agreement contemplates YDI and Mr. Bennett entering into an executive employment agreement on the same general terms, subject to the approval of YDI&#146;s board of directors, by April 30, 2005. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Indent Lv 0-TNR" FSL="Project" -->
+
+<P><FONT size=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The foregoing description of the employment agreement does not purport to be complete and is qualified in its entirety by the terms and conditions of the employment agreement, a copy of which is filed as Exhibit 10.1 hereto and is incorporated by reference. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Indent Lv 0-TNR" FSL="Project" -->
+
+<P><FONT size=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;There is no family relationship between Mr. Bennett and any of YDI&#146;s directors or other executive officers. </FONT></P>
+
+<P ALIGN=CENTER><FONT FACE="Times New Roman" size=2>2</FONT></P><HR SIZE=5 COLOR=GRAY STYLE="page-break-after:always">
+
+<!-- MARKER FORMAT-SHEET="Head Left-TNR" FSL="Project" -->
+<P align=left><FONT size=2>Item 9.01<U> Financial Statements and Exhibits.</U> </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Hang LV 1-TNR" FSL="Project" -->
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0 BORDER=0>
+<TR VALIGN=TOP>
+<TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>(c)  </FONT></TD>
+<TD WIDTH=90%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Exhibits </FONT></TD>
+</TR>
+</TABLE>
+<BR>
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 1-TNR" FSL="Project" -->
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0 BORDER=0>
+<TR VALIGN=TOP>
+<TD WIDTH=5%>&nbsp;</TD>
+<TD WIDTH=95%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>
+See
+Exhibit Index. </FONT></TD>
+</TR>
+</TABLE>
+<BR>
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center-TNR" FSL="Project" -->
+<P align=center><FONT size=2>SIGNATURE </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Indent Lv 0-TNR" FSL="Default" -->
+
+<P><FONT size=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. </FONT></P>
+
+<TABLE cellSpacing=0 cellPadding=0 width="100%">
+<TR vAlign=bottom>
+<TH align=left></TH>
+<TH align=left></TH></TR>
+<TR vAlign=top>
+<TD align=left width="50%"><FONT size=2><BR><BR>Dated:&nbsp; December 27, 2004 <BR></FONT></TD>
+<TD align=left width="50%"><FONT size=2>YDI WIRELESS, INC. <BR><BR>By: <U>/s/ David L. Renauld </U><BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;David L. Renauld<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vice President </FONT></TD></TR>
+</TABLE>
+
+<BR>
+
+
+
+ <P ALIGN="Center"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">EXHIBIT INDEX </FONT> </P>
+
+
+
+
+<TABLE WIDTH="90%" CELLPADDING="0" CELLSPACING="0" ALIGN="CENTER">
+<TR VALIGN="BOTTOM">
+     <TH></TH>
+     <TH></TH></TR>
+<TR VALIGN="TOP">
+     <TD WIDTH="10%"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><U>Number</U><BR><BR>
+10.1
+</FONT></TD>
+     <TD WIDTH="90%"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<U>Title</U><BR><BR>
+<A HREF="exhibit10-1.htm#ex10-1">Employment Agreement between YDI Wireless, Inc. and Thomas Bennett dated December 13, 2004</A>
+</FONT></TD></TR>
+<TR VALIGN="TOP">
+     <TD><FONT FACE="Times New Roman, Times, Serif" SIZE="2"></FONT></TD>
+     <TD><FONT FACE="Times New Roman, Times, Serif" SIZE="2"></FONT></TD></TR>
+</TABLE>
+
+<P ALIGN=CENTER><FONT FACE="Times New Roman" size=2></FONT></P><HR SIZE=5 COLOR=GRAY>
+
+
+
+</BODY>
+
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.1
+<SEQUENCE>2
+<FILENAME>exhibit10-1.htm
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY>
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold 1-TNR" FSL="Project" -->
+<H1 ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=3>Employment Agreement </FONT><BR>
+<FONT FACE="Times New Roman, Times, Serif" SIZE=2>For <BR>
+Mr. Thomas Bennett<BR>
+December 13, 2004</FONT></H1>
+
+
+<!-- MARKER FORMAT-SHEET="Head Left-TNR" FSL="Project" -->
+<P ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>December 13, 2004 </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Left-TNR" FSL="Project" -->
+<P ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Mr. Thomas Bennett <BR>Seneca
+933 Road <BR>Great Falls, VA 22066 </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center-TNR" FSL="Project" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Dear Mr. Bennett: </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Indent Lv 0-TNR" FSL="Project" -->
+<P ALIGN=left><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On
+behalf of Terabeam Wireless (the &#147;Company&#148;), and subject to Board of Director
+approval, I am pleased to offer you (the &#147;Executive&#148;) a position of increased
+scope and responsibility, as the Company&#146;s President and Chief Operating Officer (the
+&#147;Offered Position&#148;). In this position, you will report directly to me, the Chief
+Executive Officer. After you have had the opportunity to review and consider this offer,
+please indicate your intentions by responding in writing as indicated below as soon as
+possible, but not later than December 15, 2004. Please be advised that the Company
+reserves its right to withdrawn this offer prior to your acceptance, without prior notice. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Left-TNR" FSL="Project" -->
+<P ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Offer Summary: </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Hang Lv 0-TNR" FSL="Project" -->
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0 BORDER=0>
+<TR VALIGN=TOP>
+<TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1)  </FONT></TD>
+<TD WIDTH=95%><FONT FACE="Times New Roman, Times, Serif" SIZE=2><U>Duties:</U> Subject
+to the ultimate control and discretion of the Chief Executive Officer of
+the Company, the Executive shall serve in the Offered Position and perform
+all duties and services commensurate with that Offered Position. Examples
+of, but not a complete list of, the type of duties to be performed by the
+Executive follow; </FONT></TD>
+</TR>
+</TABLE>
+<BR>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Hang LV 1-TNR" FSL="Project" -->
+          <TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0 BORDER=0>
+               <TR VALIGN=TOP>
+               <TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+               <TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>a) </FONT></TD>
+               <TD WIDTH=90%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>
+               attain Company revenue and profit objectives by: i) the direct supervision of
+               sales and marketing departments and their respective in-charge personnel, as
+               well as direct customer and industry interaction; ii) the development and
+               execution of an effective global distribution strategy; iii) the identification,
+               articulation, business case analysis of new customer, product, service and
+               market opportunities; iv) product life cycle management; v) the creation,
+               increased awareness and customer loyalty to, the Company&#146;s
+               &#147;Brand(s)&quot;; and vi) product pricing to ensure maximum profitability
+               and target market penetration levels. </FONT></TD>
+               </TR>
+               </TABLE>
+<!-- MARKER FORMAT-SHEET="Para (List) Hang LV 1-TNR" FSL="Project" -->
+          <TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0 BORDER=0>
+               <TR VALIGN=TOP>
+               <TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+               <TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>b) </FONT></TD>
+               <TD WIDTH=90%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>
+               assist in the negotiate sales contracts, distributor agreements and recommend
+               OEM supplier agreements for new products and services, and </FONT></TD>
+               </TR>
+               </TABLE>
+
+
+<!-- MARKER FORMAT-SHEET="Para (List) Hang LV 1-TNR" FSL="Project" -->
+          <TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0 BORDER=0>
+               <TR VALIGN=TOP>
+               <TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+               <TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>c) </FONT></TD>
+               <TD WIDTH=90%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>
+               develop Company strategy regarding meeting customer requirements, based on
+               competitive and market analysis, and </FONT></TD>
+               </TR>
+               </TABLE>
+
+
+<!-- MARKER FORMAT-SHEET="Para (List) Hang LV 1-TNR" FSL="Project" -->
+          <TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0 BORDER=0>
+               <TR VALIGN=TOP>
+               <TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+               <TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>d) <BR>e)<BR>f)<BR>g)<BR> h) <BR>i)</FONT></TD>
+               <TD WIDTH=90%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>
+               coordinate the periodic preparation of the Company&#146;s business and operating
+               plans, and <BR> create, maintain and project a positive Company image to the
+               public and <BR>create and maintain positive relations with investors, and <BR>
+               identify strategic business relationships that will enhance the Company&#146;s
+               performance, and<BR> improve the effectiveness of the Company&#146;s engineering,
+               manufacturing, production, quality departmentsand
+improve their them both organizationally and with better communications and morale; and <BR>
+any other related duties that may be assigned by the CEO from time to time.</FONT></TD>
+               </TR>
+               </TABLE>
+               <BR>
+
+
+<!-- MARKER FORMAT-SHEET="Para Hang Lv 0-TNR" FSL="Project" -->
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0 BORDER=0>
+<TR VALIGN=TOP>
+<TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>2)  </FONT></TD>
+<TD WIDTH=95%><FONT FACE="Times New Roman, Times, Serif" SIZE=2><U>Reporting
+Location</U>: The Executive&#146;s reporting location shall be at Company
+provided facilities located at 8000 Lee Highway, Falls Church, VA 22042
+(the &#147;Reporting Location&#148;). Please be advised that since the
+geographic scope of the Offered Position is global in nature, significant
+travel will be required. </FONT></TD>
+</TR>
+</TABLE>
+<BR>
+
+<P ALIGN=CENTER><FONT FACE="Times New Roman" size=2></FONT></P><HR SIZE=5 COLOR=GRAY STYLE="page-break-after:always">
+
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE="1"><U>Offer letter-Thomas Bennett (cont.)</U> </FONT> </P>
+
+<!-- MARKER FORMAT-SHEET="Para Hang Lv 0-TNR" FSL="Project" -->
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0 BORDER=0>
+<TR VALIGN=TOP>
+<TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>3)  </FONT></TD>
+<TD WIDTH=95%><FONT FACE="Times New Roman, Times, Serif" SIZE=2><U>Compensation:
+</U>For all considerations and services to be rendered by the Executive
+hereunder: </FONT></TD>
+</TR>
+</TABLE>
+<BR>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Hang LV 1-TNR" FSL="Project" -->
+          <TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0 BORDER=0>
+               <TR VALIGN=TOP>
+               <TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+               <TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>a) </FONT></TD>
+               <TD WIDTH=90%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>
+               <U>Base Salary</U>: The Company shall pay the Executive an initial base salary
+               that shall be calculated at the rate of $200,000 (Two Hundred thousand dollars),
+               effective December 13, 2004, per year, payable in accordance with the
+               company&#146;s normal payroll practices. This initial base salary may be
+               adjusted from time to time based on actual performance measured against
+               personal, team and Company goals, consistent with Company policy, and treatment
+               of other Company executives. </FONT></TD>
+               </TR>
+               </TABLE>
+
+
+<!-- MARKER FORMAT-SHEET="Para (List) Hang LV 1-TNR" FSL="Project" -->
+          <TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0 BORDER=0>
+               <TR VALIGN=TOP>
+               <TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+               <TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>b) </FONT></TD>
+               <TD WIDTH=90%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>
+               <U>Additional Compensation Eligibility</U>: The Executive shall be eligible to
+               receive additional compensation that will be comprised of an annual performance
+               bonus ranging from 0% to 50% of your base salary. Any such bonus payout, if any,
+               is at the sole discretion of the Company and requires Board of Director
+               Approval. </FONT></TD>
+               </TR>
+               </TABLE>
+
+
+<!-- MARKER FORMAT-SHEET="Para (List) Hang LV 1-TNR" FSL="Project" -->
+          <TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0 BORDER=0>
+               <TR VALIGN=TOP>
+               <TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+               <TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>c) </FONT></TD>
+               <TD WIDTH=90%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>
+               <U>Equity Participation</U>: Subject to approval of the Board of Directors of
+               the Company, the Executive shall be granted options under a Stock Option Plan of
+               the Company to purchase One Hundred Thousand (100,000) shares of common stock of
+               the Company, vesting over a three-year period, at an exercise price equal to the
+               actual market price of the Company&#146;s stock on the Nasdaq OTCBB on the day
+               of the actual grant. There will also be a change in control clause that will
+               allow for full vesting of these options and a continued salary for up to six (6)
+               months upon the change in control. </FONT></TD>
+               </TR>
+               </TABLE>
+
+
+<!-- MARKER FORMAT-SHEET="Para (List) Hang LV 1-TNR" FSL="Project" -->
+          <TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0 BORDER=0>
+               <TR VALIGN=TOP>
+               <TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+               <TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>d) </FONT></TD>
+               <TD WIDTH=90%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>
+               <U>Benefits:</U> Upon employment, the Executive shall (a) be eligible to
+               participate in the Company&#146;s group health and dental insurance, disability
+               insurance, life insurance, 401k Pension Plan, and other Company-wide benefits;
+               (b) begin to accumulate fifteen (15) business days of paid vacation per year;
+               (c) be paid for a reasonable number of sick days per year as defined in the
+               Company&#146;s Employee Handbook; (d) be entitled to the Company&#146;s Nine (9)
+               scheduled paid holidays plus a revenue recognition day, if applicable; and (e)
+               participate in such other benefits that may become available to all employees of
+               the Company in the future.<U></U> </FONT></TD>
+               </TR>
+               </TABLE>
+
+
+<!-- MARKER FORMAT-SHEET="Para (List) Hang LV 1-TNR" FSL="Project" -->
+          <TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0 BORDER=0>
+               <TR VALIGN=TOP>
+               <TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+               <TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>e) </FONT></TD>
+               <TD WIDTH=90%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>
+               <U>Business Expenses</U>: The Company shall promptly reimburse the Executive for
+               all reasonable and customary expenses incurred by the Executive in connection
+               with the performance of the Executive&#146;s duties and responsibilities, that
+               are consistent with Company travel and expense policy and upon presentation of
+               completed expense reports with supporting receipts and/or other appropriate
+               documentation. </FONT></TD>
+               </TR>
+               </TABLE>
+               <BR>
+
+<!-- MARKER FORMAT-SHEET="Para Hang Lv 0-TNR" FSL="Project" -->
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0 BORDER=0>
+<TR VALIGN=TOP>
+<TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>4)  </FONT></TD>
+<TD WIDTH=95%><FONT FACE="Times New Roman, Times, Serif" SIZE=2><U>Non-Competition:</U> In
+consideration of continued employment by the Company and the Executive&#146;s
+receipt of the salary and other benefits associated with the Executive&#146;s
+employment, and in acknowledgment that (i) the Company is engaged in a
+business based upon the development and distribution of wireless
+communication technology, (ii) maintains secret and confidential
+information, (iii) during the course of the Executive&#146;s employment by
+the Company such secret or confidential information may become known to
+the Executive, and (iv) full protection of the Company&#146;s business
+makes it essential that no employee appropriate for his or her own use, or
+disclose such secret or confidential information, the Executive agrees to
+the following: </FONT></TD>
+</TR>
+</TABLE>
+<BR>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Hang LV 1-TNR" FSL="Project" -->
+          <TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0 BORDER=0>
+               <TR VALIGN=TOP>
+               <TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+               <TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>a) </FONT></TD>
+               <TD WIDTH=90%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>
+               The Executive shall not use or disclose at any time during the Executive&#146;s
+               employment with the Company, or at any time thereafter, any trade secret or
+               proprietary or confidential information of the Company or any of its affiliates. </FONT></TD>
+               </TR>
+               </TABLE>
+
+
+<!-- MARKER FORMAT-SHEET="Para (List) Hang LV 1-TNR" FSL="Project" -->
+          <TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0 BORDER=0>
+               <TR VALIGN=TOP>
+               <TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+               <TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>b) </FONT></TD>
+               <TD WIDTH=90%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>
+               During the Executive&#146;s employment with the Company the Executive shall not
+               be engaged as an officer, director or executive of, or in any way be associated
+               in a management or ownership capacity with, any corporation, partnership or
+               other enterprise or venture which conducts a business which is in competition
+               with the business of the Company provided, however, that the Executive may own
+               not more than 3% of the outstanding securities, or equivalent equity interests,
+               of any class of any corporation or firm which is in competition with the
+               business of the Company, which securities are listed on a national securities
+               exchange or traded in the over-the-counter market. </FONT></TD>
+               </TR>
+               </TABLE>
+               <BR>
+
+
+
+<TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0">
+<TR VALIGN="BOTTOM">
+     <TH></TH></TR>
+<TR VALIGN="TOP">
+     <TD WIDTH="100%" ALIGN="Center"><HR SIZE="1" COLOR="Black">
+<FONT FACE="Times New Roman, Times, Serif" SIZE="1">Pg. 2 of 5</FONT></TD></TR>
+</TABLE>
+
+
+
+<P ALIGN=CENTER><FONT FACE="Times New Roman" size=1></FONT></P><HR SIZE=5 COLOR=GRAY STYLE="page-break-after:always">
+
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE="1"><U>Offer letter-Thomas Bennett (cont.)</U> </FONT> </P>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Hang LV 1-TNR" FSL="Project" -->
+          <TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0 BORDER=0>
+               <TR VALIGN=TOP>
+               <TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+               <TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>c) </FONT></TD>
+               <TD WIDTH=90%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>
+               The Executive agrees that during his employment to promptly disclose and assign
+               to the Company the Executive&#146;s entire right, title and interest in any and
+               all inventions and copyrights (including intellectual properties) solely or
+               jointly conceived and/or reduced to practice by the Executive during the term of
+               his employment relating to the current or projected business of the Company. The
+               Executive agrees that all of such inventions and copyrights are the property of
+               said Company. </FONT></TD>
+               </TR>
+               </TABLE>
+
+
+<!-- MARKER FORMAT-SHEET="Para (List) Hang LV 1-TNR" FSL="Project" -->
+          <TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0 BORDER=0>
+               <TR VALIGN=TOP>
+               <TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+               <TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>d) </FONT></TD>
+               <TD WIDTH=90%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>
+               The Executive agrees to receive confidential, proprietary and other information
+               of the Company in confidence, and not, directly or indirectly, during the term
+               of is employment or any time after his employment is terminated for any reason
+               to disclose or furnish to others, assist others in the application of or use for
+               the Executive&#146;s own gain, such information, including, but not limited to,
+               the Company&#146;s customer lists and trade secrets, methods of conducting or
+               obtaining business, the manner or process of manufacture, and the design and
+               drawings of its products, or any part thereof, unless and until it has become
+               public knowledge, or has come into the possession of such or others by legal and
+               equitable means. Furthermore, whether or not such information comprises
+               proprietary information, trade secrets, or confidential information, the
+               Executive also agrees not to disclose, furnish to others, assist others in the
+               application of, or use for the Executive s own gain, either any information
+               within the categories of information herein above specifically listed, including
+               the identity of any customers of the Company, or any other information relating
+               to the Company s business not made available by the Company to the public or in
+               the public domain. </FONT></TD>
+               </TR>
+               </TABLE>
+
+
+<!-- MARKER FORMAT-SHEET="Para (List) Hang LV 1-TNR" FSL="Project" -->
+          <TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0 BORDER=0>
+               <TR VALIGN=TOP>
+               <TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+               <TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>e) </FONT></TD>
+               <TD WIDTH=90%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>
+               To assist in carrying out the intent of subparagraph (d) above, the Executive,
+               during the term of his employment, agrees to refrain from engaging on his own
+               behalf or on behalf of any third party in the design, manufacture, or sale of
+               electronic equipment, accessories and components thereof, or to perform services
+               or research work in this field of activity. </FONT></TD>
+               </TR>
+               </TABLE>
+               <BR>
+
+<!-- MARKER FORMAT-SHEET="Para Hang Lv 0-TNR" FSL="Project" -->
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0 BORDER=0>
+<TR VALIGN=TOP>
+<TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>5)  </FONT></TD>
+<TD WIDTH=95%><FONT FACE="Times New Roman, Times, Serif" SIZE=2><U>Termination:</U></FONT></TD>
+</TR>
+</TABLE>
+<BR>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Hang LV 1-TNR" FSL="Project" -->
+          <TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0 BORDER=0>
+               <TR VALIGN=TOP>
+               <TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+               <TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>a) </FONT></TD>
+               <TD WIDTH=90%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>
+               The Executive acknowledge and agrees that, notwithstanding the foregoing, the
+               Executive&#146;s employment with the Company is &#147;at will&#148;, meaning
+               that the Company may terminate the Executive&#146;s employment with the Company
+               at any time, with or without Cause. As used herein, &#147;Cause&#148; means the
+               Executive&#146;s commission of a felony, gross dereliction or abdication of
+               duties, repeated refusal to perform duties assigned to the Executive by
+               management that are consistent with the Executive&#146;s titles, or the
+               Executive&#146;s intentional acts that cause material harm to the Company. </FONT></TD>
+               </TR>
+               </TABLE>
+               <BR>
+
+<!-- MARKER FORMAT-SHEET="Para Hang Lv 0-TNR" FSL="Project" -->
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0 BORDER=0>
+<TR VALIGN=TOP>
+<TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>6)  </FONT></TD>
+<TD WIDTH=95%><FONT FACE="Times New Roman, Times, Serif" SIZE=2><U>Definitive
+Employment Agreement and Board Position</U>: </FONT></TD>
+</TR>
+</TABLE>
+<BR>
+
+<!-- MARKER FORMAT-SHEET="Para Indent Lv 1-TNR" FSL="Project" -->
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0 BORDER=0>
+<TR VALIGN=TOP>
+<TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH=95%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;By
+April 30, 2005, the Company will enter into an Executive Employment Agreement with you
+having these same general terms and must be approved by the Board of Directors.  </FONT>
+</TD>
+</TR>
+</TABLE>
+<BR>
+
+<!-- MARKER FORMAT-SHEET="Para Hang Lv 0-TNR" FSL="Project" -->
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0 BORDER=0>
+<TR VALIGN=TOP>
+<TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>7)  </FONT></TD>
+<TD WIDTH=95%><FONT FACE="Times New Roman, Times, Serif" SIZE=2><U>Other
+Provisions</U>: </FONT></TD>
+</TR>
+</TABLE>
+<BR>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Hang LV 1-TNR" FSL="Project" -->
+          <TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0 BORDER=0>
+               <TR VALIGN=TOP>
+               <TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+               <TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>a) </FONT></TD>
+               <TD WIDTH=90%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>
+               The Executive agrees to deliver to the Company, upon termination of his
+               employment, all property and documents of the Company and all data relating to
+               the Company s business then in his custody and not take with him any drawings,
+               documents, or reproductions of confidential or trade secret information or of
+               any other information of any kind not made available to the public by the
+               Company. </FONT></TD>
+               </TR>
+               </TABLE>
+               <BR>
+
+
+
+<TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0">
+<TR VALIGN="BOTTOM">
+     <TH></TH></TR>
+<TR VALIGN="TOP">
+     <TD WIDTH="100%" ALIGN="Center"><HR SIZE="1" COLOR="Black">
+<FONT FACE="Times New Roman, Times, Serif" SIZE="1">Pg. 3 of 5</FONT></TD></TR>
+</TABLE>
+
+<P ALIGN=CENTER><FONT FACE="Times New Roman" size=2></FONT></P><HR SIZE=5 COLOR=GRAY STYLE="page-break-after:always">
+
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE="1"><U>Offer letter-Thomas Bennett (cont.)</U> </FONT> </P>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Hang LV 1-TNR" FSL="Project" -->
+          <TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0 BORDER=0>
+               <TR VALIGN=TOP>
+               <TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+               <TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>b) </FONT></TD>
+               <TD WIDTH=90%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>
+               The Executive also agrees that the Company may use for any purpose, at any time
+               during his employment or after such employment, all photographs of the Executive
+               taken during the term of his employment. </FONT></TD>
+               </TR>
+               </TABLE>
+
+
+<!-- MARKER FORMAT-SHEET="Para (List) Hang LV 1-TNR" FSL="Project" -->
+          <TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0 BORDER=0>
+               <TR VALIGN=TOP>
+               <TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+               <TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>c) </FONT></TD>
+               <TD WIDTH=90%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>
+               The Executive also agrees that he will not, directly or indirectly, during the
+               term of his employment or within one year after termination of his employment
+               for any reason, in any manner, encourage, persuade, or induce any other
+               Executive of the Company to terminate his employment, or any person or entity
+               engaged by the Company to represent it to terminate that relationship. </FONT></TD>
+               </TR>
+               </TABLE>
+
+
+<!-- MARKER FORMAT-SHEET="Para (List) Hang LV 1-TNR" FSL="Project" -->
+          <TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0 BORDER=0>
+               <TR VALIGN=TOP>
+               <TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+               <TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>d) </FONT></TD>
+               <TD WIDTH=90%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>
+               The Executive also agrees to, and acknowledges that he has been informed that
+               the Company reserves its right to require the Executive to submit to, and pass a
+               drug-screening test as a condition of this employment offer. </FONT></TD>
+               </TR>
+               </TABLE>
+               <BR>
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Default" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Please indicate your acceptance of
+this offer by signing below and returning this original to Mr. Patrick Milton. If you have
+any questions regarding this offer, please feel free to contact me directly by phone at
+(703) 205-0600 or e-mail at RF@ydi.com. </FONT></P>
+
+
+
+
+
+
+
+
+
+
+
+
+<TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0">
+<TR VALIGN="BOTTOM">
+     <TH></TH>
+     <TH></TH></TR>
+<TR VALIGN="TOP">
+     <TD WIDTH="50%"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">Very Truly Yours,<BR>
+<BR>
+<BR>
+<BR>
+<U>/s/ Robert Fitzgerald</U><BR>
+Robert Fitzgerald <BR>
+CEO<BR>&nbsp; </FONT>
+</TD>
+     <TD WIDTH="50%"> <FONT FACE="Times New Roman, Times, Serif" SIZE="2">ACCEPTED AND AGREED:<BR>
+<BR>
+<BR>
+By: <U>/s/ Thomas C. Bennett</U><BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Thomas Bennett<BR>
+<BR>
+Date: <U>December 22, 2004</U> </FONT>
+</TD></TR>
+</TABLE>
+
+
+<TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0">
+<TR VALIGN="BOTTOM">
+     <TH></TH></TR>
+<TR VALIGN="TOP">
+     <TD WIDTH="100%" ALIGN="Center"><HR SIZE="1" COLOR="Black">
+<FONT FACE="Times New Roman, Times, Serif" SIZE="1">Pg. 4 of 5</FONT></TD></TR>
+</TABLE>
+
+
+
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

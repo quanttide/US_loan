@@ -1,0 +1,1883 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ DorPSYWMXOclNkZgh7RSGI/QrQlQjjeb7NYTNk9VgBCGcZrj3O7JnP5Wm2g2Hbdw
+ kn5KhITOd/5YCkkF9ZkJxw==
+
+<SEC-DOCUMENT>0001125282-04-006475.txt : 20041223
+<SEC-HEADER>0001125282-04-006475.hdr.sgml : 20041223
+<ACCEPTANCE-DATETIME>20041223170957
+ACCESSION NUMBER:		0001125282-04-006475
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20041215
+ITEM INFORMATION:		Other Events
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20041223
+DATE AS OF CHANGE:		20041223
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CHASE CREDIT CARD MASTER TRUST
+		CENTRAL INDEX KEY:			0001004988
+		STANDARD INDUSTRIAL CLASSIFICATION:	ASSET-BACKED SECURITIES [6189]
+		IRS NUMBER:				222382028
+		STATE OF INCORPORATION:			NY
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-28338-03
+		FILM NUMBER:		041224870
+
+	BUSINESS ADDRESS:	
+		STREET 1:		802 DELAWARE AVENUE
+		CITY:			WILMINGTON
+		STATE:			DE
+		ZIP:			19801
+		BUSINESS PHONE:		3025755050
+
+	MAIL ADDRESS:	
+		STREET 1:		270 PARK AVENUE
+		STREET 2:		40TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10017
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CHEMICAL MASTER CREDIT CARD TRUST I
+		DATE OF NAME CHANGE:	19951219
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CHASE MANHATTAN BANK USA
+		CENTRAL INDEX KEY:			0000869090
+		STANDARD INDUSTRIAL CLASSIFICATION:	ASSET-BACKED SECURITIES [6189]
+		IRS NUMBER:				222382028
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-19191
+		FILM NUMBER:		041224871
+
+	BUSINESS ADDRESS:	
+		STREET 1:		802 DELAWARE AVE
+		STREET 2:		13TH FLOOR
+		CITY:			WILMINGTON
+		STATE:			DE
+		ZIP:			19801
+		BUSINESS PHONE:		3025755033
+
+	MAIL ADDRESS:	
+		STREET 1:		802 DELAWARE AVE 13TH FL
+		CITY:			WILMINGTON
+		STATE:			DE
+		ZIP:			19801
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>b402965_8k.txt
+<DESCRIPTION>CURRENT REPORT
+<TEXT>
+<PAGE>
+
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                    FORM 8-K
+
+                                 CURRENT REPORT
+     Pursuant to Section 13 OR 15(d) of The Securities Exchange Act of 1934
+
+
+Date of Report (Date of earliest event reported):     December 15, 2004
+
+                         CHASE CREDIT CARD MASTER TRUST
+       Series 2000-1, Series 2000-3, Series 2001-1, Series 2001-2, Series
+       2001-4, Series 2001-6, Series 2002-1, Series 2002-2, Series 2002-3,
+       Series 2002-4, Series 2002-5, Series 2002-6, Series 2002-7, Series
+       2002-8, Series 2003-1, Series 2003-2, Series 2003-3, Series 2003-4,
+          Series 2003-5, Series 2003-6, Series 2004-1 and Series 2004-2
+                             (Issuer of Securities)
+
+                 CHASE MANHATTAN BANK USA, NATIONAL ASSOCIATION
+                             (Sponsor of the Trust)
+
+- --------------------------------------------------------------------------------
+             (Exact name of registrant as specified in its charter)
+
+                                    333-74303
+                                    333-68236
+                                    333-83484
+                                    333-84400
+United States                       333-103210           22-2382028
+- ----------------------------        ------------         ----------
+(State or other jurisdiction        (Commission          (IRS Employer
+of incorporation)                   File Number)         Identification No.)
+
+
+White Clay Center, Building 200, Newark, DE          19711
+- ------------------------------------------------------------------------
+(Address of principal executive offices)             (Zip Code)
+
+Registrant's telephone number, including area code:  (302) 575-5000
+
+- --------------------------------------------------------------
+(Former name or former address, if changed since last report.)
+
+Check the appropriate box below if the Form 8-K filing is intended to
+simultaneously satisfy the filing obligation of the registrant under any of the
+following provisions (see General Instruction A.2. below):
+
+[  ] Written communications pursuant to Rule 425 under the Securities Act
+     (17 CFR 230.425)
+
+[  ] Soliciting material pursuant to Rule 14a-12 under the Exchange Act
+     (17 CFR 240.14a-12)
+
+[  ] Pre-commencement communications pursuant to Rule 14d-2(b) under the
+     Exchange Act (17 CFR 240.14d-2(b))
+
+[  ] Pre-commencement communications pursuant to Rule 13e-4(c) under the
+     Exchange Act (17 CFR 240.13e-4(c))
+
+
+<PAGE>
+
+
+
+
+SECTION 8 - OTHER EVENTS
+
+Item 8.01 Other Events.
+
+Chase Credit Card Master Trust, which was formerly known as Chemical Master
+Credit Card Trust I, is the issuer of a number of outstanding series of asset
+backed certificates. The asset backed certificates are serviced in accordance
+with the Third Amended and Restated Pooling and Servicing Agreement, dated as of
+December 17, 1999, as amended. The parties to the Pooling and Servicing
+Agreement, as amended, are JPMorgan Chase Bank (f/k/a The Chase Manhattan Bank),
+as transferor prior to June 1, 1996, Chase Manhattan Bank USA, National
+Association ("Chase USA"), as transferor after June 1, 1996, and as servicer and
+The Bank of New York, as trustee.
+
+
+On or about December 15, 2004, Chase USA, as servicer, distributed monthly
+payments to the holders of the Series 1999-3, Series 2000-1, Series 2000-3,
+Series 2001-1, Series 2001-2, Series 2001-4, Series 2001-6, Series 2002-1,
+Series 2002-2, Series 2002-3, Series 2002-4, Series 2002-5, Series 2002-6,
+Series 2002-7, Series 2002-8, Series 2003-1, Series 2003-2, Series 2003-3,
+Series 2003-4, Series 2003-5, Series 2003-6, Series 2004-1 and Series 2004-2
+certificates. Chase USA furnished copies of monthly certificateholders' reports
+for each of those series as required by the Pooling and Servicing Agreement.
+Copies of those monthly certificateholders' reports are being filed as an
+exhibit to this current report on Form 8-K.
+
+
+
+SECTION 9 - FINANCIAL STATEMENTS AND EXHIBITS
+
+Item 9.01 Financial Statements and Exhibits.
+
+(c) Exhibits.
+
+Exhibit No.      Description
+- -----------      -----------
+
+     99.1        Monthly Reports with respect to the December 15, 2004
+                 distribution.
+
+
+
+
+<PAGE>
+
+
+
+                                   SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the
+registrant has duly caused this report to be signed on its behalf by the
+undersigned hereunto duly authorized.
+
+
+                                      CHASE MANHATTAN BANK USA,
+                                      NATIONAL ASSOCIATION, as Servicer
+
+
+                                      By: /s/ Patricia M. Garvey
+                                          --------------------------
+                                      Name: Patricia M. Garvey
+                                      Title:  Vice President
+                                      Date: December 16, 2004
+
+
+
+
+<PAGE>
+
+
+
+
+
+                                INDEX TO EXHIBITS
+                                -----------------
+
+Exhibit No.         Description
+- -----------         -----------
+
+      99.1          Monthly Reports with respect to the distribution to
+                    certificateholders on December 15, 2004.
+
+
+
+
+
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>b402965ex99_1.txt
+<DESCRIPTION>MONTHLY CERTIFICATEHOLDER'S STATEMENT
+<TEXT>
+<PAGE>
+                                                                    Exhibit 99.1
+
+                         Chase Manhattan Bank USA, N.A.
+                      Monthly Certificateholder's Statement
+
+                         Chase Credit Card Master Trust
+                                  Series 2000-1
+
+<TABLE>
+<CAPTION>
+                                                                                            Distribution Date: 12/15/2004
+                                                                                            Period Type: Revolving
+Section 5.2 - Supplement                                                                                        Total
+- -------------------------------------------------------------------------------------------------------------------------
+
+<S>                                                          <C>                                     <C>
+(i)    Monthly Principal Distributed                                 0.00                                             0.00
+
+(ii)   Monthly Interest Distributed
+       Class A Note Interest Requirement                     1,412,500.00
+       Class B Note Interest Requirement                       127,083.33
+       Net Class C Note Interest Requirement                   175,737.65                                     1,715,320.98
+
+(iii)  Collections of Principal Receivables                                                                 133,561,209.47
+
+(iv)   Collections of Finance Charge Receivables                                                             11,405,667.22
+
+(v)    Aggregate Amount of Principal Receivables                                                         34,106,298,952.71
+
+                         Investor Interest                                                                  892,857,000.00
+                         Adjusted Interest                                                                  892,857,000.00
+
+
+       Floating Investor Percentage                                                                                  2.62%
+       Fixed Investor Percentage                                                                                     2.62%
+
+(vi)   Receivables Delinquent (As % of Total Receivables)
+               Current                                                                                              95.37%
+               30 to 59 days                                                                                         1.48%
+               60 to 89 days                                                                                         0.97%
+               90 or more days                                                                                       2.18%
+                                                                                                        -------------------
+                         Total Receivables                                                                         100.00%
+
+(vii)  Investor Default Amount                                                                               4,823,839.89
+
+(viii) Investor Charge-Offs                                                                                          0.00
+
+(ix)   Reimbursed Investor Charge-Offs                                                                               0.00
+
+(x)    Net Servicing Fee                                                                                       744,047.50
+
+(xi)   Portfolio Yield (Net of Defaulted Receivables)                                                                9.11%
+
+(xii)  Reallocated Monthly Principal                                                                                 0.00
+
+(xiii) Accumulation Shortfall                                                                                        0.00
+
+(xiv)  Principal Funding Investment Proceeds                                                                         0.00
+
+(xv)   Principal Funding Investment Shortfall                                                                        0.00
+
+(xvi)  Available Investor Finance Charge Collections                                                         10,666,701.37
+
+(xxii) Note Rate      Class A      2.26000%
+                      Class B      2.44000%
+                      Class C      2.82000%
+</TABLE>
+
+
+       By:
+               ----------------------------------------
+       Name:   Patricia M. Garvey
+       Title:  Vice President
+
+<PAGE>
+
+                         Chase Manhattan Bank USA, N.A.
+                      Monthly Certificateholder's Statement
+
+                         Chase Credit Card Master Trust
+                                  Series 2000-3
+<TABLE>
+<CAPTION>
+                                                                                            Distribution Date: 12/15/2004
+                                                                                            Period Type: Revolving
+Section 5.2 - Supplement                                                                                        Total
+- -------------------------------------------------------------------------------------------------------------------------
+
+<S>                                                          <C>                                     <C>
+(i)    Monthly Principal Distributed                               0.00                                               0.00
+
+(ii)   Monthly Interest Distributed
+       Class A Note Interest Requirement                   1,387,500.00
+       Class B Note Interest Requirement                     127,083.33
+       Net Class C Note Interest Requirement                 173,728.73                                       1,688,312.06
+
+(iii)  Collections of Principal Receivables                                                                 133,561,209.47
+
+(iv)   Collections of Finance Charge Receivables                                                             11,405,667.22
+
+(v)    Aggregate Amount of Principal Receivables                                                         34,106,298,952.71
+
+                        Investor Interest                                                                   892,857,000.00
+                        Adjusted Interest                                                                   892,857,000.00
+
+
+       Floating Investor Percentage                                                                                  2.62%
+       Fixed Investor Percentage                                                                                     2.62%
+
+(vi)   Receivables Delinquent (As % of Total Receivables)
+               Current                                                                                              95.37%
+               30 to 59 days                                                                                         1.48%
+               60 to 89 days                                                                                         0.97%
+               90 or more days                                                                                       2.18%
+                                                                                                        -------------------
+                                          Total Receivables                                                        100.00%
+
+(vii)  Investor Default Amount                                                                               4,823,839.89
+
+(viii) Investor Charge-Offs                                                                                          0.00
+
+(ix)   Reimbursed Investor Charge-Offs                                                                               0.00
+
+(x)    Net Servicing Fee                                                                                       744,047.50
+
+(xi)   Portfolio Yield (Net of Defaulted Receivables)                                                                9.10%
+
+(xii)  Reallocated Monthly Principal                                                                                 0.00
+
+(xiii) Accumulation Shortfall                                                                                        0.00
+
+(xiv)  Principal Funding Investment Proceeds                                                                         0.00
+
+(xv)   Principal Funding Investment Shortfall                                                                        0.00
+
+(xvi)  Available Investor Finance Charge Collections                                                        10,661,619.72
+
+(xxii) Note Rate       Class A    2.22000%
+                       Class B    2.44000%
+                       Class C    2.79000%
+</TABLE>
+
+
+
+
+By:
+          ---------------------------------------
+Name:     Patricia M. Garvey
+Title:    Vice President
+
+<PAGE>
+
+                         Chase Manhattan Bank USA, N.A.
+                      Monthly Certificateholder's Statement
+
+                         Chase Credit Card Master Trust
+                                  Series 2001-1
+<TABLE>
+<CAPTION>
+                                                                                            Distribution Date: 12/15/2004
+                                                                                            Period Type: Revolving
+Section 5.2 - Supplement                                                                                        Total
+- -------------------------------------------------------------------------------------------------------------------------
+
+<S>                                                          <C>                                     <C>
+(i)    Monthly Principal Distributed                               0.00                                               0.00
+
+(ii)   Monthly Interest Distributed
+       Class A Note Interest Requirement                   1,326,850.00
+       Class B Note Interest Requirement                     123,462.50
+       Net Class C Note Interest Requirement                 174,952.57                                       1,625,265.07
+
+(iii)  Collections of Principal Receivables                                                                 127,150,291.76
+
+(iv)   Collections of Finance Charge Receivables                                                             10,858,196.93
+
+(v)    Aggregate Amount of Principal Receivables                                                         34,106,298,952.71
+
+                        Investor Interest                                                                   850,000,000.00
+                        Adjusted Interest                                                                   850,000,000.00
+
+
+       Floating Investor Percentage                                                                                  2.49%
+       Fixed Investor Percentage                                                                                     2.49%
+
+(vi)   Receivables Delinquent (As % of Total Receivables)
+               Current                                                                                              95.37%
+               30 to 59 days                                                                                         1.48%
+               60 to 89 days                                                                                         0.97%
+               90 or more days                                                                                       2.18%
+                                                                                                        -------------------
+                                          Total Receivables                                                        100.00%
+
+(vii)  Investor Default Amount                                                                                4,592,296.31
+
+(viii) Investor Charge-Offs 0.00
+
+(ix)   Reimbursed Investor Charge-Offs 0.00
+
+(x)    Net Servicing Fee 708,333.33
+
+(xi)   Portfolio Yield (Net of Defaulted Receivables)                                                                9.10%
+
+(xii)  Reallocated Monthly Principal 0.00
+
+(xiii) Accumulation Shortfall 0.00
+
+(xiv)  Principal Funding Investment Proceeds                                                                          0.00
+
+(xv)   Principal Funding Investment Shortfall                                                                         0.00
+
+(xvi)  Available Investor Finance Charge Collections                                                         10,149,863.59
+
+(xxii) Note Rate      Class A       2.23000%
+                      Class B       2.49000%
+                      Class C       2.94000%
+</TABLE>
+
+
+       By:
+               ----------------------------------------
+       Name:   Patricia M. Garvey
+       Title:  Vice President
+
+<PAGE>
+
+                         Chase Manhattan Bank USA, N.A.
+                      Monthly Certificateholder's Statement
+
+                         Chase Credit Card Master Trust
+                                  Series 2001-2
+<TABLE>
+<CAPTION>
+                                                                                            Distribution Date: 12/15/2004
+                                                                                            Period Type: Revolving
+Section 5.2 - Supplement                                                                                        Total
+- -------------------------------------------------------------------------------------------------------------------------
+
+<S>                                                          <C>                                     <C>
+(i)    Monthly Principal Distributed                               0.00                                               0.00
+
+(ii)   Monthly Interest Distributed
+       Class A Note Interest Requirement                     920,833.33
+       Class B Note Interest Requirement                      85,068.08
+       Net Class C Note Interest Requirement                 124,749.39                                       1,130,650.80
+
+(iii)  Collections of Principal Receivables                                                                  89,040,806.32
+
+(iv)   Collections of Finance Charge Receivables                                                              7,603,778.14
+
+(v)    Aggregate Amount of Principal Receivables                                                         34,106,298,952.71
+
+                        Investor Interest                                                                   595,238,000.00
+                        Adjusted Interest                                                                   595,238,000.00
+
+
+       Floating Investor Percentage                                                                                  1.75%
+       Fixed Investor Percentage                                                                                     1.75%
+
+(vi)   Receivables Delinquent (As % of Total Receivables)
+               Current                                                                                              95.37%
+               30 to 59 days                                                                                         1.48%
+               60 to 89 days                                                                                         0.97%
+               90 or more days                                                                                       2.18%
+                                                                                                        -------------------
+                                          Total Receivables                                                        100.00%
+
+(vii)  Investor Default Amount                                                                                3,215,893.26
+
+(viii) Investor Charge-Offs                                                                                           0.00
+
+(ix)   Reimbursed Investor Charge-Offs                                                                                0.00
+
+(x)    Net Servicing Fee                                                                                        496,031.67
+
+(xi)   Portfolio Yield (Net of Defaulted Receivables)                                                                9.10%
+
+(xii)  Reallocated Monthly Principal                                                                                 0.00
+
+(xiii) Accumulation Shortfall                                                                                        0.00
+
+(xiv)  Principal Funding Investment Proceeds                                                                         0.00
+
+(xv)   Principal Funding Investment Shortfall                                                                        0.00
+
+(xvi)  Available Investor Finance Charge Collections                                                          7,107,746.48
+
+(xxii) Note Rate    Class A      2.21000%
+                    Class B      2.45000%
+                    Class C      2.99000%
+
+</TABLE>
+
+
+       By:
+               ----------------------------------------
+       Name:   Patricia M. Garvey
+       Title:  Vice President
+
+<PAGE>
+
+                         Chase Manhattan Bank USA, N.A.
+                      Monthly Certificateholder's Statement
+
+                         Chase Credit Card Master Trust
+                                  Series 2001-4
+<TABLE>
+<CAPTION>
+                                                                                            Distribution Date: 12/15/2004
+                                                                                            Period Type: Revolving
+Section 5.2 - Supplement                                                                                        Total
+- -------------------------------------------------------------------------------------------------------------------------
+
+<S>                                                          <C>                                     <C>
+(i)    Monthly Principal Distributed                               0.00                                               0.00
+
+(ii)   Monthly Distribution allocable to :
+       Class A Note Interest Requirement                   1,557,010.00
+       Class B Note Interest Requirement                     144,083.33
+       Net Class C Note Interest Requirement                 209,576.56                                       1,910,669.89
+
+(iii)  Collections of Principal Receivables                                                                 149,588,578.55
+
+(iv)   Collections of Finance Charge Receivables                                                             12,774,349.33
+
+(v)    Aggregate Amount of Principal Receivables                                                         34,106,298,952.71
+
+                        Investor Interest                                                                 1,000,000,000.00
+                        Adjusted Interest                                                                 1,000,000,000.00
+
+
+       Floating Investor Percentage                                                                                  2.93%
+       Fixed Investor Percentage                                                                                     2.93%
+
+(vi)   Receivables Delinquent (As % of Total Receivables)
+               Current                                                                                              95.37%
+               30 to 59 days                                                                                         1.48%
+               60 to 89 days                                                                                         0.97%
+               90 or more days                                                                                       2.18%
+                                                                                                        -------------------
+                                          Total Receivables                                                        100.00%
+
+(vii)  Investor Default Amount                                                                                5,402,701.54
+
+(viii) Investor Charge-Offs                                                                                           0.00
+
+(ix)   Reimbursed Investor Charge-Offs                                                                                0.00
+
+(x)    Net Servicing Fee                                                                                        833,333.33
+
+(xi)   Portfolio Yield (Net of Defaulted Receivables)                                                                9.10%
+
+(xii)  Reallocated Monthly Principal                                                                                  0.00
+
+(xiii) Accumulation Shortfall                                                                                         0.00
+
+(xiv)  Principal Funding Investment Proceeds                                                                          0.00
+
+(xv)   Principal Funding Investment Shortfall                                                                         0.00
+
+(xvi)  Available Investor Finance Charge Collections                                                         11,941,015.99
+
+(xxii) Note Rate   Class A    5.50000%
+                   Class B    2.47000%
+                   Class C    2.99000%
+</TABLE>
+
+       By:
+               ----------------------------------------
+       Name:   Patricia M. Garvey
+       Title:  Vice President
+
+<PAGE>
+
+                         Chase Manhattan Bank USA, N.A.
+                      Monthly Certificateholder's Statement
+
+                         Chase Credit Card Master Trust
+                                  Series 2001-6
+<TABLE>
+<CAPTION>
+                                                                                            Distribution Date: 12/15/2004
+                                                                                            Period Type: Revolving
+Section 5.2 - Supplement                                                                                        Total
+- -------------------------------------------------------------------------------------------------------------------------
+
+<S>                                                          <C>                                     <C>
+(i)    Monthly Principal Distributed                               0.00                                               0.00
+
+(ii)   Monthly Interest Distributed
+       Class A Note Interest Requirement                   1,864,800.00
+       Class B Note Interest Requirement                     179,900.00
+       Net Class C Note Interest Requirement                 269,491.86                                       2,314,191.86
+
+(iii)  Collections of Principal Receivables                                                                 179,506,294.25
+
+(iv)   Collections of Finance Charge Receivables                                                             15,329,219.19
+
+(v)    Aggregate Amount of Principal Receivables                                                         34,106,298,952.71
+
+                        Investor Interest                                                                 1,200,000,000.00
+                        Adjusted Interest                                                                 1,200,000,000.00
+
+
+       Floating Investor Percentage                                                                                  3.52%
+       Fixed Investor Percentage                                                                                     3.52%
+
+(vi)   Receivables Delinquent (As % of Total Receivables)
+               Current                                                                                              95.37%
+               30 to 59 days                                                                                         1.48%
+               60 to 89 days                                                                                         0.97%
+               90 or more days                                                                                       2.18%
+                                                                                                        -------------------
+                                          Total Receivables                                                        100.00%
+
+(vii)  Investor Default Amount                                                                                6,483,241.85
+
+(viii) Investor Charge-Offs                                                                                           0.00
+
+(ix)   Reimbursed Investor Charge-Offs                                                                                0.00
+
+(x)    Net Servicing Fee                                                                                      1,000,000.00
+
+(xi)   Portfolio Yield (Net of Defaulted Receivables)                                                                9.10%
+
+(xii)  Reallocated Monthly Principal                                                                                  0.00
+
+(xiii) Accumulation Shortfall                                                                                         0.00
+
+(xiv)  Principal Funding Investment Proceeds                                                                          0.00
+
+(xv)   Principal Funding Investment Shortfall                                                                         0.00
+
+(xvi)  Available Investor Finance Charge Collections                                                         14,329,219.19
+
+(xxii) Note Rate     Class A     2.22000%
+                     Class B     2.57000%
+                     Class C     3.19000%
+</TABLE>
+
+       By:
+               ----------------------------------------
+       Name:   Patricia M. Garvey
+       Title:  Vice President
+
+<PAGE>
+
+                         Chase Manhattan Bank USA, N.A.
+                      Monthly Certificateholder's Statement
+
+                         Chase Credit Card Master Trust
+                                  Series 2002-1
+<TABLE>
+<CAPTION>
+                                                                                            Distribution Date: 12/15/2004
+                                                                                            Period Type: Revolving
+Section 5.2 - Supplement                                                                                        Total
+- -------------------------------------------------------------------------------------------------------------------------
+
+<S>                                                          <C>                                     <C>
+(i)    Monthly Principal Distributed                               0.00                                               0.00
+
+(ii)   Monthly Interest Distributed
+       Class A Note Interest Requirement                   1,533,000.00
+       Class B Note Interest Requirement                     144,666.67
+       Net Class C Note Interest Requirement                 215,576.56                                       1,893,243.23
+
+(iii)  Collections of Principal Receivables                                                                 149,588,578.55
+
+(iv)   Collections of Finance Charge Receivables                                                             12,774,349.33
+
+(v)    Aggregate Amount of Principal Receivables                                                         34,106,298,952.71
+
+                        Investor Interest                                                                 1,000,000,000.00
+                        Adjusted Interest                                                                 1,000,000,000.00
+
+
+       Floating Investor Percentage                                                                                  2.93%
+       Fixed Investor Percentage                                                                                     2.93%
+
+(vi)   Receivables Delinquent (As % of Total Receivables)
+               Current                                                                                              95.37%
+               30 to 59 days                                                                                         1.48%
+               60 to 89 days                                                                                         0.97%
+               90 or more days                                                                                       2.18%
+                                                                                                        -------------------
+                                          Total Receivables                                                        100.00%
+
+(vii)  Investor Default Amount                                                                                5,402,701.54
+
+(viii) Investor Charge-Offs                                                                                           0.00
+
+(ix)   Reimbursed Investor Charge-Offs                                                                                0.00
+
+(x)    Net Servicing Fee                                                                                        833,333.33
+
+(xi)   Portfolio Yield (Net of Defaulted Receivables)                                                                9.10%
+
+(xii)  Reallocated Monthly Principal                                                                                  0.00
+
+(xiii) Accumulation Shortfall                                                                                         0.00
+
+(xiv)  Principal Funding Investment Proceeds                                                                          0.00
+
+(xv)   Principal Funding Investment Shortfall                                                                         0.00
+
+(xvi)  Available Investor Finance Charge Collections                                                         11,941,015.99
+
+(xxii) Note Rate      Class A              2.19000%
+                      Class B              2.48000%
+                      Class C              3.07000%
+</TABLE>
+
+       By:
+               ----------------------------------------
+       Name:   Patricia M. Garvey
+       Title:  Vice President
+
+<PAGE>
+
+                         Chase Manhattan Bank USA, N.A.
+                      Monthly Certificateholder's Statement
+
+                         Chase Credit Card Master Trust
+                                  Series 2002-2
+<TABLE>
+<CAPTION>
+                                                                                            Distribution Date: 12/15/2004
+                                                                                            Period Type: Revolving
+Section 5.2 - Supplement                                                                                        Total
+- -------------------------------------------------------------------------------------------------------------------------
+
+<S>                                                          <C>                                     <C>
+(i)    Monthly Principal Distributed                               0.00                                               0.00
+
+(ii)   Monthly Interest Distributed
+       Class A Note Interest Requirement                   2,097,200.00
+       Class B Note Interest Requirement                     197,633.33
+       Net Class C Note Interest Requirement                 293,407.15                                       2,588,240.48
+
+(iii)  Collections of Principal Receivables                                                                 209,424,009.96
+
+(iv)   Collections of Finance Charge Receivables                                                             17,884,089.06
+
+(v)    Aggregate Amount of Principal Receivables                                                         34,106,298,952.71
+
+                        Investor Interest                                                                 1,400,000,000.00
+                        Adjusted Interest                                                                 1,400,000,000.00
+
+
+       Floating Investor Percentage                                                                                  4.10%
+       Fixed Investor Percentage                                                                                     4.10%
+
+(vi)   Receivables Delinquent (As % of Total Receivables)
+               Current                                                                                              95.37%
+               30 to 59 days                                                                                         1.48%
+               60 to 89 days                                                                                         0.97%
+               90 or more days                                                                                       2.18%
+                                                                                                        -------------------
+                                          Total Receivables                                                        100.00%
+
+(vii)   Investor Default Amount                                                                               7,563,782.16
+
+(viii)  Investor Charge-Offs                                                                                          0.00
+
+(ix)    Reimbursed Investor Charge-Offs                                                                               0.00
+
+(x)     Net Servicing Fee                                                                                     1,166,666.67
+
+(xi)    Portfolio Yield (Net of Defaulted Receivables)                                                               9.10%
+
+(xii)   Reallocated Monthly Principal                                                                                  0.00
+
+(xiii)  Accumulation Shortfall                                                                                         0.00
+
+(xiv)   Principal Funding Investment Proceeds                                                                          0.00
+
+(xv)    Principal Funding Investment Shortfall                                                                         0.00
+
+(xvi)  Available Investor Finance Charge Collections                                                         16,717,422.39
+
+(xxii) Note Rate         Class A        2.14000%
+                         Class B        2.42000%
+                         Class C        2.99000%
+</TABLE>
+
+       By:
+               ----------------------------------------
+       Name:   Patricia M. Garvey
+       Title:  Vice President
+
+<PAGE>
+
+                         Chase Manhattan Bank USA, N.A.
+                      Monthly Certificateholder's Statement
+
+                         Chase Credit Card Master Trust
+                                  Series 2002-3
+<TABLE>
+<CAPTION>
+                                                                                            Distribution Date: 12/15/2004
+                                                                                            Period Type: Revolving
+Section 5.2 - Supplement                                                                                        Total
+- -------------------------------------------------------------------------------------------------------------------------
+
+<S>                                                          <C>                                     <C>
+(i)    Monthly Principal Distributed                               0.00                                               0.00
+
+(ii)   Monthly Interest Distributed
+       Class A Note Interest Requirement                   2,373,000.00
+       Class B Note Interest Requirement                     222,250.00
+       Net Class C Note Interest Requirement                 328,989.80                                       2,924,239.80
+
+(iii)  Collections of Principal Receivables                                                                 224,382,867.82
+
+(iv)   Collections of Finance Charge Receivables                                                             19,161,523.99
+
+(v)    Aggregate Amount of Principal Receivables                                                         34,106,298,952.71
+
+                        Investor Interest                                                                 1,500,000,000.00
+                        Adjusted Interest                                                                 1,500,000,000.00
+
+
+       Floating Investor Percentage                                                                                  4.40%
+       Fixed Investor Percentage                                                                                     4.40%
+
+(vi)   Receivables Delinquent (As % of Total Receivables)
+               Current                                                                                              95.37%
+               30 to 59 days                                                                                         1.48%
+               60 to 89 days                                                                                         0.97%
+               90 or more days                                                                                       2.18%
+                                                                                                        -------------------
+                                          Total Receivables                                                        100.00%
+
+(vii)  Investor Default Amount                                                                                8,104,052.32
+
+(viii) Investor Charge-Offs                                                                                           0.00
+
+(ix)   Reimbursed Investor Charge-Offs                                                                                0.00
+
+(x)    Net Servicing Fee                                                                                      1,250,000.00
+
+(xi)   Portfolio Yield (Net of Defaulted Receivables)                                                                9.10%
+
+(xii)  Reallocated Monthly Principal                                                                                  0.00
+
+(xiii) Accumulation Shortfall                                                                                         0.00
+
+(xiv)  Principal Funding Investment Proceeds                                                                          0.00
+
+(xv)   Principal Funding Investment Shortfall                                                                         0.00
+
+(xvi)  Available Investor Finance Charge Collections                                                         17,911,523.99
+
+(xxii) Note Rate        Class A              2.26000%
+                        Class B              2.54000%
+                        Class C              3.12000%
+</TABLE>
+
+
+       By:
+               ----------------------------------------
+       Name:   Patricia M. Garvey
+
+<PAGE>
+
+                         Chase Manhattan Bank USA, N.A.
+                      Monthly Certificateholder's Statement
+
+                         Chase Credit Card Master Trust
+                                  Series 2002-4
+<TABLE>
+<CAPTION>
+                                                                                            Distribution Date: 12/15/2004
+                                                                                            Period Type: Revolving
+Section 5.2 - Supplement                                                                                        Total
+- -------------------------------------------------------------------------------------------------------------------------
+
+<S>                                                          <C>                                     <C>
+(i)    Monthly Principal Distributed                               0.00                                               0.00
+
+(ii)   Monthly Interest Distributed
+       Class A Note Interest Requirement                   2,247,000.00
+       Class B Note Interest Requirement                     210,000.00
+       Net Class C Note Interest Requirement                 307,614.80                                       2,764,614.80
+
+(iii)  Collections of Principal Receivables                                                                 224,382,867.82
+
+(iv)   Collections of Finance Charge Receivables                                                             19,161,523.99
+
+(v)    Aggregate Amount of Principal Receivables                                                         34,106,298,952.71
+
+                        Investor Interest                                                                 1,500,000,000.00
+                        Adjusted Interest                                                                 1,500,000,000.00
+
+
+       Floating Investor Percentage                                                                                  4.40%
+       Fixed Investor Percentage                                                                                     4.40%
+
+(vi)   Receivables Delinquent (As % of Total Receivables)
+               Current                                                                                              95.37%
+               30 to 59 days                                                                                         1.48%
+               60 to 89 days                                                                                         0.97%
+               90 or more days                                                                                       2.18%
+                                                                                                        -------------------
+                                          Total Receivables                                                        100.00%
+
+(vii)  Investor Default Amount                                                                                8,104,052.32
+
+(viii) Investor Charge-Offs                                                                                           0.00
+
+(ix)   Reimbursed Investor Charge-Offs                                                                                0.00
+
+(x)    Net Servicing Fee                                                                                      1,250,000.00
+
+(xi)   Portfolio Yield (Net of Defaulted Receivables)                                                                9.10%
+
+(xii)  Reallocated Monthly Principal                                                                                  0.00
+
+(xiii) Accumulation Shortfall                                                                                         0.00
+
+(xiv)  Principal Funding Investment Proceeds                                                                          0.00
+
+(xv)   Principal Funding Investment Shortfall                                                                         0.00
+
+(xvi)  Available Investor Finance Charge Collections                                                         17,911,523.99
+
+(xxii) Note Rate      Class A              2.14000%
+                      Class B              2.40000%
+                      Class C              2.93000%
+</TABLE>
+
+       By:
+               ----------------------------------------
+       Name:   Patricia M. Garvey
+       Title:  Vice President
+
+<PAGE>
+
+                         Chase Manhattan Bank USA, N.A.
+                      Monthly Certificateholder's Statement
+
+                         Chase Credit Card Master Trust
+                                  Series 2002-5
+<TABLE>
+<CAPTION>
+                                                                                            Distribution Date: 12/15/2004
+                                                                                            Period Type: Revolving
+Section 5.2 - Supplement                                                                                        Total
+- -------------------------------------------------------------------------------------------------------------------------
+
+<S>                                                          <C>                                     <C>
+(i)    Monthly Principal Distributed                               0.00                                               0.00
+
+(ii)   Monthly Interest Distributed
+       Class A Note Interest Requirement                   1,533,000.00
+       Class B Note Interest Requirement                     142,916.67
+       Net Class C Note Interest Requirement                 213,326.56                                       1,889,243.23
+
+(iii)  Collections of Principal Receivables                                                                 149,588,578.55
+
+(iv)   Collections of Finance Charge Receivables                                                             12,774,349.33
+
+(v)    Aggregate Amount of Principal Receivables                                                         34,106,298,952.71
+
+                        Investor Interest                                                                 1,000,000,000.00
+                        Adjusted Interest                                                                 1,000,000,000.00
+
+
+       Floating Investor Percentage                                                                                  2.93%
+       Fixed Investor Percentage                                                                                     2.93%
+
+(vi)   Receivables Delinquent (As % of Total Receivables)
+               Current                                                                                              95.37%
+               30 to 59 days                                                                                         1.48%
+               60 to 89 days                                                                                         0.97%
+               90 or more days                                                                                       2.18%
+                                                                                                        -------------------
+                                          Total Receivables                                                        100.00%
+
+(vii)  Investor Default Amount                                                                                5,402,701.54
+
+(viii) Investor Charge-Offs                                                                                           0.00
+
+(ix)   Reimbursed Investor Charge-Offs                                                                                0.00
+
+(x)    Net Servicing Fee                                                                                        833,333.33
+
+(xi)   Portfolio Yield (Net of Defaulted Receivables)                                                                9.10%
+
+(xii)  Reallocated Monthly Principal                                                                                 0.00
+
+(xiii) Accumulation Shortfall                                                                                        0.00
+
+(xiv)  Principal Funding Investment Proceeds                                                                         0.00
+
+(xv)   Principal Funding Investment Shortfall                                                                        0.00
+
+(xvi)  Available Investor Finance Charge Collections                                                        11,941,015.99
+
+(xxii) Note Rate      Class A              2.19000%
+                      Class B              2.45000%
+                      Class C              3.04000%
+</TABLE>
+
+       By:
+               ----------------------------------------
+       Name:   Patricia M. Garvey
+       Title:  Vice President
+
+<PAGE>
+
+                         Chase Manhattan Bank USA, N.A.
+                      Monthly Certificateholder's Statement
+
+                         Chase Credit Card Master Trust
+                                  Series 2002-6
+<TABLE>
+<CAPTION>
+                                                                                            Distribution Date: 12/15/2004
+                                                                                            Period Type: Revolving
+Section 5.2 - Supplement                                                                                        Total
+- -------------------------------------------------------------------------------------------------------------------------
+
+<S>                                                          <C>                                     <C>
+(i)    Monthly Principal Distributed                               0.00                                               0.00
+
+(ii)   Monthly Interest Distributed
+       Class A Note Interest Requirement                   1,655,500.00
+       Class B Note Interest Requirement                     156,566.67
+       Net Class C Note Interest Requirement                 242,909.20                                       2,054,975.87
+
+(iii)  Collections of Principal Receivables                                                                164,547,436.40
+
+(iv)   Collections of Finance Charge Receivables                                                            14,051,784.26
+
+(v)    Aggregate Amount of Principal Receivables                                                         34,106,298,952.71
+
+                        Investor Interest                                                                 1,100,000,000.00
+                        Adjusted Interest                                                                 1,100,000,000.00
+
+
+       Floating Investor Percentage                                                                                  3.23%
+       Fixed Investor Percentage                                                                                     3.23%
+
+(vi)   Receivables Delinquent (As % of Total Receivables)
+               Current                                                                                              95.37%
+               30 to 59 days                                                                                         1.48%
+               60 to 89 days                                                                                         0.97%
+               90 or more days                                                                                       2.18%
+                                                                                                        -------------------
+                                          Total Receivables                                                        100.00%
+
+(vii)  Investor Default Amount                                                                                5,942,971.70
+
+(viii) Investor Charge-Offs                                                                                           0.00
+
+(ix)   Reimbursed Investor Charge-Offs                                                                                0.00
+
+(x)    Net Servicing Fee                                                                                        916,666.67
+
+(xi)   Portfolio Yield (Net of Defaulted Receivables)                                                                9.10%
+
+(xii)  Reallocated Monthly Principal                                                                                 0.00
+
+(xiii) Accumulation Shortfall                                                                                        0.00
+
+(xiv)  Principal Funding Investment Proceeds                                                                         0.00
+
+(xv)   Principal Funding Investment Shortfall                                                                        0.00
+
+(xvi)  Available Investor Finance Charge Collections                                                        13,135,117.59
+
+(xxii) Note Rate                          Class A              2.15000%
+                                          Class B              2.44000%
+                                          Class C              3.14000%
+</TABLE>
+
+
+       By:
+               ----------------------------------------
+       Name:   Patricia M. Garvey
+
+<PAGE>
+
+                         Chase Manhattan Bank USA, N.A.
+                      Monthly Certificateholder's Statement
+
+                         Chase Credit Card Master Trust
+                                  Series 2002-7
+<TABLE>
+<CAPTION>
+                                                                                            Distribution Date: 12/15/2004
+                                                                                            Period Type: Revolving
+Section 5.2 - Supplement                                                                                        Total
+- -------------------------------------------------------------------------------------------------------------------------
+
+<S>                                                          <C>                                     <C>
+(i)    Monthly Principal Distributed                               0.00                                               0.00
+
+(ii)   Monthly Interest Distributed
+       Class A Note Interest Requirement                   1,160,250.00
+       Class B Note Interest Requirement                     110,250.00
+       Net Class C Note Interest Requirement                 176,868.45                                       1,447,368.45
+
+(iii)  Collections of Principal Receivables                                                                 112,191,433.91
+
+(iv)   Collections of Finance Charge Receivables                                                              9,580,761.99
+
+(v)    Aggregate Amount of Principal Receivables                                                         34,106,298,952.71
+
+                        Investor Interest                                                                   750,000,000.00
+                        Adjusted Interest                                                                   750,000,000.00
+
+
+       Floating Investor Percentage                                                                                  2.20%
+       Fixed Investor Percentage                                                                                     2.20%
+
+(vi)   Receivables Delinquent (As % of Total Receivables)
+               Current                                                                                              95.37%
+               30 to 59 days                                                                                         1.48%
+               60 to 89 days                                                                                         0.97%
+               90 or more days                                                                                       2.18%
+                                                                                                        -------------------
+                                          Total Receivables                                                        100.00%
+
+(vii)  Investor Default Amount                                                                                4,052,026.16
+
+(viii) Investor Charge-Offs                                                                                           0.00
+
+(ix)   Reimbursed Investor Charge-Offs                                                                                0.00
+
+(x)    Net Servicing Fee                                                                                        625,000.00
+
+(xi)   Portfolio Yield (Net of Defaulted Receivables)                                                                9.10%
+
+(xii)  Reallocated Monthly Principal                                                                                  0.00
+
+(xiii) Accumulation Shortfall                                                                                         0.00
+
+(xiv)  Principal Funding Investment Proceeds                                                                          0.00
+
+(xv)   Principal Funding Investment Shortfall                                                                         0.00
+
+(xvi)  Available Investor Finance Charge Collections                                                          8,955,761.99
+
+(xxii) Note Rate                          Class A              2.21000%
+                                          Class B              2.52000%
+                                          Class C              3.34000%
+</TABLE>
+
+       By:
+               ----------------------------------------
+       Name:   Patricia M. Garvey
+       Title:  Vice President
+
+<PAGE>
+
+                         Chase Manhattan Bank USA, N.A.
+                      Monthly Certificateholder's Statement
+
+                         Chase Credit Card Master Trust
+                                  Series 2002-8
+<TABLE>
+<CAPTION>
+                                                                                            Distribution Date: 12/15/2004
+                                                                                            Period Type: Revolving
+Section 5.2 - Supplement                                                                                        Total
+- -------------------------------------------------------------------------------------------------------------------------
+
+<S>                                                          <C>                                     <C>
+(i)    Monthly Principal Distributed                               0.00                                               0.00
+
+(ii)   Monthly Interest Distributed
+       Class A Note Interest Requirement                   1,655,500.00
+       Class B Note Interest Requirement                     157,850.00
+       Net Class C Note Interest Requirement                 247,034.20                                       2,060,384.20
+
+(iii)  Collections of Principal Receivables                                                                 164,547,436.40
+
+(iv)   Collections of Finance Charge Receivables                                                             14,051,784.26
+
+(v)    Aggregate Amount of Principal Receivables                                                         34,106,298,952.71
+
+                        Investor Interest                                                                 1,100,000,000.00
+                        Adjusted Interest                                                                 1,100,000,000.00
+
+
+       Floating Investor Percentage                                                                                  3.23%
+       Fixed Investor Percentage                                                                                     3.23%
+
+(vi)   Receivables Delinquent (As % of Total Receivables)
+               Current                                                                                              95.37%
+               30 to 59 days                                                                                         1.48%
+               60 to 89 days                                                                                         0.97%
+               90 or more days                                                                                       2.18%
+                                                                                                        -------------------
+                                          Total Receivables                                                        100.00%
+
+(vii)  Investor Default Amount                                                                                5,942,971.70
+
+(viii) Investor Charge-Offs                                                                                           0.00
+
+(ix)   Reimbursed Investor Charge-Offs                                                                                0.00
+
+(x)    Net Servicing Fee                                                                                        916,666.67
+
+(xi)   Portfolio Yield (Net of Defaulted Receivables)                                                                9.10%
+
+(xii)  Reallocated Monthly Principal                                                                                 0.00
+
+(xiii) Accumulation Shortfall                                                                                        0.00
+
+(xiv)  Principal Funding Investment Proceeds                                                                         0.00
+
+(xv)   Principal Funding Investment Shortfall                                                                        0.00
+
+(xvi)  Available Investor Finance Charge Collections                                                        13,135,117.59
+
+(xxii) Note Rate       Class A              2.15000%
+                       Class B              2.46000%
+                       Class C              3.19000%
+
+</TABLE>
+
+       By:
+               ----------------------------------------
+       Name:   Patricia M. Garvey
+       Title:  Vice President
+
+<PAGE>
+
+                         Chase Manhattan Bank USA, N.A.
+                      Monthly Certificateholder's Statement
+
+                         Chase Credit Card Master Trust
+                                  Series 2003-1
+
+<TABLE>
+<CAPTION>
+                                                                                            Distribution Date: 12/15/2004
+                                                                                            Period Type: Revolving
+Section 5.2 - Supplement                                                                                        Total
+- -------------------------------------------------------------------------------------------------------------------------
+
+<S>                                                          <C>                                     <C>
+(i)    Monthly Principal Distributed                               0.00                                               0.00
+
+(ii)   Monthly Interest Distributed
+       Class A Note Interest Requirement                   2,247,000.00
+       Class B Note Interest Requirement                     215,250.00
+       Net Class C Note Interest Requirement                 336,861.91                                       2,799,111.91
+
+(iii)  Collections of Principal Receivables                                                                 224,382,867.82
+
+(iv)   Collections of Finance Charge Receivables                                                             19,161,523.99
+
+(v)    Aggregate Amount of Principal Receivables                                                         34,106,298,952.71
+
+                        Investor Interest                                                                 1,500,000,000.00
+                        Adjusted Interest                                                                 1,500,000,000.00
+
+
+       Floating Investor Percentage                                                                                  4.40%
+       Fixed Investor Percentage                                                                                     4.40%
+
+(vi)   Receivables Delinquent (As % of Total Receivables)
+               Current                                                                                              95.37%
+               30 to 59 days                                                                                         1.48%
+               60 to 89 days                                                                                         0.97%
+               90 or more days                                                                                       2.18%
+                                                                                                        -------------------
+                                          Total Receivables                                                        100.00%
+
+(vii)   Investor Default Amount                                                                               8,104,052.32
+
+(viii)  Investor Charge-Offs                                                                                          0.00
+
+(ix)    Reimbursed Investor Charge-Offs                                                                               0.00
+
+(x)     Net Servicing Fee                                                                                     1,250,000.00
+
+(xi)    Portfolio Yield (Net of Defaulted Receivables)                                                                9.10%
+
+(xii)   Reallocated Monthly Principal                                                                                 0.00
+
+(xiii)  Accumulation Shortfall                                                                                        0.00
+
+(xiv)   Principal Funding Investment Proceeds                                                                         0.00
+
+(xv)    Principal Funding Investment Shortfall                                                                        0.00
+
+(xvi)   Available Investor Finance Charge Collections                                                        17,911,523.99
+
+(xxii)  Note Rate                         Class A              2.14000%
+                                          Class B              2.46000%
+                                          Class C              3.19000%
+</TABLE>
+
+       By:
+               ----------------------------------------
+       Name:   Patricia M. Garvey
+       Title:  Vice President
+
+<PAGE>
+
+                         Chase Manhattan Bank USA, N.A.
+                      Monthly Certificateholder's Statement
+
+                         Chase Credit Card Master Trust
+                                  Series 2003-2
+<TABLE>
+<CAPTION>
+                                                                                            Distribution Date: 12/15/2004
+                                                                                            Period Type: Revolving
+Section 5.2 - Supplement                                                                                        Total
+- -------------------------------------------------------------------------------------------------------------------------
+
+<S>                                                          <C>                                     <C>
+(i)    Monthly Principal Distributed                                 0.00                                                 0.00
+
+(ii)   Monthly Interest Distributed
+       Class A Note Interest Requirement                     2,063,600.00
+       Class B Note Interest Requirement                       190,726.67
+       Net Class C Note Interest Requirement                   321,029.98                                         2,575,356.65
+
+(iii)  Collections of Principal Receivables                                                                     200,448,695.25
+
+(iv)   Collections of Finance Charge Receivables                                                                 17,117,628.10
+
+(v)    Aggregate Amount of Principal Receivables                                                             34,106,298,952.71
+
+                         Investor Interest                                                                    1,340,000,000.00
+                         Adjusted Interest                                                                    1,340,000,000.00
+
+
+       Floating Investor Percentage                                                                                      3.93%
+       Fixed Investor Percentage                                                                                         3.93%
+
+(vi)   Receivables Delinquent (As % of Total Receivables)
+               Current                                                                                                  95.37%
+               30 to 59 days                                                                                             1.48%
+               60 to 89 days                                                                                             0.97%
+               90 or more days                                                                                           2.18%
+                                                                                                           --------------------
+                                           Total Receivables                                                           100.00%
+
+(vii)  Investor Default Amount                                                                                    7,239,620.07
+
+(viii) Investor Charge-Offs                                                                                               0.00
+
+(ix)   Reimbursed Investor Charge-Offs                                                                                    0.00
+
+(x)    Net Servicing Fee                                                                                          1,116,666.67
+
+(xi)   Portfolio Yield (Net of Defaulted Receivables)                                                                    9.10%
+
+(xii)  Reallocated Monthly Principal                                                                                     0.00
+
+(xiii) Accumulation Shortfall                                                                                            0.00
+
+(xiv)  Principal Funding Investment Proceeds                                                                             0.00
+
+(xv)   Principal Funding Investment Shortfall                                                                            0.00
+
+(xvi)  Available Investor Finance Charge Collections                                                            16,000,961.43
+
+(xxii) Note Rate                           Class A               2.20000%
+                                           Class B               2.44000%
+                                           Class C               3.39000%
+</TABLE>
+
+       By:
+               -----------------------------------------
+       Name:   Patricia M. Garvey
+
+<PAGE>
+
+                         Chase Manhattan Bank USA, N.A.
+                      Monthly Certificateholder's Statement
+
+                         Chase Credit Card Master Trust
+                                  Series 2003-3
+<TABLE>
+<CAPTION>
+                                                                                            Distribution Date: 12/15/2004
+                                                                                            Period Type: Revolving
+Section 5.2 - Supplement                                                                                        Total
+- -------------------------------------------------------------------------------------------------------------------------
+
+<S>                                                          <C>                                     <C>
+(i)    Monthly Principal Distributed                                 0.00                                                 0.00
+
+(ii)   Monthly Interest Distributed
+       Class A Note Interest Requirement                     2,194,500.00
+       Class B Note Interest Requirement                       202,825.00
+       Net Class C Note Interest Requirement                   317,881.35                                         2,715,206.35
+
+(iii)  Collections of Principal Receivables                                                                     213,163,724.43
+
+(iv)   Collections of Finance Charge Receivables                                                                 18,203,447.79
+
+(v)    Aggregate Amount of Principal Receivables                                                             34,106,298,952.71
+
+                         Investor Interest                                                                    1,425,000,000.00
+                         Adjusted Interest                                                                    1,425,000,000.00
+
+
+       Floating Investor Percentage                                                                                      4.18%
+       Fixed Investor Percentage                                                                                         4.18%
+
+(vi)   Receivables Delinquent (As % of Total Receivables)
+               Current                                                                                                  95.37%
+               30 to 59 days                                                                                             1.48%
+               60 to 89 days                                                                                             0.97%
+               90 or more days                                                                                           2.18%
+                                                                                                           --------------------
+                                           Total Receivables                                                           100.00%
+
+(vii)  Investor Default Amount                                                                                    7,698,849.70
+
+(viii) Investor Charge-Offs                                                                                               0.00
+
+(ix)   Reimbursed Investor Charge-Offs                                                                                    0.00
+
+(x)    Net Servicing Fee                                                                                          1,187,500.00
+
+(xi)   Portfolio Yield (Net of Defaulted Receivables)                                                                    9.10%
+
+(xii)  Reallocated Monthly Principal                                                                                      0.00
+
+(xiii) Accumulation Shortfall                                                                                             0.00
+
+(xiv)  Principal Funding Investment Proceeds                                                                              0.00
+
+(xv)   Principal Funding Investment Shortfall                                                                             0.00
+
+(xvi)  Available Investor Finance Charge Collections                                                             17,015,947.79
+
+(xxii) Note Rate                           Class A               2.20000%
+                                           Class B               2.44000%
+                                           Class C               3.17000%
+</TABLE>
+
+       By:
+               -----------------------------------------
+       Name:   Patricia M. Garvey
+       Title:  Vice President
+
+<PAGE>
+
+                         Chase Manhattan Bank USA, N.A.
+                      Monthly Certificateholder's Statement
+
+                         Chase Credit Card Master Trust
+                                  Series 2003-4
+<TABLE>
+<CAPTION>
+                                                                                            Distribution Date: 12/15/2004
+                                                                                            Period Type: Revolving
+Section 5.2 - Supplement                                                                                        Total
+- -------------------------------------------------------------------------------------------------------------------------
+
+<S>                                                          <C>                                     <C>
+(i)    Monthly Principal Distributed                                 0.00                                                 0.00
+
+(ii)   Monthly Interest Distributed
+       Class A Note Interest Requirement                     1,182,475.00
+       Class B Note Interest Requirement                       115,879.17
+       Net Class C Note Interest Requirement                   170,972.85                                         1,469,327.02
+
+(iii)  Collections of Principal Receivables                                                                     108,451,719.45
+
+(iv)   Collections of Finance Charge Receivables                                                                  9,261,403.26
+
+(v)    Aggregate Amount of Principal Receivables                                                             34,106,298,952.71
+
+                         Investor Interest                                                                      725,000,000.00
+                         Adjusted Interest                                                                      725,000,000.00
+
+
+       Floating Investor Percentage                                                                                      2.13%
+       Fixed Investor Percentage                                                                                         2.13%
+
+(vi)   Receivables Delinquent (As % of Total Receivables)
+               Current                                                                                                  95.37%
+               30 to 59 days                                                                                             1.48%
+               60 to 89 days                                                                                             0.97%
+               90 or more days                                                                                           2.18%
+                                                                                                           --------------------
+                                           Total Receivables                                                           100.00%
+
+(vii)  Investor Default Amount                                                                                    3,916,958.62
+
+(viii) Investor Charge-Offs                                                                                               0.00
+
+(ix)   Reimbursed Investor Charge-Offs                                                                                    0.00
+
+(x)    Net Servicing Fee                                                                                            604,166.67
+
+(xi)   Portfolio Yield (Net of Defaulted Receivables)                                                                    9.10%
+
+(xii)  Reallocated Monthly Principal                                                                                      0.00
+
+(xiii) Accumulation Shortfall                                                                                             0.00
+
+(xiv)  Principal Funding Investment Proceeds                                                                              0.00
+
+(xv)   Principal Funding Investment Shortfall                                                                             0.00
+
+(xvi)  Available Investor Finance Charge Collections                                                              8,657,236.59
+
+(xxii) Note Rate                           Class A               2.33000%
+                                           Class B               2.74000%
+                                           Class C               3.34000%
+
+</TABLE>
+
+       By:
+               -----------------------------------------
+       Name:   Patricia M. Garvey
+       Title:  Vice President
+
+<PAGE>
+
+                         Chase Manhattan Bank USA, N.A.
+                      Monthly Certificateholder's Statement
+
+                         Chase Credit Card Master Trust
+                                  Series 2003-5
+<TABLE>
+<CAPTION>
+                                                                                            Distribution Date: 12/15/2004
+                                                                                            Period Type: Revolving
+Section 5.2 - Supplement                                                                                        Total
+- -------------------------------------------------------------------------------------------------------------------------
+
+<S>                                                          <C>                                     <C>
+(i)    Monthly Principal Distributed                                 0.00                                                 0.00
+
+(ii)   Monthly Interest Distributed
+       Class A Note Interest Requirement                     1,547,000.00
+       Class B Note Interest Requirement                       141,166.67
+       Net Class C Note Interest Requirement                   211,074.62                                         1,899,241.29
+
+(iii)  Collections of Principal Receivables                                                                     149,588,578.55
+
+(iv)   Collections of Finance Charge Receivables                                                                 12,774,349.33
+
+(v)    Aggregate Amount of Principal Receivables                                                             34,106,298,952.71
+
+                         Investor Interest                                                                    1,000,000,000.00
+                         Adjusted Interest                                                                    1,000,000,000.00
+
+
+       Floating Investor Percentage                                                                                      2.93%
+       Fixed Investor Percentage                                                                                         2.93%
+
+(vi)   Receivables Delinquent (As % of Total Receivables)
+               Current                                                                                                  95.37%
+               30 to 59 days                                                                                             1.48%
+               60 to 89 days                                                                                             0.97%
+               90 or more days                                                                                           2.18%
+                                                                                                           --------------------
+                                           Total Receivables                                                           100.00%
+
+(vii)  Investor Default Amount                                                                                    5,402,701.54
+
+(viii) Investor Charge-Offs                                                                                               0.00
+
+(ix)   Reimbursed Investor Charge-Offs                                                                                    0.00
+
+(x)    Net Servicing Fee                                                                                            833,333.33
+
+(xi)   Portfolio Yield (Net of Defaulted Receivables)                                                                    9.10%
+
+(xii)  Reallocated Monthly Principal                                                                                     0.00
+
+(xiii) Accumulation Shortfall                                                                                            0.00
+
+(xiv)  Principal Funding Investment Proceeds                                                                             0.00
+
+(xv)   Principal Funding Investment Shortfall                                                                            0.00
+
+(xvi)  Available Investor Finance Charge Collections                                                             11,941,015.99
+
+(xxii) Note Rate                           Class A               2.21000%
+                                           Class B               2.42000%
+                                           Class C               3.01000%
+
+</TABLE>
+
+       By:
+               -----------------------------------------
+       Name:   Patricia M. Garvey
+       Title:  Vice President
+
+<PAGE>
+
+                         Chase Manhattan Bank USA, N.A.
+                      Monthly Certificateholder's Statement
+
+                         Chase Credit Card Master Trust
+                                  Series 2003-6
+<TABLE>
+<CAPTION>
+                                                                                            Distribution Date: 12/15/2004
+                                                                                            Period Type: Revolving
+Section 5.2 - Supplement                                                                                        Total
+- -------------------------------------------------------------------------------------------------------------------------
+
+<S>                                                          <C>                                     <C>
+(i)    Monthly Principal Distributed                                 0.00                                                 0.00
+
+(ii)   Monthly Interest Distributed
+       Class A Note Interest Requirement                     3,080,000.00
+       Class B Note Interest Requirement                       284,666.67
+       Net Class C Note Interest Requirement                   404,153.09                                         3,768,819.76
+
+(iii)  Collections of Principal Receivables                                                                     299,177,157.09
+
+(iv)   Collections of Finance Charge Receivables                                                                 25,548,698.65
+
+(v)    Aggregate Amount of Principal Receivables                                                             34,106,298,952.71
+
+                         Investor Interest                                                                    2,000,000,000.00
+                         Adjusted Interest                                                                    2,000,000,000.00
+
+
+       Floating Investor Percentage                                                                                      5.86%
+       Fixed Investor Percentage                                                                                         5.86%
+
+(vi)   Receivables Delinquent (As % of Total Receivables)
+               Current                                                                                                  95.37%
+               30 to 59 days                                                                                             1.48%
+               60 to 89 days                                                                                             0.97%
+               90 or more days                                                                                           2.18%
+                                                                                                           --------------------
+                                           Total Receivables                                                           100.00%
+
+(vii)  Investor Default Amount                                                                                   10,805,403.09
+
+(viii) Investor Charge-Offs                                                                                               0.00
+
+(ix)   Reimbursed Investor Charge-Offs                                                                                    0.00
+
+(x)    Net Servicing Fee                                                                                          1,666,666.67
+
+(xi)   Portfolio Yield (Net of Defaulted Receivables)                                                                    9.10%
+
+(xii)  Reallocated Monthly Principal                                                                                      0.00
+
+(xiii) Accumulation Shortfall                                                                                             0.00
+
+(xiv)  Principal Funding Investment Proceeds                                                                              0.00
+
+(xv)   Principal Funding Investment Shortfall 0.00
+
+(xvi)  Available Investor Finance Charge Collections                                                             23,882,031.99
+
+(xxii) Note Rate                           Class A               2.20000%
+                                           Class B               2.44000%
+                                           Class C               2.89000%
+
+</TABLE>
+
+
+       By:
+               -----------------------------------------
+       Name:   Patricia M. Garvey
+       Title:  Vice President
+
+<PAGE>
+
+                         Chase Manhattan Bank USA, N.A.
+                      Monthly Certificateholder's Statement
+
+                         Chase Credit Card Master Trust
+                                  Series 2004-1
+<TABLE>
+<CAPTION>
+                                                                                            Distribution Date: 12/15/2004
+                                                                                            Period Type: Revolving
+Section 5.2 - Supplement                                                                                        Total
+- -------------------------------------------------------------------------------------------------------------------------
+
+<S>                                                          <C>                                     <C>
+(i)    Monthly Principal Distributed                                 0.00                                                 0.00
+
+(ii)   Monthly Interest Distributed
+       Class A Note Interest Requirement                     2,226,000.00
+       Class B Note Interest Requirement                       200,375.00
+       Net Class C Note Interest Requirement                   265,989.80                                         2,692,364.80
+
+(iii)  Collections of Principal Receivables                                                                     224,382,867.82
+
+(iv)   Collections of Finance Charge Receivables                                                                 19,161,523.99
+
+(v)    Aggregate Amount of Principal Receivables                                                             34,106,298,952.71
+
+                         Investor Interest                                                                    1,500,000,000.00
+                         Adjusted Interest                                                                    1,500,000,000.00
+
+
+       Floating Investor Percentage                                                                                      4.40%
+       Fixed Investor Percentage                                                                                         4.40%
+
+(vi)   Receivables Delinquent (As % of Total Receivables)
+               Current                                                                                                  95.37%
+               30 to 59 days                                                                                             1.48%
+               60 to 89 days                                                                                             0.97%
+               90 or more days                                                                                           2.18%
+                                                                                                           --------------------
+                                           Total Receivables                                                           100.00%
+
+(vii)  Investor Default Amount                                                                                    8,104,052.32
+
+(viii) Investor Charge-Offs                                                                                               0.00
+
+(ix)   Reimbursed Investor Charge-Offs                                                                                    0.00
+
+(x)    Net Servicing Fee                                                                                          1,250,000.00
+
+(xi)   Portfolio Yield (Net of Defaulted Receivables)                                                                    9.10%
+
+(xii)  Reallocated Monthly Principal                                                                                      0.00
+
+(xiii) Accumulation Shortfall                                                                                             0.00
+
+(xiv)  Principal Funding Investment Proceeds                                                                              0.00
+
+(xv)   Principal Funding Investment Shortfall                                                                             0.00
+
+(xvi)  Available Investor Finance Charge Collections                                                             17,911,523.99
+
+(xxii) Note Rate                           Class A               2.12000%
+                                           Class B               2.29000%
+                                           Class C               2.56000%
+</TABLE>
+
+       By:
+               -----------------------------------------
+       Name:   Patricia M. Garvey
+       Title:  Vice President
+
+<PAGE>
+
+                         Chase Manhattan Bank USA, N.A.
+                      Monthly Certificateholder's Statement
+
+                         Chase Credit Card Master Trust
+                                  Series 2004-2
+<TABLE>
+<CAPTION>
+                                                                                            Distribution Date: 12/15/2004
+                                                                                            Period Type: Revolving
+Section 5.2 - Supplement                                                                                        Total
+- -------------------------------------------------------------------------------------------------------------------------
+
+<S>                                                          <C>                                     <C>
+(i)    Monthly Principal Distributed                                 0.00                                                0.00
+
+(ii)   Monthly Interest Distributed
+       Class A Note Interest Requirement                     2,609,250.00
+       Class B Note Interest Requirement                       235,812.50
+       Net Class C Note Interest Requirement                   320,821.46                                        3,165,883.96
+
+(iii)  Collections of Principal Receivables                                                                    261,780,012.45
+
+(iv)   Collections of Finance Charge Receivables                                                                22,355,111.32
+
+(v)    Aggregate Amount of Principal Receivables                                                            34,106,298,952.71
+
+                         Investor Interest                                                                   1,750,000,000.00
+                         Adjusted Interest                                                                   1,750,000,000.00
+
+
+       Floating Investor Percentage                                                                                     5.13%
+       Fixed Investor Percentage                                                                                        5.13%
+
+(vi)   Receivables Delinquent (As % of Total Receivables)
+               Current                                                                                                 95.37%
+               30 to 59 days                                                                                            1.48%
+               60 to 89 days                                                                                            0.97%
+               90 or more days                                                                                          2.18%
+                                                                                                           -------------------
+                                           Total Receivables                                                          100.00%
+
+(vii)  Investor Default Amount                                                                                   9,454,727.70
+
+(viii) Investor Charge-Offs                                                                                              0.00
+
+(ix)   Reimbursed Investor Charge-Offs                                                                                   0.00
+
+(x)    Net Servicing Fee                                                                                         1,458,333.33
+
+(xi)   Portfolio Yield (Net of Defaulted Receivables)                                                                   9.10%
+
+(xii)  Reallocated Monthly Principal                                                                                    0.00
+
+(xiii) Accumulation Shortfall                                                                                           0.00
+
+(xiv)  Principal Funding Investment Proceeds                                                                            0.00
+
+(xv)   Principal Funding Investment Shortfall                                                                           0.00
+
+(xvi)  Available Investor Finance Charge Collections                                                            20,896,777.99
+
+(xxii) Note Rate                           Class A               2.13000%
+                                           Class B               2.31000%
+                                           Class C               2.64000%
+</TABLE>
+
+       By:
+               -----------------------------------------
+       Name:   Patricia M. Garvey
+       Title:  Vice President
+
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

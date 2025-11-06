@@ -1,0 +1,760 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ RBA58oTzafGOxSoibL5giKouSZ1dAYl5iRrJMhm5E3oU9PL6RdqCTDXT8zSLeK+8
+ lXVULfbFJH1bBlR+fThykw==
+
+<SEC-DOCUMENT>0001299933-04-002415.txt : 20041222
+<SEC-HEADER>0001299933-04-002415.hdr.sgml : 20041222
+<ACCEPTANCE-DATETIME>20041222154028
+ACCESSION NUMBER:		0001299933-04-002415
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20041222
+ITEM INFORMATION:		Regulation FD Disclosure
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20041222
+DATE AS OF CHANGE:		20041222
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			COLLEGIATE PACIFIC INC
+		CENTRAL INDEX KEY:			0000828747
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-CATALOG & MAIL-ORDER HOUSES [5961]
+		IRS NUMBER:				222795073
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-15289
+		FILM NUMBER:		041220797
+
+	BUSINESS ADDRESS:	
+		STREET 1:		13950 SEMLAC
+		STREET 2:		SUITE 200
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75234
+		BUSINESS PHONE:		9722438100
+
+	MAIL ADDRESS:	
+		STREET 1:		13950 SEMLAC
+		STREET 2:		SUITE 200
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75234
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	DSSI CORP
+		DATE OF NAME CHANGE:	19971031
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	DRUG SCREENING SYSTEMS INC
+		DATE OF NAME CHANGE:	19920703
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>htm_2350.htm
+<DESCRIPTION>LIVE FILING
+<TEXT>
+<!-- CoverPageHeader start -->
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML>
+<HEAD>
+<TITLE> Collegiate Pacific Inc. (Form: 8-K) </TITLE>
+</HEAD>
+<BODY TEXT="#000000" BGCOLOR="#FFFFFF" ALINK="#0000FF" HLINK="#FF0000" VLINK="#800080">
+<A NAME="DOCUMENT_TOP">&nbsp;</A>
+<P>
+<!-- CoverPageHeader end --><!-- CoverPageTitle START -->
+<A NAME="DOCUMENT_TOP">&nbsp;</A>
+<HR NOSHADE>
+<P>
+<P ALIGN="CENTER">
+<FONT SIZE="4">
+		UNITED STATES<BR>
+	SECURITIES AND EXCHANGE COMMISSION
+</FONT>
+<BR>
+<FONT SIZE="2">
+	WASHINGTON, D.C. 20549
+</FONT>
+<P ALIGN="CENTER">
+<FONT SIZE="5">
+	FORM 8-K
+</FONT>
+<FONT SIZE="2">
+
+</FONT>
+</P>
+<P ALIGN="CENTER">
+<FONT SIZE="3">
+	CURRENT REPORT
+</FONT>
+</P>
+<P ALIGN="CENTER">
+<FONT SIZE="2">
+	Pursuant to Section&nbsp;13 or 15(d) of the Securities Exchange Act of 1934
+</FONT>
+</P>
+<CENTER>
+<TABLE CELLSPACING="0" BORDER="0" CELLPADDING="0" WIDTH="100%">
+<TR VALIGN="BOTTOM">
+<TD WIDTH="51%">
+	&nbsp;
+</TD>
+<TD WIDTH="5%">
+	&nbsp;
+</TD>
+<TD WIDTH="44%">
+	&nbsp;
+</TD>
+</TR>
+<TR VALIGN="BOTTOM">
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+	Date of Report (Date of Earliest Event Reported):
+</FONT>
+</TD>
+<TD>
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+	December 22, 2004
+</FONT>
+</TD>
+</TR>
+</TABLE>
+<BR>
+</CENTER>
+<!-- CoverPageTitle END --><!-- CoverPageRegistrant START -->
+<P ALIGN="CENTER"><!-- -->
+<FONT SIZE="6">
+	Collegiate Pacific Inc.
+</FONT>
+<FONT SIZE="2">
+<BR>__________________________________________<BR>
+	(Exact name of registrant as specified in its charter)
+</FONT>
+<CENTER>
+<TABLE CELLSPACING="0" BORDER="0" CELLPADDING="0" WIDTH="100%">
+<TR VALIGN="BOTTOM">
+<TD WIDTH="33%">
+	&nbsp;
+</TD>
+<TD WIDTH="34%">
+	&nbsp;
+</TD>
+<TD WIDTH="33%">
+	&nbsp;
+</TD>
+</TR>
+<TR VALIGN="BOTTOM">
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+	Delaware
+</FONT>
+</TD>
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+	0-17293
+</FONT>
+</TD>
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+	22-2795073
+</FONT>
+</TD>
+</TR>
+<TR VALIGN="BOTTOM">
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+_____________________<BR>
+	(State or other jurisdiction
+</FONT>
+</TD>
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+_____________<BR>
+	(Commission
+</FONT>
+</TD>
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+______________<BR>
+	(I.R.S. Employer
+</FONT>
+</TD>
+</TR>
+<TR VALIGN="BOTTOM">
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+	of incorporation)
+</FONT>
+</TD>
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+	File Number)
+</FONT>
+</TD>
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+	Identification No.)
+</FONT>
+</TD>
+</TR>
+<TR VALIGN="BOTTOM">
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+	&nbsp;&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+</TR>
+<TR VALIGN="BOTTOM">
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+	13950 Senlac Drive, Suite 100, Dallas, Texas
+</FONT>
+</TD>
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+	75234
+</FONT>
+</TD>
+</TR>
+<TR VALIGN="BOTTOM">
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+_________________________________<BR>
+	(Address of principal executive offices)
+</FONT>
+</TD>
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+___________<BR>
+	(Zip Code)
+</FONT>
+</TD>
+</TR>
+</TABLE>
+</CENTER>
+<CENTER>
+<TABLE CELLSPACING="0" BORDER="0" CELLPADDING="0" WIDTH="100%">
+
+<TR VALIGN="BOTTOM">
+<TD WIDTH="51%">
+	&nbsp;
+</TD>
+<TD WIDTH="5%">
+	&nbsp;
+</TD>
+<TD WIDTH="44%">
+	&nbsp;
+</TD>
+</TR>
+<TR VALIGN="BOTTOM">
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+	Registrant&#146;s telephone number, including area code:
+</FONT>
+</TD>
+<TD>
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+	972.243.8100
+</FONT>
+</TD>
+</TR>
+</TABLE>
+</CENTER>
+<P ALIGN="CENTER">
+<FONT SIZE="2">
+	Not Applicable
+<BR>______________________________________________<BR>
+	Former name or former address, if changed since last report
+</FONT>
+<P ALIGN="CENTER">
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+<!-- CoverPageRegistrant END --><P><FONT SIZE="2">
+Check the appropriate box below if the Form 8-K filing is intended to
+simultaneously satisfy the filing obligation of the registrant under any
+of the following provisions:</FONT>
+</P>
+<P><FONT SIZE="2">
+[&nbsp;&nbsp;]&nbsp;&nbsp;Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)<br>
+[&nbsp;&nbsp;]&nbsp;&nbsp;Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)<br>
+[&nbsp;&nbsp;]&nbsp;&nbsp;Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))<br>
+[&nbsp;&nbsp;]&nbsp;&nbsp;Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))<br>
+</P></FONT><!-- PageBreak START -->
+<P>
+<HR NOSHADE>
+<DIV ALIGN="LEFT" STYLE="PAGE-BREAK-BEFORE:ALWAYS">
+<A HREF="#DOCUMENT_TOP">
+<U>
+<B>
+<FONT SIZE="2">Top of the Form</FONT>
+</B>
+</U>
+</A>
+</DIV>
+<!-- PageBreak END --><!-- Item START -->
+<P ALIGN="LEFT">
+<FONT SIZE="2">
+<B>
+	Item 7.01. Regulation FD Disclosure.
+</B>
+</FONT>
+</P>
+<P ALIGN="LEFT">
+<FONT SIZE="2">
+On December 22, 2004, Collegiate Pacific Inc. issued a press release.  A copy of the press release is attached to this Current Report on Form 8-K as Exhibit 99.1 and is incorporated herein solely for purposes of this Item 7.01.<br><br>In accordance with General Instruction B.2 of Form 8-K, the information set forth in this Item 7.01, including Exhibit 99.1, is furnished pursuant to Item 7.01 and shall not be deemed "filed" for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the "Exchange Act"), or otherwise subject to the liabilities under that section, nor shall such information be deemed incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as shall be expressly set forth by specific reference in such a filing.  The information set forth in this Item 7.01 shall not be deemed an admission as to the materiality of any information in this report on Form 8-K that is required to be disclosed solely to satisfy the requirements
+ of Regulation FD.<br>
+</FONT>
+</P>
+<!-- Item END -->
+<BR><BR><BR><BR><!-- Item START -->
+<P ALIGN="LEFT">
+<FONT SIZE="2">
+<B>
+	Item 9.01. Financial Statements and Exhibits.
+</B>
+</FONT>
+</P>
+<P ALIGN="LEFT">
+<FONT SIZE="2">
+99.1  Press Release dated December 22, 2004.
+</FONT>
+</P>
+<!-- Item END -->
+<BR><BR><BR><BR><P ALIGN="LEFT" STYLE="FONT-SIZE: 10PT"></P><!-- PageBreak START -->
+<P>
+<HR NOSHADE>
+<DIV ALIGN="LEFT" STYLE="PAGE-BREAK-BEFORE:ALWAYS">
+<A HREF="#DOCUMENT_TOP">
+<U>
+<B>
+<FONT SIZE="2">Top of the Form</FONT>
+</B>
+</U>
+</A>
+</DIV>
+<!-- PageBreak END --><!-- SignatureHeader START -->
+<P ALIGN="CENTER">
+<FONT SIZE="2">
+<B>
+	SIGNATURES
+</B>
+</FONT>
+</P>
+<P ALIGN="LEFT">
+<FONT SIZE="2">
+	Pursuant to the requirements of the Securities Exchange Act of 1934, the
+	registrant has duly caused this report to be signed on its behalf by the
+	undersigned hereunto duly authorized.
+</FONT>
+</P>
+<!-- SignatureHeader END --><!-- Signature START -->
+<CENTER>
+<TABLE CELLSPACING="0" BORDER="0" CELLPADDING="0" WIDTH="100%">
+<TR VALIGN="BOTTOM">
+<TD WIDTH="19%">
+	&nbsp;
+</TD>
+<TD WIDTH="34%">
+	&nbsp;
+</TD>
+<TD WIDTH="3%">
+	&nbsp;
+</TD>
+<TD WIDTH="1%">
+	&nbsp;
+</TD>
+<TD WIDTH="43%">
+	&nbsp;
+</TD>
+</TR>
+<TR VALIGN="BOTTOM">
+<TD VALIGN="TOP">
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD>
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD COLSPAN="3" VALIGN="TOP" ALIGN="LEFT">
+<FONT SIZE="2">
+	Collegiate Pacific Inc.
+</FONT>
+</TD>
+</TR>
+<TR VALIGN="BOTTOM">
+<TD VALIGN="TOP">
+<FONT SIZE="2">
+	&nbsp;&nbsp;
+</FONT>
+</TD>
+<TD>
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD>
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+</TR>
+<TR VALIGN="BOTTOM">
+<TD VALIGN="TOP">
+<FONT SIZE="2">
+<I>
+	December 22, 2004
+</I>
+</FONT>
+</TD>
+<TD>
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<FONT SIZE="2">
+<I>
+	By:
+</I>
+</FONT>
+</TD>
+<TD>
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<FONT SIZE="2">
+<I>
+	William R. Estill
+</I>
+<BR>
+</FONT>
+</TD>
+</TR>
+<TR>
+<TD VALIGN="TOP">
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD>
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD>
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<HR SIZE="1" NOSHADE>
+</TD>
+</TR>
+<TR VALIGN="BOTTOM">
+<TD VALIGN="TOP">
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD>
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD>
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<FONT SIZE="2">
+<I>
+	Name: William R. Estill
+</I>
+</FONT>
+</TD>
+</TR>
+<TR VALIGN="BOTTOM">
+<TD VALIGN="TOP">
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD>
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD>
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<FONT SIZE="2">
+<I>
+	Title: Chief Financial Officer
+</I>
+</FONT>
+</TD>
+</TR>
+</TABLE>
+</CENTER>
+<!-- Signature END --><!-- PageBreak START -->
+<P>
+<HR NOSHADE>
+<DIV ALIGN="LEFT" STYLE="PAGE-BREAK-BEFORE:ALWAYS">
+<A HREF="#DOCUMENT_TOP">
+<U>
+<B>
+<FONT SIZE="2">Top of the Form</FONT>
+</B>
+</U>
+</A>
+</DIV>
+<!-- PageBreak END --><P ALIGN="CENTER">
+<FONT SIZE="2">
+	Exhibit&nbsp;Index
+</FONT>
+<CENTER>
+<TABLE CELLSPACING="0" BORDER="0" CELLPADDING="0" WIDTH="60%">
+<TR VALIGN="BOTTOM">
+<TD WIDTH="8%">
+	&nbsp;
+</TD>
+<TD WIDTH="15%">
+	&nbsp;
+</TD>
+<TD WIDTH="77%">
+	&nbsp;
+</TD>
+</TR>
+
+<BR>
+<TR VALIGN="BOTTOM">
+<TD NOWRAP ALIGN="LEFT">
+<FONT SIZE="1">
+<B>
+	Exhibit No.
+</B>
+</FONT>
+</TD>
+<TD>
+<FONT SIZE="1">
+	&nbsp;
+</FONT>
+</TD>
+<TD NOWRAP ALIGN="LEFT">
+<FONT SIZE="1">
+<B>
+	Description
+</B>
+</FONT>
+</TD>
+</TR>
+<TR VALIGN="BOTTOM">
+<TD NOWRAP ALIGN="CENTER">
+<HR SIZE="1" NOSHADE>
+</TD>
+<TD>
+<FONT SIZE="1">
+	&nbsp;
+</FONT>
+</TD>
+<TD NOWRAP ALIGN="CENTER">
+<HR ALIGN="LEFT" SIZE="1" WIDTH="88%" NOSHADE>
+</TD>
+</TR>
+
+
+
+
+
+<TR VALIGN="BOTTOM">
+<TD VALIGN="TOP" WIDTH="8%" nowrap>
+<FONT SIZE="2">
+<DIV ALIGN="LEFT">
+	99.1
+</DIV>
+</FONT>
+</TD>
+<TD WIDTH="15%">
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP" WIDTH="77%">
+<FONT SIZE="2">
+Press Release
+</FONT>
+</TD>
+</TR></TABLE></CENTER><!-- HTMLFooter START -->
+</BODY>
+</HTML>
+<!-- HTMLFooter END -->
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>exhibit1.htm
+<DESCRIPTION>EX-99.1
+<TEXT>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML>
+<HEAD>
+<TITLE> EX-99.1 </TITLE>
+</HEAD>
+<BODY TEXT="#000000" BGCOLOR="#FFFFFF" ALINK="#0000FF" HLINK="#FF0000" VLINK="#800080">
+
+<BODY style="font-family: 'Times New Roman',Times,serif">
+<!-- <DIV align="center" style="width: 99%; background: black; padding: 1px; height: 100%"> -->
+<!-- <DIV align="center" style="width: 100%; background: white; padding: 5px; height: 100%">  -->
+
+
+<P align="center" style="font-size: 10pt"><FONT style="font-size: 9pt">Collegiate Pacific to Present at ICR Leisure Conference</FONT>
+
+
+
+<P align="left" style="font-size: 9pt">DALLAS&#151;(BUSINESS WIRE)&#151;Dec. 22, 2004&#151;Collegiate Pacific (AMEX:</FONT><FONT style="font-size: 8pt"><U>BOO</FONT><FONT style="font-size: 9pt"></U>) today
+announced that it has been invited and has accepted an invitation to present at the ICR Conference
+Jan 13-14 in Carlsbad, Calif. The ICR conference is one of the nations fastest growing and
+prestigious conferences for the leisure time and recreational industry with attendance expected to
+exceed 600.</FONT>
+
+
+<P align="left" style="font-size: 9pt">Michael Blumenfeld, CEO of Collegiate Pacific, stated &#147;We are pleased to be included in this
+conference as it is one more step in the recognition of what we have accomplished within the
+sporting goods industry. The recent $50&nbsp;million placement has resulted in a flurry of acquisition
+activity which we suspect will result in several accretive transactions completed in the months
+ahead. As stated in previous releases, our primary goal is to deploy these funds to create a
+minimum annual revenue base of $200&nbsp;million with a significant increase in operating and net income
+levels.&#148;
+
+
+<P align="left" style="font-size: 9pt">Collegiate Pacific is the nation&#146;s fastest growing manufacturer and supplier of sports equipment
+primarily to the institutional and team dealer markets. The Company offers more than 4,000 products
+to 200,000 prospective and existing customers. The Company distributes approximately 1.5&nbsp;million
+catalogs annually and employs over 140 professional road salesmen.
+
+
+<P align="left" style="font-size: 9pt">This press release contains &#147;forward-looking statements&#148; within the meaning of the Private
+Securities Litigation Reform Act of 1995. These forward-looking statements include statements
+relating to Collegiate Pacific&#146;s anticipated financial performance, business prospects, new
+developments and similar matters, and/or statements preceded by, followed by or that include the
+words &#147;believes,&#148; &#147;could,&#148; &#147;expects,&#148; &#147;anticipates,&#148; &#147;estimates,&#148; &#147;intends,&#148; &#147;plans,&#148; or similar
+expressions. These forward-looking statements are based on management&#146;s current expectations and
+assumptions, which are inherently subject to uncertainties, risks and changes in circumstances that
+are difficult to predict. Actual results may differ materially from those suggested by the
+forward-looking statements due to a variety of factors, including changes in business, political,
+and economic conditions due to the threat of future terrorist activity or otherwise, actions and
+initiatives by current and potential competitors, and certain other additional factors described in
+Collegiate Pacific&#146;s filings with the Securities and Exchange Commission. Other unknown or
+unpredictable factors also could have material adverse effects on Collegiate Pacific&#146;s future
+results, performance or achievements. In light of these risks, uncertainties, assumptions and
+factors, the forward-looking events discussed in this press release may not occur. You are
+cautioned not to place undue reliance on these forward-looking statements, which speak only as of
+the date stated, or if no date is stated, as of the date of this press release. Collegiate Pacific
+is not under any obligation and does not intend to make publicly available any update or other
+revisions to any of the forward-looking statements contained in this press release to reflect
+circumstances existing after the date of this press release or to reflect the occurrence of future
+events even if experience or future events make it clear that any expected results expressed or
+implied by those forward-looking statements will not be realized.
+
+
+
+<P align="left" style="margin-left:1%; font-size: 9pt"><FONT style="font-size: 10pt"> CONTACT: Collegiate Pacific, Dallas Michael Blumenfeld, 972-243-8100</FONT>
+
+
+<P align="left" style="font-size: 10pt; text-indent: 1%">SOURCE: Collegiate Pacific
+
+
+
+<P align="center" style="font-size: 10pt; display: none">
+
+
+<!-- </DIV> -->
+<!-- </DIV> -->
+</BODY>
+
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

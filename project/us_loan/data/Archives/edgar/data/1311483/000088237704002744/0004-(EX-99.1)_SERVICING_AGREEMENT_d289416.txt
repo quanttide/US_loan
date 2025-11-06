@@ -1,0 +1,3116 @@
+
+                                  EXHIBIT 99.1
+
+<PAGE>
+
+================================================================================
+
+
+
+                     HOME LOAN AND INVESTMENT BANK, F.S.B.,
+                             as Seller and Servicer,
+
+
+
+                      HOME LOAN MORTGAGE LOAN TRUST 2004-2,
+                                    as Issuer
+
+
+                                       and
+
+
+                      DEUTSCHE BANK NATIONAL TRUST COMPANY,
+                              as Indenture Trustee,
+
+
+                          ____________________________
+
+                               SERVICING AGREEMENT
+
+                          Dated as of December 16, 2004
+
+                          ____________________________
+
+
+
+                                 Mortgage Loans
+
+
+                      Home Loan Mortgage Loan Trust 2004-2
+
+
+
+================================================================================
+
+<PAGE>
+
+
+                                TABLE OF CONTENTS
+                                -----------------
+
+<TABLE>
+<CAPTION>
+                                                                                                         Page
+                                                                                                         ----
+
+                                    ARTICLE I
+
+                                   DEFINITIONS
+
+<S>             <C>                                                                                      <C>
+Section 1.01.   Definitions.................................................................................2
+Section 1.02.   Other Definitional Provisions...............................................................2
+Section 1.03.   Interest Calculations.......................................................................2
+                                   ARTICLE II
+
+                         REPRESENTATIONS AND WARRANTIES
+
+Section 2.01.   Representations and Warranties Regarding the Seller and the Servicer........................3
+Section 2.02.   Representations and Warranties of the Seller Regarding the Mortgage Loans...................5
+Section 2.03.   Substitution and Repurchase of Mortgage Loans..............................................13
+Section 2.04.   Existence..................................................................................15
+                                   ARTICLE III
+
+                 ADMINISTRATION AND SERVICING OF MORTGAGE LOANS
+
+Section 3.01.   The Servicer...............................................................................15
+Section 3.02.   Collection of Certain Mortgage Loan Payments...............................................18
+Section 3.03.   Withdrawals from the Collection Account....................................................19
+Section 3.04.   Maintenance of Hazard Insurance; Property Protection Expenses..............................20
+Section 3.05.   Maintenance of Mortgage Impairment Insurance Policy........................................21
+Section 3.06.   Fidelity Bond..............................................................................21
+Section 3.07.   Management and Realization Upon Defaulted Mortgage Loans...................................22
+Section 3.08.   Indenture Trustee to Cooperate.............................................................23
+Section 3.09.   Servicing Compensation; Payment of Certain Expenses by Servicer............................23
+Section 3.10.   Annual Statement as to Compliance..........................................................24
+Section 3.11.   Annual Servicing Report....................................................................24
+Section 3.12.   Access to Certain Documentation and Information Regarding the Mortgage Loans...............24
+Section 3.13.   [Reserved].................................................................................25
+Section 3.14.   Reports to the Securities and Exchange Commission..........................................25
+Section 3.15.   Reports of Foreclosures and Abandonments of Mortgaged Property; Returns Relating
+                to Mortgage Interest Received from Individuals and Returns Relating to
+                Cancellation of Indebtedness...............................................................27
+Section 3.16.   Advances by the Servicer...................................................................27
+Section 3.17.   Compensating Interest......................................................................27
+Section 3.18.   Superior Liens.............................................................................28
+Section 3.19.   Assumption Agreements......................................................................28
+Section 3.20.   Payment of Taxes, Insurance and Other Charges..............................................29
+</TABLE>
+
+
+                                       i
+<PAGE>
+
+
+<TABLE>
+<CAPTION>
+<S>             <C>                                                                                      <C>
+                                   ARTICLE IV
+
+                                     REPORTS
+
+Section 4.01.   Remittance Reports and Remittance Amounts..................................................30
+                                    ARTICLE V
+
+                                  THE SERVICER
+
+Section 5.01.   Liability of the Seller and the Servicer...................................................31
+Section 5.02.   Merger or Consolidation of or Assumption of the Obligations of the Seller or the
+                Servicer...................................................................................31
+Section 5.03.   Limitation on Liability of the Servicer and Others.........................................31
+Section 5.04.   Servicer Not to Resign.....................................................................32
+Section 5.05.   Delegation of Duties.......................................................................32
+Section 5.06.   Reserved...................................................................................32
+Section 5.07.   Indemnification by the Servicer............................................................32
+                                   ARTICLE VI
+
+                                     DEFAULT
+
+Section 6.01.   Servicer Events of Default.................................................................34
+Section 6.02.   Indenture Trustee to Act; Appointment of Successor.........................................36
+Section 6.03.   Waiver of Defaults.........................................................................37
+Section 6.04.   Notification to Noteholders................................................................37
+                                   ARTICLE VII
+
+                            MISCELLANEOUS PROVISIONS
+
+Section 7.01.   Amendment..................................................................................38
+Section 7.02.   GOVERNING LAW..............................................................................38
+Section 7.03.   Notices....................................................................................38
+Section 7.04.   Severability of Provisions.................................................................39
+Section 7.05.   Third-Party Beneficiaries..................................................................39
+Section 7.06.   Counterparts...............................................................................39
+Section 7.07.   Effect of Headings and Table of Contents...................................................40
+Section 7.08.   Termination................................................................................40
+Section 7.09.   No Petition................................................................................40
+Section 7.10.   No Recourse................................................................................40
+Section 7.11.   Indenture Trustee Rights...................................................................40
+Section 7.12.   Assignment.................................................................................40
+                                  ARTICLE VIII
+
+                     DUTIES OF THE SERVICER AS ADMINISTRATOR
+
+Section 8.01.   Administrative Duties......................................................................41
+Section 8.02.   Records....................................................................................42
+Section 8.03.   Additional Information to be Furnished.....................................................42
+Section 8.04.   No Recourse to Owner Trustee...............................................................43
+</TABLE>
+
+
+                                       ii
+<PAGE>
+
+
+EXHIBITS
+
+Exhibit A       Mortgage Loan Schedule
+Exhibit B       Form of Request for Release
+Exhibit C-1     Form of Certification to Be Provided by the Servicer
+                with Form 10-K
+Exhibit C-2     Form of Certification to Be Provided to the Servicer by the
+                Indenture Trustee
+Exhibit D       Form of Officer's Certificate Regarding Annual Statement
+                of Compliance
+Exhibit E       Monthly Information Delivered to Indenture Trustee
+Exhibit F       Monthly Delinquency and Foreclosure Information
+
+Appendix A      Definitions
+
+
+                                      iii
+<PAGE>
+
+
+                  This Servicing Agreement, dated as of December 16, 2004, among
+Home Loan and Investment Bank, F.S.B., as Seller and Servicer (the "Seller" and
+the "Servicer" ), Home Loan Mortgage Loan Trust 2004-2, as Issuer (the "Issuer")
+and Deutsche Bank National Trust Company, as Indenture Trustee (the "Indenture
+Trustee").
+
+                          W I T N E S S E T H T H A T :
+
+                  WHEREAS, pursuant to the terms of the Purchase Agreement and
+each Subsequent Transfer Agreement, Financial Asset Securities Corp. (the
+"Depositor") will acquire the Mortgage Loans and the Subsequent Mortgage Loans;
+
+                  WHEREAS, the Depositor will create Home Loan Mortgage Loan
+Trust 2004-2, a Delaware statutory trust, and will transfer the Mortgage Loans
+and the Subsequent Mortgage Loans and all of its rights under the Purchase
+Agreement and each Subsequent Transfer Agreement to the Issuer;
+
+                  WHEREAS, pursuant to the terms of an Amended and Restated
+Trust Agreement dated as of December 16, 2004 (the "Trust Agreement") among the
+Depositor, as depositor, Wilmington Trust Company, as owner trustee (the "Owner
+Trustee") and Deutsche Bank National Trust Company, as certificate registrar and
+certificate paying agent, the Depositor will convey the Mortgage Loans to the
+Issuer in exchange for the Certificates (as defined below);
+
+                  WHEREAS, pursuant to the terms of the Trust Agreement, the
+Issuer will issue and transfer to or at the direction of the Depositor, the
+Trust Certificates, Series 2004-2 (the "Certificates");
+
+                  WHEREAS, pursuant to the terms of an Indenture dated as of
+December 16, 2004 (the "Indenture") between the Issuer and Deutsche Bank
+National Trust Company (the "Indenture Trustee"), the Issuer will pledge the
+Mortgage Loans and issue and transfer to or at the direction of the Depositor
+the Home Loan Mortgage Loan Trust 2004-2, Asset-Backed Notes, Series 2004-2,
+Class A Notes (the "Notes"); and
+
+                  WHEREAS, pursuant to the terms of this Servicing Agreement,
+the Servicer will service the Mortgage Loans set forth on the Mortgage Loan
+Schedule attached hereto as Exhibit A directly or through one or more
+Sub-Servicers;
+
+                  NOW, THEREFORE, in consideration of the mutual covenants
+herein contained, the parties hereto agree as follows:
+
+<PAGE>
+
+
+                                    ARTICLE I
+
+                                   DEFINITIONS
+
+                  Section 1.01 DEFINITIONS. For all purposes of this Servicing
+Agreement, except as otherwise expressly provided herein or unless the context
+otherwise requires, capitalized terms not otherwise defined herein shall have
+the meanings assigned to such terms in the Definitions contained in Appendix A
+to the Indenture which is incorporated by reference herein. All other
+capitalized terms used herein shall have the meanings specified herein.
+
+                  Section 1.02 OTHER DEFINITIONAL PROVISIONS.
+
+                  (a)      All terms defined in this Servicing Agreement shall
+have the defined meanings when used in any certificate or other document made or
+delivered pursuant hereto unless otherwise defined therein.
+
+                  (b)      As used in this Servicing Agreement and in any
+certificate or other document made or delivered pursuant hereto or thereto,
+accounting terms not defined in this Servicing Agreement or in any such
+certificate or other document, and accounting terms partly defined in this
+Servicing Agreement or in any such certificate or other document, to the extent
+not defined, shall have the respective meanings given to them under generally
+accepted accounting principles. To the extent that the definitions of accounting
+terms in this Servicing Agreement or in any such certificate or other document
+are inconsistent with the meanings of such terms under generally accepted
+accounting principles, the definitions contained in this Servicing Agreement or
+in any such certificate or other document shall control.
+
+                  (c)      The words "hereof," "herein," "hereunder" and words
+of similar import when used in this Servicing Agreement shall refer to this
+Servicing Agreement as a whole and not to any particular provision of this
+Servicing Agreement; Section and Exhibit references contained in this Servicing
+Agreement are references to Sections and Exhibits in or to this Servicing
+Agreement unless otherwise specified; and the term "including" shall mean
+"including without limitation".
+
+                  (d)      The definitions contained in this Servicing Agreement
+are applicable to the singular as well as the plural forms of such terms and to
+the masculine as well as the feminine and neuter genders of such terms.
+
+                  (e)      Any agreement, instrument or statute defined or
+referred to herein or in any instrument or certificate delivered in connection
+herewith means such agreement, instrument or statute as from time to time
+amended, modified or supplemented and includes (in the case of agreements or
+instruments) references to all attachments thereto and instruments incorporated
+therein; references to a Person are also to its permitted successors and
+assigns.
+
+                  Section 1.03 INTEREST CALCULATIONS. All calculations of
+interest hereunder that are made in respect of the Stated Principal Balance of a
+Mortgage Loan shall be made on the basis of a 360-day year consisting of twelve
+30-day months, notwithstanding the terms of the related Mortgage Note and
+Mortgage.
+
+
+                                       2
+<PAGE>
+
+
+                                   ARTICLE II
+
+                         REPRESENTATIONS AND WARRANTIES
+
+                  Section 2.01 REPRESENTATIONS AND WARRANTIES REGARDING THE
+SELLER AND THE SERVICER. Each of the Seller and the Servicer hereby represents,
+warrants and covenants to the Issuer and for the benefit of the Indenture
+Trustee, as pledgee of the Mortgage Loans, the Note Insurer and the Noteholders
+that as of the Closing Date, each Subsequent Transfer Date or as of such date
+specifically provided herein:
+
+                  (a)      The Seller and Servicer is duly organized, validly
+existing, and in good standing under the laws of the United States of America
+and has all licenses necessary to carry on its business as now being conducted
+and is licensed, qualified and in good standing in each Mortgaged Property State
+if the laws of such state require licensing or qualification in order to conduct
+business of the type conducted by the Seller and Servicer and to perform its
+obligations as Seller and Servicer hereunder; the Seller and Servicer has the
+full power and authority corporate and otherwise to own its property, to carry
+on its business as presently conducted to execute and deliver this Agreement and
+to perform in accordance herewith; the execution, delivery and performance of
+this Agreement (including all instruments of transfer to be delivered pursuant
+to this Agreement) by the Seller and Servicer and the consummation of the
+transactions contemplated hereby have been duly and validly authorized by all
+necessary action; this Agreement evidences the valid, binding and enforceable
+obligation of the Seller and Servicer; and all requisite action has been taken
+by the Seller and Servicer to make this Agreement valid, binding and enforceable
+upon the Seller and Servicer in accordance with its terms, except as such
+enforcement may be limited by bankruptcy, insolvency, reorganization,
+receivership, moratorium and other, similar laws relating to or affecting
+creditors' rights generally or by the application of general equitable
+principles in any proceeding, whether at law or in equity;
+
+                  (b)      All actions, approvals, consents, waivers,
+exemptions, variances, franchises, orders, permits, authorizations, rights and
+licenses required to be taken, given or obtained, as the case may be, by or from
+any federal, state or other governmental authority or agency that are necessary
+in connection with the purchase and sale of the Mortgage Loans and the execution
+and delivery by the Seller and Servicer of the documents relating to the
+transactions contemplated by this Agreement, the Purchase Agreement and each
+Subsequent Transfer Agreement in the case of the Seller, to which it is a party,
+have been duly taken, given or obtained, as the case may be, are in full force
+and effect, are not subject to any pending proceedings or appeals
+(administrative, judicial or otherwise) and either the time within which any
+appeal therefrom may be taken or review thereof may be obtained has expired or
+no review thereof may be obtained or appeal therefrom taken, and are adequate to
+authorize the consummation of the transactions contemplated by this Agreement
+and the other documents on the part of the Seller and Servicer and the
+performance by the Seller and Servicer of its obligations as Seller or Servicer
+under this Agreement and such of the other documents to which it is a party;
+
+                  (c)      The consummation of the transactions contemplated by
+this Agreement will not result in the breach of any terms or provisions of the
+charter or bylaws of the Seller and Servicer or result in the breach of any term
+or provision of, or conflict with or constitute a default
+
+
+                                       3
+<PAGE>
+
+
+under or result in the acceleration of any obligation under, any material
+agreement, indenture, contract or loan or credit agreement or other material
+instrument to which the Seller and Servicer or its property is subject, or
+result in the violation of any law, rule, regulation, order, judgment or decree
+to which the Seller and Servicer or its property is subject;
+
+                  (d)      Neither this Agreement nor any statement, report or
+other document prepared by the Seller and furnished or to be furnished pursuant
+to this Agreement or in connection with the transactions contemplated hereby
+contains any untrue statement of material fact or omits to state a material fact
+necessary to make the statements contained herein or therein, in the light of
+the circumstances under which they were made, not misleading;
+
+                  (e)      There is no action, suit, proceeding or investigation
+pending or, to the best of the knowledge of the Seller and Servicer, threatened,
+before any court, administrative agency or tribunal against the Seller and
+Servicer which, either in any one instance or in the aggregate, may result in
+any material adverse change in the business, operations, financial condition,
+properties or assets of the Seller and Servicer or in any material prohibition
+or impairment of the right or ability of the Seller and Servicer to carry on its
+business substantially as now conducted, or in any material liability on the
+part of the Seller and Servicer or which would draw into question the validity
+or enforceability of this Agreement or the Mortgage Loans or of any action taken
+or to be taken in connection with the obligations of the Seller and Servicer
+contemplated herein, or which would be likely to impair materially the ability
+of the Seller and Servicer to perform under the terms of this Agreement or that
+might prohibit its entering into this Agreement or the consummation of any of
+the transactions contemplated hereby;
+
+                  (f)      The Seller and Servicer is not in violation of or in
+default with respect to, and the execution and delivery of this Agreement by the
+Seller and Servicer and its performance of and compliance with the terms hereof
+will not constitute a violation or default with respect to, any order or decree
+of any court or any order, regulation or demand of any federal, state, municipal
+or governmental agency, which violation or default might have consequences that
+would materially and adversely affect the condition (financial or other) or
+operations of the Seller and Servicer or its properties or might have
+consequences that would materially and adversely affect its performance
+hereunder or under any Subservicing Agreement;
+
+                  (g)      With respect to any Mortgage Loan purchased by the
+Seller, the Seller acquired title to the Mortgage Loan in good faith, without
+notice of any adverse claim; and
+
+                  (h)      The Servicer is an approved seller/servicer of
+conventional first and second mortgage loans for Fannie Mae and an approved
+seller/servicer of conventional second mortgage loans for Freddie Mac in good
+standing, and the Servicer's deposits are insured by the FDIC to the maximum
+extent permitted by law.
+
+                  The representations and warranties set forth in this Section
+shall survive the sale and assignment of the Mortgage Loans to the Trust. Upon
+discovery of a breach of any representations and warranties which materially and
+adversely affects the interests of the Noteholders or the Note Insurer, the
+Person discovering such breach shall give prompt written notice to the other
+parties and to the Note Insurer. Within 60 days of its discovery or its receipt
+of notice of breach, or, with the prior written consent of a Responsible Officer
+of the Indenture
+
+
+                                       4
+<PAGE>
+
+
+Trustee, such longer period specified in such consent, the Servicer shall cure
+such breach in all material respects.
+
+                  Section 2.02 REPRESENTATIONS AND WARRANTIES OF THE SELLER
+REGARDING THE MORTGAGE LOANS.
+
+                  (a)      The Seller represents and warrants to the Note
+Insurer and to the Indenture Trustee on behalf of the Noteholders as follows as
+of the Cut-Off Date (or such other date specified) with respect to the Initial
+Mortgage Loans:
+
+                  (i)      The information with respect to each Mortgage Loan
+         set forth in the Mortgage Loan Schedule is true and correct in all
+         material respects as of the Cut-Off Date;
+
+                  (ii)     All of the Related Documents have been delivered or
+         will be delivered to the Indenture Trustee as required by the Purchase
+         Agreement;
+
+                  (iii)    Each Mortgaged Property is improved by a one- to
+         five-family Residential Dwelling, which, to the best of the Seller's
+         knowledge, does not include cooperatives or (other than with respect to
+         4 Initial Mortgage Loans representing 0.40% of the Cut-Off Date Pool
+         Principal Balance for which the related Mortgaged Property is attached
+         to real estate) manufactured homes and does not constitute anything
+         other than real property under state law;
+
+                  (iv)     Each Mortgage Loan is being serviced by the Servicer;
+
+                  (v)      Each Mortgage Loan has an original term to maturity
+         from the date on which the first Monthly Payment is due of not more
+         than 30 years;
+
+                  (vi)     90.06% of the Initial Mortgage Loans by Cut-Off Date
+         Pool Principal Balance have Mortgage Notes that provide for Monthly
+         Payments that will adjust semi-annually (other than during the first
+         two or three years following origination) with changes to the related
+         Loan Rate, which, if timely paid, are sufficient to fully amortize the
+         principal balance of such Mortgage Note on or before its maturity date
+         and to pay interest at the applicable Loan Rate from time to time in
+         effect;
+
+                  (vii)    Each Mortgage is a valid and subsisting first or
+         second lien of record on the Mortgaged Property subject, in the case of
+         any second Mortgage Loan, only to a First Lien on such Mortgaged
+         Property and subject in all cases to the exceptions to title set forth
+         in the title insurance policy with respect to the related Mortgage
+         Loan, which exceptions are generally acceptable to second mortgage
+         lending companies, and such other exceptions to which similar
+         properties are commonly subject and which do not individually, or in
+         the aggregate, materially and adversely affect the benefits of the
+         security intended to be provided by such Mortgage. Any security
+         agreement, chattel mortgage or equivalent document related to the
+         Mortgage and delivered to the Indenture Trustee establishes in the
+         Seller a valid and subsisting lien on the property described therein,
+         and the Seller has full right to assign the same to the Indenture
+         Trustee;
+
+
+                                       5
+<PAGE>
+
+
+                  (viii)   Except with respect to liens released immediately
+         prior to the transfer herein contemplated, each Mortgage Note and
+         related Mortgage have not been assigned or pledged and immediately
+         prior to the transfer and assignment herein contemplated, the Seller
+         held good, marketable and indefeasible title to, and was the sole owner
+         and holder of, each Mortgage Loan subject to no liens, charges,
+         mortgages, claims, participation interests, equities, pledges or
+         security interests of any nature, encumbrances or rights of others
+         (collectively, a "Lien"); the Seller has full right and authority under
+         all governmental and regulatory bodies having jurisdiction over the
+         Seller, subject to no interest or participation of, or agreement with,
+         any party, to sell and assign the same pursuant to this Agreement; and
+         immediately upon the transfer and assignment herein contemplated, the
+         Depositor will hold good, marketable and indefeasible title, to, and be
+         the sole owner of, each Mortgage Loan subject to no Liens;
+
+                  (ix)     No Mortgage Loan was 30 or more days delinquent as of
+         the related Cut-Off Date and no Mortgage Loan has been 30 or more days
+         delinquent more than twice during the twelve months prior to the
+         related Cut-Off Date;
+
+                  (x)      To the best of the Seller's knowledge, there is no
+         delinquent tax, fee or assessment lien on any Mortgaged Property, and
+         each Mortgaged Property is free of material damage and is in average
+         repair;
+
+                  (xi)     No Mortgage Loan is subject to any right of
+         rescission, set-off, counterclaim or defense, including the defense of
+         usury, nor will the operation of any of the terms of any Mortgage Note
+         or Mortgage, or the exercise of any right thereunder, render either the
+         Mortgage Note or the Mortgage unenforceable in whole or in part, or
+         subject to any right of rescission, set-off, counterclaim or defense,
+         including the defense of usury, and no such right of rescission,
+         set-off, counterclaim or defense has been asserted with respect
+         thereto;
+
+                  (xii)    To the best of the Seller's knowledge, there is no
+         mechanics' lien or claim for work, labor or material affecting any
+         Mortgaged Property which is or may be a lien prior to, or equal or
+         coordinate with, the lien of the related Mortgage, and no rights are
+         outstanding that under law could give rise to such a lien except those
+         which are insured against by the title insurance policy referred to in
+         Section 2.02 (xiv) below;
+
+                  (xiii)   Each Mortgage Loan, at the time it was originated,
+         complied in all material respects with applicable state and federal
+         laws and regulations, including, without limitation, usury, equal
+         credit opportunity, consumer credit, truth-in-lending and disclosure
+         laws and all applicable predatory and abusive lending laws;
+
+                  (xiv)    With respect to each Mortgage Loan, a lender's title
+         insurance policy, issued in standard American Land Title Association or
+         California Land Title Association form, or other form acceptable in a
+         particular jurisdiction, by a title insurance company authorized to
+         transact business in the state in which the related Mortgaged Property
+         is situated, together with a condominium endorsement, if applicable, in
+         an amount at least equal to the original principal balance of such
+         Mortgage Loan insuring the mortgagee's interest under the related
+         Mortgage Loan as the holder of a valid first or second mortgage
+
+
+                                       6
+<PAGE>
+
+
+         lien of record on the real property described in the Mortgage, subject
+         only to the exceptions of the character referred to in Section 2.02
+         (vii) above, was valid and in full force and effect on the date of the
+         origination of such Mortgage Loan and as of the Closing Date and as of
+         the Subsequent Transfer Date, as applicable;
+
+                  (xv)     The improvements upon each Mortgaged Property are
+         covered by a valid and existing hazard insurance policy with a
+         generally acceptable carrier that provides for fire and extended
+         coverage representing coverage described in Sections 3.04 and 3.05 of
+         this Agreement;
+
+                  (xvi)    A flood insurance policy is in effect with respect to
+         each Mortgaged Property with a generally acceptable carrier in an
+         amount representing coverage described in Section 3.04 or 3.05 of this
+         Agreement, if and to the extent required by Section 3.04 or 3.05 of
+         this Agreement;
+
+                  (xvii)   Each Mortgage and Mortgage Note is the legal, valid
+         and binding obligation of the related Mortgagor and is enforceable in
+         accordance with its terms, except only as such enforcement may be
+         limited by bankruptcy, insolvency, reorganization, moratorium or other
+         similar laws affecting the enforcement of creditors' rights generally
+         and by general principles of equity (whether considered in a proceeding
+         or action in equity or at law), and all parties to each Mortgage Loan
+         and the Mortgagee had full legal capacity to execute all Mortgage Loan
+         documents and to convey the estate therein purported to be conveyed;
+
+                  (xviii)  The Seller has directed the Servicer to perform any
+         and all acts required to be performed to preserve the rights and
+         remedies of the Indenture Trustee in any insurance policies applicable
+         to the Mortgage Loans including, without limitation, any necessary
+         notifications of insurers, assignments of policies or interests
+         therein, and the establishment of co-insured, joint loss payee and
+         mortgagee rights in favor of the Indenture Trustee;
+
+                  (xix)    The terms of the Mortgage Note and the Mortgage have
+         not been impaired, altered or modified in any material respect, except
+         by a written instrument which has been recorded or is in the process of
+         being recorded, if necessary, to protect the interests of the
+         Noteholders and the Note Insurer and which has been or will be
+         delivered to the Indenture Trustee. The substance of any such
+         alteration or modification is reflected on the Mortgage Loan Schedule
+         and was approved, if required, by the related primary mortgage guaranty
+         insurer, if any. Each original Mortgage was recorded, and all
+         subsequent assignments of the original Mortgage have been recorded in
+         the appropriate jurisdictions wherein such recordation is necessary to
+         perfect the lien thereof as against creditors of the Seller, or, are in
+         the process of being recorded or have been delivered to the Indenture
+         Trustee pursuant to the Purchase Agreement;
+
+                  (xx)     No instrument of release or waiver has been executed
+         in connection with the Mortgage Loan, and no Mortgagor has been
+         released, in whole or in part;
+
+
+                                       7
+<PAGE>
+
+
+                  (xxi)    To the best of the Seller's knowledge, there are no
+         defaults in complying with the terms of the Mortgage, and either (1)
+         any taxes, governmental assessments, insurance premiums, water, sewer
+         and municipal charges or ground rents which previously became due and
+         owing have been paid, or (2) an escrow of funds has been established in
+         an amount sufficient to pay for every such item which remains unpaid
+         and which has been assessed but is not yet due and payable. Except for
+         payments in the nature of escrow payments, including without
+         limitation, taxes and insurance payments, the Seller has not advanced
+         funds, or induced, solicited or knowingly received any advance of funds
+         by a party other than the Mortgagor, directly or indirectly, for the
+         payment of any amount required by the Mortgage Note, except for
+         interest accruing from the date of the Mortgage Note or date of
+         disbursement of the Mortgage proceeds, whichever is later, to the day
+         which precedes by one month the Due Date of the first installment of
+         principal and interest;
+
+                  (xxii)   There is no proceeding pending or, to the best of the
+         Seller's knowledge, threatened for the total or partial condemnation of
+         any Mortgaged Property, nor is such a proceeding currently occurring,
+         and such property is undamaged by waste, fire, earthquake or earth
+         movement, windstorm, flood, tornado or other casualty, so as to affect
+         adversely the value of the Mortgaged Property as security for the
+         Mortgage Loan or the use for which the premises were intended;
+
+                  (xxiii)  To the best of the Seller's knowledge, all of the
+         improvements which were included for the purpose of determining the
+         appraised value of the Mortgaged Property lie wholly within the
+         boundaries and building restriction lines of such property, and no
+         improvements on adjoining properties encroach upon the Mortgaged
+         Property;
+
+                  (xxiv)   To the best of the Seller's knowledge, no improvement
+         located on or being part of the Mortgaged Property is in violation of
+         any applicable zoning law or regulation. To the best of the Seller's
+         knowledge, all inspections, licenses and certificates required to be
+         made or issued with respect to all occupied portions of the Mortgaged
+         Property and, with respect to the use and occupancy of the same,
+         including but not limited to certificates of occupancy and fire
+         underwriting certificates, have been made or obtained from the
+         appropriate authorities and the Mortgaged Property is lawfully occupied
+         under applicable law;
+
+                  (xxv)    The proceeds of each Mortgage Loan have been fully
+         disbursed, and there is no obligation on the part of the mortgagee to
+         make future advances thereunder. Any and all requirements as to
+         completion of any on-site or off-site improvements and as to
+         disbursements of any escrow funds therefor have been complied with. All
+         costs, fees and expenses incurred in making, closing or recording the
+         Mortgage Loans were paid;
+
+                  (xxvi)   Each Mortgage Note is not and has not been secured by
+         any collateral, pledged account or other security except the lien of
+         the corresponding Mortgage;
+
+                  (xxvii)  No Mortgage Loan was originated under a buydown plan;
+
+
+                                       8
+<PAGE>
+
+
+                  (xxviii) There is no obligation on the part of the Seller or
+         any other party to make payments in addition to those made by the
+         Mortgagor;
+
+                  (xxix)   With respect to each Mortgage constituting a deed of
+         trust, a trustee, duly qualified under applicable law to serve as such,
+         has been properly designated and currently so serves and is named in
+         such Mortgage, and no fees or expenses are or will become payable by
+         the Noteholders to the trustee under the deed of trust, except in
+         connection with a trustee's sale after default by the Mortgagor;
+
+                  (xxx)    No Mortgage Loan has a shared appreciation feature,
+         or other contingent interest feature;
+
+                  (xxxi)   The related First Lien, if any, requires equal
+         monthly payments, unless such First Lien is a graduated payment
+         mortgage loan or a balloon loan, or if it bears an adjustable interest
+         rate, the monthly payments for the related First Lien may be adjusted
+         no more frequently than monthly;
+
+                  (xxxii)  Either (A) no consent for the Mortgage Loan is
+         required by the holder of the related First Lien or (B) such consent
+         has been obtained and is contained in the Mortgage File;
+
+                  (xxxiii) The maturity date of the Mortgage Loan is prior to
+         the maturity date of the related First Lien, if any, if such First Lien
+         provides for a balloon payment, except if the Combined Loan-to-Value
+         Ratio does not exceed 65%. No Mortgage Loan is a blanket loan; and no
+         Mortgage Loan provides for negative amortization;
+
+                  (xxxiv)  All parties which have had any interest in the
+         Mortgage Loan, whether as mortgagee, assignee, pledgee or otherwise,
+         are (or, during the period in which they held and disposed of such
+         interest, were) (A)(1) in compliance with any and all applicable
+         licensing requirements of the laws of the state wherein the Mortgaged
+         Property is located, and (2) organized under the laws of such state, or
+         (B) qualified to do business in such state, or (C) federal savings and
+         loan associations or national banks having principal offices in such
+         state, or (D) not doing business in such state so as to require
+         qualification or licensing;
+
+                  (xxxv)   The Mortgage contains a customary provision for the
+         acceleration of the payment of the unpaid principal balance of the
+         Mortgage Loan in the event the related security for the Mortgage Loan
+         is sold without the prior consent of the mortgagee thereunder;
+
+                  (xxxvi)  Any future advances made prior to the Cut-Off Date
+         have been consolidated with the outstanding principal amount secured by
+         the Mortgage, and the secured principal amount, as consolidated, bears
+         a single interest rate and single repayment term reflected on the
+         Mortgage Loan Schedule. The consolidated principal amount does not
+         exceed the original principal amount of the Mortgage Loan. The Mortgage
+         Note does not permit or obligate the Seller to make future advances to
+         the Mortgagor at the option of the Mortgagor;
+
+
+                                       9
+<PAGE>
+
+
+                  (xxxvii) The Mortgage contains customary and enforceable
+         provisions which render the rights and remedies of the holder thereof
+         adequate for the realization against the Mortgaged Property of the
+         benefits of the security, including, (1) in the case of a Mortgage
+         designated as a deed of trust, by trustee's sale, and (2) otherwise by
+         judicial or non-judicial foreclosure. There is no homestead or other
+         exemption available to the Mortgagor which would materially interfere
+         with the right to sell the Mortgaged Property at a trustee's sale or
+         the right to foreclose the Mortgage except as set forth in the
+         Prospectus;
+
+                  (xxxviii)Except as set forth in (ix) above, there is no
+         default, breach, violation or event of acceleration existing under any
+         Mortgage or the related Mortgage Note and no event which, with the
+         passage of time or with notice and the expiration of any grace or cure
+         period, would constitute a default, breach, violation or event of
+         acceleration; and the Seller has not waived any default, breach,
+         violation or event of acceleration;
+
+                  (xxxix)  All parties to the Mortgage Note and the Mortgage had
+         legal capacity to execute the Mortgage Note and the Mortgage and each
+         Mortgage Note and Mortgage have been duly and properly executed by such
+         parties;
+
+                  (xl)     All amounts received after the Cut-Off Date with
+         respect to the Mortgage Loans to which the Seller is not entitled have
+         been deposited into the Collection Account and are, as of the Closing
+         Date, in the Collection Account;
+
+                  (xli)    All of the Mortgage Loans were originated in
+         accordance with the underwriting criteria set forth in the Prospectus
+         Supplement;
+
+                  (xlii)   Each Mortgage Loan conforms, and all Mortgage Loans
+         in the aggregate conform, to the description thereof set forth in the
+         Prospectus Supplement:
+
+                  (xliii)  The Mortgage Loans were not selected by the Seller
+         for inclusion in the Trust on any basis intended to adversely affect
+         the Trust or the Note Insurer;
+
+                  (xliv)   All appraisals were performed by qualified
+         independent appraisers after analysis of other sales of properties in
+         the area in which the related Mortgaged Property is located, and a full
+         interior inspection appraisal was performed on forms acceptable to
+         either Fannie Mae or Freddie Mac in connection with each Mortgaged
+         Property;
+
+                  (xlv)    Each hazard insurance policy required to be
+         maintained under Section 3.04 of this Agreement with respect to the
+         Mortgage Loan is a valid, binding, enforceable and subsisting insurance
+         policy of its respective kind and is in full force and effect;
+
+                  (xlvi)   Each Mortgage Loan was originated by the Seller or an
+         affiliate of the Seller;
+
+                  (xlvii)  Each Mortgaged Property is located in the Mortgaged
+         Property State identified on the Mortgage Loan Schedule and consists of
+         a single parcel of real property with a one-family Residential Dwelling
+         erected thereon, or an attached or detached or
+
+
+                                       10
+<PAGE>
+
+
+         semi-detached two- to five-family Residential Dwelling, or an
+         individual condominium unit in a condominium, or an individual unit in
+         a planned unit development. With respect to the Cut-Off Date Pool
+         Principal Balance, (a) no more than 9.64% of the Initial Mortgage Loans
+         are secured by real property improved by two- to five-family
+         Residential Dwelling, (b) no more than 4.06% of the Initial Mortgage
+         Loans are secured by real property improved by individual condominium
+         units and units in a planned unit development, (c) at least 76.60% of
+         the Initial Mortgage Loans are secured by real property with a detached
+         one-family Residential Dwelling erected thereon, (d) no more than 9.31%
+         of the Initial Mortgage Loans are secured by real property with an
+         attached one-family Residential Dwelling erected thereon, and (e) no
+         more than 0.40% if the Initial Mortgage Loans consist of manufactured
+         homes;
+
+                  (xlviii) No Mortgage Loan had a Combined Loan-to-Value Ratio
+         at the time of origination of more than 100.00%;
+
+                  (xlix)   At the time that each Mortgage Loan was originated,
+         with respect to 98.25% of the Initial Mortgage Loans by Cut-Off Date
+         Pool Principal Balance, the Mortgagor represented that the Mortgagor
+         was occupying the related Mortgaged Property as the Mortgagor's primary
+         residence. To the best of the Seller's knowledge, the Mortgaged
+         Property is lawfully occupied under applicable law;
+
+                  (l)      Each Mortgage Note is not and has not been secured by
+         any collateral, pledged account or other security except the lien of
+         the corresponding Mortgage and the security interest of any applicable
+         security agreement or chattel mortgage referred to in Section 2.02
+         (vii);
+
+                  (li)     Each Mortgage Loan was originated after September
+         2003;
+
+                  (lii)    As of the Closing Date, the Seller has not received a
+         notice of default of a First Lien which has not been cured;
+
+                  (liii)   The Seller has not transferred the Mortgage Loans to
+         the Depositor with any intent to hinder, delay or defraud any of its
+         creditors;
+
+                  (liv)    Reserved;
+
+                  (lv)     For the duration of the Trust, this Agreement, the
+         Indenture and the Purchase Agreement shall be treated as an official
+         record of the Seller within the meaning of Section 13(e) of the Federal
+         Depositor Insurance Act (12 USC 1823(e));
+
+                  (lvi)    No Mortgage Loan is a "high cost mortgage" pursuant
+         to Section 226.32 of the Truth-in-Lending Act, as amended;
+
+                  (lvii)   No Mortgage Loan that was originated on or after
+         October 1, 2002 but prior to March 7, 2003 is secured by a Mortgaged
+         Property located in the State of Georgia; no Mortgage Loan is a
+         "High-Cost Home Loan," as such term is defined in the Georgia Fair
+         Lending Act;
+
+
+                                       11
+<PAGE>
+
+
+                  (lviii)  No Mortgage Loan originated on or after January 1,
+         2004 is a "high-cost" loan subject to the New Mexico Home Loan
+         Protection Act;
+
+                  (lix)    No Mortgage Loan is a "high-cost," "high-cost home,"
+         "covered," "high-risk home" or "predatory" loan under any applicable
+         federal, state or local predatory or abusive lending law; and no
+         Mortgage Loan originated on or after November 27, 2003, is a "high
+         cost" loan subject to the New Jersey Home Ownership Security Act of
+         2003;
+
+                  (lx)     No Mortgage Loan is subject to the Home Ownership and
+         Equity Protection Act of 1994 or similar law;
+
+                  (lxi)    The Seller has complied with, and at all times will
+         comply with, all applicable statutes, regulations and public policy
+         statements affecting the enforceability of agreements of insured
+         depository institutions or prescribing the form or maintenance of
+         documentation evidencing the transfer of assets, including, but not
+         limited to, Section 13(e) of the Federal Deposit Insurance Act (12 USC
+         1823(e));
+
+                  (lxii)   The collection practices used by the Seller with
+         respect to the Mortgage Loans have been, in all material respects,
+         legal, proper, prudent and customary in the non-conforming mortgage
+         servicing business; and
+
+                  (lxiii)  No Mortgage Loan is a high cost loan or a covered
+         loan, as applicable (as such terms are defined in Standard & Poor's
+         LEVELS Version 5.6 Glossary Revised, Appendix E).
+
+                  With respect to the representations and warranties set forth
+in this Section 2.02 that are made to the best of the Seller's knowledge or as
+to which the Seller has no knowledge, if it is discovered by the Depositor, the
+Seller, the Servicer, the Note Insurer or a Responsible Officer of the Indenture
+Trustee that the substance of such representation and warranty is inaccurate and
+such inaccuracy materially and adversely affects the value of the related
+Mortgage Loan then, notwithstanding the Seller's lack of knowledge with respect
+to the substance of such representation and warranty being inaccurate at the
+time the representation or warranty was made, such inaccuracy shall be deemed a
+breach of the applicable representation or warranty.
+
+                  (b)      It is understood and agreed that the representations
+and warranties set forth in this Section 2.02 shall survive delivery of the
+respective Mortgage Files to the Indenture Trustee and the termination of the
+rights and obligations of the Servicer pursuant to Section 5.04 or 6.01. Upon
+discovery by the Depositor, the Seller, the Servicer, the Note Insurer or a
+Responsible Officer of the Indenture Trustee of a breach of any of the foregoing
+representations and warranties, without regard to any limitation set forth
+therein concerning the knowledge of the Seller as to the facts stated therein,
+which materially and adversely affects the interests of the Trust or the
+Noteholders or the Note Insurer in the related Mortgage Loan, the party
+discovering such breach shall give prompt written notice to the other parties
+and the Note Insurer. Within 60 days of its discovery or its receipt of notice
+of breach, the Seller shall use all reasonable efforts to cure such breach in
+all material respects or shall purchase from the Trust or substitute an Eligible
+Substitute Mortgage Loan as provided in Section 2.03 for such Mortgage Loan from
+the Trust.
+
+
+                                       12
+<PAGE>
+
+
+Any such purchase by the Seller shall be at the Purchase Price. It is understood
+and agreed that the obligation of the Seller to cure, substitute or purchase any
+Mortgage Loan as to which such a breach has occurred and is continuing shall
+constitute the sole remedies against the Seller respecting such breach available
+to Noteholders or the Indenture Trustee on behalf of Noteholders. An Officers'
+Certificate to the effect set forth in Section 2.03(b) shall be delivered to the
+Indenture Trustee in connection with any such repurchase.
+
+                  Section 2.03. SUBSTITUTION AND REPURCHASE OF MORTGAGE LOANS.
+
+                  (a)      On a Determination Date which is on or before the
+date on which the Seller would otherwise be required to repurchase a Mortgage
+Loan under Section 2.02, the Seller may deliver to the Indenture Trustee one or
+more Eligible Substitute Mortgage Loans in substitution for any one or more of
+the Defective Mortgage Loans which the Seller would otherwise be required to
+repurchase pursuant to Section 2.02.
+
+                  (b)      The Seller shall notify the Servicer and the
+Indenture Trustee in writing not less than five Business Days before the related
+Determination Date which is on or before the date on which the Seller would
+otherwise be required to repurchase such Mortgage Loan pursuant to Section 2.02
+of its intention to effect a substitution under this Section. On such
+Determination Date (the "Substitution Date"), the Seller shall deliver to the
+Indenture Trustee (1) the Eligible Substitute Mortgage Loans to be substituted
+for the Defective Mortgage Loans, (2) a list of the Defective Mortgage Loans to
+be substituted for by such Eligible Substitute Mortgage Loans, (3) an Officers'
+Certificate (A) stating that no failure by the Servicer described in Section
+6.01 shall have occurred and be continuing, (B) stating that the aggregate
+principal balance of all Eligible Substitute Mortgage Loans (determined with
+respect to each Eligible Substitute Mortgage Loan as of the Determination Date
+on which it was substituted) including the principal balance of Eligible
+Substitute Mortgage Loans being substituted on such Determination Date does not
+exceed an amount equal to 5% of the sum of (i) the Cut-Off Date Pool Principal
+Balance and (ii) the Original Pre-Funded Amount, (C) stating that all conditions
+precedent to such substitution specified in subsection (a) have been satisfied
+and attaching as an exhibit a supplemental Mortgage Loan schedule (the
+"Supplemental Mortgage Loan Schedule") setting forth the same type of
+information as appears on the Mortgage Loan Schedule and representing as to the
+accuracy thereof, and (D) confirming that the representations and warranties
+contained in Section 2.02 are true and correct in all material respects with
+respect to the Substitute Mortgage Loans on and as of such Determination Date;
+PROVIDED, that remedies for the inaccuracy of such representations are limited
+as set forth in Section 2.02 and this Section 2.03 and (4) a certificate stating
+that cash in the amount of the related Substitution Adjustment, if any, has been
+deposited to the Collection Account. Upon receipt of the foregoing, the
+Indenture Trustee shall release such Defective Mortgage Loans to the Seller.
+
+                  (c)      Concurrently with the satisfaction of the conditions
+set forth in Section 2.03(a) and (b) above and the grant of such Eligible
+Substitute Mortgage Loans to the Indenture Trustee pursuant to Section 2.03(a)
+above, Exhibit A to this Agreement shall be deemed to be amended to exclude all
+Mortgage Loans being replaced by such Eligible Substitute Mortgage Loans and to
+include the information set forth on the Supplemental Mortgage Loan Schedule
+with respect to such Eligible Substitute Mortgage Loans, and all references in
+this Agreement to Mortgage Loans shall include such Eligible Substitute Mortgage
+Loans and be deemed to be
+
+
+                                       13
+<PAGE>
+
+
+made on or after the related Substitution Date, as the case may be, as to such
+Eligible Substitute Mortgage Loans.
+
+                  (d)      Within 60 days of the Closing Date or Subsequent
+Transfer Date, as applicable, the Seller, at its own expense, shall either (i)
+prepare and send for recording the Assignments of Mortgage in favor of the
+Indenture Trustee in the appropriate real property or other records, or (ii)
+deliver to the Indenture Trustee the Assignments of Mortgage in favor of the
+Indenture Trustee in form for recordation. With respect to any Assignment of
+Mortgage as to which the related recording information is unavailable within 60
+days following the Closing Date or Subsequent Transfer Date, as applicable, such
+Assignment of Mortgage shall be submitted for recording by the Seller within 30
+days after receipt of such information, but in no event later than one year
+after the date such Assignment of Mortgage is otherwise required to be recorded
+pursuant to this Section 2.03(d). The Indenture Trustee shall be required to
+retain a copy of each Assignment of Mortgage submitted for recording. In the
+event that any such Assignment of Mortgage is lost or returned unrecorded
+because of a defect therein, the Seller shall promptly prepare a substitute
+Assignment of Mortgage or cure such defect, as the case may be, and thereafter
+the Seller shall be required to submit each such Assignment of Mortgage for
+recording. Any failure of the Seller to comply with this Section 2.03(d) , or
+the discovery by any party of any defect in any documents delivered pursuant to
+this Section 2.03(d) which has a material adverse effect on the value of the
+Mortgage Loan, shall result in the obligation of the Seller to repurchase or
+substitute an Eligible Substitute Mortgage Loan for the related Mortgage Loan
+pursuant to the provisions of this Section 2.03. Notwithstanding the foregoing,
+however, for administrative convenience and facilitation of servicing and to
+reduce closing costs, the Assignments of Mortgage shall not be required to be
+submitted for recording (except with respect to any Mortgage Loan located in
+Maryland) unless such failure to record would result in a withdrawal or a
+downgrading by any Rating Agency of the rating on the Notes, without regard to
+the Note Insurance Policy; PROVIDED, FURTHER, however, each Assignment of
+Mortgage shall be submitted for recording by the Servicer (in its capacity as
+Seller) in the manner described above, at no expense to the Trust or the
+Indenture Trustee, upon the earliest to occur of: (i) reasonable direction by
+the Note Insurer or by the Holders of Notes entitled to at least 25% of the
+Voting Rights, (ii) the occurrence of a Servicer Termination Loss Event, (iii)
+the occurrence of a bankruptcy, insolvency or foreclosure relating to the
+Seller, (iv) the occurrence of a servicing transfer as described in Section 5.02
+hereof, (v) if the Seller is not the Servicer and (vi) with respect to any one
+Assignment of Mortgage, the occurrence of a bankruptcy, insolvency or
+foreclosure relating to the Mortgagor under the related Mortgage.
+
+                  (e)      If the Seller is given notice under Section 2.03 of
+the Indenture and if the Seller does not correct or cure such omission or defect
+within the 90-day period specified in such section, the Seller shall purchase or
+substitute such Mortgage Loan from the Indenture Trustee on the Determination
+Date in the month following the month in which such 90-day period expired at the
+Purchase Price of such Mortgage Loan. The Purchase Price for the purchased
+Mortgage Loan shall be deposited in the Collection Account no later than the
+applicable Determination Date or the Business Day preceding the expiration of
+such 90-day period, as the case may be, and, upon receipt by the Indenture
+Trustee of written notification of such deposit, signed by an officer of the
+Seller, the Indenture Trustee shall release to the Seller the related Mortgage
+File and the Trustee shall execute and deliver such instruments of transfer or
+assignment, in each case without recourse, as shall be necessary to vest in the
+Seller or its
+
+
+                                       14
+<PAGE>
+
+
+designee any Mortgage Loan released pursuant hereto. It is understood and agreed
+that the obligation of the Seller to purchase any Mortgage Loan as to which a
+material defect in or omission of a constituent document exists shall constitute
+the sole remedy against the Seller respecting such defect or omission available
+to the Note Insurer, the Noteholders or the Indenture Trustee on behalf of
+Noteholders.
+
+                  The Servicer, promptly following the transfer of (i) a
+Defective Mortgage Loan from, or (ii) an Eligible Substitute Mortgage Loan to
+the Trust pursuant to this Section shall amend the Mortgage Loan Schedule,
+appropriately mark the Electronic Ledger and make appropriate entries in its
+general account records to reflect such transfer and the addition of any
+Eligible Substitute Mortgage Loan, if applicable.
+
+                  Section 2.04. EXISTENCE. The Issuer will keep in full effect
+its existence, rights and franchises as a statutory trust under the laws of the
+State of Delaware (unless it becomes, or any successor Issuer hereunder is or
+becomes, organized under the laws of any other state or of the United States of
+America, in which case the Issuer will keep in full effect its existence, rights
+and franchises under the laws of such other jurisdiction) and will obtain and
+preserve its qualification to do business in each jurisdiction in which such
+qualification is or shall be necessary to protect the validity and
+enforceability of this Servicing Agreement.
+
+                                   ARTICLE III
+
+                               ADMINISTRATION AND
+                          SERVICING OF MORTGAGE LOANS
+
+                  Section 3.01. THE SERVICER.
+
+                  (a)      The Servicer, as independent contract servicer, shall
+service and administer the Mortgage Loans and shall have full power and
+authority, acting alone, to do any and all things in connection with such
+servicing and administration which the Servicer may deem necessary or desirable
+and consistent with the terms of this Agreement. The Servicer may enter into
+Subservicing Agreements for any servicing and administration of Mortgage Loans
+with any institution which is in compliance with the laws of each state
+necessary to enable it to perform its obligations under such Subservicing
+Agreement and (1) (x) has been designated an approved Seller-Servicer by Freddie
+Mac or Fannie Mae for first and second mortgage loans, or (y) is an affiliate of
+the Servicer, or (2) is otherwise approved by the Note Insurer and the Class A
+Noteholders aggregating 51% of the Percentage Interests thereof. The Servicer
+shall give notice to the Note Insurer and the Indenture Trustee of the
+appointment of any Subservicer. Any such Subservicing Agreement shall be
+consistent with and not violate the provisions of this Agreement. The Servicer
+shall be entitled to terminate any Subservicing Agreement in accordance with the
+terms and conditions of such Subservicing Agreement and either itself directly
+service the related Mortgage Loans or enter into a Subservicing Agreement with a
+successor subservicer which qualifies hereunder.
+
+                  (b)      Notwithstanding any Subservicing Agreement, any of
+the provisions of this Agreement relating to agreements or arrangements between
+the Servicer and Subservicer or reference to actions taken through a Subservicer
+or otherwise, the Servicer shall remain obligated
+
+
+                                       15
+<PAGE>
+
+
+and primarily liable for the servicing and administering of the Mortgage Loans
+in accordance with the provisions of this Agreement without diminution of such
+obligation or liability by virtue of such Subservicing Agreements or
+arrangements or by virtue of indemnification from the Subservicer and to the
+same extent and under the same terms and conditions as if the Servicer alone
+were servicing and administering the Mortgage Loans. For purposes of this
+Agreement, the Servicer shall be deemed to have received payments on Mortgage
+Loans when the Subservicer has received such payments. The Servicer shall be
+entitled to enter into any agreement with a Subservicer for indemnification of
+the Servicer by such Subservicer, and nothing contained in this Agreement shall
+be deemed to limit or modify such indemnification.
+
+                  (c)      Any Subservicing Agreement that may be entered into
+and any transactions or services relating to the Mortgage Loans involving a
+Subservicer in its capacity as such and not as an originator shall be deemed to
+be between the Subservicer and the Servicer alone, and the Indenture Trustee and
+Noteholders shall not be deemed parties thereto and shall have no claims,
+rights, obligations, duties or liabilities with respect to the Subservicer
+except as set forth in Section 3.01(d). The Servicer shall be solely liable for
+all fees owed by it to any Subservicer irrespective of whether the Servicer's
+compensation pursuant to this Agreement is sufficient to pay such fees.
+
+                  (d)      In the event the Servicer shall for any reason no
+longer be the Servicer (including by reason of a Servicer Event of Default), the
+Indenture Trustee or its designee approved by the Note Insurer shall thereupon
+assume all of the rights and obligations of the Servicer under each Subservicing
+Agreement that the Servicer may have entered into, unless the Indenture Trustee
+or designee approved by the Note Insurer elects to terminate any Subservicing
+Agreement. Any fee payable in connection with such a termination will be payable
+by the outgoing Servicer. If the Indenture Trustee does not terminate a
+Subservicing Agreement, the Indenture Trustee, its designee or the successor
+servicer for the Indenture Trustee shall be deemed to have assumed all of the
+Servicer's interest therein and to have replaced the Servicer as a party to each
+Subservicing Agreement to the same extent as if the Subservicing Agreements had
+been assigned to the assuming party, except that the Servicer shall not thereby
+be relieved of any liability or obligations under the Subservicing Agreements
+with regard to events that occurred prior to the date the Servicer ceased to be
+the Servicer hereunder. The Servicer at its expense and without right of
+reimbursement therefor, shall, upon request of the Indenture Trustee, deliver to
+the assuming party all documents and records relating to each Subservicing
+Agreement and the Mortgage Loans then being serviced and an accounting of
+amounts collected and held by it and otherwise use its best efforts to effect
+the orderly and efficient transfer of the Subservicing Agreements to the
+assuming party.
+
+                  (e)      Consistent with the terms of this Agreement, the
+Servicer may waive, modify or vary any term of any Mortgage Loan or consent to
+the postponement of strict compliance with any such term or in any manner grant
+indulgence to any Mortgagor if in the Servicer's determination such waiver,
+modification, postponement or indulgence is not materially adverse to the
+interests of the Noteholders and the Note Insurer; PROVIDED, HOWEVER, that
+(unless (x) the Mortgagor is in default with respect to the Mortgage Loan, or
+such default is, in the judgment of the Servicer, imminent, and (y) with respect
+to any modification lowering the Loan Rate or effecting the forgiveness of any
+amount owed under the Mortgage Note, or extending the final maturity date on
+such Mortgage Loan, the Note Insurer has consented to such
+
+
+                                       16
+<PAGE>
+
+
+modification) the Servicer may not permit any modification with respect to any
+Mortgage Loan that would change the Loan Rate, defer or forgive the payment of
+any principal or interest (unless in connection with the liquidation of the
+related Mortgage Loan) or extend the final maturity date on the Mortgage Loan.
+No costs incurred by the Servicer or any Subservicer in respect of Servicing
+Advances shall for the purposes of payments to Noteholders be added to the
+amount owing under the related Mortgage Loan. Without limiting the generality of
+the foregoing, the Servicer shall continue, and is hereby authorized and
+empowered to execute and deliver on behalf of the Indenture Trustee and each
+Noteholder, all instruments of satisfaction or cancellation, or of partial or
+full release, discharge and all other comparable instruments, with respect to
+the Mortgage Loans and with respect to the Mortgaged Properties. If reasonably
+required by the Servicer, the Indenture Trustee shall furnish the Servicer with
+any powers of attorney and other documents necessary or appropriate to enable
+the Servicer to carry out its servicing and administrative duties under this
+Agreement.
+
+                  Notwithstanding anything to the contrary contained herein, the
+Servicer, in servicing and administering the Mortgage Loans, shall employ or
+cause to be employed procedures (including collection, foreclosure and REO
+Property management procedures) and exercise the same care that it customarily
+employs and exercises in servicing and administering mortgage loans for its own
+account, in accordance with accepted first and second mortgage servicing
+practices of prudent lending institutions and giving due consideration to the
+Note Insurer's and the Noteholders reliance on the Servicer.
+
+                  (f)      On and after such time as the Indenture Trustee
+receives the resignation of, or notice of the removal of, the Servicer from its
+rights and obligations under this Agreement, and with respect to resignation
+pursuant to Section 5.04, after receipt by the Indenture Trustee and the Note
+Insurer of the Opinion of Counsel required pursuant to Section 5.04, the
+Indenture Trustee or its designee approved by the Note Insurer shall assume all
+of the rights and obligations of the Servicer, subject to Section 6.02 hereof.
+The Servicer shall, upon request of the Indenture Trustee but at the expense of
+the Servicer, deliver to the Indenture Trustee all documents and records
+relating to the Mortgage Loans and an accounting of amounts collected and held
+by the Servicer and otherwise use its best efforts to effect the orderly and
+efficient transfer of servicing rights and obligations to the assuming party.
+
+                  (g)      The Servicer shall deliver a list of Servicing
+Officers to the Indenture Trustee and the Note Insurer by the Closing Date.
+
+                  (h)      Consistent with the terms of this Agreement, the
+Servicer may consent to the placing of a lien senior to that of the Mortgage on
+the related Mortgaged Property; PROVIDED, that such senior lien secures a
+mortgage loan that refinances a First Lien and the combined loan-to-value ratio
+of the related Mortgage Loan immediately following the refinancing (based on the
+outstanding principal balance of the Mortgage Loan and the original principal
+balance of such refinanced mortgage loan) is not greater than the Combined
+Loan-to-Value Ratio of such Mortgage Loan as of the Cut-Off Date.
+
+
+                                       17
+<PAGE>
+
+
+                  Section 3.02. COLLECTION OF CERTAIN MORTGAGE LOAN PAYMENTS.
+
+                  (a)      The Servicer shall make reasonable efforts to collect
+all payments called for under the terms and provisions of the Mortgage Loans,
+and shall, to the extent such procedures shall be consistent with this
+Agreement, follow such collection procedures as it follows with respect to
+mortgage loans in its servicing portfolio which are comparable to the Mortgage
+Loans. Consistent with the foregoing, and without limiting the generality of the
+foregoing, the Servicer may in its discretion (i) waive any late payment charge
+or any assumption fees or other fees which may be collected in the ordinary
+course of servicing such Mortgage Loan, and (ii) arrange with a Mortgagor a
+schedule for the payment of interest due and unpaid; PROVIDED such arrangement
+is consistent with the Servicer's policies with respect to the mortgage loans it
+owns or services; PROVIDED, further, that notwithstanding such arrangement such
+Mortgage Loans shall be included in the monthly information delivered by the
+Servicer to the Indenture Trustee pursuant to Section 7.05 of the Indenture.
+
+                  (b)      The Servicer shall establish and maintain for the
+benefit of the Noteholders and the Note Insurer with Deutsche Bank National
+Trust Company a segregated non-interest bearing trust account (the "Collection
+Account") titled "Deutsche Bank National Trust Company, as Indenture Trustee, in
+trust for the registered holders of Home Loan Mortgage Loan Trust Asset Backed
+Notes, Series 2004-2." The Collection Account shall be an Eligible Account. The
+Servicer shall on the Closing Date and on each Subsequent Transfer Date deposit
+any amounts representing payments on and any collections in respect of the
+Mortgage Loans received after the related Cut-Off Date and prior to the Closing
+Date or Subsequent Transfer Date, as applicable, and thereafter shall use its
+best efforts to deposit within one Business Day, and shall in any event deposit
+within two Business Days following receipt thereof the following payments and
+collections received or made by it (without duplication):
+
+                  (i)      all payments received after the Cut-Off Date on
+         account of principal on the Mortgage Loans and all Principal
+         Prepayments and Curtailments collected after the Cut-Off Date;
+
+                  (ii)     all payments received after the Cut-Off Date on
+         account of interest on the Mortgage Loans (exclusive of payments in
+         respect of interest on the Initial Mortgage Loans which has accrued
+         through the related Due Date in November 2004 and on the Subsequent
+         Mortgage Loans which has accrued through the related Due Date in the
+         month preceding the Subsequent Transfer Date).
+
+                  (iii)    all Net Liquidation Proceeds net of Foreclosure
+         Profits;
+
+                  (iv)     all Insurance Proceeds;
+
+                  (v)      all Released Mortgaged Property Proceeds;
+
+                  (vi)     any amounts payable in connection with the repurchase
+         of any Mortgage Loan and the amount of any Substitution Adjustment
+         pursuant to Sections 2.02 and 2.03; and
+
+
+                                       18
+<PAGE>
+
+
+                  (vii)    any amount required to be deposited in the Collection
+         Account pursuant to Sections 3.05, 3.07, 3.16, 3.17 hereof and Section
+         3.10 of the Indenture;
+
+PROVIDED, HOWEVER, with respect to each Due Period, the Servicer shall be
+permitted to retain, from payments in respect of interest on the Mortgage Loans,
+the Servicing Fee for such Due Period. The foregoing requirements respecting
+deposits to the Collection Account are exclusive, it being understood that,
+without limiting the generality of the foregoing, the Servicer need not deposit
+into the Collection Account amounts representing Foreclosure Profits, fees
+(including annual fees) or late charge penalties or prepayment penalties payable
+by Mortgagors, or amounts received by the Servicer for the accounts of
+Mortgagors for application towards the payment of taxes, insurance premiums,
+assessments and similar items.
+
+                  (c)      [Reserved].
+
+                  (d)      The Servicer may cause the institution maintaining
+the Collection Account to invest any funds in the Collection Account in Eligible
+Investments (including obligations of the Servicer or any of its Affiliates, if
+such obligations otherwise qualify as Eligible Investments) pursuant to Section
+3.10 of the Indenture.
+
+                  Section 3.03. WITHDRAWALS FROM THE COLLECTION ACCOUNT.
+
+                  The Indenture Trustee shall withdraw or cause to be withdrawn
+funds from the Collection Account for the following purposes:
+
+                  (i)      on the Business Day prior to each Payment Date, to
+         deposit the portion of the Available Funds then in the Collection
+         Account to the Payment Account;
+
+                  (ii)     to reimburse the Servicer for any accrued and unpaid
+         Servicing Fees and for unreimbursed Monthly Advances and Servicing
+         Advances. The Servicer's right to reimbursement for unpaid Servicing
+         Fees and unreimbursed Servicing Advances shall be limited to late
+         collections on the related Mortgage Loan, including Liquidation
+         Proceeds, Released Mortgaged Property Proceeds, Insurance Proceeds and
+         such other amounts as may be collected by the Servicer from the related
+         Mortgagor or otherwise relating to the Mortgage Loan in respect of
+         which such reimbursed amounts are owed. The Servicer's right to
+         reimbursement for unreimbursed Monthly Advances shall be limited to
+         late collections of interest on any Mortgage Loan and to Liquidation
+         Proceeds, Released Mortgaged Property Proceeds and Insurance Proceeds
+         on related Mortgage Loans;
+
+                  (iii)    to withdraw any amount received from a Mortgagor that
+         is recoverable and sought to be recovered as a voidable preference by a
+         trustee in bankruptcy pursuant to the United States Bankruptcy Code in
+         accordance with a final, nonappealable order of a court having
+         competent jurisdiction;
+
+                  (iv)     (a) to make investments in Eligible Investments, and
+         (b) subject to Section 3.10(e) of the Indenture, to pay to the Spread
+         Account or the Servicer, as the case may be, interest earned in respect
+         of Eligible Investments or on funds deposited in the Collection
+         Account;
+
+
+                                       19
+<PAGE>
+
+
+                  (v)      to withdraw any funds deposited in the Collection
+         Account that were not required to be deposited therein (such as
+         Servicing Compensation) or were deposited therein in error and to pay
+         such funds to the appropriate Person;
+
+                  (vi)     to pay the Servicer Servicing Compensation pursuant
+         to Section 3.09 hereof to the extent not retained or paid pursuant to
+         Section 3.02(b);
+
+                  (vii)    to withdraw funds necessary for the conservation and
+         disposition of REO Property pursuant to Section 3.07;
+
+                  (viii)   to reimburse the Servicer for (a) Nonrecoverable
+         Advances that are not, with respect to aggregate Servicing Advances on
+         any single Mortgage Loan or REO Property, in excess of the Principal
+         Balance thereof, and (b) expenses incurred pursuant to Section 5.03;
+
+                  (ix)     to pay on the first Payment Date to the Seller
+         collections received in respect of accrued interest on the Initial
+         Mortgage Loans through the related Due Date in December 2004 and to pay
+         on the Payment Date following a Subsequent Transfer Date to the Seller
+         collections received in respect of accrued interest on the Subsequent
+         Mortgage Loans through the related Due Date in the month preceding the
+         Subsequent Transfer Date;
+
+                  (x)      to clear and terminate the Collection Account upon
+         the termination of this Agreement and to pay any amounts remaining
+         therein to the Certificateholders; and
+
+                  (xi)     to pay itself from payments in respect of interest on
+         the Mortgage Loans, the Indenture Trustee Fee for such Due Period.
+
+                  Section 3.04. MAINTENANCE OF HAZARD INSURANCE; PROPERTY
+PROTECTION EXPENSES.
+
+                  The Servicer shall cause to be maintained for each Mortgage
+Loan fire and hazard insurance naming the Servicer as loss payee thereunder
+providing extended coverage in an amount which is at least equal to the lesser
+of (i) the maximum insurable value of the improvements securing such Mortgage
+Loan from time to time, (ii) the combined principal balance owing on such
+Mortgage Loan and any mortgage loan senior to such Mortgage Loan, and (iii) the
+minimum amount required to compensate for damage or loss on a replacement cost
+basis. The Servicer shall also maintain on property acquired upon foreclosure,
+or by deed in lieu of foreclosure, hazard insurance with extended coverage in an
+amount which is at least equal to the lesser of (i) the maximum insurable value
+from time to time of the improvements which are a part of such property, (ii)
+the combined principal balance owing on such Mortgage Loan and any mortgage loan
+senior to such Mortgage Loan, and (iii) the minimum amount required to
+compensate for damage or loss on a replacement cost basis at the time of such
+foreclosure, fire and/or deed in lieu of foreclosure plus accrued interest and
+the good-faith estimate of the Servicer of related Servicing Advances to be
+incurred in connection therewith. Amounts collected by the Servicer under any
+such policies shall be deposited in the Collection Account to the extent
+required by Section 3.02. In cases in which any Mortgaged Property is located in
+a federally designated flood area, the hazard insurance to be maintained for the
+related Mortgage
+
+
+                                       20
+<PAGE>
+
+
+Loan shall include flood insurance to the extent such flood insurance is
+available and the Servicer has determined such insurance to be necessary in
+accordance with accepted second mortgage loan servicing standards. All such
+flood insurance shall be in amounts equal to the least of the amount in clause
+(i) above, clause (ii) above and the maximum amount of insurance available under
+the National Flood Insurance Act of 1994, as amended. The Servicer shall be
+under no obligation to require that any Mortgagor maintain earthquake or other
+additional insurance and shall be under no obligation itself to maintain any
+such additional insurance on property acquired in respect of a Mortgage Loan,
+other than pursuant to such applicable laws and regulations as shall at any time
+be in force and as shall require such additional insurance.
+
+                  Section 3.05. MAINTENANCE OF MORTGAGE IMPAIRMENT INSURANCE
+POLICY.
+
+                  In the event that the Servicer shall obtain and maintain a
+blanket policy with an insurer either (A) having a General Policy rating of
+A:VIII or better in Best's Key Rating Guide, or (B) approved by the Note
+Insurer, such approval not to be unreasonably withheld, insuring against fire
+and hazards of extended coverage on all of the Mortgage Loans, then, to the
+extent such policy names the Servicer as loss payee and provides coverage in an
+amount equal to the aggregate unpaid principal balance on the Mortgage Loans
+without co-insurance, and otherwise complies with the requirements of Section
+3.04, the Servicer shall be deemed conclusively to have satisfied its
+obligations with respect to fire and hazard insurance coverage under Section
+3.04, it being understood and agreed that such blanket policy may contain a
+deductible clause, in which case the Servicer shall, in the event that there
+shall not have been maintained on the related Mortgaged Property a policy
+complying with Section 3.04, and there shall have been a loss which would have
+been covered by such policy, deposit into the Collection Account the difference,
+if any, between the amount that would have been payable under a policy complying
+with Section 3.04 and the amount paid under such blanket policy. Upon the
+request of the Note Insurer or the Indenture Trustee, the Servicer shall cause
+to be delivered to the Note Insurer or the Indenture Trustee, as the case may
+be, a certified true copy of such policy. In connection with its activities as
+administrator and servicer of the Mortgage Loans, the Servicer agrees to prepare
+and present, on behalf of itself, the Indenture Trustee, the Note Insurer and
+Noteholders, claims under any such policy in a timely fashion in accordance with
+the terms of such policy.
+
+                  Section 3.06. FIDELITY BOND.
+
+                  The Servicer shall maintain with a responsible company, and at
+its own expense, a blanket fidelity bond and an errors and omissions insurance
+policy, in a minimum amount acceptable to Fannie Mae or Freddie Mac or otherwise
+in an amount as is commercially available at a cost that is not generally
+regarded as excessive by industry standards, with broad coverage on all
+officers, employees or other persons acting in any capacity requiring such
+persons to handle funds, money, documents or papers relating to the Mortgage
+Loans ("Servicer Employees"). Any such fidelity bond and errors and omissions
+insurance shall protect and insure the Servicer against losses, including losses
+resulting from forgery, theft, embezzlement, fraud, errors and omissions and
+negligent acts of such Servicer Employees. Such fidelity bond shall also protect
+and insure the Servicer against losses in connection with the release or
+satisfaction of a Mortgage Loan without having obtained payment in full of the
+indebtedness secured thereby. No provision of this Section 3.06 requiring such
+fidelity bond and errors and omissions insurance shall diminish or relieve the
+Servicer from its duties and obligations as set forth in this
+
+
+                                       21
+<PAGE>
+
+
+Agreement. Upon the request of the Indenture Trustee or the Note Insurer, the
+Servicer shall cause to be delivered to the Indenture Trustee or the Note
+Insurer a certified true copy of such fidelity bond and insurance policy. On the
+Closing Date, such bond and insurance is maintained with certain underwriters at
+St. Paul Fire and Marine Insurance Company and Lloyds of London.
+
+                  Section 3.07. MANAGEMENT AND REALIZATION UPON DEFAULTED
+MORTGAGE LOANS.
+
+                  The Servicer shall manage, conserve, protect and operate each
+REO Property for the Noteholders and the Note Insurer solely for the purpose of
+its prudent and prompt disposition and sale. The Servicer shall, either itself
+or through an agent selected by the Servicer, manage, conserve, protect and
+operate the REO Property in the same manner that it manages, conserves, protects
+and operates other foreclosed property for its own account, and in the same
+manner that similar property in the same locality as the REO Property is
+managed. The Servicer shall attempt to sell the same (and may temporarily rent
+the same) on such terms and conditions as the Servicer deems to be in the best
+interest of the Note Insurer and the Noteholders.
+
+                  The Servicer shall cause to be deposited, no later than two
+Business Days after the receipt thereof, in the Collection Account, all revenues
+received with respect to the related REO Property and shall retain, or cause the
+Indenture Trustee to withdraw therefrom funds necessary for the proper
+operation, management and maintenance of the REO Property and the fees of any
+managing agent acting on behalf of the Servicer.
+
+                  The disposition of REO Property shall be carried out by the
+Servicer for cash at such price, and upon such terms and conditions, as the
+Servicer deems to be in the best interest of the Noteholders and the Note
+Insurer and, as soon as practicable thereafter, the expenses of such sale shall
+be paid. The cash proceeds of sale of the REO Property shall be promptly
+deposited in the Collection Account, net of Foreclosure Profits and of any
+related unreimbursed Servicing Advances, accrued and unpaid Servicing Fees and
+unreimbursed Monthly Advances payable to the Servicer in accordance with Section
+3.03, for payment to the Noteholders in accordance with Section 3.05 of the
+Indenture.
+
+                  The Servicer shall foreclose upon or otherwise comparably
+convert to ownership Mortgaged Properties securing such of the Mortgage Loans as
+come into and continue in default when no satisfactory arrangements can be made
+for collection of delinquent payments pursuant to Section 3.02 subject to the
+provisions contained in the last paragraph of this Section 3.07.
+
+                  In the event that title to any Mortgaged Property is acquired
+in foreclosure or by deed in lieu of foreclosure, the deed or certificate of
+sale shall be issued to the Indenture Trustee, or to its nominee on behalf of
+Noteholders and the Note Insurer.
+
+                  If the Servicer has actual knowledge that a Mortgaged Property
+which the Servicer is contemplating acquiring in foreclosure or by deed in lieu
+of foreclosure is located within a 1 mile radius of any site with environmental
+or hazardous waste risks known to the Servicer, the Servicer will notify the
+Note Insurer prior to acquiring such Mortgaged Property and shall not take any
+action in furtherance thereof without the prior written approval of the Note
+Insurer. Nothing in this Section shall affect the Servicer's right to deem
+certain advances proposed to be made by the Servicer as Nonrecoverable Advances.
+For the purposes of this
+
+
+                                       22
+<PAGE>
+
+
+Section 3.07, actual knowledge of the Servicer means actual knowledge of a
+Responsible Officer of the Servicer involved in the servicing of the relevant
+Mortgage Loan. Actual knowledge of the Servicer does not include knowledge
+imputable by virtue of the availability of or accessibility to information
+relating to environmental or hazardous waste sites or the locations thereof.
+
+                  Section 3.08. INDENTURE TRUSTEE TO COOPERATE.
+
+                  Upon any Principal Prepayment in full, the Servicer is
+authorized to execute, pursuant to the authorization contained in Section
+3.01(e), if the related Assignment of Mortgage has been recorded as required
+hereunder, an instrument of satisfaction regarding the related Mortgage, which
+instrument of satisfaction shall be recorded by the Servicer if required by
+applicable law and be delivered to the Person entitled thereto. It is understood
+and agreed that no expenses incurred in connection with such instrument of
+satisfaction or transfer shall be reimbursed from amounts deposited in the
+Collection Account. If the Indenture Trustee is holding the Mortgage Files, from
+time to time and as appropriate for the servicing or foreclosure of any Mortgage
+Loan, the Indenture Trustee shall, upon request by the Servicer and delivery to
+the Indenture Trustee of a Request for Release, in the form annexed hereto as
+Exhibit B, signed by a Servicing Officer, release the related Mortgage File to
+the Servicer, and the Indenture Trustee shall execute such documents at the
+direction of and in the forms provided by the Servicer, as shall be necessary to
+the prosecution of any such proceedings or the taking of other servicing
+actions. Such Request for Release shall obligate the Servicer to return the
+Mortgage File to the Indenture Trustee when the need therefor by the Servicer no
+longer exists unless the Mortgage Loan shall be liquidated, in which case, upon
+receipt of a certificate of a Servicing Officer similar to that hereinabove
+specified, the Request for Release shall be released by the Indenture Trustee to
+the Servicer.
+
+                  In order to facilitate the foreclosure of the Mortgage
+securing any Mortgage Loan that is in default following recordation of the
+related Assignment of Mortgage in accordance with the provisions hereof, the
+Indenture Trustee shall, if so requested in writing by the Servicer, execute an
+appropriate assignment in the form provided to the Indenture Trustee by the
+Servicer to assign such Mortgage Loan for the purpose of collection, to the
+Servicer (any such assignment shall unambiguously indicate that the assignment
+is for the purposes of collection only), and, upon such assignment, such
+assignee for collection will thereupon bring all required actions in its own
+name and otherwise enforce the terms of the Mortgage Loan and deposit or credit
+the Net Liquidation Proceeds, exclusive of Foreclosure Profits, received with
+respect thereto in the Collection Account. In the event that all delinquent
+payments due under any such Mortgage Loan are paid by the Mortgagor and any
+other defaults are cured, then the assignee for collection shall promptly
+reassign such Mortgage Loan to the Indenture Trustee and return it to the place
+where the related Mortgage File was previously being maintained.
+
+                  Section 3.09. SERVICING COMPENSATION; PAYMENT OF CERTAIN
+EXPENSES BY SERVICER.
+
+                  Subject to Section 3.17, the Servicer shall be entitled to
+retain the Servicing Fee in accordance with Section 3.02 as compensation for its
+services in connection with servicing the Mortgage Loans; PROVIDED, HOWEVER,
+that the Servicer shall not retain or receive a Servicing Fee with respect to
+accrued interest included as part of the Purchase Price of a Mortgage Loan if
+such accrued interest was computed at the Net Loan Rate. Moreover, additional
+servicing
+
+
+                                       23
+<PAGE>
+
+
+compensation in the form of late payment charges, prepayment penalties or other
+receipts not required to be deposited in the Collection Account, including,
+without limitation, Foreclosure Profits, and, subject to Section 3.10 of the
+Indenture, investment income on the Accounts (other than the Spread Account)
+shall be retained by the Servicer. The Servicer shall be required to pay all
+expenses incurred by it in connection with its activities hereunder (including
+payment of all other fees and expenses not expressly stated hereunder to be for
+the account of the Trust or the Noteholders) and shall not be entitled to
+reimbursement therefor except as specifically provided herein.
+
+                  Section 3.10. ANNUAL STATEMENT AS TO COMPLIANCE.
+
+                  (a)      The Servicer shall deliver to the Indenture Trustee,
+the Note Insurer and the Rating Agencies, on or before March 15th of each
+applicable year, beginning in 2005 (and covering the calendar year ending in
+2004), an Officer's Certificate substantially in the form of Exhibit D attached
+hereto stating that (i) a review of the activities of the Servicer during the
+preceding calendar year (or such shorter period as is applicable in the case of
+the first report) and of its performance under this Agreement has been made
+under such officer's supervision, and (ii) to the best of such officer's
+knowledge, based on such review, the Servicer has fulfilled all its material
+obligations under this Agreement throughout such calendar year, or, if there has
+been a default in the fulfillment of any such obligation, specifying each such
+default known to such officer and the nature and status thereof. The Servicer
+shall promptly notify the Note Insurer, the Depositor, the Indenture Trustee,
+Standard & Poor's and Moody's upon any change in the basis on which its calendar
+year is determined.
+
+                  (b)      The Servicer shall deliver to the Indenture Trustee,
+the Note Insurer, the Depositor and each of the Rating Agencies, promptly after
+having obtained knowledge thereof, but in no event later than five Business Days
+thereafter, written notice by means of an Officer's Certificate of any event
+which with the giving of notice or the lapse of time or both, would become a
+Servicer Event of Default.
+
+                  Section 3.11. ANNUAL SERVICING REPORT.
+
+                  Not later than March 15th of each applicable year, beginning
+in 2005 (and covering the calendar year ending in 2004), the Servicer, at its
+expense, shall cause a firm of independent public accountants reasonably
+acceptable to the Indenture Trustee and the Note Insurer to furnish a letter or
+letters to the Note Insurer, the Indenture Trustee, Standard & Poor's and
+Moody's to the effect that such firm has, with respect to the Servicer's overall
+servicing operations, examined such operations in accordance with the
+requirements of the Uniform Single Attestation Program for Mortgage Bankers, and
+stating such firm's conclusions relating thereto.
+
+                  Section 3.12. ACCESS TO CERTAIN DOCUMENTATION AND INFORMATION
+REGARDING THE MORTGAGE LOANS.
+
+                  The Servicer shall provide to the Indenture Trustee, the Note
+Insurer, Noteholders which are federally insured savings and loan associations,
+the Office of Thrift Supervision, the FDIC and the supervisory agents and
+examiners of the Office of Thrift Supervision access to the documentation
+regarding the Mortgage Loans required by applicable regulations of the Office of
+
+
+                                       24
+<PAGE>
+
+
+Thrift Supervision and the FDIC (acting as operator of the SAIF or the BIF),
+such access being afforded without charge, but only upon reasonable request, and
+during normal business hours at the Offices of the Servicer. Nothing in this
+Section 3.12 shall derogate from the obligation of the Servicer to observe any
+applicable law prohibiting disclosure of information regarding the Mortgagors
+and the failure of the Servicer to provide access as provided in this Section
+3.12 as a result of such obligation shall not constitute a breach of this
+Section 3.12.
+
+                  Section 3.13. [RESERVED].
+
+                  Section 3.14. REPORTS TO THE SECURITIES AND EXCHANGE
+COMMISSION.
+
+                  (a)      The Indenture Trustee shall reasonably cooperate with
+the Servicer in connection with the Trust's satisfying the reporting
+requirements under the Securities Exchange Act of 1934, as amended (the
+"Exchange Act"). The Indenture Trustee shall prepare on behalf of the Trust any
+Forms 8-K and 10-K customary for similar securities as required by the Exchange
+Act and the Rules and Regulations of the Securities and Exchange Commission (the
+"Commission") thereunder, and the Servicer shall sign (or shall cause another
+entity acceptable to the Commission to sign) and the Indenture Trustee shall
+file (via the Commission's Electronic Data Gathering and Retrieval System) such
+forms on behalf of the Depositor or the Issuer (or such other entity). The
+Depositor and the Issuer hereby grant to the Indenture Trustee a limited power
+of attorney to execute any Form 8-K and 10-K and file each such document on
+behalf of the Depositor, but only to the extent no accompanying certification is
+required to be filed on behalf of the Depositor and the Issuer. Such power of
+attorney shall continue until the earlier of (i) receipt by the Indenture
+Trustee from the Depositor and the Issuer of written termination of such power
+of attorney and (ii) the termination of the Trust. Notwithstanding anything
+herein to the contrary, the Servicer, and not the Indenture Trustee, shall be
+responsible for executing each Form 10-K filed on behalf of the Trust.
+
+                  (b)      Each Form 8-K shall be filed by the Indenture Trustee
+within 15 days after each Payment Date, with a copy of the statement to the
+Noteholders for such Payment Date as an exhibit thereto. Prior to March 30th of
+each year (or such earlier date as may be required by the Exchange Act and the
+Rules and Regulations of the Commission), until the year after the year in which
+a Form 15 Suspension Notification is filed under Section 3.14(e), the Indenture
+Trustee shall file a Form 10-K, in substance as required by applicable law or
+applicable Commission staff's interpretations. Such Form 10-K shall include as
+exhibits the Servicer's annual statement of compliance described under Section
+3.10 and the accountant's report described under Section 3.11, in each case to
+the extent that they have been timely delivered to the Indenture Trustee and
+upon which the Indenture Trustee may conclusively rely. If they are not so
+timely delivered, the Indenture Trustee shall file an amended Form 10-K
+including such documents as exhibits reasonably promptly after they are
+delivered to the Indenture Trustee. The Indenture Trustee shall have no
+liability with respect to any failure to properly prepare or file such periodic
+reports resulting from or relating to the Indenture Trustee's inability or
+failure to obtain any information not resulting from its own negligence or
+willful misconduct. The Form 10-K shall also include a certification in the form
+attached hereto as Exhibit C-1 (the "Certification"), which shall be signed by
+the senior officer of the Servicer in charge of servicing.
+
+
+                                       25
+<PAGE>
+
+
+                  (c)      In addition, the Indenture Trustee shall sign a
+certification (in the form attached hereto as Exhibit C-2) for the benefit of
+the Servicer and its officers, directors and Affiliates regarding certain
+aspects of the Certification (provided, however, that the Indenture Trustee
+shall not undertake an analysis of the accountant's report attached as an
+exhibit to the Form 10-K). The Indenture Trustee's certification shall be
+delivered to the Servicer by no later than March 18th of each year (or if such
+day is not a Business Day, the immediately preceding Business Day) and the
+Servicer shall deliver the Certification to the Indenture Trustee for filing no
+later than March 20th of each year (or if such day is not a Business Day, the
+immediately preceding Business Day).
+
+                  In addition, the Indenture Trustee shall indemnify and hold
+harmless the Servicer and its officers, directors and Affiliates from and
+against any losses, damages, penalties, fines, forfeitures, reasonable and
+necessary legal fees and related costs, judgments and other costs and expenses
+arising out of or based upon a breach of the Indenture Trustee's obligations
+under this Section 3.14 or the Indenture Trustee's negligence, bad faith,
+willful misconduct or gross negligence in connection therewith. If the
+indemnification provided for herein is unavailable or insufficient to hold
+harmless the Servicer, then the Indenture Trustee, in connection with a breach
+of the Indenture Trustee's obligations under this Section 3.14 or the Indenture
+Trustee's bad faith, willful misconduct or gross negligence in connection
+therewith, agrees that it shall contribute to the amount paid or payable by the
+Servicer as a result of the losses, claims, damages or liabilities of the
+Servicer in such proportion as is appropriate to reflect the relative fault of
+the Servicer on the one hand and the Indenture Trustee on the other.
+
+                  If the indemnification provided for in this Agreement is
+unavailable or insufficient to hold harmless the Indenture Trustee, then the
+Servicer, in connection with a breach of the Servicer's obligations under this
+Section 3.14 or the Servicer's negligence, bad faith or willful misconduct in
+connection therewith, agrees that it shall contribute to the amount paid or
+payable by the Indenture Trustee as a result of the losses, claims, damages or
+liabilities of the Indenture Trustee in such proportion as is appropriate to
+reflect the relative fault of the Indenture Trustee on the one hand and the
+Servicer on the other.
+
+                  (d)      Upon any filing with the Commission, the Indenture
+Trustee shall promptly deliver to the Servicer a copy of any executed report,
+statement or information.
+
+                  (e)      Prior to January 30th of the first year in which the
+Indenture Trustee is able to do so under applicable law, the Indenture Trustee
+shall file a Form 15 Suspension Notification with respect to the Trust.
+
+                  (f)      To the extent that, following the Closing Date, the
+content of Forms 8-K, 10-K or other Forms required by the Exchange Act and the
+Rules and Regulations of the Commission and the time by which such Forms are
+required to be filed, differs from the provisions of this Section 3.14, the
+provisions of this Section 3.14 shall be deemed amended to conform to such new
+requirements, and the Indenture Trustee and the Depositor hereby agree that each
+shall reasonably cooperate to amend the provisions of this Section 3.14 (in
+accordance with Section 11.01) in order to comply with such amended reporting
+requirements and such amendment of this Section 3.14. Any such amendment may
+result in the reduction of the reports filed by the Servicer under the Exchange
+Act. Notwithstanding the foregoing, neither the
+
+
+                                       26
+<PAGE>
+
+
+Servicer nor the Indenture Trustee shall be obligated to enter into any
+amendment pursuant to this Section that adversely affects its obligations and
+immunities under this Agreement.
+
+                  Section 3.15. REPORTS OF FORECLOSURES AND ABANDONMENTS OF
+MORTGAGED PROPERTY; RETURNS RELATING TO MORTGAGE INTEREST RECEIVED FROM
+INDIVIDUALS AND RETURNS RELATING TO CANCELLATION OF INDEBTEDNESS.
+
+                  The Servicer shall make reports of foreclosures and
+abandonments of any Mortgaged Property for each year beginning in 2005. The
+Servicer shall file reports relating to each instance occurring during the
+previous calendar year in which the Servicer (i) on behalf of the Indenture
+Trustee acquires an interest in any Mortgaged Property through foreclosure or
+other comparable conversion in full or partial satisfaction of a Mortgage Loan,
+or (ii) knows or has reason to know that any Mortgaged Property has been
+abandoned. The reports from the Servicer shall be in form and substance
+sufficient to meet the reporting requirements imposed by Sections 6050J, 6050H
+and 6050P of the Code.
+
+                  Section 3.16. ADVANCES BY THE SERVICER.
+
+                  (a)      Not later than the close of business on each
+Determination Date, the Servicer shall remit to the Indenture Trustee for
+deposit into the Collection Account an amount (as indicated in the Indenture
+Trustee's Remittance report prepared pursuant to Section 4.01), to be paid on
+the related Payment Date pursuant to Section 3.05 of the Indenture, equal to the
+sum of (a) all payments of interest due on each Mortgage Loan during the related
+Due Period as to which no payment was received as of the close of business on
+the last day of the related Due Period (net of the Servicing Fee), and (b) with
+respect to each REO Property that was acquired during or prior to the related
+Due Period, and as to which an REO Property disposition did not occur during the
+related Due Period, an amount equal to the excess, if any, of interest on the
+Principal Balance of such REO Property at the Loan Rate less the Servicing Fee
+for the most recently ended Due Period prior to the related Determination Date
+for the related Mortgage Loan over the net income from the REO Property
+transferred to the Collection Account for such Payment Date pursuant to Section
+3.07 (such sum; the "Monthly Advance").
+
+                  (b)      Notwithstanding anything herein to the contrary, no
+Servicing Advance or Monthly Advance shall be required to be made hereunder if
+the Servicer determines that such Servicing Advance or Monthly Advance would, if
+made, constitute a Nonrecoverable Advance.
+
+                  Section 3.17. COMPENSATING INTEREST.
+
+                  Not later than the close of business on each Determination
+Date, the Servicer shall remit to the Indenture Trustee for deposit to the
+Collection Account an amount equal to the lesser of (A) the aggregate of the
+Prepayment Interest Shortfalls for the related Payment Date resulting from
+Principal Prepayments during the related Due Period and (B) its aggregate
+Servicing Fees received in the related Due Period. The Servicer shall not have
+the right to reimbursement for any amounts deposited to the Collection Account
+pursuant to this Section.
+
+
+                                       27
+<PAGE>
+
+
+                  Section 3.18. SUPERIOR LIENS.
+
+                  The Servicer shall file (or cause to be filed) of record a
+request for notice of any action by a superior lienholder under a First Lien for
+the protection of the Indenture Trustee's interest, where permitted by local law
+and whenever applicable state law does not require that a junior lienholder be
+named as a party defendant in foreclosure proceedings in order to foreclose such
+junior lienholder's equity of redemption.
+
+                  If the Servicer is notified that any superior lienholder has
+accelerated or intends to accelerate the obligations secured by the First Lien,
+or has declared or intends to declare a default under the mortgage or the
+promissory note secured thereby, or has filed or intends to file an election to
+have the Mortgaged Property sold or foreclosed, the Servicer shall take, on
+behalf of the Trust, whatever actions are necessary to protect the interests of
+the Noteholders and the Note Insurer, and/or to preserve the security of the
+related Mortgage Loan, in accordance with the terms of this Agreement. The
+Servicer shall immediately notify the Indenture Trustee and the Note Insurer of
+any such action or circumstances. The Servicer shall advance the necessary funds
+to cure the default or reinstate the superior lien, if such advance is in the
+best interests of the Note Insurer and the Noteholders which the Servicer may
+establish by seeking approval from the Note Insurer as evidenced by written
+instruction from the Note Insurer. Any action or inaction on the part of the
+Servicer in accordance with such written instructions shall be deemed to be in
+the best interests of the Note Insurer and the Noteholders. If no written
+response is received within five (5) Business Days of receipt by the Note
+Insurer of such request for approval, the Servicer may advance or not advance in
+accordance with the second preceding sentence, without liability to the
+Noteholders or the Note Insurer. The Servicer shall not make such an advance
+except to the extent that it determines in its reasonable good faith judgment
+that the advance would be recoverable from Liquidation Proceeds on the related
+Mortgage Loan and in no event in an amount that is greater than the Principal
+Balance of the related Mortgage Loan, except with the consent of the Note
+Insurer, which consent shall not be unreasonably withheld. The Servicer shall
+thereafter take such action as is necessary to recover the amount so advanced.
+
+                  Section 3.19. ASSUMPTION AGREEMENTS.
+
+                  When a Mortgaged Property has been or is about to be conveyed
+by a Mortgagor, the Servicer shall, to the extent it has knowledge of such
+conveyance or prospective conveyance, exercise its rights to accelerate the
+maturity of the related Mortgage Loan under any "due-on-sale" clause contained
+in the related Mortgage or Mortgage Note; PROVIDED, HOWEVER, that the Servicer
+shall not exercise any such right if (i) the "due-on-sale" clause, in the
+reasonable belief of the Servicer, is not enforceable under applicable law, or
+(ii) the Servicer, in a manner consistent with reasonable commercial practice,
+permits the purchaser of the related Mortgaged Property to assume the Mortgage
+Loan. In such event, the Servicer shall enter into an assumption and
+modification agreement with the person to whom such property has been or is
+about to be conveyed, pursuant to which such person becomes liable under the
+Mortgage Note and, unless prohibited by applicable law, the Mortgagor remains
+liable thereon. The Servicer is also authorized, with the prior approval of the
+Note Insurer, to enter into a substitution of liability agreement with such
+person and such person will be substituted as mortgagor and become liable under
+the Mortgage Note; PROVIDED, HOWEVER, that the Servicer shall have no liability
+under this Section 3.19 if the Note Insurer fails to respond to notice by the
+Servicer of a proposed
+
+
+                                       28
+<PAGE>
+
+
+substitution within two (2) Business Days of receipt thereof by the Note
+Insurer; PROVIDED, that the Servicer acts in accordance with the servicing
+standards set forth in this Agreement. The Servicer shall notify the Indenture
+Trustee and the Note Insurer that any such substitution or assumption agreement
+has been completed by forwarding to the Indenture Trustee the original of such
+substitution or assumption agreement and a duplicate thereof to the Note
+Insurer, which original shall be added by the Indenture Trustee to the related
+Mortgage File and shall, for all purposes, be considered a part of such Mortgage
+File to the same extent as all other documents and instruments constituting a
+part thereof. In connection with any assumption or substitution agreement
+entered into pursuant to this Section 3.19, the Servicer shall not change the
+Loan Rate or the Monthly Payment, defer or forgive the payment of principal or
+interest, reduce the outstanding principal amount or extend the final maturity
+date on such Mortgage Loan.
+
+                  Notwithstanding the foregoing paragraph or any other provision
+of this Agreement, the Servicer shall not be deemed to be in default, breach of,
+or in any other violation of its obligations hereunder by reason of any
+assumption of a Mortgage Loan by operation of law or any assumption which the
+Servicer may be restricted by law from preventing, for any reason whatsoever.
+
+                  Section 3.20. PAYMENT OF TAXES, INSURANCE AND OTHER CHARGES.
+
+                  With respect to each Mortgage Loan, the Servicer shall
+maintain accurate records reflecting fire and hazard insurance coverage.
+
+                  With respect to each Mortgage Loan as to which the Servicer
+maintains escrow accounts, the Servicer shall maintain accurate records
+reflecting the status of ground rents, taxes, assessments, water rates and other
+charges which are or may become a lien upon the Mortgaged Property and the
+status of primary mortgage guaranty insurance premiums, if any, and fire and
+hazard insurance coverage and shall obtain, from time to time, all bills for the
+payment of such charges (including renewal premiums) and shall effect payment
+thereof prior to the applicable penalty or termination date and at a time
+appropriate for securing maximum discounts allowable, employing for such purpose
+deposits of the Mortgagor in any escrow account which shall have been estimated
+and accumulated by the Servicer in amounts sufficient for such purposes, as
+allowed under the terms of the Mortgage. To the extent that a Mortgage does not
+provide for escrow payments, the Servicer shall, if it has received notice of a
+default or deficiency, monitor such payments to determine if they are made by
+the Mortgagor.
+
+
+                                       29
+<PAGE>
+
+
+                                   ARTICLE IV
+
+                                     REPORTS
+
+                  Section 4.01. REMITTANCE REPORTS AND REMITTANCE AMOUNTS.
+
+                  Not later than 12:00 noon California time on the fourth
+Business Day following the last day of a Due Period, the Servicer shall deliver
+to the Indenture Trustee a computer tape containing the information set forth on
+Exhibit E as to each Mortgage Loan as of such Due Period and such other
+information as the Indenture Trustee shall reasonably require.
+
+
+
+
+
+                                       30
+<PAGE>
+
+
+                                    ARTICLE V
+
+                                  THE SERVICER
+
+                  Section 5.01. LIABILITY OF THE SELLER AND THE SERVICER. The
+Seller and the Servicer shall be liable in accordance herewith only to the
+extent of the obligations specifically imposed upon and undertaken by the Seller
+or the Servicer, as the case may be, herein.
+
+                  Section 5.02. MERGER OR CONSOLIDATION OF OR ASSUMPTION OF THE
+OBLIGATIONS OF THE SELLER OR THE SERVICER. Any corporation into which the Seller
+or the Servicer may be merged or consolidated, or any corporation resulting from
+any merger, conversion or consolidation to which the Seller or the Servicer
+shall be a party, or any corporation succeeding to the business of the Seller or
+the Servicer, shall be the successor of the Seller or the Servicer, as the case
+may be, hereunder, without the execution or filing of any paper or any further
+act on the part of any of the parties hereto, anything herein to the contrary
+notwithstanding.
+
+                  Section 5.03. LIMITATION ON LIABILITY OF THE SERVICER AND
+OTHERS. Neither the Servicer nor any of the directors or officers or employees
+or agents of the Servicer shall be under any liability to the Trust or the
+Noteholders for any action taken or for refraining from the taking of any action
+by the Servicer in good faith pursuant to this Agreement, or for errors in
+judgment; PROVIDED, HOWEVER, that this provision shall not protect the Servicer
+or any such Person against any liability which would otherwise be imposed by
+reason of its willful misfeasance, bad faith or gross negligence in the
+performance of duties of the Servicer or by reason of its reckless disregard of
+its obligations and duties of the Servicer hereunder; and PROVIDED, FURTHER,
+that this provision shall not be construed to entitle the Servicer to indemnity
+in the event that amounts advanced by the Servicer to retire any senior lien
+exceed Net Liquidation Proceeds realized with respect to the related Mortgage
+Loan. The Servicer and any director or officer or employee or agent of the
+Servicer may rely in good faith on any document of any kind PRIMA FACIE properly
+executed and submitted by any Person respecting any matters arising hereunder.
+The Servicer and any director or officer or employee or agent of the Servicer
+shall be indemnified by the Trust and held harmless against any loss, liability
+or expense incurred in connection with any legal action relating to this
+Agreement or the Notes, other than any loss, liability or expense related to any
+specific Mortgage Loan or Mortgage Loans (except as any such loss, liability or
+expense shall be otherwise reimbursable pursuant to this Agreement) and any
+loss, liability or expense incurred by reason of its willful misfeasance, bad
+faith or gross negligence in the performance of duties hereunder or by reason of
+its reckless disregard of obligations and duties hereunder. The Servicer may in
+its sole discretion undertake any such action which it may deem necessary or
+desirable in respect of this Agreement, and the rights and duties of the parties
+hereto and the interests of the Noteholders hereunder. In such event, the
+reasonable legal expenses and costs of such action and any liability resulting
+therefrom shall be expenses, costs and liabilities of the Trust and the Servicer
+shall be entitled to be reimbursed therefor pursuant to Section 3.03(viii). The
+Servicer's right to indemnity or reimbursement pursuant to this Section 5.03
+shall survive any resignation or termination of the Servicer pursuant to Section
+5.04 or 6.01 with respect to any losses, expenses, costs or liabilities arising
+prior to such resignation or termination (or arising from events that occurred
+prior to such resignation or termination).
+
+
+                                       31
+<PAGE>
+
+
+                  Section 5.04. SERVICER NOT TO RESIGN. Subject to the
+provisions of Section 5.02, the Servicer shall not resign from the obligations
+and duties hereby imposed on it except (i) upon determination that the
+performance of its obligations or duties hereunder are no longer permissible
+under applicable law or are in material conflict by reason of applicable law
+with any other activities carried on by it or its subsidiaries or Affiliates,
+the other activities of the Servicer so causing such a conflict being of a type
+and nature carried on by the Servicer or its subsidiaries or Affiliates at the
+date of this Agreement, or (ii) upon satisfaction of the following conditions:
+(a) the Servicer has proposed a successor servicer to the Indenture Trustee in
+writing; (b) each Rating Agency shall have delivered a letter to the Indenture
+Trustee prior to the appointment of the successor servicer stating that the
+proposed appointment of such successor servicer as Servicer hereunder will not
+result in the reduction or withdrawal of the then current rating of the Class A
+Notes without giving effect to the Note Insurance Policy; and (c) such proposed
+successor servicer is reasonably acceptable to the Note Insurer, as evidenced by
+a letter to the Indenture Trustee; provided, however, that no such resignation
+by the Servicer shall become effective until such successor servicer or, in the
+case of (i) above, the Indenture Trustee shall have assumed the Servicer's
+responsibilities and obligations hereunder or the Indenture Trustee shall have
+designated a successor servicer in accordance with Section 6.02. Any such
+resignation shall not relieve the Servicer of responsibility for any of the
+obligations specified in Sections, 5.07, 6.01 and 6.02 as obligations that
+survive the resignation or termination of the Servicer. Any such determination
+permitting the resignation of the Servicer pursuant to clause (i) above shall be
+evidenced by an Opinion of Counsel to such effect delivered to the Indenture
+Trustee and the Note Insurer.
+
+                  Section 5.05. DELEGATION OF DUTIES. In the ordinary course of
+business, the Servicer at any time may delegate any of its duties hereunder to
+any Person, including any of its Affiliates, who agrees to conduct such duties
+in accordance with standards comparable to those set forth in Section 3.01. Such
+delegation shall not relieve the Servicer of its liabilities and
+responsibilities with respect to such duties and shall not constitute a
+resignation within the meaning of Section 5.04. The Servicer shall provide the
+Note Insurer and the Indenture Trustee with written notice prior to the
+delegation of any of its duties to any Person other than any of the Servicer's
+Affiliates or their respective successors and assigns.
+
+                  Section 5.06. RESERVED.
+
+                  Section 5.07. INDEMNIFICATION BY THE SERVICER. The Servicer
+shall indemnify and hold harmless the Trust, the Owner Trustee and the Indenture
+Trustee in all capacities from and against any loss, liability, expense, damage
+or injury suffered or sustained by reason of the Servicer's activities or
+omissions in servicing or administering the Mortgage Loans that are not in
+accordance with its obligations under the Basic Documents, including, but not
+limited to, any judgment, award, settlement, reasonable attorneys' fees and
+other costs or expenses incurred in connection with the defense of any actual or
+threatened action, proceeding or claim related to the Servicer's failure to
+perform its obligations in accordance with the Basic Documents. Any such
+indemnification shall not be payable from the assets of the Trust. The
+provisions of this indemnity shall run directly to and be enforceable by an
+injured party subject to the limitations hereof. The indemnification provided in
+this Section 5.07 shall survive the termination of this Agreement and the
+removal or resignation of the Indenture Trustee under the Indenture or the Owner
+Trustee pursuant to the Trust Agreement.
+
+
+                                       32
+<PAGE>
+
+
+                  The Servicer covenants and agrees to pay or reimburse, from
+time to time out of the Servicing Fee or out of other funds, upon its request
+for all reasonable expenses, disbursements and advances incurred or made by the
+Indenture Trustee in accordance with any of the provisions of the Basic
+Documents (including the reasonable compensation and the expenses and
+disbursements of its counsel and of all persons not regularly in its employ)
+except any such expense, disbursement or advance as may arise from its gross
+negligence or bad faith or which is the responsibility of Noteholders hereunder.
+In addition, the Servicer covenants and agrees to indemnify the Indenture
+Trustee in all capacities and its officers, directors, employees and agents
+from, and hold it harmless against, any and all losses, liabilities, damages,
+claims or expenses (i) incurred in connection with any legal action or claims
+relating to the Basic Documents or the Notes or by reason of its participation
+in the transactions contemplated herein or in the Basic Documents, other than
+any loss, liability or expense incurred by reason of willful misfeasance, bad
+faith or gross negligence of the Indenture Trustee in the performance of its
+duties hereunder or by reason of the Indenture Trustee's reckless disregard of
+obligations and duties hereunder, or (ii) resulting from any error in any tax or
+information return prepared by the Servicer. This section shall survive
+termination of this Agreement or the resignation or removal of any Indenture
+Trustee hereunder.
+
+
+
+
+
+                                       33
+<PAGE>
+
+
+                                   ARTICLE VI
+
+                                     DEFAULT
+
+                  Section 6.01. SERVICER EVENTS OF DEFAULT.
+
+                  (a)      If any one of the following events ("Events of
+Default") shall occur and be continuing:
+
+                  (i)      (A) The failure by the Servicer to make any Monthly
+         Advance; or (B) any other failure by the Servicer to deposit into the
+         Collection Account any deposit required to be made under the terms of
+         this Agreement which continues unremedied for a period of one Business
+         Day after the date upon which written notice of such failure shall have
+         been given to the Servicer by the Indenture Trustee or to the Servicer
+         and the Indenture Trustee by the Note Insurer or to the Servicer and
+         the Indenture Trustee by Holders of Class A Notes evidencing not less
+         than 25% of the Voting Rights; or
+
+                  (ii)     The failure by the Servicer to make any required
+         Servicing Advance which failure continues unremedied for a period of 30
+         days, or the failure by the Servicer duly to observe or perform, in any
+         material respect, any other covenants, obligations or agreements of the
+         Servicer as set forth in this Agreement, which materially and adversely
+         affects the interests of the Class A Noteholders or the Note Insurer
+         and which failure continues unremedied for a period of 60 days, in each
+         case, after the date on which written notice of such failure, requiring
+         the same to be remedied, shall have been given to the Servicer by the
+         Indenture Trustee or to the Servicer and the Indenture Trustee by the
+         Note Insurer or to the Servicer and the Indenture Trustee by Holders of
+         Class A Notes evidencing not less than 25% of the Voting Rights; or
+
+                  (iii)    The entry against the Servicer of a decree or order
+         by a court or agency or supervisory authority having jurisdiction in
+         the premises for the appointment of a trustee, conservator, receiver or
+         liquidator in any insolvency, conservatorship, receivership,
+         readjustment of debt, marshalling of assets and liabilities or similar
+         proceedings, or for the winding up or liquidation of its affairs, and
+         the continuance of any such decree or order unstayed and in effect for
+         a period of 60 consecutive days; or
+
+                  (iv)     The Servicer shall voluntarily go into liquidation,
+         consent to the appointment of a conservator or receiver or liquidator
+         or similar person in any insolvency, readjustment of debt, marshalling
+         of assets and liabilities or similar proceedings of or relating to the
+         Servicer or of or relating to all or substantially all of its property,
+         or a decree or order of a court or agency or supervisory authority
+         having jurisdiction in the premises for the appointment of a
+         conservator, receiver, liquidator or similar person in any insolvency,
+         readjustment of debt, marshalling of assets and liabilities or similar
+         proceedings, or for the winding-up or liquidation of its affairs, shall
+         have been entered against the Servicer and such decree or order shall
+         have remained in force undischarged, unbonded or unstayed for a period
+         of 60 days; or the Servicer shall
+
+
+                                       34
+<PAGE>
+
+
+         admit in writing its inability to pay its debts generally as they
+         become due, file a petition to take advantage of any applicable
+         insolvency or reorganization statute, make an assignment for the
+         benefit of its creditors or voluntarily suspend payment of its
+         obligations; or
+
+                  (v)      a Servicer Termination Delinquency Event shall have
+         occurred;
+
+                  (vi)     a Servicer Termination Loss Event shall have
+         occurred; or
+
+                  (vii)    if the total stockholders' equity of the Servicer, as
+         determined by the Servicer's independent accountants on an annual basis
+         in accordance with generally accepted accounting principles or as
+         determined by the Servicer in any quarterly financial statement
+         prepared in accordance with generally accepted accounting principles,
+         shall be less than $25 million.
+
+                  (b)      then, and in each and every such case, so long as a
+Servicer Event of Default shall not have been remedied, (x) with respect solely
+to clause (i)(A) above, if such Monthly Advance is not made by 12:00 Noon New
+York time on the applicable Payment Date, the Indenture Trustee, upon receipt of
+written notice or actual knowledge by a Responsible Officer of such failure,
+shall give immediate telephonic notice of such failure to a Servicing Officer of
+the Servicer and to the Note Insurer and the Indenture Trustee shall terminate
+all of the rights and obligations of the Servicer under this Agreement and the
+Indenture Trustee as successor servicer, or a successor servicer appointed in
+accordance with Section 6.02, shall immediately make such Monthly Advance and
+assume, pursuant to Section 6.02 hereof, the duties of a successor Servicer; (y)
+in the case of clauses (i)(B), (ii), (iii) and (iv), the Indenture Trustee
+shall, at the direction of the Note Insurer or the Holders of the Class A Notes
+evidencing not less than 51% of the Voting Rights, and (z) in the case of
+(i)(B)(v) and (vi), the Note Insurer may, in accordance with the terms of the
+Insurance Agreement, by notice then given in writing to the Servicer (and to the
+Indenture Trustee if given by Holders of Notes), terminate all of the rights and
+obligations of the Servicer as servicer under this Agreement. Any such notice to
+the Servicer shall also be given to each Rating Agency, the Depositor and the
+Note Insurer. On or after the receipt by the Servicer of such written notice,
+all authority and power of the Servicer under this Agreement, whether with
+respect to the Notes or the Mortgage Loans or otherwise, shall pass to and be
+vested in the Indenture Trustee as successor servicer pursuant to and under this
+Section 6.01; and, without limitation, the Indenture Trustee is hereby
+authorized and empowered to execute and deliver, on behalf of the Servicer, as
+attorney-in-fact or otherwise, any and all documents and other instruments, and
+to do or accomplish all other acts or things necessary or appropriate to effect
+the purposes of such notice of termination, whether to complete the transfer and
+endorsement of each Mortgage Loan and related documents, or otherwise. The
+Servicer agrees to cooperate with the Indenture Trustee in effecting the
+termination of the responsibilities and rights of the Servicer hereunder,
+including, without limitation, the transfer to the Indenture Trustee as
+successor servicer for the administration by it of all cash amounts that shall
+at the time be held by the Servicer and to be deposited by it in the Collection
+Account, or that have been deposited by the Servicer in the Collection Account
+or thereafter received by the Servicer with respect to the Mortgage Loans. All
+reasonable costs and expenses (including attorneys' fees) incurred in connection
+with transferring the Mortgage Files to the successor Servicer and amending this
+Agreement to reflect such succession as Servicer
+
+
+                                       35
+<PAGE>
+
+
+pursuant to this Section 6.01 shall be paid by the predecessor Servicer (or if
+the predecessor Servicer is the Indenture Trustee, the initial Servicer) upon
+presentation of reasonable documentation of such costs and expenses. If the
+Indenture Trustee is acting as successor servicer and the predecessor Servicer
+fails to pay such costs and expenses, the Indenture Trustee shall be entitled to
+reimbursement from the Trust to the extent set forth in Section 3.05 of the
+Indenture.
+
+                  Notwithstanding the foregoing, a delay in or failure of
+performance under Section 6.01(a)(i) for a period of ten Business Days, or under
+Section 6.01(a)(ii), for a period of 60 Business Days, shall not constitute a
+Servicer Event of Default if such delay or failure could not be prevented by the
+exercise of reasonable diligence by the Servicer and such delay or failure was
+caused by an act of God or the public enemy, acts of declared or undeclared war,
+public disorder, rebellion or sabotage, epidemics, landslides, lightning, fire,
+hurricanes, earthquakes, floods or similar causes. The preceding sentence shall
+not relieve the Servicer from using its best efforts to perform its respective
+obligations in a timely manner in accordance with the terms of this Agreement
+and the Servicer shall provide the Indenture Trustee, the Note Insurer and the
+Noteholders with an Officers' Certificate giving prompt notice of such failure
+or delay by it, together with a description of its efforts to so perform its
+obligations. The Servicer shall immediately notify the Indenture Trustee in
+writing of any Events of Default.
+
+                  Section 6.02. INDENTURE TRUSTEE TO ACT; APPOINTMENT OF
+SUCCESSOR.
+
+                  (a)      On and after the time the Servicer receives a notice
+of termination pursuant to Section 6.01 or 5.04, the Indenture Trustee shall be
+the successor in all respects to the Servicer in its capacity as servicer under
+this Agreement and the transactions set forth or provided for herein and shall
+be subject to all the responsibilities, duties and liabilities relating thereto
+placed on the Servicer by the terms and provisions hereof arising on and after
+its succession. As compensation therefor, the Indenture Trustee shall be
+entitled to such compensation as the Servicer would have been entitled to
+hereunder if no such notice of termination had been given. Notwithstanding the
+above, (i) if the Indenture Trustee is unwilling to act as successor Servicer,
+or (ii) if the Indenture Trustee is legally unable so to act, the Indenture
+Trustee may (in the situation described in clause (i)) or shall (in the
+situation described in clause (ii)) appoint or petition a court of competent
+jurisdiction to appoint, any established housing and home finance institution,
+bank or other mortgage loan or home equity loan servicer having a net worth of
+not less than $25,000,000 as the successor to the Servicer hereunder in the
+assumption of all or any part of the responsibilities, duties or liabilities of
+the Servicer hereunder; PROVIDED, that any such successor Servicer shall be
+acceptable to the Note Insurer, as evidenced by the Note Insurer's prior written
+consent which consent shall not be unreasonably withheld; and PROVIDED, FURTHER,
+that the appointment of any such successor Servicer will not result in the
+qualification, reduction or withdrawal of the ratings assigned to the Notes by
+the Rating Agencies without giving effect to the Note Insurance Policy. Pending
+appointment of a successor to the Servicer hereunder, unless the Indenture
+Trustee is prohibited by law from so acting, the Indenture Trustee shall act in
+such capacity as hereinabove provided. In connection with such appointment and
+assumption, the successor shall be entitled to receive compensation out of
+payments on Mortgage Loans in an amount equal to the compensation which the
+Servicer would otherwise have received pursuant to Section 3.09 (or such lesser
+compensation as the Indenture Trustee and such successor shall agree). The
+appointment of a successor Servicer shall not affect
+
+
+                                       36
+<PAGE>
+
+
+any liability of the predecessor Servicer which may have arisen under this
+Agreement prior to its termination as Servicer to pay any deductible under an
+insurance policy pursuant to Section 3.05 or to indemnify the Indenture Trustee
+pursuant to Section 5.07), nor shall any successor Servicer be liable for any
+acts or omissions of the predecessor Servicer or for any breach by such Servicer
+of any of its representations or warranties contained herein or in any related
+document or agreement. The Indenture Trustee and such successor shall take such
+action, consistent with this Agreement, as shall be necessary to effectuate any
+such succession. The Indenture Trustee shall pay to the Servicer the amount, if
+any, paid by a successor servicer for the servicing rights, after payment of the
+expenses of sale and amounts owed by the terminated Servicer to the Trust.
+
+                  (b)      Any successor, including the Indenture Trustee, to
+the Servicer as servicer shall during the term of its service as servicer (i)
+continue to service and administer the Mortgage Loans for the benefit of
+Noteholders and the Note Insurer, (ii) maintain in force a policy or policies of
+insurance covering errors and omissions in the performance of its obligations as
+Servicer hereunder and a fidelity bond in respect of its officers, employees and
+agents to the same extent as the Servicer is so required pursuant to Section
+3.06. Notwithstanding anything herein to the contrary, in no event shall the
+Indenture Trustee be liable for any Servicing Fee or for any differential in the
+amount of the Servicing Fee paid hereunder and the amount necessary to induce
+any successor Servicer to act as successor Servicer under this Agreement and the
+transactions set forth or provided for herein.
+
+                  Section 6.03. WAIVER OF DEFAULTS.
+
+                  The Holders of the Class A Notes evidencing not less than 51%
+of the Voting Rights may, on behalf of all Noteholders, and subject to the
+consent of the Note Insurer, waive any events permitting removal of the Servicer
+as servicer pursuant to this Article VIII; PROVIDED, HOWEVER, that the Majority
+Noteholders may not waive a default in making a required payment on a Note
+without the consent of the Holder of such Note. Upon any waiver of a past
+default, such default shall cease to exist, and any Servicer Event of Default
+arising therefrom shall be deemed to have been remedied for every purpose of
+this Agreement. No such waiver shall extend to any subsequent or other default
+or impair any right consequent thereto except to the extent expressly so waived.
+Notice of any such waiver shall be given by the Indenture Trustee to the Rating
+Agencies.
+
+                  Section 6.04. NOTIFICATION TO NOTEHOLDERS.
+
+                  Upon any termination or appointment of a successor to the
+Servicer pursuant to this Article VI or Section 5.04, the Indenture Trustee
+shall give prompt written notice thereof to the Noteholders at their respective
+addresses appearing in the Note Register, the Note Insurer and each Rating
+Agency.
+
+
+                                       37
+<PAGE>
+
+
+                                   ARTICLE VII
+
+                            MISCELLANEOUS PROVISIONS
+
+                  Section 7.01. AMENDMENT. This Servicing Agreement may be
+amended from time to time by the parties hereto, provided that any amendment be
+accompanied by a letter from the Rating Agencies that the amendment will not
+result in the downgrading or withdrawal of the rating then assigned to the Notes
+(without giving effect to the Note Insurance Policy) or the rating then assigned
+to the Notes, and the Indenture Trustee and the Note Insurer shall have
+consented in writing to such amendment.
+
+                  Section 7.02. GOVERNING LAW. THIS SERVICING AGREEMENT SHALL BE
+CONSTRUED IN ACCORDANCE WITH THE LAWS OF THE STATE OF NEW YORK, WITHOUT
+REFERENCE TO ITS CONFLICT OF LAW PROVISIONS, AND THE OBLIGATIONS, RIGHTS AND
+REMEDIES OF THE PARTIES HEREUNDER SHALL BE DETERMINED IN ACCORDANCE WITH SUCH
+LAWS.
+
+                  Section 7.03. NOTICES. All demands, notices and communications
+hereunder shall be in writing and shall be deemed to have been duly given if
+when delivered to:
+
+                  (a)      in the case of the Seller and the Servicer:
+
+                  Home Loan and Investment Bank, F.S.B.
+                  One Home Plaza
+                  Warwick, Rhode Island 02886
+                  Attention: John Murphy
+
+                  (b)      in the case of Rating Agencies:
+
+                  Moody's Investors Service, Inc.
+                  4th Floor
+                  99 Church Street
+                  New York, New York 10007
+                  Attention: Residential Mortgage Monitoring Unit
+
+                  Standard & Poor's, a division of The McGraw-Hill
+                  Companies, Inc.
+                  55 Water Street - 41st Floor
+                  New York, New York 10041
+                  Attention: Asset Backed Surveillance Group
+
+                  (c)      in the case of the Owner Trustee, the Corporate Trust
+                           Office:
+
+                  Wilmington Trust Company
+                  Rodney Square North
+                  1100 North Market Street
+                  Wilmington, Delaware 19890
+                  Attention: Corporate Trust Administration
+
+
+                                       38
+<PAGE>
+
+
+                  (d)      in the case of the Issuer, to Home Loan Mortgage Loan
+                           Trust 2004-2:
+
+                  c/o Financial Asset Securities Corp.
+                  600 Steamboat Road
+                  Greenwich, Connecticut 06830
+                  Attention: Legal
+
+                  (e)      in the case of the Indenture Trustee:
+
+                  Deutsche Bank National Trust Company
+                  1761 East St. Andrew Place
+                  Santa Ana, California 92705
+                  Attention: Trust Administration/ Home Loan Mortgage
+                  Loan Trust Series 2004-2 (HL0402)
+
+                  (f)      in the case of the Note Insurer:
+
+                  One State Street Plaza
+                  New York, New York 10004
+                  Attention:  Consumer Asset-Backed Securities Group
+
+or, as to each party, at such other address as shall be designated by such party
+in a written notice to each other party. Any notice required or permitted to be
+mailed to a Noteholder shall be given by first class mail, postage prepaid, at
+the address of such Noteholder as shown in the Note Register. Any notice so
+mailed within the time prescribed in this Servicing Agreement shall be
+conclusively presumed to have been duly given, whether or not the Noteholder
+receives such notice. Any notice or other document required to be delivered or
+mailed by the Servicer to any Rating Agency shall be given on a reasonable
+efforts basis and only as a matter of courtesy and accommodation and the
+Servicer shall have no liability for failure to deliver such notice or document
+to any Rating Agency.
+
+                  Section 7.04. SEVERABILITY OF PROVISIONS. If any one or more
+of the covenants, agreements, provisions or terms of this Servicing Agreement
+shall be for any reason whatsoever held invalid, then such covenants,
+agreements, provisions or terms shall be deemed severable from the remaining
+covenants, agreements, provisions or terms of this Servicing Agreement and shall
+in no way affect the validity or enforceability of the other provisions of this
+Servicing Agreement or of the Notes or the rights of the Noteholders thereof.
+
+                  Section 7.05. THIRD-PARTY BENEFICIARIES. This Servicing
+Agreement will inure to the benefit of and be binding upon the parties hereto,
+the Noteholders, the Owner Trustee, the Note Insurer, the Indenture Trustee and
+their respective successors and permitted assigns. Except as otherwise provided
+in this Servicing Agreement, no other Person will have any right or obligation
+hereunder. The Indenture Trustee shall have the right to exercise all rights of
+the Issuer under this Servicing Agreement.
+
+                  Section 7.06. COUNTERPARTS. This instrument may be executed in
+any number of counterparts, each of which so executed shall be deemed to be an
+original, but all such counterparts shall together constitute but one and the
+same instrument.
+
+
+                                       39
+<PAGE>
+
+
+                  Section 7.07. EFFECT OF HEADINGS AND TABLE OF CONTENTS. The
+Article and Section headings herein and the Table of Contents are for
+convenience only and shall not affect the construction hereof.
+
+                  Section 7.08. TERMINATION. The respective obligations and
+responsibilities of the Seller, the Servicer and the Issuer created hereby shall
+terminate upon the satisfaction and discharge of the Indenture pursuant to
+Section 4.10 thereof.
+
+                  Section 7.09. NO PETITION. The Seller and the Servicer, by
+entering into this Servicing Agreement, hereby covenant and agree that they will
+not at any time institute against the Issuer, or join in any institution against
+the Issuer, any bankruptcy proceedings under any United States federal or state
+bankruptcy or similar law in connection with any obligations of the Issuer. This
+section shall survive the termination of this Servicing Agreement by one year.
+
+                  Section 7.10. NO RECOURSE. The Seller and the Servicer
+acknowledge that no recourse may be had against the Issuer, except as may be
+expressly set forth in this Servicing Agreement.
+
+                  Section 7.11. INDENTURE TRUSTEE RIGHTS. The Indenture Trustee
+shall be entitled to the same rights, protections, indemnities and immunities
+afforded to it under the Indenture as if specifically set forth herein.
+
+                  Section 7.12. ASSIGNMENT. Notwithstanding anything to the
+contrary contained herein, except as provided in Sections 5.02, 5.04 and 5.05
+(or 3.01), this Agreement may not be assigned by the Depositor or the Servicer
+without the prior written consent of the Note Insurer and Holders of the Notes
+evidencing Percentage Interests aggregating not less than 66-2/3%.
+
+
+                                       40
+<PAGE>
+
+
+                                  ARTICLE VIII
+
+                     DUTIES OF THE SERVICER AS ADMINISTRATOR
+
+                  Section 8.01. ADMINISTRATIVE DUTIES.
+
+                  (a)      DUTIES WITH RESPECT TO THE INDENTURE. The
+Administrator shall perform all its duties and the duties of the Issuer under
+the Indenture. In addition, the Administrator shall consult with the Owner
+Trustee as the Administrator deems appropriate regarding the duties of the
+Issuer under the Indenture. The Administrator shall monitor the performance of
+the Issuer and shall advise the Owner Trustee when action is necessary to comply
+with the Issuer's duties under the Indenture. The Administrator shall prepare
+for execution by the Issuer or shall cause the preparation by other appropriate
+Persons of all such documents, reports, filings, instruments, certificates and
+opinions as it shall be the duty of the Issuer to prepare, file or deliver
+pursuant to the Indenture. In furtherance of the foregoing, the Administrator
+shall take all necessary action that is the duty of the Issuer to take pursuant
+to the Indenture.
+
+                  (b)      DUTIES WITH RESPECT TO THE ISSUER.
+
+                  (i)      In addition to the duties of the Administrator set
+         forth in this Servicing Agreement or any of the Basic Documents, the
+         Administrator shall perform such calculations and shall prepare for
+         execution by the Issuer or the Owner Trustee or shall cause the
+         preparation by other appropriate Persons of all such documents,
+         reports, filings, instruments, certificates and opinions as it shall be
+         the duty of the Issuer or the Owner Trustee to prepare, file or deliver
+         pursuant to this Servicing Agreement or any of the Basic Documents or
+         under state and federal tax and securities laws (including, but not
+         limited to, UCC filings in applicable jurisdictions and annual
+         compliance certificates, if any), and at the request of the Owner
+         Trustee or the Indenture Trustee shall take all appropriate action that
+         it is the duty of the Issuer to take pursuant to this Servicing
+         Agreement or any of the Basic Documents. In accordance with the
+         directions of the Issuer or the Owner Trustee, the Administrator shall
+         administer, perform or supervise the performance of such other
+         activities in connection with the Notes (including the Basic Documents)
+         as are not covered by any of the foregoing provisions and as are
+         expressly requested by the Issuer, the Indenture Trustee or the Owner
+         Trustee.
+
+                  (ii)     Notwithstanding anything in this Servicing Agreement
+         or any of the Basic Documents to the contrary, the Administrator shall
+         be responsible for promptly notifying the Owner Trustee and Certificate
+         Paying Agent in the event that any withholding tax is imposed on the
+         Issuer's payments (or allocations of income) to an Owner (as defined in
+         the Trust Agreement) as contemplated in Section 5.03 of the Trust
+         Agreement. Any such notice shall be in writing and specify the amount
+         of any withholding tax required to be withheld by the Owner Trustee or
+         the Certificate Paying Agent pursuant to such provision.
+
+                  (iii)    In carrying out the foregoing duties or any of its
+         other obligations under this Servicing Agreement, the Administrator may
+         enter into transactions with or
+
+
+                                       41
+<PAGE>
+
+
+         otherwise deal with any of its Affiliates; PROVIDED, HOWEVER, that the
+         terms of any such transactions or dealings shall be in accordance with
+         any directions received from the Issuer and shall be, in the
+         Administrator's opinion, no less favorable to the Issuer in any
+         material respect than with terms made available to unrelated third
+         parties.
+
+                  (c)      TAX MATTERS. The Administrator shall prepare, on
+behalf of the Owner Trustee, financial statements and such annual or other
+reports of the Issuer as are necessary for the preparation by the Indenture
+Trustee of tax returns and information reports as provided in Section 5.03 of
+the Trust Agreement, including, without limitation, Form 1099.
+
+                  (d)      NON-MINISTERIAL MATTERS. With respect to matters that
+in the reasonable judgment of the Administrator are non-ministerial, the
+Administrator shall not take any action pursuant to this Article VIII unless
+within a reasonable time before the taking of such action, the Administrator
+shall have notified the Owner Trustee and the Indenture Trustee of the proposed
+action and the Owner Trustee and, with respect to items (A), (B), (C) and (D)
+below, the Indenture Trustee shall not have withheld consent or provided an
+alternative direction. For the purpose of the preceding sentence,
+"non-ministerial matters" shall include:
+
+                           (A)      the amendment of or any supplement to the
+                  Indenture;
+
+                           (B)      the initiation of any claim or lawsuit by
+                  the Issuer and the compromise of any action, claim or lawsuit
+                  brought by or against the Issuer (other than in connection
+                  with the collection of the Mortgage Loans);
+
+                           (C)      the amendment, change or modification of
+                  this Servicing Agreement or any of the Basic Documents to
+                  which the Indenture Trustee or the Owner Trustee, as
+                  applicable, is a party;
+
+                           (D)      the appointment of successor Certificate
+                  Paying Agents and successor Indenture Trustees pursuant to the
+                  Indenture or the appointment of successor Servicers or the
+                  consent to the assignment by the Certificate Registrar, Paying
+                  Agent or Indenture Trustee of its obligations under the
+                  Indenture; and
+
+                           (E)      the removal of the Indenture Trustee.
+
+                  (e)      SERVICER SHALL ACT AS ADMINISTRATOR. By execution of
+this Agreement, the Servicer agrees to be bound as Administrator and shall
+perform the obligations of the Administrator as described herein.
+
+                  Section 8.02. RECORDS. The Administrator shall maintain
+appropriate books of account and records relating to services performed under
+this Servicing Agreement, which books of account and records shall be accessible
+for inspection by the Issuer, the Indenture Trustee and the Owner Trustee at any
+time during normal business hours.
+
+                  Section 8.03. ADDITIONAL INFORMATION TO BE FURNISHED. The
+Administrator shall furnish to the Issuer, the Indenture Trustee and the Owner
+Trustee from time to time such additional information regarding the Mortgage
+Loans and the Notes as the Issuer, the Indenture Trustee or the Owner Trustee
+shall reasonably request.
+
+
+                                       42
+<PAGE>
+
+
+                  Section 8.04. NO RECOURSE TO OWNER TRUSTEE. It is expressly
+understood and agreed by the parties hereto that (a) this Agreement is executed
+and delivered by Wilmington Trust Company, not individually or personally, but
+solely as Owner Trustee of Home Loan Mortgage Loan Trust 2004-2, in the exercise
+of the powers and authority conferred and vested in it, (b) each of the
+representations, undertakings and agreements herein made on the part of the
+Issuer is made and intended not as personal representations, undertakings and
+agreements by Wilmington Trust Company but is made and intended for the purpose
+for binding only the Issuer, (c) nothing herein contained shall be construed as
+creating any liability of Wilmington Trust Company, individually or personally,
+to perform any covenant either expressed or implied contained herein, all such
+liability, if any, being expressly waived by the parties hereto and by any
+Person claiming by, through or under the parties hereto and (d) under no
+circumstances shall Wilmington Trust Company be personally liable for the
+payment of any indebtedness or expenses of the Issuer or be liable for the
+breach or failure of any obligation, representation, warranty or covenant made
+or undertaken by the Issuer under this Agreement or any other related documents.
+
+
+
+
+
+                                       43
+<PAGE>
+
+
+                  IN WITNESS WHEREOF, the Seller, the Servicer, the Issuer and
+the Indenture Trustee have caused this Servicing Agreement to be duly executed
+by their respective officers or representatives all as of the day and year first
+above written.
+
+
+                                       HOME LOAN AND INVESTMENT BANK, F.S.B.,
+                                       as Seller and Servicer
+
+
+                                       By: /s/ John M. Murphy
+                                          --------------------------------------
+                                       Name:   John M. Murphy
+                                       Title:  President
+
+
+                                       HOME LOAN MORTGAGE LOAN TRUST 2004-2,
+                                       as Issuer
+
+                                       By: Wilmington Trust Company, not in its
+                                       individual capacity, but
+                                       solely as Owner Trustee
+
+
+                                       By: /s/ Patricia A. Evans
+                                          --------------------------------------
+                                       Name:   Patricia A. Evans
+                                       Title:  Assistant Vice President
+
+
+                                       DEUTSCHE BANK NATIONAL TRUST COMPANY,
+                                       as Indenture Trustee
+
+
+                                       By: /s/ John Ingham
+                                          --------------------------------------
+                                       Name:   John Ingham
+                                       Title:  Associate
+
+
+
+
+
+<PAGE>
+
+
+                                    EXHIBIT A
+                                    ---------
+
+
+                             MORTGAGE LOAN SCHEDULE
+                                (Filed Manually)
+
+(In accordance with Rule 202 of Regulation S-T, this Mortgage Loan Schedule is
+being filed in paper pursuant to a continuing hardship exemption.)
+
+
+
+
+
+                                      A-1
+<PAGE>
+
+
+                                    EXHIBIT B
+                                    ---------
+
+
+                           FORM OF REQUEST FOR RELEASE
+                             (for Indenture Trustee)
+
+
+                                                                      [DATE]
+
+Deutsche Bank National Trust Company
+of California, N.A., as Trustee
+1761 East St. Andrew Place
+Santa Ana, California 92705
+Attention:  HL0402
+
+                  Re:      Financial Asset Securities Corp., Home Loan Mortgage
+                           Loan Trust, Asset-Backed NOTES, SERIES 2004-2
+
+Ladies and Gentlemen:
+
+                  In connection with the administration of the Mortgage Loans
+held by you as Indenture Trustee under the Servicing Agreement dated as of
+December 16, 2004, among Home Loan Mortgage Loan Trust 2004-2 as Issuer, Home
+Loan and Investment Bank, as Seller and Servicer, and you, as Trustee (the
+"Agreement"), we hereby request a release of the Mortgage File held by you as
+Indenture Trustee with respect to the following described Mortgage Loan for the
+reason indicated below.
+
+Loan No.:
+- --------
+
+Reason for Requesting File:
+- --------------------------
+
+______            1.       Mortgage Loan paid in full. (The Servicer hereby
+                  certifies that all amounts received in connection with the
+                  payment in full of the Mortgage Loan which are required to be
+                  deposited in the Collection Account pursuant to Section 3.02
+                  of the Agreement have been so deposited.)
+
+______            2.       Retransfer of Mortgage Loan. (The Servicer hereby
+                  certifies that the Transfer Deposit Amount has been deposited
+                  in the Collection Account pursuant to the Agreement.)
+
+______            3.       The Mortgage Loan is being foreclosed.
+
+______            4.       The Home Loan Mortgage Loan Trust is being
+                  re-financed by another depository institution. (The Servicer
+                  hereby certifies that all amounts received in connection with
+                  the payment in full of the Mortgage Loan which are required to
+                  be deposited in the Collection Account pursuant to Section
+                  3.02 of the Agreement have been so deposited.)
+
+______            5.       Other (Describe).
+
+
+
+
+
+                                      B-1
+<PAGE>
+
+
+                                   EXHIBIT C-1
+                                   -----------
+
+
+       FORM OF CERTIFICATION TO BE PROVIDED BY THE SERVICER WITH FORM 10-K
+
+                                  Certification
+
+                  1.       I have reviewed this annual report on Form 10-K, and
+all reports on Form 8-K containing distribution or servicing reports filed in
+respect of periods included in the year covered by this annual report, of Home
+Loan Mortgage Loan Trust 2004-2, Asset Backed Notes, Series 2004-2;
+
+                  2.       Based on my knowledge, the information in these
+reports, taken as a whole, does not contain any untrue statement of a material
+fact or omit to state a material fact necessary to make the statements made, in
+light of the circumstances under which such statements were made, not misleading
+as of the last day of the period covered by this annual report;
+
+                  3.       Based on my knowledge, the distribution or servicing
+information required to be provided to the trustee by the servicer under the
+pooling and servicing, or similar, agreement, for inclusion in these reports is
+included in these reports;
+
+                  4.       Based on my knowledge and upon the annual compliance
+statement included in the report and required to be delivered to the trustee in
+accordance with the terms of the pooling and servicing, or similar, agreement,
+and except as disclosed in the reports, the servicer has fulfilled its
+obligations under the servicing agreement; and
+
+                  5.       The reports disclose all significant deficiencies
+relating to the servicer's compliance with the minimum servicing standards based
+upon the report provided by an independent public accountant, after conducting a
+review in compliance with the Uniform Single Attestation Program for Mortgage
+Bankers or similar procedure, as set forth in the pooling and servicing, or
+similar, agreement, that is included in these reports.
+
+                  In giving the certifications above, I have reasonably relied
+on information provided to me by the following unaffiliated parties: Deutsche
+Bank National Trust Company.
+
+
+                                       HOME LOAN AND INVESTMENT BANK, F.S.B.
+
+
+                                       By:____________________________________
+                                       Name:
+                                       Title:
+                                       Date:
+
+
+                                      C-1-1
+<PAGE>
+
+
+                                   EXHIBIT C-2
+                                   -----------
+
+
+                           FORM OF CERTIFICATION TO BE
+                PROVIDED TO THE SERVICER BY THE INDENTURE TRUSTEE
+
+         Re:      Home Loan Mortgage Loan Trust 2004-2 (the "Trust" or the
+                  "Issuer") Asset-Backed Notes, Series 2004-2
+
+                  I, [identify the certifying individual], a [title] of Deutsche
+Bank National Trust Company, as Indenture Trustee, hereby certify to Home Loan
+and Investment Bank, F.S.B. (the "Servicer"), and its officers, directors and
+affiliates, and with the knowledge and intent that they will rely upon this
+certification, that:
+
+                  1.       I have reviewed the annual report on Form 10-K for
+the calendar year 2004, and all reports on Form 8-K containing the Indenture
+Trustee's Remittance Reports filed in respect of periods included in the year
+covered by that annual report, of the Servicer relating to the above-referenced
+trust;
+
+                  2.       Based on my knowledge, the information in these
+distribution reports prepared by the Indenture Trustee, taken as a whole, does
+not contain any untrue statement of a material fact or omit to state a material
+fact necessary to make the statements made, in light of the circumstances under
+which such statements were made, not misleading as of the last day of the period
+covered by that annual report; and
+
+                  3.       Based on my knowledge, the distribution information
+required to be provided by the Indenture Trustee under the Indenture is included
+in these distribution reports.
+
+                  Capitalized terms used but not defined herein have the
+meanings ascribed to them in Appendix A to the Indenture, dated December 16,
+2004 (the "Indenture"), between Home Loan Mortgage Loan Trust 2004-2, as issuer,
+and Deutsche Bank National Trust Company, as indenture trustee.
+
+
+                                       DEUTSCHE BANK NATIONAL TRUST COMPANY,
+                                       as Indenture Trustee
+
+
+                                       By:__________________________________
+                                       Name:
+                                       Title:
+                                       Date:
+
+
+                                      C-2-1
+<PAGE>
+
+
+                                    EXHIBIT D
+                                    ---------
+
+
+                              OFFICER'S CERTIFICATE
+                    REGARDING ANNUAL STATEMENT OF COMPLIANCE
+
+___________________ Trust, Series 200_-___
+_______________ Asset-Backed Notes
+
+                  I, _____________________, hereby certify that I am a duly
+appointed __________________________ of _______________________________ (the
+"Servicer"), and further certify as follows:
+
+                  1.       This certification is being made pursuant to the
+terms of the Servicing Agreement, dated as of December 16, 2004 (the "Servicing
+Agreement"), among Home Loan Mortgage Loan Trust 2004-2., as issuer, the
+Servicer, as servicer, the Seller as seller and Deutsche Bank National Trust
+Company, as indenture trustee.
+
+                  2.       I have reviewed the activities of the Servicer during
+the preceding calendar year and the Servicer's performance under the Servicing
+Agreement and to the best of my knowledge, based on such review, the Servicer
+has fulfilled all of its obligations under the Servicing Agreement throughout
+the year.
+
+                  Capitalized terms not otherwise defined herein have the
+meanings set forth in the Servicing Agreement.
+
+Dated: _________________
+
+
+
+
+
+                                      D-2
+<PAGE>
+
+
+                  IN WITNESS WHEREOF, the undersigned has executed this
+Certificate as of _____________.
+
+
+                                       By:  _____________________________
+                                       Name:
+                                       Title:
+
+
+                  I, _________________________, a (an) __________________ of the
+[Servicer], hereby certify that _________________ is a duly elected, qualified,
+and acting _______________________ of the [Servicer] and that the signature
+appearing above is his/her genuine signature.
+
+                  IN WITNESS WHEREOF, the undersigned has executed this
+Certificate as of ______________.
+
+
+                                       By:  ______________________________
+                                       Name:
+                                       Title:
+
+
+
+
+
+                                      D-3
+<PAGE>
+
+
+                                    EXHIBIT E
+                                    ---------
+
+
+               MONTHLY INFORMATION DELIVERED TO INDENTURE TRUSTEE
+
+                  a.       The Available Funds and the Note Interest Rate for
+the related Payment Date;
+
+                  b.       The Class A Note Principal Balance or the Aggregate
+Principal Balance of the Mortgage Loans as reported in the prior Indenture
+Trustee's Remittance Report or, in the case of the first Determination Date, the
+Class A Note Principal Balance;
+
+                  c.       The aggregate amount of collections received on the
+Mortgage Loans on or prior to such Determination Date in respect of the
+preceding Due Period, separately stating the amounts received in respect of
+principal and interest;
+
+                  d.       The number and Principal Balances of all Mortgage
+Loans that were the subject of Principal Prepayments during the related Due
+Period;
+
+                  e.       The amount of all Curtailments that were received
+during the Due Period;
+
+                  f.       The principal portion of all Monthly Payments
+received during the Due Period;
+
+                  g.       The interest portion of all Monthly Payments received
+on the related Mortgage Loans during the Due Period;
+
+                  h.       The amount required to be paid by the Seller
+(reported separately) pursuant to Sections 2.02 and 2.03;
+
+                  i.       The amount of the Monthly Advances and the
+Compensating Interest payment to be made with respect to such Payment Date;
+
+                  j.       The Class Principal Payment Amount for the related
+Payment Date, the portion thereof to be distributed on the Class A Notes then
+entitled to distributions of principal and the Class Interest Payment for the
+related Payment Date and the Class A Notes;
+
+                  k.       the amount of Class A Available Funds Cap Carryover
+Amount distributed to the Class A Notes, stating separately any amounts received
+from the Corridor Contract Counterparty with respect to the Corridor Contract,
+and the amount of Class A Available Funds Cap Carryover Amount remaining;
+
+                  l.       The amount, if any, of the outstanding Class Interest
+Carryover Shortfall for the Class A Notes after giving effect to the payments on
+the related Payment Date;
+
+
+                                      D-4
+<PAGE>
+
+
+                  m.       The amount to be paid to the Noteholders of the Class
+A Notes for the related Payment Date;
+
+                  n.       The Note Principal Balance of the Class A Note after
+giving effect to the payments to be made on the related Payment Date;
+
+                  o.       The weighted average remaining term to maturity of
+the Mortgage Loans and the weighted average Loan Rate;
+
+                  p.       The Servicing Fee to be paid to the Servicer;
+
+                  q.       The Indenture Trustee Fee to be paid to the Indenture
+Trustee;
+
+                  r.       The amount of all payments or reimbursements to the
+Servicer pursuant to Section 3.03;
+
+                  s.       The number of Mortgage Loans outstanding at the
+beginning and at the end of the related Due Period;
+
+                  t.       The Aggregate Principal Balance as of the end of the
+Due Period related to such Payment Date;
+
+                  u.       The number and Aggregate Principal Balances of
+Mortgage Loans (w) as to which the Monthly Payment is delinquent for 30-59 days,
+60-89 days and 90 or more days, respectively, (x) that have become REO
+Properties, in each case as of the end of the preceding Due Period, (y) that are
+in foreclosure and (z) the Mortgagor of which is the subject of any bankruptcy
+or insolvency proceeding;
+
+                  v.       The unpaid principal amount of all Mortgage Loans
+that became Liquidated Mortgage Loans during such Due Period;
+
+                  w.       The Net Liquidation Proceeds received during such Due
+Period;
+
+                  x.       The book value (within the meaning of 12 C.F.R. ss.
+571.13 or comparable provision) of any real estate acquired through foreclosure
+or grant of a deed in lieu of foreclosure;
+
+                  y.       Whether a Servicer Termination Delinquency Event or a
+Servicer Termination Loss Event has occurred;
+
+                  z.       Such other information as is required by the Code and
+regulations thereunder to be made available to Holders of the Notes;
+
+                  aa.      During the Funding Period, the amount used to acquire
+Subsequent Mortgage Loans since the preceding Payment Date and the remaining
+Pre-Funded Amount after acquiring Subsequent Mortgage Loans;
+
+
+                                      D-5
+<PAGE>
+
+
+                  bb.      During the Funding Period, the amount on deposit in
+the Capitalized Interest Account after the Payment Date and the Capitalized
+Interest Required Amount for such Distribution Date; and
+
+                  cc.      Any claim to be made under the Note Insurance Policy.
+
+
+
+
+
+                                      D-6
+<PAGE>
+
+
+                                    EXHIBIT F
+                                    ---------
+
+
+                 MONTHLY DELINQUENCY AND FORECLOSURE INFORMATION
+
+
+               On file with Home Loan and Investment Bank, F.S.B.
+
+
+
+
+
+                                      D-7
+

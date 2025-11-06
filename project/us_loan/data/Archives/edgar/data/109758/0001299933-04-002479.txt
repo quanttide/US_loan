@@ -1,0 +1,886 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Tezwfkts+PPhMygGU6WX0xi20NP1OP2MzJQSyl9jKvsQROsJi2b2I8BCJV9KSX9P
+ 3pQdlhjy6u/F1ozsC84jOw==
+
+<SEC-DOCUMENT>0001299933-04-002479.txt : 20041229
+<SEC-HEADER>0001299933-04-002479.hdr.sgml : 20041229
+<ACCEPTANCE-DATETIME>20041229155237
+ACCESSION NUMBER:		0001299933-04-002479
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20041227
+ITEM INFORMATION:		Entry into a Material Definitive Agreement
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20041229
+DATE AS OF CHANGE:		20041229
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ARBITRON INC
+		CENTRAL INDEX KEY:			0000109758
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER PROCESSING & DATA PREPARATION [7374]
+		IRS NUMBER:				520278528
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-01969
+		FILM NUMBER:		041231146
+
+	BUSINESS ADDRESS:	
+		STREET 1:		142 WEST 57TH STREET
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10019-3300
+		BUSINESS PHONE:		2128871300
+
+	MAIL ADDRESS:	
+		STREET 1:		142 WEST 57TH STREET
+		CITY:			NEW YORK
+		STATE:			N1
+		ZIP:			10019-3300
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CERIDIAN CORP
+		DATE OF NAME CHANGE:	19920901
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CONTROL DATA CORP /DE/
+		DATE OF NAME CHANGE:	19920703
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	COMMERCIAL CREDIT CO
+		DATE OF NAME CHANGE:	19680910
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>htm_2416.htm
+<DESCRIPTION>LIVE FILING
+<TEXT>
+<!-- CoverPageHeader start -->
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML>
+<HEAD>
+<TITLE> Arbitron Inc. (Form: 8-K) </TITLE>
+</HEAD>
+<BODY TEXT="#000000" BGCOLOR="#FFFFFF" ALINK="#0000FF" HLINK="#FF0000" VLINK="#800080">
+<A NAME="DOCUMENT_TOP">&nbsp;</A>
+<P>
+<!-- CoverPageHeader end --><!-- CoverPageTitle START -->
+<A NAME="DOCUMENT_TOP">&nbsp;</A>
+<HR NOSHADE>
+<P>
+<P ALIGN="CENTER">
+<FONT SIZE="4">
+		UNITED STATES<BR>
+	SECURITIES AND EXCHANGE COMMISSION
+</FONT>
+<BR>
+<FONT SIZE="2">
+	WASHINGTON, D.C. 20549
+</FONT>
+<P ALIGN="CENTER">
+<FONT SIZE="5">
+	FORM 8-K
+</FONT>
+<FONT SIZE="2">
+
+</FONT>
+</P>
+<P ALIGN="CENTER">
+<FONT SIZE="3">
+	CURRENT REPORT
+</FONT>
+</P>
+<P ALIGN="CENTER">
+<FONT SIZE="2">
+	Pursuant to Section&nbsp;13 or 15(d) of the Securities Exchange Act of 1934
+</FONT>
+</P>
+<CENTER>
+<TABLE CELLSPACING="0" BORDER="0" CELLPADDING="0" WIDTH="100%">
+<TR VALIGN="BOTTOM">
+<TD WIDTH="51%">
+	&nbsp;
+</TD>
+<TD WIDTH="5%">
+	&nbsp;
+</TD>
+<TD WIDTH="44%">
+	&nbsp;
+</TD>
+</TR>
+<TR VALIGN="BOTTOM">
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+	Date of Report (Date of Earliest Event Reported):
+</FONT>
+</TD>
+<TD>
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+	December 27, 2004
+</FONT>
+</TD>
+</TR>
+</TABLE>
+<BR>
+</CENTER>
+<!-- CoverPageTitle END --><!-- CoverPageRegistrant START -->
+<P ALIGN="CENTER"><!-- -->
+<FONT SIZE="6">
+	Arbitron Inc.
+</FONT>
+<FONT SIZE="2">
+<BR>__________________________________________<BR>
+	(Exact name of registrant as specified in its charter)
+</FONT>
+<CENTER>
+<TABLE CELLSPACING="0" BORDER="0" CELLPADDING="0" WIDTH="100%">
+<TR VALIGN="BOTTOM">
+<TD WIDTH="33%">
+	&nbsp;
+</TD>
+<TD WIDTH="34%">
+	&nbsp;
+</TD>
+<TD WIDTH="33%">
+	&nbsp;
+</TD>
+</TR>
+<TR VALIGN="BOTTOM">
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+	Delaware
+</FONT>
+</TD>
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+	1-1969
+</FONT>
+</TD>
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+	52-0278528
+</FONT>
+</TD>
+</TR>
+<TR VALIGN="BOTTOM">
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+_____________________<BR>
+	(State or other jurisdiction
+</FONT>
+</TD>
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+_____________<BR>
+	(Commission
+</FONT>
+</TD>
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+______________<BR>
+	(I.R.S. Employer
+</FONT>
+</TD>
+</TR>
+<TR VALIGN="BOTTOM">
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+	of incorporation)
+</FONT>
+</TD>
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+	File Number)
+</FONT>
+</TD>
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+	Identification No.)
+</FONT>
+</TD>
+</TR>
+<TR VALIGN="BOTTOM">
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+	&nbsp;&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+</TR>
+<TR VALIGN="BOTTOM">
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+	142 West 57th Street, New York, New York
+</FONT>
+</TD>
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+	10019-3300
+</FONT>
+</TD>
+</TR>
+<TR VALIGN="BOTTOM">
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+_________________________________<BR>
+	(Address of principal executive offices)
+</FONT>
+</TD>
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+___________<BR>
+	(Zip Code)
+</FONT>
+</TD>
+</TR>
+</TABLE>
+</CENTER>
+<CENTER>
+<TABLE CELLSPACING="0" BORDER="0" CELLPADDING="0" WIDTH="100%">
+
+<TR VALIGN="BOTTOM">
+<TD WIDTH="51%">
+	&nbsp;
+</TD>
+<TD WIDTH="5%">
+	&nbsp;
+</TD>
+<TD WIDTH="44%">
+	&nbsp;
+</TD>
+</TR>
+<TR VALIGN="BOTTOM">
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+	Registrant&#146;s telephone number, including area code:
+</FONT>
+</TD>
+<TD>
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+	212-887-1300
+</FONT>
+</TD>
+</TR>
+</TABLE>
+</CENTER>
+<P ALIGN="CENTER">
+<FONT SIZE="2">
+	Not Applicable
+<BR>______________________________________________<BR>
+	Former name or former address, if changed since last report
+</FONT>
+<P ALIGN="CENTER">
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+<!-- CoverPageRegistrant END --><P><FONT SIZE="2">
+Check the appropriate box below if the Form 8-K filing is intended to
+simultaneously satisfy the filing obligation of the registrant under any
+of the following provisions:</FONT>
+</P>
+<P><FONT SIZE="2">
+[&nbsp;&nbsp;]&nbsp;&nbsp;Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)<br>
+[&nbsp;&nbsp;]&nbsp;&nbsp;Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)<br>
+[&nbsp;&nbsp;]&nbsp;&nbsp;Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))<br>
+[&nbsp;&nbsp;]&nbsp;&nbsp;Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))<br>
+</P></FONT><!-- PageBreak START -->
+<P>
+<HR NOSHADE>
+<DIV ALIGN="LEFT" STYLE="PAGE-BREAK-BEFORE:ALWAYS">
+<A HREF="#DOCUMENT_TOP">
+<U>
+<B>
+<FONT SIZE="2">Top of the Form</FONT>
+</B>
+</U>
+</A>
+</DIV>
+<!-- PageBreak END --><!-- Item START -->
+<P ALIGN="LEFT">
+<FONT SIZE="2">
+<B>
+	Item 1.01. Entry into a Material Definitive Agreement.
+</B>
+</FONT>
+</P>
+<P ALIGN="LEFT">
+<FONT SIZE="2">
+On December 27, 2004, Arbitron Inc. (the "Company") entered into new multi-year license agreements with Clear Channel Communications, Inc. ("Clear Channel") to provide radio ratings and software services for Clear Channel&#x2019;s radio stations through the Company&#x2019;s Fall 2008 survey.  Clear Channel is the Company&#x2019;s largest ratio ratings subscriber and represented approximately 21% of the Company&#x2019;s revenue in 2003.  Clear Channel&#x2019;s existing licensing agreements with the Company were scheduled to expire on December 31, 2004.<br><br>Under the terms of the new agreements, the Company will provide its Radio Market Report Service, including the Company&#x2019;s Radio Market Report, Maximi$er, Arbitrends, PD Advantage, National Regional Database, Sample Surcharge, Retail Direct and Tapscan Software services, to Clear Channel.  These services will be provided under this agreement through December 31, 2008.  The annual payment for these services is expected to be approximately $56.1 milli
+on in 2005, based on the number of radio stations currently owned by Clear Channel.<br><br>In addition, Clear Channel renewed its existing contracts for the Scarborough service and other local market consumer information services through December 31, 2008.  The annual payment for these services is expected to be approximately $3.3 million in 2005, based on the number of radio stations currently owned by Clear Channel.<br><br>Clear Channel also renewed its existing agreements with the Company for Premiere Radio Networks, including Radar, Nationwide and Radio Market Report, Maximi$er, Arbitrends and PD Advantage services, which were scheduled to expire on December 31, 2005 (or December 31, 2006 in the case of Radar), through December 31, 2008.  The annual payment for these services is expected to be approximately $3.7 million in 2006, based on the number of stations currently owned by Clear Channel.<br><br>A copy of the press release announcing the contracts is filed herewith as Exhibit 99.1 and incorporated b
+y reference herein.  Copies of the contracts entered into between the Company and Clear Channel will be filed as exhibits to the Company&#x2019;s Annual Report on Form 10-K for the year ending December 31, 2004.<br>
+</FONT>
+</P>
+<!-- Item END -->
+<BR><BR><BR><BR><!-- Item START -->
+<P ALIGN="LEFT">
+<FONT SIZE="2">
+<B>
+	Item 9.01. Financial Statements and Exhibits.
+</B>
+</FONT>
+</P>
+<P ALIGN="LEFT">
+<FONT SIZE="2">
+(c) Exhibits<br><br>99.1        Press Release of Arbitron Inc. dated December 27, 2004.<br>
+</FONT>
+</P>
+<!-- Item END -->
+<BR><BR><BR><BR><P ALIGN="LEFT" STYLE="FONT-SIZE: 10PT"></P><!-- PageBreak START -->
+<P>
+<HR NOSHADE>
+<DIV ALIGN="LEFT" STYLE="PAGE-BREAK-BEFORE:ALWAYS">
+<A HREF="#DOCUMENT_TOP">
+<U>
+<B>
+<FONT SIZE="2">Top of the Form</FONT>
+</B>
+</U>
+</A>
+</DIV>
+<!-- PageBreak END --><!-- SignatureHeader START -->
+<P ALIGN="CENTER">
+<FONT SIZE="2">
+<B>
+	SIGNATURES
+</B>
+</FONT>
+</P>
+<P ALIGN="LEFT">
+<FONT SIZE="2">
+	Pursuant to the requirements of the Securities Exchange Act of 1934, the
+	registrant has duly caused this report to be signed on its behalf by the
+	undersigned hereunto duly authorized.
+</FONT>
+</P>
+<!-- SignatureHeader END --><!-- Signature START -->
+<CENTER>
+<TABLE CELLSPACING="0" BORDER="0" CELLPADDING="0" WIDTH="100%">
+<TR VALIGN="BOTTOM">
+<TD WIDTH="19%">
+	&nbsp;
+</TD>
+<TD WIDTH="34%">
+	&nbsp;
+</TD>
+<TD WIDTH="3%">
+	&nbsp;
+</TD>
+<TD WIDTH="1%">
+	&nbsp;
+</TD>
+<TD WIDTH="43%">
+	&nbsp;
+</TD>
+</TR>
+<TR VALIGN="BOTTOM">
+<TD VALIGN="TOP">
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD>
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD COLSPAN="3" VALIGN="TOP" ALIGN="LEFT">
+<FONT SIZE="2">
+	Arbitron Inc.
+</FONT>
+</TD>
+</TR>
+<TR VALIGN="BOTTOM">
+<TD VALIGN="TOP">
+<FONT SIZE="2">
+	&nbsp;&nbsp;
+</FONT>
+</TD>
+<TD>
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD>
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+</TR>
+<TR VALIGN="BOTTOM">
+<TD VALIGN="TOP">
+<FONT SIZE="2">
+<I>
+	December 29, 2004
+</I>
+</FONT>
+</TD>
+<TD>
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<FONT SIZE="2">
+<I>
+	By:
+</I>
+</FONT>
+</TD>
+<TD>
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<FONT SIZE="2">
+<I>
+	Dolores L. Cody
+</I>
+<BR>
+</FONT>
+</TD>
+</TR>
+<TR>
+<TD VALIGN="TOP">
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD>
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD>
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<HR SIZE="1" NOSHADE>
+</TD>
+</TR>
+<TR VALIGN="BOTTOM">
+<TD VALIGN="TOP">
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD>
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD>
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<FONT SIZE="2">
+<I>
+	Name: Dolores L. Cody
+</I>
+</FONT>
+</TD>
+</TR>
+<TR VALIGN="BOTTOM">
+<TD VALIGN="TOP">
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD>
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD>
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<FONT SIZE="2">
+<I>
+	Title: Executive Vice President, Legal & Business Affairs, Chief Legal Officer & Secretary
+</I>
+</FONT>
+</TD>
+</TR>
+</TABLE>
+</CENTER>
+<!-- Signature END --><!-- PageBreak START -->
+<P>
+<HR NOSHADE>
+<DIV ALIGN="LEFT" STYLE="PAGE-BREAK-BEFORE:ALWAYS">
+<A HREF="#DOCUMENT_TOP">
+<U>
+<B>
+<FONT SIZE="2">Top of the Form</FONT>
+</B>
+</U>
+</A>
+</DIV>
+<!-- PageBreak END --><P ALIGN="CENTER">
+<FONT SIZE="2">
+	Exhibit&nbsp;Index
+</FONT>
+<CENTER>
+<TABLE CELLSPACING="0" BORDER="0" CELLPADDING="0" WIDTH="60%">
+<TR VALIGN="BOTTOM">
+<TD WIDTH="8%">
+	&nbsp;
+</TD>
+<TD WIDTH="15%">
+	&nbsp;
+</TD>
+<TD WIDTH="77%">
+	&nbsp;
+</TD>
+</TR>
+
+<BR>
+<TR VALIGN="BOTTOM">
+<TD NOWRAP ALIGN="LEFT">
+<FONT SIZE="1">
+<B>
+	Exhibit No.
+</B>
+</FONT>
+</TD>
+<TD>
+<FONT SIZE="1">
+	&nbsp;
+</FONT>
+</TD>
+<TD NOWRAP ALIGN="LEFT">
+<FONT SIZE="1">
+<B>
+	Description
+</B>
+</FONT>
+</TD>
+</TR>
+<TR VALIGN="BOTTOM">
+<TD NOWRAP ALIGN="CENTER">
+<HR SIZE="1" NOSHADE>
+</TD>
+<TD>
+<FONT SIZE="1">
+	&nbsp;
+</FONT>
+</TD>
+<TD NOWRAP ALIGN="CENTER">
+<HR ALIGN="LEFT" SIZE="1" WIDTH="88%" NOSHADE>
+</TD>
+</TR>
+
+
+
+
+
+<TR VALIGN="BOTTOM">
+<TD VALIGN="TOP" WIDTH="8%" nowrap>
+<FONT SIZE="2">
+<DIV ALIGN="LEFT">
+	99.1
+</DIV>
+</FONT>
+</TD>
+<TD WIDTH="15%">
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP" WIDTH="77%">
+<FONT SIZE="2">
+Press Release of Arbitron Inc. dated December 27, 2004
+</FONT>
+</TD>
+</TR></TABLE></CENTER><!-- HTMLFooter START -->
+</BODY>
+</HTML>
+<!-- HTMLFooter END -->
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>exhibit1.htm
+<DESCRIPTION>EX-99.1
+<TEXT>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML>
+<HEAD>
+<TITLE> EX-99.1 </TITLE>
+</HEAD>
+<BODY TEXT="#000000" BGCOLOR="#FFFFFF" ALINK="#0000FF" HLINK="#FF0000" VLINK="#800080">
+
+<BODY style="font-family: 'Times New Roman',Times,serif">
+<!-- <DIV align="center" style="width: 99%; background: black; padding: 1px; height: 100%"> -->
+<!-- <DIV align="center" style="width: 100%; background: white; padding: 5px; height: 100%">  -->
+
+
+<P align="left" style="font-size: 10pt"><FONT style="font-size: 9pt"><B>PRESS INFORMATION</B></FONT>
+
+
+<P align="right" style="font-size: 9pt">Contact: Thom Mocarshy
+
+
+
+<P align="right" style="font-size: 9pt">Arbitron Inc.<BR>
+212-887-1314<BR>
+thom.mocarsky@arbitron.com
+
+
+
+<P align="right" style="font-size: 9pt"><FONT style="font-size: 11pt"><B>FOR IMMEDIATE RELEASE</B></FONT>
+
+
+
+<P align="center" style="font-size: 11pt"><U><B>ARBITRON AND CLEAR CHANNEL RENEW CONTRACT</B></U><BR>
+<I>Companies sign agreement for local market and network radio ratings, consumer information and<BR>
+software services</I>
+
+
+
+<P align="left" style="font-size: 11pt">NEW YORK, DECEMBER 27, 2004 &#150;Arbitron Inc. (NYSE:ARB) announced today that it has signed a
+four-year license agreement with Clear Channel Radio to provide the company with radio ratings and
+software services through the Fall 2008 survey.
+
+
+<P align="left" style="font-size: 11pt">The agreement also renews existing contracts for Scarborough and other local market consumer
+information services. Clear Channel also renewed its agreements with Arbitron for Premiere Radio
+Networks, KMG Consolidated Radio Sales and Clear Channel Traffic.
+
+
+<P align="left" style="font-size: 11pt">Clear Channel is Arbitron&#146;s largest radio ratings subscriber and represented approximately 21% of
+Arbitron&#146;s revenue in 2003.
+
+
+<P align="left" style="font-size: 11pt">&#147;We are pleased that Clear Channel has renewed its agreements with Arbitron. We look forward to
+continuing to provide our largest customer with the information services that will help it grow
+its revenue and manage its radio business,&#148; said Steve Morris, president and CEO, Arbitron Inc.
+
+
+<P align="left" style="font-size: 11pt"><B>About Arbitron</B>
+<BR>
+Arbitron Inc. (NYSE: ARB) is an international media and marketing research firm serving radio
+broadcasters, cable companies, advertisers, advertising agencies and outdoor advertising companies
+in the United States, Mexico and Europe. Arbitron&#146;s core businesses are measuring network and local
+market radio audiences across the United States; surveying the retail, media and product patterns
+of local market consumers; and providing application software used for analyzing media audience and
+marketing information data. The Company has also developed the Portable People Meter (PPM), a new
+technology for media and marketing research.
+
+
+<P align="left" style="font-size: 11pt">Arbitron&#146;s marketing and business units are supported by its research and technology organization,
+located in Columbia, Maryland. Arbitron has approximately 1,700 employees; its executive offices
+are located in New York City.
+
+
+<P align="left" style="font-size: 11pt">Through its Scarborough Research joint venture with VNU, Inc., Arbitron also provides media and
+marketing research services to the broadcast television, magazine, newspaper and online industries.
+
+
+<P align="center" style="font-size: 11pt"># # #
+
+
+
+<P align="left" style="font-size: 11pt"><FONT style="font-size: 10pt"><I>PPM</I><sup><I>SM </I></sup><I>is a service mark of Arbitron Inc.</I></FONT>
+
+
+<P align="left" style="margin-right:1%; font-size: 10pt"><FONT style="font-size: 11pt"><I>Arbitron and Clear Channel reach ratings agreement</I>
+<BR>
+<I>Page of 2</I>
+<BR>
+<I>December&nbsp;27, 2004</I></FONT>
+
+
+<P align="left" style="font-size: 11pt"><FONT style="font-size: 10pt"><I>This press release contains forward-looking statements within the meaning of the Private
+Securities Litigation Reform Act of 1995. The statements regarding Arbitron in this document that
+are not historical in nature, particularly those that utilize terminology such as &#147;may,&#148; &#147;will,&#148;
+&#147;should,&#148; &#147;likely,&#148; &#147;expects,&#148; &#147;anticipates,&#148; &#147;estimates,&#148; &#147;believes&#148; or &#147;plans,&#148; or comparable
+terminology, are forward-looking statements based on current expectations about future events,
+which Arbitron has derived from information currently available to it. These forward-looking
+statements involve known and unknown risks and uncertainties that may cause our results to be
+materially different from results implied in such forward-looking statements. These risks and
+uncertainties include whether we will be able to:</I></FONT>
+
+
+<P align="left" style="font-size: 10pt"><FONT style="font-size: 9pt"></FONT>
+
+
+
+<P align="left" style="margin-left:4%; font-size: 9pt"><FONT style="font-size: 10pt">&#149; <I>renew all or part of contracts with large customers as they expire;</I></FONT>
+
+
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="7%" style="background: transparent">&nbsp;</TD>
+    <TD width="1%" nowrap align="right">&#149;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD><I>successfully execute our business strategies, including implementation of our
+Portable People Meter services;</I></TD>
+</TR>
+
+</TABLE>
+
+
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="7%" style="background: transparent">&nbsp;</TD>
+    <TD width="1%" nowrap align="right">&#149;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD><I>effectively manage the impact of consolidation in the radio and advertising agency
+industries;</I></TD>
+</TR>
+
+</TABLE>
+
+
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="7%" style="background: transparent">&nbsp;</TD>
+    <TD width="1%" nowrap align="right">&#149;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD><I>keep up with rapidly changing technological needs of our customer base, including
+creating new proprietary software systems and new customer products and services that
+meet these needs in a timely manner;</I></TD>
+</TR>
+
+</TABLE>
+
+
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="7%" style="background: transparent">&nbsp;</TD>
+    <TD width="1%" nowrap align="right">&#149;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD><I>successfully manage the impact on our business of any economic downturn generally
+and in the advertising market in particular; and</I></TD>
+</TR>
+
+</TABLE>
+
+
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="7%" style="background: transparent">&nbsp;</TD>
+    <TD width="1%" nowrap align="right">&#149;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD><I>successfully manage the impact on costs of data collection due to privacy concerns
+and/or government regulations.</I></TD>
+</TR>
+
+</TABLE>
+
+
+<P align="left" style="font-size: 10pt"><I>Additional important factors known to Arbitron that could cause forward-looking statements to turn
+out to be incorrect are identified and discussed from time to time in Arbitron&#146;s filings with the
+Securities and Exchange Commission, including in particular the risk factors discussed under the
+caption &#147;ITEM 1. BUSINESS &#150; Business Risks&#148; in our Annual Report on </I><I>Form 10-K</I><I>.</I>
+
+
+<P align="left" style="font-size: 10pt"><I>The forward-looking statements contained in this document speak only as of the date hereof, and
+Arbitron undertakes no obligation to correct or update any forward-looking statements, whether as a
+result of new information, future events or otherwise.</I>
+
+
+<P align="left" style="font-size: 10pt"><FONT style="font-size: 9pt">Arbitron Inc. </FONT><FONT style="font-size: 14pt">&#149;</FONT><FONT style="font-size: 9pt"> 142 West 57<sup>th</sup> Street </FONT><FONT style="font-size: 14pt">&#149;</FONT><FONT style="font-size: 9pt"> New York, New York 10019
+</FONT><FONT style="font-size: 14pt">&#149;</FONT><FONT style="font-size: 9pt"> www.arbitron.com</FONT>
+
+
+
+<P align="center" style="font-size: 10pt; display: none">
+
+
+<!-- </DIV> -->
+<!-- </DIV> -->
+</BODY>
+
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

@@ -1,0 +1,694 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Bb/apSY0hBpTLdJI8U4KodubOjQIkpCQ1Q06qJnQC+5wSycI9CntFbOx601q0FmP
+ xgNtxVEpeGHP4T8u5ScFLQ==
+
+<SEC-DOCUMENT>0001193125-04-220840.txt : 20041229
+<SEC-HEADER>0001193125-04-220840.hdr.sgml : 20041229
+<ACCEPTANCE-DATETIME>20041229161111
+ACCESSION NUMBER:		0001193125-04-220840
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	20041224
+ITEM INFORMATION:		Entry into a Material Definitive Agreement
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20041229
+DATE AS OF CHANGE:		20041229
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			MBIA INC
+		CENTRAL INDEX KEY:			0000814585
+		STANDARD INDUSTRIAL CLASSIFICATION:	SURETY INSURANCE [6351]
+		IRS NUMBER:				061185706
+		STATE OF INCORPORATION:			CT
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-09583
+		FILM NUMBER:		041231288
+
+	BUSINESS ADDRESS:	
+		STREET 1:		113 KING ST
+		CITY:			ARMONK
+		STATE:			NY
+		ZIP:			10504
+		BUSINESS PHONE:		914-273-4545
+
+	MAIL ADDRESS:	
+		STREET 1:		113 KING ST
+		CITY:			ARMONK
+		STATE:			NY
+		ZIP:			10504
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>d8k.htm
+<DESCRIPTION>FORM 8-K
+<TEXT>
+<HTML><HEAD>
+<TITLE>Form 8-K</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+<HR SIZE="3" NOSHADE COLOR="#000000" ALIGN="left"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="5"><B>SECURITIES AND EXCHANGE COMMISSION </B></FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="3"><B>Washington, D.C. 20549 </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P><HR WIDTH="17%" SIZE="1" NOSHADE
+COLOR="#000000"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="5"><B>FORM 8-K </B></FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P><HR WIDTH="17%" SIZE="1" NOSHADE COLOR="#000000"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"
+ALIGN="center"><FONT FACE="Times New Roman" SIZE="3"><B>CURRENT REPORT </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT
+FACE="Times New Roman" SIZE="3"><B>Pursuant to Section 13 or 15(d) of </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="3"><B>the Securities Exchange Act of 1934 </B></FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>Date of Report (Date of earliest event reported): December 24, 2004
+</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P><HR WIDTH="17%" SIZE="1" NOSHADE COLOR="#000000"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="6"><B>MBIA INC. </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(Exact name of registrant
+as specified in its charter) </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P><HR WIDTH="17%" SIZE="1" NOSHADE COLOR="#000000"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD WIDTH="34%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="32%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="32%"></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>Connecticut</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>1-9583</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>06-1185706</B></FONT></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(State or other jurisdiction</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:1px" ALIGN="center"><FONT
+FACE="Times New Roman" SIZE="1"><B>of incorporation)</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(Commission File Number)</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(IRS Employer</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:1px" ALIGN="center"><FONT FACE="Times New Roman"
+SIZE="1"><B>Identification No.)</B></FONT></P></TD></TR>
+</TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD WIDTH="50%"></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD WIDTH="48%"></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>113 King Street,</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:1px" ALIGN="center"><FONT
+FACE="Times New Roman" SIZE="2"><B>Armonk, New York</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>10504</B></FONT></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(Addresses of principal executive offices)</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(Zip Code)</B></FONT></TD></TR>
+</TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>Registrant&#146;s
+telephone number, including area code: </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>914-273-4545 </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>Not Applicable </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman"
+SIZE="1"><B>(Former name or former address, if changed since last report) </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P><HR WIDTH="17%" SIZE="1" NOSHADE COLOR="#000000"> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy
+the filing obligation of the registrant under any of the following provisions: </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2"></FONT><FONT FACE="WINGDINGS" SIZE="2" COLOR="#000000">&#168;</FONT><FONT FACE="Times New Roman" SIZE="2"></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2"></FONT><FONT FACE="WINGDINGS" SIZE="2" COLOR="#000000">&#168;</FONT><FONT FACE="Times New Roman" SIZE="2"></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2"></FONT><FONT FACE="WINGDINGS" SIZE="2" COLOR="#000000">&#168;</FONT><FONT FACE="Times New Roman" SIZE="2"></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2"></FONT><FONT FACE="WINGDINGS" SIZE="2" COLOR="#000000">&#168;</FONT><FONT FACE="Times New Roman" SIZE="2"></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT
+SIZE="1">&nbsp;</FONT></P><HR SIZE="3" NOSHADE COLOR="#000000" ALIGN="left">
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+ <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Item 1.01. ENTRY INTO A MATERIAL DEFINITIVE AGREEMENT. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT
+SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">In connection with the retirement of John B. Caouette, Vice President of the Company and Vice Chairman of the Registrant&#146;s principal
+operating subsidiary MBIA Insurance Corporation (&#147;MBIA Corp.&#148;), effective as of the close of business on December 24, 2004, MBIA Corp. entered into two agreements with Mr. Caouette memorializing certain terms and conditions relating to Mr.
+Caouette&#146;s retirement (the &#147;Agreements&#148;), copies of which are attached hereto as Exhibits 10.66 and 10.67, respectively, and are incorporated herein by reference. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">The Agreements provide that Mr. Caouette will be entitled to receive any vested benefits to which he was entitled under MBIA Corp.&#146;s
+standard benefit plans. In addition, under the Agreements, Mr. Caouette will be entitled to receive his 2004 cash bonus determined in accordance with MBIA Corp.&#146;s standard compensation procedures for similarly situated officers in a lump sum
+payment in March 2005 plus an amount equal to his 2004 pension contribution, but will not receive any new restricted stock grants, stock option grants or long term incentive awards for 2004. </FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">All of Mr. Caouette&#146;s outstanding restricted stock units and outstanding stock options
+will continue to vest in accordance with the vesting terms of the original grant and Mr. Caouette will have five years from December 24, 2004 (the &#147;Separation Date&#148;) to exercise any vested options; however, this exercise period will not
+exceed the option&#146;s original expiration date. All outstanding options will expire on the fifth anniversary of the Separation Date. If at any time before the end of the five year period, the Company&#146;s stock price has traded at a price of at
+least $90.00 for a period of ten consecutive trading days at any point during each trading day, all unvested options will immediately vest and Mr. Caouette will have twelve months from the last day of the ten consecutive day period to exercise all
+of his vested options (not to exceed the original five year exercise period or the options&#146; original expiration date). All outstanding options not exercised during this twelve month period will expire. </FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">In addition, the Agreements provide that Mr. Caouette will receive a lump sum payment of
+$2,822,167, in respect of his long-term incentive compensation awards granted for calendar years 2001, 2002 and 2003. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Pursuant to the Agreements, Mr. Caouette has released the Registrant and its subsidiaries from claims, including those related to his employment and separation and has
+agreed has agreed to preserve MBIA Corp&#146;s confidential information. Through December 24, 2005, Mr. Caouette has agreed not to direct any business from customers of MBIA Corp. to any future or prospective employer and not to seek employment from
+specified competitors of MBIA Corp. In addition, through December 24, 2005, Mr. Caouette has agreed not to solicit employees of MBIA Corp. to leave the employ of the MBIA Corp or an affiliate. </FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Item 9.01. FINANCIAL STATEMENTS AND EXHIBITS. </FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">(a)</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Not applicable </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">(b)</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Not applicable </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">(c)</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Exhibits </FONT></TD></TR></TABLE>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="3%"></TD>
+<TD WIDTH="93%"></TD></TR>
+<TR>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="1"><B>Exhibit&nbsp;No.</B></FONT><BR><HR WIDTH="63" SIZE="1" NOSHADE ALIGN="left" COLOR="#000000"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="1"><B>Description</B></FONT></P><HR WIDTH="61" SIZE="1" NOSHADE ALIGN="left" COLOR="#000000"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">10.66</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">Letter Agreement by and between John B. Caouette and MBIA Insurance Corporation, effective December 24, 2004.</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">10.67</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">Agreement and General Release by and between John B. Caouette and MBIA Insurance Corporation, effective December 24, 2004.</FONT></TD></TR>
+</TABLE>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>SIGNATURES </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the
+undersigned hereunto duly authorized. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P><DIV ALIGN="right">
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="40%" BORDER="0">
+
+<TR>
+<TD WIDTH="7%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="92%"></TD></TR>
+<TR>
+<TD VALIGN="top" COLSPAN="3"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">MBIA INC.</FONT></P></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2"><B>By:</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-top:0px;margin-bottom:0px; margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">/s/ RAM D. WERTHEIM</FONT></P><HR SIZE="1" NOSHADE COLOR="#000000"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Ram D. Wertheim</FONT></P></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">General Counsel</FONT></P></TD></TR>
+</TABLE></DIV> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Date: December 29, 2004
+</FONT></P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">EXHIBIT INDEX TO CURRENT REPORT ON FORM 8-K </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"
+ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">Dated December 24, 2004 </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="95%"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">10.66</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">Letter Agreement by and between John B. Caouette and MBIA Insurance Corporation, effective December 24, 2004.</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">10.67</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">Agreement and General Release by and between John B. Caouette and MBIA Insurance Corporation, effective December 24, 2004.</FONT></TD></TR>
+</TABLE>
+</BODY></HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.66
+<SEQUENCE>2
+<FILENAME>dex1066.htm
+<DESCRIPTION>LETTER AGREEMENT
+<TEXT>
+<HTML><HEAD>
+<TITLE>Letter Agreement</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2"><B>Exhibit 10.66 </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">Kevin D. Silva </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="right"><FONT FACE="Times New Roman"
+SIZE="2">Chief Administrative Officer </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">[MBIA Logo] </FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Capital Strength. Triple-A Performance </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">MBIA Insurance Corporation </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">[Letterhead]
+</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">November 15, 2004 </FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; margin-left:56%" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B><I>REVISED</I></B> </FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">John B. Caouette </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+FACE="Times New Roman" SIZE="2">[Home Address] </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Dear Jack: </FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:8%"><FONT FACE="Times New Roman" SIZE="2">This letter is to acknowledge that your last day with MBIA as a regular
+full-time employee is on December 24, 2004 (the &#147;Separation Date&#148;). </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:8%"><FONT
+FACE="Times New Roman" SIZE="2">You will be entitled to receive any vested benefits to which you are entitled under MBIA&#146;s retirement plans as of your Separation Date. Such vested benefits will be paid to you pursuant to the terms of the
+applicable plan. You will also have such rights under any other benefit plan or arrangement sponsored by MBIA as are provided to other employees who terminate employment with MBIA. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:8%"><FONT FACE="Times New Roman" SIZE="2">Your medical, dental, life and short and long-term disability insurance ends as of December 24, 2004. You and your family
+may continue coverage under certain of the insurance plans, at your own cost, in accordance with COBRA. MBIA will provide you with a separate letter describing your COBRA rights. If you chose, you may elect to receive retiree medical and dental
+coverage. You will also be eligible to convert your life insurance coverage to an individual policy. You will not be eligible to participate in MBIA&#146;s Retirement Plans past the separation date except to the extent of any vested rights therein.
+</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:8%"><FONT FACE="Times New Roman" SIZE="2">Whether or not you sign the attached Agreement and General
+Release (the &#147;Agreement&#148;), you will be entitled to the benefits referred to in the previous paragraphs and you may elect medical and dental benefit continuation coverage pursuant to COBRA. Alternatively, you may elect retiree medical and
+dental benefit continuation coverage. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:8%"><FONT FACE="Times New Roman" SIZE="2">Further, we are offering
+the following additional payments and benefits as specified in this letter and subject to your execution and adherence to the terms of the attached Agreement and General Release: </FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT
+SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2"><U>2004 Year-end Awards:</U> You will not receive new restricted stock unit, stock option and MBV awards for the 2004 performance year. </FONT></TD></TR></TABLE> <P
+STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2"><U>2004 Bonus:</U> Your 2004 cash bonus will be awarded to you in a lump sum payment in March 2005 when the other EPC 2004 cash bonuses are paid (minus applicable taxes and
+withholdings). The amount of your 2004 cash bonus will be determined relative to and in conjunction with other EPC bonuses. </FONT></TD></TR></TABLE>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2"><U>Restricted Stock Units:</U> All outstanding restricted stock units will continue to naturally vest in accordance with the vesting terms of the original grant.
+</FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2"><U>Stock Options</U>: Your current outstanding stock options will continue to naturally vest under the original grant terms, during the period beginning on the Separation Date to
+the fifth anniversary of your separation. </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="14%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">You will have five years from the Separation Date to exercise your vested options; however, this exercise period shall not exceed the option&#146;s original expiration date.
+</FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="14%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">All outstanding options will expire on the fifth anniversary of the Separation Date. </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT
+SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="14%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">If at any time before the end of the five year period MBIA&#146;s stock price has traded at a price of at least $90.00 for a period of 10 consecutive trading days at any point
+during each trading day, all unvested options will immediately vest and you will have 12 months from the last day of the 10 consecutive day period to exercise all of your vested options (not to exceed the original five year exercise period or the
+options original expiration date). All outstanding options not exercised during this 12 month period will expire. </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2"><U>MBV Awards:</U> You will receive the following MBV award cash payments for performance years 2001, 2002, and 2003 after the conclusion of the Revocation Period (minus applicable
+taxes and withholdings). <B><U></U></B> </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="14%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">A lump sum payment for your 2001 MBV award (grant date of 2/7/2002) in the amount of $1,143,000. </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT
+SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="14%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">A lump sum payment for your 2002 MBV award (grant date of 2/12/2003) in the amount of $1,062,500. </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT
+SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="14%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">A lump sum payment for your 2003 MBV award (grant date of 2/10/2004) in the amount of $616,667. </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT
+SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2"><U>2004 Pension Equivalent:</U> You will receive a lump sum cash payment equivalent to a 2004 pension contribution after the conclusion of the Revocation Period (minus applicable
+taxes and withholding). This payment is in lieu of receiving a 2004 pension contribution under MBIA&#146;s retirement plans and the amount will not exceed last year&#146;s pension contribution. </FONT></TD></TR></TABLE> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:8%"><FONT FACE="Times New Roman" SIZE="2">You have up to twenty-one (21) days from your receipt of this letter and the
+enclosed Agreement and General Release to elect to accept the terms and conditions set forth. To indicate your acceptance, please return the signed original letter and notarized Agreement and General Release no earlier than December 24, 2004 to
+Kevin D. Silva, Chief Administrative Officer, MBIA Insurance Corporation, 113 King Street, Armonk, New York 10504. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px; text-indent:8%"><FONT FACE="Times New Roman" SIZE="2">In addition, you have seven (7) days after signing the letter and the Agreement to revoke your acceptance of its terms. The letter and the Agreement will
+not become effective until the eighth (8</FONT><FONT FACE="Times New Roman" SIZE="1" COLOR="#000000"><SUP>th</SUP></FONT><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">) day following your signing of the Agreement. </FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:8%"><FONT FACE="Times New Roman" SIZE="2">MBIA is not providing you with any legal, tax or financial advice. We advise
+you to consult with an attorney of your choice before signing the Agreement. </FONT></P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+ <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:8%"><FONT FACE="Times New Roman" SIZE="2">On behalf of MBIA, we want to convey our gratitude for your contributions during your tenure with MBIA
+and pledge to make this transition as smooth as possible for both you and MBIA. We wish you continued success in your future endeavors. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Sincerely, </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="40%" BORDER="0">
+
+<TR>
+<TD WIDTH="100%"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">/s/ KEVIN D. SILVA</FONT></P><HR WIDTH="83%" SIZE="1" NOSHADE COLOR="#000000" ALIGN="left"></TD></TR>
+</TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Kevin D. Silva </FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0">
+
+<TR>
+<TD WIDTH="51%"></TD>
+<TD VALIGN="bottom" WIDTH="4%"></TD>
+<TD WIDTH="45%"></TD></TR>
+<TR>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">Accepted and Agreed:</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">/s/ JOHN B. CAOUETTE</FONT></P><HR WIDTH="66%" SIZE="1" NOSHADE COLOR="#000000" ALIGN="left"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">11/24/04</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">John B. Caouette</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">Date</FONT></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">c: Gary Dunton</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD></TR>
+</TABLE>
+</BODY></HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.67
+<SEQUENCE>3
+<FILENAME>dex1067.htm
+<DESCRIPTION>AGREEMENT AND GENERAL RELEASE
+<TEXT>
+<HTML><HEAD>
+<TITLE>Agreement and General Release</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2"><B>Exhibit 10.67 </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B><U>AGREEMENT AND GENERAL RELEASE</U> </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Agreement and General Release executed this 6th day of December, 2004, by and between John B. Caouette who resides at [home address] and
+MBIA Insurance Corporation (&#147;MBIA&#148;) on behalf of any of its past or present parent entities, subsidiaries, divisions, affiliates and related business entities, assets, employee benefit plans or funds, successors and assigns (MBIA and/or
+its affiliates), and any of its or their past or present directors, officers, fiduciaries, agents, trustees, administrators, employees and assigns (collectively the &#147;MBIA Entities and Persons&#148;). </FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">1. I hereby acknowledge receipt of the November 15, 2004 letter from Kevin D.
+Silva (the &#147;Letter&#148;), a copy of which is annexed hereto. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman"
+SIZE="2">2. I further acknowledge the additional payments and/or other benefits to be provided me pursuant to the Letter and this Agreement and General Release: (i) exceed any payment, benefit, or other thing of value to which I might otherwise be
+entitled under any policy, plan, or procedure of MBIA and/or its affiliates or pursuant to any prior agreement or contract (oral, written or otherwise) between MBIA and/or its affiliates and me; and (ii) are in full discharge of any and all
+liabilities and obligations of MBIA and/or its affiliates to me, monetarily or with respect to employee benefits or otherwise including but not limited to any and all obligations arising under any alleged written or oral employment agreement,
+policy, plan or procedure of MBIA and/or its affiliates and/or any alleged understanding or arrangement between me and MBIA and/or its affiliates. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">3. I shall have up to twenty-one (21) days from the date of receipt to consider the terms and conditions of this Agreement and General Release. I may
+accept this Agreement and General Release by fully executing it and returning it to Kevin D. Silva, Chief Administrative Officer, MBIA Insurance Corporation, 113 King Street, Armonk, New York 10504, no earlier than December 24, 2004. After executing
+this Agreement and General Release, I shall have seven (7) days (the &#147;Revocation Period&#148;) to revoke this Agreement and General Release by indicating my desire to do so in writing addressed and delivered to Kevin D. Silva at the address
+listed above no later than the close of business on the seventh (7</FONT><FONT FACE="Times New Roman" SIZE="1" COLOR="#000000"><SUP>th</SUP></FONT><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">) day following the date I execute this
+Agreement and General Release. The effective date of this Agreement and General Release shall be the eighth (8</FONT><FONT FACE="Times New Roman" SIZE="1" COLOR="#000000"><SUP>th</SUP></FONT><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000">)
+day following my signing of the Agreement and General Release (the &#147;Release Effective Date&#148;). In the event I do not accept this Agreement and General Release as set forth above, or in the event I revoke this Agreement and General Release
+during the Revocation Period, this Agreement and General Release, including but not limited to the obligation of MBIA to provide payments and the benefits referred to in the Letter shall be deemed automatically null and void. </FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">4. As of the Release Effective Date and subject to my compliance of the terms
+and conditions of this Agreement and General Release, I shall be entitled to the additional payments and benefits described in the Letter. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">5. I acknowledge that my last day of employment with MBIA will be December 24, 2004 (&#147;Separation Date&#148;). I further acknowledge that MBIA and/or
+its affiliates will not have any obligation to rehire me or to consider me for reemployment after the Separation Date. In the event that I attempt to apply for any position with MBIA and/or its affiliates I hereby acknowledge that the denial of my
+application is permissible and is not and will not be considered by me to be retaliatory, a violation of this Agreement and General Release or any law. I further acknowledge that such representations constitute a material inducement for MBIA to
+provide the payments and/or other benefits to me under this Agreement. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman"
+SIZE="2">6. The payments and benefits provided under this Agreement are conditional on my non-competition with MBIA and/or its affiliates for a period of 12 months. Non-competition shall mean that, without the prior written consent of MBIA and/or
+any of its affiliates, during such 12 month period: </FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:8%"><FONT FACE="Times New Roman" SIZE="2">a. I
+shall not, directly or indirectly, hire, solicit, or help another person or entity to hire or solicit any employee of MBIA and/or its affiliates. I also shall not, directly or indirectly, hire, solicit, or help another person or entity to hire or
+solicit any person who has been an employee of MBIA and/or its affiliates within a one year period prior to the first date on which I attempt to hire, solicit or help another person or entity to hire or solicit such person. Further, I shall not
+directly or indirectly induce or encourage any employee of MBIA and/or its affiliates to leave MBIA and/or its affiliates&#146; employ. </FONT></P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+ <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:8%"><FONT FACE="Times New Roman" SIZE="2">b. I shall not either directly or indirectly, direct business I was developing on behalf of MBIA and/or
+its affiliates while employed with MBIA to any of my future or prospective employers. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:8%"><FONT
+FACE="Times New Roman" SIZE="2">c. I agree that I will not seek or accept employment with any of MBIA&#146;s Triple A monoline competitors, which include AMBAC, FSA, FGIC, CDC/CIFG, XL, ACE Guaranty Corporation, DePfa, and Radian Asset Assurance
+Inc. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">7. I agree that I will not use for my own benefit or
+disclose to third parties any Confidential Information, as defined herein, relating to MBIA and/or its affiliates and its or their businesses, including any Confidential Information of customers of MBIA and/or its affiliates, obtained by me during
+my employment and not otherwise public knowledge or known within the applicable industry (other than by acts by me in violation of this Agreement). <B></B>For purposes of this Agreement, &#147;Confidential Information&#148; shall include, without
+limitation, information not otherwise known in the applicable industry and/or not previously disclosed to the public by MBIA and/or its affiliates or its or their management with respect to the operations, facilities and methods, strategies, trade
+secrets and other intellectual property, systems, procedures, technical know-how, methods of investment, processes, customers, clients, investors, markets, marketing methods, manuals, confidential reports, fee information, finances, financial or
+listing information (including, without limitation, the revenues, costs or profits associated with any activities or products of MBIA and/or its affiliates, business plans, prospects, budgetary objectives, opportunities or other information of or
+relating to MBIA and/or its affiliates). &#147;Confidential Information&#148; shall not include information which is known within the applicable industry or is or becomes generally available to the public other than as a result of disclosure by me
+in violation of this paragraph. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">8. a. In consideration for the
+payment and/or other benefits to be provided me pursuant to the Letter and this Agreement and General Release, I, for myself and for my heirs, executors, administrators, and assigns (hereinafter referred to collectively as &#147;Releasors&#148;),
+forever release and discharge the MBIA Entities and Persons, from any and all claims, demands, causes of action, fees and liabilities of any kind whatsoever, whether known or unknown, which I ever had, now have, or may have against the MBIA Entities
+and Persons by reason of any actual or alleged act, omission, transaction, practice, conduct, statement, occurrence, or other matter up to and including the date on which I sign this Agreement and General Release. </FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:8%"><FONT FACE="Times New Roman" SIZE="2">b. Without limiting the generality of the foregoing, this Agreement and
+General Release is intended to and shall release the MBIA Entities and Persons from any and all claims, whether known or unknown, which Releasors ever had, now have, or may have against the MBIA Entities and Persons arising out of my employment,
+and/or my separation from that employment, including, but not limited to: (i) any claim under the Age Discrimination in Employment Act; (ii) any claim under Title VII of the Civil Rights Act; (iii) any claim under the American with Disabilities Act;
+(iv) any claim under the Pennsylvania Human Relations Act; (v) any claim under the New York State Human Rights Law; (vi) any claim under any other federal state or local law (statutory or decisional), regulation ordinance relating to and/or
+prohibiting employment discrimination, harassment and/or retaliation; (vii) any claim under the Employee Retirement Income Security Act (&#147;ERISA&#148;) (excluding claims for accrued, vested benefits under any employee benefit pension plan of
+MBIA in accordance with the terms and conditions of such plan and applicable law); (viii) any claim under the Family and Medical Leave Act (&#147;FMLA&#148;); (ix) any other claim (whether based on federal, state, or local law, statutory or
+decisional) relating to or arising out of my employment, the terms and conditions of such employment, the separation from such employment, and/or any of the events relating directly or indirectly to or surrounding the separation from that
+employment; and (x) any claim for attorneys&#146; fees, costs, disbursements and/or the like. Nothing in this Agreement shall be a waiver of claims that may arise after the date on which you sign this Agreement. </FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">9. I agree, to the extent permitted by law, that I will not seek or accept
+any award or settlement from any source or proceeding with respect to any claim or right covered by paragraph &#147;8&#148; of this Agreement and General Release. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">10. I agree that I will not publicly disparage or encourage or induce others to publicly disparage the MBIA Entities and
+Persons. For the purposes of this Agreement and General Release, the term &#147;disparage&#148; includes, without limitation, comments or statements to the press and/or media, the MBIA Entities and Persons or any individual or entity with whom MBIA
+and/or its affiliates has or have a business relationship which would adversely affect in any manner (i) the conduct of the business of MBIA and/or its affiliates (including, without limitation, any business plans or prospects) and/or (ii) the
+business reputation of the MBIA Entities and Persons. </FONT></P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+ <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">11. a. I agree that I will cooperate with MBIA and/or its affiliates and its/their counsel in connection
+with any investigation, administrative proceeding or litigation relating to any matter that occurred during my employment in which I was involved or of which I have knowledge. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:8%"><FONT FACE="Times New Roman" SIZE="2">b. I agree that, in the event I am subpoenaed by any person or entity (including, but not limited to, any government agency)
+to give testimony (in a deposition, court proceeding or otherwise) which in any way relates to my employment, I will give prompt notice of such request to Kevin D. Silva, Chief Administrative Officer, MBIA Insurance Corporation, 113 King Street,
+Armonk, New York 10504, and will make no disclosure until MBIA and/or its affiliates has had a reasonable opportunity to contest the right of the requesting person or entity to such disclosure. </FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">12. The terms and conditions of this Agreement and General Release and the
+Letter are and shall be deemed to be confidential, and shall not be disclosed by me to any person or entity without the prior written consent of MBIA, except if required by law, and to my accountants, attorneys or immediate family members, provided
+that they agree to maintain the confidentiality of the aforesaid documents to the maximum extent permitted by law, code, rule or regulation. I further represent that I have not disclosed the terms and conditions of the aforesaid documents to anyone
+other than my attorneys, accountants and immediate family members. I also understand and agree that if I make a disclosure in violation of this paragraph, MBIA shall have the right to discontinue all payments and/or benefits provided for by the
+Letter and this Agreement and General Release, and shall have the further right to recover all sums it may have paid to me pursuant to the Letter and/or this Agreement and General Release. </FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">13. MBIA herby acknowledges that, notwithstanding your separation, you will
+continue to be entitled to be indemnified with respect to any act or omission in which you engaged in your capacity as an officer of the company, as provided by the company&#146;s by-laws or applicable law, and to the same extent and in the same
+manner as the company indemnifies other officers for such acts or omissions. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT
+FACE="Times New Roman" SIZE="2">14. If any provision of this Agreement and General Release is held by a court of competent jurisdiction to be illegal, void, or unenforceable, such provision shall be of no force and effect, and such provision shall
+have no effect upon, and shall not impair the enforceability of, any other provision of this Agreement and General Release. If a court should determine that any provision of this Agreement and General Release is overbroad or unreasonable, such
+provision shall be given effect to the maximum extent possible by narrowing or enforcing in part that aspect of the provision found to be overbroad or unreasonable. In addition, upon any finding by a court or agency of competent jurisdiction that
+any provision of this Agreement and General Release is illegal, void, or unenforceable, I agree, unless otherwise prohibited by law, to execute a release, waiver and/or covenant that is/are legal and enforceable. </FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">15. I agree that if I breach any of the terms of paragraphs &#147;6,&#148;
+&#147;7,&#148; &#147;10,&#148; &#147;11,&#148; and/or &#147;12,&#148; it shall constitute a material breach of this Agreement and General Release as to which the MBIA Entities and Persons may seek all available relief under law, including, but not
+limited to, recoupment of the amounts paid to me pursuant to this Letter and Agreement and General Release. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">16. This Agreement and General Release is not intended, and shall not be construed, as an admission that any of the MBIA Entities and Persons has or have
+violated any federal, state or local law (statutory or decisional), ordinance or regulation, breached any contract or committed any wrong whatsoever against me. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">17. I acknowledge that: (a) I have been advised by MBIA in writing to consult with an attorney of my choosing in connection with this Agreement and
+General Release; (b) I have carefully read this Agreement and General Release in its entirety; (c) I have had the opportunity to consider fully for at least twenty-one (21) days the terms of this Agreement and General Release; (d) I fully understand
+the significance of all of the terms and conditions of this Agreement and General Release and I have discussed it with my independent legal counsel, or have had a reasonable opportunity to do so; (e) I have had answered to my satisfaction any
+questions I have asked with regard to the meaning and significance of any of the provisions of this Agreement and General Release; and (f) I am signing this Agreement and General Release voluntarily and of my own free will and assent to all the
+terms and conditions contained herein with the intent to be bound hereby. </FONT></P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+ <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">18. a. I agree that this Agreement and General Release may only be used as evidence in a subsequent
+proceeding in which the parties allege a breach of and/or indemnification under this Agreement and General Release. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px; text-indent:8%"><FONT FACE="Times New Roman" SIZE="2">b. This Agreement and General Release shall be construed and enforced in accordance with the laws of the State of New York without regard to the
+principles of conflict of law. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">19. This Agreement and General
+Release is binding upon, and shall inure to the benefit of, the parties and their respective heirs, executors, administrators, successors and assigns. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">20. I understand that this Agreement and General Release, and the attached letter from Kevin D. Silva, constitute the complete understanding between MBIA
+and/or its affiliates and me, and supersedes any and all agreements, understandings, and discussions, whether written or oral between me and MBIA and/or its affiliates. No other promises or agreement shall be binding unless in writing and signed by
+both MBIA and me after the Release Effective Date. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="40%" BORDER="0">
+
+<TR>
+<TD WIDTH="19%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="80%"></TD></TR>
+<TR>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">Dated:</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">11/24/04</FONT></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Signature:</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0px;margin-bottom:0px; margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">/s/ JOHN B. CAOUETTE</FONT></P><HR SIZE="1" NOSHADE COLOR="#000000"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">John B. Caouette</FONT></P></TD></TR>
+</TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="40%" BORDER="0">
+
+<TR>
+<TD WIDTH="26%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="22%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="50%"></TD></TR>
+<TR>
+<TD VALIGN="top" COLSPAN="3"><FONT FACE="Times New Roman" SIZE="2">STATE&nbsp;OF New York</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">)</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">) &nbsp;&nbsp;&nbsp;&nbsp;SS.:</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">COUNTY&nbsp;OF</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Westchester</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">)</FONT></TD></TR>
+</TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:8%"><FONT FACE="Times New Roman" SIZE="2">On this 6th day of
+December 2004, before me personally came John B. Caouette to be known and known to me to be the person described and who executed the foregoing Agreement, and she duly acknowledged to me that she executed the same. </FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P><DIV ALIGN="right">
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="40%" BORDER="0">
+
+<TR>
+<TD WIDTH="4%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="95%"></TD></TR>
+<TR>
+<TD VALIGN="bottom" COLSPAN="3"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">/s/ Patricia A. Olin</FONT></P><HR SIZE="1" NOSHADE COLOR="#000000"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">Notary Public</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">PATRICIA A. OLIN</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">Notary Public, State of New York</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">No. 60-4623828</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">Qualified in Westchester County</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">Commission Expires April 30, 2006</FONT></TD></TR>
+</TABLE></DIV> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="40%" BORDER="0">
+
+<TR>
+<TD WIDTH="7%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="92%"></TD></TR>
+<TR>
+<TD VALIGN="top" COLSPAN="3"><FONT FACE="Times New Roman" SIZE="2">MBIA Insurance Corp.</FONT></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-top:0px;margin-bottom:1px"><FONT FACE="Times New Roman" SIZE="2">By:</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">/s/ KEVIN D. SILVA</FONT></P><HR SIZE="1" NOSHADE COLOR="#000000"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Kevin D. Silva</FONT></TD></TR>
+</TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="40%" BORDER="0">
+
+<TR>
+<TD WIDTH="26%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="22%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="50%"></TD></TR>
+<TR>
+<TD VALIGN="top" COLSPAN="3"><FONT FACE="Times New Roman" SIZE="2">STATE&nbsp;OF NEW YORK</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">)</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">) &nbsp;&nbsp;&nbsp;&nbsp;SS.:</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">COUNTY&nbsp;OF</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Westchester</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">)</FONT></TD></TR>
+</TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:8%"><FONT FACE="Times New Roman" SIZE="2">On this 6th day of
+December 2004, before me personally came Kevin D. Silva to be known and known to me to be the person described and who executed the foregoing Agreement, and he duly acknowledged to me that he executed the same. </FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P><DIV ALIGN="right">
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="40%" BORDER="0">
+
+<TR>
+<TD WIDTH="4%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="95%"></TD></TR>
+<TR>
+<TD VALIGN="top" COLSPAN="3"> <P STYLE="margin-top:0px;margin-bottom:0px; margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">/s/ Shella M. Lieberman</FONT></P><HR SIZE="1" NOSHADE COLOR="#000000"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">Notary Public</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">Shella M. Lieberman</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">Notary Public State of New York</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">No. 4998416</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">Qualified in Westchester County</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">Commission Expires June 29, 2006</FONT></TD></TR>
+</TABLE></DIV>
+</BODY></HTML>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

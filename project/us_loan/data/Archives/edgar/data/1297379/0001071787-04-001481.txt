@@ -1,0 +1,342 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ A/rY2QL6GeCfgu5CBupdY+aqISSEMGaogvIeYt+MQVgDyEhvynBXxMlWcxcVLQmd
+ tt4QrcGV5Oq/UySIl0Z8Bw==
+
+<SEC-DOCUMENT>0001071787-04-001481.txt : 20041227
+<SEC-HEADER>0001071787-04-001481.hdr.sgml : 20041224
+<ACCEPTANCE-DATETIME>20041227164058
+ACCESSION NUMBER:		0001071787-04-001481
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20041225
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20041227
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Trust, Asset Backed Notes
+		CENTRAL INDEX KEY:			0001297379
+		STANDARD INDUSTRIAL CLASSIFICATION:	ASSET-BACKED SECURITIES [6189]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-111443-01
+		FILM NUMBER:		041226794
+
+	MAIL ADDRESS:	
+		STREET 1:		4211 W BOY SCOUT BLVD
+		CITY:			TAMPA
+		STATE:			FL
+		ZIP:			33607
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>ms0401_8k0412.txt
+<TEXT>
+                      SECURITIES AND EXCHANGE COMMISSION
+
+                            Washington, D.C. 20549
+
+                                   FORM 8-K
+
+                                CURRENT REPORT
+
+                    Pursuant to Section 13 or 15(d) of the
+
+                        Securities Exchange Act of 1934
+
+      Date of Report (Date of earliest event reported): December 15, 2004
+
+(null)
+
+                                  (Depositor)
+
+       (Issuer in respect of Mid-State Capital Corporation, 2004-1 Trust)
+
+                (Exact name of registrant as specified in charter)
+
+Delaware                      33-63714                      95-4449516
+(State or other               (Commission File No.)         (I.R.S. Employer
+    jurisdiction of                                         Identification No.)
+    organization)
+
+
+
+, , N/A                                                     91110-7137
+(Address of principal executive offices)                    (Zip Code)
+
+
+Registrant's Telephone Number, including area code: (818)-304-4428
+
+                                 Not Applicable
+              (Former name, former address and former fiscal year,
+                          if changed since last report)
+<PAGE>
+
+
+
+Item 5.  Other Events
+
+(null)
+                         Mid-State Capital Corporation
+                                  2004-1 Trust
+
+On December 15, 2004, The Bank of New York, as Trustee for , Mid-State Capital
+Corporation 2004-1 Trust, made a monthly distribution to Certificate holders of
+principal and/or interest pursuant to the Pooling and Servicing Agreement, dated
+as of July 1, 2004, among as Depositor, , Seller and Master Servicer and The
+Bank of New York, as Trustee.
+
+Item 7.  Financial Statements and Exhibits
+
+                    (c) Exhibits
+
+Exhibit No.                               Description
+
+99                  Report  to Holders of , Mid-State Capital Corporation 2004-1
+                    Trust relating to the distribution date of December 15, 2004
+                    prepared  by  The  Bank  of  New  York, as Trustee under the
+                    Pooling and Servicing Agreement dated as of July 1, 2004.
+
+
+
+<PAGE>
+
+
+
+                                   SIGNATURES
+
+Pursuant  to the  requirements  of the  Securities  Exchange  Act of  1934,  the
+registrant  has duly  caused  this  report  to be  signed  on its  behalf by the
+undersigned thereunto duly authorized.
+
+Dated: December 15, 2004
+
+
+(null)
+
+
+                          By: /s/ Diane Pickett
+                              ------------------------------
+                          Name:   Diane Pickett
+                                  Assistant Treasurer
+                                  The Bank of New York,
+                                  as Trustee
+
+
+
+<PAGE>
+
+
+
+                                 EXHIBIT INDEX
+
+
+
+Exhibit
+
+
+99                  Monthly Remittance Statement dated December 15, 2004
+
+
+                             Payment Date: 12/15/04
+
+
+          ------------------------------------------------------------
+(null)
+                  Mid-State Capital Corporation, 2004-1 Trust
+          ------------------------------------------------------------
+<TABLE>
+<CAPTION>
+
+Class Information                                Current Payment Information
+
+- ----------------------------------------------------------------------------------------------------------------------------------
+                                 Beginning       Pass Thru     Principal       Interest      Total           Principal  Interest
+Type       Class Code   Name     Cert. Bal.      Rate          Dist. Amt.      Dist. Amt.    Dist.           Losses     Shortfalls
+- ----------------------------------------------------------------------------------------------------------------------------------
+<S>        <C>          <C>      <C>             <C>           <C>             <C>           <C>             <C>        <C>
+Senior                  A         170,410,890.77    6.005000%     2,505,530.93    852,764.50    3,358,295.43       0.00       0.00
+- ----------------------------------------------------------------------------------------------------------------------------------
+Subordinate             M1         45,646,230.13    6.497000%       671,131.06    247,136.30      918,267.36       0.00       0.00
+                        M2         32,713,037.06    8.114000%       480,975.87    221,194.65      702,170.52       0.00       0.00
+                        B          29,669,765.96    8.900000%       436,231.02    220,050.76      656,281.78       0.00       0.00
+- ----------------------------------------------------------------------------------------------------------------------------------
+- ----------------------------------------------------------------------------------------------------------------------------------
+Totals          -        -        278,439,923.92     -            4,093,868.88  1,541,146.21    5,635,015.09     -          -
+- ----------------------------------------------------------------------------------------------------------------------------------
+Class Information
+
+- --------------------------------------------------------------------------------
+                                             Ending Cert.          Unpaid
+Type             Class Code     Name         Notional Bal.         Interest
+- --------------------------------------------------------------------------------
+Senior                          A         167,905,359.84              0.00
+- --------------------------------------------------------------------------------
+Subordinate                     M1         44,975,099.08              0.00
+                                M2         32,232,061.19              0.00
+                                B          29,233,534.95              0.00
+- --------------------------------------------------------------------------------
+- --------------------------------------------------------------------------------
+Totals            -              -        274,346,055.05     -
+- --------------------------------------------------------------------------------
+
+</TABLE>
+<PAGE>
+                             Payment Date: 12/15/04
+
+
+          ------------------------------------------------------------
+(null)
+                  Mid-State Capital Corporation, 2004-1 Trust
+          ------------------------------------------------------------
+<TABLE>
+<CAPTION>
+
+Class Information                                Current Payment Information
+
+                                                      Factors per $1,000
+
+- ------------------------------------------------------------------------------------------------------------------------
+                                   Beginning     Pass Thru    CUSIP       Principal     Interest    Ending Cert./
+Type        Class Code    Name   Cert. Bal.(Face)  Rate       Numbers       Dist.         Dist.     Notional Bal.
+- ------------------------------------------------------------------------------------------------------------------------
+<S>         <C>           <C>    <C>               <C>        <C>         <C>           <C>         <C>
+- ------------------------------------------------------------------------------------------------------------------------
+Senior                     A     170,410,890.77     6.005000% 59560UAA9    13.900233      4.730983    931.508618
+- ------------------------------------------------------------------------------------------------------------------------
+Subordinate                M1     45,646,230.13     6.497000% 59560UAB7    13.900233      5.118601    931.508618
+                           M2     32,713,037.06     8.114000% 59560UAC5    13.900233      6.392540    931.508618
+                           B      29,669,765.96     8.900000% 59560UAD3    13.900233      7.011782    931.508618
+- ------------------------------------------------------------------------------------------------------------------------
+- ------------------------------------------------------------------------------------------------------------------------
+Totals       -             -     278,439,923.92       -            -           -             -           -
+- ------------------------------------------------------------------------------------------------------------------------
+- ------------------------------------------------------------------------------------------------------------------------
+</TABLE>
+
+
+<PAGE>
+
+          ------------------------------------------------------------
+(null)
+                  Mid-State Capital Corporation, 2004-1 Trust
+          ------------------------------------------------------------
+
+- --------------------------------------------------------------------------------
+                             COLLATERAL INFORMATION
+- --------------------------------------------------------------------------------
+
+                                           Total
+                                           -----
+Prin balance       303,429,413.08   303,429,413.08
+Loan count                      0                0
+Avg loan rate           0.000000%             0.00
+Prepay amount                0.00             0.00
+
+- --------------------------------------------------------------------------------
+                                FEES AND ADVANCES
+- --------------------------------------------------------------------------------
+
+                                           Total
+                                           -----
+Master serv fees             0.00             0.00
+Sub servicer fees            0.00             0.00
+Trustee fees                 0.00             0.00
+
+
+Agg advances                  N/A              N/A
+Adv this period              0.00             0.00
+
+- --------------------------------------------------------------------------------
+                          LOSSES & INSURANCE COVERAGES
+- --------------------------------------------------------------------------------
+
+                                           Total
+                                           -----
+Realized losses           -182.68          -182.68
+Cumulative losses            0.00             0.00
+
+Coverage Amounts                           Total
+- ----------------                           -----
+Bankruptcy                   0.00             0.00
+Fraud                        0.00             0.00
+Special Hazard               0.00             0.00
+
+
+                         Aggregate Certificate Information
+   -----------------------------------------------------------------------------
+   Class            Aggregate           Aggregate                     Aggregate
+   Type            Percentage           Prepay Pct.              End Cert. Bal.
+   -----------------------------------------------------------------------------
+   Senior           61.553157%           100.000000%            170,410,890.77
+   -----------------------------------------------------------------------------
+   Junior           38.446843%             0.000000%            106,440,695.21
+   -----------------------------------------------------------------------------
+
+- --------------------------------------------------------------------------------
+                          DELINQUENCY INFORMATION
+- --------------------------------------------------------------------------------
+Period                             Loan Count    Ending Stated Balance
+- ------                             ----------    ---------------------
+30 to 59 days                          41                 2,612,291.56
+60 to 89 days                          26                 1,667,353.68
+90 or more                             49                 3,077,580.36
+Foreclosure                            45                 3,034,439.67
+
+Totals:                               161                10,391,665.27
+- --------------------------------------------------------------------------------
+
+
+<PAGE>
+- --------------------------------------------------------------------------------
+                                REO INFORMATION
+- --------------------------------------------------------------------------------
+   REO Date        Loan Number     Ending Stated Balance          Book Value
+   --------        -----------     ---------------------          ----------
+   N/A              #                   0                            N/A
+   N/A              #                   0                            N/A
+   N/A              #                   0                            N/A
+   N/A              #                   0                            N/A
+   N/A              #                   0                            N/A
+   N/A              #                   0                            N/A
+   N/A              #                   0                            N/A
+   N/A              #                   0                            N/A
+   N/A              #                   0                            N/A
+   N/A              #                   0                            N/A
+   N/A              #                   0                            N/A
+   Totals:                              0                            N/A
+
+Current Total Outstanding Balance:                                693,917.26
+Current Total Outstanding Number of Loans:                                11
+
+
+
+<PAGE>
+- --------------------------------------------------------------------------------
+                               OTHER INFORMATION
+- --------------------------------------------------------------------------------
+                                  Amount/Withdrawal     Total/Ending Bal.
+                                  -----------------     -----------------
+Available remittance amount            5,635,015.09          5,635,015.09
+Principal remittance amount            4,093,868.88          4,093,868.88
+Interest remittance amount             1,541,146.21          1,541,146.21
+
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

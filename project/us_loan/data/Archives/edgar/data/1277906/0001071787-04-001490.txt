@@ -1,0 +1,376 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ KWG4amAfEnjqMINfyCOd0YwFi4+YaO8veYptIhx1/TTb1ettPY9jah2Z//+uYxPs
+ yDGN6qMXgyrxHnp7znE2Kw==
+
+<SEC-DOCUMENT>0001071787-04-001490.txt : 20041228
+<SEC-HEADER>0001071787-04-001490.hdr.sgml : 20041228
+<ACCEPTANCE-DATETIME>20041228150748
+ACCESSION NUMBER:		0001071787-04-001490
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20041225
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20041228
+DATE AS OF CHANGE:		20041228
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			FIRST HORIZON ASSET SECURITIES MORTGAGE PASS THRU SER 2004-1
+		CENTRAL INDEX KEY:			0001277906
+		STANDARD INDUSTRIAL CLASSIFICATION:	ASSET-BACKED SECURITIES [6189]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-110100-02
+		FILM NUMBER:		041228418
+
+	BUSINESS ADDRESS:	
+		STREET 1:		4000 HORIZON WAY
+		CITY:			IRVING
+		STATE:			TX
+		ZIP:			75063
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>fh0401_8k0412.txt
+<TEXT>
+                      SECURITIES AND EXCHANGE COMMISSION
+
+                            Washington, D.C. 20549
+
+                                   FORM 8-K
+
+                                CURRENT REPORT
+
+                    Pursuant to Section 13 or 15(d) of the
+
+                        Securities Exchange Act of 1934
+
+      Date of Report (Date of earliest event reported): December 25, 2004
+
+                                 First Horizon
+
+                                  (Depositor)
+
+   (Issuer in respect of First Horizon Mortgage Pass-Through Trust, Mortgage
+
+                (Exact name of registrant as specified in charter)
+
+Delaware                      33-63714                      95-4449516
+(State or other               (Commission File No.)         (I.R.S. Employer
+    jurisdiction of                                         Identification No.)
+    organization)
+
+
+
+4000 Horizon Way, Irving, TX, , N/A                         75063
+(Address of principal executive offices)                    (Zip Code)
+
+
+Registrant's Telephone Number, including area code: (214) 441-4000
+
+                                 Not Applicable
+              (Former name, former address and former fiscal year,
+                          if changed since last report)
+
+Check the appropriate box below if the Form 8-K filing is intended to
+simultaneously satisfy the filing obligation of the registrant under any of the
+following provisions.
+
+[]Written communications pursuant to Rule 425 under the Securities Act (17
+  CFR 230.425)
+[]Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17
+  CFR 240.14a-12)
+[]Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange
+  Act (17 CFR 240.14d-2(b))
+[]Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange
+  Act (17 CFR 240.13e-4(c))
+
+
+<PAGE>
+
+
+                    Section 8 - Other Events
+
+  Item 8.01  Other Events
+
+                    Section 9 - Financial Statements and Exhibits
+
+  Item 9.01  Financial Statements and Exhibits
+
+
+<PAGE>
+
+
+
+                                   SIGNATURES
+
+Pursuant  to the  requirements  of the  Securities  Exchange  Act of  1934,  the
+registrant  has duly  caused  this  report  to be  signed  on its  behalf by the
+undersigned thereunto duly authorized.
+
+Dated: December 25, 2004
+
+
+                                 First Horizon
+
+
+                          By: /s/ Diane Pickett
+                              ------------------------------
+                          Name:   Diane Pickett
+                                  VP
+                                  The Bank of New York,
+                                  as Trustee
+
+
+
+<PAGE>
+
+
+
+                                 EXHIBIT INDEX
+
+
+
+Exhibit
+
+
+99                  Monthly Remittance Statement dated December 25, 2004
+
+
+                             Payment Date: 12/25/04
+
+
+          ------------------------------------------------------------
+ First Horizon Mortgage Pass-Through Trust, Mortgage Pass-Through Certificates,
+                        The Bank of New York, as Trustee
+          ------------------------------------------------------------
+<TABLE>
+<CAPTION>
+
+Class Information                                Current Payment Information
+
+- ----------------------------------------------------------------------------------------------------------------------------------
+                                 Beginning       Pass Thru     Principal       Interest      Total           Principal  Interest
+Type       Class Code   Name     Cert. Bal.      Rate          Dist. Amt.      Dist. Amt.    Dist.           Losses     Shortfalls
+- ----------------------------------------------------------------------------------------------------------------------------------
+<S>        <C>          <C>      <C>             <C>           <C>             <C>           <C>             <C>        <C>
+Senior                  1A1        13,370,212.65    5.500000%       690,968.70     61,280.14      752,248.84       0.00       0.00
+                        1A2        50,426,871.40    5.000000%     2,606,046.03    210,111.96    2,816,158.00       0.00       0.00
+                        1A3        30,000,000.00    5.500000%             0.00    137,500.00      137,500.00       0.00       0.00
+                        1A4        14,832,350.00    5.500000%             0.00     67,981.60       67,981.60       0.00       0.00
+                        1A5           780,650.00    5.500000%             0.00      3,577.98        3,577.98       0.00       0.00
+                        1A6        10,085,374.01    2.680000%       521,209.19     22,524.00      543,733.20       0.00       0.00
+                        1A7        10,085,374.01    5.320000%             0.00     44,711.82       44,711.82       0.00       0.00
+Residual                ARU                 0.00    5.500000%             0.00          0.00            0.00       0.00       0.00
+                        ARL                 0.00    5.500000%             0.00          0.00            0.00       0.00       0.00
+                        2A1        30,033,419.46    4.750000%     2,289,904.30    118,882.29    2,408,786.59       0.00       0.00
+- ----------------------------------------------------------------------------------------------------------------------------------
+Subordinate             B1          2,167,383.08    5.353220%         3,407.54      9,668.73       13,076.27       0.00       0.00
+                        B2          1,083,199.18    5.353220%         1,703.00      4,832.17        6,535.17       0.00       0.00
+                        B3            590,835.91    5.353220%           928.91      2,635.73        3,564.64       0.00       0.00
+                        B4            394,875.34    5.353220%           620.82      1,761.55        2,382.37       0.00       0.00
+                        B5            295,417.96    5.353220%           464.45      1,317.86        1,782.32       0.00       0.00
+                        B6            295,702.55    5.353220%           464.90      1,319.13        1,784.04       0.00       0.00
+- ----------------------------------------------------------------------------------------------------------------------------------
+- ----------------------------------------------------------------------------------------------------------------------------------
+Totals          -        -        154,356,291.54     -            6,115,717.85    688,104.98    6,803,822.83     -          -
+- ----------------------------------------------------------------------------------------------------------------------------------
+Class Information
+
+- --------------------------------------------------------------------------------
+                                             Ending Cert.          Unpaid
+Type             Class Code     Name         Notional Bal.         Interest
+- --------------------------------------------------------------------------------
+Senior                          1A1        12,679,243.95              0.00
+                                1A2        47,820,825.36              0.00
+                                1A3        30,000,000.00              0.00
+                                1A4        14,832,350.00              0.00
+                                1A5           780,650.00              0.00
+                                1A6         9,564,164.82              0.00
+                                1A7         9,564,164.82              0.00
+Residual                        ARU                 0.00              0.00
+                                ARL                 0.00              0.00
+                                2A1        27,743,515.16              0.00
+- --------------------------------------------------------------------------------
+Subordinate                     B1          2,163,975.54              0.00
+                                B2          1,081,496.18              0.00
+                                B3            589,907.01              0.00
+                                B4            394,254.52              0.00
+                                B5            294,953.50              0.00
+                                B6            295,237.65              0.00
+- --------------------------------------------------------------------------------
+- --------------------------------------------------------------------------------
+Totals            -              -        148,240,573.69     -
+- --------------------------------------------------------------------------------
+
+</TABLE>
+<PAGE>
+                             Payment Date: 12/25/04
+
+
+          ------------------------------------------------------------
+(null)
+ First Horizon Mortgage Pass-Through Trust, Mortgage Pass-Through Certificates,
+                        The Bank of New York, as Trustee
+          ------------------------------------------------------------
+<TABLE>
+<CAPTION>
+
+Class Information                                Current Payment Information
+
+                                                      Factors per $1,000
+
+- ------------------------------------------------------------------------------------------------------------------------
+                                   Beginning     Pass Thru    CUSIP       Principal     Interest    Ending Cert./
+Type        Class Code    Name   Cert. Bal.(Face)  Rate       Numbers       Dist.         Dist.     Notional Bal.
+- ------------------------------------------------------------------------------------------------------------------------
+<S>         <C>           <C>    <C>               <C>        <C>         <C>           <C>         <C>
+- ------------------------------------------------------------------------------------------------------------------------
+Senior                     1A1    13,370,212.65     5.500000% 32051DT36    34.548435      3.064007    633.962197
+                           1A2    50,426,871.40     5.000000% 32051DT44    34.548435      2.785461    633.962197
+                           1A3    30,000,000.00     5.500000% 32051DT51     0.000000      4.583333  1,000.000000
+                           1A4    14,832,350.00     5.500000% 32051DT69     0.000000      4.583333  1,000.000000
+                           1A5       780,650.00     5.500000% 32051DT77     0.000000      4.583333  1,000.000000
+                           1A6    10,085,374.01     2.680000% 32051DT85    34.548435      1.493007    633.962197
+                           1A7    10,085,374.01     5.320000% 32051DT93     0.000000      2.963730    633.962197
+Residual                   ARU             0.00     5.500000% 32051DU26     0.000000      0.043668      0.000000
+                           ARL             0.00     5.500000% 32051DU34     0.000000      0.000000      0.000000
+                           2A1    30,033,419.46     4.750000% 32051DU42    58.659843      3.045375    710.697932
+- ------------------------------------------------------------------------------------------------------------------------
+Subordinate                B1      2,167,383.08     5.353220% 32051DU59     1.548180      4.392881    983.178345
+                           B2      1,083,199.18     5.353220% 32051DU67     1.548180      4.392881    983.178345
+                           B3        590,835.91     5.353220% 32051DU75     1.548180      4.392881    983.178345
+                           B4        394,875.34     5.353220% 32051DU83     1.548180      4.392881    983.178345
+                           B5        295,417.96     5.353220% 32051DU91     1.548180      4.392881    983.178345
+                           B6        295,702.55     5.353220% 32051DV25     1.548178      4.392878    983.177555
+- ------------------------------------------------------------------------------------------------------------------------
+- ------------------------------------------------------------------------------------------------------------------------
+Totals       -             -     154,356,291.54       -            -           -             -           -
+- ------------------------------------------------------------------------------------------------------------------------
+- ------------------------------------------------------------------------------------------------------------------------
+</TABLE>
+
+
+<PAGE>
+
+          ------------------------------------------------------------
+(null)
+ First Horizon Mortgage Pass-Through Trust, Mortgage Pass-Through Certificates,
+                        The Bank of New York, as Trustee
+          ------------------------------------------------------------
+
+- --------------------------------------------------------------------------------
+                             COLLATERAL INFORMATION
+- --------------------------------------------------------------------------------
+
+                                                            Total
+                                                            -----
+Prin balance       119,555,868.57    28,684,705.36   148,240,573.93
+Loan count                    247               59              306
+Avg loan rate           6.061211%        5.414585%             5.93
+Prepay amount        3,694,516.65     2,176,412.15     5,870,928.80
+
+- --------------------------------------------------------------------------------
+                                FEES AND ADVANCES
+- --------------------------------------------------------------------------------
+
+                                                            Total
+                                                            -----
+Master serv fees        21,455.30         5,565.54        27,020.84
+Sub servicer fees       32,324.97        10,752.70        43,077.67
+Trustee fees               614.54           154.89           769.43
+
+
+Agg advances                  N/A              N/A              N/A
+Adv this period         16,955.27         5,098.61        22,053.88
+
+- --------------------------------------------------------------------------------
+                          LOSSES & INSURANCE COVERAGES
+- --------------------------------------------------------------------------------
+
+                                                            Total
+                                                            -----
+Realized losses              0.00             0.00             0.00
+Cumulative losses            0.00             0.00             0.00
+
+Coverage Amounts                                            Total
+- ----------------                                            -----
+Bankruptcy                   0.00             0.00             0.00
+Fraud                3,201,054.51       800,353.28     4,001,407.78
+Special Hazard               0.00             0.00             0.00
+
+
+                         Aggregate Certificate Information
+   -----------------------------------------------------------------------------
+   Class            Aggregate           Aggregate                     Aggregate
+   Type            Percentage           Prepay Pct.              End Cert. Bal.
+   -----------------------------------------------------------------------------
+   Senior           96.877315%           100.000000%            149,528,877.52
+   -----------------------------------------------------------------------------
+   Junior            3.122685%             0.000000%              4,819,824.39
+   -----------------------------------------------------------------------------
+
+- --------------------------------------------------------------------------------
+                          DELINQUENCY INFORMATION
+- --------------------------------------------------------------------------------
+Period                             Loan Count    Ending Stated Balance
+- ------                             ----------    ---------------------
+30 to 59 days                           3                 1,347,410.28
+60 to 89 days                           0                         0.00
+90 or more                              0                         0.00
+Foreclosure                             4                 1,979,767.90
+
+Totals:                                 7                 3,327,178.18
+- --------------------------------------------------------------------------------
+
+
+<PAGE>
+- --------------------------------------------------------------------------------
+                                REO INFORMATION
+- --------------------------------------------------------------------------------
+   REO Date        Loan Number     Ending Stated Balance          Book Value
+   --------        -----------     ---------------------          ----------
+   N/A              #                   0                            N/A
+   N/A              #                   0                            N/A
+   N/A              #                   0                            N/A
+   N/A              #                   0                            N/A
+   N/A              #                   0                            N/A
+   N/A              #                   0                            N/A
+   N/A              #                   0                            N/A
+   N/A              #                   0                            N/A
+   Totals:                              0                            N/A
+
+Current Total Outstanding Balance:                                      0.00
+Current Total Outstanding Number of Loans:                                 0
+
+
+
+<PAGE>
+- --------------------------------------------------------------------------------
+                               OTHER INFORMATION
+- --------------------------------------------------------------------------------
+                                  Amount/Withdrawal     Total/Ending Bal.
+                                  -----------------     -----------------
+Available remittance amount            6,803,822.83          6,803,822.83
+Principal remittance amount            6,115,717.85          6,115,717.85
+Interest remittance amount               688,104.98            688,104.98
+
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

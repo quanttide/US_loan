@@ -1,0 +1,813 @@
+
+                                                                      EXHIBIT 99
+
+
+JPMCC 04-C3 Classes A2 and A5
+
+Scenario Definitions:
+
+50cpy:  50% cpr after the end of YM period
+
+100CPY:  100% cpr after the end of YM period
+
+1cdr_25: 1% cdr, 25% loss severity, 12 month recovery delay, starts immediately,
+ends 12 months prior to scheduled maturity
+
+1cdr_50: 1% cdr, 50% loss severity, 12 month recovery delay, starts immediately,
+ends 12 months prior to scheduled maturity
+
+5cdr_25: 5% cdr, 25% loss severity, 12 month recovery delay, starts immediately,
+ends 12 months prior to scheduled maturity
+
+5cdr_50: 5% cdr, 50% loss severity, 12 month recovery delay, starts immediately,
+ends 12 months prior to scheduled maturity
+
+50cpy_18: 50% cpr after the end of YM period , 1.8% cdr, 40% loss severity, 12
+month recovery delay, starts immediately, ends 12 months prior to scheduled
+maturity
+
+Please note that we did not perform the extension scenario as requested because
+these loans are prohibited from extending passed their maturity date. Extension
+scenarios are typical to floating rate transactions.
+
+
+<PAGE>
+
+c3red3                                                                  10:23:48
+PPY: 0.000 CPR             J.P. Morgan Securities Inc.                12/ 9/2004
+
+                                  Deal: c3red3
+                 Price/Yield Table: Tranche 2, Class A2 < s+15 >
+
+
+<TABLE>
+<CAPTION>
+- -------------------------------------------------------------------------------------------------------------------------------
+Pricing Speed:          Run                  Settles              Rules from           Collateral        Term        Coupon
+- -------------------------------------------------------------------------------------------------------------------------------
+<S>                 <C>                    <C>                      <C>                <C>               <C>         <C>
+  0.000 CPR         at Issuance            12/29/2004               Script                               347         5.3571
+- -------------------------------------------------------------------------------------------------------------------------------
+</TABLE>
+
+
+<TABLE>
+<CAPTION>
+- -------------------------------------------------------------------------------------------------------------------------------
+  Class A2          Original Par                 Type                 Coupon                          Price
+- -------------------------------------------------------------------------------------------------------------------------------
+<S>                 <C>                          <C>               <C>                              <C>
+ Tranche 2          $154,652,000                 SEQ               4.2600 (FIXED)                   100.5000
+- -------------------------------------------------------------------------------------------------------------------------------
+</TABLE>
+
+
+<TABLE>
+<CAPTION>
+- -------------------------------------------------------------------------------------------------------------------------------
+              Scenario        zero       50cpy      100CPY      1cdr_25      1cdr_50      5cdr_25      5cdr_50     50cpy_18
+Price in 4/32nds Steps
+- -------------------------------------------------------------------------------------------------------------------------------
+<S>                           <C>         <C>         <C>          <C>          <C>          <C>          <C>          <C>
+                 99-00        4.49        4.49        4.50         4.50         4.49         4.59         4.54         4.50
+                 99-04        4.46        4.46        4.47         4.47         4.46         4.54         4.50         4.47
+                 99-08        4.43        4.43        4.44         4.44         4.44         4.50         4.47         4.44
+                 99-12        4.40        4.40        4.41         4.41         4.41         4.46         4.43         4.41
+                 99-16        4.37        4.38        4.38         4.38         4.38         4.41         4.39         4.38
+                 99-20        4.35        4.35        4.35         4.35         4.35         4.37         4.36         4.35
+                 99-24        4.32        4.32        4.32         4.32         4.32         4.33         4.32         4.32
+                 99-28        4.29        4.29        4.29         4.29         4.29         4.28         4.29         4.29
+                100-00        4.26        4.26        4.26         4.26         4.26         4.24         4.25         4.26
+                100-04        4.23        4.23        4.23         4.23         4.23         4.20         4.21         4.23
+                100-08        4.20        4.20        4.20         4.20         4.20         4.15         4.18         4.20
+                100-12        4.17        4.17        4.17         4.17         4.17         4.11         4.14         4.16
+                100-16(P)     4.15        4.15        4.14         4.14         4.14         4.07         4.11         4.13
+                100-20        4.12        4.12        4.11         4.11         4.11         4.03         4.07         4.10
+                100-24        4.09        4.09        4.08         4.08         4.08         3.98         4.04         4.07
+                100-28        4.06        4.06        4.05         4.05         4.06         3.94         4.00         4.04
+                101-00        4.03        4.03        4.02         4.02         4.03         3.90         3.97         4.01
+                101-04        4.00        4.00        3.99         3.99         4.00         3.86         3.93         3.98
+                101-08        3.98        3.97        3.96         3.96         3.97         3.81         3.89         3.95
+                101-12        3.95        3.95        3.93         3.93         3.94         3.77         3.86         3.92
+                101-16        3.92        3.92        3.90         3.90         3.91         3.73         3.82         3.89
+                101-20        3.89        3.89        3.87         3.87         3.88         3.69         3.79         3.86
+                101-24        3.86        3.86        3.85         3.85         3.85         3.64         3.75         3.83
+                101-28        3.84        3.83        3.82         3.82         3.83         3.60         3.72         3.80
+                102-00        3.81        3.81        3.79         3.79         3.80         3.56         3.68         3.77
+         Average Life:        4.93        4.91        4.71         4.71         4.81         3.16         3.86         4.55
+         Mod Duration:        4.36        4.34        4.18         4.18         4.27         2.89         3.48         4.05
+         Exp. 1st Pay:   9/15/2009   8/15/2009   6/15/2009    5/15/2008    9/15/2008   11/15/2006    3/15/2007   12/15/2007
+        Exp. Maturity:   3/15/2010   3/15/2010   3/15/2010   12/15/2009   12/15/2009    7/15/2009   12/15/2009   12/15/2009
+        AL TSY Spread:        0.55        0.56        0.59         0.59         0.57         0.86         0.74         0.62
+</TABLE>
+
+<TABLE>
+<CAPTION>
+- -------------------------------------------------------------------------------------------------------------------------------
+                                                      Treasury Curve
+- -------------------------------------------------------------------------------------------------------------------------------
+                      TSY                 Yield                           TSY                 Yield
+                      ---                 -----                           ---                 -----
+<S>                                       <C>                             <C>                 <C>
+                     1 YR                 2.915
+                     2 YR                 2.932                           7 YR                0.000
+                     3 YR                 3.176
+
+                     5 YR                 3.610                           10 YR               4.270
+- -------------------------------------------------------------------------------------------------------------------------------
+</TABLE>
+
+SFW Software Copyright (C) 1989-2002 by WallStreet Analytics, Inc. Tel:
+650-266-9660.
+
+                                   Page 1 of 1
+
+        Neither WSA nor JPM represents that the above information is accurate or
+                                                                       complete.
+
+<PAGE>
+
+c3red3                                                                  10:25:12
+PPY: 0.000 CPR             J.P. Morgan Securities Inc.                12/ 9/2004
+
+                                  Deal: c3red3
+                 Price/Yield Table: Tranche 5, Class A5 < s+24 >
+
+<TABLE>
+<CAPTION>
+- --------------------------------------------------------------------------------------------------------------------------
+ Pricing Speed:          Run                 Settles             Rules from           Collateral        Term        Coupon
+- --------------------------------------------------------------------------------------------------------------------------
+<S>                  <C>                   <C>                     <C>                <C>               <C>         <C>
+   0.000 CPR         at Issuance           12/29/2004              Script                               347         5.3571
+- --------------------------------------------------------------------------------------------------------------------------
+</TABLE>
+
+
+<TABLE>
+<CAPTION>
+- --------------------------------------------------------------------------------------------------------------------------
+Class A5                      Original Par             Type                     Coupon                              Price
+- --------------------------------------------------------------------------------------------------------------------------
+<S>                           <C>                      <C>                  <C>                                   <C>
+Tranche 5                     $426,773,000             SEQ                  4.9500 (FIXED)                        100.4985
+- --------------------------------------------------------------------------------------------------------------------------
+</TABLE>
+
+
+<TABLE>
+<CAPTION>
+- ---------------------------------------------------------------------------------------------------------------------------
+              Scenario        zero       50cpy      100CPY      1cdr_25      1cdr_50      5cdr_25      5cdr_50     50cpy_18
+Price in 4/32nds Steps
+- ---------------------------------------------------------------------------------------------------------------------------
+<S>                           <C>         <C>         <C>          <C>          <C>          <C>          <C>          <C>
+                 99-00        5.11        5.11        5.11         5.11         5.11         5.11         5.11         5.11
+                 99-04        5.09        5.09        5.09         5.09         5.09         5.10         5.09         5.09
+                 99-08        5.07        5.07        5.08         5.07         5.07         5.08         5.08         5.08
+                 99-12        5.06        5.06        5.06         5.06         5.06         5.06         5.06         5.06
+                 99-16        5.04        5.04        5.04         5.04         5.04         5.04         5.04         5.04
+                 99-20        5.03        5.03        5.03         5.03         5.03         5.03         5.03         5.03
+                 99-24        5.01        5.01        5.01         5.01         5.01         5.01         5.01         5.01
+                 99-28        4.99        4.99        4.99         4.99         4.99         4.99         4.99         4.99
+                100-00        4.98        4.98        4.98         4.98         4.98         4.97         4.98         4.98
+                100-04        4.96        4.96        4.96         4.96         4.96         4.96         4.96         4.96
+                100-08        4.94        4.94        4.94         4.94         4.94         4.94         4.94         4.94
+                100-12        4.93        4.93        4.93         4.93         4.93         4.92         4.93         4.93
+                100-16(P)     4.91        4.91        4.91         4.91         4.91         4.90         4.91         4.91
+                100-20        4.90        4.89        4.89         4.89         4.89         4.89         4.89         4.89
+                100-24        4.88        4.88        4.88         4.88         4.88         4.87         4.88         4.88
+                100-28        4.86        4.86        4.86         4.86         4.86         4.85         4.86         4.86
+                101-00        4.85        4.85        4.84         4.85         4.85         4.84         4.84         4.85
+                101-04        4.83        4.83        4.83         4.83         4.83         4.82         4.83         4.83
+                101-08        4.81        4.81        4.81         4.81         4.81         4.80         4.81         4.81
+                101-12        4.80        4.80        4.79         4.80         4.80         4.78         4.80         4.80
+                101-16        4.78        4.78        4.78         4.78         4.78         4.77         4.78         4.78
+                101-20        4.77        4.77        4.76         4.77         4.77         4.75         4.76         4.76
+                101-24        4.75        4.75        4.74         4.75         4.75         4.73         4.75         4.75
+                101-28        4.73        4.73        4.73         4.73         4.73         4.72         4.73         4.73
+                102-00        4.72        4.72        4.71         4.72         4.72         4.70         4.72         4.72
+         Average Life:        9.92        9.87        9.62         9.84         9.90         9.10         9.75         9.78
+         Mod Duration:        7.66        7.63        7.48         7.61         7.65         7.14         7.56         7.58
+         Exp. 1st Pay:   6/15/2014   6/15/2014   5/15/2014    6/15/2013   12/15/2013   11/15/2011    8/15/2012    4/15/2013
+        Exp. Maturity:   12/15/2014  12/15/2014  9/15/2014   12/15/2014   12/15/2014   12/15/2014   12/15/2014   12/15/2014
+        AL TSY Spread:        0.65        0.66        0.69         0.66         0.65         0.75         0.67         0.67
+</TABLE>
+
+<TABLE>
+<CAPTION>
+- ---------------------------------------------------------------------------------------------------------------------------
+                                                      Treasury Curve
+- ---------------------------------------------------------------------------------------------------------------------------
+                    TSY                    Yield                           TSY                Yield
+                    ---                    -----                           ---                -----
+<S>                                        <C>                             <C>                <C>
+                    1 YR                   2.915
+                    2 YR                   2.932                           7 YR               0.000
+                    3 YR                   3.176
+
+                    5 YR                   3.610                           10 YR              4.270
+- ---------------------------------------------------------------------------------------------------------------------------
+</TABLE>
+
+SFW Software Copyright (C) 1989-2002 by WallStreet Analytics, Inc. Tel:
+650-266-9660.
+
+                                   Page 1 of 1
+
+                                                                 Neither WSA nor
+              JPM represents that the above information is accurate or complete.
+
+
+<PAGE>
+
+                                   JPMCC 04-C3
+                     Prepayment Lock-out/Prepayment Analysis
+                     Based on Outstanding Principal Balance
+                               All Mortgage Loans
+
+
+<TABLE>
+<CAPTION>
+- ------------------------------------------------------------------------------------------------------------------------------------
+                                                              Months Since Deal Origination
+- ------------------------------------------------------------------------------------------------------------------------------------
+Period                          0            12            24            36            48            60            72
+- ------------------------------------------------------------------------------------------------------------------------------------
+<S>                    <C>           <C>           <C>           <C>           <C>           <C>           <C>
+Date                   12/01/2004    12/01/2005    12/01/2006    12/01/2007    12/01/2008    12/01/2009    12/01/2010
+- ------------------------------------------------------------------------------------------------------------------------------------
+Locked Out                 100.00%       100.00%       100.00%        86.05%        85.30%        80.90%        79.99%
+Total YM                     0.00%         0.00%         0.00%        13.95%        14.70%        18.96%        20.01%
+Prepayment Penalties         0.00%         0.00%         0.00%         0.00%         0.00%         0.00%         0.00%
+Open                         0.00%         0.00%         0.00%         0.00%         0.00%         0.14%         0.00%
+Total                      100.00%       100.00%       100.00%       100.00%       100.00%       100.00%       100.00%
+- ------------------------------------------------------------------------------------------------------------------------------------
+
+- ------------------------------------------------------------------------------------------------------------------------------------
+Balance                   1,524.9       1,516.4       1,505.4       1,490.7       1,472.7       1,309.3       1,287.2
+% of Initial Balance       100.00%        99.44%        98.72%        97.75%        96.58%        85.86%        84.41%
+
+- ------------------------------------------------------------------------------------------------------------------------------------
+<CAPTION>
+- ------------------------------------------------------------------------------------------------------------------------------------
+                                                              Months Since Deal Origination
+- ------------------------------------------------------------------------------------------------------------------------------------
+Period                         84            96           108           120           132           144           156
+- ------------------------------------------------------------------------------------------------------------------------------------
+<S>                    <C>           <C>           <C>           <C>           <C>           <C>           <C>
+Date                   12/01/2011    12/01/2012    12/01/2013    12/01/2014    12/01/2015    12/01/2016    12/01/2017
+- ------------------------------------------------------------------------------------------------------------------------------------
+Locked Out                  90.93%        91.29%        91.75%        17.87%        82.00%        81.67%        81.23%
+Total YM                     8.69%         8.71%         7.91%         2.78%        18.00%        18.33%        18.77%
+Prepayment Penalties         0.00%         0.00%         0.00%         0.00%         0.00%         0.00%         0.00%
+Open                         0.38%         0.00%         0.34%        79.35%         0.00%         0.00%         0.00%
+Total                      100.00%       100.00%       100.00%       100.00%       100.00%       100.00%       100.00%
+- ------------------------------------------------------------------------------------------------------------------------------------
+
+- ------------------------------------------------------------------------------------------------------------------------------------
+Balance                     957.2         933.9         889.3         131.8          24.8          22.2          19.5
+% of Initial Balance        62.77%        61.24%        58.32%         8.64%         1.63%         1.46%         1.28%
+
+- ------------------------------------------------------------------------------------------------------------------------------------
+<CAPTION>
+- ------------------------------------------------------------------------------------------------------------------------------------
+                                                              Months Since Deal Origination
+- ------------------------------------------------------------------------------------------------------------------------------------
+Period                        168           180           192           204           216           228           240
+- ------------------------------------------------------------------------------------------------------------------------------------
+<S>                    <C>           <C>           <C>           <C>           <C>           <C>           <C>
+Date                   12/01/2018    12/01/2019    12/01/2020    12/01/2021    12/01/2022    12/01/2023    12/01/2024
+- ------------------------------------------------------------------------------------------------------------------------------------
+Locked Out                  21.62%        51.27%        48.94%        29.05%        30.16%         0.00%         0.00%
+Total YM                    19.39%        48.73%        51.06%        55.45%         0.00%         0.00%         0.00%
+Prepayment Penalties         0.00%         0.00%         0.00%         0.00%         0.00%         0.00%         0.00%
+Open                        59.00%         0.00%         0.00%        15.50%        69.84%       100.00%         0.00%
+Total                      100.00%       100.00%       100.00%       100.00%       100.00%       100.00%         0.00%
+- ------------------------------------------------------------------------------------------------------------------------------------
+
+- ------------------------------------------------------------------------------------------------------------------------------------
+Balance                      16.6           5.7           4.5           3.2           1.7           0.6            --
+% of Initial Balance         1.09%         0.37%         0.29%         0.21%         0.11%         0.04%         0.00%
+- ------------------------------------------------------------------------------------------------------------------------------------
+</TABLE>
+
+Note: There is one loan, Heritage Village Apartments (Loan #79), for which the
+prepayment string is "L(11),Grtr1%orYM(13),Def(91),O(4)". For the purpose of
+this table, it is assumed that the loan is locked out through its payment date
+in July 2014.
+
+<PAGE>
+
+
+Copyright 2004 JPMorgan Chase & Co. - All rights reserved. J.P. Morgan
+Securities Inc. (JPMSI), member NYSE and SIPC. JPMorgan is the marketing name
+used by the specific legal entity or entities named in the attached materials.
+Information has been obtained from sources believed to be reliable but JPMorgan
+does not warrant its completeness or accuracy. This material is not intended as
+an offer or solicitation for the purchase or sale of any financial instrument.
+Clients should contact analysts and execute transactions through a JP Morgan
+Chase & Co. subsidiary or affiliate in their home jurisdiction unless governing
+law permits otherwise.
+
+The information contained herein is qualified in its entirety by the information
+in the prospectus and prospectus supplement for this transaction. The
+information contained herein is preliminary as of the date hereof, supersedes
+any previous such information delivered to you and will be superseded by any
+such information subsequently delivered and ultimately by the final prospectus
+and prospectus supplement relating to the securities and any other information
+subsequently filed with the Securities and Exchange Commission. These materials
+are subject to change, completion or amendment from time to time without notice
+and JPMorgan is under no obligation to keep you advised of such changes. These
+materials have been provided to you for informational purposes only and may not
+be relied upon by you in evaluating the merits of investing in the securities
+described herein. Any investment decision with respect to the securities should
+be made by you based solely upon the information contained in the final
+prospectus and prospectus supplement relating to the securities. You should
+consult your own counsel, accountant and other advisors as to the legal, tax,
+business, financial and related aspects of a purchase of these securities.
+
+The attached information contains certain tables and other statistical analyses
+(the "Computational Materials") which have been prepared in reliance upon
+information furnished by the issuer. Numerous assumptions were used in preparing
+the Computational Materials, which may or may not be reflected herein. As such,
+no assurance can be given as to the Computational Materials' accuracy,
+appropriateness or completeness in any particular context; or as to whether the
+Computational Materials and/or the assumptions upon which they are based reflect
+present market conditions or future market performance. These Computational
+Materials should not be construed as either projections or predictions or as
+legal, tax, financial or accounting advice. Any weighted average lives, yields
+and principal payment periods shown in the Computational Materials are based on
+prepayment and/or loss assumptions, and changes in such prepayment and/or loss
+assumptions may dramatically affect such weighted average lives, yields and
+principal payment periods. In addition, it is possible that prepayments or
+losses on the underlying assets will occur at rates higher or lower than the
+rates shown in the attached Computational Materials. The specific
+characteristics of the securities may differ from those shown in the
+Computational Materials due to differences between the final underlying assets
+and the preliminary underlying assets used in preparing the Computational
+Materials. The principal amount and designation of any security described in the
+Computational Materials are subject to change prior to issuance. Neither JP
+Morgan nor any of its affiliates makes any representation or warranty as to the
+actual rate or timing of payments or losses on any of the underlying assets or
+the payments or yield on the securities.
+
+THIS INFORMATION IS FURNISHED TO YOU SOLELY BY JPMORGAN AND NOT BY THE ISSUER OF
+THE SECURITIES OR ANY OF ITS AFFILIATES (OTHER THAN JPMORGAN). JPMORGAN IS
+ACTING AS UNDERWRITER AND NOT ACTING AS AGENT FOR THE ISSUER IN CONNECTION WITH
+THE PROPOSED TRANSACTION.
+
+<PAGE>
+
+- --------------------------------------------------------------------------------
+                     Total Liquidation         Total Liquidation       CDR
+                     with Constant CDR*           with Vector*        vector
+- --------------------------------------------------------------------------------
+2 CDR                    186,740,638               186,939,739         3.6
+3 CDR                    272,381,721               274,535,272         5.6
+4 CDR                    353,194,155               355,561,250         7.7
+- --------------------------------------------------------------------------------
+
+* Includes liquidation amount for the Mezzanine component of Champaign Office &
+  Retail ($1.9 million).
+
+
+- --------------------------------------------------------------------------------
+                      Loans Defaulted in Vector Scenarios
+- --------------------------------------------------------------------------------
+
+Loan # Loan Name                                            Cur Bal       GWAC
+     1 Eckerd - Corning                                   2,825,000     6.6500
+     2 416-424 LA Street                                  4,962,464     6.5500
+     3 Marne Associates Shopping Center                   3,396,823     6.3300
+     4 T-Mobile - Lenexa KS                              10,460,000     6.2700
+     5 Woodlyn Shopping Center                            8,100,000     6.2300
+     6 Centercross Plaza                                  1,800,000     6.2300
+     7 Shops at Rancho Cucamonga Towne Square             6,798,564     6.2200
+     8 Holiday Inn Express/Cotton Exchange Hotel         14,100,000     6.2000
+     9 181 North Belle Meade Road                         2,100,000     6.1300
+    10 Amarillo Ranch                                     1,746,871     6.1000
+    11 Clark Industrial I                                 3,376,000     6.0900
+    12 Clark Industrial II                                1,900,000     6.0900
+    13 Villa Gardens Apartments                           1,600,000     6.0500
+    14 Valley View Center                                 1,600,000     6.0400
+    15 Eastern Crossing                                   9,240,000     5.9900
+    16 Walgreen's-Palatine                                4,000,000     5.9400
+    17 TRW Automotive - Tech 4                           10,400,000     5.9300
+    18 640 West Debbie                                    1,450,000     5.9100
+    19 Allen Creek Center                                 4,400,000     5.8900
+    20 Myrtle Avenue Storage                              2,630,000     5.8100
+    21 Ennis MHP                                            973,992     5.8000
+    22 Residence Inn Soup Plantation                     19,000,000     5.7900
+    23 Hunter Park Office Plaza                           9,000,000     5.7900
+    24 CJS Corporate Center                               4,000,000     5.7700
+    25 College Suites Stadium                            28,000,000     5.7400
+    26 Oak Tree Center                                    3,350,000     5.7400
+    27 Shops at Whitestone                                5,725,000     5.7200
+    28 Highland Park Apartment Portfolio                  3,000,000     5.7200
+    29 202 East Main Street                               2,400,000     5.7200
+    30 Meadowedge Shopping Center                         2,150,000     5.7200
+    31 Piazza Fiorina                                     3,500,000     5.6900
+    32 Pinecrest Townhomes                               11,400,000     5.6800
+    33 Romark Center                                      3,000,000     5.6800
+    34 1110 NASA Road                                     3,496,290     5.6700
+    35 Best Buy - Rock Hill                               2,871,000     5.6700
+    36 Murphy Mill Plaza                                  2,580,000     5.6700
+    37 Sandalwood MHP                                     5,137,449     5.6500
+    38 Valencia Estates                                   3,060,000     5.6300
+    39 Chivas Square Apartments                           4,495,189     5.6250
+    40 Town Center Shopping Center                        2,500,000     5.6200
+    41 Holly House Apartments                             2,117,885     5.6200
+    42 Grayrock Village                                   1,800,000     5.6200
+    43 Forest Crossing                                    2,247,583     5.6000
+    44 Stephanie Plaza                                    1,947,905     5.6000
+    45 Willowbrook Power Center                          15,500,000     5.5800
+    46 Apple Village MHP                                  2,217,606     5.5800
+    47 Storage, LLC                                       2,993,162     5.5600
+    48 Leeds Shopping Center                              1,700,000     5.5600
+    49 Bentsen Tower GSA Office                          12,000,000     5.5500
+    50 Redford Plaza                                      5,588,695     5.5500
+    51 Country Club Estates                               2,000,000     5.5500
+    52 Beaumont Crossroads                                4,900,000     5.5400
+    53 Fort Knox Self Storage                             3,800,000     5.5400
+    54 City Street Apartments                             2,020,000     5.5400
+    55 301 W 4th Street                                   5,294,232     5.5300
+    56 11211 Katy Freeway                                 5,094,449     5.5300
+    57 Centre at South Shore Harbour I                    3,950,000     5.5300
+    58 Enterprise Park                                    6,000,000     5.5200
+    59 RAIA Self Storage                                  3,993,789     5.5200
+    60 Largo 95                                          14,000,000     5.5000
+    61 Silverlake Village                                 6,300,000     5.5000
+    62 Payson Medical Building                            3,300,000     5.4900
+    63 Linens 'N Things                                   3,995,605     5.4800
+    64 Skyline Apartments                                 3,633,345     5.4700
+    65 Crystal Lake Club MHP                             15,300,000     5.4600
+    66 Lakeshore Club Apartments                         28,000,000     5.4500
+    67 Village Green Apartments                          15,066,853     5.4500
+    68 College Court Apartments                          11,775,660     5.4500
+    69 Clayborne Court                                    4,031,667     5.4500
+    70 Indian Hollow Apartments                          21,975,000     5.4400
+    71 Stonybrook Apartments                              7,991,144     5.4400
+    72 Wichita Square Shopping Center                     7,350,000     5.4400
+    73 Wall-Price Keller Self Storage                     5,050,000     5.4300
+    74 Montgomery Crossing                                6,392,889     5.4200
+    75 The Annex at Chandler Commons                      2,178,572     5.4100
+    76 Woodcliff Community Townhomes                     20,000,000     5.4000
+    77 Southwood Manor                                   10,985,000     5.4000
+    78 Penland MHP                                       10,820,000     5.4000
+    79 Beechmont Square                                   6,000,000     5.4000
+    80 Baseline Power Shops                               2,716,966     5.4000
+    81 Savannah Pines                                     2,227,513     5.4000
+    82 Broadway Marketplace                              42,000,000     5.3860
+    83 Champaign Office & Retail                         26,000,000     5.3800
+    84 Larchmont Boulevard                                2,600,000     5.3800
+    85 Crossroads Shopping Center                        64,000,000     5.3700
+    86 California Village Apartments                     15,000,000     5.3700
+    87 The Trails Apartments                              3,790,744     5.3700
+    88 Kensington Court Apartments                        2,975,000     5.3600
+    89 Regency Apartments                                 1,794,529     5.3600
+    90 Union Square Shopping Center                      22,000,000     5.3500
+    91 Verizon Wireless Call Center                      14,600,000     5.3500
+    92 Tarzana Medical Office Building                   11,700,000     5.3500
+    93 South Hadley Shopping Center                       7,500,000     5.3500
+    94 Wildwood Village Apartments                        6,600,000     5.3500
+    95 Greenridge Center                                  4,000,000     5.3500
+    96 Valencia Apartments                               15,800,000     5.3400
+    97 1500 State Street                                  4,450,000     5.3400
+    98 Lem Turner Plaza                                   2,700,000     5.3300
+    99 Las Olas Centre                                   98,980,000     5.3200
+
+
+- --------------------------------------------------------------------------------
+                    Loans NOT Defaulted in Vector Scenarios
+- --------------------------------------------------------------------------------
+
+Loan # Loan Name                                            Cur Bal       GWAC
+    99 Calabasas Business Park II                        14,062,500     5.3100
+   100 Fayette Place Shopping Center                     14,400,000     5.2800
+   101 4 Commercial Street                                5,191,627     5.2800
+   102 Carrollton All Storage                             5,000,000     5.2800
+   103 Princeton Club Apartments                          3,900,000     5.2800
+   104 Kennerly Crossing                                  8,250,000     5.2600
+   105 S.A.I.C. Building                                  6,600,000     5.2600
+   106 Everest Portfolio                                 62,500,000     5.2400
+   107 West Lancaster Plaza                               4,900,000     5.2400
+   108 345 Park Avenue South                             75,000,000     5.2381
+   109 Plaza at Sawmill                                  16,000,000     5.2200
+   110 Sterling Self Storage                              4,050,000     5.2200
+   111 Raia Self Storage - Mahwah                         7,500,000     5.1900
+   112 30 E. 20th Street                                  1,750,000     5.1900
+   113 600 East 132nd Street                              2,500,000     5.1700
+   114 Cornell Corners                                    5,250,000     5.1600
+   115 Imperial Promenade                                10,000,000     5.1500
+   116 Hawaiian Gardens Town Center                       9,100,000     5.1500
+   117 Panorama Plaza                                    31,000,000     5.1470
+   118 Culver Ridge Plaza                                22,500,000     5.1470
+   119 Crossroads Centre                                 18,200,000     5.1470
+   120 Tops Plaza - Union Road                           14,500,000     5.1470
+   121 Tops Plaza - Jamestown                            10,750,000     5.1470
+   122 Tops Plaza - Robinson Road                        10,420,000     5.1470
+   123 Chillicothe Place                                  9,000,000     5.1470
+   124 Midway Plaza                                       8,900,000     5.1470
+   125 Tops Plaza - Ontario                               6,370,000     5.1470
+   126 Tops Plaza - Warsaw                                5,740,000     5.1470
+   127 Northcreek Commons                                 5,700,000     5.1470
+   128 Tops Plaza - Le Roy                                5,100,000     5.1470
+   129 Oxford Place                                       2,300,000     5.1470
+   130 Cambridge Court Phase I & II                      21,500,000     5.1400
+   131 The Grove Apartments                              10,387,801     5.1300
+   132 INS Building                                       8,000,000     5.1300
+   133 Bren Mar Apartments                                7,500,000     5.1200
+   134 Moorings at Mesa Cove Apartments                  22,500,000     5.1070
+   135 Time Square                                       20,400,000     5.1000
+   136 Commerce Park                                     15,600,000     5.1000
+   137 Pioneer Square                                    14,500,000     5.1000
+   138 Heritage Village Apartments                        5,950,000     5.1000
+   139 411 E. Franklin Building                          11,088,000     5.0900
+   140 Centerpark Business Plaza                          3,600,000     5.0800
+   141 B&M - Grande Pointe                                7,125,000     4.9800
+   142 Kittyhawk Apartments                               2,050,000     4.9300
+   143 Harris Teeter                                      3,960,000     4.9150
+   144 Eldridge Lakes Town Center                         8,100,000     4.8800
+   145 Villas at Bailey Ranch                            10,500,000     4.8600
+   146 CY-Fair Town Center                                6,125,000     4.8300
+   147 Del Coronado Apartments                           20,600,000     4.8230
+   148 Rancho Murietta Apartments                        15,650,000     4.8230
+   149 Harvest Towne Center                               5,005,000     4.8100
+   150 Oswego Commons                                    19,262,100     4.7500
+   151 Jefferson at La Valencia Apartments               21,831,000     4.7000
+
+
+- --------------------------------------------------------------------------------
+NOMURA      This material is for your private information and neither Nomura
+            Securities International, Inc. nor any other Underwriter
+            (collectively, the "Underwriters") is soliciting any action based
+            upon it. This material is not to be construed as an offer to sell or
+            the solicitation of any offer to buy any security in any
+            jurisdiction where such an offer or solicitation would be illegal.
+            This material is based on information that the Underwriters consider
+            reliable, but the Underwriters do not represent that it is accurate
+            or complete and it should not be relied upon as such. By accepting
+            this material the recipient agrees that it will not distribute or
+            provide the material to any other person. The recipient further
+            agrees that it is an "Accredited Investor" (as defined in Regulation
+            D under the Securities Act of 1933) and/or a "Qualified
+            Institutional Buyer" (as defined in Rule 144A under the Securities
+            Act). The information contained in this material may pertain to
+            securities that ultimately are not sold. The information contained
+            in this material may be based on assumptions regarding market
+            conditions and other matters as reflected herein. The Underwriters
+            make no representation regarding the reasonableness of such
+            assumptions or the likelihood that any of such assumptions will
+            coincide with actual market conditions or events, and this material
+            should not be relied upon for such purposes. The Underwriters and
+            their affiliates, officers, directors, partners and employees,
+            including persons involved in the preparation or issuance of this
+            material may, from time to time, have long or short positions in,
+            and buy and sell, the securities mentioned therein or derivatives
+            thereof (including options). Information contained in this material
+            is current as of the date appearing in this material only.
+            Information in this material regarding any assets backing any
+            securities discussed herein supersedes all prior information
+            regarding such assets. Any information in the material, whether
+            regarding the assets backing any securities discussed herein or
+            otherwise, will be superseded in its entirety by the information
+            contained in any final offering document for any securities actually
+            sold to you. This material is furnished solely by the Underwriters
+            and not by the issuer of the securities. The issuer of the
+            securities has not prepared, reviewed or participated in the
+            preparation of this material, is not responsible for the accuracy of
+            this material and has not authorized the dissemination of this
+            material. The Underwriters are acting as underwriters and not acting
+            as agents for the issuer in connection with the proposed
+            transaction.
+- --------------------------------------------------------------------------------
+<PAGE>
+
+JPMCC 04-C3, X2
+
+Scenario: 100 CPY, CDR as specified, 30% severity, 100% advance, 0 month lag,
+and yield to maturity.
+
+
+- --------------------------------------------------------------------------------
+Price                             0 CDR               2 CDR    CDR See Note (*)
+- --------------------------------------------------------------------------------
+                                  Yield               Yield               Yield
+2.03198                             6.0                 5.9                 5.9
+2.05198                             5.6                 5.5                 5.5
+2.07198                             5.2                 5.1                 5.1
+2.09198                             4.9                 4.7                 4.7
+2.11198                             4.5                 4.3                 4.3
+2.13198                             4.1                 4.0                 4.0
+2.15198                             3.8                 3.6                 3.6
+2.17198                             3.4                 3.3                 3.3
+2.19198                             3.0                 2.9                 2.9
+2.21198                             2.7                 2.6                 2.6
+2.23198                             2.4                 2.2                 2.2
+
+WAL                                 5.0                 5.0                 5.0
+Mod Durn                            2.5                 2.5                 2.5
+- --------------------------------------------------------------------------------
+
+                                            (*) Loans 1-99 defaulted at 3.6 CDR.
+
+
+
+- --------------------------------------------------------------------------------
+NOMURA      This material is for your private information and neither Nomura
+            Securities International, Inc. nor any other Underwriter
+            (collectively, the "Underwriters") is soliciting any action based
+            upon it. This material is not to be construed as an offer to sell or
+            the solicitation of any offer to buy any security in any
+            jurisdiction where such an offer or solicitation would be illegal.
+            This material is based on information that the Underwriters consider
+            reliable, but the Underwriters do not represent that it is accurate
+            or complete and it should not be relied upon as such. By accepting
+            this material the recipient agrees that it will not distribute or
+            provide the material to any other person. The recipient further
+            agrees that it is an "Accredited Investor" (as defined in Regulation
+            D under the Securities Act of 1933) and/or a "Qualified
+            Institutional Buyer" (as defined in Rule 144A under the Securities
+            Act). The information contained in this material may pertain to
+            securities that ultimately are not sold. The information contained
+            in this material may be based on assumptions regarding market
+            conditions and other matters as reflected herein. The Underwriters
+            make no representation regarding the reasonableness of such
+            assumptions or the likelihood that any of such assumptions will
+            coincide with actual market conditions or events, and this material
+            should not be relied upon for such purposes. The Underwriters and
+            their affiliates, officers, directors, partners and employees,
+            including persons involved in the preparation or issuance of this
+            material may, from time to time, have long or short positions in,
+            and buy and sell, the securities mentioned therein or derivatives
+            thereof (including options). Information contained in this material
+            is current as of the date appearing in this material only.
+            Information in this material regarding any assets backing any
+            securities discussed herein supersedes all prior information
+            regarding such assets. Any information in the material, whether
+            regarding the assets backing any securities discussed herein or
+            otherwise, will be superseded in its entirety by the information
+            contained in any final offering document for any securities actually
+            sold to you. This material is furnished solely by the Underwriters
+            and not by the issuer of the securities. The issuer of the
+            securities has not prepared, reviewed or participated in the
+            preparation of this material, is not responsible for the accuracy of
+            this material and has not authorized the dissemination of this
+            material. The Underwriters are acting as underwriters and not acting
+            as agents for the issuer in connection with the proposed
+            transaction.
+- --------------------------------------------------------------------------------
+<PAGE>
+
+JPMCC 04-C3, X2
+
+Scenario: 100 CPY, CDR as specified, 30% severity, 100% advance, 0 month lag,
+and yield to maturity.
+
+
+- --------------------------------------------------------------------------------
+Price                             0 CDR               3 CDR    CDR See Note (*)
+- --------------------------------------------------------------------------------
+                                  Yield               Yield               Yield
+2.03198                             6.0                 5.7                 5.7
+2.05198                             5.6                 5.3                 5.3
+2.07198                             5.2                 4.9                 4.9
+2.09198                             4.9                 4.5                 4.5
+2.11198                             4.5                 4.2                 4.1
+2.13198                             4.1                 3.8                 3.8
+2.15198                             3.8                 3.5                 3.4
+2.17198                             3.4                 3.1                 3.1
+2.19198                             3.0                 2.8                 2.7
+2.21198                             2.7                 2.4                 2.4
+2.23198                             2.4                 2.1                 2.1
+
+WAL                                 5.0                 5.0                 5.0
+Mod Durn                            2.5                 2.6                 2.6
+- --------------------------------------------------------------------------------
+
+                                            (*) Loans 1-99 defaulted at 5.6 CDR.
+
+
+
+- --------------------------------------------------------------------------------
+NOMURA      This material is for your private information and neither Nomura
+            Securities International, Inc. nor any other Underwriter
+            (collectively, the "Underwriters") is soliciting any action based
+            upon it. This material is not to be construed as an offer to sell or
+            the solicitation of any offer to buy any security in any
+            jurisdiction where such an offer or solicitation would be illegal.
+            This material is based on information that the Underwriters consider
+            reliable, but the Underwriters do not represent that it is accurate
+            or complete and it should not be relied upon as such. By accepting
+            this material the recipient agrees that it will not distribute or
+            provide the material to any other person. The recipient further
+            agrees that it is an "Accredited Investor" (as defined in Regulation
+            D under the Securities Act of 1933) and/or a "Qualified
+            Institutional Buyer" (as defined in Rule 144A under the Securities
+            Act). The information contained in this material may pertain to
+            securities that ultimately are not sold. The information contained
+            in this material may be based on assumptions regarding market
+            conditions and other matters as reflected herein. The Underwriters
+            make no representation regarding the reasonableness of such
+            assumptions or the likelihood that any of such assumptions will
+            coincide with actual market conditions or events, and this material
+            should not be relied upon for such purposes. The Underwriters and
+            their affiliates, officers, directors, partners and employees,
+            including persons involved in the preparation or issuance of this
+            material may, from time to time, have long or short positions in,
+            and buy and sell, the securities mentioned therein or derivatives
+            thereof (including options). Information contained in this material
+            is current as of the date appearing in this material only.
+            Information in this material regarding any assets backing any
+            securities discussed herein supersedes all prior information
+            regarding such assets. Any information in the material, whether
+            regarding the assets backing any securities discussed herein or
+            otherwise, will be superseded in its entirety by the information
+            contained in any final offering document for any securities actually
+            sold to you. This material is furnished solely by the Underwriters
+            and not by the issuer of the securities. The issuer of the
+            securities has not prepared, reviewed or participated in the
+            preparation of this material, is not responsible for the accuracy of
+            this material and has not authorized the dissemination of this
+            material. The Underwriters are acting as underwriters and not acting
+            as agents for the issuer in connection with the proposed
+            transaction.
+- --------------------------------------------------------------------------------
+<PAGE>
+
+JPMCC 04-C3, X2
+
+Scenario: 100 CPY, CDR as specified, 30% severity, 100% advance, 0 month lag,
+and yield to maturity.
+
+
+- --------------------------------------------------------------------------------
+Price                             0 CDR               4 CDR    CDR See Note (*)
+- --------------------------------------------------------------------------------
+                                  Yield               Yield               Yield
+2.03198                             6.0                 5.4                 5.2
+2.05198                             5.6                 5.0                 4.8
+2.07198                             5.2                 4.7                 4.4
+2.09198                             4.9                 4.3                 4.1
+2.11198                             4.5                 3.9                 3.7
+2.13198                             4.1                 3.6                 3.3
+2.15198                             3.8                 3.2                 3.0
+2.17198                             3.4                 2.9                 2.6
+2.19198                             3.0                 2.5                 2.3
+2.21198                             2.7                 2.2                 1.9
+2.23198                             2.4                 1.8                 1.6
+
+WAL                                 5.0                 5.0                 5.0
+Mod Durn                            2.5                 2.6                 2.6
+- --------------------------------------------------------------------------------
+
+                                            (*) Loans 1-99 defaulted at 7.7 CDR.
+
+
+
+- --------------------------------------------------------------------------------
+NOMURA      This material is for your private information and neither Nomura
+            Securities International, Inc. nor any other Underwriter
+            (collectively, the "Underwriters") is soliciting any action based
+            upon it. This material is not to be construed as an offer to sell or
+            the solicitation of any offer to buy any security in any
+            jurisdiction where such an offer or solicitation would be illegal.
+            This material is based on information that the Underwriters consider
+            reliable, but the Underwriters do not represent that it is accurate
+            or complete and it should not be relied upon as such. By accepting
+            this material the recipient agrees that it will not distribute or
+            provide the material to any other person. The recipient further
+            agrees that it is an "Accredited Investor" (as defined in Regulation
+            D under the Securities Act of 1933) and/or a "Qualified
+            Institutional Buyer" (as defined in Rule 144A under the Securities
+            Act). The information contained in this material may pertain to
+            securities that ultimately are not sold. The information contained
+            in this material may be based on assumptions regarding market
+            conditions and other matters as reflected herein. The Underwriters
+            make no representation regarding the reasonableness of such
+            assumptions or the likelihood that any of such assumptions will
+            coincide with actual market conditions or events, and this material
+            should not be relied upon for such purposes. The Underwriters and
+            their affiliates, officers, directors, partners and employees,
+            including persons involved in the preparation or issuance of this
+            material may, from time to time, have long or short positions in,
+            and buy and sell, the securities mentioned therein or derivatives
+            thereof (including options). Information contained in this material
+            is current as of the date appearing in this material only.
+            Information in this material regarding any assets backing any
+            securities discussed herein supersedes all prior information
+            regarding such assets. Any information in the material, whether
+            regarding the assets backing any securities discussed herein or
+            otherwise, will be superseded in its entirety by the information
+            contained in any final offering document for any securities actually
+            sold to you. This material is furnished solely by the Underwriters
+            and not by the issuer of the securities. The issuer of the
+            securities has not prepared, reviewed or participated in the
+            preparation of this material, is not responsible for the accuracy of
+            this material and has not authorized the dissemination of this
+            material. The Underwriters are acting as underwriters and not acting
+            as agents for the issuer in connection with the proposed
+            transaction.
+- --------------------------------------------------------------------------------
+

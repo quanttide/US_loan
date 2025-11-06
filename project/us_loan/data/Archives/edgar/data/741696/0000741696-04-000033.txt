@@ -1,0 +1,995 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ H/T6agqFsEdBtJzd2Tdw8oBzS2/iR/eCH+zieXaf+PG/7PeFM62b8B0KfqFZe4Tl
+ XAR0TobZH+icjoRtuUBGCQ==
+
+<SEC-DOCUMENT>0000741696-04-000033.txt : 20041223
+<SEC-HEADER>0000741696-04-000033.hdr.sgml : 20041223
+<ACCEPTANCE-DATETIME>20041222183311
+ACCESSION NUMBER:		0000741696-04-000033
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20041221
+ITEM INFORMATION:		Results of Operations and Financial Condition
+ITEM INFORMATION:		Departure of Directors or Principal Officers; Election of Directors; Appointment of Principal Officers
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20041223
+DATE AS OF CHANGE:		20041222
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			APPLIED SIGNAL TECHNOLOGY INC
+		CENTRAL INDEX KEY:			0000741696
+		STANDARD INDUSTRIAL CLASSIFICATION:	COMMUNICATIONS EQUIPMENT, NEC [3669]
+		IRS NUMBER:				770015491
+		STATE OF INCORPORATION:			CA
+		FISCAL YEAR END:			1031
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-21236
+		FILM NUMBER:		041221938
+
+	BUSINESS ADDRESS:	
+		STREET 1:		400 WEST CALIFORNIA AVENUE
+		CITY:			SUNNYVALE
+		STATE:			CA
+		ZIP:			94086
+		BUSINESS PHONE:		4087491888
+
+	MAIL ADDRESS:	
+		STREET 1:		400 W CALIFORNIA
+		CITY:			SUNNYVALE
+		STATE:			CA
+		ZIP:			94086
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>l1282_122204.htm
+<DESCRIPTION>12-21-04 8-K FOR QTR ENDED 10-31-04
+<TEXT>
+<html>
+<head>
+<title>Form 8-K Current Report</title>
+
+<!--
+..BodyText {
+	font-family: Geneva;
+	font-size: 2px;
+}
+..style6 {
+	font-size: 12px;
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+}
+..style7 {font-family: Geneva, Arial, Helvetica, sans-serif}
+- -->
+
+</head>
+
+<body bgcolor="#FFFFFF" text="#000000">
+<p align="center"><font face="Times New Roman, Times, serif" size="3"> United
+  States<br>
+  Securities and Exchange Commission<br>
+  Washington, D.C. 20549</font></p>
+<p align="center"><font face="Times New Roman, Times, serif" size="3">Form 8-K<br>
+  Current Report</font></p>
+<p align="center"><font face="Times New Roman, Times, serif" size="3">Pursuant
+  to Section 13 or 15(d) of the Securities Exchange Act of 1934</font></p>
+<p align="center"><font face="Times New Roman, Times, serif" size="3"><b>Date
+  of Report: December 21, 2004</b><br>
+(Date of earliest event reported) </font></p>
+<table border="0" cellspacing="8" cellpadding="0" align="center">
+  <tr>
+    <td colspan="3" align="center"><font face="Times New Roman, Times, serif" size="3"><b>Applied
+      Signal Technology, Inc.</b><br>
+      (Exact name of registrant as specified in its charter) </font></td>
+  </tr>
+  <tr>
+    <td width="220" align="center"><font face="Times New Roman, Times, serif" size="3"><b>California</b><br>
+      (State or other jurisdiction of <br>
+      incorporation or organization) </font></td>
+    <td width="200" align="center"><font face="Times New Roman, Times, serif" size="3"><b>0-21236</b><br>
+      (Commission file<br>
+      number) </font></td>
+    <td width="200" align="center"><font face="Times New Roman, Times, serif" size="3"><b>77-0015491</b><br>
+      (I.R.S. Employer<br>
+      Identification No.) </font></td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center"><font face="Times New Roman, Times, serif" size="3">4<b>00
+      West California Ave., Sunnyvale, CA 94086</b><br>
+      (Address of principal executive offices) </font></td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center"><font face="Times New Roman, Times, serif" size="3"><b>(408)
+      749-1888</b><br>
+      (Registrant&#146;s telephone number, including area code) </font></td>
+  </tr>
+</table>
+<p> <font size="2" face="Times New Roman, Times, serif">Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions: </font></p>
+<p><font size="2" face="Times New Roman, Times, serif"> [ ] Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) </font></p>
+<p><font size="2" face="Times New Roman, Times, serif"> [ ] Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) </font></p>
+<p><font size="2" face="Times New Roman, Times, serif"> [ ] Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) </font></p>
+<p><font size="2" face="Times New Roman, Times, serif"> [ ] Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) </font></p>
+<p><strong><font size="3" face="Times New Roman, Times, serif">Item 2.02: Results of Operations and Financial Condition</font></strong></p>
+<p> <font size="2" face="Times New Roman, Times, serif">On December 21, 2004, Applied Signal Technology, Inc. (the &ldquo;Company&rdquo;) issued a press release announcing its financial results for the quarter and fiscal year ended October 31, 2004.&nbsp; On December 21, 2004, the Company hosted a conference call to discuss the financial results for the quarter and fiscal year ended October 31, 2004. The full text of the Company&rsquo;s press release and a transcript of the related conference call are attached hereto as Exhibit 99.1 and Exhibit 99.2.</font></p>
+<p><strong> Item 5.02: Departure of Directors or Principal Officers; Election of Directors; Appointment of Principal Officers</strong></p>
+<p> <font size="2" face="Times New Roman, Times, serif">On December 21, 2004, Applied Signal Technology, Inc. announced that it had promoted Mr. Ben Scribner to </font><font size="2" face="Times New Roman, Times, serif">Chief Operating Officer. The Company further announced that Mr. Fred Roscher was elected Executive Vice </font><font size="2" face="Times New Roman, Times, serif">President of the newly formed Communications Systems Group and Mr. Robert Blanchard was elected Vice </font><font size="2" face="Times New Roman, Times, serif">President of the newly formed Electronic Systems Division. A copy of the full text of the press release is attached </font><font size="2" face="Times New Roman, Times, serif">hereto as Exhibit 99.1. </font></p>
+<p><b><font face="Times New Roman, Times, serif" size="3">Item 9.01: Financial Statements
+    and Exhibits</font></b> </p>
+<p><font face="Times New Roman, Times, serif" size="3"><b>(c) Exhibits</b></font></p>
+<table width="700" border="0" cellspacing="4" cellpadding="0">
+  <tr>
+    <td width="102">
+      <div align="center"><font face="Times New Roman, Times, serif" size="3">99.1</font></div>
+    </td>
+    <td width="586"><a href="#991"><font face="Times New Roman, Times, serif" size="3">Press
+      Release issued by Applied Signal Technology, Inc. on December 21, 2004</font></a></td>
+  </tr>
+  <tr>
+    <td width="102">
+      <div align="center"><font face="Times New Roman, Times, serif" size="3">99.2</font></div>
+    </td>
+    <td width="586"><a href="#992"><font face="Times New Roman, Times, serif" size="3">Transcript
+      of conference call held on December 21, 2004</font></a></td>
+  </tr>
+</table>
+<p> <font size="2" face="Times New Roman, Times, serif">Pursuant to Item 2.02 of Form 8-K, that portion of Exhibit 99.1 describing the financial results for the quarter and year ended October 31, 2004, and Exhibit 99.2 shall not be deemed &ldquo;filed&rdquo; for purposes of Section 18 of the Securities Act of 1934, nor shall they be deemed incorporated by reference in any filing under the Securities Act of 1933, except as shall be expressly set forth by specific reference in such filing. </font></p>
+<hr>
+<p>&nbsp;</p>
+<p><b><font face="Arial, Helvetica, sans-serif" size="4">Signatures</font></b></p>
+<p>Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange
+  Act of 1934, the registrant has duly caused this report to be signed on its
+  behalf by the undersigned hereinto duly authorized</p>
+<table width="620" border="0" cellspacing="6" cellpadding="0">
+  <tr align="left" valign="top">
+    <td width="201">&nbsp;</td>
+    <td width="401"><b>Applied Signal Technology, Inc.</b><br>
+      (Registrant)</td>
+  </tr>
+  <tr align="left" valign="top">
+    <td width="201">Date: December 23, 2004</td>
+    <td width="401">/s/ Gary L. Yancey<br>
+      Gary L. Yancey, President, Chief Executive Officer,<br>
+      and Chairman of the Board</td>
+  </tr>
+</table>
+<p>&nbsp;</p>
+<hr>
+<p><font size="4" face="Arial, Helvetica, sans-serif"><b>Exhibit Index</b></font><br>
+</p>
+<table width="706" border="0" cellspacing="4" cellpadding="0">
+  <tr>
+    <td width="102"><font face="Arial, Helvetica, sans-serif"><b><font size="2">Exhibit
+      Number</font></b></font></td>
+    <td width="592">&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="102">
+      <div align="center"><font face="Times New Roman, Times, serif" size="3">99.1</font></div>
+    </td>
+    <td width="592"><a href="#991"><font face="Times New Roman, Times, serif" size="3">Press
+      Release issued by Applied Signal Technology, Inc. on December 21, 2004</font></a></td>
+  </tr>
+  <tr>
+    <td width="102">
+      <div align="center"><font face="Times New Roman, Times, serif" size="3">99.2</font></div>
+    </td>
+    <td width="592"><a href="#992"><font face="Times New Roman, Times, serif" size="3">Transcript
+      of conference call held on December 21, 2004</font></a></td>
+  </tr>
+</table>
+<p>&nbsp; </p>
+<hr>
+<p><font size="4" face="Arial, Helvetica, sans-serif"><b><a name="991"></a>Exhibit
+  99.1<br>
+  <font size="3">Press Release issued by Applied Signal Technology, Inc. on December 21, 2004</font></b></font></p>
+<p>&nbsp;</p>
+<p align="left"><img src="logo.jpg" width="240" height="89"></p>
+<p align="center"><font face="Arial, Helvetica, sans-serif" size="5"><b>Press
+  Release</b></font></p>
+<p><font face="Times New Roman, Times, serif" size="3">For Immediate Release<br>
+  Contact:<br>
+  James Doyle<br>
+  Chief Financial Officer <br>
+  or<br>
+  Alice Delgado<br>
+  Investor Relations<br>
+  (408) 749-1888</font></p>
+<p align="center">&nbsp;</p>
+<p align="center"><font face="Geneva, Arial, Helvetica, san-serif" size="3"><b><font size="4" face="Arial, Helvetica, sans-serif">APPLIED
+  SIGNAL TECHNOLOGY, INC. <br>
+  ANNOUNCES
+
+
+  <strong> FISCAL 2004 OPERATING RESULTS, RECORD ORDERS, CONTINUATION OF DIVIDENDS AND APPOINTMENT OF OFFICERS</strong> <br>
+  </font></b></font></p>
+<p align="center">&nbsp;</p>
+<p><b><font face="Geneva, Arial, Helvetica, san-serif" size="2">Sunnyvale, CA. December 21, 2004</font></b><font face="Geneva, Arial, Helvetica, san-serif" size="2"> - Applied Signal Technology, Inc. (NASDAQ - APSG) announced its operating results for the fourth quarter of fiscal year 2004 and the fiscal year ended October 31, 2004. The Company announced that it received a record $202.1 million in new orders during fiscal 2004. In addition, the Company announced that the Board of Directors has approved the continuation of the annual dividend payments to shareholders of $0.50 per share. The Company also announced the appointment of three officers. </font></p>
+<p><font face="Geneva, Arial, Helvetica, san-serif" size="2"><b>New Orders </b><br>
+</font><font size="2" face="Geneva, Arial, Helvetica, sans-serif">New orders received during the fourth quarter of fiscal year 2004 were $73,478,000 compared to new orders of $67,242,000 received during the fourth quarter of fiscal year 2003. Orders for fiscal year 2004 were $202,080,000 compared to $139,796,000 reported for fiscal year 2003. It should be noted that new orders and backlog are expected to be reduced by approximately $11 to $13 million when the company completes negotiations of a stop-work order related to a portion of it largest contract. The Company anticipates the completion of these negotiations during the first or second quarter of fiscal 2005. The Company estimates that our opportunity to generate revenues from this contract was reduced by approximately $3 to $4 million in fiscal 2004, and will be reduced by approximately $6 to $7 million during fiscal year 2005 and the balance in fiscal 2006.</font></p>
+<p><font face="Geneva, Arial, Helvetica, san-serif" size="2"><b>Results of Operations </b><br>
+</font><font size="2" face="Geneva, Arial, Helvetica, sans-serif">Revenues for the fourth quarter of fiscal year 2004 were $39,456,000 representing a 35% increase compared with revenues of $29,123,000 recorded during the fourth quarter of fiscal year 2003. Revenues for fiscal year 2004 were $142,836,000 up 50% from revenues of $95,384,000 recorded during fiscal year 2003.</font></p>
+<p><font size="2" face="Geneva, Arial, Helvetica, sans-serif">Operating income for the fourth quarter of fiscal year 2004 was $3,880,000 compared to operating income of $2,751,000 recorded during the fourth quarter of fiscal year 2003. Operating income increased for the fourth quarter of fiscal year 2004 due primarily to a growth in revenues, offset in part by a charge to operating income taken by the Company in the fourth quarter as a result of disposing of approximately $811,000 of obsolete products. The operating income for fiscal year 2004 was $17,370,000 compared to operating income of $9,186,000 recorded during fiscal year 2003. The increase in operating income for fiscal year 2004 is due, in part, to a growth in revenues and, in part, to an increase in program profitability generated from the sale of certain products. </font></p>
+<p><font size="2" face="Geneva, Arial, Helvetica, sans-serif">Net income for the fourth quarter of fiscal year 2004 was $2,422,000 or $0.21 per diluted share compared to the fourth quarter of fiscal year 2003 net income of $2,923,000 or $0.26 per diluted share. Net income for fiscal year 2004 was $11,974,000 or $1.03 per diluted share compared to net income of $8,665,000 or $0.80 per diluted share for fiscal year 2003. Net income did not grow proportionately with operating income for the fourth quarter and fiscal year 2004 when compared to the same periods in fiscal year 2003 because our tax rate increased significantly. Our tax rate for the fourth quarter and fiscal year 2004 was 40% and 33%, respectively, compared to 1% and 11%, respectively, for the same periods of fiscal year 2003.</font></p>
+<p><font face="Geneva, Arial, Helvetica, san-serif" size="2"><b>Dividend </b><br>
+</font><font size="2" face="Geneva, Arial, Helvetica, sans-serif">The Company announced the continuation of its current dividend. The Company will pay an annual dividend of $0.50 per share, payable quarterly at a rate of $0.125 per share, to shareholders over the next twelve months. The quarterly dividends will be payable on February 11, 2005, May 13, 2005, August 12, 2005 and November 11, 2005 to shareholders of record at January 28, 2005, April 29, 2005, July 29, 2005 and October 31, 2005.</font></p>
+<p><font face="Geneva, Arial, Helvetica, san-serif" size="2"><b>Appointment of Officers </b><br>
+</font><font size="2" face="Geneva, Arial, Helvetica, sans-serif">The Company promoted Mr. Ben Scribner to Chief Operating Officer reporting to Mr. Gary Yancey, President and Chief Executive Officer. Mr. Fred Roscher was elected Executive Vice President of the newly formed Communications Systems Group reporting to Mr. Scribner and Mr. Robert Blanchard was elected Vice President of the newly formed Electronic Systems Division also reporting to Mr. Scribner.</font></p>
+<p><font face="Geneva, Arial, Helvetica, san-serif" size="2"><b>Management Commentary </b><br>
+  </font><font size="2" face="Geneva, Arial, Helvetica, sans-serif">Mr. Gary Yancey, President and Chief Executive Officer of the Company, commented, &#8220;As we reviewed our five-year strategic plan at the beginning of fiscal year 2004, we believed that our core business of communications intelligence or COMINT had strong year-over-year growth potential for the foreseeable future. As a result, we felt that we had an opportunity to diversify into other areas of signal intelligence to complement our core business. We felt that one area of signal intelligence in which the U.S. Government will be budgeting increased investments was electronic intelligence or ELINT. Since ELINT and COMINT involve similar processing technologies, we felt that this diversification would be synergistic with our core competencies.&#8221;</font>
+<p><font size="2" face="Geneva, Arial, Helvetica, sans-serif">Mr. Yancey concluded his remarks, &#8220;To better manage our investment in the future, we promoted Ben Scribner to Chief Operating Officer responsible for all technical operations. We formed the Communications Systems Group, managed by Fred Roscher, as Executive Vice President, to continue to grow our core COMINT business area. We formed the Electronic Systems Division managed by Bob Blanchard as Vice President to expand our SIGINT business into ELINT. Fred has over seventeen years tenure with the Company, most recently as deputy General Manager of the Technical Operations Group. He has over twenty-five years experience in COMINT and I am confident he will lead his group to continued growth. Bob has over twenty years experience in the ELINT business and founded Plano Microwave in 1992 to provide ELINT equipments. He joined Applied Signal Technology on November 22, 2004. His division will be located in Plano, Texas. I am very optimistic about the 
+continued success of our core COMINT business area and the opportunities provided by our move into the ELINT business area. I believe that diversifying into other areas of SIGINT and potentially other areas of defense electronics will be beneficial to the Company and its shareholders in the future.&#8221;</font></p>
+<p><font size="2" face="Geneva, Arial, Helvetica, sans-serif">Attached to this news release are audited condensed statements of operations and balance sheets for the fourth quarter and fiscal year ended October 31, 2004.</font></p>
+<p>
+<p><font face="Geneva, Arial, Helvetica, san-serif" size="2"><b>Conference Call</b><br>
+  </font><font size="2" face="Geneva, Arial, Helvetica, sans-serif">The Company will host a conference call on Tuesday, December 21, 2004 to discuss operating results for fiscal 2004. If you wish to participate in the conference call, please dial 1-877-407-8035 for domestic callers or 1-201-689-8035 for international callers on December 21, 2004 at 5:00 p.m. EST/2:00 p.m. PST. There is no pass code required. This call may be listened to over PrecisionIR&#8217;s Investor Distribution Network, located at www.vcall.com. A rebroadcast of the call will be available upon its completion and will remain available for a limited time. </font>
+<p><font size="2" face="Geneva, Arial, Helvetica, sans-serif">Applied Signal Technology, Inc. designs, develops, manufactures and markets advanced digital signal processing equipment to collect and process a wide range of telecommunications signals for signal reconnaissance applications. For additional Company-related information, visit the Company&#8217;s website atwww.appsig.com.</font></p>
+<hr>
+<p> <font size="1" face="Geneva, Arial, Helvetica, sans-serif">Except for historical information contained herein, matters discussed in this news release may contain forward-looking statements that involve risks and uncertainties that could cause actual results to differ materially. Forward-looking statements discussed in this release include statements concerning the magnitude of the stop work order and our ability to negotiate a favorable outcome, the potential future year over year growth of our COMINT business, U.S. investment into the ELINT business, the continued success of our COMINT business and opportunities provided by our entry into the ELINT business, and the benefits of this diversification to our shareholders. The risks and uncertainties associated with these statements include whether orders will be issued by procurers, including the U. S. Government; the timing of any orders placed by procurers; whether the Company will be successful in obtaining contracts for these orders if they are forthco
+ming; whether any contracts obtained by us will be profitable and whether any such contracts might be terminated prior to completion; whether we will be able to hire additional qualified staff as needed; the ability to successfully enter new marketplaces; and other risks detailed from time to time in the Company&#8217;s SEC reports including its latest Form 10-K filed for the fiscal year ended October 31, 2003. The Company assumes no obligation to update the information provided in this news release </font></p>
+<p>
+
+<hr>
+<table border="0" cellspacing="0" cellpadding="1" align="center">
+  <tr valign="top">
+    <td colspan="5" align="center">
+      <p><font face="Courier New, Courier, mono" size="2"><b>APPLIED SIGNAL TECHNOLOGY,
+        INC.<br>
+        CONDENSED CONSOLIDATED STATEMENTS OF INCOME<br>
+        FOR THE PERIODS ENDING OCTOBER 31, 2004 AND OCTOBER 31, 2003</b><br>
+        (In thousands except per share data)</font></p>
+    </td>
+  </tr>
+  <tr bgcolor="#FFFFCC" valign="top">
+    <td width="316"><font face="Courier New, Courier, mono" size="2">&nbsp;</font></td>
+    <td colspan="2" align="center"><font face="Courier New, Courier, mono" size="2"><b>Three
+      Months Ended</b></font> </td>
+    <td colspan="2" align="center"><font face="Courier New, Courier, mono" size="2"><b>Twelve
+      Months Ended</b></font> </td>
+  </tr>
+  <tr bgcolor="#FFFFCC" valign="top">
+    <td width="316"><font face="Courier New, Courier, mono" size="2">&nbsp;</font></td>
+    <td align="center" width="106"><b><font face="Courier New, Courier, mono" size="2">October 31,<br>
+      2004<br>
+      ----------- </font></b></td>
+    <td align="center" width="102"><b><font face="Courier New, Courier, mono" size="2">October 31,<br>
+      2003<br>
+      -----------</font></b></td>
+    <td align="center" width="106"><b><font face="Courier New, Courier, mono" size="2">October 31 ,<br>
+      2004<br>
+      ----------- </font></b></td>
+    <td align="center" width="102"><b><font face="Courier New, Courier, mono" size="2">October 31 ,<br>
+      2003<br>
+      -----------</font></b></td>
+  </tr>
+  <tr valign="top">
+    <td bgcolor="#CCCCCC" width="316"><font face="Courier New, Courier, mono" size="2">Revenues
+      from contracts</font></td>
+    <td bgcolor="#CCCCCC" align="right"><font size="2" face="Courier New, Courier, mono">$ 39,456&nbsp;&nbsp; </font></td>
+    <td bgcolor="#CCCCCC" align="right"><font size="2" face="Courier New, Courier, mono">29,123&nbsp;&nbsp; </font></td>
+    <td bgcolor="#CCCCCC" align="right"><font size="2" face="Courier New, Courier, mono">$ 142,836&nbsp;&nbsp; </font></td>
+    <td bgcolor="#CCCCCC" align="right"><font size="2" face="Courier New, Courier, mono">$ 95,384 &nbsp; </font></td>
+  </tr>
+  <tr valign="top">
+    <td width="316" bgcolor="#FFFFCC"><font face="Courier New, Courier, mono" size="2">Operating
+      expenses:</font></td>
+    <td bgcolor="#FFFFCC"><font size="2" face="Courier New, Courier, mono">&nbsp;</font></td>
+    <td bgcolor="#FFFFCC"><font size="2" face="Courier New, Courier, mono">&nbsp;</font></td>
+    <td bgcolor="#FFFFCC"><font size="2" face="Courier New, Courier, mono">&nbsp;</font></td>
+    <td bgcolor="#FFFFCC"><font size="2" face="Courier New, Courier, mono">&nbsp;</font></td>
+  </tr>
+  <tr valign="top">
+    <td bgcolor="#CCCCCC" width="316"><font face="Courier New, Courier, mono" size="2">&nbsp;&nbsp;&nbsp;Contract
+      costs</font></td>
+    <td bgcolor="#CCCCCC" align="right"><font size="2" face="Courier New, Courier, mono">27,630&nbsp;&nbsp; </font></td>
+    <td bgcolor="#CCCCCC" align="right"><font size="2" face="Courier New, Courier, mono">20,385&nbsp;&nbsp;</font></td>
+    <td bgcolor="#CCCCCC" align="right"><font size="2" face="Courier New, Courier, mono"><font face="Courier New, Courier, mono" size="2">94,705</font>&nbsp;&nbsp; </font></td>
+    <td bgcolor="#CCCCCC" align="right"><font size="2" face="Courier New, Courier, mono">63,335&nbsp;&nbsp; </font></td>
+  </tr>
+  <tr valign="top">
+    <td width="316" bgcolor="#FFFFCC"><font face="Courier New, Courier, mono" size="2">&nbsp;&nbsp;&nbsp;Research
+      and development</font></td>
+    <td bgcolor="#FFFFCC" align="right"><font size="2" face="Courier New, Courier, mono">4,191&nbsp;&nbsp; </font></td>
+    <td bgcolor="#FFFFCC" align="right"><font size="2" face="Courier New, Courier, mono">1,644&nbsp;&nbsp; </font></td>
+    <td bgcolor="#FFFFCC" align="right"><font size="2" face="Courier New, Courier, mono">14,160&nbsp;&nbsp; </font></td>
+    <td bgcolor="#FFFFCC" align="right"><font size="2" face="Courier New, Courier, mono">7,526&nbsp;&nbsp; </font></td>
+  <tr valign="top">
+    <td bgcolor="#CCCCCC" width="316"><font face="Courier New, Courier, mono" size="2">&nbsp;&nbsp;&nbsp;General
+      and administrative</font></td>
+    <td bgcolor="#CCCCCC" align="right"><font size="2" face="Courier New, Courier, mono"><font size="2" face="Courier New, Courier, mono">3,755</font>&nbsp;&nbsp;<br>
+  ---------- </font></td>
+    <td bgcolor="#CCCCCC" align="right"><font size="2" face="Courier New, Courier, mono"><font size="2" face="Courier New, Courier, mono"><font size="2" face="Courier New, Courier, mono">4,343</font>&nbsp;&nbsp;<br>
+  ----------</font></font></td>
+    <td bgcolor="#CCCCCC" align="right"><font size="2" face="Courier New, Courier, mono"><font size="2" face="Courier New, Courier, mono">16,601&nbsp;&nbsp;<br>
+  ----------</font></font></td>
+    <td bgcolor="#CCCCCC" align="right"><font size="2" face="Courier New, Courier, mono"><font size="2" face="Courier New, Courier, mono">15,337&nbsp;&nbsp;<br>
+  ----------</font></font></td>
+  </tr>
+  <tr valign="top">
+    <td width="316" bgcolor="#FFFFCC"><font face="Courier New, Courier, mono" size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Total
+      operating expenses</font></td>
+    <td bgcolor="#FFFFCC" align="right"><font size="2" face="Courier New, Courier, mono"><font size="2" face="Courier New, Courier, mono">35,576&nbsp;&nbsp;<br>
+  ----------</font></font></td>
+    <td bgcolor="#FFFFCC" align="right"><font size="2" face="Courier New, Courier, mono"><font size="2" face="Courier New, Courier, mono">26,372&nbsp;&nbsp;<br>
+  ----------</font></font></td>
+    <td bgcolor="#FFFFCC" align="right"><font size="2" face="Courier New, Courier, mono"><font size="2" face="Courier New, Courier, mono">125,466&nbsp;&nbsp;<br>
+  ----------</font></font></td>
+    <td bgcolor="#FFFFCC" align="right"><font size="2" face="Courier New, Courier, mono"><font size="2" face="Courier New, Courier, mono">86,198&nbsp;&nbsp;<br>
+  ----------</font></font></td>
+  </tr>
+  <tr valign="top">
+    <td bgcolor="#CCCCCC" width="316"><font face="Courier New, Courier, mono" size="2">Operating
+      income</font></td>
+    <td bgcolor="#CCCCCC" align="right"><font face="Courier New, Courier, mono" size="2">3,880&nbsp;</font>&nbsp;&nbsp;</td>
+    <td bgcolor="#CCCCCC" align="right"><font face="Courier New, Courier, mono" size="2">2,751&nbsp;</font>&nbsp;&nbsp;</td>
+    <td bgcolor="#CCCCCC" align="right"><font face="Courier New, Courier, mono" size="2">17,370&nbsp;</font>&nbsp;&nbsp;</td>
+    <td bgcolor="#CCCCCC" align="right"><font face="Courier New, Courier, mono" size="2">9,186</font>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <font face="Courier New, Courier, mono" size="2"> </font> </tr>
+  <tr valign="top">
+    <td height=33 class=xl24 style='height:18.0pt' width="316" bgcolor="#FFFFCC"><font face="Courier New, Courier, mono" size="2">Interest
+      income/(expense), net</font></td>
+    <td bgcolor="#FFFFCC" align="right"><font size="2" face="Courier New, Courier, mono"><font size="2" face="Courier New, Courier, mono">177&nbsp;&nbsp;<br>
+  ----------</font></font></td>
+    <td bgcolor="#FFFFCC" align="right"><font size="2" face="Courier New, Courier, mono"><font size="2" face="Courier New, Courier, mono">190&nbsp;&nbsp;<br>
+  ----------</font></font></td>
+    <td bgcolor="#FFFFCC" align="right"><font size="2" face="Courier New, Courier, mono"><font size="2" face="Courier New, Courier, mono">576&nbsp;&nbsp;<br>
+  ----------</font></font></td>
+    <td bgcolor="#FFFFCC" align="right"><font size="2" face="Courier New, Courier, mono"><font size="2" face="Courier New, Courier, mono">510&nbsp;&nbsp;<br>
+  ----------</font></font></td>
+  </tr>
+  <tr valign="top">
+    <td height=24 class=xl24 style='height:18.0pt' bgcolor="#CCCCCC" width="316"><font face="Courier New, Courier, mono" size="2">Income
+      before provision<br>
+      &nbsp;for income taxes</font></td>
+    <td bgcolor="#CCCCCC" align="right"><font size="2" face="Courier New, Courier, mono">4,057&nbsp;&nbsp;</font></td>
+    <td bgcolor="#CCCCCC" align="right"><font size="2" face="Courier New, Courier, mono">2,941&nbsp;&nbsp;</font></td>
+    <td bgcolor="#CCCCCC" align="right"><font size="2" face="Courier New, Courier, mono">17,946&nbsp;&nbsp;</font></td>
+    <td bgcolor="#CCCCCC" align="right"><font size="2" face="Courier New, Courier, mono">9,696&nbsp;&nbsp;</font></td>
+  </tr>
+  <tr valign="top">
+    <td width="316" bgcolor="#FFFFCC"><font face="Courier New, Courier, mono" size="2">Provision
+      (benefit) for income taxes</font></td>
+    <td bgcolor="#FFFFCC" align="right"><font size="2" face="Courier New, Courier, mono"><font size="2" face="Courier New, Courier, mono">1,635&nbsp;&nbsp;<br>
+  ----------</font></font></td>
+    <td bgcolor="#FFFFCC" align="right"><font size="2" face="Courier New, Courier, mono"><font size="2" face="Courier New, Courier, mono">18&nbsp;&nbsp;<br>
+  ----------</font></font></td>
+    <td bgcolor="#FFFFCC" align="right"><font size="2" face="Courier New, Courier, mono"><font size="2" face="Courier New, Courier, mono">5,972&nbsp;&nbsp;<br>
+  ----------</font></font></td>
+    <td bgcolor="#FFFFCC" align="right"><font size="2" face="Courier New, Courier, mono"><font size="2" face="Courier New, Courier, mono">1,031&nbsp;&nbsp;<br>
+  ----------</font></font></td>
+  </tr>
+  <tr valign="top">
+    <td bgcolor="#CCCCCC" height=25 class=xl24 style='height:18.75pt' width="316"><font face="Courier New, Courier, mono" size="2">Net
+      income</font></td>
+    <td bgcolor="#CCCCCC"  align="right"><font size="2" face="Courier New, Courier, mono">$&nbsp;2,422&nbsp;&nbsp;<br>
+  ==========</font></td>
+    <td bgcolor="#CCCCCC" align="right"><font size="2" face="Courier New, Courier, mono">$&nbsp;2,923&nbsp;&nbsp;<br>
+  ==========</font></td>
+    <td bgcolor="#CCCCCC" align="right"><font size="2" face="Courier New, Courier, mono">$11,974&nbsp;&nbsp;<br>
+  ==========</font></td>
+    <td bgcolor="#CCCCCC" align="right"><font size="2" face="Courier New, Courier, mono">$&nbsp;8,665&nbsp;&nbsp;<br>
+  ==========</font></td>
+  </tr>
+  <tr valign="top">
+    <td height=24 class=xl24 style='height:18.0pt' width="316" bgcolor="#FFFFCC"><font face="Courier New, Courier, mono" size="2">Net
+      income per share - basic</font></td>
+    <td bgcolor="#FFFFCC" align="right"><font size="2" face="Courier New, Courier, mono">$.022&nbsp;&nbsp; </font></td>
+    <td bgcolor="#FFFFCC" align="right"><font size="2" face="Courier New, Courier, mono">$.027&nbsp;&nbsp; </font></td>
+    <td  bgcolor="#FFFFCC" align="right"><font size="2" face="Courier New, Courier, mono">$1.08&nbsp;&nbsp; </font></td>
+    <td  bgcolor="#FFFFCC" align="right"><font size="2" face="Courier New, Courier, mono">$0.83&nbsp;&nbsp;</font></td>
+  </tr>
+  <tr valign="top">
+    <td height=24 class=xl24 style='height:18.0pt' bgcolor="#CCCCCC" width="316"><font face="Courier New, Courier, mono" size="2">Average
+      shares - basic</font></td>
+    <td bgcolor="#CCCCCC" align="right"><font size="2" face="Courier New, Courier, mono">11,201&nbsp;&nbsp; </font></td>
+    <td bgcolor="#CCCCCC" align="right"><font size="2" face="Courier New, Courier, mono">10,735&nbsp;&nbsp; </font></td>
+    <td bgcolor="#CCCCCC" align="right"><font size="2" face="Courier New, Courier, mono">11,042&nbsp;&nbsp; </font></td>
+    <td bgcolor="#CCCCCC" align="right"><font size="2" face="Courier New, Courier, mono">10,459&nbsp;&nbsp; </font></td>
+  </tr>
+  <tr valign="top">
+    <td height=24 class=xl24 style='height:18.0pt' width="316" bgcolor="#FFFFCC"><font face="Courier New, Courier, mono" size="2">Net
+      income per share - diluted</font></td>
+    <td  bgcolor="#FFFFCC" align="right"><font size="2" face="Courier New, Courier, mono">$0.21&nbsp;&nbsp; </font></td>
+    <td  bgcolor="#FFFFCC" align="right"><font size="2" face="Courier New, Courier, mono">$0.26&nbsp;&nbsp; </font></td>
+    <td  bgcolor="#FFFFCC" align="right"><font size="2" face="Courier New, Courier, mono">$1.03&nbsp;&nbsp; </font></td>
+    <td  bgcolor="#FFFFCC" align="right"><font size="2" face="Courier New, Courier, mono">$0.80&nbsp;&nbsp; </font></td>
+  <tr valign="top">
+    <td height=24 class=xl24 style='height:18.0pt' bgcolor="#CCCCCC" width="316"><font face="Courier New, Courier, mono" size="2">Average
+      shares - diluted</font></td>
+    <td bgcolor="#CCCCCC" align="right"><font size="2" face="Courier New, Courier, mono">11,800&nbsp;&nbsp; </font></td>
+    <td bgcolor="#CCCCCC" align="right"><font size="2" face="Courier New, Courier, mono">11,307&nbsp;&nbsp; </font></td>
+    <td bgcolor="#CCCCCC" align="right"><font size="2" face="Courier New, Courier, mono">11,638&nbsp;&nbsp; </font></td>
+    <td bgcolor="#CCCCCC" align="right"><font size="2" face="Courier New, Courier, mono">10,863&nbsp;&nbsp; </font></td>
+  </tr>
+</table>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<table border="0" cellspacing="0" cellpadding="1" align="center">
+  <tr>
+    <td colspan="5" align="center" height="52"><font face="Courier New, Courier, mono" size="2"><b>APPLIED
+      SIGNAL TECHNOLOGY, INC.<br>
+      CONDENSED CONSOLIDATED BALANCE SHEETS<br>
+      </b>(in thousands)</font> </td>
+  </tr>
+  <tr bgcolor="#FFFFCC" valign="top">
+    <td width="252" height="71"><font face="Courier New, Courier, mono" size="2">&nbsp;</font></td>
+    <td align="center" colspan="2" height="71">
+      <p><b><font face="Courier New, Courier, mono" size="2">October 31 ,<br>
+        2004<br>
+        -----------</font></b></p>
+    </td>
+    <td align="center" colspan="2" height="71"><b><font face="Courier New, Courier, mono" size="2">October
+      31,<br>
+      2003<br>
+      -----------</font></b></td>
+  </tr>
+  <tr bgcolor="#CCCCCC" valign="top">
+    <td colspan="5" align="center"><font face="Courier New, Courier, mono" size="2"><b><br>
+      ASSETS</b></font> </td>
+  </tr>
+  <tr valign="top">
+    <td width="252" bgcolor="#FFFFCC"><font face="Courier New, Courier, mono" size="2">Current
+      assets:</font></td>
+    <td align="right" width="11" bgcolor="#FFFFCC"><font face="Courier New, Courier, mono" size="2">&nbsp;</font></td>
+    <td align="right" width="78" bgcolor="#FFFFCC">&nbsp;</td>
+    <td align="right" width="8" bgcolor="#FFFFCC"><font face="Courier New, Courier, mono" size="2">&nbsp;</font></td>
+    <td align="right" width="97" bgcolor="#FFFFCC">&nbsp;</td>
+  </tr>
+  <tr valign="top">
+    <td width="252" bgcolor="#CCCCCC"><font face="Courier New, Courier, mono" size="2">
+      &nbsp;&nbsp;&nbsp;Cash and cash equivalents</font></td>
+    <td align="right" width="11" bgcolor="#CCCCCC"><font face="Courier New, Courier, mono" size="2">$</font></td>
+    <td bgcolor="#CCCCCC"><div align="right"><font size="2" face="Courier New, Courier, mono"> 11,227&nbsp;&nbsp;</font></div></td>
+    <td align="right" width="8" bgcolor="#CCCCCC"><font face="Courier New, Courier, mono" size="2">$</font></td>
+    <td align="right" width="97" bgcolor="#CCCCCC"><font face="Courier New, Courier, mono" size="2">
+      5,372&nbsp; </font></td>
+  </tr>
+  <tr valign="top">
+    <td width="252" bgcolor="#FFFFCC"><font face="Courier New, Courier, mono" size="2">
+      &nbsp;&nbsp;&nbsp;Short term investments</font></td>
+    <td align="right" width="11" bgcolor="#FFFFCC">&nbsp;</td>
+    <td bgcolor="#FFFFCC"><div align="right"><font size="2" face="Courier New, Courier, mono">32,615&nbsp;&nbsp; </font></div></td>
+    <td align="right" width="8" bgcolor="#FFFFCC"><font face="Courier New, Courier, mono" size="2">&nbsp;</font></td>
+    <td align="right" width="97" bgcolor="#FFFFCC"><font face="Courier New, Courier, mono" size="2">
+      34,747&nbsp;</font></td>
+  </tr>
+  <tr valign="top">
+    <td width="252" bgcolor="#CCCCCC"><font face="Courier New, Courier, mono" size="2">
+      &nbsp;&nbsp;&nbsp;Accounts receivable</font></td>
+    <td align="right" width="11" bgcolor="#CCCCCC"><font face="Courier New, Courier, mono" size="2">&nbsp;</font></td>
+    <td bgcolor="#CCCCCC"><div align="right"><font size="2" face="Courier New, Courier, mono">43,768&nbsp;&nbsp;</font></div></td>
+    <td align="right" width="8" bgcolor="#CCCCCC"><font face="Courier New, Courier, mono" size="2">&nbsp;
+      </font></td>
+    <td align="right" width="97" bgcolor="#CCCCCC"><font face="Courier New, Courier, mono" size="2">
+      26,562&nbsp;</font></td>
+  </tr>
+  <tr valign="top">
+    <td width="252" bgcolor="#FFFFCC"><font face="Courier New, Courier, mono" size="2">
+      &nbsp;&nbsp;&nbsp;Inventory</font></td>
+    <td align="right" width="11" bgcolor="#FFFFCC"><font face="Courier New, Courier, mono" size="2">&nbsp;</font></td>
+    <td bgcolor="#FFFFCC"><div align="right"><font size="2" face="Courier New, Courier, mono">5,392&nbsp;&nbsp; </font></div></td>
+    <td align="right" width="8" bgcolor="#FFFFCC"><font face="Courier New, Courier, mono" size="2">&nbsp;</font></td>
+    <td align="right" width="97" bgcolor="#FFFFCC"><font face="Courier New, Courier, mono" size="2">
+      6,875&nbsp;</font></td>
+  </tr>
+  <tr valign="top">
+    <td width="252" bgcolor="#CCCCCC"><font face="Courier New, Courier, mono" size="2">
+      &nbsp;&nbsp;&nbsp;Prepaids and other current<br>
+      &nbsp;&nbsp;&nbsp;assets</font></td>
+    <td align="right" bgcolor="#CCCCCC"><font face="Courier New, Courier, mono" size="2">&nbsp;</font></td>
+    <td align="right" bgcolor="#CCCCCC"><p><font face="Courier New, Courier, mono" size="2">4,340 &nbsp;<br>
+- --------</font></p>
+    </td>
+    <td align="right" bgcolor="#CCCCCC"><font face="Courier New, Courier, mono" size="2">&nbsp;</font></td>
+    <td align="right" width="97" bgcolor="#CCCCCC"><font face="Courier New, Courier, mono" size="2">
+      3,545&nbsp;<br>
+      --------</font></td>
+  </tr>
+  <tr valign="top">
+    <td width="252" bgcolor="#FFFFCC"><font face="Courier New, Courier, mono" size="2">
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Total current assets</font></td>
+    <td align="right" width="11" bgcolor="#FFFFCC"><font face="Courier New, Courier, mono" size="2">&nbsp;</font></td>
+    <td align="right" bgcolor="#FFFFCC"><font size="2" face="Courier New, Courier, mono">97,342&nbsp;</font>&nbsp;</td>
+    <td align="right" width="8" bgcolor="#FFFFCC"><font face="Courier New, Courier, mono" size="2">&nbsp;</font></td>
+    <td align="right" width="97" bgcolor="#FFFFCC"><font face="Courier New, Courier, mono" size="2">77,101&nbsp;</font><font face="Courier New, Courier, mono" size="2">
+      </font></td>
+  </tr>
+  <tr valign="top">
+    <td width="252" bgcolor="#CCCCCC"><font face="Courier New, Courier, mono" size="2">Property
+      and equipment, at cost</font></td>
+    <td align="right" width="11" bgcolor="#CCCCCC"><font face="Courier New, Courier, mono" size="2">&nbsp;</font></td>
+    <td align="right" width="78" bgcolor="#CCCCCC"><font size="2" face="Courier New, Courier, mono">63,105&nbsp;</font></td>
+    <td align="right" width="8" bgcolor="#CCCCCC"><font face="Courier New, Courier, mono" size="2">&nbsp;</font></td>
+    <td align="right" width="97" bgcolor="#CCCCCC"><font face="Courier New, Courier, mono" size="2">59,138&nbsp;
+      </font></td>
+  </tr>
+  <tr valign="top">
+    <td height=24 class=xl24 style='height:18.0pt' width="252" bgcolor="#FFFFCC"><font face="Courier New, Courier, mono" size="2">Accumulated
+      depreciation and amortization</font></td>
+    <td align="right" width="11" bgcolor="#FFFFCC"><font face="Courier New, Courier, mono" size="2">&nbsp;</font></td>
+    <td align="right" width="78" bgcolor="#FFFFCC">
+      <div align="right"><font face="Courier New, Courier, mono" size="2"> (50,682)<br>
+      --------</font></div>
+    </td>
+    <td align="right" width="8" bgcolor="#FFFFCC"><font face="Courier New, Courier, mono" size="2">&nbsp;</font></td>
+    <td align="right" width="97" bgcolor="#FFFFCC">
+      <font face="Courier New, Courier, mono" size="2"> (46,897)<br>
+        --------</font>
+    </td>
+  </tr>
+  <tr valign="top">
+    <td width="252" bgcolor="#CCCCCC"><font face="Courier New, Courier, mono" size="2">Net
+      property and equipment</font></td>
+    <td align="right" width="11" bgcolor="#CCCCCC"><font face="Courier New, Courier, mono" size="2">&nbsp;</font></td>
+    <td align="right" width="78" bgcolor="#CCCCCC"><font face="Courier New, Courier, mono" size="2">12,423&nbsp;
+      </font></td>
+    <td align="right" width="8" bgcolor="#CCCCCC"><font face="Courier New, Courier, mono" size="2">&nbsp;</font></td>
+    <td align="right" width="97" bgcolor="#CCCCCC"><font face="Courier New, Courier, mono" size="2">
+      12,241&nbsp;</font></td>
+  </tr>
+  <tr valign="top">
+    <td height=24 class=xl24 style='height:18.0pt' width="252" bgcolor="#FFFFCC"><font face="Courier New, Courier, mono" size="2">Other
+      assets</font></td>
+    <td align="right" width="11" bgcolor="#FFFFCC"><font face="Courier New, Courier, mono" size="2">&nbsp;</font></td>
+    <td align="right" width="78" bgcolor="#FFFFCC"><font face="Courier New, Courier, mono" size="2">      1,687&nbsp;<br>
+    --------</font></td>
+    <td align="right" width="8" bgcolor="#FFFFCC"><font face="Courier New, Courier, mono" size="2">&nbsp;</font></td>
+    <td align="right" width="97" bgcolor="#FFFFCC"><font face="Courier New, Courier, mono" size="2">
+      605&nbsp;<br>
+      --------</font></td>
+  </tr>
+  <tr valign="top">
+    <td height=24 class=xl24 style='height:18.0pt' width="252" bgcolor="#CCCCCC"><font face="Courier New, Courier, mono" size="2">Total
+      assets</font></td>
+    <td align="right" width="11" bgcolor="#CCCCCC"><font face="Courier New, Courier, mono" size="2">$</font></td>
+    <td align="right" width="78" bgcolor="#CCCCCC"><font face="Courier New, Courier, mono" size="2">111,452&nbsp;<br>
+    ======== </font></td>
+    <td align="right" width="8" bgcolor="#CCCCCC"><font face="Courier New, Courier, mono" size="2">$</font></td>
+    <td align="right" width="97" bgcolor="#CCCCCC"><font face="Courier New, Courier, mono" size="2">
+      89,947 <br>
+      ======== </font></td>
+  </tr>
+  <tr bgcolor="#FFFFCC" valign="top">
+    <td colspan="5" align="center"><font face="Courier New, Courier, mono" size="2"><br>
+      <b>LIABILITIES AND SHAREHOLDERS' EQUITY</b></font> </td>
+  </tr>
+  <tr bgcolor="#CCCCCC" valign="top">
+    <td height=24 class=xl24 style='height:18.0pt' width="252"><font face="Courier New, Courier, mono" size="2">Current
+      liabilities:</font></td>
+    <td align="right" width="11"><font face="Courier New, Courier, mono" size="2">&nbsp;</font></td>
+    <td align="right" width="78">&nbsp;</td>
+    <td align="right" width="8"><font face="Courier New, Courier, mono" size="2">&nbsp;</font></td>
+    <td align="right" width="97"><font face="Courier New, Courier, mono" size="2">&nbsp;</font></td>
+  </tr>
+  <tr bgcolor="#FFFFCC" valign="top">
+    <td height=24 class=xl24 style='height:18.0pt' width="252"><font face="Courier New, Courier, mono" size="2">
+      &nbsp;&nbsp;&nbsp;Accounts payable, accrued<br>
+      &nbsp;&nbsp;&nbsp;payroll and benefits</font></td>
+    <td align="right" width="11"><font face="Courier New, Courier, mono" size="2">$</font></td>
+    <td align="right">
+      <font size="2" face="Courier New, Courier, mono">18,319&nbsp;&nbsp; </font>
+    </td>
+    <td align="right" width="8"><font face="Courier New, Courier, mono" size="2">$</font></td>
+    <td align="right" width="97"><font face="Courier New, Courier, mono" size="2">10,579&nbsp;</font><font size="3" face="Courier New, Courier, mono"></font><font face="Courier New, Courier, mono" size="2">
+      </font></td>
+  </tr>
+  <tr bgcolor="#CCCCCC" valign="top">
+    <td height=24 class=xl24 style='height:18.0pt' width="252"><font face="Courier New, Courier, mono" size="2">
+      &nbsp;&nbsp;&nbsp;Other accrued liabilities</font></td>
+    <td align="right" width="11"><font face="Courier New, Courier, mono" size="2">&nbsp;</font></td>
+    <td align="right"><font size="2" face="Courier New, Courier, mono">3,462&nbsp;&nbsp;</font>
+    </td>
+    <td align="right" width="8"><font face="Courier New, Courier, mono" size="2">&nbsp;</font></td>
+    <td align="right" width="97"><font face="Courier New, Courier, mono" size="2">2,967&nbsp;</font>
+    </td>
+  </tr>
+  <tr bgcolor="#ffffcc" valign="top">
+    <td width="252" height=24 class=xl24 style='height:18.0pt'><font face="Courier New, Courier, mono" size="2">
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Total current liabilities</font></td>
+    <td align="right"><font face="Courier New, Courier, mono" size="2">&nbsp;</font></td>
+    <td align="right"><font size="2" face="Courier New, Courier, mono">21,781&nbsp;&nbsp;</font></td>
+    <td align="right"><font face="Courier New, Courier, mono" size="2">&nbsp;</font></td>
+    <td width="97" align="right"><font face="Courier New, Courier, mono" size="2">
+      13,546&nbsp; </font></td>
+  </tr>
+  <tr bgcolor="#ccccCC" valign="top">
+    <td width="252" height=24 class=xl24 style='height:18.0pt'><font face="Courier New, Courier, mono" size="2">
+      &nbsp;&nbsp;&nbsp;Other liabilities</font></td>
+    <td align="right"><font face="Courier New, Courier, mono" size="2">&nbsp;</font></td>
+    <td align="right"><font face="Courier New, Courier, mono" size="2">305</font><font face="Courier New, Courier, mono" size="2">&nbsp;&nbsp;</font> </td>
+    <td align="right"><font face="Courier New, Courier, mono" size="2">&nbsp;</font></td>
+    <td align="right"><font face="Courier New, Courier, mono" size="2">
+      183&nbsp; </font></td>
+  </tr>
+  <tr bgcolor="#ffffcc" valign="top">
+    <td width="252" height=24 class=xl24 style='height:18.0pt'><font face="Courier New, Courier, mono" size="2">Shareholders'
+      equity</font></td>
+    <td width="11" align="right"><font face="Courier New, Courier, mono" size="2">&nbsp;</font></td>
+    <td width="78" align="right"><font size="2" face="Courier New, Courier, mono">&nbsp;</font><font face="Courier New, Courier, mono" size="2">89,366&nbsp;<br>
+    -------- </font></td>
+    <td width="8" align="right"><font face="Courier New, Courier, mono" size="2">&nbsp;</font></td>
+    <td width="97" align="right"><font face="Courier New, Courier, mono" size="2">
+      76,218 <br>
+      --------</font></td>
+  </tr>
+  <tr bgcolor="#cccccc" valign="top">
+    <td width="252" height=24 class=xl24 style='height:18.0pt'><font face="Courier New, Courier, mono" size="2">Total
+      liabilities and shareholders' equity</font></td>
+    <td width="11" align="right"><font face="Courier New, Courier, mono" size="2">$</font></td>
+    <td width="78" align="right"><font face="Courier New, Courier, mono" size="2">111,452&nbsp;<br>
+    ======== </font></td>
+    <td width="8" align="right"><font face="Courier New, Courier, mono" size="2">$</font></td>
+    <td width="97" align="right"><font face="Courier New, Courier, mono" size="2">
+      89,947 <br>
+      ========</font></td>
+  </tr>
+</table>
+<p><font size="3" face="Courier New, Courier, mono"><font size="2"> </font></font></p>
+<hr>
+<p><font size="4" face="Arial, Helvetica, sans-serif"><b><a name="992"></a>Exhibit
+  99.2<br>
+  <font size="3">Transcript of conference call held on December 21, 2004</font></b></font></p>
+<p>&nbsp;</p>
+<p><font face="Arial, Helvetica, sans-serif" size="4"><b><font size="3">PARTICIPANTS</font></b></font></p>
+<p><font face="Times New Roman, Times, serif" size="3">Gary L. Yancey &#150; Chairman,
+  President, CEO<br>
+  James Doyle &#150; CFO</font></p>
+<p>&nbsp;</p>
+<p><font face="Arial, Helvetica, sans-serif" size="3"><b>MANAGEMENT DISCUSSION
+  SECTION</b></font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>Operator:</strong> </font> <font size="2" face="Geneva, Arial, Helvetica, sans-serif">Good afternoon, ladies and gentlemen. Welcome to the Applied Signal Technology fourth quarter 2004 earnings conference call. At this time all participants are in a listen-only mode. A brief question-and-answer session will follow the formal presentation. If anyone should require operator assistance during the conference please press star 0 on your telephone keypad. As a reminder, this conference is being recorded.</font></p>
+<p><font size="2" face="Geneva, Arial, Helvetica, sans-serif"> It is now my pleasure to introduce your host, Mr. Gary Yancey, President and CEO of Applied Signal Technology.</font></p>
+<font size="2" face="Geneva, Arial, Helvetica, sans-serif">Thank you, Mr. Yancey, you may begin.
+</font>
+<p><font size="2" face="Geneva, Arial, Helvetica, sans-serif"> <strong>Gary Yancey, Chairman, President, and CEO </strong></font></p>
+<p>  <font size="2" face="Geneva, Arial, Helvetica, sans-serif">And thank you, Mandy. And I would like to welcome everybody this afternoon to our call on our 2004 earnings results. We'll follow the same format that we typically do, and I'll let Jim Doyle, our Chief Financial Officer, summarize the financial results for all of 2004, and then we will come back to a couple of comments of mine, and then we'll open it up for questions. </font></p>
+<font size="2" face="Geneva, Arial, Helvetica, sans-serif">So with that, Jim, I'll turn it over to you.
+</font>
+<p><font size="2" face="Geneva, Arial, Helvetica, sans-serif"> <strong>James Doyle, CFO and Vice President of Finance </strong></font></p>
+<p>  <font size="2" face="Geneva, Arial, Helvetica, sans-serif">Thanks Gary. Good afternoon everyone. I'm going to review our financial performance, but first let me review our Safe Harbor statement. </font></p>
+<p><font size="2" face="Geneva, Arial, Helvetica, sans-serif"> Our presentation today may contain forward-looking statements which reflect the company's current judgment on future events. Because these statements deal with future events they are subject to risks and uncertainties that could cause the actual results to differ materially. In addition to the factors that may be discussed in this call, important factors which could cause actual results to differ materially are contained in the company's recent 10-Qs and 10-K. </font></p>
+<p><font size="2" face="Geneva, Arial, Helvetica, sans-serif"> We're very pleased with our fiscal '04 results. The company booked approximately 200 million in new orders during fiscal 2004 compared to approximately 140 million during fiscal 2003. Fiscal 2004 produced record revenues of about 142.8 million, representing a 50% increase, compared to revenues of about 95.4 million recorded during fiscal 2003. </font></p>
+<p><font size="2" face="Geneva, Arial, Helvetica, sans-serif"> Our backlog at the end of fiscal 2004 increased to a record 143.4 million compared to 87.1 million at the end of fiscal 2003. During June 2004 we received a stop work order instructing us to stop work on a portion of our largest contract. We estimate that the negotiation of this stopped effort will be completed during the first or second quarter of fiscal 2005 and will reduce orders and backlog during that period by approximately 11 to $13 million. </font></p>
+<p><font size="2" face="Geneva, Arial, Helvetica, sans-serif"> Operating income for fiscal 2004 grew nicely with the revenue growth. Our operating income for fiscal '04 was approximately 17.4 million, compared to approximately 9.2 million recorded during fiscal 2003. Our significant improvement in operating income during fiscal '04 was due in part to our growth in revenues and in part to an increase in profitability generated from the sale of certain products. </font></p>
+<p><font size="2" face="Geneva, Arial, Helvetica, sans-serif"> The effective tax rate for fiscal 2004 is approximately 33%, compared to approximately 11% in fiscal '03. We estimate that our fiscal 2005 effective tax rate will be in the 38 to 40% range. All the activity that I've mentioned above resulted in about $12 million of net income or about $1.03 per diluted share for fiscal '04, compared to about 8.7 million of net income, or 80 cents per diluted share, recorded during fiscal 2003. </font></p>
+<p><font size="2" face="Geneva, Arial, Helvetica, sans-serif"> We continue to believe that there is a renewed interest in signal intelligence by the U.S. Government to respond to the threat of terrorist activities and the war against terrorism. And we also believe that our company is well positioned to benefit from the spending that might result. </font></p>
+<p><font size="2" face="Geneva, Arial, Helvetica, sans-serif"> Now let me turn your attention to our balance sheet. As you can see, it continues to improve and is still very strong. Cash and short-term investments were approximately 44 million at the end of '04. This includes the payment of approximately 4.8 million in dividends. During our November 2004 board meeting, our directors approved the continuation of the annual dividend of 50 cents per share payable at a quarterly rate of 12.5 cents per share. </font></p>
+<p><font size="2" face="Geneva, Arial, Helvetica, sans-serif"> Our accounts receivable totals are approximately 43.8 million. Included in those accounts receivable numbers are billed receivables of about 23.4 million and unbilled receivables of about 20.4. As far as liabilities, there continues to be no debt which continues to provide us with significant liquidity. </font></p>
+<p><font size="2" face="Geneva, Arial, Helvetica, sans-serif"> That's my overview of the financials. I know Gary's got some comments. I'll turn it back to him, then we'll open it up for questions. </font></p>
+<p><font size="2" face="Geneva, Arial, Helvetica, sans-serif"> <strong>Gary Yancey, Chairman, President, and CEO </strong></font></p>
+<p>  <font size="2" face="Geneva, Arial, Helvetica, sans-serif">Thanks, Jim. The main thing I would emphasize is what was in the press release as well, and that is that the company is investing in diversification into other areas of signal intelligence. In particular, we're starting the division that will be centered in Plano, Texas, to get into electronic intelligence, which is the intelligence (inaudible) on command and control signals from weapons systems, and it's our belief that the government will be continuing to invest and actually increasing (inaudible) in this particular area. </font></p>
+<p><font size="2" face="Geneva, Arial, Helvetica, sans-serif"> Again, we think this is a time at which the company is quite healthy in its core marketplace, which is communications intelligence gathering, or SIGINT, or signal intelligence, against communications systems, and so we believe that this is a good time to be diverting some of our investments into a diversified area and expand our marketplace. That will expand the number of customers as well as the available budget and look to those areas for growth. So you'll be seeing us commenting on this over the next year to come as to how the marketplace is going. </font></p>
+<p><font size="2" face="Geneva, Arial, Helvetica, sans-serif"> I second Jim's comments about how pleased we are with this year's financial results. And obviously they show major strength for the company. </font></p>
+<p><font size="2" face="Geneva, Arial, Helvetica, sans-serif"> With that, we will open it up for questions. </font></p>
+<p><font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>QUESTION AND ANSWER SECTION </strong></font></p>
+<p><font size="2" face="Geneva, Arial, Helvetica, sans-serif"> <strong>Operator</strong>: Thank you. Ladies and gentlemen, at this time we will be conducting a question-and-answer session. If you would like to ask a question please press star 1 on your telephone keypad. A confirmation tone will indicate your line is in the question queue. To remove your question from the queue please press star 2. For participants using speaker equipment, it may be necessary to pick up your handset before pressing the star keys. </font></p>
+<p><font size="2" face="Geneva, Arial, Helvetica, sans-serif"> Our first question is from Mr. Steve Levenson from Advest. Please proceed with your question. </font></p>
+<p><font size="2" face="Geneva, Arial, Helvetica, sans-serif"> Our first question comes from Steve Levenson with Advest. </font></p>
+<p><font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong> &lt;Q&gt;: </strong>Good afternoon, Gary and Jim. </font></p>
+<p><font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong> &lt;A&gt;:</strong> Hey, Steve.</font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;Q&gt;: </strong> Your expansion into the electronic intelligence area is that related directly to some of these comments coming out of the Pentagon that the military wants to participate more in the collection of intelligence and if so, is some of that business already in that order and backlog number? </font></p>
+<p class="style7"> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;A&gt;: </strong>None of that business is in the order and backlog number, Steve. We're looking to expand into that area and add backlog in '05 for that. It was serendipitous that the comment came that the Pentagon is planning on getting more involved in intelligence gathering. I just picked up on that yesterday myself. I think that's all forms of signal intelligence. I think absolutely it will support the investments in electronic intelligence that we're expanding into and also it supports our basic communications intelligence area, in particular the military airborne programs and military ground-based opportunities that we have.</font></p>
+<p class="style6"><font size="2" face="Geneva, Arial, Helvetica, sans-serif"> As you know we have many military airborne programs already for SIGINT, and I think this is just representing the recognition, if you like, that the military is going to be one of the main branches of the U.S. Government relied upon to be gathering intelligence around the world when they're performing the counterterrorism campaign. </font></p>
+<p class="style6"> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;Q&gt;:</strong> In relation to that, I know you had spoken in the past about measurement and signature intelligence a little bit. Can you please tell us about the efforts there? And, again, is any of the backlog related thereto? </font></p>
+<p class="style6"> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;A&gt;: </strong>None of the backlog is&#8212; by the way, the acronym for that sometimes is MASINT M-A-S-I-N-T. None of the backlog represents that as well. That is another area that we are looking to diversify into. If you'll notice, a lot of what the Department of Homeland Security, DHS, is concentrating on right now is more in the area of what we would term MASINT, the tracking of shipping containers, the tracking of potentially of weapons of mass destruction, that type of intelligence gathering. Again, we think that the government will be investing heavily there, and we are intending to expand into that area as well. But that does not reflect any of the current backlog. </font></p>
+<p class="style6"> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;Q&gt;: </strong>Okay. And last, to give someone else a chance, how many people are you able to add during the quarter and what are you looking to add over the next year including Plano? </font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;A&gt;:</strong> Jim, you know the number on the last quarter. </font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><<strong>&lt;A&gt;: </strong>Sure. Net, we added about 20 people during the quarter. We're up to about 500 people right now, Steve. I'd be happy to keep going, Gary. Do you want to add some color on the projections? However you want to do that.</font></p>
+<font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;A&gt;:</strong> Again, you know that we have a few swingers in our bookings forecast for next year. The number that we could be adding next year could be between 50 to 100 plus, and that would be a net increase, and that would depend on a couple of the larger programs that are competitive, and whether they would go our way or not. Plano right now we believe will be 15 people or 15 plus by the end of the year.
+</font>
+<p class="style6"><font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;Q&gt;: </strong>Thanks very much and hope you have good holidays. </font></p>
+<p><font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;A&gt;:</strong> Thanks, Steve. </font></p>
+<p class="style6"><font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>Operator:</strong></font></p>
+<p class="style6"><font size="2" face="Geneva, Arial, Helvetica, sans-serif"> Thank you. Our next question is from Mr. Grant Tenaka from Tenaka Capital Management. </font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;Q&gt;: </strong>Hi, guys. Just a little bit more on the electronic intelligence efforts which I see are multifaceted in terms of really a few markets. I just was wanting, in terms of project size for initial wins if you are to get them, would they be smaller wins or larger wins relative to what you're used to on the SIGINT size? What would be the bidding process? Would they be similar or different profit margins? And then competitors. </font></p>
+<p class="style6"> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;A&gt;: </strong>The competitors a lot of times run the same names that you hear all the time in SIGINT grad (ph), and that would be a lot of times the name brand companies that you know about, you know, because of the consolidation. L3 Com of course being one, divisions of Lockheed Martin, divisions of Northrop. In terms of the wins, we won't be starting out with an attempt into a major program. Since we're growing this internally, we will be starting working smaller opportunities that can give us presence in the marketplace. In the meantime, we'll be exposing ourselves to some of these name brand companies to, instead of compete with them, you know, represent ourselves as a second source or second tier supplier to these companies. So I would not expect major award announcements in this area of (inaudible) in our first year, perhaps two years, of business, but we expect it to be growing at a pretty good clip. </font></p
+>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;Q&gt;: </strong>So not large in the first year or two, did you say?</font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;A&gt;: </strong>Not in the first year, for sure. This will be major investment on the company's part to be able to get a capability that is demonstrable in the area of ELINT and we have a number of programs that we're targeting, but we're going to be a new player on the block. So this will be a bit of time before we're recognized as a competent resource.</font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;Q&gt;: </strong>So we're talking about when would break-even be. Actually, I should ask the question: What have you invested in these markets now so far and when might the total operation be break-even? </font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;A&gt;: </strong>Well, so far we've invested the price of this phone call. But beyond that, the investment this year will probably be on the order of $3 million, and I envision a break-even the following year. </font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;Q&gt;: </strong>Break-even in '06?</font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;A&gt;: </strong>Uh-huh.</font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;Q&gt;: </strong>The MASINT market specifically, I just was wondering if you could talk a little bit more about that, particularly DHS, who may seemingly be finally starting to put together in terms of releases.</font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;A&gt;:</strong> Yeah. We really have nothing yet started in the area of MASINT. That is still an intention on our part, is to invest in that particular field of intelligence gathering as well. The Department of Homeland Security is definitely starting to invest, as you very adequately put it, in purchasing capabilities, and the first area that we're seeing that they're investing is more of the line of measurement and signature intelligence, or MASINT. But we're a far cry from there. My feeling will be that over the year of 2005, we will be basically building our investment in that area as we assess the proper part of that marketplace that we should go after.</font></p>
+<p class="style6"><font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong> Operator:</strong></font></p>
+<p class="style6"><font size="2" face="Geneva, Arial, Helvetica, sans-serif"> Thank you. Our next question comes from Mr. Trey Snow from Priority Capital. Please proceed with your question.</font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;Q&gt;:</strong> Hi Gary and Jim. How are you doing?</font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;A&gt;: </strong>Good.</font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;Q&gt;: </strong>Good. If you were to look at the various components of the SIGINT field, what would you say the secular growth rates are of COMINT and LINT and MASINT, just roughly?</font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;A&gt;: </strong>Unfortunately, Trey, you've probably got me on the short edge on that one, in that communications intelligence is still number one the area we understand the most; and number two, the area that's most obviously got major investments going on. What I have seen is that Congress has recommended on the order of 20% year-over-year growth for a number of years to come in intelligence gathering across the board. And I've never seen anything that necessarily breaks that down beyond that point, you know, beyond just intelligence gathering. So I'm pretty hard-pressed to comment on that in that I've not read anything.</font></p>
+<p class="style6"><font size="2" face="Geneva, Arial, Helvetica, sans-serif"> I believe all of these &#8212; I know all of these are marketplaces that are large enough, right now, for a company our size, that we can still muscle in for quite some time. In terms of the actual growth in investment, the best number I know is the one I just gave, and that's kind of across the board for all intelligence gathering.</font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;Q&gt;:</strong> Right. What about, do you know a dollar figure on sort of &#8212;</font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;A&gt;:</strong> Last that we knew it was stated that the part of the defense budget that is oriented towards intelligence gathering is about $40 billion; and, again, that's &#8212; the congressional recommendation on that was 20% year-over-year growth. Doesn't mean 20% obviously year over year on defense budget, but it could be a refocusing of the investment on the government's part.</font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;Q&gt;: </strong>Right. Okay. Couple other questions. With the Plano operations, are you going to have &#8212; or what are going to be your start-up costs there?</font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;A&gt;: </strong>That was the number that I was estimating, about $3 million.</font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;Q&gt;: </strong>So that's all in, you think?</font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;A&gt;: </strong>Excuse me?</font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;Q&gt;: </strong>Between facilities and personnel you think you'll do it for 3 million.</font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;A&gt;: </strong>And some independent R&amp;D investment. We have some ideas already of some capabilities that we want to invest in and be a supplier of a product.</font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;Q&gt;: </strong>Okay. And balance &#8212; couple of quick balance sheet questions. We've seen inventory write-offs I think now five of the last six quarters. What is happening with that, and how much of this potential inventory is still left on the books that might be written off?</font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;A&gt;: </strong>What we did a couple of years ago, Trey, was we went through a more aggressive review of our inventory, and we started a process we are looking at on a quarterly basis, and we had some older inventory in there. We have long product lifecycles, and some of the stuff was getting &#8212; some of our inventory was getting older, the lifecycle was coming to an end, and we've been getting rid of that inventory, and we're very comfortable right now that the inventory we've got has been scrubbed very well.</font></p>
+<p class="style6"><font size="2" face="Geneva, Arial, Helvetica, sans-serif"> I don't see any &#8212; all the inventory I see right now is very current, current meaning within the last couple of years. The equipment's been built and it's been selling. So, you know, we had to write off inventories that were going back a number of years into the '90s, and we made the decision after September 11th to hold on to some of that equipment.</font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;Q&gt;: </strong>Right.</font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;A&gt;: </strong>Because we didn't know how it was going to be deployed, so we said let's hang onto this for awhile so we've done a pretty thorough job of scrubbing that. We've got a good review process in place. So I'm pretty comfortable with that.</font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;Q&gt;:</strong> Is that stuff scrapped, or is it possible that you might be able to resell it?</font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;A&gt;: </strong>No, we scrap it, Trey.</font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;Q&gt;: </strong>And last question. Receivables took a pretty big jump this quarter. Was that just timing on getting paid, or are you having trouble with any of the customers?</font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;A&gt;:</strong> No, it was more timing of getting paid is all.</font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;Q&gt;: </strong>Thanks, guys. Good luck with the new venture.</font></p>
+<p class="style6"><font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong> Operator:</strong></font></p>
+<p class="style6"><font size="2" face="Geneva, Arial, Helvetica, sans-serif"> Our next question is from Mr. David Gremmels from Thomas Weisel Partners. Please proceed with your question.</font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;A&gt;: </strong>Hi, David. </font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;Q&gt;: </strong>You know, obviously your new order bookings were particularly strong even given the fact that Q4 is, you know, a seasonally strong quarter for new orders. Were there any particularly large wins in there?</font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;A&gt;: </strong>There was &#8212; go ahead, Jim.</font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;A&gt;:</strong> I was going to talk, Gary, about the Army orders, but you probably give better color on that than I do.</font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;A&gt;:</strong> I guess we both clammed up then. We don't happen to be at the same conference call center, is the problem here, guys, so we can't do eye contact so that we can give you the canned answer, not that we ever do.</font></p>
+<p class="style6"><font size="2" face="Geneva, Arial, Helvetica, sans-serif"> Anyhow, Jim's exactly right: It was the Army airborne program, and I believe on the order of 25 to 30 million.</font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;A&gt;: </strong>Yes, that's correct.</font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;A&gt;: </strong>And this was for two more of the airborne platforms, which had been predicted, two more as we're developing currently as well as the start of a development for a system for yet another platform, and that doesn't go as far as actually producing a SIGINT platform yet. That's still the systems engineering for that. So we believe that represented a lot of strength in this airborne SIGINT area which we've been believing all along will show us a lot of growth opportunity.</font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;Q&gt;: </strong>And you've talked about a competitive opportunity by year-end, or shortly thereafter. Are you still on track for a decision in the near term on that one, and what would that contribute to '05 revenues if you were to win it?</font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;A&gt;: </strong>Well, we're on track. We just don't know if the government is. The government has said they will make their decision mid-January, and they've been sticking by that pretty well and, you know, we get a little &#8212; with holidays and all it slows processes down. This is a fairly good sized award. They'll be very cautious in their decision process as we've watched the government over the years with these kinds of awards. What does that represent, Jim? 3, 4 million in revenue? 5 million in possible revenue, probably?</font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;A&gt;: </strong>Yeah, easy, Gary, if we were to win that in '05, yes.</font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;A&gt;: </strong>Okay. Perhaps even more, David.</font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;A&gt;: </strong>Yeah.</font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;Q&gt;: </strong>So kind of low single digits in the first year, then I guess ramping up pretty strongly thereafter?</font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;A&gt;: </strong>Yes, towards the end and into '06, yes.</font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;A&gt;: </strong>Pretty heavy ramp in '05. We're going to be scrambling a fair amount. That will put a good stress on our hiring requirements.</font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;Q&gt;: </strong>So on that subject, as we look into '05, do you have an outlook there? You've talked about 20 to 25% organic growth in the past. Looking at this level of new order bookings, it seems like there may be some upside to that number. Could you make a comment on that?</font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;A&gt;:</strong> I probably wouldn't take upside on that number yet because this was weighted in part of those projections all along as we would weight a program in this particular case, two competing teams. Therefore, we weighted it 50% probability. So it really is one of the many contributors to that. See, you have to have a lot of wins, and our wins sometimes are sole-source contracts so they wouldn't really be thought of as a win in a competition, but they still really are in terms of you get a contract executed, and you have to have those fairly early in the year, and then some of these competitive wins all will have the majority of the competitive wins go our way before we really get upside. So I'd be reluctant right now to suggest upside over that kind of guidance.</font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;Q&gt;: </strong>And in terms of profitability in '05, you're going to be spending some money to develop the ELINT business line. You've talked about 10.5 to 11% operating margins. Does that factor in that development on the ELINT side?</font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif">&lt;A&gt;: Really not, because you remember with government accounting, we can actually bill our independent R&amp;D costs as well and this will still be out of our independent R&amp;D pool. So this is really more of a shift in our emphasis on investment from the core business plays into the new area. And the reason for that is that we feel, with the visibility that we have, that the investments that we've been making in communications intelligence will be paying off quite well and are resulting in a lot of both R&amp;D contracts as well as production contracts to keep growing that area so we think this is a smart time to be diverting some of that investment into a new area. So the bottom line is that investment is, in itself, will have no impact on operating income margins on percentages.</font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;A&gt;:</strong> We anticipate, David, all those costs will be recoverable and we'll include them in our billing rates to our customers.</font></p>
+<p class="style6"><font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong> Operator:</strong></font></p>
+<p class="style6"><font size="2" face="Geneva, Arial, Helvetica, sans-serif"> Thank you. Our next question is from Mr. Jeff Madden from Iron Bridge Capital Management. Please proceed with your question.</font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;Q&gt;: </strong>Hi. How's it going? Quick question regarding R&amp;D as a percent of sales. Looks as if you've increased it by about 2% in '04, 9.9% from 7.9 in '03. Historically you've been all the way up to 23%. On a long-term basis, where do you think you're going to be coming out?</font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;A&gt;: </strong>Go ahead, Jim.</font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;A&gt;: </strong>Jeff, we target 11 to 12% revenue for R&amp;D spending, and we're trying to get back to that model. In '03 we did spend significantly less on R&amp;D as a percentage of revenue than we did in '04.</font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;Q&gt;: </strong>Right.</font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;A&gt;: </strong>And part of that was we were understaffed; we got a lot of work coming in at the end of '03. And in '04 we were &#8212; we successfully met the staffing challenge, and we thought that it was prudent to continue to invest in R&amp;D. So we wanted to grow that, so we did, and we came in at around 10% of revenue. And we think we'll be in that range, 11 to 12% of revenue in the years to come.</font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;Q&gt;:</strong> Long-term tax rate, right around 38% or so?</font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;A&gt;: </strong>Yeah. 38 to 40. We've planned 39%. There's not a lot of things that we can do about that.</font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;Q&gt;: </strong>Is there any thought of bumping your dividend at all? Clearly there's opportunity to use your cash, but is that something that the board is considering?</font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;A&gt;: </strong>They've reviewed that on an annual basis, and I believe we just have to wait and see next year, you know, how things are going, and they'll review it. I think that's the best answer that we have. Unless, Gary, you had anything you wanted to add on that.</font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;A&gt;:</strong> I didn't quite get the question, Jeff.</font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;Q&gt;: </strong>Just with your dividend, if there's &#8212; clearly you have some use for cash with different opportunities. But have you guys discussed bumping it in the near term at all?</font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;A&gt;: </strong>No, we haven't discussed bumping it. It's pretty healthy, as a percent of our operating margin right now&nbsp;&#8212; income, I'm sorry. And so we haven't discussed it either way. As Jim said, we just voted to keep it at this level for the next year. And so, you know, I personally doubt that we would suggest bumping that and by the same token we wouldn't suggest lowering it either, unless we had a real good investment opportunity that required the cash, and we don't see any of those things on the horizon.</font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;Q&gt;:</strong> Okay. Thanks for answering my questions.</font></p>
+<p class="style6"><font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong> Operator:</strong></font></p>
+<p class="style6"><font size="2" face="Geneva, Arial, Helvetica, sans-serif"> Thank you. Our next question is from Mr. Jay Meier from MJSK Equity Research. Please proceed with your question.</font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;Q&gt;: </strong>Just a couple of quick ones here. We had the charge to inventory during the quarter, but other than &#8212; but also gross margin would have been slightly lower than I would have expected, even despite any potential inventory charges, and it seems to be a little bit lower than you were trending throughout the year. Can you comment on gross profit margin and how you expect that to move going forward?</font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;A&gt;: </strong>Well, part of it in the quarter, Jay, some of this is just the program performance and the program fees that happen during the quarter. And so that's &#8212; that will move around. We had some good quarters as far as program performance goes in the second and third quarter of this fiscal year, fiscal '04. As you know, we're a highly regulated industry. So those profitabilities are pretty well controlled. As far as moving forward, we see a range on operating income in the 10 to 13% range. You know, our history shows that we've been up as high as about 14%, a little over 14% operating income. And, you know, some of that is an issue of what kind of mix of revenue we get, if we get more product sales than engineering effort. But what we're seeing going forward in '05 is a continued amount &#8212; a significant amount of engineering work. We see our engineering work in '05 being similar to the amount of engineering work tha
+t we had in '04, as a percentage of revenue basis. So, you know, I think you'll see our '05 operating income in that range of &#8212; on the 10 to 13% range.</font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;Q&gt;: </strong>Okay. That's fine. And during the fourth quarter, SG&amp;A came in again at 9.5%. We saw it fall throughout the course of the year and it seemed to flatten out in the second half at about 9.5. Is that pretty consistent going forward? How do you expect that to play?</font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;A&gt;: </strong>That might grow some, and the reason that it might grow some is we've purposely held G&amp;A spending down, and we let revenue grow. And we said that at some point we do have to start to increase that G&amp;A spending, plus there's spending that we have to do as far as all the internal controls work for compliance with the Sarbanes-Oxley Act. So we will see some increase in &#8212; or we anticipate some increase in G&amp;A spending in '05.</font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;A&gt;: </strong>We still will use a model of about 12.5% is the good long-range model to hold.</font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;A&gt;: </strong>Yeah, for G&amp;A.</font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;Q&gt;: </strong>And does the &#8212; one more question for you, or two more questions, please. Does the $143 million backlog include &#8212; is that net of any potential debooking?</font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;A&gt;: </strong>That includes the $12 million that has not been debooked.</font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;Q&gt;:</strong> So it's not net of any potential debooking? Includes?</font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;A&gt;: </strong>That's right.</font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;Q&gt;: </strong>And can you comment quickly on your thoughts about the knowledge creation stuff or the database &#8212; data mining applications?</font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;A&gt;: </strong>Well, we absolutely believe &#8212; well, we know, it's not a matter of believing, we know it's an area that the government is investing a fair amount, and it goes along with a lot of what all of us read in the open newsprint daily in terms of the government realizing they have to do a better job of assimilating all the data that's been collected to glean intelligence from that data. We think we can be a resource in that field. We have small, you know, $7 million opportunity right now that, frankly, with our growth last year it got neglected some, did not get staffed at the level it should have been staffed. We are working to do that and to expand our knowledge, I guess I'd say, in that area, but more importantly to get ourselves inserted as a resource to the government. We did invest a fair amount last year in our internal R&amp;D to better understand the problem of kind of call it data mining. That's an overused phra
+se, but it's one I like to use, of data mining and figure out where our SIGINT knowledge and core competency could end up making us a strong resource and we think we still have opportunities there.</font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;Q&gt;:</strong> Would those be &#8212; would you be able to work exclusively off your own capabilities or is that something you might have to look outside for?</font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;A&gt;: </strong>I think it would probably be some of both. We need to build more of those capabilities internally but we have found smaller companies and some of them in the commercial space, by the way, that are into basically data manipulation, database mapping that would also be resources here.</font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;Q&gt;:</strong> Okay. Good. Thank you.</font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;A&gt;: </strong>Thank you.</font></p>
+<p class="style6"><font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong> Operator:</strong></font></p>
+<p class="style6"><font size="2" face="Geneva, Arial, Helvetica, sans-serif"> Thank you. Our next question is from Mr. Chris Donahue of Suntrust. Please proceed with your question.</font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;Q&gt;: </strong>Good afternoon. Question for you on the mix between the engineering work and the production revenue. Sounds like you're not expecting much of a shift going into '05. So what are the implications to gross margin there?</font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;A&gt;: </strong>What we think, Chris, is that range on the operating income side and that 10 to 13%, that's probably &#8212; that's probably a similar range for '05. We think our costs reimbursable contract came in this year, round numbers, about 75% of revenue; 25% were fixed price. So, you know, we see a similar type of component of revenue in '05, and so that will tend to generate operating income in the range of 10 to 13%.</font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;Q&gt;: </strong>Okay. And in 2004 you had a pretty strong nice book-to-bill ratio of about 1.4. Just looking out into '05, does the market seem to suggest that you could sustain that type of bookings going into '05 as well?</font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;A&gt;:</strong> I think, as Gary said, yes; it depends. There's some opportunities in '05. They're competitive opportunities, and if we win those, yeah, I think that we could sustain those kind of book-to-bill ratios. We'll see how we fare in the competition.</font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;Q&gt;: </strong>Another quick question on the gross margin line. The fourth quarter again with a pretty large sequential down-tick. Is this just a seasonal thing that we should be thinking about going forward? You look back at the fourth quarter of '03 and the fourth quarter of '02, it's a pretty healthy down-tick. Is that just something that we should model going forward?</font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;A&gt;:</strong> I don't think so, Chris. I think that some of it is just the nature of the programs going through and how things go in that particular quarter. No, I don't think so.</font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;Q&gt;: </strong>Okay. Thank you.</font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;A&gt;: </strong>Sure.</font></p>
+<p class="style6"><font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong> Operator:</strong></font></p>
+<p class="style6"><font size="2" face="Geneva, Arial, Helvetica, sans-serif"> Thank you. Our next question is coming from Ash Shaw from Merrill Lynch. Please proceed with your question.</font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;Q&gt;: </strong>Hi, how are you? Can you just talk about exactly what percentage of your business this quarter was R&amp;D work, just kind of further trying to understand the gross margin volatility.</font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;A&gt;:</strong> Sure. Approximately 75% was cost reimbursable, Ash, so &#8212;</font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;Q&gt;: </strong>I thought you said that was for the full year.</font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;A&gt;:</strong> Oh, for the quarter, I'm sorry.</font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;A&gt;: </strong>Probably close to the same, though, wasn't it, Jim?</font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;A&gt;: </strong>Let's see. On the revenue side, let's see, it was approximately 71% was research and development, then 28 to 29% was product orders.</font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;Q&gt;:</strong> Give us A little further in detail what causes the volatility in that gross margin.</font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;A&gt;: </strong>I'm sorry?</font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;Q&gt;:</strong> Maybe just give us a little bit more detail on what causes the volatility in the gross margins. Even if you back out the charge, you still have over 300-basis-point decline in gross margin on a sequential basis.</font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;A&gt;: </strong>Some of it is just the timing of when the programs complete, how the program is doing, how different programs are doing at different quarters. I'm not sure, Ash, how to answer that. It's the nature of project work. As you recognize that profitability as you recognize revenue and when one program completes you may get a profit pick up. It depends on the timing of that, of programs going through. I'm not sure if I'm answering your question or not.</font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;A&gt;: </strong>Yeah. One thing to add to that, I think, Ash, is that in the previous two quarters, we actually had some pick-ups that, perhaps, you know, you could say overinflated, but they didn't really overinflate. But once projects were closing out and we realized that we had the profits that we had, obviously we record those. And so perhaps you could've claimed we were being a little conservative in earlier quarters. We obviously didn't think we were. So we've picked up when the projects closed out on the fixed price job. So it's slightly overinflated there. If you will notice, we hit, I think it was right close to the 13% operating margin that, you know, is kind of the top end of the range that we say that we will be hitting. In the operating margin. For the year it was there. It was just this kind of volatility throughout the year.</font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;Q&gt;: </strong>Is that &#8212; I know you said 10 to 13 for next year and going forward. Should we expect you to be at the high end of that range if the mix is going to be the same? Like you were this year?</font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;A&gt;: </strong>That's hard to tell, Ash. I mean, you have to see how programs perform. There's award fee programs that are in the mix, there's how well we can do on some of these fixed price programs. There's &#8212; it's hard to comment. I'm just trying to give you that kind of a range.</font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;Q&gt;: </strong>Okay. And then is the focus program going to be awarded this quarter? I mean, in the March quarter?</font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;A&gt;:</strong> Well, it's supposed to be. That's the one I was referring to earlier that is supposed to be awarded in January.</font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;Q&gt;: </strong>Okay. Thank you.</font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;A&gt;: </strong>The &#8212; yeah. That's the answer on that.</font></p>
+<p class="style6"><font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong> Operator:</strong></font></p>
+<p class="style6"><font size="2" face="Geneva, Arial, Helvetica, sans-serif"> Thank you. Our next question is a follow-up from Mr. Steve Levenson from Advest.</font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;Q&gt;:</strong> Hi again. In the text of the press release you indicated that there was a reduction in revenue during this fiscal year of 3 to $4 million. Did that all come during the fourth quarter?</font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;A&gt;:</strong> Steve, that was our opportunity to have generated that revenue. So it was probably, yeah, that would have been &#8212; some of it (inaudible) Third quarter, yes, because it was about July through the end of '04 through October. And it was the opportunity to have generated that revenue.</font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;Q&gt;: </strong>What I meant was: Did that affect the margins at all because you had planned to have that revenue and have the expense built in?</font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;A&gt;:</strong> No.</font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;Q&gt;: </strong>Thank you.</font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;A&gt;: </strong>Sure.</font></p>
+<p class="style6"><font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong> Operator:</strong></font></p>
+<p class="style6"><font size="2" face="Geneva, Arial, Helvetica, sans-serif"> Thank you. Our next question is a follow-up from Mr. David Gremmels from Thomas Weisel Partners. Please proceed.</font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;Q&gt;: </strong>Just one more real quick one. Your largest contract, the one that has the stop work order on a portion of that, just in terms of sizing, can you tell us how much revenue that contract accounted for in '04 and what you anticipate in '05?</font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;A&gt;: </strong>David, in '04 it was about 20% of our revenues. '05, I don't have that data with me. So, I'm sorry, I don't know it.</font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;A&gt;:</strong> It would be a lower percentage in '05 because it was starting to wind down anyhow.</font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;A&gt;: </strong>You're right, Gary. I just don't know as a percentage of revenues what that is.</font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;Q&gt;: </strong>And is the debooking a certainty at this point, or could that still &#8212; does that still depend on some contractual factors or program decisions?</font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;A&gt;:</strong> My understanding is it's pretty much a certainty.</font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;A&gt;: </strong>What we know is the government still has the final requirement on the program which is what was being debooked as the final operational requirement, and so a logical person would assume that at some time they will need to replace an order to get that final capability, and we also believe we would be the subcontractor in favor for that. But none of that, of course, is in writing or, you know, on the books.</font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;Q&gt;: </strong>Very good. Thanks very much.</font></p>
+<p class="style6"><font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong> Operator:</strong></font></p>
+<p class="style6"><font size="2" face="Geneva, Arial, Helvetica, sans-serif"> Thank you. Our next question is a follow-up from Mr. Jay Meier from MJSK Equity Research.</font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;Q&gt;: </strong>Yeah, actually, I have two quick ones, relating to seasonality of revenues. I look at the model going back every year and we've seen a spike in the fourth quarter revenues, sequential spike from Q3. We didn't see that big of a spike this year to the same proportions that we had in the previous three or four years. Can you comment on that? Is 2004 kind of a budget flush year all the way through the year, or was there something else going on in the quarter?</font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;A&gt;: </strong>Jay, what do you mean by budget flush year? I don't understand.</font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;Q&gt;: </strong>Sometimes fiscal end of the year, from the government you get some substantial revenue bumps in the fourth quarter of the fiscal year from the Federal Government and in your fourth quarters we've seen what seems to be relatively predictable seasonality of a sequential bump from Q3 to Q4 but we didn't see quite the same flare in 2004. Am I reading too much into this, or &#8212;</font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;A&gt;: </strong>To tell you the truth I think you're reading too much into it, but let me try to comment a minute.</font></p>
+<p class="style6"><font size="2" face="Geneva, Arial, Helvetica, sans-serif"> Usually, when you see that revenue jump or bump, or whatever we were calling it, in that fourth quarter, it's really a result of a lot of product orders that have been placed towards the end of the government fiscal year, which is not atypical, and a function of how much of that work in progress we had in inventory, and then, therefore, you know, the book to bill was like one. I mean, it's like instantaneous more or less for that work in progress. So that's what does cause the sudden jump in the fourth quarter revenue in that if we need staff we can't staff that rapidly so you won't ever see a jump unless it is on product orders, and it just so happens this year it wasn't quite the same percentage, it was still, you know, stronger, and it was a fair amount of product orders but we had seen product orders in actually the latter part of second quarter and a fair amount of third quarter this year and that's just a -- kind of a functio
+n of does the government get on the ball and invest their budgets or not.</font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;Q&gt;: </strong>Okay. And as far as the &#8212; we didn't talk about the airborne common sensor program and the transition there. You're still feeling like there may be some unprogrammed up-side opportunities?</font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;A&gt;:</strong> Yeah, I think there could be. We actually &#8212; let's see, what's today? Had discussions yesterday. I have no idea how they went because I'm not at the headquarters right now but had some discussions yesterday with the prime contractor. I have no idea where that went. I believe as we produce on the Army airborne program that we currently have where we're the integrating contractor, as we produce, I believe that both ACS, or Aerial Common Sensor, Guardrail, and Airborne Reconnaissance Flow, all three of those programs offer us some unplanned upside opportunities. It's just right now it's a belief, is the reason I'm saying it, that I think is well founded but we wouldn't have any idea yet what the level of opportunity could be for sure.</font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;Q&gt;: </strong>And what about timing of those opportunities? From this point forward?</font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;A&gt;:</strong> Excuse me?</font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;Q&gt;: </strong>From this point forward, or can you put a time frame on that?</font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif">&lt;A&gt;: Well, it wouldn't be from this point backward. It would have to be from this point forward. The ACS opportunity, that's going to be a 30-year program. And I wouldn't have any idea how rapidly any opportunity for us could show on the books. If Guardrail or ARL do turn into an opportunity, they pretty much need to be in the order &#8212; at least in the form of orders by the end of '05. Otherwise, I think a lot of the argument for giving interim capability starts to fade. So, you know, end of '05, early '06 if they're going to come to fruition.</font></p>
+<p> <font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong>&lt;Q&gt;:</strong> I understand. Thanks a lot.</font></p>
+<p class="style6"><font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong> Operator:</strong></font></p>
+<p class="style6"><font size="2" face="Geneva, Arial, Helvetica, sans-serif"> Thank you. Gentlemen, we have no further questions at this time. </font></p>
+<p class="style6"><font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong> Gary Yancey, Applied Signal Technology - Chairman, Pres., CEO</strong> : </font></p>
+<p class="style6"><font size="2" face="Geneva, Arial, Helvetica, sans-serif"> Okay. Well, I think our quarter just about has been used up that I put in the coin slot a little while ago, so I think with that we will thank everybody for the call. And thank you, and we'll wish everybody happy holidays.</font></p>
+<p class="style6"><font size="2" face="Geneva, Arial, Helvetica, sans-serif"><strong> Operator:</strong></font></p>
+<p class="style6"><font size="2" face="Geneva, Arial, Helvetica, sans-serif"> Thank you. This concludes today's teleconference. You may disconnect your lines at this time. Thank you for your participation.</font></p>
+<p class="style6">&nbsp;
+</p>
+<p> <strong> Disclaimer </strong></p>
+<p> <font size="1" face="Times New Roman, Times, serif">The information herein is based on sources we believe to be reliable but is not guaranteed by us and does not purport to be a complete or error-free statement or summary of the available data. As such, we do not warrant, endorse or guarantee the completeness, accuracy, integrity, or timeliness of the information. You must evaluate, and bear all risks associated with, the use of any information provided hereunder, including any reliance on the accuracy, completeness, safety or usefulness of such information. This information is not intended to be used as the primary basis of investment decisions. It should not be construed as advice designed to meet the particular investment needs of any investor. This report is published solely for information purposes, and is not to be construed as financial or other advice or as an offer to sell or the solicitation of an offer to buy any security in any state where such an offer or solicitation would be illegal. Any i
+nformation expressed herein on this date is subject to change without notice. Any opinions or assertions contained in this information do not represent the opinions or beliefs of CallStreet, LLC. CallStreet, LLC, or one or more of its employees, including the writer of this report, may have a position in any of the securities discussed herein. </font></p>
+<p><font size="1" face="Times New Roman, Times, serif"> THE INFORMATION PROVIDED TO YOU HEREUNDER IS PROVIDED &quot;AS IS,&quot; AND TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, CallStreet, LLC AND ITS LICENSORS, BUSINESS ASSOCIATES AND SUPPLIERS DISCLAIM ALL WARRANTIES WITH RESPECT TO THE SAME, EXPRESS, IMPLIED AND STATUTORY, INCLUDING WITHOUT LIMITATION ANY IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, ACCURACY, COMPLETENESS, AND NON-INFRINGEMENT. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, NEITHER CALLSTREET, LLC NOR ITS OFFICERS, MEMBERS, DIRECTORS, PARTNERS, AFFILIATES, BUSINESS ASSOCIATES, LICENSORS OR SUPPLIERS WILL BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR PUNITIVE DAMAGES, INCLUDING WITHOUT LIMITATION DAMAGES FOR LOST PROFITS OR REVENUES, GOODWILL, WORK STOPPAGE, SECURITY BREACHES, VIRUSES, COMPUTER FAILURE OR MALFUNCTION, USE, DATA OR OTHER INTANGIBLE LOSSES OR COMMERCIAL DAMAGES, EVEN IF ANY OF SUCH PARTIES IS ADVISED OF THE POSSIBILI
+TY OF SUCH LOSSES, ARISING UNDER OR IN CONNECTION WITH THE INFORMATION PROVIDED HEREIN OR ANY OTHER SUBJECT MATTER HEREOF. </font></p>
+<font size="1" face="Times New Roman, Times, serif"><em> The contents and appearance of this report are Copyrighted CallStreet, LLC 2004. CallStreet and CallStreet, LLC are trademarks and service marks of CallStreet, LLC. All other trademarks mentioned are trademarks of their respective companies. All rights reserved.</em>
+</font>
+</body>
+</html>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>2
+<FILENAME>logo.jpg
+<DESCRIPTION>APP SIG LOGO
+<TEXT>
+begin 644 logo.jpg
+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
+6!2E*`4I2@%*4H!2E*`4I2@%*4H#_V3\_
+`
+end
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

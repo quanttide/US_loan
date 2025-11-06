@@ -1,0 +1,2683 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ FIMYUOMrz1UEEmhPlSEgypdraGC0ICyuZctPnT3baeucITjSFiRGu8a+Z+238Xvu
+ SoSxmJKFPQsgzfTjXz7OfQ==
+
+<SEC-DOCUMENT>0000950134-04-020042.txt : 20041230
+<SEC-HEADER>0000950134-04-020042.hdr.sgml : 20041230
+<ACCEPTANCE-DATETIME>20041230170056
+ACCESSION NUMBER:		0000950134-04-020042
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20041230
+ITEM INFORMATION:		Entry into a Material Definitive Agreement
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20041230
+DATE AS OF CHANGE:		20041230
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CADENCE DESIGN SYSTEMS INC
+		CENTRAL INDEX KEY:			0000813672
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		IRS NUMBER:				770148231
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0102
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-10606
+		FILM NUMBER:		041234648
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2655 SEELY ROAD BLDG 5
+		CITY:			SAN JOSE
+		STATE:			CA
+		ZIP:			95134
+		BUSINESS PHONE:		4089431234
+
+	MAIL ADDRESS:	
+		STREET 1:		555 RIVER OAKS PARKWAY
+		CITY:			SAN JOSE
+		STATE:			CA
+		ZIP:			95134
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ECAD INC /DE/
+		DATE OF NAME CHANGE:	19880609
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>f04324e8vk.htm
+<DESCRIPTION>FORM 8-K
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>e8vk</TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF">
+<!-- PAGEBREAK -->
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+<HR size="4" noshade color="#000000" style="margin-top: -5px">
+<HR size="1" noshade color="#000000" style="margin-top: -10px">
+
+
+
+
+
+
+
+<P align="center" style="font-size: 14pt"><B>UNITED STATES</B>
+
+<DIV align="center" style="font-size: 14pt"><B>SECURITIES AND EXCHANGE COMMISSION</B>
+</DIV>
+<DIV align="center" style="font-size: 12pt">WASHINGTON, D.C. 20549
+</DIV>
+
+<P align="center" style="font-size: 18pt"><B>FORM 8-K</B>
+
+<P align="center" style="font-size: 12pt"><B>CURRENT REPORT</B>
+
+<DIV align="center" style="font-size: 12pt"><B>Pursuant to Section&nbsp;13 or 15(d) of the<BR>
+Securities Exchange Act of 1934</B></DIV>
+
+
+
+<P align="center" style="font-size: 10pt"><HR align="center" size="1" noshade width="25%">
+
+
+
+<P align="center" style="font-size: 10pt">Date of Report (Date of earliest event reported): <B>December&nbsp;30, 2004</B>
+
+
+<P align="center" style="font-size: 24pt"><B>CADENCE DESIGN SYSTEMS, INC.</B>
+
+<DIV align="center" style="font-size: 10pt">(Exact name of registrant as specified in its charter)</DIV>
+
+
+
+<P align="center" style="font-size: 10pt"><B>1-10606</B><BR>
+(Commission file number)
+
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="47%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="47%">&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD align="center" valign="top"><B>Delaware</B>
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top"><B>77-0148231</B></TD>
+</TR>
+
+<TR valign="bottom">
+    <TD align="center" valign="top">(State or other jurisdiction
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">(I.R.S. Employer</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD align="center" valign="top">of incorporation)
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">Identification Number)</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD align="center" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD align="center" valign="top"><B>2655 Seeley Avenue, Building 5</B>
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top"><B>95134</B></TD>
+</TR>
+
+<TR valign="bottom">
+    <TD align="center" valign="top"><B>San Jose, California</B>
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">(Zip Code)</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD align="center" valign="top">(Address of principal executive offices)</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">&nbsp;</TD>
+</TR>
+
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+
+<P align="center" style="font-size: 10pt">Registrant&#146;s telephone number, including area code: <B>(408)&nbsp;943-1234</B>
+
+
+<P align="left" style="font-size: 10pt">Check the appropriate box below if the Form 8-K filing is intended to
+simultaneously satisfy the filing obligation of the registrant under any of the
+following provisions (see General Instruction A.2. below):
+
+
+<P align="left" style="font-size: 10pt"><FONT face="Wingdings">&#111;</FONT> Written communications pursuant to Rule&nbsp;425 under the Securities Act (17 CFR
+230.425)
+
+
+<P align="left" style="font-size: 10pt"><FONT face="Wingdings">&#111;</FONT> Soliciting material pursuant to Rule&nbsp;14a-12 under the Exchange Act (17 CFR
+240.14a-12)
+
+
+<P align="left" style="font-size: 10pt"><FONT face="Wingdings">&#111;</FONT> Pre-commencement communications pursuant to Rule&nbsp;14d-2(b) under the Exchange
+Act (17 CFR 240.14d-2(b))
+
+
+<P align="left" style="font-size: 10pt"><FONT face="Wingdings">&#111;</FONT> Pre-commencement communications pursuant to Rule&nbsp;13e-4(c) under the Exchange
+Act (17 CFR 240.13e-4(c))
+
+
+
+<P>
+<HR size="1" noshade color="#000000" style="margin-top: -2px">
+<HR size="4" noshade color="#000000" style="margin-top: -10px">
+
+
+
+
+
+
+
+
+<P align="center" style="font-size: 10pt">&nbsp;
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- TOC -->
+<A name="toc"><DIV align="CENTER" style="page-break-before:always"><U><B>TABLE OF CONTENTS</B></U></DIV></A>
+
+<P><CENTER>
+<TABLE border="0" width="90%" cellpadding="0" cellspacing="0">
+<TR>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="76%"></TD>
+</TR>
+<TR><TD colspan="9"><A HREF="#000">Item&nbsp;1.01. Entry into a Material Definitive Agreement</A></TD></TR>
+<TR><TD colspan="9"><A HREF="#001">Item&nbsp;9.01. Financial Statements and Exhibits</A></TD></TR>
+<TR><TD colspan="9"><A HREF="#002">SIGNATURES</A></TD></TR>
+<TR><TD colspan="9"><A HREF="#003">EXHIBIT INDEX</A></TD></TR>
+<TR><TD colspan="9"><A HREF="f04324exv10w1.txt">EXHIBIT 10.1</A></TD></TR>
+</TABLE>
+</CENTER>
+<!-- /TOC -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+
+
+
+
+
+
+
+<!-- link1 "Item&nbsp;1.01. Entry into a Material Definitive Agreement" -->
+<DIV align="left"><A NAME="000"></A></DIV>
+
+<P align="left" style="font-size: 10pt"><B>Item&nbsp;1.01. Entry into a Material Definitive Agreement</B>
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On December&nbsp;30, 2004, Cadence Design Systems, Inc. (&#147;Cadence&#148;) entered
+into an Employment Agreement (the &#147;Employment Agreement&#148;), effective as of
+January&nbsp;1, 2005, with William Porter, Senior Vice President and Chief Financial
+Officer of Cadence. The Employment Agreement provides for Mr.&nbsp;Porter&#146;s
+employment as Chief Financial Officer at a base salary of $400,000 per year,
+and for Mr.&nbsp;Porter to participate in Cadence&#146;s Senior Executive Bonus Plan at
+an annual target bonus of $300,000. These amounts remain unchanged from Mr. Porter&#146;s current base salary and annual target bonus, but these amounts will be reviewed by the Board of Directors of
+Cadence (the &#147;Board&#148;) or the Compensation Committee of the Board from time to
+time. Mr.&nbsp;Porter is also eligible to participate in Cadence&#146;s U.S. health
+insurance, life insurance and disability insurance plans and Cadence&#146;s
+retirement and deferred compensation plans. The Employment Agreement also
+provides for Cadence&#146;s indemnification of Mr.&nbsp;Porter pursuant to a previously
+executed standard executive indemnification agreement.
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Under the Employment Agreement, if Mr.&nbsp;Porter&#146;s employment is terminated
+other than (i)&nbsp;for &#147;Cause&#148; (as defined in the Employment Agreement), (ii)&nbsp;on
+account of Mr.&nbsp;Porter&#146;s permanent disability or death, or (iii)&nbsp;voluntarily by
+Mr.&nbsp;Porter for any reason other than in connection with a &#147;Constructive
+Termination&#148; (as defined in the Employment Agreement), Mr.&nbsp;Porter is entitled
+to the benefits provided for in the Executive Transition and Release Agreement
+attached to the Employment Agreement as Exhibit&nbsp;B (the &#147;Transition Agreement&#148;)
+in exchange for his execution and delivery of the Transition Agreement. The
+Transition Agreement provides for the employment of Mr.&nbsp;Porter for up to one
+year after his termination as a non-executive employee at a monthly salary of
+$2,000. In addition, the unvested options and outstanding stock awards granted
+to Mr.&nbsp;Porter prior to his termination will continue to vest until the
+termination of the Transition Agreement. Mr.&nbsp;Porter will also receive a
+lump-sum payment of one year&#146;s annual base salary at the highest rate in effect
+during his employment as Chief Financial Officer, and a lump-sum payment of one
+year&#146;s annual target bonus at the highest target rate in effect during his
+employment as Chief Financial Officer. In addition, the Transition Agreement
+requires Mr.&nbsp;Porter to comply with non-solicitation and non-competition
+provisions in favor of Cadence and to release Cadence from all claims related
+to his employment.
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If, within ninety (90)&nbsp;days before or thirteen (13)&nbsp;months after a &#147;Change
+in Control&#148; (as defined in the Employment Agreement), Mr.&nbsp;Porter&#146;s employment
+is terminated without &#147;Cause&#148; (as defined in the Employment Agreement) or Mr.
+Porter terminates his employment in connection with a &#147;Constructive
+Termination&#148; (as defined in the Employment Agreement), then, in exchange for
+Mr.&nbsp;Porter&#146;s execution and delivery of the Transition Agreement, all of Mr.
+Porter&#146;s outstanding stock options and restricted stock awards will immediately
+vest in full. All other provisions of the Transition Agreement as described in
+the paragraph above remain unchanged.
+
+
+<P align="center" style="font-size: 10pt">&nbsp;
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+<!-- link1 "Item&nbsp;9.01. Financial Statements and Exhibits" -->
+<DIV align="left"><A NAME="001"></A></DIV>
+
+<P align="left" style="font-size: 10pt"><B>Item&nbsp;9.01. Financial Statements and Exhibits.</B>
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(c)&nbsp;Exhibits
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="80%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="8%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="87%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD nowrap align="left"><B>Exhibit</B><HR size="1" noshade></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center"><B>Description</B><HR size="1" noshade></TD>
+</TR>
+
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">10.1
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Employment Agreement between Cadence Design Systems, Inc. and
+William Porter, entered into on December&nbsp;30, 2004</TD>
+</TR>
+
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+
+<P align="center" style="font-size: 10pt">&nbsp;
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<!-- link1 "SIGNATURES" -->
+<DIV align="left"><A NAME="002"></A></DIV>
+
+<P align="center" style="font-size: 10pt"><B>SIGNATURES</B>
+
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pursuant to the requirements of the Securities Exchange Act of 1934, the
+Registrant has duly caused this report to be signed on its behalf by the
+undersigned hereunto duly authorized.
+
+
+<P align="left" style="font-size: 10pt">Dated: December&nbsp;30, 2004
+
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="48%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="46%">&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="3" valign="top" align="left">CADENCE DESIGN SYSTEMS, INC.</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">By:
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">/s/ Michael J. Fister</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top"><HR size="1" noshade width="70%" align="left"></TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Michael J. Fister</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">President, Chief Executive Officer and
+Director</TD>
+</TR>
+
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+
+<P align="center" style="font-size: 10pt">&nbsp;
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<!-- link1 "EXHIBIT INDEX" -->
+<DIV align="left"><A NAME="003"></A></DIV>
+
+<P align="center" style="font-size: 10pt"><B>EXHIBIT INDEX</B>
+
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="80%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="8%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="87%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD nowrap align="left"><B>Exhibit</B><HR size="1" noshade></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center"><B>Description</B><HR size="1" noshade></TD>
+</TR>
+
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">10.1
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Employment Agreement between Cadence Design Systems, Inc. and
+William Porter, entered into on December&nbsp;30, 2004</TD>
+</TR>
+
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+
+
+<P align="center" style="font-size: 10pt">&nbsp;
+</DIV>
+
+
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.1
+<SEQUENCE>2
+<FILENAME>f04324exv10w1.txt
+<DESCRIPTION>EXHIBIT 10.1
+<TEXT>
+<PAGE>
+
+                                                                    EXHIBIT 10.1
+
+                          CADENCE DESIGN SYSTEMS, INC.
+                              EMPLOYMENT AGREEMENT
+                               WITH WILLIAM PORTER
+
+      THIS AGREEMENT (this "Agreement") is made effective as of January 1, 2005
+(the "Effective Date"), between CADENCE DESIGN SYSTEMS, INC., a Delaware
+corporation (the "Company"), and WILLIAM PORTER ("Executive").
+
+      WHEREAS, Executive is currently employed by the Company as Chief Financial
+Officer; and
+
+      WHEREAS, the Company and Executive wish to enter into a formal employment
+agreement on the terms and conditions as set forth herein.
+
+      NOW, THEREFORE, in consideration of the premises and of the covenants and
+agreements set forth below, it is mutually agreed as follows:
+
+1. TERM AND DUTIES.
+
+      1.1 EFFECTIVE DATE. The Company hereby employs Executive and Executive
+hereby accepts employment pursuant to the terms and provisions of this Agreement
+commencing on the Effective Date. Executive has been employed and shall continue
+to be employed on an at will basis, meaning that either Executive or the Company
+may terminate Executive's employment at any time, with or without Cause (as
+defined in Section 4.2 hereof), in the manner specified herein.
+
+      1.2 SERVICES.
+
+            (a) Executive shall continue to have the title of Chief Financial
+Officer. Executive's duties will be assigned to Executive by the Company's Chief
+Executive Officer ("CEO"), or such other persons as may be specified by the CEO.
+
+            (b) Executive shall be required to comply with all applicable
+company policies and procedures, as such shall be adopted, modified or otherwise
+established by the Company from time to time.
+
+<PAGE>
+
+      1.3 SERVICES TO BE EXCLUSIVE. During his employment with the Company,
+Executive agrees to devote his full productive time and best efforts to the
+performance of Executive's duties hereunder. Executive further agrees, as a
+condition to the performance by the Company of each and all of its obligations
+hereunder, that so long as Executive is employed by the Company or receiving
+compensation or any other consideration from the Company, he will not directly
+or indirectly render services of any nature to, otherwise become employed by,
+serve on the board of directors of, or otherwise participate or engage in any
+other business without the CEO's prior written consent. Nothing herein contained
+shall be deemed to preclude Executive from having outside personal investments
+and involvement with appropriate community activities, or from devoting a
+reasonable amount of time to such matters, provided that they shall in no manner
+interfere with or derogate from Executive's work for the Company.
+
+      1.4 OFFICE. The Company shall maintain an office for Executive at the
+Company's corporate headquarters, which currently are located in San Jose,
+California.
+
+2. COMPENSATION.
+
+      The Company shall pay to Executive, and Executive shall accept as full
+consideration for the Services, compensation consisting of the following:
+
+      2.1 BASE SALARY. The Company shall initially pay Executive a base salary
+of Four Hundred Thousand Dollars ($400,000) per year ("Base Salary"), payable in
+installments in accordance with the Company's customary payroll practices, less
+such deductions and withholdings required by law or authorized by Executive. The
+Board of Directors of the Company (the "Board") or the Compensation Committee of
+the Board (the "Compensation Committee") shall review the amount of the Base
+Salary from time to time, but no less frequently than annually.
+
+      2.2 BONUS. Executive shall participate in the Company's Senior Executive
+Bonus Plan or its successor (the "Bonus Plan") at an annual target bonus of
+Three Hundred Thousand Dollars ($300,000) (the "Target Bonus") pursuant to the
+terms of
+
+                                        2
+
+<PAGE>
+
+such Bonus Plan (the criteria for earning a bonus thereunder are set annually by
+the Compensation Committee). The Board or the Compensation Committee shall
+review the amount of the Target Bonus from time to time, but no less frequently
+than annually.
+
+      2.3 EQUITY GRANTS. Executive has previously been granted stock options by
+the Company which remain in full force and effect in accordance with the terms
+of the stock option agreements documenting such grants. Executive shall be
+eligible to receive additional grants of either restricted stock or stock
+options or both as the Compensation Committee may determine from time to time.
+All stock options shall be granted at one hundred percent (100%) of the fair
+market value of the Company's common stock on the date of grant. Any awards
+shall vest in accordance with the Company's vesting policy for additional grants
+to executive officers of the Company in effect on the date of the grant by the
+Compensation Committee, and shall contain such other terms and conditions as
+shall be set forth in the agreement documenting the grant.
+
+      2.4 INDEMNIFICATION. In the event Executive is made, or threatened to be
+made, a party to any legal action or proceeding, whether civil or criminal, by
+reason of the fact that Executive is or was a director or officer of the Company
+or serves or served any other corporation or other person which is at least
+fifty percent (50%) or more owned by the Company or controlled by the Company in
+any capacity at the Company's request, Executive shall be indemnified by the
+Company, and the Company shall pay Executive's related expenses when and as
+incurred, all to the fullest extent not prohibited by law, as more fully
+described in that Indemnification Agreement between the Company and Executive
+dated as of August 4, 1999, and attached hereto as Exhibit A.
+
+3. EXPENSES AND BENEFITS.
+
+      3.1 REASONABLE AND NECESSARY BUSINESS EXPENSES. In addition to the
+compensation provided for in Section 2 hereof, the Company shall reimburse
+
+                                        3
+
+<PAGE>
+
+Executive for all reasonable, customary and necessary expenses incurred in the
+performance of Executive's duties hereunder. Executive shall first account for
+such expenses by submitting a signed statement itemizing such expenses prepared
+in accordance with the policy set by the Company for reimbursement of such
+expenses. The amount, nature and extent of reimbursement for such expenses shall
+always be subject to the control, supervision and direction of the CEO and the
+Board, or such other persons as may be specified from time to time by the CEO.
+
+      3.2 BENEFITS. During Executive's full-time employment with the Company,
+pursuant to this Agreement:
+
+            (a) Executive shall be eligible to participate in the Company's
+standard U.S. health insurance, life insurance and disability insurance plans,
+as such plans may be modified from time to time; and
+
+            (b) Executive shall be eligible to participate in the Company's
+qualified and non-qualified retirement and other deferred compensation programs
+pursuant to their terms, as such programs may be modified from time to time.
+
+      3.3 SARBANES-OXLEY ACT LOAN PROHIBITION. To the extent that any company
+benefit, program, practice, arrangement, or any term of this Agreement would or
+might otherwise result in the Company's extension of a credit arrangement to
+Executive not permissible under the Sarbanes-Oxley Act of 2002 (a "Loan"), the
+Company will use reasonable efforts to provide Executive with a substitute for
+such Loan, which is lawful and of at least equal value. If this cannot be done,
+or if doing so would be significantly more expensive to the Company than making
+a Loan, then the Company need not make or maintain a Loan or provide a
+substitute for it.
+
+4. TERMINATION OF EMPLOYMENT.
+
+      4.1 GENERAL. Executive's employment by the Company under this Agreement
+shall terminate immediately upon delivery to Executive of written notice of
+termination by the Company, upon the Company's receipt of written notice of
+
+                                        4
+
+<PAGE>
+
+termination by Executive within thirty (30) days before the specified effective
+date of such termination, or upon Executive's death or Permanent Disability (as
+defined in Section 4.4 hereof). In the event of such termination, except where
+Executive is terminated for Cause (as defined in Section 4.2 hereof) or as the
+result of a Permanent Disability or death, or where Executive voluntarily
+terminates his employment other than a Constructive Termination (as defined in
+Section 4.3 hereof), and upon execution by Executive at or about the effective
+date of such termination of the Executive Transition and Release Agreement, in
+the form attached hereto as Exhibit B (the "Transition Agreement"), the Company
+shall provide Executive with the benefits as set forth in the Transition
+Agreement.
+
+      4.2 DEFINITION OF CAUSE. For purposes of this Agreement, "Cause" shall be
+deemed to mean (1) Executive's gross misconduct or fraud in the performance of
+his duties under this Agreement; (2) Executive's conviction or guilty plea or
+plea of nolo contendere with respect to any felony or act of moral turpitude;
+(3) Executive's engaging in any material act of theft or material
+misappropriation of company property in connection with his employment; (4)
+Executive's material breach of this Agreement, after written notice delivered to
+Executive of such breach and failure to cure such breach, if curable, within
+thirty (30) days following delivery of such notice; (5) Executive's material
+breach of the Proprietary Information Agreement (as defined in Section 8
+hereof); (6) Executive's material failure/refusal to perform his assigned
+duties, and, where such failure/refusal is curable, if such failure/refusal is
+not cured within thirty (30) days following delivery of written notice thereof
+from the Company; or (7) Executive's material breach of the Company's Code of
+Business Conduct as such code may be revised from time to time.
+
+      4.3 CONSTRUCTIVE TERMINATION. Notwithstanding anything in this Section 4
+to the contrary, Executive may, upon written notice to the Company, voluntarily
+end his employment upon or within ninety (90) days following the occurrence
+
+                                        5
+
+<PAGE>
+
+of an event constituting a Constructive Termination and be eligible to receive
+the benefits set forth in the Transition Agreement in exchange for executing and
+delivering that agreement in accordance with Section 9.3 hereof. For purposes of
+this Agreement, "Constructive Termination" shall mean:
+
+            (a) a material adverse change, without Executive's written consent,
+in Executive's authority, duties or title causing Executive's position to be of
+materially less stature or responsibility, after written notice delivered to the
+Company of such change and the Company's failure to cure such change, if
+curable, within thirty (30) days following delivery of such notice; provided,
+however, that such a material adverse change shall in all events be deemed to
+occur if Executive no longer serves as the Chief Financial Officer of a publicly
+traded company, unless Executive consents in writing to such change;
+
+            (b) any change, without Executive's written consent, to Executive's
+reporting structure causing Executive to no longer report to the CEO of the
+Company, after written notice delivered to the Company of such change and the
+Company's failure to cure such change, if curable, within thirty (30) days
+following delivery of such notice;
+
+            (c) a reduction, without Executive's written consent, in Executive's
+Base Salary in effect on the Effective Date (or such higher level as may be in
+effect in the future) by more than ten percent (10%) or a reduction by more than
+ten percent (10%) in Executive's stated Target Bonus in effect on the Effective
+Date (or such greater Target Bonus amount as may be in effect in the future)
+under the Bonus Plan;
+
+            (d) a relocation of Executive's principal place of employment by
+more than thirty (30) miles, unless Executive consents in writing to such
+relocation;
+
+            (e) any material breach by the Company of any provision of this
+Agreement, after written notice delivered to the Company of such breach and the
+Company's failure to cure such breach, if curable, within thirty (30) days
+following delivery of such notice;
+
+                                       6
+
+<PAGE>
+
+            (f) any failure by the Company to obtain the written assumption of
+this Agreement by any successor to the Company;
+
+            (g) in the event Executive, prior to a Change in Control (as defined
+in Section 4.5 hereof), is identified as an executive officer of the Company for
+purposes of the rules promulgated under Section 16 of the Securities Exchange
+Act of 1934, as amended (the "Exchange Act") and following a Change in Control
+in which the Company or any successor remains a publicly traded entity,
+Executive is not identified as an executive officer for purposes of Section 16
+of the Exchange Act at any time within one (1) year after the Change in Control.
+
+      4.4 PERMANENT DISABILITY. For purposes of this Agreement, "Permanent
+Disability" shall mean any medically determinable physical or mental impairment
+that can reasonably be expected to result in death or that has lasted or can
+reasonably be expected to last for a continuous period of not less than twelve
+(12) months and that renders Executive unable to perform effectively the
+Services pursuant to this Agreement.
+
+      4.5 CHANGE IN CONTROL.
+
+            (a) Should there occur a Change in Control (as defined below) and if
+within ninety (90) days prior to, or thirteen (13) months following the Change
+in Control either (i) Executive is terminated without Cause or (ii) Executive
+resigns his employment as a result of an event constituting a Constructive
+Termination, then, in exchange for signing the Transition Agreement, Executive
+shall be entitled to all of the benefits set forth therein, except that Section
+4(b) of the Transition Agreement will be replaced by the following provision:
+"all outstanding stock options granted and restricted stock issued by the
+Company to the Executive prior to the Change in Control (as defined in Section
+4.5 of Executive's Employment Agreement) shall have their vesting fully
+accelerated so as to be 100% vested as of the Effective Date of this Agreement.
+This
+
+                                       7
+
+<PAGE>
+
+acceleration will have no effect on any other provisions of the plans governing
+the stock options and restricted stock."
+
+            (b) For purposes of this Section 4.5, a Change in Control shall be
+deemed to occur upon the consummation of any one of the following events:
+
+                  (i)   any "person" (as such term is used in sections 13(d) and
+                        14(d) of the Exchange Act) becomes the "beneficial
+                        owner" (as defined in Rule 13d-3 of the Exchange Act),
+                        directly or indirectly, of securities of the Company
+                        representing more than fifty percent (50%) of the total
+                        voting power represented by the Company's then
+                        outstanding voting securities;
+
+                  (ii)  except pursuant to the exception applicable to clause
+                        (iii) below, a change in the composition of the Board
+                        occurring within a two-year period, as a result of which
+                        fewer than a majority of the directors are Incumbent
+                        Directors ("Incumbent Directors" means directors who
+                        either (i) are directors of the Company as of the
+                        Effective Date, or (ii) are elected, or nominated for
+                        election, to the Board with the affirmative votes of at
+                        least a majority of the Incumbent Directors at the time
+                        of such election or nomination, but will not include an
+                        individual whose election or nomination is in connection
+                        with an actual or threatened proxy contest relating to
+                        the election of directors to the Board);
+
+                  (iii) the consummation of a merger or consolidation of the
+                        Company with any other corporation, other than a merger
+                        or consolidation in which the holders of the Company's
+                        outstanding voting securities immediately prior to such
+                        merger or consolidation receive, in exchange for their
+                        voting
+
+                                       8
+
+<PAGE>
+
+                        securities of the Company in consummation of such merger
+                        or consolidation, securities possessing at least fifty
+                        percent (50%) of the total voting power represented by
+                        the outstanding voting securities of the surviving
+                        entity (or parent thereof) immediately after such merger
+                        or consolidation; or
+
+                  (iv)  the consummation of the sale or disposition by the
+                        Company of all or substantially all the Company's
+                        assets.
+
+      4.6 TERMINATION FOR CAUSE, ON ACCOUNT OF DEATH, PERMANENT DISABILITY, OR
+VOLUNTARY TERMINATION. In the event Executive's employment is terminated for
+Cause, or on account of death or Permanent Disability, or Executive voluntarily
+terminates his employment with the Company, then Executive will be paid only (a)
+any earned but unpaid base salary and any outstanding expense reimbursements
+submitted and approved pursuant to Section 3.1 hereof, and (b) other unpaid
+vested amounts or benefits under Company compensation, incentive and benefit
+plans, in each case as of the effective date of such termination.
+
+5. EXCISE TAX.
+
+      In the event that any benefits payable to Executive pursuant to the
+Transition Agreement ("Termination Benefits") (i) constitute "parachute
+payments" within the meaning of Section 280G of the Internal Revenue Code of
+1986, as amended (the "Code"), or any comparable successor provisions, and (ii)
+but for this Section 5 would be subject to the excise tax imposed by Section
+4999 of the Code, or any comparable successor provisions (the "Excise Tax"),
+then Executive's Termination Benefits hereunder shall be either (a) provided to
+Executive in full, or (b) provided to Executive as to such lesser extent which
+would result in no portion of such benefits being subject to the Excise Tax,
+whichever of the foregoing amounts, when taking into account applicable federal,
+state, local and foreign income and employment taxes, the Excise Tax, and any
+other applicable taxes, results in the receipt by Executive, on an after-tax
+
+                                       9
+
+<PAGE>
+
+basis, of the greatest amount of benefits, notwithstanding that all or some
+portion of such benefits may be taxable under the Excise Tax. Unless the Company
+and Executive otherwise agree in writing, any determination required under this
+Section 5 shall be made in writing in good faith by a nationally recognized
+accounting firm selected by the Company (the "Accountants"). In the event of a
+reduction of benefits hereunder, Executive shall be given the choice of which
+benefits to reduce. If Executive does not provide written identification to the
+Company of which benefits he chooses to reduce within ten (10) days after
+written notice of the Accountants' determination, and Executive has not disputed
+the Accountants' determination, then the Company shall select the benefits to be
+reduced. For purposes of making the calculations required by this Section 5, the
+Accountants may make reasonable assumptions and approximations concerning
+applicable taxes and may rely on reasonable, good faith interpretations
+concerning the application of the Code, and other applicable legal authority.
+The Company and Executive shall furnish to the Accountants such information and
+documents as the Accountants may reasonably request in order to make a
+determination under this Section 5. The Company shall bear all costs the
+Accountants may reasonably incur in connection with any calculations
+contemplated by this Section 5.
+
+      If, notwithstanding any reduction described in this Section 5, the IRS
+determines that Executive is liable for the Excise Tax as a result of the
+receipt of any Termination Benefits, then Executive shall be obligated to pay
+back to the Company, within thirty (30) days after a final IRS determination or
+in the event that Executive challenges the final IRS determination, a final
+judicial determination, a portion of the Termination Benefits equal to the
+"Repayment Amount." The Repayment Amount shall be the smallest such amount, if
+any, as shall be required to be paid to the Company so that Executive's net
+after-tax proceeds with respect to the Termination Benefits (after taking into
+account the payment of the Excise Tax and all other applicable taxes imposed on
+
+                                       10
+
+<PAGE>
+
+such benefits) shall be maximized. The Repayment Amount shall be zero if a
+Repayment Amount of more than zero would not result in Executive's net after-tax
+proceeds with respect to the Termination Benefits being maximized. If the Excise
+Tax is not eliminated pursuant to this paragraph, Executive shall pay the Excise
+Tax.
+
+      Notwithstanding any other provision of this Section 5, if (1) there is a
+reduction in the payment of the Termination Benefits as described in this
+Section 5, (2) the IRS later determines that Executive is liable for the Excise
+Tax, the payment of which would result in the maximization of Executive's net
+after-tax proceeds (calculated as if Executive's benefits had not previously
+been reduced), and (3) Executive pays the Excise Tax, then the Company shall pay
+to Executive those Termination Benefits which were reduced pursuant to this
+subsection as soon as administratively possible after Executive pays the Excise
+Tax so that Executive's net after-tax proceeds with respect to the payment of
+the Termination Benefits are maximized.
+
+6. DISPUTE RESOLUTION.
+
+      (a) Each of the parties expressly agrees that, to the extent permitted by
+applicable law and to the extent that the enforceability of this Agreement is
+not thereby impaired, any and all disputes, controversies or claims between
+Executive and the Company arising under this Agreement (as opposed to the
+Transition Agreement), except those arising under Section 6(d) hereof or under
+the Proprietary Information Agreement (as defined in Section 8 hereof), shall be
+determined exclusively by final and binding arbitration before a single
+arbitrator in accordance with the JAMS Arbitration Rules and Procedures, or
+successor rules then in effect, and that judgment upon the award of the
+arbitrator may be rendered in any court of competent jurisdiction. This
+includes, without limitation, any and all disputes, controversies, and/or claims
+arising out of or concerning Executive's employment by the Company or the
+termination of his employment or this Agreement, and includes, without
+limitation, claims by Executive against directors, officers or employees of the
+Company, whether arising under theories
+
+                                       11
+
+<PAGE>
+
+of liability or damages based on contract, tort or statute, to the full extent
+permitted by law. As a material part of this agreement to arbitrate claims, the
+parties expressly waive all rights to a jury trial in court on all statutory or
+other claims. This Section 6 does not purport to limit either party's ability to
+recover any remedies provided for by statute, including attorneys' fees.
+
+      (b) The arbitration shall be held in the San Jose, California metropolitan
+area, and shall be administered by JAMS or, in the event JAMS does not then
+conduct arbitration proceedings, a similarly reputable arbitration
+administrator. Under such proceeding, the parties shall select a mutually
+acceptable, neutral arbitrator from among the JAMS panel of arbitrators. Except
+as provided herein, the Federal Arbitration Act shall govern the interpretation
+and enforcement of such arbitration proceeding. The arbitrator shall apply the
+substantive law (and the law of remedies, if applicable) of the State of
+California, or federal law, if California law is preempted, and the arbitrator
+is without jurisdiction to apply any different substantive law. The parties
+agree that they will be allowed to engage in adequate discovery, the scope of
+which will be determined by the arbitrator, consistent with the nature of the
+claims in dispute. The arbitrator shall have the authority to entertain a motion
+to dismiss and/or a motion for summary judgment by any party and shall apply the
+standards governing such motions under the Federal Rules of Civil Procedure. The
+arbitrator shall render an award that shall include a written statement of
+opinion setting forth the arbitrator's findings of fact and conclusions of law.
+Judgment upon the award may be entered in any court having jurisdiction thereof.
+The parties intend this arbitration provision to be valid, enforceable,
+irrevocable and construed as broadly as possible.
+
+      (c) The Company shall be responsible for payment of the arbitrator's fees
+as well as all administrative fees associated with the arbitration. The parties
+shall be responsible for their own attorneys' fees and costs (including expert
+fees and costs), except that if any party prevails on a statutory claim that
+entitles the prevailing party to
+
+                                       12
+
+<PAGE>
+
+reasonable attorneys' fees (with or without expert fees) as part of the costs,
+the arbitrator may award reasonable attorneys' fees (with or without expert
+fees) to the prevailing party in accord with such statute.
+
+      (d) The parties agree, however, that damages would be an inadequate remedy
+for the Company in the event of a breach or threatened breach of Section 1.3 of
+this Agreement or any provision of the Proprietary Information Agreement (as
+defined in Section 8 hereof). In the event of any such breach or threatened
+breach, Cadence may, either with or without pursuing any potential damage
+remedies, obtain from a court of competent jurisdiction, and enforce, an
+injunction prohibiting Executive from violating Section 1.3 of this Agreement or
+any provision of the Proprietary Information Agreement (as defined in Section 8
+hereof) and requiring Executive to comply with the terms of those agreements.
+
+7. COOPERATION WITH THE COMPANY AFTER TERMINATION OF THE EMPLOYMENT PERIOD.
+
+      Following his termination of full-time employment for any reason (other
+than death), Executive shall cooperate with the Company in all matters relating
+to the winding up of his pending work on behalf of the Company and the orderly
+transfer of any such pending work to other employees of the Company as may be
+designated by the Company. Such cooperation shall be provided by Executive at
+mutually-convenient times. Executive also agrees to participate as a witness in
+any litigation or regulatory proceeding to which the Company is a party at the
+request of the Company upon delivery to Executive of reasonable advance notice.
+With respect to the cooperation/participation described in the preceding
+sentences, the Company will reimburse Executive for all reasonable expenses
+incurred by Executive in the course of such cooperation/participation.
+Furthermore, Executive agrees to return to the Company all property of the
+Company, including all hard and soft copies of records, documents, materials and
+files relating to confidential, proprietary or sensitive company
+
+                                       13
+
+<PAGE>
+
+information in his possession or control, as well as all other company-owned
+property in his possession or control, at the time of the termination of his
+full-time employment, except to the extent that retention of any of such
+property is necessary or desirable or convenient in order to permit Executive to
+satisfy his obligations under this Section 7 or under the Transition Agreement,
+after which time Executive shall promptly return all such retained company
+property.
+
+8. PROPRIETARY INFORMATION AGREEMENT.
+
+      Executive shall, on the Effective Date, execute and deliver to the Company
+an Employee Proprietary Information and Inventions Agreement, in the form
+attached hereto as Exhibit C (the "Proprietary Information Agreement").
+
+9. GENERAL.
+
+      9.1 WAIVER. Neither party shall, by mere lapse of time, without giving
+notice or taking other action hereunder, be deemed to have waived any breach by
+the other party of any of the provisions of this Agreement. Further, the waiver
+by either party of a particular breach of this Agreement by the other shall
+neither be construed as, nor constitute, a continuing waiver of such breach or
+of other breaches of the same or any other provision of this Agreement.
+
+      9.2 SEVERABILITY. If for any reason a court of competent jurisdiction or
+arbitrator finds any provision of this Agreement to be unenforceable, the
+provision shall be deemed amended as necessary to conform to applicable laws or
+regulations, or if it cannot be so amended without materially altering the
+intention of the parties, the remainder of the Agreement shall continue in full
+force and effect as if the offending provision were not contained herein.
+
+      9.3 NOTICES. All notices and other communications required or permitted to
+be given under this Agreement shall be in writing and shall be considered
+effective either (a) upon personal service or (b) upon delivery by facsimile and
+depositing such notice in the U.S. Mail, postage prepaid, return receipt
+requested and, if addressed to
+
+                                       14
+
+<PAGE>
+
+the Company, in care of the CEO at the Company's principal corporate address,
+and, if addressed to Executive, at his most recent address shown on the
+Company's corporate records or at any other address which Executive may specify
+in any appropriate notice to the Company, or (c) upon only depositing such
+notice in the U.S. Mail as described in clause (b) of this paragraph.
+
+      9.4 COUNTERPARTS. This Agreement may be executed by facsimile and in any
+number of counterparts, each of which shall be deemed an original and all of
+which taken together constitutes one and the same instrument and in making proof
+hereof it shall not be necessary to produce or account for more than one such
+counterpart.
+
+      9.5 ENTIRE AGREEMENT. The parties hereto acknowledge that each has read
+this Agreement, understands it, and agrees to be bound by its terms. The parties
+further agree that this Agreement, the exhibits to this Agreement, any existing
+stock option agreements between the parties, and the documents, plans and
+policies referred to in this Agreement (which are hereby incorporated herein by
+reference) constitute the complete and exclusive statement of the agreement
+between the parties and supersedes all proposals (oral or written),
+understandings, agreements (including, but not limited to, the Executive
+Retention Agreement signed by Executive on or about September 29, 1999),
+representations, conditions, covenants, and all other communications between the
+parties relating to the subject matter hereof; provided, however, that the
+Employee Invention and Confidential Information Agreement signed by Executive on
+or about February 14, 1994, and Executive's agreement, made prior to the
+Effective Date of this Agreement, to abide by the Company's policies, including
+but not limited to the Company's Employee Handbook, Sexual Harassment Policy and
+Code of Business Conduct, remain in full force and effect and govern Executive's
+conduct from the date of execution of such agreements until the Effective Date
+of this Agreement.
+
+                                       15
+
+<PAGE>
+
+      9.6 GOVERNING LAW. This Agreement shall be governed by the laws of the
+State of California, without regard to its conflict of laws principles.
+
+      9.7 ASSIGNMENT AND SUCCESSORS. The Company shall have the right to assign
+its rights and obligations under this Agreement to an entity that, directly or
+indirectly, acquires all or substantially all of the assets of the Company. The
+rights and obligations of the Company under this Agreement shall inure to the
+benefit and shall be binding upon the successors and assigns of the Company.
+Executive shall not have any right to assign his obligations under this
+Agreement and shall only be entitled to assign his rights under this Agreement
+upon his death, solely to the extent permitted by this Agreement, or as
+otherwise agreed to by the Company.
+
+      9.8 AMENDMENTS. This Agreement, and the terms and conditions of the
+matters addressed in this Agreement, may only be amended in writing executed
+both by the Executive and the CEO of the Company.
+
+      9.9 TERMINATION AND SURVIVAL OF CERTAIN PROVISIONS. This Agreement shall
+terminate upon the termination of Executive's full-time employment for any
+reason; provided, however, that the following provisions of this Agreement shall
+survive its termination: Executive's obligations under Section 7 hereof; the
+Company's obligations to provide compensation earned through the termination of
+the employment relationship under Sections 2 and 3 hereof; the Company's
+obligations and Executive's obligations under Section 5 hereof; the Company's
+obligations and Executive's obligations enumerated in the Transition Agreement,
+if applicable; the Company's obligation to indemnify Executive pursuant to
+Section 2.4 hereof and the referenced Indemnification Agreement; the dispute
+resolution provisions of Section 6 hereof; and, to the extent applicable, this
+Section 9.
+
+      9.10 DEPARTMENT OF HOMELAND SECURITY VERIFICATION REQUIREMENT. If
+Executive has not already done so, he will timely file all documents required by
+the Department of Homeland Security to verify his identity and his lawful
+
+                                       16
+
+<PAGE>
+
+employment in the United States. Notwithstanding any other provision of this
+Agreement, if Executive fails to meet any such requirements promptly after
+receiving a written request from the Company to do so, his employment will
+terminate immediately upon notice from the Company and he will not be entitled
+to any compensation from the Company of any type.
+
+      9.11 HEADINGS. The headings of the several sections and paragraphs of this
+Agreement are inserted solely for the convenience of reference and are not a
+part of and are not intended to govern, limit or aid in the construction of any
+term or provision hereof.
+
+      9.12 TAXES AND OTHER WITHHOLDINGS. Notwithstanding any other provision of
+this Agreement, the Company may withhold from amounts payable hereunder all
+federal, state, local and foreign taxes and other amounts that are required to
+be withheld by applicable laws or regulations, and the withholding of any amount
+shall be treated as payment thereof for purposes of determining whether
+Executive has been paid amounts to which he is entitled.
+
+                                       17
+
+<PAGE>
+
+      IN WITNESS WHEREOF, the parties have executed this Agreement on this 30th
+day of December 2004.
+
+CADENCE DESIGN SYSTEMS, INC.               EXECUTIVE
+
+By: /s/ Michael J. Fister                  /s/ William Porter
+    ---------------------------------      -------------------------------------
+             Michael J. Fister                           William Porter
+
+Title: President, Chief Executive Officer
+
+                                       18
+
+<PAGE>
+
+                                    EXHIBIT A
+
+                            INDEMNIFICATION AGREEMENT
+
+<PAGE>
+
+                               INDEMNITY AGREEMENT
+
+This Indemnity Agreement, dated as of August 4, 1999, is made by and between
+Cadence Design Systems, Inc., a Delaware corporation (the "Company"), and
+William Porter, an Officer of the Company (the "Indemnitee").
+
+                                    RECITALS
+
+      A. The Company is aware that competent and experienced persons are
+increasingly reluctant to serve as directors or officers of corporations unless
+they are protected by comprehensive liability insurance or indemnification, due
+to increased exposure to litigation costs and risks resulting from their service
+to such corporations, and due to the fact that the exposure frequently bears no
+reasonable relationship to the compensation of such directors and officers;
+
+      B. The statutes and judicial decisions regarding the duties of directors
+and officers are often difficult to apply, ambiguous, or conflicting, and
+therefore fail to provide such directors and officers with adequate, reliable
+knowledge of legal risks to which they are exposed or information regarding the
+proper course of action to take;
+
+      C. Plaintiffs often seek damages in such large amounts and the costs of
+litigation may be so substantial (whether or not the case is meritorious), that
+the defense and/or settlement of such litigation is often beyond the personal
+resources of officers and directors;
+
+      D. The Company believes that it is unfair for its directors and officers
+and the directors and officers of its subsidiaries to assume the risk of large
+judgments and other expenses that may be incurred in cases in which the director
+or officer received no personal profit and in cases where the director or
+officer was not culpable;
+
+      E. The Company recognizes that the issues in controversy in litigation
+against a director or officer of a corporation such as the Company or a
+subsidiary of the Company are often related to the knowledge, motives and intent
+of such director or officer, that he is usually the only witness with knowledge
+of the essential facts and exculpating circumstances regarding such matters and
+that the long period of time which usually elapses before the trial or other
+disposition of such litigation often extends beyond the time that the director
+or officer can reasonably recall such matters; and may extend beyond the normal
+time for retirement for such director or officer with the result that he, after
+retirement or in the event of his death, his spouse, heirs, executors or
+administrators, may be faced with limited ability and undue hardship in
+maintaining an adequate defense, which may discourage such a director or officer
+from serving in that position;
+
+      F. Based upon their experience as business managers, the Board of
+Directors of the Company (the "Board") has concluded that, to retain and attract
+talented and experienced individuals to serve as officers and directors of the
+Company and its subsidiaries and to encourage such individuals to take the
+business risks necessary for the success of the Company and its subsidiaries, it
+is necessary for the Company to contractually indemnify its officers and
+directors
+
+<PAGE>
+
+and the officers and directors of its subsidiaries, and to assume for itself
+maximum liability for expenses and damages in connection with claims against
+such officers and directors in connection with their service to the Company and
+its subsidiaries, and has further concluded that the failure to provide such
+contractual indemnification could result in great harm to the Company and its
+subsidiaries and the Company's shareholders;
+
+      G. Section 145 of the General Corporation Law of Delaware, under which the
+Company is organized ("Section 145"), empowers the Company to indemnify by
+agreement its officers, directors, employees and agents, and persons who serve,
+at the request of the Company, as directors, officers, employees or agents of
+other corporations or enterprises, and expressly provides that the
+indemnification provided by Section 145 is not exclusive;
+
+      H. The Company, after reasonable investigation prior to the date hereof,
+has determined that the liability insurance coverage available to the Company
+and its subsidiaries as of the date hereof is inadequate and/or unreasonably
+expensive. The Company believes, therefore, that the interests of the Company's
+shareholders would best be served by a combination of such insurance as the
+Company may obtain, or request a subsidiary to obtain, pursuant to the Company's
+obligations hereunder, and the indemnification by the Company of the directors
+and officers of the Company and its subsidiaries.
+
+      I. The Company desires and has requested the Indemnitee to serve or
+continue to serve as a director or officer of the Company and/or the
+subsidiaries of the Company free from undue concern for claims for damages
+arising out of or related to such services to the Company and/or the
+subsidiaries of the Company; and
+
+      J. The Indemnitee is willing to serve, or to continue to serve, the
+Company and/or the subsidiaries of the Company, provided that he is furnished
+the indemnity provided for herein.
+
+                                    AGREEMENT
+
+      NOW, THEREFORE, the parties hereto, intending to be legally bound, hereby
+agree as follows:
+
+      1. Definitions.
+
+            (a) Agent. For the purposes of this Agreement, "agent" of the
+Company means any person who is or was a director, officer, employee or other
+agent of the Company or a subsidiary of the Company; or is or was serving at the
+request of, for the convenience of, or to represent the interest of the Company
+or a subsidiary of the Company as a director, officer, employee or agent of
+another foreign or domestic corporation, partnership, joint venture, trust or
+other enterprise; or was a director, officer, employee or agent of a foreign or
+domestic corporation which was a predecessor corporation of the Company or a
+subsidiary of the Company, or was a director, officer, employee or agent of
+another enterprise at the request of, for the convenience of, or to represent
+the interests of such predecessor corporation.
+
+                                        2
+
+<PAGE>
+
+            (b) Expenses. For purposes of this Agreement, "expenses" includes
+all direct and indirect costs of any type or nature whatsoever (including,
+without limitation, all attorneys' fees and related disbursements and other
+out-of-pocket costs) actually and reasonably incurred by the Indemnitee in
+connection with either the investigation, defense or appeal of a proceeding or
+establishing or enforcing a right to indemnification under this Agreement,
+Section 145 or otherwise; provided, however, that expenses shall not include any
+judgments, fines, ERISA excise taxes or penalties or amounts paid in settlement
+of a proceeding.
+
+            (c) Proceeding. For the purposes of this Agreement, "proceeding"
+means any threatened, pending, or completed action, suit or other proceeding,
+whether civil, criminal, administrative, investigative or any other type
+whatsoever.
+
+            (d) Subsidiary. For the purposes of this Agreement, "subsidiary"
+means any corporation of which more than 50% of the outstanding voting
+securities is owned directly or indirectly by the Company, by the Company and
+one or more other subsidiaries, or by one or more other subsidiaries.
+
+      2. Agreement to Serve. The Indemnitee agrees to serve and/or continue to
+serve as an agent of the Company, at its will (or under separate agreement, if
+such agreement exists), in the capacity Indemnitee currently serves as an agent
+of the Company, so long as he is duly appointed or elected and qualified in
+accordance with the applicable provisions of the Bylaws of the Company or any
+subsidiary of the Company or until such time as he tenders his resignation in
+writing, provided, however, that nothing contained in this Agreement is intended
+to create any right to continued employment by Indemnitee.
+
+      3. Maintenance of Liability Insurance.
+
+            (a) The Company hereby covenants and agrees that, so long as the
+Indemnitee shall continue to serve as an agent of the Company and thereafter so
+long as the Indemnitee shall be subject to any possible proceeding by reason of
+the fact that the Indemnitee was an agent of the Company, the Company, subject
+to Section 3(b), shall use reasonable efforts to obtain and maintain in full
+force and effect director's and officer's liability ("D&O Insurance") in
+reasonable amounts from established and reputable insurers.
+
+            (b) Notwithstanding the foregoing, the Company shall have no
+obligation to obtain or maintain D&O Insurance if the Company determines in good
+faith that such insurance is not reasonably available, the premium costs for
+such insurance are disproportionate to the amount of coverage provided, the
+coverage provided by such insurance is limited by exclusions so as to provide an
+insufficient benefit, or the Indemnitee is covered by similar insurance
+maintained by a subsidiary of the Company.
+
+                                        3
+
+<PAGE>
+
+      4. Mandatory Indemnification. The Company shall indemnify the Indemnitee:
+
+            (a) Third Party Actions. If the Indemnitee is a person who was or is
+a party or is threatened to be made a party to any proceeding (other than an
+action by or in the right of the company) by reason of the fact that he is or
+was an agent of the Company, or by reason of anything done or not done by him in
+any such capacity, against any and all expenses and liabilities of any type
+whatsoever (including, but not limited to, judgments, fines, ERISA excise taxes
+or penalties, and amounts paid in settlement) actually and reasonably incurred
+by him in connection with the investigation, defense, settlement or appeal of
+such proceeding if he acted in good faith and in a manner he reasonably believed
+to be in or not opposed to the best interests of the Company, and, with respect
+to any criminal action or proceeding, had no reasonable cause to believe his
+conduct was unlawful; and
+
+            (b) Derivative Actions. If the Indemnitee is a person who was or is
+a party or is threatened to be made a party to any proceeding by or in the right
+of the Company to procure a judgment in its favor by reason of the fact that he
+is or was an agent of the Company, or by reason of anything done or not done by
+him in any such capacity, against any amounts paid in settlement of any such
+proceeding and all expenses actually and reasonably incurred by him in
+connection with the investigation, defense, settlement, or appeal of such
+proceeding if he acted in good faith and in manner he reasonably believed to be
+in or not opposed to the best interests of the Company; except that no
+indemnification under this subsection shall be made in respect of any claim,
+issue or matter as to which such person shall have been finally adjudged to be
+liable to the Company by a court of competent jurisdiction due to willful
+misconduct of a culpable nature in the performance of his duty to the Company
+unless and only to the extent that the Court of Chancery or the court in which
+such proceeding was brought shall determine upon application that, despite the
+adjudication of liability but in view of all the circumstances of the case, such
+person is fairly and reasonably entitled to indemnity for such amounts which the
+Court of Chancery or such other court shall deem proper; and
+
+            (c) Actions Where Indemnitee is Deceased. If the Indemnitee is a
+person who was or is a party or is threatened to be made a party to any
+proceeding by reason of the fact that he is or was an agent of the Company, or
+by reason of anything done or not done by him in any such capacity, against any
+and all expenses and liabilities of any type whatsoever (including, but not
+limited to, judgments, fines, ERISA excise taxes or penalties, and amounts paid
+in settlement) actually and reasonably incurred by him in connection with the
+investigation, defense, settlement or appeal of such proceeding if he acted in
+good faith and in a manner he reasonably believed to be in or not opposed to the
+best interests of the Company, and, prior to, during the pendency or after
+completion of such proceeding Indemnitee is deceased, except that in a
+proceeding by or in the right of the Company no indemnification shall be due
+under the provisions of this subsection in respect of any claim, issue or matter
+as to which such person shall have been finally adjudged to be liable to the
+Company, by a court of competent jurisdiction due to willful misconduct of a
+culpable nature in the performance of his duty to the Company, unless and only
+to the extent that the Court of Chancery or the court in which such proceeding
+was brought shall determine upon application that, despite the adjudication of
+liability but in
+
+                                        4
+
+<PAGE>
+
+view of all the circumstances of the case, such person is fairly and reasonably
+entitled to indemnify for such amounts which the Court of Chancery or such other
+court shall deem proper; and
+
+            (d) Exception for Amounts Covered by Insurance. Notwithstanding the
+foregoing, the Company shall not be obligated to indemnify the Indemnitee for
+expenses or liabilities of any type whatsoever (including, but not limited to,
+judgments, fines, ERISA excise taxes or penalties, and amounts paid in
+settlement) which have been paid directly to Indemnitee by D&O Insurance.
+
+      5. Partial Indemnification. If the Indemnitee is entitled under any
+provision of this Agreement to indemnification by the Company for some or a
+portion of any expenses or liabilities of any type whatsoever (including, but
+not limited to, judgments, fines, ERISA excise taxes or penalties, and amounts
+paid in settlement) incurred by him in the investigation, defense, settlement or
+appeal of a proceeding but not entitled, however, to indemnification for all of
+the total amount thereof, the Company shall nevertheless indemnify the
+Indemnitee for such total amount except as the portion thereof to which the
+Indemnitee is not entitled.
+
+      6. Mandatory Advancement of Expenses. Subject to Section 10 below, the
+Company shall advance all expenses incurred by the Indemnitee in connection with
+the investigation, defense, settlement or appeal of any proceeding to which the
+Indemnitee is a party or is threatened to be made a party by reason of the fact
+that the Indemnitee is or was an agent of the Company or by reason of anything
+done or not done by him in any such capacity. Indemnitee hereby undertakes to
+repay such amounts advanced only if, and to the extent that, it shall ultimately
+be determined that the Indemnitee is not entitled to be indemnified by the
+Company as authorized hereby. The advances to be made hereunder shall be paid by
+the Company to the Indemnitee within twenty (20) days following delivery of a
+written request therefore by the Indemnitee to the Company.
+
+      7. Notice and Other Indemnification Procedures.
+
+            (a) Promptly after receipt by the Indemnitee of notice of the
+commencement of or the threat of commencement of any proceeding, the Indemnitee
+shall, if the Indemnitee believes that indemnification with respect thereto may
+be sought from the Company under this Agreement, notify the Company of the
+commencement or threat of commencement thereof.
+
+            (b) If, at the time of receipt of a notice of the commencement of a
+proceeding pursuant to Section 7(a) hereof, the Company has D&O Insurance in
+effect, the Company shall give prompt notice of the commencement of such
+proceeding to the insurers in accordance with the procedures set forth in the
+respective policies. The Company shall thereafter take all necessary or
+desirable action to cause such insurers to pay, on behalf of the Indemnitee, all
+amounts payable as a result of such proceeding in accordance with the terms of
+such policies.
+
+            (c) In the event the Company shall be obligated to advance the
+expenses for any proceeding against the Indemnitee, the Company, if appropriate,
+shall be entitled to assume the defense of such proceeding, with counsel
+approved by the Indemnitee, upon the delivery to
+
+                                        5
+
+<PAGE>
+
+the Indemnitee of written notice of its election so to do. After delivery of
+such notice, approval of such counsel by the Indemnitee and the retention of
+such counsel by the Company, the Company will not be liable to the Indemnitee
+under this Agreement for any fees of counsel subsequently incurred by the
+Indemnitee with respect to the same proceeding, provided that (i) the Indemnitee
+shall have the right to employ his counsel in any such proceeding at the
+Indemnitee's expense; and (ii) if (A) the employment of counsel by the
+Indemnitee has been previously authorized by the Company, (B) the Indemnitee
+shall have reasonably concluded that there may be a conflict of interest between
+the company and the Indemnitee in the conduct of any such defense or (C) the
+Company shall not, in fact, have employed counsel to assume the defense of such
+proceeding, the fees and expenses of Indemnitee's counsel shall be at the
+expense of the Company.
+
+      8. Determination of Right to Indemnification.
+
+            (a) To the extent the Indemnitee has been successful on the merits
+or otherwise in defense of any proceeding referred to in Section 4(a), 4(b), or
+4(c) of this Agreement or in the defense of any claim, issue or matter described
+therein, the Company shall indemnify the Indemnitee against expenses actually
+and reasonably incurred by him in connection with the investigation, defense or
+appeal of such proceeding.
+
+            (b) In the event that Section 8(a) is inapplicable, the Company
+shall also indemnify the Indemnitee unless, and only to the extent that, the
+Company shall prove by clear and convincing evidence to a forum listed in
+Section 8(c) below that the Indemnitee has not met the applicable standard of
+conduct required to entitle the Indemnitee to such indemnification.
+
+            (c) The Indemnitee shall be entitled to select the forum in which
+the validity of the Company's claim under Section 8(b) hereof that the
+Indemnitee is not entitled to indemnification will be heard from among the
+following:
+
+                  (1) A quorum of the Board consisting of directors who are not
+parties to the proceeding for which indemnification is being sought;
+
+                  (2) The stockholders of the Company;
+
+                  (3) Legal counsel selected by the Indemnitee, and reasonably
+approved by the Board, which counsel shall make such determination in a written
+opinion.
+
+                  (4) A panel of three arbitrators, one of whom is selected by
+the Company, another of whom is selected by the Indemnitee and the last of whom
+is selected by the first two arbitrators so selected.
+
+            (d) As soon as practicable, and in no event later than 30 days after
+written notice of the Indemnitee's choice of forum pursuant to Section 8(c)
+above, the Company shall, at its own expense, submit to the selected forum in
+such manner as the Indemnitee or the Indemnitee's counsel may reasonably
+request, its claim that the Indemnitee is not entitled to
+
+                                        6
+
+<PAGE>
+
+indemnification; and the Company shall act in the utmost good faith to assure
+the Indemnitee a complete opportunity to defend against such claim.
+
+            (e) If the forum listed in Section 8(c) hereof selected by
+Indemnitee determines that Indemnitee is entitled to indemnification with
+respect to a specific proceeding, such determination shall be final and binding
+on the Company. If the forum listed in Section 8(c) hereof selected by
+Indemnitee determines that Indemnitee is not entitled to indemnification with
+respect to a specific proceeding, the Indemnitee shall have the right to apply
+to the Court of Chancery of Delaware, the court in which that proceeding is or
+was pending or any other court of competent jurisdiction, for the purpose of
+enforcing the Indemnitee's right to indemnification pursuant to the Agreement.
+
+            (f) Notwithstanding any other provision in this Agreement to the
+contrary, the Company shall indemnify the Indemnitee against all expenses
+incurred by the Indemnitee in connection with any hearing or proceeding under
+this Section 8 involving the Indemnitee and against all expenses incurred by the
+Indemnitee in connection with any other proceeding between the Company and the
+Indemnitee involving the interpretation or enforcement of the rights of the
+Indemnitee under this Agreement unless a court of competent jurisdiction finds
+that each of the material claims and/or defenses of the Indemnitee in any such
+proceeding was frivolous or not made in good faith.
+
+      9. Limitation of Actions and Release of Claims. No proceeding shall be
+brought and no cause of action shall be asserted by or on behalf of the Company
+or any subsidiary against the Indemnitee, his spouse, heirs, estate, executors
+or administrators after the expiration of one year from the act or omission of
+the Indemnitee upon which such proceeding is based; however, in a case where the
+Indemnitee fraudulently conceals the facts underlying such cause of action, no
+proceeding shall be brought and no cause of action shall be asserted after the
+expiration of one year from the earlier of (i) the date the Company or any
+subsidiary of the Company discovers such facts, or (ii) the date the Company or
+any subsidiary of the Company could have discovered such facts by the exercise
+of reasonable diligence. Any claim or cause of action of the Company or any
+subsidiary of the Company, including claims predicated upon the negligent act or
+omission of the Indemnitee, shall be extinguished and deemed released unless
+asserted by filing of a legal action within such period. This Section 9 shall
+not apply to any cause of action which has accrued on the date hereof and of
+which the Indemnitee is aware on the date hereof, but as to which the Company
+has no actual knowledge apart from the Indemnitee's knowledge.
+
+      10. Expectations. Any other provision herein to the contrary
+notwithstanding, the Company shall not be obligated pursuant to the terms of
+this Agreement:
+
+            (a) Claims Initiated by Indemnitee. To indemnify or advance expenses
+to the Indemnitee with respect to proceedings or claims initiated or brought
+voluntarily by the Indemnitee and not by way of defense, except with respect to
+proceedings brought to establish or enforce a right to indemnification under
+this Agreement or any other statute or law or otherwise as required under
+Section 145, but such indemnification or advancement of expenses may be provided
+by the Company in specific cases if the Board of Directors finds it to be
+appropriate; or
+
+                                        7
+
+<PAGE>
+
+            (b) Lack of Good Faith. To indemnify the Indemnitee for any expenses
+incurred by the Indemnitee with respect to any proceeding instituted by the
+Indemnitee to enforce or interpret this Agreement, if a court of competent
+jurisdiction determines that each of the material assertions made by the
+Indemnitee in such proceeding was not made in good faith or was frivolous; or
+
+            (c) Unauthorized Settlements. To Indemnify the Indemnitee under this
+Agreement for any amounts paid in settlement of a proceeding unless the Company
+consents to such settlement; or
+
+            (d) Claims by the Company for Willful Misconduct. To indemnify or
+advance expenses to the Indemnitee under this Agreement for any expenses
+incurred by the Indemnitee with respect to any proceeding or claim brought by
+the Company against Indemnitee for willful misconduct, unless a court of
+competent jurisdiction determines that each of such claims was not made in good
+faith or was frivolous; or
+
+            (e) 16(b) Actions. To indemnify the Indemnitee on account of any
+suit in which judgment is rendered against Indemnitee for an accounting of
+profits made from the purchase or sale by Indemnitee of securities of the
+Company pursuant to the provisions of Section 16(b) of the Securities and
+Exchange Act of 1934 and amendments thereto or similar provisions of any
+federal, state or local statutory law; or
+
+            (f) Willful Misconduct. To indemnify the Indemnitee on account of
+Indemnitee's conduct which is finally adjudged to have been knowingly fraudulent
+or deliberately dishonest, or to constitute willful misconduct; or
+
+            (g) Unlawful Indemnification. To indemnify the Indemnitee if a final
+decision by a court having jurisdiction in the matter shall determine that such
+indemnification is not lawful.
+
+      11. Non-exclusivity. The provisions for indemnification and advancement of
+expenses set forth in this Agreement shall not be deemed exclusive of any other
+rights which the indemnitee may have under any provision of law, the Company's
+Certificate of Incorporation or Bylaws, the vote of the Company's shareholders
+or disinterested directors, other agreements, or otherwise, both as to action in
+his official capacity and to action in another capacity while occupying his
+position as an agent of the Company, and the Indemnitee's rights hereunder shall
+continue after the Indemnitee has ceased acting as an agent of the Company and
+shall inure to the benefit of the heirs, executors and administrators of the
+Indemnitee.
+
+      12. Interpretation of Agreement. It is understood that the parties hereto
+intend this Agreement to be interpreted and enforced so as to provide
+indemnification to the Indemnitee to the fullest extent now or hereafter
+permitted by law.
+
+      13. Severability. If any provision or provisions of this Agreement shall
+be held to be invalid, illegal or unenforceable for any reason whatsoever, (i)
+the validity, legality and
+
+                                        8
+
+<PAGE>
+
+enforceability of the remaining provisions of the Agreement (including, without
+limitation, all portions of any paragraphs of this Agreement containing any such
+provision held to be invalid, illegal or unenforceable, that are not themselves
+invalid, illegal or unenforceable) shall not in any way be affected or impaired
+thereby, and (ii) to the fullest extent possible, the provisions of this
+Agreement (including, without limitation, all portions of any paragraphs of this
+Agreement containing any such provision held to be invalid, illegal or
+unenforceable, that are not themselves invalid, illegal or unenforceable) shall
+be construed so as to give effect to the intent manifested by the provision held
+invalid, illegal or unenforceable and to give effect to Section 12 hereof.
+
+      14. Modification And Waiver. No supplement, modification or amendment of
+this Agreement shall be binding unless executed in writing by both of the
+parties hereto. No waiver of any of the provisions of this Agreement shall be
+deemed or shall constitute a waiver of any other provision hereof (whether or
+not similar) nor shall such waiver constitute a continuing waiver.
+
+      15. Successors and Assigns. The terms of this Agreement shall bind, and
+shall inure to the benefit of, the successors and assigns of the parties hereto.
+
+      16. Notice. All notices, requests, demands and other communications under
+this Agreement shall be in writing and shall be deemed duly given (i) if
+delivered by hand and receipted for by the party addressee or (ii) if mailed by
+certified or registered mail with postage prepaid, on the third business day
+after the mailing date. Addresses for notice to either party are as shown on the
+signature page of this Agreement, or as subsequently modified by written notice.
+
+      17. Governing Law. This Agreement shall be governed exclusively by and
+construed according to the laws of the State of Delaware, as applied to
+contracts between Delaware residents entered into and to be performed entirely
+with Delaware.
+
+      18. Consent to Jurisdiction. The Company and the Indemnitee each hereby
+irrevocably consent to the jurisdiction of the courts of the State of Delaware
+for all purposes in connection with any action or proceeding which arises out of
+or relates to this Agreement.
+
+      The parties hereto have entered into this Indemnity Agreement effective as
+of the date first above written.
+
+                                        9
+
+<PAGE>
+
+                           Address: Cadence Design Systems, Inc.
+                                    2655 Seely Rd.
+                                    San Jose, CA 95134
+
+                                    By   /s/ R. L. Smith McKeithen
+                                         ---------------------------------------
+                                         R. L. Smith McKeithen
+                                    Its: Senior Vice President & General Counsel
+
+                                    INDEMNITEE:
+
+                                        /s/ William Porter
+                                        ----------------------------------------
+                           Address: 2655 Seely Road
+                                    San Jose, CA 95134
+
+                                       10
+
+<PAGE>
+
+                                    EXHIBIT B
+
+                   EXECUTIVE TRANSITION AND RELEASE AGREEMENT
+
+<PAGE>
+
+                   EXECUTIVE TRANSITION AND RELEASE AGREEMENT
+
+      This Executive Transition and Release Agreement (this "Agreement") is
+entered into between William Porter ("Executive") and Cadence Design Systems,
+Inc. ("Cadence" or the "Company").
+
+      1. TRANSITION COMMENCEMENT DATE. As of <<Transition Commencement Date>>
+(the "Transition Commencement Date"), Executive will no longer hold the position
+of Chief Financial Officer and will be relieved of all of Executive's authority
+and responsibilities in that position. Executive will be paid all accrued salary
+for his services as Chief Financial Officer to the Transition Commencement Date
+by not later than the following regular payroll date. Following the Transition
+Commencement Date, Executive will no longer participate in Cadence's medical,
+dental, and vision insurance plans (unless Executive elects to continue coverage
+pursuant to COBRA), and will not be eligible for a bonus for any services
+rendered after that date.
+
+      2. TRANSITION PERIOD. The period from the Transition Commencement Date to
+the date when Executive's employment with Cadence terminates (the "Termination
+Date") is called the "Transition Period" in this Agreement. Executive's
+Termination Date will be the earliest to occur of:
+
+            a.    the date on which Executive resigns from all employment with
+                  Cadence;
+
+            b.    the date on which Cadence terminates Executive's employment
+                  due to a breach by Executive of Executive's duties or
+                  obligations under this Agreement; and
+
+            c.    one year from the Transition Commencement Date.
+
+      3. DUTIES AND OBLIGATIONS DURING THE TRANSITION PERIOD AND AFTERWARDS.
+
+            a. During the Transition Period, Executive will assume the position
+of<<New Position Title>>. In this position, Executive will render those services
+requested by Cadence's <<Management Representative>> on an as-needed basis.
+Executive's time rendering those services is not expected to exceed twenty (20)
+hours per week but is expected to consume twenty (20) hours per month.
+
+            b. As a Cadence executive, as well as other positions Executive may
+have held with Cadence, Executive has obtained extensive and valuable knowledge
+and information concerning Cadence's business (including confidential
+information relating to Cadence and its operations, intellectual property
+assets, contracts, customers, personnel, plans, marketing plans, research and
+development plans and prospects). Executive acknowledges and agrees that it
+would be virtually impossible for Executive to work as an employee, consultant
+or advisor in the electronic design automation ("EDA") industry (as defined
+below) without inevitably disclosing confidential and proprietary information
+belonging to Cadence. Accordingly, during the Transition Period, Executive will
+not, directly or indirectly, provide services, whether as an
+
+<PAGE>
+
+employee, consultant, independent contractor, agent, sole proprietor, partner,
+joint venture, corporate officer or director, on behalf of any corporation,
+limited liability company, partnership, or other entity or person that (i) is
+engaged in the EDA industry, (ii) directly competes against Cadence or any of
+its existing or future affiliates in the EDA industry anywhere in the world, or
+(iii) produces, markets, distributes or sells any products, directly or
+indirectly through intermediaries, that are competitive with EDA industry
+products produced, marketed, sold or distributed by Cadence. As used in this
+paragraph, the term "EDA industry" means the research, design or development of
+electronic design automation software, electronic design verification, emulation
+hardware and related products, such products containing hardware, software and
+both hardware and/or software products, designs or solutions for, and all
+intellectual property embodied in the foregoing, or in commercial electronic
+design and/or maintenance services, such services including all intellectual
+property embodied in the foregoing. If Executive receives an offer of employment
+or consulting from any person or entity during the Transition Period, then
+Executive must first obtain written approval from Cadence's Chief Executive
+Officer ("CEO") before accepting said offer.
+
+            c. During the Transition Period, Executive will be prohibited, to
+the full extent allowed by applicable law, and except with the written advance
+approval of Cadence's CEO (or his successor(s)), from voluntarily or
+involuntarily, for any reason whatsoever, directly or indirectly, individually
+or on behalf of persons or entities not now parties to this Agreement: (i)
+encouraging, inducing, attempting to induce, soliciting or attempting to solicit
+for employment, contractor or consulting opportunities anyone who is employed at
+that time, or was employed during the previous one year, by Cadence or any
+Cadence affiliate; (ii) interfering or attempting to interfere with the
+relationship or prospective relationship of Cadence or any Cadence affiliate
+with any former, present or future client, customer, joint venture partner, or
+financial backer of Cadence or any Cadence affiliate; or (iii) soliciting,
+diverting or accepting business, in any line or area of business engaged in by
+Cadence or any Cadence affiliate, from any former or present client, customer or
+joint venture partner of Cadence or any Cadence affiliate (other than on behalf
+of Cadence), except that Executive may solicit or accept business, in a line of
+business engaged in by Cadence or a Cadence affiliate, from a former or present
+client, if and only if Executive had previously provided consulting services in
+such line of business, to such client, prior to ever being employed by Cadence,
+but in no event may Executive violate paragraph 3(b) hereof. The restrictions
+contained in subparagraph (i) of this paragraph 3(c) shall also be in effect for
+a period of one year following the Termination Date. This paragraph 3(c) does
+not alter any of the obligations the Executive may have under the Employee
+Proprietary Information Agreement, dated as of December 30, 2004.
+
+            d. Executive will fully cooperate with Cadence in all matters
+relating to his employment, including the winding up of work performed in
+Executive's prior position and the orderly transition of such work to other
+Cadence employees.
+
+            e. Executive will not make any statement, written or oral, that
+disparages Cadence or any of its affiliates, or any of Cadence's or its
+affiliates' products, services, policies, business practices, employees,
+executives, officers, or directors.
+
+                                        2
+
+<PAGE>
+
+Similarly, Cadence agrees to instruct its executive officers and members of the
+Company's Board of Directors not to make any statement, written or oral, that
+disparages Executive. The restrictions described in this paragraph shall not
+apply to any truthful statements made in response to a subpoena or other
+compulsory legal process.
+
+            f. Notwithstanding paragraph 10 hereof, the parties agree that
+damages would be an inadequate remedy for Cadence in the event of a breach or
+threatened breach by Executive of paragraph 3(b) or 3(c), or for Cadence or
+Executive in the event of a breach or threatened breach of paragraph 3(e). In
+the event of any such breach or threatened breach, the non-breaching party may,
+either with or without pursuing any potential damage remedies, obtain from a
+court of competent jurisdiction, and enforce, an injunction prohibiting the
+other party from violating this Agreement and requiring the other party to
+comply with the terms of this Agreement.
+
+      4. TRANSITION COMPENSATION AND BENEFITS. In consideration and compensation
+for Executive's services during the Transition Period, Cadence will provide the
+following to Executive:
+
+            a.    a monthly salary of $2,000 less applicable tax withholdings
+                  and deductions, payable in accordance with Cadence's regular
+                  payroll schedule;
+
+            b.    continued vesting of stock options and restricted stock
+                  granted to Executive prior to the Termination Date, provided
+                  that Executive has executed all necessary stock option and
+                  restricted stock agreements on or before <<Stock Option
+                  Agreement Execution Date>>, and with the understanding that
+                  upon Executive's Termination Date, all vested options may be
+                  exercised in accordance with the applicable stock option
+                  agreement, any unvested options will expire, and any unvested
+                  restricted stock will be forfeited; and
+
+            c.    if Executive elects to continue coverage under Cadence's
+                  medical, dental, and vision insurance plans pursuant to COBRA
+                  following the Transition Commencement Date, Cadence will pay
+                  Executive's COBRA premiums during the Transition Period.
+
+Except as so provided, Executive will receive no other compensation or benefits
+from Cadence in consideration of Executive's services during the Transition
+Period.
+
+      5. FIRST TERMINATION PAYMENT AND BENEFITS. Provided that Executive does
+not resign from employment with Cadence and Cadence does not terminate
+Executive's employment with Cadence due to a breach by Executive of Executive's
+duties under this Agreement, and in consideration for Executive's acceptance of
+this Agreement and Executive's further execution and delivery of a Release of
+Claims in the form of Attachment 1 hereto, Cadence will provide to Executive
+within ten business days after
+
+                                        3
+
+<PAGE>
+
+the Effective Date (as defined in paragraph 9 hereof) of this Agreement and
+after Executive has returned to the Company all hard and soft copies of records,
+documents, materials and files relating to confidential, proprietary or
+sensitive company information in his possession or control, as well as all other
+Company-owned property, the following termination payment to which Executive
+would not otherwise be entitled:
+
+            a.    a lump-sum payment of one year's base salary at the highest
+                  rate in effect during Executive's employment as Chief
+                  Financial Officer, less applicable tax deductions and
+                  withholdings.
+
+      6. SECOND TERMINATION PAYMENT AND BENEFITS. Provided that Executive does
+not resign from employment with Cadence and Cadence does not terminate
+Executive's employment with Cadence due to a breach by Executive of Executive's
+duties under this Agreement, upon the Termination Date, and in consideration for
+Executive's acceptance of this Agreement and Executive's further execution of a
+Release of Claims in the form of Attachment 2 to this Agreement, Cadence will
+provide to Executive within ten business days after the expiration of the
+revocation period of the Release of Claims (as defined in that document) the
+following termination payment to which Executive would not otherwise be
+entitled:
+
+            a.    a lump-sum payment of one year's target bonus at the highest
+                  rate in effect during Executive's employment as Chief
+                  Financial Officer, less applicable tax deductions and
+                  withholdings.
+
+      7. GENERAL RELEASE OF CLAIMS.
+
+               a. Executive hereby irrevocably, fully and finally releases
+Cadence, its parent, subsidiaries, affiliates, directors, officers, agents and
+employees ("Releasees") from all causes of action, claims, suits, demands or
+other obligations or liabilities, whether known or unknown, suspected or
+unsuspected, that Executive ever had or now has as of the time that Executive
+signs this Agreement which relate to his hiring, his employment with the
+Company, the termination of his employment with the Company and claims asserted
+in shareholder derivative actions or shareholder class actions against the
+Company and its officers and Board of Directors, to the extent those derivative
+or class actions relate to the period during which Executive was employed by the
+Company. The claims released include, but are not limited to, any claims arising
+from or related to Executive's employment with Cadence, such as claims arising
+under (as amended) Title VII of the Civil Rights Act of 1964, the Civil Rights
+Act of 1991, the Age Discrimination in Employment Act of 1974, the Americans
+with Disabilities Act, the Equal Pay Act, the Fair Labor Standards Act, the
+California Fair Employment and Housing Act, the California Labor Code, the
+Employee Retirement Income and Security Act of 1974 (except for any vested right
+Executive has to benefits under an ERISA plan), the state and federal Worker
+Adjustment and Retraining Notification Act, and the California Business and
+Professions Code; any other local, state, federal, or foreign law governing
+employment; and the common law of contract and tort. In no event, however, shall
+any claims, causes of action, suits, demands or other obligations or liabilities
+be released pursuant to the foregoing if and to the extent they relate to:
+
+                                        4
+
+<PAGE>
+
+                  i. any amounts or benefits to which Executive is or becomes
+entitled to pursuant to the provisions of this Agreement or pursuant to the
+provisions designated in Section 9.9 of the Employment Agreement to survive the
+termination of Executive's full-time employment;
+
+                  ii. claims for workers' compensation benefits under any of the
+Company's workers' compensation insurance policies or funds;
+
+                  iii. claims related to Executive's COBRA rights; and
+
+                  iv. any rights that Executive has or may have to be
+indemnified by Cadence pursuant to any contract, statute, or common law
+principle.
+
+            b. Executive represents and warrants that he has not filed any
+claim, charge or complaint against any of the Releasees.
+
+            c. Executive acknowledges that the payments provided in this
+Agreement constitute adequate consideration for the release set forth in this
+paragraph 7.
+
+            d. Executive intends that this release of claims cover all claims,
+whether or not known to Executive. Executive further recognizes the risk that,
+subsequent to the execution of this Agreement, Executive may incur loss, damage
+or injury which Executive attributes to the claims encompassed by this release.
+Executive expressly assumes this risk by signing this Agreement and voluntarily
+and specifically waives any rights conferred by California Civil Code section
+1542 which provides as follows:
+
+      A general release does not extend to claims which the creditor does not
+      know or suspect to exist in his favor which if known by him must have
+      materially affected his settlement with the debtor.
+
+            e. Executive represents and warrants that there has been no
+assignment or other transfer of any interest in any claim by Executive that is
+covered by this release.
+
+      8. REVIEW OF AGREEMENT; REVOCATION OF ACCEPTANCE. Executive has been given
+at least 21 days in which to review and consider this Agreement, although
+Executive is free to accept this Agreement anytime within that 21-day period.
+Executive is advised to consult with an attorney about the Agreement. If
+Executive accepts this Agreement, Executive will have an additional 7 days from
+the date that Executive signs this Agreement to revoke that acceptance, which
+Executive may effect by means of a written notice sent to the CEO. If this 7-day
+period expires without a timely revocation, this Agreement will become final and
+effective on the eighth day following the date of Executive's signature, which
+eighth day will be the "Effective Date" of this Agreement.
+
+      9. ARBITRATION. Subject to paragraph 3(f) hereof, all claims, disputes,
+questions, or controversies arising out of or relating to this Agreement,
+including without
+
+                                        5
+
+<PAGE>
+
+limitation the construction or application of any of the terms, provisions, or
+conditions of this Agreement, will be resolved exclusively in final and binding
+arbitration in accordance with the Arbitration Rules and Procedures, or
+successor rules then in effect, of Judicial Arbitration & Mediation Services,
+Inc. ("JAMS"). The arbitration will be held in the San Jose, California,
+metropolitan area, and will be conducted and administered by JAMS or, in the
+event JAMS does not then conduct arbitration proceedings, a similarly reputable
+arbitration administrator. Executive and Cadence will select a mutually
+acceptable, neutral arbitrator from among the JAMS panel of arbitrators. Except
+as provided by this Agreement, the Federal Arbitration Act will govern the
+administration of the arbitration proceedings. The arbitrator will apply the
+substantive law (and the law of remedies, if applicable) of the State of
+California, or federal law, as applicable, and the arbitrator is without
+jurisdiction to apply any different substantive law. Executive and Cadence will
+each be allowed to engage in adequate discovery, the scope of which will be
+determined by the arbitrator consistent with the nature of the claim[s] in
+dispute. The arbitrator will have the authority to entertain a motion to dismiss
+and/or a motion for summary judgment by any party and will apply the standards
+governing such motions under the Federal Rules of Civil Procedure. The
+arbitrator will render a written award and supporting opinion that will set
+forth the arbitrator's findings of fact and conclusions of law. Judgment upon
+the award may be entered in any court of competent jurisdiction. Cadence will
+pay the arbitrator's fees, as well as all administrative fees, associated with
+the arbitration. Each party will be responsible for paying its own attorneys'
+fees and costs (including expert witness fees and costs, if any). However, in
+the event a party prevails at arbitration on a statutory claim that entitles the
+prevailing party to reasonable attorneys' fees as part of the costs, then the
+arbitrator may award those fees to the prevailing party in accordance with that
+statute.
+
+      10. NO ADMISSION OF LIABILITY. Nothing in this Agreement will constitute
+or be construed in any way as an admission of any liability or wrongdoing
+whatsoever by Cadence or Executive.
+
+      11. INTEGRATED AGREEMENT. This Agreement is intended by the parties to be
+a complete and final expression of their rights and duties respecting the
+subject matter of this Agreement. Except as expressly provided herein, nothing
+in this Agreement is intended to negate Executive's agreement to abide by
+Cadence's policies while serving as a Cadence employee, including but not
+limited to Cadence's Employee Handbook, Sexual Harassment Policy and Code of
+Business Conduct, or Executive's continuing obligations under Executive's
+Employee Proprietary Information and Inventions Agreement, or any other
+agreement governing the disclosure and/or use of proprietary information, which
+Executive signed while working with Cadence or its predecessors; nor to waive
+any of Executive's obligations under state and federal trade secret laws.
+
+      12. FULL SATISFACTION OF COMPENSATION OBLIGATIONS; ADEQUATE CONSIDERATION.
+Executive agrees that the payments and benefits provided herein are in full
+satisfaction of all obligations of Cadence to Executive arising out of or in
+connection with Executive's employment through the Termination Date, including,
+without limitation, all compensation, salary, bonuses, reimbursement of
+expenses, and benefits.
+
+                                        6
+
+<PAGE>
+
+      13. TAXES AND OTHER WITHHOLDINGS. Notwithstanding any other provision of
+this Agreement, the Company may withhold from amounts payable hereunder all
+federal, state, local and foreign taxes and other amounts that are required to
+be withheld by applicable laws or regulations, and the withholding of any amount
+shall be treated as payment thereof for purposes of determining whether
+Executive has been paid amounts to which he is entitled.
+
+      14. WAIVER. Neither party shall, by mere lapse of time, without giving
+notice or taking other action hereunder, be deemed to have waived any breach by
+the other party of any of the provisions of this Agreement. Further, the waiver
+by either party of a particular breach of this Agreement by the other shall
+neither be construed as, nor constitute, a continuing waiver of such breach or
+of other breaches of the same or any other provision of this Agreement.
+
+      15. MODIFICATION. This Agreement may not be modified unless such
+modification is embodied in writing, signed by the party against whom the
+modification is to be enforced.
+
+      16. ASSIGNMENT AND SUCCESSORS. Cadence shall have the right to assign its
+rights and obligations under this Agreement to an entity that, directly or
+indirectly, acquires all or substantially all of the assets of Cadence. The
+rights and obligations of Cadence under this Agreement shall inure to the
+benefit and shall be binding upon the successors and assigns of Cadence.
+Executive shall not have any right to assign his obligations under this
+Agreement and shall only be entitled to assign his rights under this Agreement
+upon his death, solely to the extent permitted by this Agreement, or as
+otherwise agreed to by Cadence.
+
+      17. SEVERABILITY. In the event that any part of this Agreement is found to
+be void or unenforceable, all other provisions of the Agreement will remain in
+full force and effect.
+
+      18. GOVERNING LAW. This Agreement will be governed and enforced in
+accordance with the laws of the State of California, without regard to its
+conflict of laws principles.
+
+                                        7
+
+<PAGE>
+
+                             EXECUTION OF AGREEMENT
+
+      The parties execute this Agreement to evidence their acceptance of it.
+
+Dated: ____________________.                      Dated: ______________________.
+
+WILLIAM PORTER                                    CADENCE DESIGN SYSTEMS, INC.
+
+___________________________                       By: __________________________
+                                                             <<HRVP_Name>>
+                                                            <<HRVP_Title_1>>
+
+                                        8
+
+<PAGE>
+
+                                  ATTACHMENT 1
+
+                                RELEASE OF CLAIMS
+
+            1. For valuable consideration, I irrevocably, fully and finally
+release Cadence Design Systems, Inc. ("Cadence"), its parent, subsidiaries,
+affiliates, directors, officers, agents and employees from all causes of action,
+claims, suits, demands or other obligations or liabilities, whether known or
+unknown, suspected or unsuspected, that I ever had or now have as of the time
+that I sign this Release which relate to my hiring, my employment with Cadence,
+the termination of my employment with Cadence and claims asserted in shareholder
+derivative actions or shareholder class actions against Cadence and its officers
+and Board of Directors, to the extent those derivative or class actions relate
+to the period during which I was employed by Cadence. The claims released
+include, but are not limited to, any claims arising from or related to my
+employment with Cadence, such as claims arising under (as amended) Title VII of
+the Civil Rights Act of 1964, the Civil Rights Act of 1991, the Age
+Discrimination in Employment Act of 1974, the Americans with Disabilities Act,
+the Equal Pay Act, the Fair Labor Standards Act, the California Fair Employment
+and Housing Act, the California Labor Code, the Employee Retirement Income and
+Security Act of 1974 (except for any vested right I have to benefits under an
+ERISA plan), the state and federal Worker Adjustment and Retraining Notification
+Act, and the California Business and Professions Code; any other local, state,
+federal, or foreign law governing employment; and the common law of contract and
+tort. This Release is not intended to, and does not, encompass any right to
+compensation or benefits that I have under my Executive Transition and Release
+Agreement with Cadence. In no event, however, shall any claims, causes of
+action, suits, demands or other obligations or liabilities be released pursuant
+to the foregoing if and to the extent they relate to:
+
+                  i. any amounts or benefits to which Executive is or becomes
+entitled to pursuant to the provisions of this Agreement or pursuant to the
+provisions designated in Section 9.9 of the Employment Agreement to survive the
+termination of Executive's full-time employment;
+
+                  ii. claims for workers' compensation benefits under any of the
+Company's workers' compensation insurance policies or funds;
+
+                  iii. claims related to Executive's COBRA rights; and
+
+                  iv. any rights that I have or may have to be indemnified by
+Cadence pursuant to any contract, statute, or common law principle.
+
+      2. I intend that this Release cover all claims, whether or not known to
+me. I further recognize the risk that, subsequent to the execution of this
+Agreement, I may incur loss, damage or injury which I attribute to the claims
+encompassed by this Release. I expressly assume this risk by signing this
+Release and voluntarily and specifically waive any rights conferred by
+California Civil Code section 1542 which provides as follows:
+
+<PAGE>
+
+      A general release does not extend to claims which the creditor does not
+      know or suspect to exist in his favor which if known by him must have
+      materially affected his settlement with the debtor.
+
+      3. I represent and warrant that there has been no assignment or other
+transfer of any interest in any claim by me that is covered by this Release.
+
+      4. I acknowledge that Cadence has given me 21 days in which to consider
+this Release and advised me to consult an attorney about it. I further
+acknowledge that once I execute this Release, I will have an additional 7 days
+in which to revoke my acceptance of this Release by means of a written notice of
+revocation given to ________. This Release will not be final and effective until
+the expiration of this revocation period.
+
+Dated: ____________________.                     _______________________________
+                                                          Print Name
+
+                                                 _______________________________
+                                                          Sign Name
+
+                                       10
+
+<PAGE>
+
+                                  ATTACHMENT 2
+
+                                RELEASE OF CLAIMS
+
+            1. For valuable consideration, I irrevocably, fully and finally
+release Cadence Design Systems, Inc. ("Cadence"), its parent, subsidiaries,
+affiliates, directors, officers, agents and employees from all causes of action,
+claims, suits, demands or other obligations or liabilities, whether known or
+unknown, suspected or unsuspected, that I ever had or now have as of the time
+that I sign this Release which relate to my hiring, my employment with Cadence,
+the termination of my employment with Cadence and claims asserted in shareholder
+derivative actions or shareholder class actions against Cadence and its officers
+and Board of Directors, to the extent those derivative or class actions relate
+to the period during which I was employed by Cadence. The claims released
+include, but are not limited to, any claims arising from or related to my
+employment with Cadence, such as claims arising under (as amended) Title VII of
+the Civil Rights Act of 1964, the Civil Rights Act of 1991, the Age
+Discrimination in Employment Act of 1974, the Americans with Disabilities Act,
+the Equal Pay Act, the Fair Labor Standards Act, the California Fair Employment
+and Housing Act, the California Labor Code, the Employee Retirement Income and
+Security Act of 1974 (except for any vested right I have to benefits under an
+ERISA plan), the state and federal Worker Adjustment and Retraining Notification
+Act, and the California Business and Professions Code; any other local, state,
+federal, or foreign law governing employment; and the common law of contract and
+tort. This Release is not intended to, and does not, encompass any right to
+compensation or benefits that I have under my Executive Transition and Release
+Agreement with Cadence. In no event, however, shall any claims, causes of
+action, suits, demands or other obligations or liabilities be released pursuant
+to the foregoing if and to the extent they relate to:
+
+                  i. any amounts or benefits to which Executive is or becomes
+entitled to pursuant to the provisions of this Agreement or pursuant to the
+provisions designated in Section 9.9 of the Employment Agreement to survive the
+termination of Executive's full-time employment;
+
+                  ii. claims for workers' compensation benefits under any of the
+Company's workers' compensation insurance policies or funds;
+
+                  iii. claims related to Executive's COBRA rights; and
+
+                  iv. any rights that I have or may have to be indemnified by
+Cadence pursuant to any contract, statute, or common law principle.
+
+      2. I intend that this Release cover all claims, whether or not known to
+me. I further recognize the risk that, subsequent to the execution of this
+Agreement, I may incur loss, damage or injury which I attribute to the claims
+encompassed by this Release. I expressly assume this risk by signing this
+Release and voluntarily and specifically waive any rights conferred by
+California Civil Code section 1542 which provides as follows:
+
+<PAGE>
+
+      A general release does not extend to claims which the creditor does not
+      know or suspect to exist in his favor which if known by him must have
+      materially affected his settlement with the debtor.
+
+      3. I represent and warrant that there has been no assignment or other
+transfer of any interest in any claim by me that is covered by this Release.
+
+      4. I acknowledge that Cadence has given me 21 days in which to consider
+this Release and advised me to consult an attorney about it. I further
+acknowledge that once I execute this Release, I will have an additional 7 days
+in which to revoke my acceptance of this Release by means of a written notice of
+revocation given to ________. This Release will not be final and effective until
+the expiration of this revocation period.
+
+Dated: ____________________.                     _______________________________
+                                                          Print Name
+
+                                                 _______________________________
+                                                          Sign Name
+
+                                       12
+
+<PAGE>
+
+                                    EXHIBIT C
+
+            EMPLOYEE PROPRIETARY INFORMATION AND INVENTIONS AGREEMENT
+<PAGE>
+
+                          CADENCE DESIGN SYSTEMS, INC.
+
+            EMPLOYEE PROPRIETARY INFORMATION AND INVENTIONS AGREEMENT
+
+      In consideration of my employment or continued employment by Cadence
+Design Systems, Inc. or one of its subsidiaries (collectively, the "Company"),
+and the compensation now and hereafter paid to me, I hereby accept and agree to
+the following:
+
+1. NONDISCLOSURE
+
+      1.1 RECOGNITION OF COMPANY'S RIGHTS; NONDISCLOSURE. At all times, during
+my employment and thereafter, I will hold in strictest confidence and will not
+disclose, use, lecture upon, or publish any of the Company's Proprietary
+Information (defined below) unless: (a) such disclosure, use or publication may
+be required in connection with my work for the Company; or (b) an officer of the
+Company provides advance written authorization for such disclosure, use or
+publication. I will obtain the advance written authorization of an officer of
+the Company before publishing or submitting for publication any material
+(written, spoken, or otherwise) that relates to my work at the Company and/or
+incorporates any Proprietary Information. I understand that all Proprietary
+Information shall be the sole property of the Company and its assigns.
+
+      1.2 PROPRIETARY INFORMATION. The term "Proprietary Information" shall mean
+any and all confidential and/or proprietary knowledge, data or information
+belonging to the Company. By way of illustration but not limitation,
+"Proprietary Information" includes (a) information relating to products,
+processes, know-how, designs, drawings, concepts, circuits, test data, formulas,
+methods, compositions, algorithms, techniques, developmental or experimental
+work, improvements, unpublished patent applications, source code and discoveries
+(hereinafter collectively referred to as "Inventions"); (b) information
+regarding plans for research, development, new products, marketing and selling,
+business plans, budgets and unpublished financial statements, licenses, prices
+and costs, suppliers and customers; (c) customer and vendor lists, contacts,
+plans, and agreements with customers, vendors, and others; (d) program and
+product designs, specifications; and (e) personnel and contact lists,
+organization charts and all confidential employee data, including without
+limitation information regarding the skills, expertise and compensation of
+Cadence personnel.
+
+      1.3 THIRD PARTY INFORMATION. I understand that the Company has in its
+possession, and will continue to receive, confidential or proprietary
+information belonging to third parties ("Third Party Information"), which the
+Company is obligated to keep confidential and to use only for certain prescribed
+purposes. During my employment with the Company and continuing thereafter, I
+will hold all Third Party Information in the strictest confidence and will not
+disclose it to anyone (other than Company personnel who need to know such
+information in connection with their work for the Company) or use it for any
+purpose (except in connection with my work for the Company), without the advance
+written authorization of an officer of the Company.
+
+      1.4 NO IMPROPER USE OF INFORMATION OF PRIOR EMPLOYERS AND OTHERS. During
+my employment with the Company I will not improperly use or disclose any
+confidential information or trade secrets of any former employer or any other
+person to whom I have an obligation of confidentiality. In addition, I will not
+bring any unpublished documents or any property belonging to my former employer
+or any other person to whom I have an obligation of confidentiality onto the
+Company's premises without first obtaining and providing to my manager written
+authorization from that former employer or person. I will use in the performance
+of my duties only information that is: (a) generally known and used by persons
+with training and experience comparable to my own; (b) common knowledge in the
+industry or otherwise legally in the public domain; or (c) otherwise provided or
+developed by the Company.
+
+2. ASSIGNMENT OF INVENTIONS
+
+      2.1 INVENTIONS AND PROPRIETARY RIGHTS. The term "Proprietary Rights" shall
+mean all trade secret, patent, copyright, mask work and other intellectual
+property rights throughout the world. The term "Inventions" is defined in
+Section 1.2 above. The term "Company Inventions" shall mean all Inventions, and
+all Proprietary Rights with respect to Inventions, that I have, directly or
+indirectly, alone or jointly with others, made, authored, conceived, developed
+or reduced to practice during my employment with the Company and for one (1)
+year thereafter, as well as any and all patent applications
+
+                                       1.
+
+<PAGE>
+
+filed by me or by a third party based on such Inventions.
+
+      2.2 ASSIGNMENT OF INVENTIONS. I hereby assign to the Company, or to a
+third party as directed by the Company, all my rights, title and interest in and
+to any and all Company Inventions.
+
+      2.3 PRIOR INVENTIONS AND NON-EMPLOYMENT INVENTIONS. As an exception to
+Section 2.2, I understand that I am not required to assign, and do not hereby
+assign, under this Agreement:
+
+(a) any Invention to the extent it was created by me prior to the commencement
+of my employment with the Company (each a "Prior Invention"), or
+
+(b) any Invention that does not relate to the Company's business (or actual or
+demonstrably anticipated research and development) and does not result from any
+work I perform for the Company, to the extent that I develop such Invention
+entirely on my own time without using the Company's equipment, supplies,
+facilities or Proprietary Information (each a "Non-employment Invention"). To
+preclude any possible uncertainty, I have set forth on Exhibit B attached hereto
+a complete list of all Prior Inventions. If disclosure of any such Prior
+Invention(s) would cause me to violate any prior confidentiality agreement, I
+understand that I am not to list such Prior Invention(s) in Exhibit B, but am
+only to disclose a cursory name for each such invention, a listing of the
+party(ies) to whom it belongs and the fact that full disclosure as to such
+inventions has not been made for that reason. A space is provided on Exhibit B
+for such purpose. If no such disclosure is attached, I represent that there are
+no Prior Inventions. I agree that I will not incorporate, or permit to be
+incorporated, Prior Inventions or Non-employment Inventions in any work I do for
+the Company without the advance written authorization of an officer of the
+Company. If, in the course of my employment with the Company, I do, in violation
+of this section, incorporate a Prior Invention or a Non-employment Invention
+into work I do for the Company, I hereby grant the Company, and will take all
+reasonable actions necessary to assist the Company in obtaining, a nonexclusive,
+royalty-free, irrevocable, perpetual, worldwide license (with rights to
+sublicense through multiple tiers of sublicensees) to make, have made, modify,
+use and sell such Prior Inventions and Non-employment Inventions.
+
+      2.4 OBLIGATION TO KEEP COMPANY INFORMED. I agree to promptly disclose to
+the Company fully and in writing all Company Inventions. In addition, I agree to
+promptly disclose to the Company all patent applications filed by me or on my
+behalf during my employment, or after if based on a Company Invention. At the
+time of each such disclosure, I will advise the Company in writing of any
+Inventions that I believe fully qualify as Non-employment Inventions and I will
+provide the Company with a written account of all of the evidence necessary to
+substantiate my belief.
+
+      2.5 OBLIGATIONS OF CONFIDENTIALITY. The Company agrees to keep in
+confidence and not use for any purpose or disclose to third parties, without my
+consent, any confidential information disclosed in writing to the Company
+pursuant to this Agreement relating to Non-employment Inventions, except as
+reasonably necessary to exercise any licenses I may grant to the Company
+regarding such Non-employment Inventions. I agree to keep in confidence and not
+use for any purpose other than the performance of my duties to the Company, or
+disclose to third parties without the Company's consent, any Proprietary
+Information or Company Inventions.
+
+      2.6 WORKS FOR HIRE. I acknowledge that all original works of authorship,
+which are made by me (solely or jointly with others) within the scope of my
+employment and which are protectable by copyright are "works made for hire,"
+pursuant to United States Copyright Act (17 U.S.C. Section 101).
+
+      2.8 ENFORCEMENT OF PROPRIETARY RIGHTS.
+
+(a) During and after my employment with the Company, I will assist the Company
+in every proper way to obtain, and from time to time enforce, Proprietary Rights
+relating to Company Inventions in any and all countries and jurisdictions. To
+that end I will execute, verify and deliver such documents, appear as a witness,
+and perform other acts as the Company may reasonably request in connection with
+applying for, obtaining, perfecting, evidencing, defending, sustaining and
+enforcing its Proprietary Rights and the assignment thereof. In addition, I will
+execute, verify and deliver assignments of Proprietary Rights to the Company or
+its designee. My obligation to assist the Company with respect to Proprietary
+Rights relating to Company Inventions in any and all countries shall continue
+beyond the termination of my employment.
+
+(b) In the event the Company is unable for any reason, after reasonable effort,
+to secure my signature on any document needed in connection with the actions
+specified in the preceding paragraph, I hereby irrevocably designate and appoint
+the Company and its duly authorized officers and agents as my agent and
+attorney-in-fact. This appointment is coupled with an interest to act for and on
+my behalf to execute, verify and file any such documents and to do all other
+lawfully permitted acts to further the purposes of the preceding paragraph with
+the same legal force and effect as if executed by me.
+
+                                       2.
+
+<PAGE>
+
+(c) I hereby waive and quitclaim to the Company any and all claims, of any
+nature whatsoever, which I now or may hereafter have for infringement of any
+Proprietary Rights assigned hereunder to the Company.
+
+3. RECORDS. I agree to keep and maintain adequate and current records (in the
+form of notes, sketches, drawings, electronic files, and in any other form that
+may be required by the Company) of all Proprietary Information developed by me
+and all Company Inventions (the "Company Records"). I agree not to keep copies
+of the Company Records in locations outside the Company unless necessary to
+fulfill my duties to the Company, and then only upon obtaining prior written
+approval from my manager. I agree that the Company Records are the sole property
+of the Company and I agree to make Company Records available to the Company at
+all times.
+
+4. RETURN OF COMPANY DOCUMENTS AND PROPERTY. When I leave the employ of the
+Company, I will deliver to either my manager or the Company's legal department:
+
+(a) all drawings, notebooks, notes, memoranda, source code, specifications,
+devices, formulas, records, manuals, reports and documents, together with all
+copies thereof in my possession, custody or control;
+
+(b) all Company Records and any other material containing or disclosing any
+Company Inventions, Third Party Information or Proprietary Information in my
+possession, custody or control, and
+
+(c) all Company property or Company equipment in my possession, custody or
+control. Prior to leaving, I will cooperate with the Company in completing and
+signing the Company's Exit Acknowledgement form.
+
+5. ADDITIONAL ACTIVITIES. I agree that during my employment with the Company I
+will not engage in any employment outside the Company nor will I engage in any
+business activity, which is competitive with or would otherwise conflict with my
+employment with the Company, without first obtaining the prior written approval
+of the Office of the General Counsel. A form for obtaining such approval is
+available to me through the Company's Intranet.
+
+6. NO SOLICITATION. I agree that during the term of my employment with the
+Company, and for a period of one (1) year following the date of my termination
+of employment with the Company, I will not: (a) solicit or recruit, for my own
+benefit or on behalf of any entity, any person who is at that time an employee
+of the Company or who has been employed by the Company for any period of time
+during the previous three (3) months, nor shall I induce or encourage any such
+person to leave the employ of the Company; or (b) solicit the business of any
+client or customer of the Company with whom I had a relationship while employed
+with the Company or whom I know as a result of my employment with the Company.
+
+7. NO CONFLICTING OBLIGATION. I represent that I owe no obligations, of
+confidentiality or otherwise, to any third party that could:
+
+(a) prevent me from performing the duties of my job with the Company; or
+
+(b) prevent me from fully complying with the terms of this Agreement.
+
+8. NON-PRIVATE NATURE OF COMPANY PROPERTY. I understand that I shall have no
+right to or expectation of privacy in the voicemail, computing and communication
+devices, electronic mail, and instant messaging and other communication media,
+provided to me by the Company or in any property situated on the Company's
+premises and/or owned by the Company, including computing and communication
+devices, disks and other storage media, filing cabinets, desks, cubicles,
+offices or other work areas. I further understand that such property, including
+voicemail, computing and communication devices, electronic mail and instant
+messaging and other communication media is subject to inspection by Company
+personnel at any time.
+
+9. AT-WILL EMPLOYMENT. I understand and agree the Company is an at-will employer
+and that nothing in this Agreement shall confer any right with respect to
+continuation of employment by the Company, nor shall it interfere in any way
+with my right or the Company's right to terminate the employment relationship at
+any time, for any reason, with or without cause, and with or without notice. I
+further understand that only a written agreement signed by the executive in
+charge of Human Resources can alter the at-will nature of my employment with the
+Company.
+
+10. NOTICES. Any notices required or permitted by this Agreement shall be given
+to the Company at its San Jose, California headquarters' address, and to me at
+the address specified beneath my signature below, unless either party specifies
+in writing its preference to receive notices relating to this Agreement at
+another address. Such notice shall be deemed given upon personal delivery to the
+appropriate address or if sent by certified or registered mail, three (3) days
+after the date of mailing.
+
+11. NOTIFICATION OF NEW EMPLOYER. In the event that I leave the employ of the
+Company, I
+
+                                       3.
+
+<PAGE>
+
+hereby authorize the Company to notify my new employer of my rights and
+obligations under this Agreement.
+
+12. GENERAL PROVISIONS.
+
+      12.1 GOVERNING LAWS, CONSENT TO PERSONAL JURISDICTION. This Agreement will
+be governed by and construed according to the laws of the State of California,
+as such laws are applied to agreements entered into and to be performed entirely
+within California between California residents. Alternatively, if my last place
+of employment with the Company is in a location outside of California, then
+Sections 5 and 6 of this Agreement shall be governed by and construed by the
+laws of that State. I hereby expressly consent to the personal jurisdiction of
+the state and federal courts located in Santa Clara County, California for any
+lawsuit filed there against me by Company arising from or related to this
+Agreement.
+
+      12.2 SEVERABILITY. In the event any of the provisions contained in this
+Agreement are, for any reason, held to be invalid, illegal or unenforceable in
+any respect, such invalidity, illegality or unenforceability shall not affect
+the other provisions of this Agreement, and this Agreement shall be construed as
+if such invalid, illegal or unenforceable provision had never been contained
+herein. If, moreover, any of the provisions contained in this Agreement are for
+any reason held to be excessively broad as to duration, geographic scope,
+activity or subject, such provisions shall be construed by limiting the
+duration, geographic scope, activity or subject only to the extent necessary to
+render them enforceable and compatible with applicable law.
+
+      12.3 SURVIVAL. The provisions of this Agreement shall survive the
+termination of my employment and the assignment of this Agreement by the Company
+to any successor in interest or other assignee.
+
+      12.4 WAIVER. No waiver by the Company of any breach of this Agreement
+shall be a waiver of any preceding or succeeding breach. No waiver by the
+Company of any right under this Agreement shall be construed as a wavier of any
+other right. The Company shall not be required to give notice to enforce strict
+adherence to all terms of this Agreement.
+
+      12.5 ENTIRE AGREEMENT. This Agreement, together with the Cadence Code of
+Business Conduct and my offer letter, both of which I have signed, and both of
+which are incorporated herein, constitute the complete and exclusive agreement
+of the parties with respect to the subject matter hereof and supersedes all
+prior discussions between us. No modification of or amendment to this Agreement,
+nor any waiver of any rights under this Agreement, will be effective unless in
+writing and signed by the Company's General Counsel. Any subsequent change or
+changes in my duties, salary or compensation will not affect the validity or
+scope of this Agreement.
+
+      This Agreement shall be effective as of the first day of my employment
+with the Company, namely: December 30, 2004.
+
+      I HAVE READ THIS AGREEMENT CAREFULLY AND UNDERSTAND ITS TERMS. I HAVE
+COMPLETELY FILLED OUT EXHIBIT B TO THIS AGREEMENT.
+
+Dated: December 30, 2004
+
+/s/ William Porter
+- ---------------------------------------
+Signature
+
+William Porter
+- ---------------------------------------
+(Printed Name)
+
+
+- ---------------------------------------
+(Address)
+
+
+- ---------------------------------------
+(Address)
+
+
+- ---------------------------------------
+(Address)
+
+                                       4.
+
+<PAGE>
+
+                                    EXHIBIT A
+
+                         LIMITED EXCLUSION NOTIFICATION
+
+      THIS IS TO NOTIFY you in accordance with Section 2872 of the California
+Labor Code that the foregoing Agreement between you and the Company does not
+require you to assign or offer to assign to the Company any invention that you
+developed entirely on your own time without using the Company's equipment,
+supplies, facilities or trade secret information except for those inventions
+that either:
+
+      (1) Relate at the time of conception or reduction to practice of the
+invention to the Company's business, or actual or demonstrably anticipated
+research or development of the Company; or
+
+      (2) Result from any work performed by you for the Company.
+
+      To the extent a provision in the foregoing Agreement purports to require
+you to assign an invention otherwise excluded from the preceding paragraph, the
+provision is against the public policy of this state and is unenforceable.
+
+      This limited exclusion does not apply to any patent or invention covered
+by a contract between the Company and the United States or any of its agencies
+requiring full title to such patent or invention to be in the United States.
+
+      By signing below, I ACKNOWLEDGE RECEIPT of this notification.
+
+                                          By: /s/ William Porter
+                                              ----------------------------------
+
+                                          Print Name of Employee: William Porter
+
+                                          Date: December 30, 2004
+
+WITNESSED BY:
+
+/s/ Christina R. Jones
+- ------------------------------------
+Signature of Witness
+
+CHRISTINA R. JONES
+- ------------------------------------
+(printed name of witness)
+
+                                       5.
+
+<PAGE>
+
+                                    EXHIBIT B
+
+TO: Cadence Design Systems, Inc.
+
+FROM: William Porter
+      ---------------------------
+      (Print name of employee)
+
+DATE: December 30, 2004
+
+SUBJECT: Prior Inventions
+
+      1. Except as listed in Section 2 below, the following is a complete list
+of all inventions or improvements relevant to the subject matter of my
+employment by Cadence Design Systems, Inc. (the "Company") that have been made
+or conceived or first reduced to practice by me alone or jointly with others
+prior to my employment or consulting relationship with by the Company [CHECK THE
+APPLICABLE BOXE(S)]:
+
+      [X] No inventions or improvements.
+
+      [ ] See below:
+
+      ______________________________________________________________________
+      ______________________________________________________________________
+      ______________________________________________________________________
+
+      [ ] Additional sheets attached.
+
+      2. Due to a prior confidentiality agreement, I cannot complete the
+disclosure under Section 1 above with respect to inventions or improvements
+generally listed below, the proprietary rights and duty of confidentiality with
+respect to which I owe to the following party(ies) [CHECK THE APPLICABLE
+BOXE(S)]:
+
+      [X] Not applicable.
+
+      Invention or Improvement        Party (ies)              Relationship
+1.    ___________________________     ______________________   _________________
+
+2.    ___________________________     ______________________   _________________
+
+3.    ___________________________     ______________________   _________________
+
+      [ ] Additional sheets attached.
+
+                                          By: /s/ William Porter
+                                              ----------------------------------
+
+                                          Print Name of Employee: William Porter
+
+                                          Date: December 30, 2004
+
+                                       6.
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

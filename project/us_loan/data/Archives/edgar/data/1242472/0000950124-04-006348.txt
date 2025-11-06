@@ -1,0 +1,3621 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ H8sanRd7BmfpZj6zhdrZVYDmsDQek53tRUhrftYCRRXeapM+fvz2xlDndHIopFqO
+ uZuFJXTS7gHkJG/IPrQVUg==
+
+<SEC-DOCUMENT>0000950124-04-006348.txt : 20041220
+<SEC-HEADER>0000950124-04-006348.hdr.sgml : 20041220
+<ACCEPTANCE-DATETIME>20041220131421
+ACCESSION NUMBER:		0000950124-04-006348
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20041220
+ITEM INFORMATION:		Other Events
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20041220
+DATE AS OF CHANGE:		20041220
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			VOLKSWAGEN PUBLIC AUTO LOAN SECURITIZATION LLC
+		CENTRAL INDEX KEY:			0001221498
+		STANDARD INDUSTRIAL CLASSIFICATION:	ASSET-BACKED SECURITIES [6189]
+		IRS NUMBER:				000000000
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-103709
+		FILM NUMBER:		041213432
+
+	MAIL ADDRESS:	
+		STREET 1:		3800 HAMLIN ROAD
+		CITY:			AUBURN HILLS
+		STATE:			MI
+		ZIP:			48326
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			VOLKSWAGEN AUTO LOAN ENHANCED TRUST 2003-1
+		CENTRAL INDEX KEY:			0001242472
+		STANDARD INDUSTRIAL CLASSIFICATION:	ASSET-BACKED SECURITIES [6189]
+		IRS NUMBER:				906024111
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-103709-01
+		FILM NUMBER:		041213431
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O DEUTCHE BANK TRUST CO DELAWARE
+		STREET 2:		1011 CENTRE ROAD, SUITE 200
+		CITY:			WILMINGTON
+		STATE:			DE
+		ZIP:			19805
+		BUSINESS PHONE:		2487545000
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O DEUTSCHE BANK TRUST COMPANY DELAWARE
+		STREET 2:		1011 CENTRE ROAD, SUITE 200
+		CITY:			WILMINGTON
+		STATE:			DE
+		ZIP:			19805
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>k90579e8vk.htm
+<DESCRIPTION>CURRENT REPORT, DATED DECEMBER 20, 2004
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>e8vk</TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF">
+<!-- PAGEBREAK -->
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+<HR size="4" noshade color="#000000" style="margin-top: -5px">
+<HR size="1" noshade color="#000000" style="margin-top: -10px">
+
+
+
+
+
+<P align="center" style="font-size: 14pt"><B>UNITED STATES<BR>
+SECURITIES AND EXCHANGE COMMISSION</B>
+
+<DIV align="center" style="font-size: 12pt"><B><br>Washington, D.C. 20549</B>
+</DIV>
+
+<P align="center" style="font-size: 18pt"><B>FORM 8-K</B>
+
+
+<P align="center" style="font-size: 10pt">CURRENT REPORT
+
+
+<P align="center" style="font-size: 12pt">Pursuant to Section&nbsp;13 or 15(d) of
+
+<BR>The Securities Exchange Act of 1934</DIV>
+
+
+<P align="center" style="font-size: 10pt">Date of Report (Date of earliest event reported): December&nbsp;20, 2004
+
+
+<P align="center" style="font-size: 24pt"><B>Volkswagen Public Auto Loan Securitization, LLC<BR>
+<U>Volkswagen Auto Loan Enhanced Trust 2003-1</U></B>
+
+<DIV align="center" style="font-size: 10pt">(Exact Name of Registrant as Specified in Charter)</DIV>
+
+
+<P align="center" style="font-size: 10pt">EXHIBITS
+
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="75%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="30%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="30%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="30%">&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD align="center" valign="top"><U>Delaware</U>
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top"><U>333-103709</U>
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top"><U>83-0349353</U></TD>
+</TR>
+<TR valign="bottom">
+    <TD align="center" valign="top">
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top"><U>333-103709-01</U>
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top"><U>90-6024111</U></TD>
+</TR>
+<TR valign="bottom">
+    <TD align="center" valign="top">(State or other jurisdiction
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">(Commission File Number)
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">(Registrants&#146; IRS</TD>
+</TR>
+<TR valign="bottom">
+    <TD align="center" valign="top">of Incorporation)
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">Employer Id. Nos.)</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+<P align="center" style="font-size: 10pt"><U>3800 Hamlin Road, Auburn Hills, Michigan 48326</U><BR>
+(Address of Principal Executive Offices) (Zip Code)
+
+
+<P align="center" style="font-size: 10pt">Registrant&#146;s telephone number, including area code: (248)&nbsp;754-5000
+
+
+<P align="center" style="font-size: 10pt"><U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Applicable&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U><BR>
+(Former Name or Former Address, if Changed Since Last Report)
+
+
+<P align="center" style="font-size: 10pt"><HR size="1" noshade width="25%" align="center">
+
+<P align="left" style="font-size: 10pt">Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing
+obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+<P align="left" style="font-size: 10pt"><FONT face="Wingdings">&#111;</FONT> Written communications pursuant to Rule&nbsp;425 under the Securities Act (17 CFR 230.425)
+
+<P align="left" style="font-size: 10pt"><FONT face="Wingdings">&#111;</FONT> Soliciting material pursuant to Rule&nbsp;14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+<P align="left" style="font-size: 10pt"><FONT face="Wingdings">&#111;</FONT> Pre-commencement communications pursuant to Rule&nbsp;14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+<P align="left" style="font-size: 10pt"><FONT face="Wingdings">&#111;</FONT> Pre-commencement communications pursuant to Rule&nbsp;13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+
+<P>
+<HR size="1" noshade color="#000000" style="margin-top: -2px">
+<HR size="4" noshade color="#000000" style="margin-top: -10px">
+
+
+
+
+
+
+<P align="center" style="font-size: 10pt">&nbsp;
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+
+
+<!-- TOC -->
+<A name="toc"><DIV align="CENTER" style="page-break-before:always"><U><B>TABLE OF CONTENTS</B></U></DIV></A>
+
+<P><CENTER>
+<TABLE border="0" width="90%" cellpadding="0" cellspacing="0">
+<TR>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="76%"></TD>
+</TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#000">Item&nbsp;8.01. Other Events</A></TD></TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#001">Item&nbsp;9.01. Financial Statements, and Exhibits,</A></TD></TR>
+<TR><TD colspan="9"><A HREF="#002">Exhibit&nbsp;Index</A></TD></TR>
+<TR><TD colspan="9"><A HREF="k90579exv99w1.htm">Volkswagen Auto Loan Enhanced Trust 2003-1 Servicer Certificate</A></TD></TR>
+</TABLE>
+</CENTER>
+<!-- /TOC -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+
+
+
+<!-- link2 "Item&nbsp;8.01. Other Events" -->
+<DIV align="left"><A NAME="000"></A></DIV>
+
+<P align="left" style="font-size: 10pt">Item&nbsp;8.01. Other Events
+
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On December&nbsp;20, 2004, The Bank of New York, as indenture trustee, made the monthly payment to
+the noteholders, as indicated in the Servicer Certificate relating to Volkswagen Auto Loan Enhanced
+Trust 2003-1. A copy of this Servicer Certificate, which relates to the December&nbsp;20, 2004&nbsp;monthly
+payment and the Collection Period ended November&nbsp;27, 2004, provided to The Bank of New York, as
+indenture trustee, is attached hereto as Exhibit&nbsp;99.1 and is incorporated herein by reference.
+
+<!-- link2 "Item&nbsp;9.01. Financial Statements, and Exhibits," -->
+<DIV align="left"><A NAME="001"></A></DIV>
+
+<P align="left" style="font-size: 10pt">Item&nbsp;9.01. Financial Statements, and Exhibits,
+
+
+
+<P align="left" style="font-size: 10pt">Exhibits&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(c)
+
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="75%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="17%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="78%">&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">Exhibit&nbsp;99.1
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Volkswagen Auto Loan Enhanced Trust 2003-1 Servicer
+Certificate for the Collection Period ended November&nbsp;27, 2004
+provided to The Bank of New York, as indenture trustee.
+(Filed with this report.)</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pursuant to the requirements of the Securities Exchange Act of 1934, the
+Co-Registrants have duly caused this report to be signed on its behalf by the undersigned thereunto
+duly authorized on the date indicated.
+
+
+<P align="center" style="font-size: 10pt">&nbsp;
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+<TABLE width="100%" border="0" cellspacing="0" cellpadding="0" style="font-size: 10pt">
+<TR>
+    <TD width="48%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="35%">&nbsp;</TD>
+    <TD width="15%">&nbsp;</TD>
+</TR>
+<TR>
+    <TD valign="top" align="left">Dated: December 20, 2004&nbsp;</TD>
+    <TD colspan="3" align="left">Volkswagen Public Auto Loan Securitization, LLC<BR>
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">&nbsp;</TD>
+    <TD valign="top">By:&nbsp;&nbsp;</TD>
+    <TD colspan="2" align="left">/s/ Timothy J. Flaherty<hr size="1" noshade></TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="2" align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Timothy J. Flaherty&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="2" align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Assistant Treasurer&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+</TABLE>
+<TABLE width="100%" border="0" cellspacing="0" cellpadding="0" style="font-size: 10pt">
+<TR>
+    <TD width="48%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="35%">&nbsp;</TD>
+    <TD width="15%">&nbsp;</TD>
+</TR>
+<TR>
+    <TD valign="top" align="left">&nbsp;</TD>
+    <TD colspan="3" align="left">Volkswagen Auto Loan Enhanced Trust 2003-1<BR>
+By: VW Credit, Inc. as Administrator<BR>
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">&nbsp;</TD>
+    <TD valign="top">By:&nbsp;&nbsp;</TD>
+    <TD colspan="2" align="left">/s/ Timothy J. Flaherty<hr size="1" noshade></TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="2" align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Timothy J. Flaherty&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="2" align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Assistant Treasurer&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+</TABLE>
+
+<P align="center" style="font-size: 10pt">&nbsp;
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<TABLE width="100%" border="0" cellspacing="0" cellpadding="0" style="font-size: 10pt">
+<TR>
+    <TD width="48%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="35%">&nbsp;</TD>
+    <TD width="15%">&nbsp;</TD>
+</TR>
+
+</TABLE>
+<!-- link1 "Exhibit&nbsp;Index" -->
+<DIV align="left"><A NAME="002"></A></DIV>
+
+<P align="center" style="font-size: 10pt">Exhibit&nbsp;Index
+
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="75%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="17%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="78%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD nowrap align="left"><B>No.</B><HR size="1" noshade></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center"><B>Description</B><HR size="1" noshade></TD>
+</TR>
+
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">Exhibit&nbsp;99.1
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Volkswagen Auto Loan Enhanced Trust 2003-1 Servicer
+Certificate for the Collection Period ended November&nbsp;27, 2004
+provided to The Bank of New York, as indenture trustee.
+(Filed with this report.)</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+
+<P align="center" style="font-size: 10pt">&nbsp;
+</DIV>
+
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>k90579exv99w1.htm
+<DESCRIPTION>VOLKSWAGEN AUTO LOAN ENHANCED TRUST 2003-1 SERVICER CERTIFICATE
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>exv99w1</TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF">
+<!-- PAGEBREAK -->
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+<CENTER>
+<TABLE cellspacing="0" border="0" cellpadding="0" width="100%">
+<TR valign="bottom">
+    <TD width="3%">&nbsp;</TD>
+    <TD width="8%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="7%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="6%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="6%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="6%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="6%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="4%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="8%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="8%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="4%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="4%">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD colspan="23" valign="top"><FONT size="2"><B>Volkswagen Auto Loan Enhanced Trust 2003-1</B></FONT></TD>
+    <TD><FONT size="2">Input</FONT></TD>
+    <TD align="left" valign="top"><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"  colspan="23"><FONT size="2"><B>MONTHLY SERVICER CERTIFICATE</B></FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="left" valign="top"><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+<TR>
+    <TD valign="top"  colspan="23"><FONT size="2"><B>For the collection period ended 11-27-2004&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Data Current as of 12/07/2004 9:52:10 AM</B>
+</FONT></TD>
+    <TD align="left" valign="top" nowrap colspan="2"><FONT size="2">
+<B>PAGE 1</B></FONT></TD>
+</TR>
+<TR>
+    <TD valign="top" colspan="25"><FONT size="2">
+<HR size="4" noshade>
+</FONT></TD>
+</TR>
+<tr><td>&nbsp;</td></tr>
+<TR valign="bottom">
+    <TD nowrap align="left"><FONT size="2"><B><I>A.</I></B></FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD colspan="2" align="left"><FONT size="2"><i><B>DATES</B></i></FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD nowrap align="center" colspan="2"><FONT size="1"><i><B>Begin</B></i></FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD nowrap align="center" colspan="2"><FONT size="1"><i><B>End</B></i></FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD nowrap align="center" colspan="2"><FONT size="1"><i><B># days</B></i></FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+</TR>
+<TR valign="bottom">
+ <TD valign="top" colspan="25"><FONT size="1"><hr size="1" noshade></FONT></TD>
+</TR>
+
+<TR valign="bottom" bgcolor="#eeeeee">
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">1</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="3" align="left"><FONT size="2">Determination Date</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">12/16/2004</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+<TR>
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">&nbsp;</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="left"><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+     <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+   <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="center" nowrap colspan="2"><HR size="1" noshade></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">2</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="3" align="left"><FONT size="2">Payment Date</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+     <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+   <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">12/20/2004</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+<TR>
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">&nbsp;</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="left"><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="center" nowrap colspan="2"><HR size="1" noshade></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+<TR valign="bottom" bgcolor="#eeeeee">
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">3</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="3" align="left"><FONT size="2">Collection Period</FONT></TD>
+      <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+  <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">10/31/2004</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">11/27/2004</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">28</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+<TR>
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">&nbsp;</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="left"><FONT size="2">&nbsp;</FONT></TD>
+     <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+   <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="center" nowrap colspan="11"><HR size="1" noshade></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">4</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD nowrap colspan="3" align="left"><FONT size="2">Monthly Interest Period - Actual/360</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">11/22/2004</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">12/19/2004</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">28</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+<TR>
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">&nbsp;</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="left"><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="center" nowrap colspan="11"><HR size="1" noshade></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+<TR valign="bottom" bgcolor="#eeeeee">
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">5</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="3" align="left"><FONT size="2">Monthly Interest - 30/360</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">30</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+<TR>
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">&nbsp;</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="center" nowrap colspan="20"><HR size="4" noshade></TD>
+        <TD align="center" nowrap colspan="4"><HR size="4" noshade></TD>
+</TR>
+<tr><td>&nbsp;</td></tr>
+<TR valign="bottom">
+    <TD valign="top"><FONT size="2"><i><B>B.</B></i></FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD colspan="2" align="left"><FONT size="2"><i><B>SUMMARY</B></i></FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+</TR>
+<tr><td colspan="25"><hr size="1" noshade></td></tr>
+<TR valign="bottom">
+    <TD valign="top"></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD colspan="2" align="left"></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD nowrap align="center" colspan="2"><FONT size="1"><i><B>Initial Balance</B></i></FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD nowrap align="center" colspan="2"><FONT size="1"><i><B>Beginning Balance</B></i></FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD nowrap align="center" colspan="2"><FONT size="1"><i><B>Principal Payment</B></i></FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD nowrap align="center" colspan="2"><FONT size="1"><i><B>Ending Balance</B></i></FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD nowrap align="center" colspan="2"><FONT size="1"><i><B>Note Factor</B></i></FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD align="left"><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD colspan="2"><HR size="1" noshade></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD colspan="2"><HR size="1" noshade></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD colspan="2"><HR size="1" noshade></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD colspan="2"><HR size="1" noshade></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD colspan="2"><HR size="1" noshade></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+</TR>
+<TR valign="bottom" bgcolor="#eeeeee">
+    <TD valign="top"><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">6</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="3" align="left"><FONT size="2">Class A-1 Notes</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">315,000,000.00</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">&#151;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">&#151;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">&#151;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">&#151;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">7</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="3" align="left"><FONT size="2">Class A-2 Notes</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">370,000,000.00</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">47,750,712.46</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">28,573,524.09</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">19,177,188.37</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">0.0518302</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR valign="bottom" bgcolor="#eeeeee">
+
+    <TD valign="top"><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">8</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="3" align="left"><FONT size="2">Class A-3 Notes</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">385,000,000.00</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">385,000,000.00</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">&#151;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">385,000,000.00</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">1.0000000</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">9</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="3" align="left"><FONT size="2">Class A-4 Notes</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">214,173,000.00</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">214,173,000.00</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">&#151;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">214,173,000.00</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">1.0000000</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR valign="bottom" bgcolor="#eeeeee">
+
+    <TD valign="top"><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">10</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="3" align="left"><FONT size="2">Class B Notes</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">29,559,766.00</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">29,559,766.00</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">&#151;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">29,559,766.00</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">1.0000000</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+<TR valign="bottom">
+    <TD><FONT size="2">&nbsp;</FONT></TD>    <TD><FONT size="2">&nbsp;</FONT></TD>
+ <TD valign="top" colspan="23"><FONT size="1"><hr size="1" noshade></FONT></TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">11</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+
+<TD colspan="3" align="left"><FONT size="2"><DIV style="margin-left:10px; text-indent:-10px"><b>Total Securities</b></div></FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="left"><FONT size="2"><b>$</b></FONT></TD>
+    <TD align="right"><FONT size="2"><b>1,313,732,766.00</b></FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="left"><FONT size="2"><b>$</b></FONT></TD>
+    <TD align="right"><FONT size="2"><b>676,483,478.46</b></FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="left"><FONT size="2"><b>$</b></FONT></TD>
+    <TD align="right"><FONT size="2"><b>28,573,524.09</b></FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="left"><FONT size="2"><b>$</b></FONT></TD>
+    <TD align="right"><FONT size="2"><b>647,909,954.37</b></FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+
+
+
+
+<TR valign="bottom">
+    <TD><FONT size="2">&nbsp;</FONT></TD>    <TD><FONT size="2">&nbsp;</FONT></TD>
+ <TD valign="top" colspan="23"><FONT size="1"><hr size="4" noshade></FONT></TD>
+</TR>
+
+<TR valign="bottom" bgcolor="#eeeeee">
+    <TD valign="top"><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">12</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+<TD colspan="3" align="left"><FONT size="2"><DIV style="margin-left:10px; text-indent:-10px"><b>Net Pool Balance</b></div></FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="left"><FONT size="2"><b>$</b></FONT></TD>
+    <TD align="right"><FONT size="2"><b>1,334,414,493.82</b></FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="left"><FONT size="2"><b>$</b></FONT></TD>
+    <TD align="right"><FONT size="2"><b>686,143,939.35</b></FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="left"><FONT size="2"><b>&nbsp;</b></FONT></TD>
+    <TD align="right"><FONT size="2"><b>&nbsp;</b></FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="left"><FONT size="2"><b>$</b></FONT></TD>
+    <TD align="right"><FONT size="2"><b>657,082,971.39</b></FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+
+<TR valign="bottom">
+    <TD><FONT size="2">&nbsp;</FONT></TD>    <TD><FONT size="2">&nbsp;</FONT></TD>
+ <TD valign="top" colspan="23"><FONT size="1"><hr size="4" noshade></FONT></TD>
+</TR>
+
+
+
+
+<tr><td>&nbsp;</td></tr>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">&nbsp;</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="left"><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="3" align="center"><FONT size="1"><i><b>Per $1000</b></i></FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="3" align="center"><FONT size="1"><i><b>Principal &#038; Interest</b></i></FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="3" align="center"><FONT size="1"><i><b>Per $1000</b></i></FONT></TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">&nbsp;</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="left"><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="3" align="center"><FONT size="1"><i><b>Coupon Rate</b></i></FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="3" align="center"><FONT size="1"><i><b>Interest Pmt Due</b></i></FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="3" align="center"><FONT size="1"><i><b>Face Amount</b></i></FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="3" align="center"><FONT size="1"><i><b>Payment Due</b></i></FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="3" align="center"><FONT size="1"><i><b>Face Amount</b></i></FONT></TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">&nbsp;</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="left"><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="3" align="center"><FONT size="2"><hr size="1" noshade></FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="3" align="center"><FONT size="2"><hr size="1" noshade></FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="3" align="center"><FONT size="2"><hr size="1" noshade></FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="3" align="center"><FONT size="2"><hr size="1" noshade></FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+
+<TD colspan="3" align="center"><FONT size="2"><hr size="1" noshade></FONT></TD>
+</TR>
+
+
+<TR valign="bottom" bgcolor="#eeeeee">
+
+    <TD valign="top"><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">13</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="3" align="left"><FONT size="2">Class A-1 Notes</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD nowrap align="left"><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">1.0050</FONT></TD>
+    <TD nowrap><FONT size="2">%</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">&#151;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">&#151;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">&#151;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">&#151;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">14</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="3" align="left"><FONT size="2">Class A-2 Notes</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD nowrap align="left"><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">1.1100</FONT></TD>
+    <TD nowrap><FONT size="2">%</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">44,169.41</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">0.9250000</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">28,617,693.50</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">599.3144819</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR valign="bottom" bgcolor="#eeeeee">
+
+    <TD valign="top"><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">15</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="3" align="left"><FONT size="2">Class A-3 Notes</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD nowrap align="left"><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">1.4900</FONT></TD>
+    <TD nowrap><FONT size="2">%</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">478,041.67</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">1.2416667</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">478,041.67</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">1.2416667</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">16</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="3" align="left"><FONT size="2">Class A-4 Notes</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD nowrap align="left"><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">1.9300</FONT></TD>
+    <TD nowrap><FONT size="2">%</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">344,461.58</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">1.6083333</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">344,461.58</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">1.6083333</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+<TR valign="bottom">
+    <TD><FONT size="2">&nbsp;</FONT></TD>    <TD><FONT size="2">&nbsp;</FONT></TD>
+ <TD valign="top" colspan="23"><FONT size="1"><hr size="1" noshade></FONT></TD>
+</TR>
+<TR valign="bottom" bgcolor="#eeeeee">
+    <TD valign="top"><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">&nbsp;</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+
+<TD colspan="3" align="left"><FONT size="2"><DIV style="margin-left:10px; text-indent:-10px"><B>
+Total Securities</B></div></FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2"><b>866,672.65</b></FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2"><b>&nbsp;</b></FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2"><b>29,440,196.74</b></FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2"><b>&nbsp;</b></FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+<TR valign="bottom">
+    <TD><FONT size="2">&nbsp;</FONT></TD>    <TD><FONT size="2">&nbsp;</FONT></TD>
+ <TD valign="top" colspan="23"><FONT size="1"><hr size="4" noshade></FONT></TD>
+</TR>
+<tr><td>&nbsp;</td></tr>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2"><b><I>C.</I></b></FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="6" align="left"><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2"><i><b>COLLECTIONS AND AVAILABLE FUNDS</b></i></FONT></div></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+<TR valign="bottom">
+ <TD valign="top" colspan="25"><FONT size="1"><hr size="1" noshade></FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR valign="bottom" bgcolor="#eeeeee">
+
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">17</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="20" align="left"><FONT size="2">Scheduled Principal Payments Received</FONT></TD>
+
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">17,766,844.48</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR valign="bottom">
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">18</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="20" align="left"><FONT size="2">Scheduled Interest Payments Received</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">2,078,007.01</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR valign="bottom" bgcolor="#eeeeee">
+
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">19</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="20" align="left"><FONT size="2">Prepayments of Principal Received</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">271,501.33</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR valign="bottom">
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">20</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="20" align="left"><FONT size="2">Liquidation Proceeds</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">10,757,365.52</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR valign="bottom" bgcolor="#eeeeee">
+
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">21</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="20" align="left"><FONT size="2">Recoveries Received</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">311,382.87</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR valign="bottom">
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">22</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="20" align="left"><FONT size="2">Other Payments Received to Reduce Principal</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">&#151;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR>
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">&nbsp;</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+
+        <TD align="center" nowrap colspan="23"><HR size="1" noshade></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+<TR valign="bottom" bgcolor="#eeeeee">
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">23</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="20" align="left"><FONT size="2"><b>Subtotal: Total Collections</b></FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">31,131,101.21</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+<TR>
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">&nbsp;</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="center" nowrap colspan="23"><HR size="1" noshade></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+<TR valign="bottom">
+
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">24</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="20" align="left"><FONT size="2">Repurchase Receivables</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">&#151;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR valign="bottom" bgcolor="#eeeeee">
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">25</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="20" align="left"><FONT size="2">Reserve Account Excess Amount (Item 85)</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">14,394.05</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+
+<TR>
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">&nbsp;</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="center" nowrap colspan="23"><HR size="1" noshade></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">26</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="20" align="left"><FONT size="2"><b>Total Available Funds, prior to Servicer Advances</b></FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">31,145,495.26</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+<TR>
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">&nbsp;</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+
+        <TD align="center" nowrap colspan="23"><HR size="4" noshade></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+<TR valign="bottom" bgcolor="#eeeeee">
+
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">27</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="20" align="left"><FONT size="2">Servicer Advance (Item 68)</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">&#151;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+<TR>
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">&nbsp;</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="center" nowrap colspan="23"><HR size="1" noshade></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">28</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="20" align="left"><FONT size="2"><b>Total Available Funds + Servicer Advance</b></FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">31,145,495.26</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+<TR>
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">&nbsp;</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="center" nowrap colspan="23"><HR size="4" noshade></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+<TR valign="bottom" bgcolor="#eeeeee">
+
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">29</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="20" align="left"><FONT size="2">Reserve Account Draw Amount (Item 71)</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">&#151;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+<TR>
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">&nbsp;</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="center" nowrap colspan="23"><HR size="1" noshade></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">30</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="20" align="left"><FONT size="2"><b>Total Available Funds + Servicer Advance and Reserve Account Draw Amount</b></FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">31,145,495.26</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+<TR>
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">&nbsp;</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="center" nowrap colspan="23"><HR size="4" noshade></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+<tr><td>&nbsp;</td></tr>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2"><b><I>D.</I></b></FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="20" align="left"><FONT size="2"><b><i>DISTRIBUTIONS</i></b></FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+<TR>
+        <TD align="center" nowrap colspan="25"><HR size="1" noshade></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+<TR valign="bottom" bgcolor="#eeeeee">
+
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">&nbsp;</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="20" align="left"><FONT size="2"><b>Distribution Summary:</b></FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+<TR valign="bottom">
+
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">31</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="20" align="left"><FONT size="2">Prior Advance Reimbursement (Item 74)</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">&#151;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+<TR valign="bottom" bgcolor="#eeeeee">
+
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">32</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="20" align="left"><FONT size="2">Servicing Fees (Item 38)</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">563,736.23</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+
+<TR valign="bottom">
+
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">33</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="20" align="left"><FONT size="2">Class A Noteholder Interest (Item 47)</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">866,672.65</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR valign="bottom" bgcolor="#eeeeee">
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">34</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="20" align="left"><FONT size="2">Principal Distribution Amount (Item 72)</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">28,573,524.09</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR valign="bottom">
+
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">35</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="20" align="left"><FONT size="2">Amount Paid to Reserve Account to Reach Specified Balance</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">&#151;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR valign="bottom" bgcolor="#eeeeee">
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">36</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="20" align="left"><FONT size="2">Other Amounts Paid to Trustee</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">&#151;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR>
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">&nbsp;</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="center" nowrap colspan="23"><HR size="1" noshade></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+
+
+<TR valign="bottom">
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">37</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="20" align="left"><FONT size="2"><b>Remaining Funds to Certificateholder</B></FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">1,141,562.29</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR>
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">&nbsp;</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="center" nowrap colspan="23"><HR size="4" noshade></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+
+</TABLE>
+</CENTER>
+
+
+<P align="center"><FONT size="2"></FONT>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+<TABLE cellspacing="0" border="0" cellpadding="0" width="100%">
+<TR valign="bottom">
+    <TD width="80%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="15">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD align="left"><FONT size="2"><B>Volkswagen Auto Loan Enhanced Trust 2003-1<BR>
+MONTHLY SERVICER CERTIFICATE<BR>
+For the collection period ended 11-27-2004&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Data Current as of 12/07/2004 9:52:10 AM</B></FONT></TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><FONT size="2">PAGE 2</FONT></TD>
+</TR>
+<TR valign="bottom">
+    <TD colspan="3" align="left"><HR noshade size="2"></TD>
+</TR>
+<TR valign="bottom">
+    <TD colspan="3" align="left"><HR noshade size="1"></TD>
+</TR>
+</TABLE>
+
+<CENTER>
+<TABLE cellspacing="0" border="0" cellpadding="0" width="100%">
+<TR valign="bottom">
+    <TD width="4%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="31">&nbsp;</TD>
+    <TD width="4%">&nbsp;</TD>
+    <TD width="20%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="4%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="4%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="6%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD colspan="2" nowrap align="left" ><FONT size="1"><B>Distribution Detail:</B></FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD nowrap align="right" colspan="2"><FONT size="1"><B>Due</B></FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD nowrap align="right" colspan="2"><FONT size="1"><B>Shortfall</B></FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD nowrap align="right" colspan="2"><FONT size="1"><B>Paid</B></FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+    <TD><FONT size="1">&nbsp;</FONT></TD>
+</TR>
+<TR>
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">&nbsp;</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="19" nowrap align="left" ><HR size="1" noshade></TD>
+</TR>
+<TR valign="bottom" bgcolor="#eeeeee">
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">38</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="3" nowrap align="left" ><FONT size="2">Servicing Fees</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">563,736.23</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">&#151;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">563,736.23</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+<TR>
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">&nbsp;</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="19" nowrap align="left" ><HR size="1" noshade></TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">&nbsp;</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="3" nowrap align="left" ><FONT size="2">Pro rata:</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR valign="bottom" bgcolor="#eeeeee">
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">39</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="3" nowrap align="left" ><FONT size="2">Class A-1 Interest</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">&#151;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">&#151;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">&#151;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR valign="bottom">
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">40</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="3" nowrap align="left" ><FONT size="2">Class A-2 Interest</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">44,169.41</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">&#151;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">44,169.41</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR valign="bottom" bgcolor="#eeeeee">
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">41</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="3" nowrap align="left" ><FONT size="2">Class A-3 Interest</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">478,041.67</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">&#151;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">478,041.67</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR valign="bottom">
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">42</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="3" nowrap align="left" ><FONT size="2">Class A-4 Interest</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">344,461.58</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">&#151;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">344,461.58</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR valign="bottom" bgcolor="#eeeeee">
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">43</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="3" nowrap align="left" ><FONT size="2">Class A-1 Interest Carryover Shortfall</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">&#151;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">&#151;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">&#151;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR valign="bottom">
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">44</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="3" align="left"><FONT size="2">Class A-2 Interest Carryover Shortfall</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">&#151;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">&#151;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">&#151;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR valign="bottom" bgcolor="#eeeeee">
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">45</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="3" align="left"><FONT size="2">Class A-3 Interest Carryover Shortfall</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">&#151;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">&#151;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">&#151;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR valign="bottom">
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">46</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="3" align="left"><FONT size="2">Class A-4 Interest Carryover Shortfall</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">&#151;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">&#151;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">&#151;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+<TR>
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">&nbsp;</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="19" align="left"><HR size="1" noshade></TD>
+</TR>
+<TR valign="bottom" bgcolor="#eeeeee">
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">47</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="3" align="left"><FONT size="2">Class A Noteholder Interest</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">866,672.65</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">&#151;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">866,672.65</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+<TR>
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">&nbsp;</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="19" align="left"><HR size="1" noshade></TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2"><B><I>E</I></B></FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="3" align="left"><FONT size="2"><B><I>CALCULATIONS</I></B></FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+<TR>
+    <TD colspan="21" align="left"><DIV style="margin-left:10px; text-indent:-10px"><HR size="1" noshade></DIV></TD>
+</TR>
+<TR valign="bottom" bgcolor="#eeeeee">
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">&nbsp;</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="3" align="left"><FONT size="2"><B>Calculation of Principal Distribution Amount:</B></FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR valign="bottom">
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">48</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="3" align="left"><FONT size="2">Beginning Note Balance - All Classes</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">676,483,478.46</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR valign="bottom" bgcolor="#eeeeee">
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">49</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="3" align="left"><FONT size="2">&nbsp;&nbsp;Beginning Net Pool Balance</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">686,143,939.35</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR valign="bottom">
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">50</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="3" align="left"><FONT size="2">&nbsp;&nbsp;Receipts of Scheduled Principal</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD nowrap align="left"><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">(17,766,844.48</FONT></TD>
+    <TD nowrap><FONT size="2">)</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR valign="bottom" bgcolor="#eeeeee">
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">51</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="3" align="left"><FONT size="2">&nbsp;&nbsp;Receipts of Prepaid Principal</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD nowrap align="left"><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">(217,501.33</FONT></TD>
+    <TD nowrap><FONT size="2">)</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR valign="bottom">
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">52</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="3" align="left"><FONT size="2">&nbsp;&nbsp;Liquidation Proceeds</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD nowrap align="left"><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">(10,757,365.52</FONT></TD>
+    <TD nowrap><FONT size="2">)</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR valign="bottom" bgcolor="#eeeeee">
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">53</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="3" align="left"><FONT size="2">&nbsp;&nbsp;Other Collections of Principal</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">&#151;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR valign="bottom">
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">54</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="3" align="left"><FONT size="2">&nbsp;&nbsp;Principal Amount of Repurchases</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">&#151;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR valign="bottom" bgcolor="#eeeeee">
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">55</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="3" align="left"><FONT size="2">&nbsp;&nbsp;Principal
+Amount of Defaulted and Terminated Receivables</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD nowrap align="left"><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">(319,256.63</FONT></TD>
+    <TD nowrap><FONT size="2">)</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+<TR>
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">&nbsp;</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="left"><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="center" nowrap colspan="2"><HR size="1" noshade></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">56</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="3" align="left"><FONT size="2">Ending Net Pool Balance</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">657,082,971.39</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR valign="bottom" bgcolor="#eeeeee">
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">57</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="3" align="left"><FONT size="2">&nbsp;&nbsp;Yield Supplement Overcollateralization Amount</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">9,173,017.02</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+<TR>
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">&nbsp;</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="left"><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="center" nowrap colspan="2"><HR size="1" noshade></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">58</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="3" align="left"><FONT size="2">Adjusted Pool Balance</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">647,909,954.37</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR valign="bottom" bgcolor="#eeeeee">
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">59</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="3" align="left"><FONT size="2">Less: Adjusted Pool Balance - End of Collection Period</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">647,909,954.37</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+<TR>
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">&nbsp;</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="19" align="left"><HR size="1" noshade></TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">60</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="3" align="left"><FONT size="2"><B>Calculated Principal Distribution Amount</B></FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">28,573,524.09</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+<TR>
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">&nbsp;</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="19" align="left"><HR size="4" noshade></TD>
+</TR>
+<TR valign="bottom" bgcolor="#eeeeee">
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">&nbsp;</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="3" align="left"><FONT size="2"><B>Calculation of Servicer Advance:</B></FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR valign="bottom">
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">61</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="3" align="left"><FONT size="2">Available Funds, prior to Servicer Advances (Item 26)</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">31,145,495.26</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR valign="bottom" bgcolor="#eeeeee">
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">62</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="3" align="left"><FONT size="2">Less: Prior Advance Reimbursement (Item 31)</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">&#151;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR valign="bottom">
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">63</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="3" align="left"><FONT size="2">Less: Servicing Fees Paid (Item 32)</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">563,736.23</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR valign="bottom" bgcolor="#eeeeee">
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">64</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="3" align="left"><FONT size="2">Less: Interest Paid to Noteholders (Item 33)</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">866,672.65</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR valign="bottom">
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">65</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="3" align="left"><FONT size="2">Less: Calculated Principal Distribution (Item 60)</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">28,573,524.09</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+<TR>
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">&nbsp;</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="19" align="left"><HR size="1" noshade></TD>
+</TR>
+<TR valign="bottom" bgcolor="#eeeeee">
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">66</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="3" align="left"><FONT size="2">Equals: Remaining Available Funds before Servicer Advance</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">1,141,562.29</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">67</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="3" align="left"><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">Monthly Loan Payments Due on Included Units but not received (N/A if Item 66 &#062; 0)</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+
+    <TD align="right"><FONT size="2">N/A</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+
+<TR>
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">&nbsp;</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="19" align="left"><HR size="1" noshade></TD>
+</TR>
+<TR valign="bottom" bgcolor="#eeeeee">
+    <TD valign="top"><FONT size="2">68</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="3" align="left"><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2"><B>Servicer Advance (If Item 66 &#060; 0, lesser of Item 66 and Item 67, else 0)</B></FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+
+    <TD align="right"><FONT size="2">&#151;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+
+<TR>
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">&nbsp;</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="19" align="left"><HR size="4" noshade></TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">&nbsp;</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="3" align="left"><FONT size="2"><B>Calculation of Reserve Account Draw Amount:</B></FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR valign="bottom" bgcolor="#eeeeee">
+    <TD valign="top"><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">69</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="3" align="left"><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">Remaining Available Funds, before Reserve Account Draw (Item 66 plus Item 68)</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+
+    <TD align="right"><FONT size="2">1,141,562.29</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+
+<TR valign="bottom">
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">70</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="3" align="left"><FONT size="2">Available Funds Shortfall Amount (If Item 69 &#060; 0, Item 69, else 0)</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">&#151;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+<TR>
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">&nbsp;</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="19" align="left"><HR size="1" noshade></TD>
+</TR>
+<TR valign="bottom" bgcolor="#eeeeee">
+    <TD valign="top"><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">71</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="3" align="left"><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2"><B>Reserve Account Draw Amount (If Item 70 is &#062; 0, Lesser of Reserve Acct Balance and Item 70)</B></FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+
+    <TD align="right"><FONT size="2">&#151;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+
+<TR>
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">&nbsp;</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="19" align="left"><HR size="1" noshade></TD>
+</TR>
+<TR>
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">&nbsp;</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="19" align="left"><HR size="1" noshade></TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">72</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="3" align="left"><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2"><B>Principal Distribution Amount (Item 60 - Available Funds Shortfall &#043; Reserve Account Draw Amt)</B></FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+
+    <TD align="right"><FONT size="2">28,573,524.09</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+
+<TR>
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">&nbsp;</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="19" align="left"><HR size="4" noshade></TD>
+</TR>
+<TR valign="bottom" bgcolor="#eeeeee">
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">&nbsp;</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="3" align="left"><FONT size="2"><B>Reconciliation of Servicer Advance:</B></FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR valign="bottom">
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">73</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="3" align="left"><FONT size="2">Beginning Balance of Servicer Advance</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">&#151;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR valign="bottom" bgcolor="#eeeeee">
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">74</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="3" align="left"><FONT size="2">Less: Prior Advance Reimbursement</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">&#151;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR valign="bottom">
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">75</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="3" align="left"><FONT size="2">Plus: Additional Payment Advances for Current Period</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">&#151;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+<TR>
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">&nbsp;</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="19" align="left"><HR size="1" noshade></TD>
+</TR>
+<TR valign="bottom" bgcolor="#eeeeee">
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">76</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="3" align="left"><FONT size="2">Ending Balance of Payment Advance</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">&#151;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+<TR>
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">&nbsp;</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="19" align="left"><HR size="4" noshade></TD>
+</TR>
+</TABLE>
+</CENTER>
+<P align="center"><FONT size="2">&nbsp;</FONT>
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+<TABLE cellspacing="0" border="0" cellpadding="0" width="100%">
+<TR valign="bottom">
+    <TD width="80%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="15">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD align="left"><FONT size="2"><B>Volkswagen Auto Loan Enhanced Trust 2003-1<BR>
+MONTHLY SERVICER CERTIFICATE<BR>
+For the collection period ended 11-27-2004&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Data Current as of 12/07/2004 9:52:10 AM</B></FONT></TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><FONT size="2">PAGE 3</FONT></TD>
+</TR>
+<TR valign="bottom">
+    <TD colspan="3" align="left"><HR noshade size="2"></TD>
+</TR>
+</TABLE>
+
+<CENTER>
+<TABLE cellspacing="0" border="0" cellpadding="0" width="100%">
+<TR valign="bottom">
+    <TD width="3%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="32">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="24%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="4%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="4%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+</TR>
+<TR valign="bottom" bgcolor="#eeeeee">
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2"><B><I>F</I></B></FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="3" align="left"><FONT size="2"><B><I>RESERVE ACCOUNT</I></B></FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+<TR>
+    <TD colspan="21" align="left"><DIV style="margin-left:10px; text-indent:-10px"><HR size="1" noshade></DIV></TD>
+
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">&nbsp;</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="3" align="left"><FONT size="2"><B>Reserve Account Balances:</B></FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR valign="bottom" bgcolor="#eeeeee">
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">77</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="3" align="left"><FONT size="2">Specified Reserve Account Balance</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">9,852,995.74</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR valign="bottom">
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">78</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="3" align="left"><FONT size="2">Initial Reserve Account Balance</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">6,568,663.83</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR valign="bottom" bgcolor="#eeeeee">
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">79</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="3" align="left"><FONT size="2">Beginning Reserve Account Balance</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">9,852,995.74</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR valign="bottom">
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">80</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="3" align="left"><FONT size="2">Plus:  Net Investment Income for the Collection Period</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">14,394.05</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+<TR>
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">&nbsp;</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="19" align="left"><HR size="1" noshade></TD>
+</TR>
+<TR valign="bottom" bgcolor="#eeeeee">
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">81</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="3" align="left"><FONT size="2">Subtotal:  Reserve Fund Available for Distribution</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">9,867,389.79</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR valign="bottom">
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">82</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="3" align="left"><FONT size="2">Plus:  Deposit of Excess Available Funds (Item 35)</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">&#151;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR valign="bottom" bgcolor="#eeeeee">
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">83</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="3" align="left"><FONT size="2">Less:  Reserve Account Draw Amount (Item 71)</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">&#151;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+<TR>
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">&nbsp;</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="19" align="left"><HR size="1" noshade></TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">84</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="3" align="left"><FONT size="2">Subtotal Reserve Account Balance</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">9,867,389.79</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR valign="bottom" bgcolor="#eeeeee">
+    <TD valign="top"><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">85</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="3" align="left"><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">Less: Reserve Account Excess Amount to Available Funds (If Item 84 &#062; Item 77)</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">14,394.05</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+<TR>
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">&nbsp;</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="19" align="left"><HR size="1" noshade></TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">86</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="3" align="left"><FONT size="2"><B>Equals: Ending Reserve Account Balance</B></FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">9,852,995.74</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+<TR>
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">&nbsp;</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="19" align="left"><HR size="4" noshade></TD>
+</TR>
+<TR valign="bottom" bgcolor="#eeeeee">
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">87</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="3" align="left"><FONT size="2"><B>Change in Reserve Account Balance from Immediately Preceding Payment Date</B></FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">&#151;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+<TR>
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">&nbsp;</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="19" align="left"><HR size="4" noshade></TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2"><B><I>G</I></B></FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="3" align="left"><FONT size="2"><B><I>POOL STATISTICS</I></B></FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+<TR>
+    <TD colspan="21" align="left"><DIV style="margin-left:10px; text-indent:-10px"><HR size="1" noshade></DIV></TD>
+</TR>
+<TR valign="bottom" bgcolor="#eeeeee">
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">&nbsp;</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="3" align="left"><FONT size="2"><B>Collateral Pool Balance Data:</B></FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="2" align="center"><FONT size="1"><B><I>Initial</I></B></FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="2" align="center"><FONT size="1"><I>Current</I></FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+<TR>
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">&nbsp;</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="left"><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="center" nowrap colspan="2"><HR size="1" noshade></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="center" nowrap colspan="2"><HR size="1" noshade></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">88</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="3" align="left"><FONT size="2">Net Pool Balance</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">1,334,414,494</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">657,082,971</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR valign="bottom" bgcolor="#eeeeee">
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">89</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="3" align="left"><FONT size="2">Number of Current Contracts</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">74,039</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">53,454</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR valign="bottom">
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">90</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="3" align="left"><FONT size="2">Weighted Average Loan Rate</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD nowrap align="left"><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">4.21</FONT></TD>
+    <TD nowrap><FONT size="2">%</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD nowrap align="left"><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">4.10</FONT></TD>
+    <TD nowrap><FONT size="2">%</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR valign="bottom" bgcolor="#eeeeee">
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">91</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="3" align="left"><FONT size="2">Average Remaining Term</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">51.9</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">35.6</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR valign="bottom">
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">92</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="3" align="left"><FONT size="2">Average Original Term</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">55.6</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">58.0</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+
+
+<TR valign="bottom" bgcolor="#eeeeee">
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">&nbsp;</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="3" align="left"><FONT size="2"><B>Net Credit Loss and Repossession Activity:</B></FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="2" align="center"><FONT size="1"><B><I>Units</I></B></FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="2" align="center"><FONT size="1"><B><I>Outstanding Principal Balance</I></B></FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+<TR>
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">&nbsp;</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="left"><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="center" nowrap colspan="2"><HR size="1" noshade></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="center" nowrap colspan="2"><HR size="1" noshade></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">93</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="3" align="left"><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">Aggregate Outstanding Principal Balance of Charged Off Receivables</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">19</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">319,257</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR valign="bottom" bgcolor="#eeeeee">
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">94</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="3" align="left"><FONT size="2">Liquidation Proceeds on Related Vehicles</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">12,351</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR valign="bottom">
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">95</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="3" align="left"><FONT size="2">Recoveries Received on Previously Receivables Previously Charged Off</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">299,032</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+<TR>
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">&nbsp;</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="19" align="left"><HR size="1" noshade></TD>
+</TR>
+<TR valign="bottom" bgcolor="#eeeeee">
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">96</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="3" align="left"><FONT size="2">Net Principal Losses for Current Collection Period</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">19</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">7,874</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+<TR>
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">&nbsp;</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="19" align="left"><HR size="1" noshade></TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">97</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="3" align="left"><FONT size="2">Beginning Net Principal Losses</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">499</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">1,840,363</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR valign="bottom" bgcolor="#eeeeee">
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">98</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="3" align="left"><FONT size="2">Net Principal Losses for Current Collection Period</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">19</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">7,874</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+<TR>
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">&nbsp;</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="19" align="left"><HR size="1" noshade></TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">99</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="3" align="left"><FONT size="2">Cumulative Net Principal Losses</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">518</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">1,848,237</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+<TR>
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">&nbsp;</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="19" align="left"><HR size="1" noshade></TD>
+</TR>
+
+
+<TR valign="bottom" bgcolor="#eeeeee">
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">&nbsp;</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="3" align="left"><FONT size="2"><B>Delinquencies Aging Profile - End of Period:</B></FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="2" align="center"><FONT size="1"><B><I>Percentage</I></B></FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="2" align="center"><FONT size="1"><B><I>Units</I></B></FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="2" align="center"><FONT size="1"><B><I>Outstanding Principal Balance</I></B></FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+<TR>
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">&nbsp;</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="left"><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="center" nowrap colspan="2"><HR size="1" noshade></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="center" nowrap colspan="2"><HR size="1" noshade></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+        <TD align="center" nowrap colspan="2"><HR size="1" noshade></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">100</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="3" align="left"><FONT size="2">Current</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD nowrap align="left"><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">99.31</FONT></TD>
+    <TD nowrap><FONT size="2">%</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">53,083</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">652,222,470</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR valign="bottom" bgcolor="#eeeeee">
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">101</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="3" align="left"><FONT size="2">31 - 60 Days Delinquent</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD nowrap align="left"><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">0.61</FONT></TD>
+    <TD nowrap><FONT size="2">%</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">326</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">4,265,299</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+
+<TR valign="bottom">
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">102</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="3" align="left"><FONT size="2">61 - 90 Days Delinquent</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD nowrap align="left"><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">0.08</FONT></TD>
+    <TD nowrap><FONT size="2">%</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">45</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">595,202</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+<TR>
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">&nbsp;</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="19" align="left"><HR size="1" noshade></TD>
+</TR>
+<TR valign="bottom" bgcolor="#eeeeee">
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">103</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="3" align="left"><FONT size="2"><B>Total</B></FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD nowrap align="left"><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">100.00</FONT></TD>
+    <TD nowrap><FONT size="2">%</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">53,454</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD align="right"><FONT size="2">657,082,971</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+</TR>
+<TR>
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><FONT size="2">&nbsp;</FONT></DIV></TD>
+    <TD><FONT size="2">&nbsp;</FONT></TD>
+    <TD colspan="19" align="left"><HR size="4" noshade></TD>
+</TR>
+</TABLE>
+</CENTER>
+
+<P align="center"><FONT size="2">&nbsp;</FONT>
+
+
+
+
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

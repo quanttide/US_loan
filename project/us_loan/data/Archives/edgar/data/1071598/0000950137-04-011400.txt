@@ -1,0 +1,733 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ CQl80R1mMbOtBd2bhWvq4bLdH7vAjfLM19/kPbjAKgy7WlKtvwSM58T2QcLHfA9r
+ KpmxalV11eYHfwZoogcS2w==
+
+<SEC-DOCUMENT>0000950137-04-011400.txt : 20041223
+<SEC-HEADER>0000950137-04-011400.hdr.sgml : 20041223
+<ACCEPTANCE-DATETIME>20041223164223
+ACCESSION NUMBER:		0000950137-04-011400
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20041217
+ITEM INFORMATION:		Entry into a Material Definitive Agreement
+FILED AS OF DATE:		20041223
+DATE AS OF CHANGE:		20041223
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			PAC-WEST TELECOMM INC
+		CENTRAL INDEX KEY:			0001071598
+		STANDARD INDUSTRIAL CLASSIFICATION:	TELEPHONE COMMUNICATIONS (NO RADIO TELEPHONE) [4813]
+		IRS NUMBER:				680383568
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-27743
+		FILM NUMBER:		041224650
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1776 W. MARCH LANE, SUITE #250
+		CITY:			STOCKTON
+		STATE:			CA
+		ZIP:			95207
+		BUSINESS PHONE:		2099263300
+
+	MAIL ADDRESS:	
+		STREET 1:		1776 WEST MARCH LANE, SUITE #250
+		CITY:			STOCKTON
+		STATE:			CA
+		ZIP:			95207
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>c90729e8vk.htm
+<DESCRIPTION>FORM 8-K
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>e8vk</TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF">
+<!-- PAGEBREAK -->
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+<HR size="4" noshade color="#000000" style="margin-top: -5px">
+<HR size="1" noshade color="#000000" style="margin-top: -10px">
+
+
+
+
+
+<P align="center" style="font-size: 14pt"><B>UNITED STATES<BR>
+SECURITIES AND EXCHANGE COMMISSION</B>
+
+<DIV align="center" style="font-size: 12pt"><B>Washington, D.C. 20549</B>
+</DIV>
+
+<P align="center" style="font-size: 18pt"><B>FORM 8-K</B>
+
+
+<P align="center" style="font-size: 10pt"><B>CURRENT REPORT</B>
+
+
+
+<P align="center" style="font-size: 10pt"><B>PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934</B>
+
+
+
+<P align="center" style="font-size: 10pt"><U><B>December&nbsp;17, 2004</B></U>
+
+
+
+<P align="center" style="font-size: 10pt">Date of Report (Date of earliest event reported)
+
+
+
+<P align="center" style="font-size: 10pt">Commission File Number: 000-27743
+
+
+
+<P align="center" style="font-size: 10pt"><IMG src="c90729c9072999.gif" alt="(PACWEST TELECOMM, INC. LOGO)">
+
+
+<P align="center" style="font-size: 24pt"><B>PAC-WEST TELECOMM, INC.</B>
+
+<DIV align="center" style="font-size: 10pt">(Exact name of registrant as specified in its charter)</DIV>
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="38%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="15%">&nbsp;</TD>
+    <TD width="20%">&nbsp;</TD>
+    <TD width="15%">&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD align="center" valign="top"><DIV style="margin-left:0px; text-indent:-0px"><B>California</B>
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="3" align="center" valign="top" ><B>68-0383568</B></TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top" align="center"><DIV style="margin-left:0px; text-indent:-0px">(State or other jurisdiction of
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="3" nowrap align="center" valign="top">(I.R.S. Employer Identification No.)
+</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top" align="center"><DIV style="margin-left:0px; text-indent:-0px">incorporation or organization)</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">&nbsp;</TD>
+    <TD valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">&nbsp;</TD>
+    <TD valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top" align="center"><DIV style="margin-left:0px; text-indent:-0px"><B>1776 W. March Lane, Suite&nbsp;250</B>
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="3" align="center" valign="top" ><B>95207</B></TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top" align="center"><DIV style="margin-left:0px; text-indent:-0px"><B>Stockton, California</B>
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="3" nowrap align="center" valign="top">(Zip Code)
+</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top" align="center"><DIV style="margin-left:0px; text-indent:-0px">(Address of principal executive offices)</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">&nbsp;</TD>
+    <TD valign="top">&nbsp;</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+<P align="center" style="font-size: 10pt"><B>(209)&nbsp;926-3300</B><BR>
+(Registrant&#146;s telephone number, including area code)
+
+
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="70%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="1%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="98%">&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD align="left" colspan="3">Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy
+the filing obligation of the registrant under any of the following provisions:</TD>
+</TR>
+<TR valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px"><FONT style="font-family: Wingdings">&#168;</FONT>
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Written communications pursuant to Rule&nbsp;425 under the Securities Act (17 CFR 230.425)</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px"><FONT style="font-family: Wingdings">&#168;</FONT>
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Soliciting material pursuant to Rule&nbsp;14a-12 under the Exchange Act (17 CFR 240.14a-12)</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px"><FONT style="font-family: Wingdings">&#168;</FONT>
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Pre-commencement communications pursuant to Rule&nbsp;14d-2(b) under
+the Exchange Act (17 CFR 240.14d-2(b))</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px"><FONT style="font-family: Wingdings">&#168;</FONT>
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Pre-commencement communications pursuant to Rule&nbsp;13e-4(c) under
+the Exchange Act (17 CFR 240.13e-4(c))</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+<P>
+<HR size="1" noshade color="#000000" style="margin-top: -2px">
+<HR size="4" noshade color="#000000" style="margin-top: -10px">
+
+
+
+
+
+
+<P align="center" style="font-size: 10pt">&nbsp;
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<!-- TOC -->
+<A name="toc"><DIV align="CENTER" style="page-break-before:always"><U><B>TABLE OF CONTENTS</B></U></DIV></A>
+
+<P><CENTER>
+<TABLE border="0" width="90%" cellpadding="0" cellspacing="0">
+<TR>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="3%"></TD>
+	<TD width="76%"></TD>
+</TR>
+<TR><TD colspan="9"><A HREF="#000">SECTION 1 &#151; REGISTRANT&#146;S BUSINESS AND OPERATIONS.</A></TD></TR>
+<TR><TD></TD><TD colspan="8"><A HREF="#001">Item&nbsp;1.01 Entry into a Material Definitive Agreement.</A></TD></TR>
+<TR><TD colspan="9"><A HREF="#002">SIGNATURES</A></TD></TR>
+</TABLE>
+</CENTER>
+<!-- /TOC -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+<!-- link1 "SECTION 1 &#151; REGISTRANT&#146;S BUSINESS AND OPERATIONS." -->
+<DIV align="left"><A NAME="000"></A></DIV>
+<P align="left" style="font-size: 10pt"><B>SECTION 1 &#151; REGISTRANT&#146;S BUSINESS AND OPERATIONS.</B>
+
+
+<!-- link2 "Item&nbsp;1.01 Entry into a Material Definitive Agreement." -->
+<DIV align="left"><A NAME="001"></A></DIV>
+
+<P align="left" style="font-size: 10pt"><B>Item&nbsp;1.01 Entry into a Material Definitive Agreement.</B>
+
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<I>On December&nbsp;17, 2004, Pac-West Telecomm, Inc. (&#147;Pac-West&#148;) entered into certain transaction
+documents that, subject to certain conditions, are designed to collectively give effect to a
+proposed sale by Pac-West of certain assets primarily related to its small- and medium-sized
+enterprise business (the &#147;SME Business&#148;) and the assumption by U.S. TelePacific Corp.
+(&#147;TelePacific&#148;) of certain specified liabilities related to the SME Business (the &#147;Sale
+Transaction&#148;), and the provision by Pac-West of certain transition services to TelePacific designed
+to facilitate an orderly migration of SME Business customers from Pac-West&#146;s network facilities to
+TelePacific&#146;s network facilities. In addition, on December&nbsp;17, 2004, in a related transaction,
+Pac-West entered into a payoff letter designed to provide for the prepayment by Pac-West of that
+certain Senior Secured Promissory Note (the &#147;Senior Note&#148;) due December&nbsp;19, 2006 in the original
+principal amount of $40,000,000 given by Pac-West to Deutsche Bank AG &#151; London (&#147;Deutsche Bank&#148;),
+and the termination of the Warrant to acquire up to 26,666,667 shares of Pac-West&#146;s common stock
+issued to Deutsche Bank (the &#147;Warrant&#148;) and Guaranty and Security Agreement related to the Senior
+Note (&#147;Guaranty and Security Agreement&#148;), in each case, related to the Senior Note (the
+&#147;Prepayment&#148;).</I>
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<I>The following is a description of the (1)&nbsp;Asset Purchase Agreement, dated December&nbsp;17, 2004,
+between Pac-West and TelePacific (the &#147;Purchase Agreement&#148;), (2)&nbsp;the Transition Services Agreement,
+dated December&nbsp;17, 2004, between Pac-West and TelePacific (the &#147;Transition Services Agreement&#148;) and
+(3)&nbsp;the Payoff Letter Agreement, dated December&nbsp;17, 2004, between Pac-West and Deutsche Bank, which
+collectively give effect to the transactions described above. The descriptions below do not
+purport to be a complete statement of the parties&#146; rights and obligations under the Purchase
+Agreement, the Transition Services Agreement, the Payoff Letter and the transactions contemplated
+therein. These descriptions are qualified in their entirety by reference to the Purchase
+Agreement, Transition Services Agreement and Payoff Letter, respectively, a copy of each of which
+is expected to be filed as an exhibit to Pac-West&#146;s Annual Report on </I><I>Form 10-K</I><I> for the year ended
+December&nbsp;31, 2004.</I>
+
+
+<P align="left" style="font-size: 10pt"><U>Asset Purchase Agreement</U>
+
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pursuant to the terms and conditions of the Purchase Agreement, Pac-West has agreed
+to sell to TelePacific certain assets primarily related to the SME Business and TelePacific has
+agreed to assume certain liabilities related to the acquired assets in exchange for cash
+consideration of $27,000,000 (the &#147;Purchase Price&#148;), subject to a purchase price adjustment
+mechanism described below, plus the aggregate amount of accounts receivable primarily related to
+the SME Business collected by TelePacific within one hundred eighty (180)&nbsp;days following the
+closing of the Sale Transaction. TelePacific has agreed to assume certain liabilities associated
+with the assets acquired and Pac-West will retain the liabilities not otherwise specifically
+assumed by TelePacific. Under the terms of the Purchase Agreement, the Purchase Price is subject
+to adjustment downward only based upon the amount by which actual average monthly billed revenue
+for the SME Business for the two calendar months preceding the closing of the Sale Transaction is
+less than $2,700,000. This adjustment mechanism will result in a decline of $1,000,000 in Purchase
+Price for each $100,000 in actual monthly billed revenue achieved less than $2,700,000, subject to
+a floor on the Purchase Price of $24,000,000 for a closing on or prior to February&nbsp;28, 2005,
+$23,000,000 for a closing on or after March&nbsp;1, 2005 and before April&nbsp;1, 2005, $22,000,000 for a
+closing on or after April&nbsp;1, 2005 and before May&nbsp;1, 2005 and $21,000,000 for a closing on or after
+May&nbsp;1, 2005.
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Under the terms of the Purchase Agreement, upon execution of this agreement, TelePacific will
+simultaneously deposit $2,500,000 to be held as an earnest money deposit by Pac-West,
+
+
+<P align="center" style="font-size: 10pt">&nbsp;
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+<P align="left" style="font-size: 10pt">and, to the extent TelePacific has not waived a condition to closing that the consent of one
+of its principal lenders be obtained, TelePacific will deposit with Pac-West an additional
+$1,000,000 as earnest money prior to the close of business on December&nbsp;22, 2004. Furthermore,
+TelePacific has the right to deposit an additional $2,500,000 as earnest money in the event
+TelePacific does not waive such closing condition prior to January&nbsp;6, 2005. If TelePacific does
+not waive such closing condition or deposit an additional $2,500,000 as earnest money prior to
+January&nbsp;6, 2005, Pac-West will be entitled to terminate the Purchase Agreement and retain the
+earnest money. With the deposit of the additional $2,500,000, Pac-West will be unable to terminate
+the Purchase Agreement in the event TelePacific does not waive such closing condition until January
+28, 2005, at which time Pac-West will have the right to terminate the Purchase Agreement and retain
+the earnest money. If, prior to termination of the Purchase Agreement, TelePacific notifies
+Pac-West in writing that it has waived such closing condition, Pac-West will be required to
+promptly refund the entire earnest money deposit to TelePacific. Upon closing of the Sale
+Transaction, Pac-West will also be required to credit any part of the
+earnest money then still held by Pac-West towards
+the Purchase Price.
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Purchase Agreement provides for customary representations and warranties by Pac-West and
+TelePacific. Other than certain limited representations related to the
+title of assets, which survive indefinitely, and representations related to tax matters, which
+survive for sixty (60)&nbsp;days longer than any applicable statute of limitations, the representations
+and warranties survive until the first anniversary of closing of the Sale Transaction.
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Purchase Agreement provides for certain covenants on the part of Pac-West, including a
+covenant to operate its business in the ordinary course prior to closing of the Sale Transaction.
+In addition, Pac-West will be subject to an exclusivity provision, which will place certain
+limitations on its ability to solicit and enter into transactions involving a sale of its non-SME
+Business assets or a controlling stock sale, and an absolute prohibition on soliciting and entering
+into transactions involving a sale of its SME Business assets, in each case, between signing and
+closing of the Sale Transaction.
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Under the terms of the Purchase Agreement, Pac-West will be subject to a non-competition and
+non-solicitation covenant, which will terminate three years after closing. The non-competition
+covenant will prohibit Pac-West from engaging in any competing
+business, which is generally defined as the
+business of selling on a retail basis directly to small and medium-sized enterprise customers
+telecommunications services of the type and nature sold on a retail basis directly to small and
+medium-sized enterprise customers of the SME Business as of the closing of the Sale Transaction, in
+California and Nevada. Notwithstanding the foregoing, the non-competition covenant provides that
+Pac-West will not be prohibited from selling or providing any services to other direct providers of
+telecommunications and telecommunications-related services, including CLECs, VARs or resellers,
+IXCs, ISPs, ESPs, ASPs and paging companies. In addition, Pac-West
+will generally not be prohibited from
+providing such services to itself and its affiliates, directors, officers and employees.
+TelePacific will be subject to a non-solicitation covenant, which will also terminate three years
+after closing.
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The obligations of TelePacific to close the Sale Transaction will be subject to certain
+conditions, including the following: (i)&nbsp;Pac-West&#146;s representations and warranties are true and
+correct in all material respects and Pac-West is in compliance in all material respects with all
+covenants and agreements; (ii)&nbsp;the nonoccurrence of any events which could have a material adverse
+effect; (iii)&nbsp;receipt of any required third-party consents, including required regulatory approvals
+and landlord consent to the sublease of certain space in Pac-West&#146;s March Lane premises; and (iv)
+no court or other governmental or administrative action having been commenced to prevent or
+otherwise enjoin the execution, delivery or performance of the Purchase Agreement.
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pac-West&#146;s obligations to close the Sale Transactions are subject to certain conditions,
+including the following: (i)&nbsp;TelePacific&#146;s representations and warranties are true and correct in
+all
+
+
+<P align="center" style="font-size: 10pt">&nbsp;
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+<P align="left" style="font-size: 10pt">material respects and TelePacific&#146;s compliance in all material respects with all covenants and
+agreements; (ii)&nbsp;receipt of any required third-party consents, including required regulatory
+approvals and landlord consent to the sublease of certain space in Pac-West&#146;s March Lane premises;
+and (iii)&nbsp;no court or other governmental or administrative action having been commenced to prevent
+or otherwise enjoin the execution, delivery or performance of the Purchase Agreement.
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Purchase Agreement provides that Pac-West will generally indemnify TelePacific, its
+affiliates, officers, directors and employees from liability or loss arising out of or resulting
+from the following: (i)&nbsp;breach of any representation or warranty, agreement or covenant in
+connection with the Asset Purchase Agreement, the Transition Services Agreement or any operative
+document; (ii)&nbsp;any excluded liability; (iii)&nbsp;any claims by parties other than any TelePacific or
+its Indemnified Persons to the extent caused by acts or omissions of Pac-West; (iv)&nbsp;any claims
+arising out of any decree, judgment or order adjudicating Pac-West as bankrupt or otherwise
+insolvent; (v)&nbsp;any claims arising out of the institution by Pac-West of proceedings to be
+adjudicated a voluntary bankruptcy or similar restructuring or reorganization; and (vi)&nbsp;any of
+Pac-West&#146;s taxes. Notwithstanding the foregoing, Pac-West will generally not be liable for any
+loss unless the aggregate amount of losses exceeds $250,000, and then only to the extent of the
+losses in excess of $250,000 up to a maximum liability, in most cases of $5,000,000. TelePacific
+has agreed to indemnify Pac-West on a similar basis.
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Either Pac-West or TelePacific may terminate the Purchase Agreement at any time prior to the
+closing of the Sale Transaction if: (i)&nbsp;by mutual consent; (ii)&nbsp;an event occurs that results in a
+material adverse effect; (iii)&nbsp;any representations and warranties or covenants are not true and
+correct in all material respects and the breaching party fails to cure such defect within the
+defined cure period; (iv)&nbsp;if the closing does not occur by June&nbsp;30, 2005; or (vi)&nbsp;a government
+authority takes an action to prohibit the sale transactions, which action is final and
+nonappealable.
+
+
+<P align="left" style="font-size: 10pt"><U>Transition Services Agreement</U>
+
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Transition Services Agreement provides that Pac-West will provide to TelePacific certain
+pre-closing, support, and consulting services to ensure the continued operation of the SME Business
+and assist in the efficient and timely transition of Pac-West&#146;s SME Business customers from
+Pac-West&#146;s network facilities to TelePacific&#146;s network facilities. Under the terms of the
+Transition Services Agreement, the transition services will be provided for an initial term of one
+year from the closing of the Sale Transaction, unless sooner terminated. The term can be extended
+for additional increments of three months each, but may not exceed eighteen (18)&nbsp;months.
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The transition services that will be provided pursuant to the Transition Services Agreement
+are generally categorized as the following: network management services, customer support
+services, information technology and billing services, network related services, real estate
+services, migration services, pre-closing services and certain agreed upon additional services.
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As a general matter, under the terms of the Transition Services Agreement, transition services
+will be provided to TelePacific at cost. TelePacific will be provided a credit of $2,000,000 for
+network related services to be provided under the Transition Services Agreement. TelePacific&#146;s
+obligation to pay Pac-West for certain network related services will be subject to a cap of
+$10,500,000. In addition, network management services, customer support services, information
+technology and billing services and network related services will be subject to a pricing floor,
+which will require TelePacific to pay Pac-West a minimum amount each month for such services.
+Certain services will be subject to a service level agreement, which, to the extent Pac-West fails
+to perform at the established performance level, would result in a reduction in the amount to be
+received in connection with providing such services.
+
+
+<P align="center" style="font-size: 10pt">&nbsp;
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Transition Services Agreement provides a limitation on liability to Pac-West as well as
+other customary protections. As a general matter, Pac-West may not assign its obligations under
+the Transition Services Agreement without the consent of TelePacific (which may not be unreasonably
+withheld). However, TelePacific may generally refuse to consent to the assignment of Pac-West&#146;s
+obligations under the Transition Services Agreement to the extent such assignment is to a direct
+competitor of TelePacific and such assignment occurs within five months of the closing of the Sale
+Transaction.
+
+
+<P align="left" style="font-size: 10pt"><U>Payoff Letter</U>
+
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Payoff Letter provides that, in exchange for payment to Deutsche Bank of $40,750,000, the
+Senior Note will be prepaid in full (including all outstanding principal and accrued and unpaid
+interest) and the Warrant and Guaranty and Security Agreement will be terminated in connection
+therewith.
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pac-West&#146;s obligation to prepay the Senior Note is expressly conditioned on the closing of the
+Sale Transaction. Any obligations pursuant to the Payoff Letter will be terminated if the Purchase
+Agreement is terminated, provided Pac-West complies with specified notification provisions. In the
+event the Sale Transaction is not closed on or prior to April&nbsp;15, 2005, Deutsche Bank has the right
+to terminate this Payoff Letter; provided, however, if failure of the Sale Transaction to close is
+the result of the parties&#146; failure to obtain the necessary regulatory and governmental approvals,
+the Payoff Letter&#146;s termination date is extended to the earlier of (i)&nbsp;June&nbsp;30, 2005 and (ii)&nbsp;the
+date that is five business days following receipt of all governmental approvals. As part of the
+Prepayment, Deutsche Bank will release its lien on the assets to be acquired by TelePacific as well
+as authorize Pac-West to file any necessary financing statements or any Uniform Commercial Code
+termination statements.
+
+
+<P align="left" style="font-size: 10pt"><HR size="2" noshade width="100%">
+
+
+<P align="center" style="font-size: 10pt">&nbsp;
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#toc">Table of Contents</A></H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+<!-- link1 "SIGNATURES" -->
+<DIV align="left"><A NAME="002"></A></DIV>
+
+<P align="center" style="font-size: 10pt"><B>SIGNATURES</B>
+
+
+
+<P align="left" style="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the
+Registrant has duly caused this report to be signed on its behalf by the undersigned, hereunto duly
+authorized.
+
+
+<P align="center" style="font-size: 10pt"><B>PAC-WEST TELECOMM, INC.</B><BR>
+(Registrant)
+
+
+
+<P align="left" style="font-size: 10pt">Dated: December&nbsp;23, 2004
+
+
+<TABLE width="100%" border="0" cellspacing="0" cellpadding="0" style="font-size: 10pt">
+<TR>
+    <TD width="48%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="35%">&nbsp;</TD>
+    <TD width="15%">&nbsp;</TD>
+</TR>
+<TR>
+    <TD valign="top" align="left">&nbsp;</TD>
+    <TD colspan="3" align="left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">&nbsp;</TD>
+    <TD valign="top">By:&nbsp;&nbsp;</TD>
+    <TD colspan="2" style="border-bottom: 1px solid #000000" align="left">/s/  Peggy Mc Gaw
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="2" align="left">Peggy Mc Gaw&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="2" align="left">Vice President Finance&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+</TABLE>
+
+<P align="left" style="font-size: 10pt"><HR size="2" noshade width="100%">
+
+<P align="center" style="font-size: 10pt">&nbsp;
+</DIV>
+
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>2
+<FILENAME>c90729c9072999.gif
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 c90729c9072999.gif
+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
+%`@$!`#L_
+`
+end
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

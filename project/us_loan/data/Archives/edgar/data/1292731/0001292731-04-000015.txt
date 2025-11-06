@@ -1,0 +1,384 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ N0o0juuZf2OiLXZAbq5etL2hUPMTj3oR6+XyjS7i2vDazpAw1DO4NAGD1NzwDVds
+ ds2acZeA+FLSHk3hhp1OvQ==
+
+<SEC-DOCUMENT>0001292731-04-000015.txt : 20041223
+<SEC-HEADER>0001292731-04-000015.hdr.sgml : 20041223
+<ACCEPTANCE-DATETIME>20041223091916
+ACCESSION NUMBER:		0001292731-04-000015
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20041223
+ITEM INFORMATION:		Results of Operations and Financial Condition
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20041223
+DATE AS OF CHANGE:		20041223
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BUFFETS HOLDINGS, INC.
+		CENTRAL INDEX KEY:			0001292731
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-EATING PLACES [5812]
+		IRS NUMBER:				223754018
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-116897
+		FILM NUMBER:		041222462
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1460 BUFFET WAY
+		CITY:			EAGAN
+		STATE:			MN
+		ZIP:			55121
+		BUSINESS PHONE:		651-994-8608
+
+	MAIL ADDRESS:	
+		STREET 1:		1460 BUFFET WAY
+		CITY:			EAGAN
+		STATE:			MN
+		ZIP:			55121
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>form8k_122304.htm
+<DESCRIPTION>FORM 8-K DECEMBER 23, 2004
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+     <!-- Created by EDGAR Ease Plus (EDGAR Ease+) -->
+</HEAD>
+
+<BODY><H1 align=center><FONT face="Times New Roman, Times, Serif" size=4>SECURITIES AND EXCHANGE COMMISSION </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold-TNR" FSL="Project" -->
+<H1 align=center><FONT face="Times New Roman, Times, Serif" size=3>WASHINGTON, D.C. 20549 </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold-TNR" FSL="Project" -->
+<H1 align=center><FONT face="Times New Roman, Times, Serif" size=5>FORM 8-K </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold-TNR" FSL="Project" -->
+<H1 align=center><FONT face="Times New Roman, Times, Serif" size=2>CURRENT REPORT </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold-TNR" FSL="Project" -->
+<H1 align=center><FONT face="Times New Roman, Times, Serif" size=2>PURSUANT TO SECTION 13 OR 15(D) OF THE </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold-TNR" FSL="Project" -->
+<H1 align=center><FONT face="Times New Roman, Times, Serif" size=2>SECURITIES EXCHANGE ACT OF 1934 </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Para Large Indent Lv 0-TNR" FSL="Project" -->
+<P align=center><FONT face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Date of Report (date of earliest event reported): December 23, 2004 </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold 1-TNR" FSL="Project" -->
+<H1 align=center><FONT face="Times New Roman, Times, Serif" size=6>BUFFETS HOLDINGS, INC. </FONT></H1>
+
+<HR align=center width="90%" color=gray SIZE=1>
+
+<CENTER><FONT face="Times New Roman, Times, Serif" size=2>(Exact name of registrant as specified in its charter)</FONT></CENTER>
+
+<P>
+
+<P>
+<TABLE cellSpacing=0 cellPadding=0 width="100%" align=center>
+<TR vAlign=bottom>
+<TH align=center><FONT face="Times New Roman, Times, Serif" size=2></FONT></TH>
+<TH align=center><FONT face="Times New Roman, Times, Serif" size=2></FONT></TH>
+<TH align=center><FONT face="Times New Roman, Times, Serif" size=2></FONT></TH></TR>
+<TR vAlign=bottom>
+<TH align=center><FONT face="Times New Roman, Times, Serif" size=2></FONT></TH>
+<TH align=center><FONT face="Times New Roman, Times, Serif" size=2></FONT></TH>
+<TH align=center><FONT face="Times New Roman, Times, Serif" size=2></FONT></TH></TR>
+<TR vAlign=bottom>
+<TH align=center><FONT face="Times New Roman, Times, Serif" size=2></FONT></TH>
+<TH align=center><FONT face="Times New Roman, Times, Serif" size=2></FONT></TH>
+<TH align=center><FONT face="Times New Roman, Times, Serif" size=2></FONT></TH></TR>
+<TR vAlign=bottom>
+<TH align=center width="33%"><FONT face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;&nbsp;Delaware</FONT></TH>
+<TH align=center width="34%"><FONT face="Times New Roman, Times, Serif" size=2>333-116897</FONT></TH>
+<TH align=center width="33%"><FONT face="Times New Roman, Times, Serif" size=2>22-3754018</FONT></TH></TR>
+<TR vAlign=bottom>
+<TD align=center><FONT face="Times New Roman, Times, Serif" size=2>(State or other jurisdiction</FONT></TD>
+<TD align=center><FONT face="Times New Roman, Times, Serif" size=2>(Commission File Number)</FONT></TD>
+<TD align=center><FONT face="Times New Roman, Times, Serif" size=2>(IRS Employer</FONT></TD></TR>
+<TR vAlign=bottom>
+<TD align=center><FONT face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;of incorporation)</FONT></TD>
+<TD align=center><FONT face="Times New Roman, Times, Serif" size=2>&nbsp;</FONT></TD>
+<TD align=center><FONT face="Times New Roman, Times, Serif" size=2>Identification No.)</FONT></TD></TR>
+</TABLE>
+
+
+
+<P>
+
+<P>
+<HR align=center width="90%" color=gray SIZE=1>
+
+<TABLE cellSpacing=0 cellPadding=0 width="100%" align=center>
+<TR vAlign=bottom>
+<TH align=center><FONT face="Times New Roman, Times, Serif" size=2></FONT></TH>
+<TH align=left><FONT face="Times New Roman, Times, Serif" size=2></FONT></TH></TR>
+<TR vAlign=bottom>
+<TH align=center><FONT face="Times New Roman, Times, Serif" size=2></FONT></TH>
+<TH align=left><FONT face="Times New Roman, Times, Serif" size=2></FONT></TH></TR>
+<TR vAlign=bottom>
+<TH align=center><FONT face="Times New Roman, Times, Serif" size=2></FONT></TH>
+<TH align=left><FONT face="Times New Roman, Times, Serif" size=2></FONT></TH></TR>
+<TR vAlign=bottom>
+<TH align=center><FONT face="Times New Roman, Times, Serif" size=2></FONT></TH>
+<TH align=left><FONT face="Times New Roman, Times, Serif" size=2></FONT></TH></TR>
+<TR vAlign=bottom>
+<TH align=center><FONT face="Times New Roman, Times, Serif" size=2></FONT></TH>
+<TH align=left><FONT face="Times New Roman, Times, Serif" size=2></FONT></TH></TR>
+<TR vAlign=bottom>
+<TH align=center width="65%"><FONT face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;&nbsp;1460 Buffet Way</FONT></TH>
+<TD align=left width="35%"><FONT face="Times New Roman, Times, Serif" size=2>&nbsp;</FONT></TD></TR>
+<TR vAlign=bottom>
+<TH align=center><FONT face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;Eagan, Minnesota</FONT></TH>
+<TH align=left><FONT face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;55121</FONT></TH></TR>
+<TR vAlign=bottom>
+<TD align=center><FONT face="Times New Roman, Times, Serif" size=2>(Address of principal executive offices)</FONT></TD>
+<TD align=left><FONT face="Times New Roman, Times, Serif" size=2>(Zip Code)</FONT></TD></TR>
+</TABLE>
+
+
+<!-- MARKER FORMAT-SHEET="Para Large Indent Lv 0-TNR" FSL="Project" -->
+<P align=center><FONT face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Registrant&#146;s telephone number, including area code: (651) 994-8608 </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold-TNR" FSL="Project" -->
+<H1 align=center><FONT face="Times New Roman, Times, Serif" size=2>NOT APPLICABLE </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Para Large Indent Lv 0-TNR" FSL="Default" -->
+<P align=center><FONT face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Former name or former address, if changed since last report) </FONT></P>
+
+<P align=left><FONT size=2>&nbsp;&nbsp;&nbsp;&nbsp; Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (<I>see</I> General Instruction A.2. below):</FONT></P>
+
+<P align=left><FONT size=2>&nbsp;&nbsp;&nbsp;&nbsp;[_]&nbsp;Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)</FONT></P>
+
+<P align=left><FONT size=2>&nbsp;&nbsp;&nbsp;[_]&nbsp;Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)</FONT></P>
+
+<P align=left><FONT size=2>&nbsp;&nbsp;&nbsp;[_]&nbsp;Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))</FONT></P>
+
+<P align=left><FONT size=2>&nbsp;&nbsp;&nbsp;[_]&nbsp;Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))</FONT></P>
+
+<HR color=gray noShade SIZE=5>
+
+<!-- MARKER PAGE="sheet: 1; page: 1" -->
+
+<P STYLE="page-break-after:always">
+</P>
+
+
+<P align=left><FONT face="Times New Roman, Times, Serif" size=2><U><B>Item 2.02.&nbsp;&nbsp;Results of Operation
+and Financial Condition</B></U></FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Large Indent Lv 0-TNR" FSL="Project" -->
+
+<P><FONT face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+On December 22, 2004, Buffets Holdings, Inc. issued a press release announcing a conference call to discuss
+operating results for its second fiscal quarter.  The press release also reports same store sales
+trends for the second quarter of its 2005 fiscal year.  The press release is attached hereto as
+Exhibit 99.1 and is incorporated by reference into this item.</FONT></P>
+
+
+<P><FONT face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+The information in this Current Report is being furnished and shall not be deemed "filed" for the purposes
+of Section 18 of the Securities Exchance Act of 1934, as amended, or otherwise subject to the liabilities
+of that Section.  The information in this Current Report shall not be incorporated by reference into any registration
+statement or other document pursuant to the Securities Act of 1933, as amended, except as shall be expressly set forth
+by specific reference in any such filing.</FONT></P>
+
+<P align=left><FONT face="Times New Roman, Times, Serif" size=2><B><U>Item 9.01(c). &nbsp;Financial Statements and Exhibits</U></B></FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Sub 2 Left-TNR" FSL="Project" -->
+<P align=left><FONT face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(c) Exhibits</FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Large Indent Lv 0-TNR" FSL="Project" -->
+
+<P><FONT face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Exhibit 99.1 Press
+Release of Buffets, Holdings, Inc., dated December 22, 2004.</FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Sub 2 Left-TNR" FSL="Project" -->
+<P align=left><FONT face="Times New Roman, Times, Serif" size=2></FONT>&nbsp;</P>
+
+<P align=center><FONT face="Times New Roman, Times, Serif" size=2>2</FONT>
+<HR color=gray noShade SIZE=5>
+
+<!-- MARKER PAGE="sheet: 2; page: 2" -->
+<P STYLE="page-break-after:always">
+</P>
+
+
+
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold-TNR" FSL="Project" -->
+<H1 align=center><FONT face="Times New Roman, Times, Serif" size=2>SIGNATURES </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Para Large Indent Lv 0-TNR" FSL="Project" -->
+
+<P><FONT face="Times New Roman, Times, Serif" size=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report on Form 8-K to be signed on its behalf by the undersigned, thereunto duly authorized. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Left-TNR" FSL="Default" -->
+<P align=left><FONT face="Times New Roman, Times, Serif" size=2>Dated: December 23, 2004 </FONT></P>
+
+<TABLE cellSpacing=0 cellPadding=0 width="100%" align=center>
+<TR vAlign=bottom>
+<TH colSpan=3><FONT face="Times New Roman, Times, Serif" size=2></FONT></TH>
+<TH colSpan=3><FONT face="Times New Roman, Times, Serif" size=2></FONT></TH></TR>
+<TR vAlign=bottom>
+<TH colSpan=3><FONT face="Times New Roman, Times, Serif" size=2></FONT></TH>
+<TH colSpan=3><FONT face="Times New Roman, Times, Serif" size=2></FONT></TH></TR>
+<TR vAlign=bottom>
+<TH colSpan=3><FONT face="Times New Roman, Times, Serif" size=2></FONT></TH>
+<TH colSpan=3><FONT face="Times New Roman, Times, Serif" size=2></FONT></TH></TR>
+<TR vAlign=bottom>
+<TH colSpan=3><FONT face="Times New Roman, Times, Serif" size=2></FONT></TH>
+<TH colSpan=3><FONT face="Times New Roman, Times, Serif" size=2></FONT></TH></TR>
+<TR vAlign=bottom>
+<TH colSpan=3><FONT face="Times New Roman, Times, Serif" size=2></FONT></TH>
+<TH colSpan=3><FONT face="Times New Roman, Times, Serif" size=2></FONT></TH></TR>
+<TR vAlign=bottom>
+<TH colSpan=3><FONT face="Times New Roman, Times, Serif" size=2></FONT></TH>
+<TH colSpan=3><FONT face="Times New Roman, Times, Serif" size=2></FONT></TH></TR>
+<TR vAlign=bottom>
+<TD align=left width="40%"><FONT face="Times New Roman, Times, Serif" size=2></FONT></TD>
+<TD align=left width="1%"><FONT face="Times New Roman, Times, Serif" size=2>&nbsp;</FONT></TD>
+<TD align=left width="13%">&nbsp;
+
+<P></P>
+</TD>
+<TD align=left width="44%">
+
+<P><B><FONT size=2>BUFFETS HOLDINGS, INC.</FONT></B></P>
+
+
+<P>&nbsp;</P>
+</TD>
+<TD align=left width="1%"><FONT face="Times New Roman, Times, Serif" size=2>&nbsp;</FONT></TD>
+<TD align=left width="1%"><FONT face="Times New Roman, Times, Serif" size=2>&nbsp;</FONT></TD></TR>
+<TR vAlign=top>
+<TD align=left><FONT face="Times New Roman, Times, Serif" size=2></FONT></TD>
+<TD align=left><FONT face="Times New Roman, Times, Serif" size=2>&nbsp;</FONT></TD>
+<TD align=left><FONT face="Times New Roman, Times, Serif" size=2>By:</FONT></TD>
+<TD align=left><FONT face="Times New Roman, Times, Serif" size=2><U>/s/ R. Michael Andrews, Jr.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U></FONT></TD>
+<TD align=left><FONT face="Times New Roman, Times, Serif" size=2>&nbsp;</FONT></TD>
+<TD align=left><FONT face="Times New Roman, Times, Serif" size=2>&nbsp;</FONT></TD></TR>
+<TR>
+<TD colSpan=6></TD></TR>
+<TR vAlign=bottom>
+<TD align=left><FONT face="Times New Roman, Times, Serif" size=2></FONT></TD>
+<TD align=left><FONT face="Times New Roman, Times, Serif" size=2>&nbsp;</FONT></TD>
+<TD align=left><FONT face="Times New Roman, Times, Serif" size=2>Name:</FONT></TD>
+<TD align=left><FONT face="Times New Roman, Times, Serif" size=2>R. Michael Andrews, Jr.</FONT></TD>
+<TD align=left><FONT face="Times New Roman, Times, Serif" size=2>&nbsp;</FONT></TD>
+<TD align=left><FONT face="Times New Roman, Times, Serif" size=2>&nbsp;</FONT></TD></TR>
+<TR vAlign=bottom>
+<TD align=left><FONT face="Times New Roman, Times, Serif" size=2></FONT></TD>
+<TD align=left><FONT face="Times New Roman, Times, Serif" size=2>&nbsp;</FONT></TD>
+<TD align=left><FONT face="Times New Roman, Times, Serif" size=2>Title:</FONT></TD>
+<TD align=left><FONT face="Times New Roman, Times, Serif" size=2>Executive Vice President and</FONT></TD>
+<TD align=left><FONT face="Times New Roman, Times, Serif" size=2>&nbsp;</FONT></TD>
+<TD align=left><FONT face="Times New Roman, Times, Serif" size=2>&nbsp;</FONT></TD></TR>
+<TR vAlign=bottom>
+<TD align=left><FONT face="Times New Roman, Times, Serif" size=2>&nbsp;</FONT></TD>
+<TD align=left><FONT face="Times New Roman, Times, Serif" size=2>&nbsp;</FONT></TD>
+<TD align=left><FONT face="Times New Roman, Times, Serif" size=2>&nbsp;</FONT></TD>
+<TD align=left><FONT face="Times New Roman, Times, Serif" size=2>Chief Operating Officer</FONT></TD>
+<TD align=left><FONT face="Times New Roman, Times, Serif" size=2>&nbsp;</FONT></TD>
+<TD align=left><FONT face="Times New Roman, Times, Serif" size=2>&nbsp;</FONT></TD></TR>
+</TABLE>
+
+<P>
+
+<P>
+
+<P>
+<P align=center>3</P>
+
+<HR color=gray noShade SIZE=5>
+
+<!-- MARKER PAGE="sheet: 3; page: 3" -->
+
+<P STYLE="page-break-after:always">
+</P>
+
+
+
+</BODY>
+
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>2
+<FILENAME>form8kex991_122304.htm
+<DESCRIPTION>EXHIBIT 99.1
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY>
+<!-- MARKER FORMAT-SHEET="Para Flush" FSL="Default" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>(BW)(BUFFETS  HOLDINGS)  Buffets  Holdings,  Inc.  Reports Same Store Sales Results and  Announces  Conference  Call to Discuss  Second
+Quarter Results</FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Flush" FSL="Default" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>EAGAN, Minn.&#151;(BUSINESS
+WIRE)&#151;December 22, 2004&#151;Buffets Holdings, Inc. (&#147;Buffets Holdings&#148;)
+reported a same store sales decrease of 2.3% for the second quarter of its 2005 fiscal
+year (the twelve-week period ended December 15, 2004) as compared to the comparable prior
+year period. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Flush" FSL="Default" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Buffets Holdings also announced that
+it would be conducting a conference call to discuss operating results for its second
+fiscal quarter on Thursday, January 13, 2005, at 11:00 a.m. (Eastern). You may access this
+call starting at 10:45 a.m. (Eastern). The conference phone number will be 1-888-228-7864
+and the conference ID number will be 2939175. The conference call leader will be Roe
+Hatlen, Chief Executive Officer of Buffets Holdings. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Flush" FSL="Default" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>In consideration of your fellow
+participants, Buffets Holdings requests that cellular phones not be used. The conference
+call will be recorded and available for playback through Friday, January 21, 2005 at 6:00
+p.m. (Eastern). Playback can be reached by dialing 1-800-642-1687 and requesting
+conference ID number 2939175. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Flush" FSL="Default" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Buffets currently operates 353
+restaurants in 33 states comprising 344 buffet restaurants and nine Tahoe Joe&#146;s
+Famous Steakhouse(R) restaurants. The buffet restaurants are principally operated under
+the Old Country Buffet(R) or HomeTown Buffet(R) brands. Buffets also franchises 19 buffet
+restaurants in seven states. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Left" FSL="Default" -->
+<A NAME=A001></A>
+<P ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>CONTACTS: </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Left" FSL="Default" -->
+<A NAME=A002></A>
+<P ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Buffets Holdings, Inc., Eagan, MN<br>
+R. Michael Andrews, Jr., Chief Operating Officer (651) 365-2626, or <br>
+Don Van der Wiel, Vice President, Finance (651) 365-2789 </FONT></P>
+
+</BODY>
+</HTML>
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

@@ -1,0 +1,2270 @@
+
+<PAGE>
+
+EXHIBIT 99.1
+
+
+                      IN THE UNITED STATES BANKRUPTCY COURT
+                    FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+
+                                          :
+In re:                                    :  Chapter 11
+                                          :
+FN ESTATE, INC, ET AL.,                   :  Case No. 03-23143 (TMT)
+                                          :  (Jointly Administered)
+            Debtors.                      :
+                                          :
+
+================================================================================
+                            JOINT PLAN OF LIQUIDATION
+                             DATED DECEMBER 30, 2004
+================================================================================
+
+
+                                          SCHNADER HARRISON SEGAL & LEWIS LLP
+                                          Nicholas J. LePore III, Esquire
+                                          1600 Market Street, Suite 3600
+                                          Philadelphia, Pennsylvania 19103
+                                          (215) 751-2286
+                                          (215) 751-2205 (fax)
+                                          nlepore@schnader.com
+
+                                          COUNSEL TO DEBTORS AND
+                                          DEBTORS-IN-POSSESSION
+
+                                          - AND -
+
+                                          REED SMITH LLP
+                                          Robert P. Simons, Esq.
+                                          435 Sixth Avenue
+                                          Pittsburgh, Pennsylvania 15219
+                                          (412) 288-3131
+                                          (412) 288-3063 (fax)
+                                          rsimons@reedsmith.com
+
+                                          COUNSEL TO THE OFFICIAL COMMITTEE OF
+                                          UNSECURED CREDITORS
+
+
+<PAGE>
+
+
+<TABLE>
+<S>     <C>
+                                                 TABLE OF CONTENTS
+
+                                                                                                               PAGE
+                                                                                                               ----
+
+                  ARTICLE I.            DEFINITIONS AND INTERPRETATION                                           1
+
+         1.1      Administrative Agent...........................................................................1
+
+         1.2      Administrative Expense Claim...................................................................1
+
+         1.3      Allowed........................................................................................1
+
+         1.4      Avoidance Actions..............................................................................2
+
+         1.5      Bankruptcy Code................................................................................2
+
+         1.6      Bankruptcy Court...............................................................................2
+
+         1.7      Bankruptcy Rules...............................................................................2
+
+         1.8      Business Day...................................................................................2
+
+         1.9      Cash...........................................................................................2
+
+         1.10     Causes of Action...............................................................................2
+
+         1.11     Chapter 11 Cases...............................................................................2
+
+         1.12     Claim..........................................................................................2
+
+         1.13     Claims Register................................................................................2
+
+         1.14     Class..........................................................................................2
+
+         1.15     Collateral.....................................................................................3
+
+         1.16     Commencement Date..............................................................................3
+
+         1.17     Confirmation Date..............................................................................3
+
+         1.18     Confirmation Hearing...........................................................................3
+
+         1.19     Confirmation Order.............................................................................3
+
+         1.20     Creditors' Committee...........................................................................3
+
+         1.21     Daslic.........................................................................................3
+
+         1.22     Daslic Claim...................................................................................3
+
+         1.23     Debtor.........................................................................................3
+
+         1.24     Debtor Subsidiaries............................................................................3
+
+         1.25     Debtors........................................................................................3
+
+         1.26     Disclosure Statement...........................................................................3
+
+         1.27     Disputed.......................................................................................3
+
+         1.28     Distribution Record Date.......................................................................4
+
+         1.29     Effective Date.................................................................................4
+
+         1.30     Equity Interest................................................................................4
+
+         1.31     Estate or Estates..............................................................................4
+
+         1.32     Estate Property................................................................................4
+
+
+                                                        i
+</TABLE>
+<PAGE>
+<TABLE>
+<S>     <C>
+                                                 TABLE OF CONTENTS
+                                                    (continued)
+                                                                                                               PAGE
+                                                                                                               ----
+
+         1.33     Final Order....................................................................................4
+
+         1.34     General Unsecured Claim........................................................................4
+
+         1.35     Intercompany Claim.............................................................................5
+
+         1.36     Law............................................................................................5
+
+         1.37     Lien...........................................................................................5
+
+         1.38     Oversight Board................................................................................5
+
+         1.39     Person.........................................................................................5
+
+         1.40     Plan...........................................................................................5
+
+         1.41     Post Confirmation Expenses.....................................................................5
+
+         1.42     Priority Non-Tax Claim.........................................................................5
+
+         1.43     Priority Tax Claim.............................................................................5
+
+         1.44     Pro Rata Share.................................................................................5
+
+         1.45     Schedules......................................................................................5
+
+         1.46     Secured Claim..................................................................................5
+
+         1.47     Tax Code.......................................................................................6
+
+                  ARTICLE II.           ADMINISTRATIVE EXPENSE CLAIMS AND PRIORITY TAX CLAIMS                    6
+
+         2.1      Administrative Expense Claims..................................................................6
+
+         2.2      Compensation and Reimbursement Claims..........................................................6
+
+         2.3      Fees Under 28 U.S.C. ss. 1930..................................................................6
+
+         2.4      Priority Tax Claims............................................................................6
+
+                  ARTICLE III.          CLASSIFICATION OF CLAIMS AND EQUITY INTERESTS                            7
+
+                  ARTICLE IV.           TREATMENT OF CLAIMS AND EQUITY INTERESTS                                 7
+
+         4.1      Class 1 - Priority Non-Tax Claims..............................................................7
+
+         4.2      Class 2 - General Unsecured Claims.............................................................7
+
+         4.3      Class 3 - Daslic Claim.........................................................................7
+
+         4.4      Class 4 - Equity Interests.....................................................................7
+
+
+                  ARTICLE V.            PROVISIONS GOVERNING DISTRIBUTIONS                                       8
+
+         5.1      Distribution Record Date.......................................................................8
+
+         5.2      Method of Distributions Under the Plan.........................................................8
+
+         5.3      Withholding and Reporting Requirements........................................................12
+
+
+                                                        ii
+</TABLE>
+<PAGE>
+<TABLE>
+<S>     <C>
+                                                 TABLE OF CONTENTS
+                                                    (continued)
+                                                                                                               PAGE
+                                                                                                               ----
+
+         5.4      Time Bar to Cash Payments.....................................................................12
+
+         5.5      Minimum Distributions.........................................................................13
+
+         5.6      Setoffs.......................................................................................13
+
+         5.7      Transactions on Business Days.................................................................13
+
+         5.8      Allocation of Plan Distribution Between Principal and Interest................................13
+
+                  ARTICLE VI.           MEANS FOR IMPLEMENTATION AND EXECUTION OF THE PLAN                      13
+
+         6.1      Substantive Consolidation.....................................................................13
+
+         6.2      Substantive Consolidation Order...............................................................14
+
+         6.3      Distributions to Holders as of the Distribution Record Date...................................14
+
+         6.4      Closing of Chapter 11 Cases by Charitable Gift................................................14
+
+         6.5      Release of Liens..............................................................................15
+
+         6.6      Cancellation of Existing Securities and Agreements............................................15
+
+         6.7      Creation of Oversight Board...................................................................15
+
+         6.8      Administrative Agent's and Debtors' Post-Confirmation Roles; Dissolution......................16
+
+         6.9      Books and Records.............................................................................17
+
+         6.10     Corporate Action..............................................................................18
+
+         6.11     Effectuating Documents and Further Transactions...............................................18
+
+                  ARTICLE VII.          PROCEDURES FOR DISPUTED CLAIMS                                          18
+
+         7.1      Objections to Claims..........................................................................18
+
+         7.2      No Distribution Pending Allowance.............................................................18
+
+         7.3      Resolution of Disputed Claims.................................................................18
+
+         7.4      Estimation....................................................................................19
+
+         7.5      Allowance of Disputed Claims..................................................................19
+
+         7.6      Distributions to Holders of Allowed Claims Upon Disallowance of Disputed Claims...............19
+
+                  ARTICLE VIII.         EXECUTORY CONTRACTS AND UNEXPIRED LEASES                                19
+
+         8.1      Executory Contracts and Unexpired Leases......................................................19
+
+         8.2      Approval of Rejection of Executory Contracts and Unexpired Leases.............................20
+
+         8.3      Rejection Claims..............................................................................20
+
+                  ARTICLE IX.           EFFECTIVENESS OF THE PLAN                                               20
+
+         9.1      Condition Precedent to Confirmation of Plan...................................................20
+
+
+                                                        iii
+</TABLE>
+<PAGE>
+<TABLE>
+<S>     <C>
+                                                 TABLE OF CONTENTS
+                                                    (continued)
+                                                                                                               PAGE
+                                                                                                               ----
+
+         9.2      Conditions Precedent to Effective Date........................................................20
+
+         9.3      Satisfaction of Conditions....................................................................20
+
+         9.4      Effect of Nonoccurrence of Conditions to Effective Date.......................................21
+
+                  ARTICLE X.            EFFECT OF CONFIRMATION                                                  21
+
+         10.1     Vesting of Assets.............................................................................21
+
+         10.2     Release of Assets.............................................................................21
+
+         10.3     Binding Effect................................................................................21
+
+         10.4     Term of Injunctions or Stays..................................................................21
+
+         10.5     Causes of Action..............................................................................21
+
+         10.6     Injunction....................................................................................22
+
+         10.7     Injunction Against Interference with Plan.....................................................22
+
+         10.8     Retention and Preservation of Claim Objections and Causes of Action...........................22
+
+
+                  ARTICLE XI.           RETENTION OF JURISDICTION                                               23
+
+         11.1     Jurisdiction of Bankruptcy Court..............................................................23
+
+                  ARTICLE XII.          CRAMDOWN RESERVATION                                                    24
+
+         12.1      Nonconsensual Confirmation...................................................................24
+
+                  ARTICLE XIII.         MISCELLANEOUS PROVISIONS                                                25
+
+         13.1     Dissolution of Creditors' Committee...........................................................25
+
+         13.2     Record Date...................................................................................25
+
+         13.3     Substantial Consummation......................................................................25
+
+         13.4     Exemption from Transfer Taxes.................................................................25
+
+         13.5     Releases......................................................................................25
+
+         13.6     Exculpation...................................................................................25
+
+         13.7     Standard of Care; Indemnification; Exculpation................................................26
+
+         13.8     Reliance by Administrative Agent..............................................................26
+
+         13.9     Discharge of Claims and Termination of Equity Interests.......................................27
+
+         13.10    Post-Confirmation Date Fees and Expenses......................................................27
+
+         13.11    Payment of Statutory Fees.....................................................................27
+
+         13.12    Modification of Plan..........................................................................27
+
+         13.13    Revocation or Withdrawal of Plan..............................................................28
+
+         13.14    Courts of Competent Jurisdiction..............................................................28
+
+
+                                                         iv
+</TABLE>
+<PAGE>
+<TABLE>
+<S>     <C>
+                                                 TABLE OF CONTENTS
+                                                    (continued)
+                                                                                                               PAGE
+                                                                                                               ----
+
+         13.15    Severability..................................................................................28
+
+         13.16    Governing Law.................................................................................28
+
+         13.17    Exhibits......................................................................................28
+
+         13.18    Successors and Assigns........................................................................28
+
+         13.19    Time..........................................................................................29
+
+         13.20    Notices.......................................................................................29
+
+
+                                                         v
+</TABLE>
+<PAGE>
+
+
+                      IN THE UNITED STATES BANKRUPTCY COURT
+                    FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+
+                                                     :
+In re:                                               :Chapter 11
+                                                     :
+FN ESTATE, INC., ET AL.,                             :Case No. 03-23143 (TMT)
+                                                     :(Jointly Administered)
+           Debtors.                                  :
+                                                     :
+
+================================================================================
+                            JOINT PLAN OF LIQUIDATION
+                             DATED DECEMBER 30, 2004
+================================================================================
+
+         FN Estate, Inc., f/k/a Fastnet Corporation, the above-captioned parent
+debtor and debtor-in-possession, and its subsidiary debtors-in-possession which
+are being jointly administered in this case, and the Official Committee of
+Unsecured Creditors propose the following chapter 11 joint plan of liquidation
+pursuant to Section 1121(a) of title 11 of the United States Code:
+
+                                   ARTICLE I.
+
+                         DEFINITIONS AND INTERPRETATION
+                         ------------------------------
+
+DEFINITIONS. The following terms used herein shall have the respective meanings
+defined below (such meanings to be equally applicable to both the singular and
+plural):
+
+         1.1 ADMINISTRATIVE AGENT means the Person appointed to serve as such
+pursuant to Section 5.2(b) of the Plan.
+
+         1.2 ADMINISTRATIVE EXPENSE CLAIM means any right to payment
+constituting a cost or expense of administration of any of the Chapter 11 Case
+allowed under Sections 503(b), 507(a)(1), and 1114(e) of the Bankruptcy Code,
+including, without limitation, any actual and necessary costs and expenses of
+preserving the Debtors' estate; any actual and necessary costs and expenses of
+operating the Debtors' businesses; any indebtedness or obligations incurred or
+assumed by any of the Debtors, as debtors-in-possession, during the Chapter 11
+Cases, including, without limitation, for the acquisition or lease of property
+or an interest in property; or the rendition of services, any allowances of
+compensation and reimbursement of expenses to the extent allowed by Final Order
+under Sections 330 or 503 of the Bankruptcy Code, and any fees or charges
+assessed against the estate of the Debtors under Section 1930 of chapter 123 of
+title 28 of the United States Code.
+
+         1.3 ALLOWED means, with reference to any Claim, (i) any Claim against
+any of the Debtors that has been listed by such of the Debtors in its Schedules,
+as such Schedules may be or may have been amended by such of the Debtors from
+time to time in accordance with Bankruptcy Rule 1009, as liquidated in amount
+and not disputed or contingent and for which no contrary proof of claim has been
+filed, (ii) any timely filed Claim as to which no objection to allowance has
+been interposed in accordance with Section 7.1 hereof or such other applicable
+period of limitation fixed by the Bankruptcy Code, the Bankruptcy Rules, or the
+
+
+                                       1
+<PAGE>
+
+Bankruptcy Court, or as to which any objection has been determined by a Final
+Order to the extent such objection is determined in favor of the respective
+holder, or (iii) any Claim expressly allowed by a Final Order or hereunder.
+
+         1.4 AVOIDANCE ACTIONS means any actions commenced, or that may be
+commenced, before or after the Effective Date pursuant to Sections 544, 545,
+547, 548, 549, 550, 551 or 553 of the Bankruptcy Code.
+
+         1.5 BANKRUPTCY CODE means title 11 of the United States Code, as
+amended from time to time, as applicable to this Chapter 11 Case.
+
+         1.6 BANKRUPTCY COURT means the United States District Court for the
+Eastern District of Pennsylvania, having jurisdiction over these Chapter 11
+Cases and, to the extent of any reference made under Section 157 of title 28 of
+the United States Code, the unit of such District Court having jurisdiction over
+these Chapter 11 Cases under Section 151 of title 28 of the United States Code.
+
+         1.7 BANKRUPTCY RULES means the Federal Rules of Bankruptcy Procedure as
+promulgated by the United States Supreme Court under Section 2075 of title 28 of
+the United States Code, as amended from time to time, applicable to this Chapter
+11 Case, and any Local Rules of the Bankruptcy Court.
+
+         1.8 BUSINESS DAY means any day other than a Saturday, a Sunday, or any
+other day on which banking institutions in New York, New York are required or
+authorized to close by law or executive order.
+
+         1.9 CASH means legal tender of the United States of America.
+
+         1.10 CAUSES OF ACTION means any and all actions, causes of action,
+liabilities, obligations, rights, suits, damages, judgments, claims, and demands
+whatsoever, other than Avoidance Actions, whether known or unknown, existing or
+hereafter arising, in law, equity, or otherwise, based in whole or in part upon
+any act or omission or other event occurring prior to the Commencement Date or
+during the course of these Chapter 11 Cases.
+
+         1.11 CHAPTER 11 CASES means the cases under chapter 11 of the
+Bankruptcy Code commenced by the Debtor on the applicable Commencement Date for
+the Debtor and the Debtor Subsidiaries, which are being jointly administered by
+the Bankruptcy Court and styled IN RE FN ESTATE, INC., ET AL., Case No. 03-23143
+(TMT).
+
+         1.12 CLAIM has the meaning set forth in Section 101(5) of the
+Bankruptcy Code.
+
+         1.13 CLAIMS REGISTER means the list maintained by the Bankruptcy Court
+listing all Claims as scheduled and/or filed in these Chapter 11 Cases.
+
+         1.14 CLASS means any group of Claims or Equity Interests classified by
+the Plan pursuant to Section 1122(a)(1) of the Bankruptcy Code.
+
+         1.15 COLLATERAL means any property or interest in property of the
+estate of the Debtors subject to a lien, charge, or other encumbrance to secure
+the payment or performance of a Claim, which lien, charge, or other encumbrance
+is not subject to avoidance under the Bankruptcy Code.
+
+
+                                       2
+<PAGE>
+
+         1.16 COMMENCEMENT DATE means June 10, 2003 for the Debtor and June 13,
+2003 for the Debtor Subsidiaries.
+
+         1.17 CONFIRMATION DATE means the date on which the Clerk of the
+Bankruptcy Court enters the Confirmation Order.
+
+         1.18 CONFIRMATION HEARING means the hearing to be held by the
+Bankruptcy Court regarding confirmation of the Plan, as such hearing may be
+adjourned or continued from time to time.
+
+         1.19 CONFIRMATION ORDER means the order of the Bankruptcy Court
+confirming the Plan pursuant to Section 1129 of the Bankruptcy Code.
+
+         1.20 CREDITORS' COMMITTEE means the statutory committee of unsecured
+creditors appointed by the Office of the United States Trustee in these Chapter
+11 Cases pursuant to Section 1102 of the Bankruptcy Code, as the composition of
+the same has been or may be modified by the addition or removal of members from
+time to time.
+
+         1.21 DASLIC means Daslic Holdings Company, a Delaware corporation and
+wholly-owned subsidiary of the Debtor.
+
+         1.22 DASLIC CLAIM means any and all Claims against the Debtors by
+Daslic.
+
+         1.23 DEBTOR means FN Estate, Inc, f/k/a Fastnet Corporation.
+
+         1.24 DEBTOR SUBSIDIARIES means Netaxs Corporation, SuperNet, Inc.,
+NetReach, Inc., Fastnet Acquisition, Inc., and Fastnet Acquisition Corp.
+
+         1.25 DEBTORS means the Debtor and the Debtor Subsidiaries,
+collectively. This term shall also refer to the postconfirmation Debtors, the
+reorganized Debtors.
+
+         1.26 DISCLOSURE STATEMENT means the disclosure statement relating to
+the Plan, including, without limitation, all exhibits thereto, as approved by
+the Bankruptcy Court pursuant to Section 1125 of the Bankruptcy Code.
+
+         1.27 DISPUTED means, with respect to any Claim which has not been
+Allowed pursuant to the Plan or a Final Order,
+
+                  (a) if no proof of claim has been filed by the applicable
+deadline: (i) a Claim that has been or hereafter is listed on the Schedules as
+disputed, contingent, or unliquidated; or (ii) a Claim that has been or
+hereafter is listed on the Schedules as other than disputed, contingent, or
+unliquidated, but as to which the Debtors or any other party in interest has
+interposed an objection or request for estimation which has not been withdrawn
+or determined by a Final Order; or
+
+                  (b) if a proof of claim or request for payment of an
+Administrative Expense Claim has been filed by the applicable deadline: (i) a
+Claim for which no corresponding Claim has been or hereafter is listed on the
+Schedules; (ii) a Claim for which a corresponding Claim has been or hereafter is
+listed on the Schedules as other than disputed, contingent, or unliquidated, but
+the nature or amount of the Claim as asserted in the proof of claim varies from
+the nature and amount of such Claim as listed on the Schedules; (iii) a Claim
+
+
+                                       3
+<PAGE>
+
+for which a corresponding Claim has been or hereafter is listed on the Schedules
+as disputed, contingent, or unliquidated; (iv) a Claim for which a timely
+objection or request for estimation is interposed by the Debtors which has not
+been withdrawn or determined by a Final Order; or (v) any Tort Claim.
+
+         1.28 DISTRIBUTION RECORD DATE means the Confirmation Date.
+
+         1.29 EFFECTIVE DATE means a Business Day on or after the Confirmation
+Date specified by the Debtors on which (i) no stay of the Confirmation Order is
+in effect, and (ii) the conditions to the effectiveness of the Plan specified in
+Section 9.2 hereof have been satisfied or waived.
+
+         1.30 EQUITY INTEREST means the interest of any holder of an equity
+security of the Debtors represented by any issued and outstanding shares of
+common or preferred stock or other instrument evidencing a present ownership
+interest in the Debtors, whether or not transferable, or any option, warrant, or
+right, contractual or otherwise, to acquire any such interest.
+
+         1.31 ESTATE OR ESTATES means the bankruptcy estate of one or more of
+the Debtors, as the case may be, created in these Chapter 11 Cases pursuant to
+Section 541 of the Bankruptcy Code.
+
+         1.32 ESTATE PROPERTY means property of the Debtors' Estates as defined
+by Section 541 of the Bankruptcy Code, which will vest in the reorganized
+Debtors, subject only to the Administrative Agent's obligation to administer,
+liquidate and distribute the Estate Property in accordance with the terms of the
+Plan.
+
+         1.33 FINAL ORDER means an order or judgment of the Bankruptcy Court
+entered by the Clerk of the Bankruptcy Court on the docket in these Chapter 11
+Cases which has not been reversed, vacated, or stayed and as to which (i) the
+time to appeal, petition for certiorari, or move for a new trial, reargument, or
+rehearing has expired and as to which no appeal, petition for certiorari, or
+other proceeding for a new trial, reargument, or rehearing shall then be
+pending, or (ii) if an appeal, writ of certiorari, new trial, reargument, or
+rehearing thereof has been sought, such order or judgment of the Bankruptcy
+Court shall have been affirmed by the highest court to which such order was
+appealed, or certiorari shall have been denied, or a new trial, reargument, or
+rehearing shall have been denied or resulted in no modification of such order,
+and the time to take any further appeal, petition for CERTIORARI, or move for a
+new trial, reargument, or rehearing shall have expired.
+
+         1.34 GENERAL UNSECURED CLAIM means any Claim against the Debtors that
+is (i) not an Administrative Expense Claim, Priority Tax Claim, Secured Claim,
+Priority Non-Tax Claim, Daslic Claim, or Intercompany Claim, or (ii) otherwise
+determined by the Bankruptcy Court to be a General Unsecured Claim.
+
+         1.35 INTERCOMPANY CLAIM means any Claim between or by and among the
+Debtors.
+
+         1.36 LAW means any law, rule, regulation, order, decree or other
+requirement having the force of law and, where applicable, any interpretation
+thereof by an authority having jurisdiction with respect thereto or charged with
+administration thereof.
+
+
+                                       4
+<PAGE>
+
+         1.37 LIEN means a judicial lien as defined in Section 101(36) of the
+Bankruptcy Code; a lien as defined in Section 101(37) of the Bankruptcy Code; a
+security interest as defined in Section 101(51) of the Bankruptcy Code; a
+statutory lien as defined in Section 101(53) of the Bankruptcy Code; and any
+other lien, interest, charge or encumbrance.
+
+         1.38 OVERSIGHT BOARD means the three member board appointed to serve as
+such pursuant to Section 6.7(a) of the Plan.
+
+         1.39 PERSON has the meaning set forth in Section 101(41) of the
+Bankruptcy Code.
+
+         1.40 PLAN means this chapter 11 joint plan of liquidation, including
+exhibits hereto, as the same may be amended or modified from time to time in
+accordance with the provisions of the Bankruptcy Code and the terms hereof.
+
+         1.41 POST CONFIRMATION EXPENSES means all costs and expenses incurred
+by the Debtors from and after the Confirmation Date in the course of liquidation
+and Plan implementation, including without limitation, professional fees and
+expenses, salaries, rent, utilities, and taxes.
+
+         1.42 PRIORITY NON-TAX CLAIM means any Claim, other than an
+Administrative Expense Claim or a Priority Tax Claim, entitled to priority in
+payment as specified in Section 507(a)(3), (4), (5), (6), (7), or (9) of the
+Bankruptcy Code.
+
+         1.43 PRIORITY TAX CLAIM means any Claim of a governmental unit of the
+kind entitled to priority in payment as specified in Sections 502(i) and
+507(a)(8) of the Bankruptcy Code.
+
+         1.44 PRO RATA SHARE means a proportionate share, so that the ratio of
+the consideration distributed on account of an Allowed Claim in a Class to the
+amount of such Allowed Claim is the same as the ratio of the amount of the
+consideration distributed on account of all Allowed Claims in such Class to the
+amount of all Allowed Claims in such Class.
+
+         1.45 SCHEDULES means the schedules of assets and liabilities and the
+statements of financial affairs filed by each of the Debtors under Section 521
+of the Bankruptcy Code, Bankruptcy Rule 1007, and the Official Bankruptcy Forms
+of the Bankruptcy Rules as such schedules and statements have been or may be
+supplemented or amended through the Confirmation Date. 1.46 SECURED CLAIM means
+a Claim (i) secured by Collateral, to the extent of the value of such Collateral
+(a) as set forth in the Plan, (b) as agreed to by the holder of such Claim and
+any one or more of the Debtors pursuant to a Final Order of the Bankruptcy
+Court, or (c) as determined by a Final Order in accordance with Section 506(a)
+of the Bankruptcy Code, or (ii) secured by the amount of any rights of setoff of
+the holder thereof under Section 553 of the Bankruptcy Code.
+
+         1.47 TAX CODE means title 26 of the United States Code, as amended from
+time to time.
+
+
+                                       5
+<PAGE>
+
+     INTERPRETATION; APPLICATION OF DEFINITIONS AND RULES OF CONSTRUCTION.
+     ---------------------------------------------------------------------
+
+         The words "herein," "hereof," "hereto," "hereunder," and other words of
+similar import refer to the Plan as a whole and not to any particular Section,
+subsection, or clause contained therein. A term used herein that is not defined
+herein shall have the meaning assigned to that term in the Bankruptcy Code. The
+rules of construction contained in Section 102 of the Bankruptcy Code shall
+apply to the Plan. References to "Debtors" shall refer to any one or more of the
+Debtors, as the case may be, unless the context clearly requires otherwise. The
+headings in the Plan are for convenience of reference only and shall not limit
+or otherwise affect the provisions hereof.
+
+                                  ARTICLE II.
+
+              ADMINISTRATIVE EXPENSE CLAIMS AND PRIORITY TAX CLAIMS
+              -----------------------------------------------------
+
+         2.1 ADMINISTRATIVE EXPENSE CLAIMS. Except to the extent that a holder
+of an Allowed Administrative Expense Claim agrees to a different treatment, on
+the Effective Date, or as soon thereafter as is reasonably practicable, the
+Administrative Agent, on account of the Debtors, shall pay to each holder of an
+Allowed Administrative Expense Claim, in full satisfaction of such Claim, an
+amount in Cash equal to the Allowed amount of such Claim.
+
+         2.2 COMPENSATION AND REIMBURSEMENT CLAIMS. All entities seeking an
+award by the Bankruptcy Court of compensation for services rendered or
+reimbursement of expenses incurred through and including the Confirmation Date
+under Sections 327, 328, 330, 331, 503(b)(2), 503(b)(3), 503(b)(4), or 503(b)(5)
+of the Bankruptcy Code (i) shall file their respective final applications for
+allowance of compensation for services rendered and reimbursement of expenses
+incurred by the date that is thirty (30) days after the Confirmation Date, and
+(ii) shall be paid in full by the Administrative Agent, on account of the
+Debtors, in such amounts as are allowed by the Bankruptcy Court (A) upon the
+date upon which the order relating to any such Administrative Expense Claim is
+entered, or as soon thereafter as is practicable, or (B) upon such other terms
+as may be mutually agreed upon between the holder of such an Administrative
+Expense Claim and the Debtors.
+
+         2.3 FEES UNDER 28 U.S.C. SS. 1930. All fees payable in these Chapter 11
+Cases under 28 U.S.C. ss. 1930, as agreed by the Debtors or as determined by the
+Bankruptcy Court, will, if not previously paid in full, be paid by the
+Administrative Agent, on account of the Debtors, in Cash on the Effective Date
+and will continue to be paid by the Administrative Agent, on account of the
+Debtors, as required under 28 U.S.C. ss. 1930 until such time as an order is
+entered by the Bankruptcy Court closing these Chapter 11 Cases.
+
+         2.4 PRIORITY TAX CLAIMS. Except to the extent that a holder of an
+Allowed Priority Tax Claim agrees to a different treatment, on the Effective
+Date, or as soon thereafter as is reasonably practicable, the Administrative
+Agent, on account of the Debtors, shall pay to each holder of an Allowed
+Priority Tax Claim an amount in Cash equal to the Allowed amount of such Claim.
+
+                                  ARTICLE III.
+
+                  CLASSIFICATION OF CLAIMS AND EQUITY INTERESTS
+                  ---------------------------------------------
+
+         The following table designates the Classes of Claims against and Equity
+Interests in the Debtors and specifies which of those Classes are (i) impaired
+or unimpaired by the Plan, (ii) entitled to vote to accept or reject the Plan in
+accordance with Section 1126 of the Bankruptcy Code, and (iii) deemed to reject
+the Plan:
+
+
+                                       6
+<PAGE>
+
+       Class            Designation          Impairment      Entitled to Vote
+       -----            -----------          ----------      ----------------
+
+      Class 1     Priority Non-Tax Claims    Unimpaired             No
+
+      Class 2    General Unsecured Claims     Impaired              Yes
+
+      Class 3          Daslic Claim           Impaired     No (deemed to reject)
+
+      Class 4        Equity Interests         Impaired     No (deemed to reject)
+
+                                  ARTICLE IV.
+
+                    TREATMENT OF CLAIMS AND EQUITY INTERESTS
+                    ----------------------------------------
+
+         4.1 CLASS 1 - PRIORITY NON-TAX CLAIMS. Except to the extent that a
+holder of an Allowed Priority Non-Tax Claim against the Debtors agrees to a
+different treatment of such Claim, each holder of an Allowed Priority Non-Tax
+Claim shall receive the unpaid amount of its Allowed Priority Non-Tax Claim on
+the Effective Date, or as soon thereafter as is practicable in full satisfaction
+of such Claim.
+
+         4.2 CLASS 2 - GENERAL UNSECURED CLAIMS. The holders of Allowed General
+Unsecured Claims shall receive their Pro Rata Share of all remaining Cash after
+payment in full of all Allowed Claims in Sections 2.1, 2.2, 2.3, 2.4, and 4.1 of
+the Plan, and all Post-Confirmation Expenses through multiple distributions, the
+first of which shall occur on the Effective Date or as soon thereafter as is
+practicable.
+
+         4.3 CLASS 3 - DASLIC CLAIM. The holder of the Daslic Claim shall
+neither receive nor retain any property or interest in Estate Property on
+account of such Claim.
+
+         4.4 CLASS 4 - EQUITY INTERESTS. All Equity Interests issued by the
+Debtors shall survive Confirmation. However, each holder of an Equity Interest
+shall neither receive nor retain any property or interest in Estate Property on
+account of such Equity Interest. Equity Interest holders are enjoined from
+taking actions detrimental to the liquidation of the Debtors Estates, taking
+actions contrary to the terms of the Plan, and taking actions that would impede
+the implementation of the provisions of the Plan in any way. Those holding
+Equity Interests are also enjoined from transferring such Equity Interests. In
+accordance with Section 6.6, all Equity Interests will be cancelled after the
+Plan has been fully implemented and the Administrative Agent files the
+appropriate articles of dissolution. On or before the dissolution of the
+Debtors' corporate existence, the Debtors will file with the United States
+Securities and Exchange Commission a Form 15 for the purpose of terminating the
+registration of any of its publicly traded securities.
+
+                                   ARTICLE V.
+
+                       PROVISIONS GOVERNING DISTRIBUTIONS
+                       ----------------------------------
+
+         5.1 DISTRIBUTION RECORD DATE. As of the close of business on the
+Distribution Record Date, the various transfer registers for each of the Classes
+of Claims or Equity Interests as maintained by the Debtors, or their agents,
+shall be deemed closed, and there shall be no further changes in the record
+holders of any of the Claims or Equity Interests. The Administrative Agent shall
+
+
+                                       7
+<PAGE>
+
+have no obligation to recognize any transfer of the Claims or Equity Interests
+occurring on or after the Distribution Record Date. The Administrative Agent
+shall be entitled to recognize and deal for all purposes hereunder only with
+those record holders stated on the transfer ledgers as of the close of business
+on the Distribution Record Date, to the extent applicable.
+
+         5.2 METHOD OF DISTRIBUTIONS UNDER THE PLAN.
+
+                  (a) EFFECTIVE DATE PAYMENTS AND TRANSFERS BY THE
+ADMINISTRATIVE AGENT. On the Effective Date, or as soon thereafter as is
+reasonably practicable, the Administrative Agent, on account of the Debtors,
+shall remit to holders of Allowed Claims the amounts as set forth in the Plan.
+
+                  (b) ADMINISTRATIVE AGENT. The Administrative Agent shall be
+installed on the Effective Date. The initial Administrative Agent shall be Tamie
+Barsky, unless she declines the position, in which case the Debtors and the
+Creditors' Committee shall jointly nominate another Person in advance of the
+Confirmation Hearing. The Person selected to serve as Administrative Agent will
+be approved by the Bankruptcy Court in connection with the Confirmation Hearing.
+Pursuant to an Order dated October 7, 2004, Ms. Barsky was retained as financial
+consultant to the Debtors. The application to employ Ms. Barsky (along with the
+description of her qualifications) and the order approving the application are
+incorporated herein by reference. The Oversight Board may remove the
+Administrative Agent as provided in Section 6.7(g) of the Plan. The
+Administrative Agent will not be required to give any bond or surety or other
+security for the performance of its duties unless otherwise ordered by the
+Bankruptcy Court, and in the event that the Administrative Agent is otherwise so
+ordered, all costs and expenses of procuring any such bond or surety will be
+borne by the Debtors. The Administrative Agent is elected as the sole Officer
+and Director of the Debtors, and shall replace all existing Officers and
+Directors of the Debtors.
+
+                           (1) RIGHTS AND OBLIGATIONS OF THE ADMINISTRATIVE
+AGENT:
+
+                                    (A) LIQUIDATION OF THE DEBTORS. Following
+the Effective Date, the Administrative Agent shall conduct an orderly
+liquidation of the remaining Estate Property consistent with the terms of the
+Plan.
+
+                                    (B) MANAGEMENT OF THE DEBTORS. Except as
+otherwise expressly limited in the Plan, the Administrative Agent shall have
+control and authority over the Debtors and Estate Property, including the
+Avoidance Actions and other causes of action that are owned by the Debtors, and
+over the management and disposition of the Estate Property (including the
+transfer of any Estate Property that does not constitute a disposition). Except
+as provided in the Plan, the Administrative Agent need not obtain any court
+order or approval in the exercise of any power or discretion conferred under the
+Plan, or account to any court in the absence of a breach of fiduciary duty. The
+Administrative Agent shall exercise its judgment for the benefit of the
+creditors in order to maximize the value of Estate Property, giving due regard
+to the cost, risk, and delay of any course of action. In connection with the
+management of the Debtors and use of the Estate Property, the Administrative
+Agent's power to manage the Debtors (except as otherwise expressly limited in
+the Plan) shall include taking the following action on behalf of the Debtors:
+
+                                             (i) to pursue the liquidation and
+marshalling of the Estate Property and to preserve and protect the Estate
+Property;
+
+
+                                       8
+<PAGE>
+
+                                             (ii) to reconcile, settle, or
+object to Claims against the Debtors and to prosecute, settle or abandon the
+Avoidance Actions and other causes of action that are Estate Property against
+third parties;
+
+                                             (iii) to make or cause to be made
+distributions of Cash in accordance with the terms of the Plan;
+
+                                             (iv) to liquidate and distribute
+Estate Property or any portion of or interest in Estate Property, and to dispose
+of the Estate Property for Cash or on such terms and for such consideration as
+are reasonable and appropriate;
+
+                                             (v) to enforce payment of notes or
+other obligations, including accounts receivable, owed to the Debtors;
+
+                                             (vi) to purchase insurance with
+coverage and limits as it deems desirable, including, insurance covering
+liabilities of the Administrative Agent or employees or agents of the Debtors
+incurred in connection with their services to the Debtors;
+
+                                             (vii) subject to the requirements
+of the Plan, to appoint, engage, employ, supervise and compensate officers,
+employees, and other persons as may be necessary or desirable, including
+managers, consultants, accountants, technical, financial, or investment advisors
+or managers, attorneys, agents or brokers, corporate fiduciaries, or
+depositories, such Persons shall operate only at the direction of the
+Administrative Agent;
+
+                                             (viii) subject to the limitations
+in the Plan, to the extent reasonably required to meet claims and contingent
+liabilities (including Disputed Claims) or to maintain the value of Estate
+Property during liquidation, to invest and reinvest available Cash, pending
+distribution, and to liquidate such investments; provided, however, the
+Administrative Agent shall not receive or retain Cash or Cash equivalents in
+excess of a reasonable amount necessary to meet claims and contingent
+liabilities (including Disputed Claims) or to maintain the value of the Estate
+Property during liquidation;
+
+                                             (ix) to execute, deliver, and
+perform on behalf of the Debtors any closing agreement made with the Internal
+Revenue Service;
+
+                                             (x) to establish the manner of
+ascertaining income and principal, and the apportionment of income and
+principal, and the apportionment between income and principal of all receipts
+and disbursements, and to select an annual accounting period;
+
+                                             (xi) establish funds, reserves and
+accounts, as deemed by the Administrative Agent in its discretion to be useful
+in carrying out the purposes of the Plan;
+
+                                             (xii) sue and be sued and
+participate, as a party or otherwise, in any judicial, administrative,
+arbitrative or other proceeding;
+
+                                             (xiii) delegate any or all of the
+discretionary power and authority conferred with respect to all or any portion
+of the Estate Property to any one or more reputable individuals or recognized
+institutional advisors or investment managers without liability for any action
+taken or omission made because of any such delegation except for such liability
+as is provided in the Plan;
+
+
+                                       9
+<PAGE>
+
+                                             (xiv) consult with the Oversight
+Board at such times and regarding such issues relating to the liquidation of the
+Debtors and Estate Property as are desirable or required in accordance with the
+terms of the Plan;
+
+                                             (xv) execute, deliver, and perform
+such other agreements and documents and to take or cause to be taken any and all
+such other actions as may be necessary or desirable to effectuate and carry out
+the purposes of the Plan;
+
+                                             (xvi) undertake any action
+necessary to maintain the corporate existence and/or dissolve the Debtors
+pursuant to applicable law;
+
+                                             (xvii) undertake any action
+necessary to ensure that the Debtors are and remain in good standing and
+compliance with applicable federal, state, and local laws;
+
+                                             (xviii) file any federal, state, or
+local tax returns and provide for the payment of any related taxes; and
+
+                                             (xiv) undertake any action or
+perform any obligation provided for or required under the Plan.
+
+                                    (C) EMPLOYMENT AND COMPENSATION OF
+PROFESSIONALS. The Administrative Agent shall have the authority to retain and
+compensate Reed Smith LLP ("Reed Smith") and Schnader Harrison Segal & Lewis LLP
+("SHS&L") as counsel to represent it in connection with its duties and
+responsibilities under the Plan. The Administrative Agent shall also have the
+authority to retain and compensate such other attorneys, accountants, investment
+advisors, and other professionals as the Administrative Agent may determine to
+be necessary or appropriate in carrying out the provisions of the Plan. All
+Persons employed by the Administrative Agent shall operate only at its
+direction. The Administrative Agent may pay the reasonable fees and expenses of
+such professionals without application to the Bankruptcy Court. The fees and
+expenses of the Administrative Agent and its professionals are, however, subject
+to review and approval by the Oversight Board as provided for in Section 6.7 of
+the Plan.
+
+         Reed Smith and SHS&L shall be retained by the Administrative Agent on
+an hourly-rate basis, plus reasonable out-of-pocket expenses. Reed Smith and
+SHS&L shall be compensated at the regular hourly rates for both attorneys and
+paralegals. The current hourly rates for Reed Smith attorneys and paralegals are
+as follows: $125 to $175 for paralegals; $165 to $375 for associates; and $285
+to $605 for partners. The current hourly rates for SHS&L attorneys and
+paralegals are as follows: $90 to $170 for paralegals; $125 to $270 for
+associates; and $235 to $480 for partners. These hourly rates are subject to
+normal periodic adjustments. Invoices for payment of fees and reimbursement of
+expenses shall be submitted by both Reed Smith and SHS&L to the Administrative
+Agent and the Oversight Board on a monthly basis.
+
+         During the course of the Bankruptcy Cases, SHS&L, as Debtors' counsel,
+performed substantial services in connection with claims reconciliation and
+resolution. Similarly, Reed Smith, as counsel to the Creditors' Committee,
+performed substantial services in connection with the investigation and analysis
+of Avoidance Actions as well as other causes of action held by the Debtors. In
+the interest of efficiency and in an effort to avoid the unnecessary duplication
+of effort, Reed Smith and SHS&L will divide their representation of the
+Administrative Agent on these and other matters in the same manner.
+
+
+                                       10
+<PAGE>
+
+         The Administrative Agent may, if/when necessary, retain R. Barry
+Borden, who served as President and Chief Executive Officer of the Debtors prior
+to Confirmation, as a consultant at an hourly rate of $175.00. As is true with
+all of the Administrative Agent's professionals, invoices for Mr. Borden's fees
+and expenses must be submitted to the Administrative Agent and Oversight Board
+on a monthly basis for review and approval.
+
+                                    (D) CONSULTATION. The Administrative Agent
+shall consult with the Oversight Board in good faith regarding all material
+issues affecting the Debtors' Estates, including the resolution of Claims
+objections and Avoidance Actions, and the disposition of Estate Property.
+Additionally, the Administrative Agent shall seek the advice of the Oversight
+Board regarding proposed budgets for the Estate, setting forth expected receipts
+and disbursements for litigation, operations, and other appropriate purposes.
+
+                                    (E) INVESTMENT GUIDELINES. Available Cash
+and other Cash held pending distribution, including Cash held in reserve, shall
+(to the extent permitted by applicable law) be invested by the Administrative
+Agent in: (i) direct obligations of, or obligations guaranteed or secured by,
+the United States of America (including United States Treasury Bills); (ii)
+obligations of any agency or corporation that is or may subsequently be created
+by or pursuant to an Act of the United States Congress or its agencies or
+instrumentalities; or (iii) demand deposits or short-term certificates of
+deposit at any bank or trust company that has, at the time of the acquisition by
+the Administrative Agent of such investments, capital stock and surplus
+aggregating at least $100 million and whose short-term debt obligations are
+rated by at least two nationally recognized statistical rating organizations in
+one of the two highest categories. Such investments shall mature in the amounts
+and at the times as, in the judgment of the Administrative Agent, are necessary,
+or are desirable with a view to providing funds when needed to make payments
+from the Estate Property. Any investment purchase with the Estate Property shall
+be deemed a part of the Estate Property. All interest, distributions, dividends
+and proceeds received by the Administrative Agent in connection with such
+investments shall be a part of the Estate Property.
+
+                                    (F) PRIVILEGES. Any attorney-client
+privilege, work-product privilege, or other privilege or immunity attaching to
+any documentation or communication shared with or transferred by the Debtors or
+their professionals to the Administrative Agent or its professionals, shall not
+be deemed waived and, to the extent the Debtors could claim a privilege or
+immunity, shall automatically vest in the Administrative Agent.
+
+                                    (G) COMPENSATION. The Administrative Agent
+will be compensated on a monthly basis for the first three months following
+Confirmation. The Administrative Agent's monthly compensation shall be based on
+an annual salary of $150,000. After the three month period has expired, the
+Administrative Agent will be compensated at an hourly rate of $175, not to
+exceed $2,625 per month unless approved by the Oversight Board. In addition to
+the aforementioned compensation, the Administrative Agent shall also be entitled
+to reimbursement of reasonable out-of-pocket expenses incurred in the
+performance of its duties under the Plan.
+
+                  (c) DISTRIBUTIONS OF CASH. At the option of the Administrative
+Agent, any Cash payment to be made hereunder may be made by check or wire
+transfer or as otherwise required or provided in applicable agreements.
+
+                  (d) DELIVERY OF DISTRIBUTIONS. Subject to Bankruptcy Rule
+9010, unless otherwise provided in the Plan, all distributions to any holder of
+an Allowed Claim will be made to the holder of each Allowed Claim at the address
+of such holder as listed in the Schedules, or on the books and records of the
+
+
+                                       11
+<PAGE>
+
+Debtors or their agents unless the Debtors or the Administrative Agent shall
+have been notified, in advance, in writing of a change of address, including,
+without limitation, by the timely filing of a proof of claim or interest by such
+holder that provides an address for such holder different from the address
+reflected in the Schedules or in the Debtors' or Administrative Agent's books
+and records. In the event that any distribution to any holder is returned as
+undeliverable, no distribution to such holder will be made unless and until the
+Administrative Agent has been notified of the then current address of such
+holder, at which time or as soon as reasonably practicable thereafter, such
+distribution will be made to such holder without interest; provided, however,
+that, such undeliverable distributions will be deemed unclaimed property under
+Section 347(b) of the Bankruptcy Code at the expiration of 90 days after the
+date of distribution, the distribution shall irrevocably revert to the Debtors'
+Estates and any Claim in respect of such distribution shall be discharged and
+forever barred from assertion against the Debtors and their Estates. The
+Administrative Agent will have no obligation to attempt to locate any holder of
+an Allowed Claim other than by reviewing the Schedules and its books and records
+(including any proofs of claim filed against the Debtors).
+
+         5.3 WITHHOLDING AND REPORTING REQUIREMENTS. In connection with the Plan
+and all instruments issued in connection therewith and distributed thereon, the
+Administrative Agent, on account of the Debtors, shall comply with all
+applicable withholding and reporting requirements imposed by any federal, state,
+or local taxing authority, and all distributions under the Plan shall be subject
+to any such withholding or reporting requirements.
+
+         5.4 TIME BAR TO CASH PAYMENTS. Checks issued by the Administrative
+Agent, on account of the Debtors, in respect of Allowed Claims shall be null and
+void if not negotiated within sixty (60) days after the date of issuance
+thereof. The holder of the Allowed Claim to whom such check originally was
+issued shall make requests for re-issuance of any check to the Administrative
+Agent. Any Claim in respect of such a voided check shall be made on or before
+thirty (30) days after the expiration of the sixty (60) day period following the
+date of issuance of such check. Thereafter, the amount represented by such
+voided check shall irrevocably revert to the Debtors' Estates and any Claim in
+respect of such voided check shall be discharged and forever barred from
+assertion against the Debtors and their Estates.
+
+         5.5 MINIMUM DISTRIBUTIONS. No payment of Cash less than $10 shall be
+made by the Administrative Agent, on account of the Debtors. Any Assets of the
+Estate that are not distributable in accordance with this Section 5.5 shall be
+distributed to a charitable organization exempt from federal income tax under
+Section 501(c)(3) of the Tax Code to be selected by the Administrative Agent
+which shall in no way be related to the Debtors or the Administrative Agent, as
+contemplated by Section 6.4 hereof.
+
+         5.6 SETOFFS. The Administrative Agent, on account of the Debtors, may,
+but shall not be required to, set off against any Claim (for purposes of
+determining the Allowed amount of such Claim on which distribution shall be
+made), any claims of any nature whatsoever that any of the Debtors may have
+against the holder of such Claim, but neither the failure to do so nor the
+allowance of any Claim hereunder shall constitute a waiver or release by the
+Debtors of any such claim the Debtors may have against the holder of such Claim.
+
+         5.7 TRANSACTIONS ON BUSINESS DAYS. If the Effective Date or any other
+date on which a transaction may occur under the Plan shall occur on a day that
+is not a Business Day, the transactions contemplated by the Plan to occur on
+such day shall instead occur on the next succeeding Business Day but shall be
+deemed to have been completed as of the required date.
+
+
+                                       12
+<PAGE>
+
+         5.8 ALLOCATION OF PLAN DISTRIBUTION BETWEEN PRINCIPAL AND INTEREST. All
+distributions in respect of any Allowed Claim shall be allocated first to the
+principal amount of such Allowed Claim, as determined for federal income tax
+purposes, and thereafter, to the remaining portion of such Claim comprising
+interest, if any (but solely to the extent that interest is an allowable portion
+of such Allowed Claim).
+
+                                  ARTICLE VI.
+
+               MEANS FOR IMPLEMENTATION AND EXECUTION OF THE PLAN
+               --------------------------------------------------
+
+         6.1 SUBSTANTIVE CONSOLIDATION.
+
+                  (a) Entry of the Confirmation Order shall constitute the
+approval, pursuant to Section 105(a) of the Bankruptcy Code, effective as of the
+Effective Date, of the substantive consolidation of the Debtor and the Debtor
+Subsidiaries for all purposes related to the Plan, including, without
+limitation, for purposes of voting, confirmation and distribution. On and after
+the Effective Date, notwithstanding any other provision of the Plan, (i) all
+assets and liabilities of the Debtor and the Debtor Subsidiaries shall be
+treated as though they were merged, (ii) no distributions shall be made under
+the Plan on account of any Claim held by any of the Debtors on account of
+Intercompany Claims, (iii) no distributions shall be made under the Plan on
+account of any Equity Interests held by any of the Debtors in any other of the
+Debtors, (iv) all guarantees or agreements to act as surety by any of the
+Debtors of the obligations of any of the other Debtors shall be eliminated such
+that any Claim against any of the Debtors and any guaranty or agreement to act
+as surety therefore executed by any of the Debtors and any joint or several
+liability of any of the Debtors shall be one obligation of all of the Debtors,
+and (v) each and every Claim filed or to be filed in these Chapter 11 Cases of
+any of the Debtors shall be deemed filed against all of the Debtors, and shall
+be one Claim against and obligation of all of the Debtors. Such substantive
+consolidation (other than for purposes related to the Plan) shall not affect the
+legal and corporate structures of the Debtors or the validity and enforceability
+of any executory contracts or postpetition agreements entered into by one or
+more of the Debtors.
+
+                  (b) The substantive consolidation effected pursuant to Section
+6.1(a) of the Plan shall not (other than for purposes related to funding
+distributions under the Plan and as set forth above in this Section) affect:
+(i): the legal and organizational structures of the Debtors; (ii) the validity
+or enforceability of any post-Commencement Date executory contracts or unexpired
+leases entered into by any one or more of the Debtors; or (iii) defenses to any
+Causes of Action or requirements for any third party to establish mutuality in
+order to assert a right of setoff.
+
+         6.2 SUBSTANTIVE CONSOLIDATION ORDER. This Plan shall serve as a motion
+seeking entry of an order substantively consolidating the Debtors' Estates for
+the limited purposes described in this Article VI. Unless an objection to such
+substantive consolidation is made in writing by any creditor affected by the
+Plan on or before the deadline set by the Court for the filing of objections to
+confirmation of the Plan, an order (which may be the Confirmation Order)
+approving limited substantive consolidation may be entered by the Court. In the
+event any such objections are timely filed, a hearing with respect thereto shall
+occur at the Confirmation Hearing. Notwithstanding this provision, nothing
+herein shall affect the obligation of each of the Debtors to pay quarterly fees
+to the United States Trustee in accordance with 28 U.S.C. ss. 1930(a)(6).
+
+         6.3 DISTRIBUTIONS TO HOLDERS AS OF THE DISTRIBUTION RECORD DATE. As of
+the close of business on the Distribution Record Date, the Claims Register, the
+equity register and transfer and other registers as maintained by the Debtors
+and their respective agents, as applicable, will be closed and there will be no
+further changes in the record holder of any Claim or Equity Interest. Neither
+the Administrative Agent nor the Debtors shall have any obligation to recognize
+any transfer of any Claim or Equity Interest occurring after the Distribution
+Record Date. The Administrative Agent and the Debtors will instead be authorized
+and entitled to recognize and deal for all purposes under the Plan with only
+those record holders stated on the Claims Register and equity register and other
+registers as of the close of business on the Distribution Record Date.
+
+
+                                       13
+<PAGE>
+
+         6.4 CLOSING OF CHAPTER 11 CASES BY CHARITABLE GIFT. If at any time the
+Administrative Agent determines that the expense of administering the Debtors'
+Estates so as to make a final distribution to Allowed Claims is likely to exceed
+the value of the assets remaining in the Estates, the Administrative Agent shall
+apply to the Bankruptcy Court for authority to (i) reserve any amounts necessary
+to close the Chapter 11 Cases, (ii) donate any balance to a charitable
+organization exempt from federal income tax under Section 501(c)(3) of the Tax
+Code that is unrelated to the Administrative Agent, any of the Debtors, or any
+insider of any of the Debtors, to the knowledge of the Administrative Agent, and
+(iii) close the Chapter 11 Cases in accordance with the Bankruptcy Code and
+Bankruptcy Rules. Notice of such application shall be given, to the extent
+practicable, to those parties who have filed requests for notices and whose
+electronic addresses remain current and operating.
+
+         6.5 RELEASE OF LIENS Except as otherwise specifically provided in or
+contemplated by the Plan or in any contract, instrument or other agreement or
+document created in connection with the Plan, (i) each holder of: (a) any
+purported Secured Claim; and/or (b) any judgment, personal property or AD
+VALOREM tax, mechanics' or similar Lien Claim, in each case regardless of
+whether such Claim is an Allowed Claim, shall, on or immediately before the
+Effective Date and regardless of whether such Claim has been scheduled or proof
+of such Claim has been filed: (y) turn over and release to the Estate any and
+all property of any of the Debtors or their Estates that secures or purportedly
+secures such Claim, or such Lien and/or Claim shall automatically, and without
+further action by such of the Debtors or its Estate, be deemed released; and (z)
+execute such documents and instruments as the Administrative Agent requires to
+evidence the holder of a Claim's release of such property or Lien, and if such
+holder refuses to execute appropriate documents or instruments, the
+Administrative Agent, on account of the Debtors, may, in its discretion, file a
+copy of the Confirmation Order in the appropriate recording office, which shall
+serve to release any holder of a Claim's rights in such property; and (ii) on
+the Effective Date, all right, title and interest in such property shall revert
+or be transferred to the Administrative Agent, on account of the Debtors, free
+and clear of all Claims, interests, and Liens of any kind.
+
+         6.6 CANCELLATION OF EXISTING SECURITIES AND AGREEMENTS. On the
+Effective Date, except as expressly provided in this Plan, the promissory notes,
+share certificates and other instruments evidencing a Claim or Interest shall be
+deemed cancelled without further act or action under any applicable agreement or
+Law, and the obligations of the Debtors under the agreements, instruments, trust
+indentures and certificates governing such Claims and Interests, as the case may
+be, shall be discharged. The Equity Interests in the Debtors shall be cancelled
+by the Administrative Agent's filing of the appropriate articles of dissolution
+after the Plan has been fully implemented and administered, and after all Estate
+Property has been distributed.
+
+
+                                       14
+<PAGE>
+
+         6.7 CREATION OF OVERSIGHT BOARD.
+
+                  (a) The Oversight Board shall initially consist of Jeff
+Pasquale and representatives of Telcove and Applied Theory Corporation.
+Thereafter, all vacancies on the Oversight Board shall be filled by majority
+vote of the remaining members of the Oversight Board.
+
+                  (b) The Oversight Board shall have the responsibility of
+monitoring and overseeing the Administrative Agent's implementation of the Plan.
+
+                  (c) By majority vote, the Oversight Board shall have the
+authority to approve payment of any fees and expenses of the Administrative
+Agent and its professionals, such approval not to be unreasonably withheld. All
+fees and expenses of the Administrative Agent and its professionals will be
+submitted to the Oversight Board for review and approval. The Oversight Board
+shall raise any objections within five (5) Business Days after having received
+the subject invoices, and if no objections are raised within that time, the
+Administrative Agent shall pay the professionals in full.
+
+                  (d) The Oversight Board shall also have the authority to
+review and deny any settlement(s) of Claims or Causes of Action in excess of
+$25,000. Settlements of Claims or Causes of Action that are less than or equal
+to $25,000 do not require the approval of the Oversight Board and are within the
+business judgment and sole discretion of the Administrative Agent. Settlements
+in excess of $25,000 must be approved by majority vote of the Oversight Board.
+
+                  (e) Notwithstanding any other provision of the Plan, by
+majority vote of the members of the Oversight Board, the Oversight Board may (i)
+require the Administrative Agent to take any action authorized by the Plan, (ii)
+require the Administrative Agent to refrain from taking any action that is
+inconsistent with the duties of the Administrative Agent under the Plan, and
+(iii) direct the Administrative Agent to make distributions either more or less
+frequently than otherwise required under the Plan.
+
+                  (f) The Administrative Agent must obtain majority approval of
+the Oversight Board to: (i) incur debt secured by Estate Property; (ii) sell or
+abandon Estate Property; and (iii) modify the Plan.
+
+                  (g) Members of the Oversight Board will be compensated for
+their services at a rate of $2,000 per member per month for the three (3) months
+immediately following the Effective Date, and at an hourly rate of $175, not to
+exceed $2,000 per month thereafter. Members shall also be entitled to
+reimbursement of reasonable out-of-pocket expenses incurred in the fulfillment
+of their duties. Such reimbursement shall not include fees or expenses of
+counsel or any other professional.
+
+                  (h) By majority vote, the Oversight Board may remove the
+Administrative Agent from office only for: (i) fraud, willful misconduct, or
+gross negligence in connection with its duties under the Plan, including the
+liquidation of the Debtors and the Estate Property; (ii) such physical or mental
+disability that subsequently prevents the Administrative Agent from performing
+the duties of Administrative Agent under the Plan; or (iii) cause, which shall
+include a breach of fiduciary duty or an unresolved conflict of interest, other
+than as specified in the foregoing clauses (i) and (ii).
+
+
+                                       15
+<PAGE>
+
+                  (i) By majority vote, a member of the Oversight Board may be
+removed for: (i) fraud, willful misconduct, or gross negligence in connection
+with its duties under the Plan; (ii) such physical or mental disability that
+subsequently prevents the member from performing its the duties under the Plan;
+or (iii) cause, which shall include a breach of fiduciary duty or an unresolved
+conflict of interest, other than as specified in the foregoing clauses (i) and
+(ii).
+
+                  (j) The Oversight Board shall not have any authority other
+than that granted under the terms of the Plan. The Oversight Board shall not
+have the authority to prevent the Administrative Agent from filing an objection
+to Claim or initiating an adversary proceeding.
+
+                  (k) Any dispute between the Administrative Agent and the
+Oversight Board shall be resolved by the Bankruptcy Court.
+
+         6.8 ADMINISTRATIVE AGENT'S AND DEBTORS' POST-CONFIRMATION ROLES;
+DISSOLUTION. The Administrative Agent, on account of the Debtors, shall perform
+each of the following acts as soon as practicable on or after the Effective
+Date:
+
+                  (a) PAYMENTS AND TRANSFERS. On the Effective Date, or as soon
+thereafter as is reasonably practicable, the Administrative Agent, on account of
+the Debtors, shall make payments and transfers to holders of Allowed Claims to
+claimants in the manner set forth at Sections 2.1, 2.2, 2.3, 2.4, 4.1, and 4.2
+hereof, and in accordance with Section 5.2 hereof.
+
+                  (b) ADMINISTRATION OF TAXES. The Administrative Agent, on
+account of the Debtors, shall be responsible for all tax matters (but
+specifically excluding the payment thereof from proceeds other than proceeds of
+the Estates) of the Debtors until certificates of cancellation or dissolution
+shall have been filed in accordance with Section 6.7(d) hereof.
+
+                  (c) CLAIMS ADMINISTRATION AND PROSECUTION AND PLAN
+DISTRIBUTIONS. The Administrative Agent, on account of the Debtors, shall have
+the power and authority to prosecute and resolve objections to any and all
+Disputed Claims (including without limitation those filed by the Debtors prior
+to the Effective Date). The Administrative Agent, on account of the Debtors,
+shall also continue to have the power and authority to hold, manage, and
+distribute Plan distributions to the holders of Allowed Claims consistent with
+applicable provisions of this Plan.
+
+                  (d) DISSOLUTION. Within thirty (30) days after its completion
+of the acts required by the Plan, or as soon thereafter as is practicable, the
+Debtors shall be deemed dissolved for all purposes without the necessity for any
+other or further actions to be taken by or on behalf of the Debtors or the
+Administrative Agent; PROVIDED, HOWEVER, that the Administrative Agent, on
+account of the Debtors, shall file with the office of the Secretary of State in
+each of the Debtors' states of organization, a certificate of cancellation or
+dissolution. No approval of the shareholders or directors of the Debtors shall
+be required for filing of the articles of dissolution.
+
+                  (e) FINAL REPORT. On filing the articles of dissolution, the
+Administrative Agent shall file with the Bankruptcy Court and serve on the
+United States Trustee and Oversight Board a final report containing the
+following information: (i) a list of all Estate Property and funds of the
+Debtors originally charged under the Administrative Agent's control; (ii) a
+summarized accounting, in sufficient detail, of all purchases, sales, gains,
+losses, and income in connection with the liquidation and distribution of the
+Estate Property during the Administrative Agent's term of service; and (iii) any
+ending balance of all assets and funds of the Debtors as of the date of the
+final report.
+
+
+                                       16
+<PAGE>
+
+                  (f) DISCHARGE OF ADMINISTRATIVE AGENT. Unless a majority of
+the Oversight Board members object to the final report within thirty (30) days
+after the date on which such report was presented to the Oversight Board, the
+Administrative Agent shall be discharged from all liability to the Debtors,
+holders of Equity Interests, and holders of Claims, or any other person or
+entity that has had or may have an interest in the Debtors for acts or omissions
+in the Administrative Agent's capacity as the Administrative Agent or in any
+other capacity contemplated by the Plan.
+
+         6.9 BOOKS AND RECORDS. The Administrative Agent, on account of the
+Debtors, shall have the responsibility of storing and maintaining books and
+records until one year after the Effective Date, after which time such books and
+records may be abandoned or destroyed without further Bankruptcy Court order.
+For purposes of this Section, books and records include computer generated or
+computer maintained books and records and computer data, as well as
+electronically generated or maintained books and records or data, along with
+books and records of the Debtors maintained by or in possession of third parties
+and all of the claims and rights of the Debtors in and to their books and
+records, wherever located.
+
+         6.10 CORPORATE ACTION. Upon the Effective Date, the Debtors, through
+the Administrative Agent, which is hereby authorized to act on behalf of each of
+the Debtors, shall perform each of the actions and effect each of the transfers
+required by the terms of the Plan, in the time period allocated therefore, and
+all matters provided for under the Plan that would otherwise require approval of
+the stockholders, directors, or comparable governing bodies of the Debtors shall
+be deemed to have occurred and shall be in effect from and after the Effective
+Date pursuant to the applicable general corporation law (or other applicable
+governing law) of the state in which each of the Debtors are incorporated or
+organized, without any requirement of further action by the stockholders or
+directors (or other governing body) of any of the Debtors. The Administrative
+Agent, on account of the Debtors, shall be authorized and directed, following
+the completion of all disbursements, other transfers, and other actions required
+of the Administrative Agent by the Plan, to file a certificate of cancellation
+or dissolution as contemplated by Section 6.7(d) hereof for each of the Debtors.
+The filing of such certificates of cancellation or dissolution shall be
+authorized and approved in all respects without further action under applicable
+law, regulation, order, or rule, including, without express or implied
+limitation, any action by the stockholders or directors (or other governing
+body) of the Debtors.
+
+         6.11 EFFECTUATING DOCUMENTS AND FURTHER TRANSACTIONS. The
+Administrative Agent, on behalf of the Debtors, is authorized and directed to
+execute, deliver, file, or record such contracts, instruments, releases, and
+other agreements or documents and take such actions as may be necessary or
+appropriate to effectuate and further evidence the terms and conditions of the
+Plan.
+
+                                  ARTICLE VII.
+
+                         PROCEDURES FOR DISPUTED CLAIMS
+                         ------------------------------
+
+         7.1 OBJECTIONS TO CLAIMS. The Administrative Agent, on account of the
+Debtors, shall be entitled to object to any and all Disputed Claims.
+
+         7.2 NO DISTRIBUTION PENDING ALLOWANCE. Notwithstanding any other
+provision hereof, if any portion of a Claim is a Disputed Claim, no payment or
+distribution provided hereunder shall be made on account of such Claim unless
+and until such Disputed Claim becomes an Allowed Claim.
+
+
+                                       17
+<PAGE>
+
+         7.3 RESOLUTION OF DISPUTED CLAIMS. Unless otherwise ordered by the
+Bankruptcy Court after notice and a hearing, following the Effective Date, the
+Administrative Agent, on account of the Debtors, shall have the right to the
+exclusion of all others (except as to applications for allowances of
+compensation and reimbursement of expenses under Sections 330 and 503 of the
+Bankruptcy Code) to make and file objections to Claims and shall serve a copy of
+each objection upon the holder of the Claim to which the objection is made as
+soon as practicable, but in no event later than sixty (60) days after the
+Effective Date. From and after the Confirmation Date, all objections shall be
+litigated to a Final Order except to the extent the Administrative Agent, on
+account of the Debtors, elects to withdraw any such objection or the
+Administrative Agent, on account of the Debtors, and the holder of a Claim elect
+to compromise, settle, or otherwise resolve any such objection, in which event
+they may settle, compromise, or otherwise resolve any Disputed Claim without
+approval of the Bankruptcy Court. Settlements of Claims in excess of $25,000
+are, however, subject to review and approval by the Oversight Board as provided
+for in Section 6.7 of the Plan.
+
+         7.4 ESTIMATION. The Administrative Agent, on account of the Debtors,
+may at any time request that the Bankruptcy Court estimate any contingent,
+unliquidated, or Disputed Claim pursuant to Section 502(c) of the Bankruptcy
+Code regardless of whether any of the Debtors or the Administrative Agent
+previously objected to such Claim, and the Bankruptcy Court will retain
+jurisdiction to estimate any Claim at any time during litigation concerning any
+objection to any Claim, including, without limitation, during the pendency of
+any appeal relating to any such objection. In the event that the Bankruptcy
+Court estimates any contingent, unliquidated, or Disputed Claim, the amount so
+estimated shall constitute either the Allowed amount of such Claim or a maximum
+limitation on such Claim, as determined by the Bankruptcy Court. If the
+estimated amount constitutes a maximum limitation on the amount of such Claim,
+the Administrative Agent, on account of the Debtors, may pursue supplementary
+proceedings to object to the allowance of such Claim. All of the aforementioned
+objection, estimation, and resolution procedures are intended to be cumulative
+and not exclusive of one another. On and after the Confirmation Date, Claims
+that have been estimated may be compromised, settled, withdrawn, or otherwise
+resolved subsequently, without further order of the Bankruptcy Court.
+Settlements of Claims in excess of $25,000 shall be subject to review and
+approval by the Oversight Board as provided for in Section 6.7 of the Plan.
+
+         7.5 ALLOWANCE OF DISPUTED CLAIMS. If, on or after the Effective Date,
+any Disputed Claim becomes, in whole or in part, an Allowed Claim, the
+Administrative Agent, on account of the Debtors, shall, no later than the
+fifteenth (15th) Business Day of the first month following the month in which
+the Disputed Claim becomes an Allowed Claim, distribute to the holder thereof
+the distributions, if any, that such holder would have received had its Claim
+been Allowed on the Effective Date, except as otherwise provided herein.
+
+         7.6 DISTRIBUTIONS TO HOLDERS OF ALLOWED CLAIMS UPON DISALLOWANCE OF
+DISPUTED CLAIMS. Subject to Section 6.4 hereof, upon disallowance of any
+Disputed Claim, each holder of an Allowed Claim in the same Class as the
+disallowed Disputed Claim will be entitled to its Pro Rata Share of Cash equal
+to the distribution that would have been made in accordance with the Plan to the
+holder of such Disputed Claim had such Disputed Claim been an Allowed Claim on
+or prior to the Effective Date. Such distributions on account of disallowed
+Disputed Claims will be made as soon as practicable after the fifteenth Business
+Day following allowance or disallowance of the last Disputed Claim. Upon
+allowance or disallowance of all or a portion of such Disputed Claims, the
+Administrative Agent, on account of the Debtors, will make appropriate
+distributions in accordance with the Plan.
+
+
+                                       18
+<PAGE>
+
+                                 ARTICLE VIII.
+
+                    EXECUTORY CONTRACTS AND UNEXPIRED LEASES
+                    ----------------------------------------
+
+         8.1 EXECUTORY CONTRACTS AND UNEXPIRED LEASES. On the Effective Date,
+all tariffed services being received by any of the Debtors shall be deemed
+terminated and all executory contracts and unexpired leases to which any of the
+Debtors are a party shall be deemed rejected as of the Effective Date, except
+for an executory contract or unexpired lease that (i) has been assumed or
+rejected pursuant to Final Order of the Bankruptcy Court entered prior to the
+Effective Date or (ii) is the subject of a separate motion to assume and assign
+or reject filed under Section 365 of the Bankruptcy Code by the Debtors prior to
+the Effective Date.
+
+         8.2 APPROVAL OF REJECTION OF EXECUTORY CONTRACTS AND UNEXPIRED LEASES.
+Entry of the Confirmation Order shall constitute the approval, pursuant to
+Section 365(a) of the Bankruptcy Code, of the rejection of the executory
+contracts and unexpired leases rejected as of the Effective Date pursuant to the
+Plan.
+
+         8.3 REJECTION CLAIMS. In the event that the rejection of an executory
+contract or unexpired lease by the Debtors pursuant to the Plan results in
+damages to the other party or parties to such contract or lease, a Claim for
+such damages, if not heretofore evidenced by a filed proof of claim, shall be
+forever barred and shall not be enforceable against the Debtors or any property
+to be distributed under the Plan unless a proof of claim is filed with the
+Bankruptcy Court and served upon the Debtors and the Administrative Agent on or
+before the date that is thirty (30) days after the Confirmation Date.
+
+                                  ARTICLE IX.
+
+                            EFFECTIVENESS OF THE PLAN
+                            -------------------------
+
+         9.1 CONDITION PRECEDENT TO CONFIRMATION OF PLAN. The following are
+conditions precedent to the confirmation of the Plan:
+
+                  (a) The Bankruptcy Court shall have approved by Final Order
+the Disclosure Statement with respect to this Plan, in form and substance
+satisfactory to the Debtors and the Creditors' Committee; and
+
+                  (b) The Confirmation Order shall have been entered by the
+Court and shall have become a Final Order, all in form and substance reasonably
+acceptable to the Debtors and the Creditors' Committee.
+
+         9.2 CONDITIONS PRECEDENT TO EFFECTIVE DATE. The following are
+conditions precedent to the Effective Date of the Plan:
+
+                  (a) No stay of the Confirmation Order shall then be in effect;
+and
+
+                  (b) The Debtors shall have sufficient Cash to pay the sum of
+(i) Allowed Administrative Expense Claims, Allowed Priority Tax Claims, Allowed
+Secured Claims (if any), Allowed Priority Non-Tax Claims, and the Debtors' and
+the Creditors' Committee's unpaid professional fees and expenses, (ii) an amount
+that would be required to distribute to the holders of Disputed Administrative
+Expense Claims, Disputed Priority Tax Claims, Disputed Secured Claims, and
+
+
+                                       19
+<PAGE>
+
+Disputed Priority Non-Tax Claims if all such Claims are subsequently Allowed, as
+set forth more fully in Article VII hereof, and (iii) an amount that would be
+required to satisfy all the Debtors' costs and expenses, and projected costs and
+expenses, in connection with the Debtors' obligations under the Plan.
+
+                  (c) All other actions, documents, agreements and instruments
+necessary to implement the Plan shall have been received, recorded, executed,
+and/or delivered.
+
+         9.3 SATISFACTION OF CONDITIONS. Any actions required to be taken on the
+Effective Date shall take place and shall be deemed to have occurred
+simultaneously, and no such action shall be deemed to have occurred prior to the
+taking of any other such action. If the Debtors decide that one of the
+conditions precedent set forth in Section 9.2 hereof cannot be satisfied and the
+occurrence of such condition is not waived or cannot be waived, then the Debtors
+shall file a notice of the failure of the Effective Date with the Bankruptcy
+Court.
+
+         9.4 EFFECT OF NONOCCURRENCE OF CONDITIONS TO EFFECTIVE DATE. If each of
+the conditions to consummation and the occurrence of the Effective Date has not
+been satisfied or duly waived on or before MARCH 31, 2005, the Confirmation
+Order may be vacated by the Bankruptcy Court. If the Confirmation Order is
+vacated pursuant to this Section 9.4, the Plan shall be null and void in all
+respects, and nothing contained in the Plan shall constitute a waiver or release
+of any Claims against the Debtors.
+
+                                   ARTICLE X.
+
+                             EFFECT OF CONFIRMATION
+                             ----------------------
+
+         10.1 VESTING OF ASSETS.
+
+                  (a) As of the Effective Date, title to the property of the
+Estates shall vest in the Debtors, subject to the Administrative Agent's
+obligation to administer, liquidate, and distribute the property in accordance
+with the terms of this Plan.
+
+                  (b) As of the Effective Date, all assets of the Debtors shall
+be free and clear of all Claims, except as provided in the Plan or the
+Confirmation Order.
+
+         10.2 RELEASE OF ASSETS. Until the Effective Date, the Bankruptcy Court
+shall retain jurisdiction of the Debtors and their assets and properties.
+Thereafter, jurisdiction of the Bankruptcy Court shall be limited to the subject
+matter set forth in Article XI hereof.
+
+         10.3 BINDING EFFECT. Except as otherwise provided in Section 1141(d)(3)
+of the Bankruptcy Code, on and after the Confirmation Date, the provisions of
+the Plan shall bind any holder of a Claim against, or Equity Interest in, the
+Debtors and their respective successors and assigns, whether or not the Claim or
+Equity Interest of such holder is impaired under the Plan and whether or not
+such holder has accepted the Plan.
+
+         10.4 TERM OF INJUNCTIONS OR STAYS. Unless otherwise expressly provided
+herein, all injunctions or stays arising under or entered during the Chapter 11
+Case under Sections 105 or 362 of the Bankruptcy Code, or otherwise, and in
+existence on the Confirmation Date, shall remain in full force and effect until
+the closing of the Chapter 11 Cases.
+
+
+                                       20
+<PAGE>
+
+         10.5 CAUSES OF ACTION. Except as otherwise provided in the Plan, on and
+after the Effective Date, the Administrative Agent, on account of the Debtors,
+will have the exclusive right to enforce any and all Causes of Action against
+any person. The Administrative Agent, on account of the Debtors, may pursue,
+abandon, settle, or release any or all Causes of Action as it deems appropriate,
+without the need to obtain approval or any other or further relief from the
+Bankruptcy Court. The Administrative Agent, on account of the Debtors, may, in
+its sole discretion, offset any such claim held against a person, against any
+payment due such person under the Plan, PROVIDED, HOWEVER, that any claims of
+the Debtors arising before the Commencement Date shall first be offset against
+Claims against the Debtors arising before the Commencement Date, subject in each
+instance, however, to the limitations of Section 5.6 hereof with respect to
+Avoidance Actions. Settlements of Claims in excess of $25,000 are subject to
+approval by the Oversight Board pursuant to Section 6.7 of the Plan.
+
+         10.6 INJUNCTION. On and after the Confirmation Date, all persons are
+permanently enjoined from commencing or continuing in any manner any action or
+proceeding (whether directly, indirectly, derivatively, or otherwise) on account
+of or respecting any Claim or Cause of Action of the Debtors for which the
+Administrative Agent, on account of the Debtors, retains sole and exclusive
+authority to pursue in accordance with the Plan.
+
+         10.7 INJUNCTION AGAINST INTERFERENCE WITH PLAN. Upon the entry of the
+Confirmation Order, all holders of Claims and Equity Interests and other parties
+in interest, along with their respective present, future, or former employees,
+agents, officers, directors, or principals, shall be enjoined from taking any
+actions to interfere with the implementation or consummation of the Plan.
+
+         10.8 RETENTION AND PRESERVATION OF CLAIM OBJECTIONS AND CAUSES OF
+ACTION: Pursuant to section 1123(b)(3)(B) of the Bankruptcy Code, upon entry of
+the Confirmation Order, the Debtors' right to object to all Claims and Interests
+asserted against them and all of the Debtors' Causes of Action, including
+without limitation: (1) preference actions under to section 547 of the
+Bankruptcy Code against those parties receiving payments from the Debtors within
+ninety (90) days prior to the Petition Date, these potential preference
+defendants are listed on EXHIBIT A to the Plan; (2) the Debtors' claim against
+Stephen Hurley for amounts owed to the Debtors by Mr. Hurley under or related to
+a December 15, 2000 Promissory Note and Restricted Stock Agreement; (3) claims
+against other current or former employees of the Debtors for the collection of
+unpaid employee loans, including but not limited to claims against the following
+Stan Bielicki - $15,328, Dean McDavitt - $24,525, and Michael McClane - $42,039;
+(4) claims against CBTEK, LLC; Choice One Communications of New York, Inc., US
+LEC Corporation; and Robert L. Bast, Patricia B. Ayerle, William Bast, C.
+Winston Balis, Jr., Peter G. Randall, Julia Randall Sharpe, Anne A. Strong and
+Clarence Wurts; in each case in connection with the post-petition purchase and
+sale of assets and/or provision of services by the Debtors; (5) any and all
+claims of the Debtors against the Estate of AppliedTheory Corporation in
+connection with the purchase by the Debtors of certain assets from it, and
+related transactions; (6) any and all claims against Clear Blue Technologies,
+Inc. and its affiliates in connection with transactions and events relating to
+the purchase by the Debtors of certain assets of the Estate of AppliedTheory,
+the collection of accounts related to the same, and services provided by the
+Debtors to or for the benefit of Clear Blue Technologies, Inc. or its affiliates
+or their customers; (7) any and all claims against Jeffrey Pasquale, Avi
+Freedman, Elbert Basolis, Jr., and any other former stockholder of Netaxs, Inc.,
+a New Jersey corporation, relating to the Agreement and Plan of Reorganization
+by and among Fastnet Corporation, Fastnet Merger Corp., Netaxs, Inc., and such
+shareholders, and the transactions and agreements related thereto; (8) all
+claims and Causes of Action disclosed in the Debtors' Schedules and Statements
+
+
+                                       21
+<PAGE>
+
+of Financial Affairs, which are incorporated herein by reference; and (9) any
+and all other Claims and Causes of Action that the Debtors hold preconfirmation,
+including, but not limited to, Claims for unpaid accounts receivable and
+fraudulent transfer, shall vest in the reorganized Debtors.
+
+         Unless a Claim or Cause of Action against a Creditor or other entity is
+expressly waived, relinquished, released, compromised or settled in the Plan or
+any Final Order, the Debtors expressly reserve such Claim or Cause of Action for
+later adjudication by the Debtors (including without limitation, Claims and
+Causes of Action not specifically identified or which the Debtors may presently
+be unaware or which may arise or exist by reason of additional facts or
+circumstances unknown to the Debtors at this time or facts or circumstances
+which may change or be different from those which the Debtors now believe to
+exist) and, therefore, no preclusion doctrine, including without limitation, the
+doctrines of RES JUDICATA, collateral estoppel, issue preclusion, claim
+preclusion, waiver, estoppel (judicial, equitable or otherwise) or laches shall
+apply to such Claims or Causes of Action upon or after the Confirmation or
+Consummation of the Plan based on the Disclosure Statement, the Plan or the
+Confirmation Order, except where such Claims or Causes of Action have been
+released in the Plan or any other Final Order.
+
+                                  ARTICLE XI.
+
+                            RETENTION OF JURISDICTION
+                            -------------------------
+
+         11.1 JURISDICTION OF BANKRUPTCY COURT. The Bankruptcy Court shall
+retain jurisdiction of all matters arising under, arising out of, or related to
+the Chapter 11 Cases and the Plan pursuant to, and for the purposes of, Sections
+105(a) and 1142 of the Bankruptcy Code and for, among other things, the
+following purposes:
+
+                  (a)      To hear and determine motions for the assumption,
+                           assumption and assignment, or rejection of executory
+                           contracts or unexpired leases and the allowance of
+                           Claims resulting therefrom;
+
+                  (b)      To determine any motion, adversary proceeding,
+                           application, contested matter, and other litigated
+                           matter pending on or commenced after the Confirmation
+                           Date, including, without limitation, any proceeding
+                           to recover a Cause of Action or Avoidance Action;
+
+                  (c)      To issue orders as may be necessary to ensure that
+                           distributions to holders of Allowed Claims are
+                           accomplished as provided herein;
+
+                  (d)      To consider Claims or the allowance, classification,
+                           priority, compromise, estimation, or payment of any
+                           Claim;
+
+                  (e)      To enter, implement, or enforce such orders as may be
+                           appropriate in the event the Confirmation Order is
+                           for any reason stayed, reversed, revoked, modified,
+                           or vacated;
+
+                  (f)      To issue injunctions, enter and implement other
+                           orders, and take such other actions as may be
+                           necessary or appropriate to restrain interference by
+                           any person with the consummation, implementation, or
+                           enforcement of the Plan, the Confirmation Order, or
+                           any other order of the Bankruptcy Court;
+
+
+                                       22
+<PAGE>
+
+                  (h)      To hear and determine any application to modify the
+                           Plan in accordance with Section 1127 of the
+                           Bankruptcy Code, to remedy any defect or omission or
+                           reconcile any inconsistency in the Plan, the
+                           Disclosure Statement, or any order of the Bankruptcy
+                           Court, including the Confirmation Order, in such a
+                           manner as may be necessary to carry out the purposes
+                           and effects thereof;
+
+                  (i)      To hear and determine all applications under Sections
+                           330, 331, and 503(b) of the Bankruptcy Code for
+                           awards of compensation for services rendered and
+                           reimbursement of expenses incurred prior to the
+                           Confirmation Date;
+
+                  (j)      To hear and determine disputes arising in connection
+                           with the interpretation, implementation, or
+                           enforcement of the Plan, the Confirmation Order, any
+                           transactions or payments contemplated hereby, or any
+                           agreement, instrument, or other document governing or
+                           relating to any of the foregoing;
+
+                  (k)      To take any action and issue such orders as may be
+                           necessary to construe, enforce, implement, execute,
+                           and consummate the Plan or to maintain the integrity
+                           of the Plan following consummation;
+
+                  (l)      To recover all assets of any of the Debtors property
+                           of any of the Estates, wherever located;
+
+                  (m)      To determine such other matters and for such other
+                           purposes as may be provided in the Confirmation
+                           Order;
+
+                  (n)      To hear and determine matters concerning state,
+                           local, and federal taxes in accordance with Sections
+                           346, 505, and 1146 of the Bankruptcy Code (including,
+                           without limitation, matters with respect to any taxes
+                           payable by a trust or reserve established in
+                           furtherance of the Plan);
+
+                  (o)      To hear and determine any other matters related
+                           hereto and not inconsistent with the Bankruptcy Code
+                           and title 28 of the United States Code;
+
+                  (p)      To hear and determine all disputes arising between
+                           the Administrative Agent and the Oversight Board; and
+
+                  (q)      To enter a final decree closing the Chapter 11 Cases.
+
+                                  ARTICLE XII.
+
+                              CRAMDOWN RESERVATION
+                              --------------------
+
+         12.1 NONCONSENSUAL CONFIRMATION. If any impaired class votes to accept
+the Plan by the requisite statutory majorities provided in Sections 1126(c) and
+1126(d) of the Bankruptcy Code, as applicable, or if any impaired class is
+deemed to have rejected the Plan, the Debtors reserve the right to undertake to
+have the Bankruptcy Court confirm the Plan under Section 1129(b) of the
+Bankruptcy Code and/or amend the Plan in accordance with Section 13.10 hereof to
+the extent necessary to obtain entry of a confirmation order.
+
+
+                                       23
+<PAGE>
+
+                                 ARTICLE XIII.
+
+                            MISCELLANEOUS PROVISIONS
+                            ------------------------
+
+         13.1 DISSOLUTION OF CREDITORS' COMMITTEE. The Creditors' Committee
+shall dissolve on the Effective Date.
+
+         13.2 RECORD DATE. At the close if business on the Distribution Record
+Date, (i) the claims registers shall be closed, (ii) the transfer books and
+records as maintained by the Debtors or their respective agents shall be closed,
+and (iii) any transfer of a Claim shall be prohibited. The Debtors and the
+Administrative Agent shall have no obligation to recognize any transfer of any
+such Claim occurring after the close of business on the Distribution Record
+Date.
+
+         13.3 SUBSTANTIAL CONSUMMATION. On the Effective Date or as soon
+thereafter as practicable, but in no event, later than MARCH 31, 2005, the Plan
+shall be deemed to be substantially consummated under Sections 1101 and 1127(b)
+of the Bankruptcy Code.
+
+         13.4 EXEMPTION FROM TRANSFER TAXES. Subject to orders entered by the
+Bankruptcy Court prior to the Confirmation Date authorizing certain sales of
+real property, pursuant to Section 1146(c) of the Bankruptcy Code, the
+assignment or surrender of any lease or sublease, or the delivery of any deed or
+other instrument of transfer under, in furtherance of, or in connection with the
+Plan, including any deeds, bills of sale, or assignments executed in connection
+with any disposition of assets contemplated by the Plan shall not be subject to
+any stamp, real estate transfer, mortgage recording, sales, use, or other
+similar tax.
+
+         13.5 RELEASES. In consideration of the efforts expended and to be
+expended by the Debtors, the Creditors' Committee and the Administrative Agent,
+and former officers and directors (other than those subject to potential Causes
+of Action as described herein) in conjunction with their operational and
+financial restructuring during the Chapter 11 Cases, on the Effective Date, the
+Debtors will automatically release and will be deemed to release any and all
+Claims (including any Claims arising out of any alleged fiduciary or other duty)
+that it has or may have against the Administrative Agent and its professionals,
+the Creditors' Committee and its professionals, the Debtors' professionals, and
+any of the Debtors' officers and directors (other than those subject to
+potential Causes of Action as described herein) who held such positions after
+the Commencement Date in their capacities as such, arising or based upon any
+actions, conduct or omissions occurring after the Commencement Date and prior to
+the Effective Date, excluding willful misconduct and gross negligence (the
+"Release Parties"). The Confirmation Order shall constitute an order approving
+the compromise, settlement and release of any and all such claims pursuant to
+Section 1123(b)(3)(A) of the Bankruptcy Code. To the full extent permitted by
+applicable Law, each holder of a Claim (whether or not Allowed) against or
+Equity Interest in the Debtors shall be enjoined from commencing or continuing
+any action, employment of process or act to collect, offset or recover and shall
+be deemed to release any Claim against the Release Parties for actions occurring
+prior to the Effective Date, excluding, however, willful misconduct and gross
+negligence.
+
+         13.6 EXCULPATION. Neither the Debtors, the Creditors' Committee, the
+Administrative Agent, nor any of their respective members, officers, directors,
+employees, advisors, professionals or agents, (collectively, "Exculpation
+Parties") shall have or incur any liability to any holder of a Claim or Equity
+
+
+                                       24
+<PAGE>
+
+Interest for any act or omission in connection with, related to, or arising out
+of the Chapter 11 Cases, negotiations regarding or concerning the Plan, the
+pursuit of confirmation of the Plan, the consummation of the Plan, or the
+administration of the Plan or the property to be distributed under the Plan,
+except for willful misconduct or gross negligence, and, in all respects, the
+Exculpation Parties shall be entitled to rely upon the advice of counsel with
+respect to their duties and responsibilities under the Plan.
+
+         13.7 STANDARD OF CARE; INDEMNIFICATION; EXCULPATION. The Administrative
+Agent, acting in the capacity as Administrative Agent or in any other capacity
+contemplated by the Plan, and Oversight Board Members shall not be personally
+liable in connection with any action in furtherance of the liquidation of the
+Debtors and the Estate Property or to any person or entity, except for such acts
+or omissions constituting fraud, willful misconduct, or gross negligence. The
+Administrative Agent shall not be personally liable to the Debtors, any holder
+of Claims or Equity Interests, or any person or entity for the acts or omissions
+of any employee or agent of the Debtors or Administrative Agent, unless the
+Administrative Agent acted with gross negligence or willful misconduct in the
+selection, retention, or supervision of such employee or agent. Except in those
+situations in which the Administrative Agent is not exonerated of personal
+liability in accordance with the foregoing, the Administrative Agent (including
+each former Administrative Agent) shall be indemnified by the Debtors against,
+and held harmless by the Debtors, Creditors, Interestholders, or any other
+person or entity from any losses, claims, damages, liabilities or expenses
+(including attorneys fees, disbursements, and related expenses) to which the
+Administrative Agent may become subject in connection with any action, suit,
+proceeding, or investigation brought or threatened against the Administrative
+Agent in the Administrative Agent's capacity as Administrative Agent, or in any
+other capacity contemplated by the Plan or in connection with any matter arising
+out of or related to the Plan. If the Administrative Agent becomes involved in
+any action, proceeding, or investigation in connection with any matter arising
+out of or in connection with the Plan, the Debtors shall periodically advance or
+otherwise reimburse on demand the Administrative Agent's reasonable legal and
+other expenses (including the costs of any investigation and preparation and
+attorneys fees, disbursements, and related expenses) incurred in connection
+therewith; provided, however, the Administrative Agent shall be required to
+repay promptly the Debtors the amount of any such advanced or reimbursed
+expenses paid to the Administrative Agent to the extent that it shall be
+ultimately determined by Final Order that the Administrative Agent engaged in
+fraud, willful misconduct, or gross negligence in connection with the affairs of
+the Debtors or the orderly liquidation of the Estate Property with respect to
+which such expenses were paid. The Debtors may indemnify and hold harmless its
+employees and agents, including the members of the Oversight Board, to the same
+extent as provided in this section for the Administrative Agent. The provisions
+of this section of the Plan shall remain available to and be binding on any
+former Administrative Agent or the estate of any deceased Administrative Agent.
+
+         13.8 RELIANCE BY ADMINISTRATIVE AGENT. The Administrative Agent may
+rely, and shall be fully, protected in acting or refraining from acting, on any
+resolution, statement, certificate, instrument, opinion, report, notice,
+request, consent, order, or other instrument or document that the Administrative
+Agent has no reason to believe is not genuine and to have been signed or
+presented by the proper party or parties or, in the case of facsimiles, to have
+been sent by the proper party or parties, and the Administrative Agent may
+conclusively rely as to the truth of the statements and correctness of the
+opinions expressed in such documents; provided, however, the Administrative
+Agent shall be under a duty to examine, or caused to be examined, the
+above-referenced documents to determine whether such documents conform to the
+requirements of the Plan. The Administrative Agent may consult with counsel, and
+
+
+                                       25
+<PAGE>
+
+any opinion of counsel shall be full and complete authorization and protection
+regarding any action taken or suffered by the Administrative Agent in accordance
+with such opinion. The Administrative Agent shall have the right at any time to
+seek instructions from the Bankruptcy Court (or any other court of competent
+jurisdiction after the chapter 11 cases are finally closed) concerning the
+Estate Property, the Plan, or any other document executed in connection
+therewith, and those instructions shall be full and complete authorization
+regarding any action taken or suffered by the Administrative Agent in accordance
+with those instructions.
+
+         13.9 DISCHARGE OF CLAIMS AND TERMINATION OF EQUITY INTERESTS. Except as
+otherwise specifically provided herein or in the Confirmation Order, the rights
+afforded in the Plan and the payments and distributions to be made hereunder
+shall discharge all existing debts and Claims, and terminate all Equity
+Interests of any kind, nature or description whatsoever against or in the
+Debtors or any of their assets or properties to the fullest extent permitted by
+Section 1141 of the Bankruptcy Code. Except as otherwise provided herein or in
+the Confirmation Order, upon the Effective Date, all existing Claims against the
+Debtors and Equity Interests in the Debtors, shall be, and shall be deemed to
+be, discharged and terminated, and all holders of Claims and Equity Interests
+shall be precluded and enjoined from asserting against the Debtors, or any of
+their assets or properties, any other or further Claim or Equity Interest based
+upon any act or omission, transaction or other activity of any kind or nature
+that occurred prior to the Effective Date, whether or not such holder has filed
+a proof of Claim or proof of Equity Interest.
+
+         13.10 POST-CONFIRMATION DATE FEES AND EXPENSES.
+
+                  (a) FEES AND EXPENSES OF PROFESSIONALS. The Administrative
+Agent, on account of the Debtors, shall, in the ordinary course of business and
+without the necessity for approval by the Bankruptcy Court, pay the reasonable
+fees and expenses, incurred after the Effective Date, of the professional
+persons employed by the Administrative Agent, in connection with the
+implementation and consummation of the Plan, the claims reconciliation process,
+and any other matters as to which such professionals may be engaged. Pursuant to
+Section 6.7(c) of the Plan, the Administrative Agent and its professionals shall
+submit monthly invoices for payment of fees and reimbursement of expenses to the
+Oversight Board for review and approval. If the Oversight Board does not object
+to such fees and expenses within ten (10) Business Days after submission of the
+invoice, the Administrative Agent shall remit payment in full. If there is a
+dispute as to the reasonableness of any invoice, the Administrative Agent shall
+timely pay the undisputed portion, and the Oversight Board or the affected party
+may submit the dispute to the Bankruptcy Court for a final determination.
+
+         13.11 PAYMENT OF STATUTORY FEES. On the Effective Date, and thereafter
+as may be required, the Administrative Agent, on account of the Debtors, shall
+pay all fees payable pursuant to Section 1930 of chapter 123 of title 28 of the
+United States Code.
+
+         13.12 MODIFICATION OF PLAN. The Plan may be amended, modified, or
+supplemented by the Debtors and the Creditors' Committee, jointly, in the manner
+provided for by Section 1127 of the Bankruptcy Code or as otherwise permitted by
+law without additional disclosure pursuant to Section 1125 of the Bankruptcy
+Code, except as the Bankruptcy Court may otherwise direct. In addition, after
+the Confirmation Date, so long as such action does not materially adversely
+affect the treatment of holders of Claims or Equity Interests under the Plan,
+the Administrative Agent, on account of the Debtors, may institute proceedings
+in the Bankruptcy Court to remedy any defect or omission or reconcile any
+inconsistencies in the Plan or the Confirmation Order, with respect to such
+matters as may be necessary to carry out the purposes and effects of the Plan.
+Prior to the Effective Date, the Debtors and the Creditors' Committee, jointly,
+
+
+                                       26
+<PAGE>
+
+may make appropriate technical adjustments and modifications to the Plan without
+further order or approval of the Bankruptcy Court, PROVIDED that such technical
+adjustments and modifications do not adversely affect in a material way the
+treatment of holders of Claims or Equity Interests.
+
+         13.13 REVOCATION OR WITHDRAWAL OF PLAN. Each of the Debtors and the
+Creditors' Committee reserves the right to revoke or withdraw the Plan at any
+time prior to the Confirmation Date. If the Debtors or the Creditors' Committee
+take such action, the Plan shall be deemed null and void. In such event, nothing
+contained herein shall be deemed to constitute a waiver or release of any Claim
+by or against the Debtors or any other Person or to prejudice in any manner the
+rights of the Debtors or any other person in any further proceedings involving
+the Debtors.
+
+         13.14 COURTS OF COMPETENT JURISDICTION. If the Bankruptcy Court
+abstains from exercising, or declines to exercise, jurisdiction or is otherwise
+without jurisdiction over any matter arising out of the Plan, such abstention,
+refusal, or failure of jurisdiction shall have no effect upon and shall not
+control, prohibit, or limit the exercise of jurisdiction by any other court
+having competent jurisdiction with respect to such matter.
+
+         13.15 SEVERABILITY. If, prior to the entry of the Confirmation Order,
+any term or provision of the Plan is held by the Bankruptcy Court to be invalid,
+void, or unenforceable, the Bankruptcy Court, at the request of the Debtors or
+the Creditors' Committee, shall have the power to alter and interpret such term
+or provision to make it valid or enforceable to the maximum extent practicable,
+consistent with the original purpose of the term or provision held to be
+invalid, void, or unenforceable, and such term or provision shall then be
+applicable as altered or interpreted. Notwithstanding any such holding,
+alteration, or interpretation, the remainder of the terms and provisions of the
+Plan will remain in full force and effect and will in no way be affected,
+impaired, or invalidated by such holding, alteration, or interpretation. The
+Confirmation Order shall constitute a judicial determination and shall provide
+that each term and provision of the Plan, as it may have been altered or
+interpreted in accordance with the foregoing, is valid and enforceable pursuant
+to its terms.
+
+         13.16 GOVERNING LAW. Except to the extent the Bankruptcy Code or other
+federal law is applicable, or to the extent an exhibit hereto provides
+otherwise, the rights, duties, and obligations arising under the Plan shall be
+governed by, and construed and enforced in accordance with, the laws of the
+Commonwealth of Pennsylvania, without giving effect to the principles of
+conflicts of law thereof.
+
+         13.17 EXHIBITS. All exhibits to the Plan are incorporated into and are
+a part of the Plan as if set forth in full herein.
+
+         13.18 SUCCESSORS AND ASSIGNS. All the rights, benefits, and obligations
+of any person named or referred to in the Plan shall be binding on, and shall
+inure to the benefit of, the heirs, executors, administrators, successors,
+and/or assigns of such person.
+
+         13.19 TIME. In computing any period of time prescribed or allowed by
+the Plan, unless otherwise set forth herein or determined by the Bankruptcy
+Court, the provisions of Bankruptcy Rule 9006 shall apply.
+
+
+                                       27
+<PAGE>
+
+         13.20 NOTICES. All notices, requests and demands to or upon the
+Debtors, the Creditors' Committee or the Administrative Agent, as the case may
+be, to be effective shall be in writing and, unless otherwise expressly provided
+herein, shall be deemed to have been duly given or made when actually delivered
+or, in the case of notice by facsimile transmission, when received and
+telephonically confirmed, addressed as follows:
+
+If to the Debtors:
+
+          SCHNADER HARRISON SEGAL & LEWIS LLP
+          Nicholas J. LePore III, Esquire
+          1600 Market Street, Suite 3600
+          Philadelphia, Pennsylvania 19103
+          (215) 751-2286
+          (215) 751-2205
+          nlepore@schnader.com
+
+          COUNSEL TO THE DEBTORS
+
+If to the Creditors' Committee:
+
+          REED SMITH LLP
+          Robert P. Simons, Esq.
+          435 Sixth Avenue
+          Pittsburgh, Pennsylvania 15219
+          (412) 288-3131
+          (412) 288-3063 (fax)
+          rsimons@reedsmith.com
+
+          COUNSEL TO THE OFFICIAL COMMITTEE OF UNSECURED CREDITORS
+
+If to the Administrative Agent:
+
+          Tamie Barsky
+          c/o FN Estate, Inc.
+          Two Courtney Place, Suite 130
+          3865 Courtney Street
+          Bethlehem, PA  18017
+
+          ADMINISTRATIVE AGENT
+
+                   REMAINDER OF PAGE INTENTIONALLY LEFT BLANK
+                            SIGNATURE PAGE TO FOLLOW
+
+
+                                       28
+<PAGE>
+
+                            Dated: DECEMBER 30, 2004
+
+                                    Respectfully submitted,
+
+                                    FN ESTATE, INC.
+
+                                    By: /s/ R. Barry Borden
+                                        ----------------------------------------
+                                    Name: R. Barry Borden
+                                          --------------------------------------
+                                    Title: President
+                                           -------------------------------------
+
+                                    NETAXS CORPORATION
+
+                                    By: /s/ R. Barry Borden
+                                        ----------------------------------------
+                                    Name: R. Barry Borden
+                                          --------------------------------------
+                                    Title: President
+                                           -------------------------------------
+
+                                    SUPERNET, INC.
+
+                                    By: /s/ R. Barry Borden
+                                        ----------------------------------------
+                                    Name: R. Barry Borden
+                                          --------------------------------------
+                                    Title: President
+                                           -------------------------------------
+
+                                    NETREACH, INC.
+
+                                    By: /s/ R. Barry Borden
+                                        ----------------------------------------
+                                    Name: R. Barry Borden
+                                          --------------------------------------
+                                    Title: President
+                                           -------------------------------------
+
+                                    FASTNET ACQUISITION, INC.
+
+                                    By: /s/ R. Barry Borden
+                                        ----------------------------------------
+                                    Name: R. Barry Borden
+                                          --------------------------------------
+                                    Title: President
+                                           -------------------------------------
+
+                                    FASTNET ACQUISITION CORP.
+
+                                    By: /s/ R. Barry Borden
+                                        ----------------------------------------
+                                    Name: R. Barry Borden
+                                          --------------------------------------
+                                    Title: President
+                                           -------------------------------------
+
+                                    OFFICIAL COMMITTEE OF UNSECURED CREDITORS
+                                    OF FASTNET CORPORATION, ET AL.
+
+                                    By: /s/ Robert P. Simons by NRP
+                                        ----------------------------------------
+                                    Name: Robert P. Simons, Esq.
+                                          --------------------------------------
+                                    Title: Counsel to the Committee
+                                           -------------------------------------
+
+
+                                       29
+
+<PAGE>
+                                    EXHIBIT A
+                          TO JOINT PLAN OF LIQUIDATION
+
+
+                  50 Chestnut Plaza
+                  Adelphia Business Solutions
+                  AMC Networks
+                  AT&T
+                  ATX Communications
+                  Barton Personnel Systems
+                  Bast, Robert
+                  Broadwing Communications
+                  Brodhead Road Associates
+                  Cambrian Communications
+                  Cavalier Telephone
+                  COVAD
+                  Cozen O'Connor
+                  CTSI
+                  Cybertech Wireless
+                  Data Center Design
+                  DH Capital
+                  Emergency System Service
+                  Equinix
+                  EQUUS
+                  Fairfield Development Associates
+                  Fore Financial Services
+                  General Electric Credit Equity
+                  Genuity Solutions, Inc.
+                  Goldberg, Alan I.
+                  Golden, Jerry
+                  Gosnell Properties
+                  Hower, Lois
+                  Hurly, Steve
+                  Icoresoft, LLC
+                  Integrity Personnel
+                  IPASS
+                  KPMG LLP
+                  Lee Park Investors
+                  Level 3 Communications
+                  MFS Telecom, Inc.
+                  Morgan, Lewis & Bockius LLP
+                  MPX, Inc.
+                  National Railroad Passenger Corporation
+                  Office Park
+                  Paetec Communications, Inc.
+                  Peco Energy
+                  Peco/Hyperion - Allentown
+                  PP&L Inc.
+                  Qwest
+                  Sercie Electric Cable
+                  Sprint
+                  Standard Funding Corp.
+                  Strattech Partners, LLC
+                  Suneyes
+                  Susquehanna Chestnut Partners
+                  Switch & Data
+                  Telecomnow
+                  Time Warner Telecom
+                  UGI Utilities
+                  Verizon Cabs
+                  Worldcom
+                  XO Communications
+
+
+___________________
+
+* Any and all transferees identified in Exhibit 3A to the Debtors' Statements of
+Financial Affairs, whether or not listed above.
+
+

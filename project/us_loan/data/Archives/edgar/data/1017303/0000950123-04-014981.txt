@@ -1,0 +1,173 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ HLQlrHua21iGiq0K5hwRG1ZIj4qfe4/GXQpdJPqtwSKgiDw/uRI5BHge37XcQ51d
+ Jo1CHV8Q0jVvwA9/dCv95A==
+
+<SEC-DOCUMENT>0000950123-04-014981.txt : 20041220
+<SEC-HEADER>0000950123-04-014981.hdr.sgml : 20041220
+<ACCEPTANCE-DATETIME>20041220172208
+ACCESSION NUMBER:		0000950123-04-014981
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20041216
+ITEM INFORMATION:		Entry into a Material Definitive Agreement
+FILED AS OF DATE:		20041220
+DATE AS OF CHANGE:		20041220
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TRANSACT TECHNOLOGIES INC
+		CENTRAL INDEX KEY:			0001017303
+		STANDARD INDUSTRIAL CLASSIFICATION:	COMPUTER PERIPHERAL EQUIPMENT, NEC [3577]
+		IRS NUMBER:				061456680
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-21121
+		FILM NUMBER:		041214941
+
+	BUSINESS ADDRESS:	
+		STREET 1:		7 LASER LANE
+		CITY:			WALLINGFORD
+		STATE:			CT
+		ZIP:			06492
+		BUSINESS PHONE:		2032691198
+
+	MAIL ADDRESS:	
+		STREET 1:		7 LASER LANE
+		CITY:			WALLINGFORD
+		STATE:			CT
+		ZIP:			06492
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>y04036e8vk.txt
+<DESCRIPTION>FORM 8-K
+<TEXT>
+<PAGE>
+
+
+
+
+
+                                 UNITED STATES
+
+                       SECURITIES AND EXCHANGE COMMISSION
+
+                             Washington, D.C. 20549
+
+
+
+                                    FORM 8-K
+
+                                 CURRENT REPORT
+
+     Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+
+      Date of Report (Date of earliest event reported): December 16, 2004
+
+                       TRANSACT TECHNOLOGIES INCORPORATED
+
+             (Exact name of registrant as specified in its charter)
+
+
+
+
+
+        Delaware                    0-21121                    06-1456680
+(State or other jurisdiction    (Commission file number)   (I.R.S. employer
+of incorporation)                                          identification no.)
+
+7 Laser Lane, Wallingford, CT                                    06492
+(Address of principal executive offices)                       (Zip Code)
+
+Registrant's telephone number, including area code:     (203) 269-1198
+
+Check the appropriate box below if the Form 8-K filing is intended to
+simultaneously satisfy the filing obligation of the registrant under any of the
+following provisions (see General Instruction A.2. below):
+
+[ ] Written communications pursuant to Rule 425 under the Securities Act (17 CFR
+230.425)
+
+[ ] Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR
+240.14a-12)
+
+[ ] Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange
+Act (17 CFR 240.14d-2(b))
+
+[ ] Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange
+Act (17 CFR 240.13e-4(c))
+
+<PAGE>
+Item 1.01 Entry into a Material Definitive Agreement.
+- -----------------------------------------------------
+
+On December 16, 2004, TransAct Technologies Incorporated ("TransAct") entered
+into a supply, sales and license agreement with IGT, a subsidiary of
+International Game Technology ("IGT").  Under the terms of the agreement, IGT
+granted TransAct a worldwide, non-exclusive, non-transferable license to
+incorporate IGT's Netplex protocol (which provides the ability for communication
+between peripheral devices that incorporate Netplex and IGT gaming machines)
+into certain TransAct thermal printers so that they may be sold for use with IGT
+gaming machines.  The agreement also calls for IGT to integrate TransAct's Epic
+950/TM/ into all currently supported IGT gaming machine platforms and to
+ultimately obtain regulatory approvals in all jurisdictions where IGT
+distributes gaming machines with ticket printing capabilities.  TransAct expects
+to incur approximately $500,000 of costs related to such integration.  In
+addition, the agreement provides that IGT shall make TransAct's Epic 950/TM/
+printer available as a standard option on all IGT gaming machine platforms.
+
+The agreement shall continue for three years beginning upon the receipt of
+certain jurisdictional and gaming board approvals. The agreement shall
+automatically renew for additional one year periods unless terminated by either
+party in writing at least thirty days prior to the end of the initial term or
+the then-current renewal term.
+
+
+                                       2
+
+
+
+
+<PAGE>
+
+                                   SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the
+registrant has duly caused this report to be signed on its behalf by the
+undersigned hereunto duly authorized.
+
+
+TRANSACT TECHNOLOGIES INCORPORATED
+
+
+
+By: /s/ Steven A. DeMartino
+- ---------------------------
+Steven A. DeMartino
+Executive Vice President and
+Chief Financial Officer
+
+
+
+Date: December 20, 2004
+
+
+
+                                       3
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

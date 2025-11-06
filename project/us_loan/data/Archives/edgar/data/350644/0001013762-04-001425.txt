@@ -1,0 +1,2474 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Ow/Q7dnhI6U87r8iMKSLWaWTjHFfOraX5nUnogf5OQ5YTrET/P0CB33F8Ojdxq7Z
+ 0wCa5GvpJrjou48XbFByUw==
+
+<SEC-DOCUMENT>0001013762-04-001425.txt : 20041222
+<SEC-HEADER>0001013762-04-001425.hdr.sgml : 20041222
+<ACCEPTANCE-DATETIME>20041222134304
+ACCESSION NUMBER:		0001013762-04-001425
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20041222
+ITEM INFORMATION:		Entry into a Material Definitive Agreement
+ITEM INFORMATION:		Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20041222
+DATE AS OF CHANGE:		20041222
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SCIENCE DYNAMICS CORP
+		CENTRAL INDEX KEY:			0000350644
+		STANDARD INDUSTRIAL CLASSIFICATION:	TELEPHONE & TELEGRAPH APPARATUS [3661]
+		IRS NUMBER:				222011859
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-10690
+		FILM NUMBER:		041220049
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1919 SPRINGDALE RD
+		CITY:			CHERRY HILL
+		STATE:			NJ
+		ZIP:			08003
+		BUSINESS PHONE:		8564240068
+
+	MAIL ADDRESS:	
+		STREET 1:		SCIENCE DYNAMICS CORP
+		STREET 2:		1919 SPRINGDALE RD
+		CITY:			CHERRY HILL
+		STATE:			NJ
+		ZIP:			08003
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>dec2220048k.txt
+<TEXT>
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                    FORM 8-K
+
+                                 CURRENT REPORT
+     Pursuant to Section 13 OR 15(d) of The Securities Exchange Act of 1934
+
+       Date of Report (Date of earliest event reported): December 16, 2004
+
+                          Science Dynamics Corporation
+             (Exact name of registrant as specified in its charter)
+
+
+
+
+Delaware                             000-10690               22-2011859
+- --------------------------------------------------------------------------------
+(State or other               (Commission File Number)       (IRS Employer
+ jurisdiction of                                           Identification No.)
+ incorporation)
+
+
+                          7150 N. Park Drive, Suite 500
+                              Pennsauken, NJ 08109
+              (Address of principal executive offices and Zip Code)
+
+       Registrant's telephone number, including area code: (856) 910-1166
+
+                                   Copies to:
+                             Gregory Sichenzia, Esq.
+                       Sichenzia Ross Friedman Ference LLP
+                           1065 Avenue of the Americas
+                            New York, New York 10018
+                              Phone: (212) 930-9700
+                               Fax: (212) 930-9725
+
+Check  the  appropriate  box  below  if the  Form  8-K  filing  is  intended  to
+simultaneously  satisfy the filing obligation of the registrant under any of the
+following provisions (see General Instruction A.2. below):
+
+[ ] Written communications pursuant to Rule 425 under the Securities Act (17 CFR
+230.425)
+[ ] Soliciting  material  pursuant to Rule 14a-12 under the Exchange Act (17 CFR
+240.14a-12)
+[ ] Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange
+Act (17 CFR 240.14d-2(b))
+[ ] Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange
+Act (17 CFR 240.13e-4(c))
+
+
+
+<PAGE>
+Item 1.01 Entry into a Material Definitive Agreement.
+
+          On December 16, 2004, Science Dynamics Corporation (the "Company"),
+entered into a Stock Purchase Agreement (the "Agreement") with Systems
+Management Engineering, Inc. ("SMEI") and the holders of a majority of the
+outstanding common stock of SMEI (the "SMEI Shareholders"). Under the Agreement,
+the Company agreed to purchase an aggregate of 3,957,500 shares (the "SMEI
+Shares") of the outstanding common stock of SMEI from the SMEI Shareholders on
+or before February 14, 2005 (the "Closing Date"), which shares constitute
+approximately 77% of fully diluted issued common stock of SMEI.
+
+          SMEI has developed advanced data management applications, Internet
+server technology and information systems that it markets to both public and
+private sectors. SMEI's technology helps its customers reduce development time
+for projects, manage the deployment of applications across the Internet to
+desktops around the world and implement military grade security on all systems
+where the applications are deployed.
+
+          In consideration for the SMEI Shares, the Company agreed to: (1) pay
+to the SMEI Shareholders $1,540,000 cash on the Closing Date; (2) issue to the
+SMEI Shareholders 15,400,000 shares of common stock of the Company within 15
+business days after the Closing Date; and (3) pay to the SMEI Shareholders up to
+an additional $1,540,000 (the "Additional Consideration") cash upon certain
+financial goals begin met, as described below.
+
+          Upon SMEI reaching the following goals for the 12 month period ending
+December 31, 2005, where "EBITDA" represents earnings before interest, tax,
+depreciation and amortization, and before any marketing and/or selling expenses
+which have been incurred in connection with SMEI's technology products and which
+marketing and/or selling expenses have been incurred in accordance with a budget
+to be mutually approved by the Company and the SMEI Shareholders:
+
+     o    If SMEI's EBITDA is less than $500,000, then the Company is not
+          obligated to pay any Additional Consideration to the SMEI
+          Shareholders;
+     o    If SMEI's EBITDA is equal to or greater than $500,000 and less than
+          $750,000, the Company must pay the SMEI Shareholders Additional
+          Consideration equal to $192,500;
+     o    If SMEI's EBITDA is equal to or greater than $750,000 and less than
+          $1,000,000, the Company must pay the SMEI Shareholders Additional
+          Consideration equal to $385,000;
+     o    If SMEI's EBITDA is equal to or greater than $1,000,000 and less than
+          $1,250,000, the Company must pay the SMEI Shareholders Additional
+          Consideration equal to $577,500;
+     o    If SMEI's EBITDA is equal to or greater than $1,250,000 and less than
+          $1,500,000, the Company must pay the SMEI Shareholders Additional
+          Consideration equal to $770,000; and
+     o    If SMEI's EBITDA is equal to or greater than $1,500,000, the Company
+          must pay the SMEI Shareholders Additional Consideration equal to
+          $1,540,000.
+
+          The Additional Consideration, if any, must be paid to the SMEI
+Shareholders in cash no later than 15 business days after March 31, 2006. In the
+event that any required Additional Consideration is not paid within 15 business
+days after March 31, 2006, the SMEI Shareholders may deliver written notice of
+such fact to the Company and the Company will have 10 calendar days from the
+date that it receives such notice to cure the nonpayment. If the Company does
+not cure nonpayment of any required Additional Consideration, then: (1) the
+Company must immediately issue to the SMEI Shareholders such number of shares of
+the Company's common stock equal to the Additional Consideration divided by 85%
+of the average daily weighted volume price of the Company's common stock for the
+15 trading days prior to March 31, 2006; and (2) the SMEI Shareholders will have
+the right to appoint one natural person to the Company's board of directors for
+a period of one year.
+
+          The common stock of the Company to be issued and sold under the
+Agreement will be issued and sold pursuant to the exemption from registration
+provided by Section 4(2) and Regulation D of the Securities Act of 1933, as
+amended.
+
+          The Agreement may be terminated prior to the Closing Date as follows:
+(1) by mutual written consent of the SMEI Shareholders and the Company; (2) by
+written notice of the Company if SMEI's balance sheet as of the Closing Date,
+prepared in accordance with United States generally accepted accounting
+principles does not reflect a shareholders' equity (assets less liabilities)
+equal to or greater than $273,000; or (3) by the SMEI Shareholders or the
+Company if there is in effect a final nonappealable order of a governmental body
+of competent jurisdiction restraining, enjoining or otherwise prohibiting the
+consummation of the transactions contemplated by the Agreement.
+
+                                       2
+<PAGE>
+
+          In the event the Agreement is validly terminated, then each of the
+parties will be relieved of their duties and obligations arising under the
+Agreement after the date of such termination and such termination will be
+without liability to the Company, SMEI any SMEI Shareholder. However, no
+termination of the Agreement will relieve the Company or any SMEI Shareholder of
+any liability for a breach of the Agreement.
+
+          Other than in respect of the Agreement, neither SMEI nor the SMEI
+Shareholders has any material relationship with the Company.
+
+Item 2.03 Creation of a Direct Financial Obligation.
+
+         See Item 1.01 above.
+
+Item 9.01 Financial Statements and Exhibits.
+
+     (a)  Financial statements of business acquired.
+
+          Not applicable.
+
+     (b)  Pro forma financial information.
+
+          Not applicable
+
+     (c)  Exhibits.
+
+Exhibit
+Number                               Description
+- ---------------   -----------------------------------------------------------
+2.1                 Stock Purchase Agreement dated December 16, 2004 among
+                    Science Dynamics Corporation, Systems Management
+                    Engineering, Inc. and the shareholders of Systems Management
+                    Engineering, Inc. identified on the signature page thereto.
+
+
+
+
+
+
+                                       3
+<PAGE>
+
+
+
+                                   SIGNATURES
+
+          Pursuant to the requirements of the Securities Exchange Act of 1934,
+the registrant has duly caused this report to be signed on its behalf by the
+undersigned hereunto duly authorized.
+
+                                                   Science Dynamics Corporation
+
+
+Date: December 22, 2004                    /s/ Alan Bashforth
+                                           -------------------
+                                           Alan Bashforth
+                                           President and Chief Executive Officer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-21
+<SEQUENCE>2
+<FILENAME>dec222004form8kex21.txt
+<TEXT>
+                            STOCK PURCHASE AGREEMENT
+
+                                      AMONG
+
+                          SCIENCE DYNAMICS CORPORATION
+
+                                       AND
+
+                      SYSTEMS MANAGEMENT ENGINEERING, INC.
+
+                                       AND
+
+            THE SHAREHOLDERS OF SYSTEMS MANAGEMENT ENGINEERING, INC.
+                          SET FORTH ON EXHIBIT A HERETO
+
+
+
+
+                          Dated as of December 16, 2004
+
+
+
+
+
+<PAGE>
+<TABLE>
+<CAPTION>
+                                TABLE OF CONTENTS
+
+
+Section                                                                                                        Page
+
+<S>                                                                                                              <C>
+ARTICLE I SALE AND PURCHASE OF SHARES.............................................................................1
+   1.1    Sale and Purchase of Shares.............................................................................1
+
+ARTICLE II PURCHASE PRICE AND PAYMENT.............................................................................1
+   2.1    Amount of Purchase Price; Payment of Purchase Price.....................................................1
+
+ARTICLE III CLOSING AND TERMINATION...............................................................................3
+   3.1    Closing Date............................................................................................3
+   3.2    Termination of Agreement................................................................................3
+   3.3    Procedure Upon Termination..............................................................................3
+   3.4    Effect of Termination...................................................................................4
+
+ARTICLE IV REPRESENTATIONS AND WARRANTIES OF THE SELLERS..........................................................4
+   4.1    Organization and Good Standing..........................................................................4
+   4.2    Authorization of Agreement..............................................................................4
+   4.3    Capitalization..........................................................................................5
+   4.4    Subsidiaries............................................................................................5
+   4.5    Corporate Records.......................................................................................6
+   4.6    Conflicts; Consents of Third Parties....................................................................6
+   4.7    Ownership and Transfer of Shares........................................................................6
+   4.8    Financial Statements....................................................................................7
+   4.9    No Undisclosed Liabilities..............................................................................7
+   4.10   Absence of Certain Developments.........................................................................7
+   4.11   Taxes...................................................................................................9
+   4.12   Real Property..........................................................................................10
+   4.13   Tangible Personal Property.............................................................................10
+   4.14   Intangible Property....................................................................................11
+   4.15   Material Contracts.....................................................................................12
+   4.16   Employee Benefits......................................................................................12
+   4.17   Labor..................................................................................................13
+   4.18   Litigation.............................................................................................14
+   4.19   Compliance with Laws; Permits..........................................................................14
+   4.20   Environmental Matters..................................................................................14
+   4.21   Insurance..............................................................................................15
+   4.22   Inventories; Receivables; Payables.....................................................................15
+   4.23   Related Party Transactions.............................................................................15
+   4.24   Banks..................................................................................................16
+   4.25   No Misrepresentation...................................................................................16
+   4.26   Investment Intent......................................................................................16
+   4.27   Financial Advisors.....................................................................................16
+
+                                        i
+<PAGE>
+   4.28   Accreditation..........................................................................................17
+   4.29   Investment Experience; Suitability.....................................................................17
+
+ARTICLE V REPRESENTATIONS AND WARRANTIES OF PURCHASER............................................................17
+   5.1    Organization and Good Standing.........................................................................17
+   5.2    Authorization of Agreement.............................................................................17
+   5.3    Conflicts; Consents of Third Parties...................................................................18
+   5.4    Litigation.............................................................................................18
+   5.5    Investment Intention...................................................................................18
+   5.6    Financial Advisors.....................................................................................18
+   5.7    Taxes..................................................................................................18
+   5.8    Compliance with Laws; Permits..........................................................................19
+   5.9    Environmental Matters..................................................................................20
+   5.10   No Misrepresentation...................................................................................20
+
+ARTICLE VI COVENANTS.............................................................................................20
+   6.1    Access to Information..................................................................................20
+   6.2    Conduct of the Business Pending the Closing............................................................21
+   6.3    Consents...............................................................................................23
+   6.4    Other Actions..........................................................................................23
+   6.5    No Solicitation........................................................................................23
+   6.6    Preservation of Records................................................................................24
+   6.7    Publicity..............................................................................................24
+   6.8    Use of Name............................................................................................24
+   6.9    Employment Agreements; Options.........................................................................24
+   6.10   Board of Directors.....................................................................................25
+   6.11   Financial Statements...................................................................................25
+   6.12   Tax Election...........................................................................................25
+   6.13   Operation of Business of the Company After Closing.....................................................25
+
+ARTICLE VII CONDITIONS TO CLOSING................................................................................25
+   7.1    Conditions Precedent to Obligations of Purchaser.......................................................25
+   7.2    Conditions Precedent to Obligations of the Sellers.....................................................27
+
+ARTICLE VIII DOCUMENTS TO BE DELIVERED...........................................................................28
+   8.1    Documents to be Delivered by the Sellers...............................................................28
+   8.2    Documents to be Delivered by the Purchaser.............................................................28
+
+ARTICLE IX INDEMNIFICATION.......................................................................................29
+   9.1    Indemnification........................................................................................29
+   9.2    Limitations on Indemnification for Breaches of Representations and Warranties..........................30
+   9.3    Indemnification Procedures.............................................................................30
+   9.4    Tax Treatment of Indemnity Payments....................................................................31
+
+ARTICLE X MISCELLANEOUS..........................................................................................31
+   10.1   Payment of Sales, Use or Similar Taxes.................................................................31
+
+                                       ii
+<PAGE>
+   10.2   Survival of Representations and Warranties.............................................................31
+   10.3   Expenses...............................................................................................32
+   10.4   Specific Performance...................................................................................32
+   10.5   Further Assurances.....................................................................................32
+   10.6   Submission to Jurisdiction; Consent to Service of Process..............................................32
+   10.7   Entire Agreement; Amendment and Waivers................................................................32
+   10.8   Governing Law..........................................................................................33
+   10.9   Table of Contents and Headings.........................................................................33
+   10.10  Notices................................................................................................33
+   10.11  Severability...........................................................................................34
+   10.12  Binding Effect; Assignment.............................................................................34
+</TABLE>
+                                       iii
+
+<PAGE>
+                            STOCK PURCHASE AGREEMENT
+
+
+STOCK PURCHASE AGREEMENT, dated as of December 16, 2004 (the "Agreement"), among
+Science Dynamics Corporation,  a corporation existing under the laws of Delaware
+(the "Purchaser"),  Systems Management Engineering, Inc., a corporation existing
+under  the  laws  of the  Commonwealth  of  Virginia  (the  "Company"),  and the
+shareholders   of  the  Company   identified  on  Exhibit  A,  attached   hereto
+(collectively the "Sellers").
+
+                              W I T N E S S E T H:
+                              - - - - - - - - - -
+
+          WHEREAS,  the Sellers own an aggregate  of 3,612,500  shares of common
+stock and 345,000  shares  issuable  upon the exercise of vested  stock  options
+prior to the Closing Date, $.01 par value (the "Shares"),  of the Company, which
+Shares constitute  approximately  seventy-seven  percent (77%) of the issued and
+outstanding shares of capital stock of the Company on a fully diluted basis; and
+
+          WHEREAS,  the  Sellers  desire  to sell to  Purchaser,  the  Purchaser
+desires to purchase from the Sellers, the Shares for the purchase price and upon
+the terms and conditions hereinafter set forth;
+
+          NOW,  THEREFORE,  in  consideration  of the  premises  and the  mutual
+covenants and  agreements  hereinafter  contained,  the parties  hereby agree as
+follows:
+
+                                   Article I
+                           SALE AND PURCHASE OF SHARES
+
+          1.1       Sale and Purchase of Shares.
+
+          Upon the terms and subject to the conditions  contained herein, on the
+Closing Date each Seller shall sell, assign, transfer, convey and deliver to the
+Purchaser, and the Purchaser shall purchase from each Seller, the Shares of such
+Seller set forth below such Seller's name on Exhibit A hereto.  The purchase and
+sale of the Shares pursuant to this Agreement shall be effective as of the close
+of business on or before sixty (60) days after the date of this  Agreement  (the
+"Effective Time").
+
+                                   Article II
+                           PURCHASE PRICE AND PAYMENT
+
+          2.1       Amount  of  Purchase  Price;   Payment  of  Purchase  Price.
+
+          (a) The aggregate  initial  purchase  price for the Shares shall be an
+amount equal to $3,080,000  (the "Initial  Purchase  Price").  $1,540,000 of the
+Initial  Purchase Price shall be paid in cash on the Closing Date to the Sellers
+which shall be paid by the delivery to Sellers of  certified  or bank  cashier's
+checks,  or at the Sellers'  option,  by wire transfer of immediately  available
+
+                                       1
+<PAGE>
+funds into accounts  designated  by Sellers and  allocated  among the Sellers in
+accordance with their pro rata ownership of the Shares as set forth in Exhibit A
+hereto. The remaining  $1,540,000 of the Initial Purchase Price shall be paid by
+the issuance to the Sellers  within fifteen (15) business days after the Closing
+Date of such number of the Purchaser's  common stock equal to $1,540,000 divided
+by ten cents ($0.10). (the "Purchase Shares").
+
+          (b)  Purchaser  shall cause an audit to be completed on the  Company's
+financial  statements for the twelve (12) month period ending  December 31, 2005
+no later than March 31, 2006.  Purchaser  shall pay Sellers up to an  additional
+$1,540,000  (the  "Additional  Purchase  Price")  upon the Company  reaching the
+following goals for the twelve (12) month period ending December 31, 2005, where
+"EBITDA"   represents   earnings  before   interest,   tax,   depreciation   and
+amortization,  and before any marketing  and/or selling expenses which have been
+incurred  in  connection  with  the  Company's  technology  products  and  which
+marketing  and/or  selling  expenses have been  incurred in accordance  with the
+budget  mutually  approved by Purchaser  and the Sellers and attached  hereto as
+Schedule 2.1(b):
+
+               (i) If the Company's EBITDA is less than $500,000, then Purchaser
+shall not be obligated to pay any Additional Purchase Price to Sellers;
+
+               (ii) If the Company's EBITDA is equal to or greater than $500,000
+and less than $750,000,  the Purchaser shall pay Sellers and Additional Purchase
+Price equal to $192,500;
+
+               (iii)  If the  Company's  EBITDA  is  equal  to or  greater  than
+$750,000 and less than $1,000,000, the Purchaser shall pay Sellers an Additional
+Purchase Price equal to $385,000;
+
+               (iv)  If  the  Company's  EBITDA  is  equal  to or  greater  than
+$1,000,000  and less  than  $1,250,000,  the  Purchaser  shall  pay  Sellers  an
+Additional Purchase Price equal to $577,500;
+
+               (v)  If  the  Company's  EBITDA  is  equal  to  or  greater  than
+$1,250,000  and less  than  $1,500,000,  the  Purchaser  shall  pay  Sellers  an
+Additional Purchase Price equal to $770,000; and
+
+               (vi)  If  the  Company's  EBITDA  is  equal  to or  greater  than
+$1,500,000,  the Purchaser shall pay Sellers an Additional  Purchase Price equal
+to $1,540,000.
+
+          The Additional Purchase Price, if any, shall be paid to the Sellers in
+cash no later than fifteen (15) business days after March 31, 2006,  which shall
+be paid by the delivery to Sellers of certified or bank cashier's  checks, or at
+the  Sellers'  option,  by wire  transfer of  immediately  available  funds into
+accounts  designated  by Sellers and  allocated  among the Sellers in accordance
+with their pro rata ownership of the Shares as set forth in Exhibit A hereto. In
+the event that any payments due under this Section 2.1(b) are not made,  Sellers
+may deliver  written notice of such fact to Purchaser in accordance with Section
+10.10 hereof and Purchaser  shall have ten (10) calendar days from the date that
+it receives such notice to cure the  nonpayment.  If Purchaser does not cure any
+
+                                       2
+<PAGE>
+nonpayment in accordance  with this Section  2.1(b),  then: (A) Purchaser  shall
+immediately  issue to Sellers such number of shares of Purchaser's  common stock
+equal to the Additional  Purchase Price divided by eighty-five  percent (85%) of
+the average daily weighted volume average price of Purchaser's  common stock for
+the fifteen (15) trading  days prior to March 31,  2006;  and (B) Sellers  shall
+have the right to appoint one natural person to  Purchaser's  board of directors
+for a period of one year.
+
+                                  Article III
+                             CLOSING AND TERMINATION
+
+          3.1       Closing Date.
+
+          Subject to the  satisfaction  of the  conditions set forth in Sections
+7.1 and 7.2 hereof (or the waiver  thereof by the party  entitled  to waive that
+condition),  the closing of the sale and purchase of the Shares  provided for in
+Section 1.1 hereof (the "Closing")  shall take place at the offices of Sichenzia
+Ross Friedman Ference LLP located at 1065 Avenue of the Americas,  New York, New
+York 10018 (or at such other place as the parties may  designate  in writing) on
+or before  sixty  (60) days after the date of this  Agreement,  or on such other
+date as the Sellers and the  Purchaser  may  designate  in writing.  The date on
+which the Closing shall be held is referred to in this Agreement as the "Closing
+Date."
+
+          3.2       Termination of Agreement.
+
+                    This  Agreement  may be  terminated  prior to the Closing as
+                    follows:
+
+          (a) At the  election  of the  Sellers  or the  Purchaser  on or  after
+November  30,  2004,  if the  Closing  shall not have  occurred  by the close of
+business on such date,  provided that the terminating party is not in default of
+any of its obligations hereunder;
+
+          (b) by mutual written consent of the Sellers and the Purchaser;
+
+          (c) by written notice of the Purchaser if the Company's  balance sheet
+as of the Closing  Date,  prepared in accordance  with United  States  generally
+accepted accounting  principles does not reflect a shareholders'  equity (assets
+less liabilities) equal to or greater than $273,000; or
+
+          (d) by the  Sellers  or the  Purchaser  if there  shall be in effect a
+final  nonappealable  Order of a  Governmental  Body of  competent  jurisdiction
+restraining,   enjoining  or  otherwise  prohibiting  the  consummation  of  the
+transactions  contemplated hereby; it being agreed that the parties hereto shall
+promptly appeal any adverse determination which is not nonappealable (and pursue
+such appeal with reasonable diligence).
+
+          3.3       Procedure Upon Termination.
+
+          In the event of  termination  and  abandonment by the Purchaser or the
+Sellers, or both,  pursuant to Section 3.2 hereof,  written notice thereof shall
+forthwith  be given to the other  party or  parties,  and this  Agreement  shall
+terminate, and the purchase of the Shares hereunder shall be abandoned,  without
+further action by the Purchaser or the Sellers.  If this Agreement is terminated
+
+
+                                       3
+<PAGE>
+as provided  herein each party shall  redeliver all  documents,  work papers and
+other  material of any other party  relating  to the  transactions  contemplated
+hereby,  whether so obtained before or after the execution  hereof, to the party
+furnishing the same.
+
+          3.4       Effect of Termination.
+
+          In the event that this  Agreement  is validly  terminated  as provided
+herein,  then  each of the  parties  shall  be  relieved  of  their  duties  and
+obligations  arising under this Agreement after the date of such termination and
+such termination shall be without liability to the Purchaser, the Company or any
+Seller;  provided,  however,  that the  obligations  of the parties set forth in
+Section 10.4 hereof shall survive any such  termination and shall be enforceable
+hereunder;  provided,  further,  however, that nothing in this Section 3.4 shall
+relieve  the  Purchaser  or any  Seller  of any  liability  for a breach of this
+Agreement.
+
+                                   Article IV
+                  REPRESENTATIONS AND WARRANTIES OF THE SELLERS
+
+                    Sellers jointly and severally,  represent and warrant to the
+                    Purchaser that:
+
+          4.1       Organization and Good Standing.
+
+          The Company is a corporation  duly organized,  validly existing and in
+good standing under the laws of the  jurisdiction  of its  incorporation  as set
+forth above and has all requisite  corporate  power and authority to own,  lease
+and operate its properties  and to carry on its business as now  conducted.  The
+Company is duly qualified or authorized to do business as a foreign  corporation
+and is in good standing under the laws of each  jurisdiction in which it owns or
+leases real  property  and each other  jurisdiction  in which the conduct of its
+business or the  ownership of its  properties  requires  such  qualification  or
+authorization,  except  where the  failure to be so  qualified  would not have a
+material  adverse  effect on the  business,  assets or  financial  condition  of
+Company and any subsidiaries taken as a whole ("Material Adverse Effect").
+
+          4.2       Authorization of Agreement.
+
+          Sellers have all  requisite  power,  authority  and legal  capacity to
+execute and deliver  this  Agreement,  and each other  agreement,  document,  or
+instrument or  certificate  contemplated  by this Agreement or to be executed by
+such Seller in connection with the consummation of the transactions contemplated
+by this Agreement (together with this Agreement, the "Seller Documents"), and to
+consummate the transactions  contemplated hereby and thereby. This Agreement has
+been, and each of the Seller Documents will be at or prior to the Closing,  duly
+and  validly  executed  and  delivered  by each  Seller  and  (assuming  the due
+authorization,  execution and delivery by the other parties  hereto and thereto)
+this Agreement  constitutes,  and each of the Seller  Documents when so executed
+and delivered  will  constitute,  legal,  valid and binding  obligations of each
+Seller,  enforceable  against each Seller in  accordance  with their  respective
+terms, subject to applicable bankruptcy, insolvency, reorganization,  moratorium
+and  similar  laws  affecting  creditors'  rights and  remedies  generally,  and
+subject,  as to  enforceability,  to general  principles  of  equity,  including
+principles of commercial reasonableness, good faith and fair dealing (regardless
+of whether enforcement is sought in a proceeding at law or in equity).
+
+
+
+                                       4
+<PAGE>
+          4.3       Capitalization.
+
+          (a) The authorized capital stock of the Company consists of 10,000,000
+shares of common stock, $.01 par value per share (the "Common Stock"). As of the
+date hereof,  there are 4,570,000  shares of Common Stock issued and outstanding
+and 5,430,000  shares of Common Stock are held by the Company as treasury stock.
+All of the issued and  outstanding  shares of Common Stock were duly  authorized
+for issuance and are validly issued, fully paid and non-assessable.
+
+          (b)  Except as set forth in the  attached  Schedule  4.3,  there is no
+existing  option,  warrant,  call,  right,  commitment or other agreement of any
+character to which any Seller or the Company is a party requiring, and there are
+no securities of the Company outstanding which upon conversion or exchange would
+require,  the  issuance,  sale or transfer of any  additional  shares of capital
+stock or other equity securities of the Company or other securities  convertible
+into,  exchangeable  for or  evidencing  the right to subscribe  for or purchase
+shares of capital stock or other equity  securities of the Company.  None of the
+Sellers nor the Company is a party to any voting trust or other voting agreement
+with respect to any of the shares of Common Stock or to any  agreement  relating
+to the issuance, sale, redemption,  transfer or other disposition of the capital
+stock of the Company.
+
+          4.4       Subsidiaries.
+
+          Schedule  4.4  hereto  sets forth the name of each  subsidiary  of the
+Company  (each a  "Subsidiary"),  and,  with  respect  to each  Subsidiary,  the
+jurisdiction  in which it is incorporated or organized,  the  jurisdictions,  if
+any,  in which it is  qualified  to do  business,  the  number  of shares of its
+authorized capital stock, the number and class of shares thereof duly issued and
+outstanding, the names of all stockholders or other equity owners and the number
+of shares of stock owned by each  stockholder  or the amount of equity  owned by
+each equity owner.  The outstanding  shares of capital stock or equity interests
+of each Subsidiary are validly issued,  fully paid and  non-assessable,  and all
+such shares or other equity interests  represented as being owned by the Company
+are  owned by it free and  clear of any and all  liens,  pledges,  encumbrances,
+charges,  agreements  or claims of any kind  whatsoever,  except as set forth in
+Schedule 4.4 hereto.  No shares of capital  stock are held by any  Subsidiary as
+treasury  stock.  There is no existing  option,  warrant,  call,  commitment  or
+agreement  to which  any  Subsidiary  is a party  requiring,  and  there  are no
+convertible securities of any Subsidiary outstanding which upon conversion would
+require,  the issuance of any additional shares of capital stock or other equity
+interests  of any  Subsidiary  or other  securities  convertible  into shares of
+capital  stock or other  equity  interests  of any  Subsidiary  or other  equity
+security of any  Subsidiary.  Each  Subsidiary  is a duly  organized and validly
+existing  corporation  or other  entity in good  standing  under the laws of the
+jurisdiction of its  reorganization  and is duly qualified to do business and is
+in good  standing  under the laws of (i) each  jurisdiction  in which it owns or
+leases real  property and (ii) each other  jurisdiction  in which the conduct of
+its business or the ownership of its assets requires such qualification,  except
+where a failure to be so qualified  would not have a Material  Adverse Effect on
+the  business,  assets or financial  condition  of Company and its  Subsidiaries
+taken  as a  whole.  Each  Subsidiary  has all  requisite  corporate  power  and
+authority  to own  its  properties  and  carry  on  its  business  as  presently
+conducted.
+
+                                       5
+<PAGE>
+          4.5       Corporate Records.
+
+          (a) The Sellers have  delivered  to the  Purchaser  true,  correct and
+complete  copies  of  the  articles  of  incorporation  (each  certified  by the
+Secretary of State or other appropriate official of the applicable  jurisdiction
+of  organization)  and  by-laws  (each  certified  by the  secretary,  assistant
+secretary or other appropriate officer) or comparable  organizational  documents
+of the Company and each of its Subsidiaries.
+
+          (b) The minute  books of the  Company and each  Subsidiary  previously
+made  available to the Purchaser  contain  complete and accurate  records of all
+meetings and accurately  reflect all other corporate  action of the stockholders
+and board of  directors  (including  committees  thereof) of the Company and its
+Subsidiaries.  The stock  certificate  books and stock  transfer  ledgers of the
+Company and its  Subsidiaries  previously  made  available to the  Purchaser are
+true, correct and complete.
+
+          4.6       Conflicts; Consents of Third Parties.
+
+          (a) None of the execution and delivery by any Seller of this Agreement
+and the Seller  Documents,  the  consummation of the  transactions  contemplated
+hereby or thereby, or compliance by any Seller with any of the provisions hereof
+or thereof will (i) conflict  with, or result in the breach of, any provision of
+the articles of incorporation or by-laws or comparable  organizational documents
+of the Company or any  Subsidiary;  (ii) conflict with,  violate,  result in the
+breach  or  termination  of, or  constitute  a  default  under  any note,  bond,
+mortgage,  indenture,  license,  agreement or other  instrument or obligation to
+which the Company or any Subsidiary is a party or by which any of them or any of
+their respective properties or assets is bound; (iii) violate any statute, rule,
+regulation,  order or decree of any governmental  body or authority by which the
+Company or any Subsidiary is bound;  or (iv) result in the creation of any lien,
+charge or  encumbrance  or any kind or nature  ("Lien")  upon the  properties or
+assets of the Company or any Subsidiary  except,  in case of clauses (ii), (iii)
+and (iv), for such violations,  breaches or defaults as would not,  individually
+or in the aggregate, have a Material Adverse Effect.
+
+          (b) No consent, waiver,  approval,  order, permit or authorization of,
+or  declaration  or filing  with,  or  notification  to, any  person,  entity or
+governmental  body is  required  on the part of any  Seller,  the Company or any
+Subsidiary  in connection  with the execution and delivery of this  Agreement or
+the Seller  Documents,  or the  compliance  by each Seller or the Company as the
+case may be, with any of the provisions hereof or thereof.
+
+          4.7       Ownership and Transfer of Shares.
+
+          Each Seller is the record and beneficial owner of the Shares indicated
+as being owned by such Seller on Exhibit A, free and clear of any and all Liens.
+Each Seller has the power and  authority to sell,  transfer,  assign and deliver
+such Shares as provided in this Agreement,  and such delivery will convey to the
+Purchaser  good and marketable  title to such Shares,  free and clear of any and
+all Liens.
+
+
+
+                                       6
+<PAGE>
+          4.8       Financial Statements.
+
+          The  Sellers  have  delivered  to the  Purchaser  copies  of  (i)  the
+unaudited  balance  sheets of the Company as at December 31, 2003 and 2002,  and
+the related  statements of income and  accumulated  deficit and of cash flows of
+the Company for the years then ended and (ii) the unaudited balance sheet of the
+Company as at  September  30,  2004,  and the related  statements  of income and
+accumulated  deficit and of cash flows of the  Company for the six month  period
+then ended (such statements,  including the related notes and schedules thereto,
+are referred to herein as the  "Financial  Statements").  Each of the  Financial
+Statements is complete and correct in all material  respects,  has been prepared
+in accordance with generally accepted accounting principles ("GAAP") (subject to
+normal  year-end  adjustments  in the case of the unaudited  statements)  and in
+conformity  with the  practices  consistently  applied  by the  Company  without
+modification of the accounting  principles  used in the preparation  thereof and
+presents fairly the financial position,  results of operations and cash flows of
+the Company and its Subsidiaries as at the dates and for the periods indicated.
+
+          For the  purposes  hereof,  the  balance  sheet of the  Company  as at
+September 30, 2004 is referred to as the "Balance  Sheet" and September 30, 2004
+is referred to as the "Balance Sheet Date."
+
+          4.9       No Undisclosed Liabilities.
+
+          Neither  the  Company  nor  any  Subsidiary   has  any   indebtedness,
+obligations or liabilities of any kind (whether accrued, absolute, contingent or
+otherwise, and whether due or to become due) that would have been required to be
+reflected in, reserved against or otherwise described on the Balance Sheet or in
+the notes  thereto in  accordance  with GAAP which was not fully  reflected  in,
+reserved  against  or  otherwise  described  in the  Balance  Sheet or the notes
+thereto or was not incurred in the ordinary  course of business  consistent with
+past practice since the Balance Sheet Date.
+
+          4.10      Absence  of  Certain   Developments.   Except  as  expressly
+                    contemplated  by this  Agreement or as set forth on Schedule
+                    4.10, since the Balance Sheet Date:
+
+               (i) there has not been any Material  Adverse Change nor has there
+occurred any event which is  reasonably  likely to result in a Material  Adverse
+Change;
+
+               (ii) there has not been any damage,  destruction or loss, whether
+or not covered by  insurance,  with  respect to the  property  and assets of the
+Company or any Subsidiary having a replacement cost of more than $25,000 for any
+single loss or $50,000 for all such losses;
+
+               (iii)  there  has not  been  any  declaration,  setting  aside or
+payment  of any  dividend  or other  distribution  in  respect  of any shares of
+capital stock of the Company or any repurchase,  redemption or other acquisition
+by any Seller or the  Company or any  Subsidiary  of any  outstanding  shares of
+capital  stock or other  securities  of, or other  ownership  interest  in,  the
+Company or any Subsidiary;
+
+                                       7
+<PAGE>
+               (iv) neither the Company nor any  Subsidiary  has awarded or paid
+any bonuses to  employees of the Company or any  Subsidiary  with respect to the
+fiscal year ended December 31, 2003, except to the extent accrued on the Balance
+Sheet or  entered  into any  employment,  deferred  compensation,  severance  or
+similar  agreement  (nor amended any such  agreement)  or agreed to increase the
+compensation  payable or to become  payable by it to any of the Company's or any
+Subsidiary's directors, officers, employees, agents or representatives or agreed
+to  increase  the  coverage  or  benefits  available  under any  severance  pay,
+termination  pay,  vacation  pay,  company  awards,   salary   continuation  for
+disability,  sick  leave,  deferred  compensation,   bonus  or  other  incentive
+compensation,  insurance,  pension or other  employee  benefit plan,  payment or
+arrangement made to, for or with such directors,  officers, employees, agents or
+representatives  (other than normal increases in the ordinary course of business
+consistent  with past practice and that in the aggregate  have not resulted in a
+material increase in the benefits or compensation expense of the Company and its
+Subsidiaries taken as a whole);
+
+               (v)  there  has  not  been  any  change  by  the  Company  or any
+Subsidiary in accounting or tax reporting principles, methods or policies;
+
+               (vi) neither the Company nor any  Subsidiary has entered into any
+transaction  or Contract or conducted  its  business  other than in the ordinary
+course consistent with past practice;
+
+               (vii)  neither  the  Company  nor any  Subsidiary  has  failed to
+promptly pay and discharge  current  liabilities  except where  disputed in good
+faith by appropriate proceedings;
+
+               (viii) neither the Company nor any Subsidiary has made any loans,
+advances or capital contributions to, or investments in, any person or entity or
+paid any fees or expenses to any Seller or any affiliate of any Seller;
+
+               (ix)  neither  the  Company  nor any  Subsidiary  has  mortgaged,
+pledged or  subjected  to any Lien any of its assets,  or acquired any assets or
+sold,  assigned,  transferred,  conveyed,  leased or  otherwise  disposed of any
+assets of the  Company or any  Subsidiary,  except for assets  acquired or sold,
+assigned, transferred, conveyed, leased or otherwise disposed of in the ordinary
+course of business consistent with past practice;
+
+               (x)  neither the Company nor any  Subsidiary  has  discharged  or
+satisfied any Lien, or paid any obligation or liability  (fixed or  contingent),
+except in the  ordinary  course of business  consistent  with past  practice and
+which,  in  the  aggregate,  would  not  be  material  to the  Company  and  its
+Subsidiaries taken as a whole;
+
+               (xi)  neither  the  Company nor any  Subsidiary  has  canceled or
+compromised any debt or claim or amended,  canceled,  terminated,  relinquished,
+waived or  released  any  Contract  or right  except in the  ordinary  course of
+business consistent with past practice and which, in the aggregate, would not be
+material to the Company and its Subsidiaries taken as a whole;
+
+                                       8
+<PAGE>
+               (xii)  neither  the  Company  nor  any  Subsidiary  has  made  or
+committed to make any capital  expenditures or capital  additions or betterments
+in excess of $20,000 individually or $40,000 in the aggregate;
+
+               (xiii)  neither the Company nor any  Subsidiary has instituted or
+settled any material legal proceeding; and
+
+               (xiv)  none of the  Sellers  nor the  Company  has  agreed  to do
+anything set forth in this Section 4.10.
+
+          4.11      Taxes.
+
+
+          (a) Except as set forth on Schedule 4.11, (A) all material tax returns
+required to be filed by or on behalf of the Company have been properly  prepared
+and  duly and  timely  filed  with the  appropriate  taxing  authorities  in all
+jurisdictions  in which such tax returns are required to be filed (after  giving
+effect to any valid  extensions of time in which to make such filings),  and all
+such tax returns were true,  complete and correct in all material respects;  (B)
+all amounts shown on such tax returns (including  interest and penalties) as due
+from the  Company  have been fully and timely  paid,  and  adequate  reserves or
+accruals for taxes have been  provided in the Balance  Sheet with respect to any
+period for which tax returns  have not yet been filed or for which taxes are not
+yet due and owing; and (C) the Company has not executed or filed with the IRS or
+any  other  taxing  authority  any  agreement,   waiver  or  other  document  or
+arrangement  extending  or  having  the  effect  of  extending  the  period  for
+assessment or collection of taxes (including, but not limited to, any applicable
+statute of limitation),  and no power of attorney with respect to any tax matter
+is currently in force.
+
+          (b) The  Company  has  complied  in all  material  respects  with  all
+applicable laws,  rules and regulations  relating to the payment and withholding
+of Taxes and has duly and timely  withheld  from  employee  salaries,  wages and
+other  compensation and has paid over to the appropriate  taxing authorities all
+amounts  required  to be so  withheld  and paid over for all  periods  under all
+applicable laws.
+
+          (c)  Purchaser  has  received  complete  copies  of (A)  all  material
+federal, state, local and foreign income or franchise tax returns of the Company
+relating to the taxable  periods since January 1, 1996, and (B) any audit report
+issued  within the last three years  relating to any material  Taxes due from or
+with  respect to the Company its income,  assets or  operations.  All income and
+franchise tax returns filed by or on behalf of the Company for the taxable years
+ended on the  respective  dates set forth on Schedule 4.11 have been examined by
+the relevant taxing authority or the statute of limitations with respect to such
+tax returns has expired.
+
+          (d) Schedule 4.11 lists all material  types of taxes paid and material
+types of tax returns  filed by or on behalf of the Company.  Except as set forth
+on Schedule 4.11, no claim has been made by a taxing authority in a jurisdiction
+where the Company does not file tax returns such that it is or may be subject to
+taxation by that jurisdiction.
+
+          (e) Except as set forth on Schedule 4.11, all deficiencies asserted or
+assessments  made as a result of any examinations by the IRS or any other taxing
+
+                                       9
+<PAGE>
+authority of the tax returns of or covering or  including  the Company have been
+fully  paid,  and there  are no other  audits or  investigations  by any  taxing
+authority in progress,  nor have the Sellers or the Company  received any notice
+from  any  taxing  authority  that  it  intends  to  conduct  such an  audit  or
+investigation.  No issue has been raised by a federal,  state,  local or foreign
+taxing  authority in any current or prior  examination  which, by application of
+the same or similar  principles,  could  reasonably  be  expected to result in a
+proposed deficiency for any subsequent taxable period.
+
+          (f) The Company is not subject to any private letter ruling of the IRS
+or comparable rulings of other taxing authorities.
+
+          (g) There are no liens as a result of any unpaid taxes upon any of the
+assets of the Company.
+
+          4.12      Real Property.
+
+          (a) Schedule  4.12(a) sets forth a complete  list of all real property
+and  interests  in real  property  leased by the  Company  and its  Subsidiaries
+(individually, a "Real Property Lease" and the real properties specified in such
+leases  being  referred  to herein  individually  as a  "Company  Property"  and
+collectively as the "Company Properties") as lessee or lessor.  Company Property
+constitutes all interests in real property  currently used or currently held for
+use in  connection  with the  business of the Company and its  Subsidiaries  and
+which are necessary  for the continued  operation of the business of the Company
+and its Subsidiaries as the business is currently conducted. The Company and its
+Subsidiaries have a valid and enforceable  leasehold  interest under each of the
+Real   Property   Leases,   subject  to   applicable   bankruptcy,   insolvency,
+reorganization,  moratorium  and similar laws  affecting  creditors'  rights and
+remedies generally and subject,  as to enforceability,  to general principles of
+equity (regardless of whether enforcement is sought in a proceeding at law or in
+equity),  and neither the Company nor any  Subsidiary  has  received any written
+notice of any default or event that with notice or lapse of time, or both, would
+constitute  a default  by the  Company or any  Subsidiary  under any of the Real
+Property  Leases.  All  of  the  Company  Property,   buildings,   fixtures  and
+improvements  thereon owned or leased by the Company and its Subsidiaries are in
+good  operating  condition  and repair  (subject to normal  wear and tear).  The
+Company has delivered or otherwise made available to the Purchaser true, correct
+and complete copies of the Real Property  Leases,  together with all amendments,
+modifications or supplements, if any, thereto.
+
+          (b) The Company and its Subsidiaries have all material certificates of
+occupancy  and  permits of any  governmental  body  necessary  or useful for the
+current use and  operation  of each  Company  Property,  and the Company and its
+Subsidiaries  have fully  complied  with all material  conditions of the permits
+applicable  to them.  No default or  violation,  or event that with the lapse of
+time or giving  of notice or both  would  become a  default  or  violation,  has
+occurred in the due observance of any permit.
+
+          4.13      Tangible Personal Property.
+
+          (a)  Schedule  4.13(a)  sets  forth all  leases of  personal  property
+("Personal  Property  Leases")  involving  annual  payments in excess of $25,000
+
+
+                                       10
+<PAGE>
+relating to personal  property used in the business of the Company or any of its
+Subsidiaries or to which the Company or any of its Subsidiaries is a party or by
+which the  properties  or assets of the  Company or any of its  Subsidiaries  is
+bound.  The Sellers have  delivered or otherwise made available to the Purchaser
+true, correct and complete copies of the Personal Property Leases, together with
+all amendments, modifications or supplements thereto.
+
+          (b) The Company and each of its  Subsidiaries  have a valid  leasehold
+interest under each of the Personal  Property Leases under which it is a lessee,
+subject to applicable  bankruptcy,  insolvency,  reorganization,  moratorium and
+similar laws affecting  creditors' rights and remedies generally and subject, as
+to  enforceability,  to  general  principles  of equity  (regardless  of whether
+enforcement  is sought in a  proceeding  at law or in  equity),  and there is no
+default  under  any  Personal  Property  Lease  by  the  Company  or  any of its
+Subsidiaries  or, to the best  knowledge  of the  Sellers,  by any  other  party
+thereto,  and no event has occurred that with the lapse of time or the giving of
+notice or both would constitute a default thereunder.
+
+          (c) The Company and its Subsidiaries have good and marketable title to
+all of the items of tangible  personal  property  reflected in the Balance Sheet
+(except as sold or disposed of  subsequent  to the date  thereof in the ordinary
+course of business consistent with past practice), free and clear of any and all
+Liens,  other than as set forth on  Schedule  4.13.  All such items of  tangible
+personal property which,  individually or in the aggregate,  are material to the
+operation  of the  business  of the  Company  and its  Subsidiaries  are in good
+condition and in a state of good  maintenance and repair (ordinary wear and tear
+excepted) and are suitable for the purposes used.
+
+          (d) All of the items of tangible personal property used by the Company
+and its  Subsidiaries  under the Personal  Property Leases are in good condition
+and repair  (ordinary  wear and tear excepted) and are suitable for the purposes
+used.
+
+          4.14      Intangible Property.
+
+          Schedule  4.14  contains a complete  and correct  list of each patent,
+trademark,  trade  name,  service  mark and  copyright  owned or used by Company
+and/or  its  Subsidiaries  as  well as all  registrations  thereof  and  pending
+applications  therefor,  and each license or other agreement  relating  thereto.
+Except as set forth on  Schedule  4.14,  each of the  foregoing  is owned by the
+party  shown  on such  Schedule  as  owning  the  same,  free  and  clear of all
+mortgages, claims, liens, security interests, charges and encumbrances and is in
+good  standing and not the subject of any  challenge.  There have been no claims
+made and neither the Sellers,  nor the Company nor any  Subsidiary  has received
+any notice or otherwise knows or has reason to believe that any of the foregoing
+is invalid or conflicts with the asserted rights of others. The Company and each
+of its  Subsidiaries  possesses  all  patents,  patent  licenses,  trade  names,
+trademarks,  service  marks,  brand marks,  brand names,  copyrights,  know-how,
+formulate and other  proprietary  and trade rights  necessary for the conduct of
+its business as now conducted,  not subject to any  restrictions and without any
+known  conflict with the rights of others and neither the Company nor any of its
+Subsidiaries  has forfeited or otherwise  relinquished  any such patent,  patent
+license, trade name, trademark, service mark, brand mark, brand name, copyright,
+know-how,  formulate or other proprietary right necessary for the conduct of its
+business as  conducted  on the date  hereof.  Neither the Company nor any of its
+Subsidiaries is under any obligation to pay any royalties or similar payments in
+connection with any license to any Seller or any affiliate thereof.
+
+
+
+                                       11
+<PAGE>
+          4.15      Material Contracts.
+
+          Schedule 4.15 sets forth all of the following  contracts,  agreements,
+commitments  ("Contracts")  to which the Company or any of its Subsidiaries is a
+party or by which it is bound  (collectively,  the  "Material  Contracts"):  (i)
+Contracts with any the Seller or any current  officer or director of the Company
+or any of its  Subsidiaries;  (ii) Contracts with any labor union or association
+representing  any  employee  of the  Company or any of its  Subsidiaries;  (iii)
+Contracts  pursuant  to which any party is required to purchase or sell a stated
+portion of its  requirements or output from or to another party;  (iv) Contracts
+for the sale of any of the  assets  of the  Company  or any of its  Subsidiaries
+other than in the ordinary  course of business or for the grant to any person or
+entity of any  preferential  rights to  purchase  any of its  assets;  (v) joint
+venture agreements;  (vi) material Contracts containing covenants of the Company
+or any of its  Subsidiaries  not to compete in any line of  business or with any
+person or entity in any  geographical  area or  covenants of any other person or
+entity not to compete with the Company or any of its Subsidiaries in any line of
+business  or  in  any  geographical   area;  (vii)  Contracts  relating  to  the
+acquisition by the Company or any of its Subsidiaries of any operating  business
+or the capital stock of any other person or entity ; (viii)  Contracts  relating
+to the borrowing of money; or (ix) any other Contracts, other than Real Property
+Leases,  which involve the  expenditure of more than $50,000 in the aggregate or
+$25,000 annually or require performance by any party more than one year from the
+date hereof. There have been made available to the Purchaser, its affiliates and
+their representatives true and complete copies of all of the Material Contracts.
+Except as set forth on Schedule  4.15,  all of the Material  Contracts and other
+agreements  are in full force and effect  and are the legal,  valid and  binding
+obligation of the Company and/or its Subsidiaries,  enforceable  against them in
+accordance  with  its  terms,  subject  to  applicable  bankruptcy,  insolvency,
+reorganization,  moratorium  and similar laws  affecting  creditors'  rights and
+remedies generally and subject,  as to enforceability,  to general principles of
+equity (regardless of whether enforcement is sought in a proceeding at law or in
+equity).  Except as set forth on  Schedule  4.15,  neither  the  Company nor any
+Subsidiary is in default in any material  respect under any Material  Contracts,
+nor, to the knowledge of any Seller, is any other party to any Material Contract
+in default thereunder in any material respect.
+
+          4.16      Employee Benefits.
+
+          (a) Schedule 4.16(a) sets forth a complete and correct list of (i) all
+"employee benefit plans", as defined in Section 3(3) of the Employee  Retirement
+Income Security Act of 1974, as amended  ("ERISA"),  and any other pension plans
+or employee  benefit  arrangements,  programs or payroll  practices  (including,
+without  limitation,   severance  pay,  vacation  pay,  company  awards,  salary
+continuation  for disability,  sick leave,  retirement,  deferred  compensation,
+bonus or other incentive compensation,  stock purchase arrangements or policies,
+hospitalization,  medical  insurance,  life insurance and scholarship  programs)
+maintained by the Company or any of its  Subsidiaries or to which the Company or
+any of its  Subsidiaries  contributes  or is obligated to contribute  thereunder
+with respect to employees of the Company ("Employee Benefit Plans") and (ii) all
+"employee pension plans", as defined in Section 3(2) of ERISA, maintained by the
+Company or any of its  Subsidiaries  or any trade or  business  (whether  or not
+incorporated)  which  are  under  control,  or  which  are  treated  as a single
+employer,  with Company under Section  414(b),  (c), (m) or (o) of ERISA ("ERISA
+Affiliate")  or to which  the  Company,  any of its  Subsidiaries  or any  ERISA
+Affiliate  contributed  or  is  obligated  to  contribute  thereunder  ("Pension
+Plans").
+
+                                       12
+<PAGE>
+          (b) All  contributions and premiums required by law or by the terms of
+any Employee  Benefit Plan or Pension  Plan which are defined  benefit  plans or
+money  purchase  plans or any agreement  relating  thereto have been timely made
+(without  regard to any waivers  granted with  respect  thereto) to any funds or
+trusts  established  thereunder or in connection  therewith,  and no accumulated
+funding deficiencies exist in any of such plans subject to Section 412 of ERISA.
+
+          (c) There has been no violation of ERISA with respect to the filing of
+applicable returns, reports, documents and notices regarding any of the Employee
+Benefit  Plans or Pension  Plans with the Secretary of Labor or the Secretary of
+the Treasury or the furnishing of such notices or documents to the  participants
+or beneficiaries of the Employee Benefit Plans or Pension Plans.
+
+          (d) True, correct and complete copies of the following documents, with
+respect to each of the Employee Benefit Plans and Pension Plans (as applicable),
+have been delivered to the Purchaser: (A) any plans and related trust documents,
+and all  amendments  thereto,  (B) the most recent Forms 5500 for the past three
+years and  schedules  thereto,  (C) the most  recent  financial  statements  and
+actuarial  valuations  for the past three  years,  (D) the most recent  Internal
+Revenue  Service   determination  letter,  (E)  the  most  recent  summary  plan
+descriptions  (including  letters or other documents updating such descriptions)
+and (F)  written  descriptions  of all  non-written  agreements  relating to the
+Employee Benefit Plans and Pension Plans.
+
+          4.17      Labor.
+
+          (a) Except as set forth on Schedule  4.17(a),  neither the Company nor
+any of its Subsidiaries is party to any labor or collective bargaining agreement
+and there are no labor or  collective  bargaining  agreements  which  pertain to
+employees of the Company or any of its Subsidiaries.  The Sellers have delivered
+or otherwise made available to the Purchaser  true,  correct and complete copies
+of the labor or collective  bargaining  agreements  listed on Schedule  4.17(a),
+together with all amendments, modifications or supplements thereto.
+
+          (b)  Except as set forth on  Schedule  4.17(b),  no  employees  of the
+Company or any of its Subsidiaries are represented by any labor organization. No
+labor  organization  or  group  of  employees  of  the  Company  or  any  of its
+Subsidiaries  has made a  pending  demand  for  recognition,  and  there  are no
+representation  proceedings  or petitions  seeking a  representation  proceeding
+presently  pending or, to the best  knowledge of the Sellers,  threatened  to be
+brought  or  filed,  with the  National  Labor  Relations  Board or other  labor
+relations tribunal. There is no organizing activity involving the Company or any
+of its Subsidiaries pending or, to the best knowledge of any Seller,  threatened
+by any labor  organization  or group of  employees  of the Company or any of its
+Subsidiaries.
+
+                                       13
+<PAGE>
+          (c) There are no (i) strikes, work stoppages,  slowdowns,  lockouts or
+arbitrations or (ii) material  grievances or other labor disputes pending or, to
+the best knowledge of any Seller, threatened against or involving the Company or
+any of its Subsidiaries.  There are no unfair labor practice charges, grievances
+or complaints pending or, to the best knowledge of any Seller,  threatened by or
+on behalf of any employee or group of employees of the Company.
+
+          4.18      Litigation.
+
+          Except  as set  forth in  Schedule  4.18,  there  is no suit,  action,
+proceeding,  investigation,  claim or order  pending or, to the knowledge of the
+Sellers or the  Company,  overtly  threatened  against the Company or any of its
+Subsidiaries  (or to the  knowledge  of the Sellers or the  Company,  pending or
+threatened,  against any of the  officers,  directors  or key  employees  of the
+Company or any of its Subsidiaries with respect to their business  activities on
+behalf of the  Company),  or to which the  Sellers or the  Company or any of its
+Subsidiaries is otherwise a party, which, if adversely determined,  would have a
+Material   Adverse  Effect,   before  any  court,  or  before  any  governmental
+department, commission, board, agency, or instrumentality;  nor to the knowledge
+of the  Sellers  nor the  Company  is there  any  reasonable  basis for any such
+action, proceeding, or investigation.  Neither the Company nor any Subsidiary is
+subject to any  judgment,  order or decree of any court or  governmental  agency
+except to the  extent  the same are not  reasonably  likely  to have a  Material
+Adverse  Effect and neither the  Company  nor any  Subsidiary  is engaged in any
+legal action to recover monies due it or for damages sustained by it.
+
+          4.19      Compliance with Laws; Permits.
+
+          The Company and each of its  Subsidiaries  is in  compliance  with all
+Laws  applicable  to the Company and its  Subsidiaries  or to the conduct of the
+business or operations of the Company and its  Subsidiaries  or the use of their
+respective  properties  (including any leased properties) and assets, except for
+such  non-compliances  as would not,  individually  or in the aggregate,  have a
+Material  Adverse  Effect.  The  Company  and each of its  Subsidiaries  has all
+governmental  permits and  approvals  from state,  federal or local  authorities
+which are required for the Company and each of its  Subsidiaries  to operate its
+business,  except for those the absence of which would not,  individually  or in
+the aggregate, have a Material Adverse Effect.
+
+          4.20      Environmental Matters.
+
+          Except as set forth on Schedule 4.20 hereto:
+
+          (a) the operations of the Company and each of its  Subsidiaries are in
+compliance  with all applicable  laws,  rules,  regulations,  orders,  treaties,
+statutes,  and codes  promulgated  by any  governmental  entity which  prohibit,
+regulate or control any hazardous  material or any hazardous  material  activity
+("Environmental  Laws") and all permits issued pursuant to Environmental Laws or
+otherwise;
+
+          (b) the Company and each of its  Subsidiaries has obtained all permits
+required  under all  applicable  Environmental  Laws  necessary  to operate  its
+business;
+
+                                       14
+<PAGE>
+          (c) neither the Company nor any of its  Subsidiaries is the subject of
+any  outstanding  written  order or Contract  with any  governmental  authority,
+person or entity  respecting  Environmental  Laws or any  violation or potential
+violations thereof;
+
+          (d) neither the Company nor any of its  Subsidiaries  has received any
+written  communication  alleging  either or both that the  Company or any of its
+Subsidiaries may be in violation of any Environmental  Law, or any permit issued
+pursuant to Environmental Law, or may have any liability under any Environmental
+Law;
+
+          4.21      Insurance.
+
+          Schedule  4.21 sets forth a complete and accurate list of all policies
+of  insurance  of  any  kind  or  nature  covering  the  Company  or  any of its
+Subsidiaries  or  any of  their  respective  employees,  properties  or  assets,
+including,  without  limitation,  policies  of life,  disability,  fire,  theft,
+workers  compensation,  employee  fidelity  and  other  casualty  and  liability
+insurance.  All such policies are in full force and effect, and, to the Sellers'
+knowledge,  neither the Company nor any of its Subsidiaries is in default of any
+provision thereof, except for such defaults as would not, individually or in the
+aggregate, have a Material Adverse Effect.
+
+          4.22      Inventories; Receivables; Payables.
+
+          (a) The  inventories of the Company and its  Subsidiaries  are in good
+and marketable  condition,  and are saleable in the ordinary course of business.
+Adequate  reserves  have been  reflected  in the Balance  Sheet for  obsolete or
+otherwise  unusable  inventory,  which  reserves  were  calculated  in a  manner
+consistent with past practice and in accordance with GAAP consistently applied.
+
+          (b) All accounts  receivable of the Company and its Subsidiaries  have
+arisen from bona fide transactions in the ordinary course of business consistent
+with past practice.  All accounts receivable of the Company and its Subsidiaries
+reflected  on the  Balance  Sheet  are good  and  collectible  at the  aggregate
+recorded amounts thereof,  net of any applicable reserve for returns or doubtful
+accounts reflected thereon, which reserves are adequate and were calculated in a
+manner  consistent with past practice and in accordance  with GAAP  consistently
+applied.  All accounts  receivable arising after the Balance Sheet Date are good
+and collectible at the aggregate recorded amounts thereof, net of any applicable
+reserve for returns or doubtful  accounts,  which reserves are adequate and were
+calculated in a manner consistent with past practice and in accordance with GAAP
+consistently applied.
+
+          (c) All accounts payable of the Company and its Subsidiaries reflected
+in the Balance  Sheet or arising  after the date  thereof are the result of bona
+fide  transactions  in the ordinary course of business and have been paid or are
+not yet due and payable.
+
+          4.23      Related Party Transactions.
+
+          Except as set forth on Schedule  4.23,  neither the Sellers nor any of
+their respective  affiliates has borrowed any moneys from or has outstanding any
+indebtedness  or other  similar  obligations  to the Company or and  Subsidiary.
+
+                                       15
+<PAGE>
+Except as set forth in Schedule  4.23,  neither the Sellers,  the  Company,  any
+Subsidiary  of the Company,  any affiliate of the Company or the Sellers nor any
+officer or employee  of any of them (i) owns any direct or indirect  interest of
+any kind in, or controls or is a director,  officer,  employee or partner of, or
+consultant  to, or lender to or borrower from or has the right to participate in
+the  profits  of,  any  person or entity  which is (A) a  competitor,  supplier,
+customer,  landlord,  tenant,  creditor  or debtor of the  Company or any of its
+Subsidiaries,  (B) engaged in a business  related to the business of the Company
+or any of its Subsidiaries, or (C) a participant in any transaction to which the
+Company or any of its Subsidiaries is a party or (ii) is a party to any Contract
+with the Company or any of its Subsidiaries.
+
+          4.24      Banks.
+
+          Schedule  4.24  contains a complete  and correct list of the names and
+locations of all banks in which Company or any  Subsidiary  has accounts or safe
+deposit boxes and the names of all persons authorized to draw thereon or to have
+access thereto. Except as set forth on Schedule 4.25, no person holds a power of
+attorney to act on behalf of the Company or any Subsidiary.
+
+          4.25      No Misrepresentation.
+
+          No  representation  or  warranty  of  any  Seller  contained  in  this
+Agreement or in any schedule  hereto or in any  certificate or other  instrument
+furnished by any Seller to the Purchaser pursuant to the terms hereof,  contains
+any  untrue  statement  of a  material  fact or omits to state a  material  fact
+necessary to make the statements contained herein or therein not misleading.
+
+          4.26      Investment Intent.
+
+          The Purchase  Shares are being  acquired  hereunder by the Sellers for
+investment  purposes only, for their own account,  not as a nominee or agent and
+not  with a view to the  distribution  thereof.  The  Sellers  have  no  present
+intention to sell or otherwise  dispose of the Purchase Shares and they will not
+do so except in compliance with the provisions of the Securities Act of 1933, as
+amended,  and applicable  law. The Sellers  understand  that the Purchase Shares
+acquired  hereunder  must  be  held by them  indefinitely  unless  a  subsequent
+disposition or transfer of any of said shares is registered under the Securities
+Act of 1933, as amended, or is exempt from registration  therefrom.  The Sellers
+further  understand  that the exemption from  registration  afforded by Rule 144
+(the  provisions  of which  are  known to such  Sellers)  promulgated  under the
+Securities  Act of 1933,  as  amended,  depends on the  satisfaction  of various
+conditions, and that, if and when applicable,  Rule 144 may afford the basis for
+sales only in limited amounts.
+
+          4.27      Financial Advisors.
+
+          Except as set forth on Schedule  4.27,  no person or entity has acted,
+directly or indirectly, as a broker, finder or financial advisor for the Sellers
+or the  Company  in  connection  with  the  transactions  contemplated  by  this
+Agreement  and no person or entity is entitled to any fee or  commission or like
+payment in respect thereof.
+
+                                       16
+<PAGE>
+          4.28      Accreditation.
+
+          Each  Seller is an  "accredited  investor"  within the meaning of Rule
+501(a) of Regulation D promulgated under the Securities Act of 1933, as amended.
+The Sellers  understand  that the Purchase  Shares are being  offered to them in
+reliance upon specific  exemptions from the registration  requirements of United
+States federal and state  securities laws and that the Purchaser is relying upon
+the  truth  and   accuracy   of,  and  the   Sellers'   compliance   with,   the
+representations,  warranties, agreements,  acknowledgments and understandings of
+the Sellers set forth  herein in order to  determine  the  availability  of such
+exemptions and the eligibility of the Sellers to acquire the Purchase Shares.
+
+          4.29      Investment Experience; Suitability.
+
+          Each  Seller  is  familiar  with  the type of  risks  inherent  in the
+acquisition of securities  such as the shares of the Purchaser and each Seller's
+financial  position  is such that the Seller  can afford to retain its  Purchase
+Shares for an indefinite period of time without realizing any direct or indirect
+cash return on its investment.
+
+                                   Article V
+                   REPRESENTATIONS AND WARRANTIES OF PURCHASER
+
+          5.1       Organization and Good Standing.
+
+          The Purchaser is a corporation duly organized, validly existing and in
+good standing under the laws of the State of Delaware.
+
+          5.2       Authorization of Agreement.
+
+          The  Purchaser has full  corporate  power and authority to execute and
+deliver  this  Agreement  and each  other  agreement,  document,  instrument  or
+certificate contemplated by this Agreement or to be executed by the Purchaser in
+connection with the  consummation of the  transactions  contemplated  hereby and
+thereby  (the  "Purchaser  Documents"),   and  to  consummate  the  transactions
+contemplated hereby and thereby. The execution,  delivery and performance by the
+Purchaser  of  this  Agreement  and  each  Purchaser  Document  have  been  duly
+authorized by all necessary  corporate  action on behalf of the Purchaser.  This
+Agreement  has  been,  and each  Purchaser  Document  will be at or prior to the
+Closing,  duly  executed and  delivered by the  Purchaser  and (assuming the due
+authorization,  execution and delivery by the other parties  hereto and thereto)
+this Agreement  constitutes,  and each  Purchaser  Document when so executed and
+delivered  will  constitute,   legal,  valid  and  binding  obligations  of  the
+Purchaser, enforceable against the Purchaser in accordance with their respective
+terms, subject to applicable bankruptcy, insolvency, reorganization,  moratorium
+and  similar  laws  affecting  creditors'  rights and  remedies  generally,  and
+subject,  as to  enforceability,  to general  principles  of  equity,  including
+principles of commercial reasonableness, good faith and fair dealing (regardless
+of whether enforcement is sought in a proceeding at law or in equity).
+
+                                       17
+<PAGE>
+          5.3       Conflicts; Consents of Third Parties.
+
+          (a) Neither of the  execution  and  delivery by the  Purchaser of this
+Agreement and of the Purchaser  Documents,  nor the  compliance by the Purchaser
+with any of the  provisions  hereof or thereof will (i) conflict with, or result
+in the breach of, any provision of the certificate of  incorporation  or by-laws
+of the  Purchaser,  (ii)  conflict  with,  violate,  result in the breach of, or
+constitute  a default  under  any  note,  bond,  mortgage,  indenture,  license,
+agreement or other  obligation to which the Purchaser is a party or by which the
+Purchaser or its  properties  or assets are bound or (iii)  violate any statute,
+rule, regulation, order or decree of any governmental body or authority by which
+the Purchaser is bound,  except, in the case of clauses (ii) and (iii), for such
+violations, breaches or defaults as would not, individually or in the aggregate,
+have  a  material  adverse  effect  on  the  business,  properties,  results  of
+operations,  prospects, conditions (financial or otherwise) of the Purchaser and
+its subsidiaries, taken as a whole.
+
+          (b) No consent, waiver,  approval,  Order, Permit or authorization of,
+or declaration or filing with, or  notification  to, any Person or  Governmental
+Body is required on the part of the Purchaser in  connection  with the execution
+and delivery of this  Agreement or the Purchaser  Documents or the compliance by
+Purchaser with any of the provisions hereof or thereof.
+
+          5.4       Litigation.
+
+          There are no Legal  Proceedings  pending or, to the best  knowledge of
+the Purchaser, threatened that are reasonably likely to prohibit or restrain the
+ability  of the  Purchaser  to enter  into  this  Agreement  or  consummate  the
+transactions contemplated hereby.
+
+          5.5       Investment Intention.
+
+          The  Purchaser  is  acquiring  the  Shares  for its own  account,  for
+investment  purposes only and not with a view to the  distribution (as such term
+is used in  Section  2(11)  of the  Securities  Act of  1933,  as  amended  (the
+"Securities Act") thereof.  Purchaser  understands that the Shares have not been
+registered  under the  Securities  Act and  cannot be sold  unless  subsequently
+registered  under the Securities Act or an exemption from such  registration  is
+available.
+
+          5.6       Financial Advisors.
+
+          No Person has acted,  directly or indirectly,  as a broker,  finder or
+financial  advisor  for  the  Purchaser  in  connection  with  the  transactions
+contemplated  by  this  Agreement  and no  person  is  entitled  to  any  fee or
+commission or like payment in respect thereof.
+
+          5.7       Taxes.
+
+          (a) Except as set forth on Schedule  5.7, (A) all material tax returns
+required  to be  filed by or on  behalf  of the  Purchaser  have  been  properly
+prepared and duly and timely filed with the  appropriate  taxing  authorities in
+all  jurisdictions  in which such tax  returns are  required to be filed  (after
+giving effect to any valid  extensions  of time in which to make such  filings),
+
+                                       18
+<PAGE>
+and all such tax  returns  were  true,  complete  and  correct  in all  material
+respects;  (B) all amounts  shown on such tax returns  (including  interest  and
+penalties)  as due from the  Purchaser  have been  fully and  timely  paid,  and
+adequate  reserves  or  accruals  for taxes have been  provided  in  Purchaser's
+balance sheet with respect to any period for which tax returns have not yet been
+filed or for which taxes are not yet due and owing;  and (C) the  Purchaser  has
+not executed or filed with the IRS or any other taxing  authority any agreement,
+waiver or other  document  or  arrangement  extending  or having  the  effect of
+extending the period for assessment or collection of taxes  (including,  but not
+limited to, any applicable statute of limitation), and no power of attorney with
+respect to any tax matter is currently in force.
+
+          (b) The  Purchaser  has  complied in all  material  respects  with all
+applicable laws,  rules and regulations  relating to the payment and withholding
+of Taxes and has duly and timely  withheld  from  employee  salaries,  wages and
+other  compensation and has paid over to the appropriate  taxing authorities all
+amounts  required  to be so  withheld  and paid over for all  periods  under all
+applicable laws.
+
+          (c) Schedule  5.7 lists all material  types of taxes paid and material
+types of tax returns filed by or on behalf of the Purchaser. Except as set forth
+on Schedule 5.7, no claim has been made by a taxing  authority in a jurisdiction
+where the Purchaser  does not file tax returns such that it is or may be subject
+to taxation by that jurisdiction.
+
+          (d) Except as set forth on Schedule 5.7, all deficiencies  asserted or
+assessments  made as a result of any examinations by the IRS or any other taxing
+authority of the tax returns of or covering or including the Purchaser have been
+fully  paid,  and there  are no other  audits or  investigations  by any  taxing
+authority in progress, nor has the Purchaser received any notice from any taxing
+authority  that it intends to conduct such an audit or  investigation.  No issue
+has been raised by a federal,  state,  local or foreign taxing  authority in any
+current  or prior  examination  which,  by  application  of the same or  similar
+principles,  could reasonably be expected to result in a proposed deficiency for
+any subsequent taxable period.
+
+          (e) The  Purchaser is not subject to any private  letter ruling of the
+IRS or comparable rulings of other taxing authorities.
+
+          (f) There are no liens as a result of any unpaid taxes upon any of the
+assets of the Purchaser.
+
+          5.8       Compliance with Laws; Permits.
+
+          The Purchaser  and its  Subsidiaries  are in compliance  with all Laws
+applicable  to the  Purchaser  and its  Subsidiaries  or to the  conduct  of the
+business or operations of the Purchaser and its Subsidiaries or the use of their
+respective  properties  (including any leased properties) and assets, except for
+such  non-compliances  as would not,  individually  or in the aggregate,  have a
+Material  Adverse  Effect.  The Purchaser and each of its  Subsidiaries  has all
+governmental  permits and  approvals  from state,  federal or local  authorities
+which are required for the Purchaser and each of its Subsidiaries to operate its
+business,  except for those the absence of which would not,  individually  or in
+the aggregate, have a Material Adverse Effect.
+
+                                       19
+<PAGE>
+          5.9       Environmental Matters.
+
+          Except    as set forth on Schedule 5.9 hereto:
+
+          (a) the operations of the Purchaser and each of its  Subsidiaries  are
+in compliance with all applicable laws, rules,  regulations,  orders,  treaties,
+statutes,  and codes  promulgated  by any  governmental  entity which  prohibit,
+regulate or control any hazardous  material or any hazardous  material  activity
+("Environmental  Laws") and all permits issued pursuant to Environmental Laws or
+otherwise;
+
+          (b) the  Purchaser  and  each of its  Subsidiaries  has  obtained  all
+permits  required under all applicable  Environmental  Laws necessary to operate
+its business;
+
+          (c) neither the Purchaser nor any of its  Subsidiaries  is the subject
+of any outstanding  written order or Contract with any  governmental  authority,
+person or entity  respecting  Environmental  Laws or any  violation or potential
+violations thereof;
+
+          (d) neither the Purchaser nor any of its Subsidiaries has received any
+written  communication  alleging either or both that the Purchaser or any of its
+Subsidiaries may be in violation of any Environmental  Law, or any permit issued
+pursuant to Environmental Law, or may have any liability under any Environmental
+Law;
+
+          5.10      No Misrepresentation.
+
+          No  representation  or warranty  of the  Purchaser  contained  in this
+Agreement or in any schedule  hereto or in any  certificate or other  instrument
+furnished  by the  Purchaser  to the  Company or Sellers  pursuant  to the terms
+hereof,  contains any untrue  statement  of a material  fact or omits to state a
+material fact necessary to make the statements  contained  herein or therein not
+misleading
+
+                                   Article VI
+                                    COVENANTS
+
+          6.1       Access to Information.
+
+          The Sellers agree that, prior to the Closing Date, the Purchaser shall
+be entitled,  through its officers,  employees and  representatives  (including,
+without  limitation,   its  legal  advisors  and  accountants),   to  make  such
+investigation  of the  properties,  businesses and operations of the Company and
+its  Subsidiaries  and such  examination  of the books,  records  and  financial
+condition of the Company and its  Subsidiaries as it reasonably  requests and to
+make extracts and copies of such books and records.  Any such  investigation and
+examination   shall  be  conducted  during  regular  business  hours  and  under
+reasonable  circumstances,  and the Sellers shall cooperate, and shall cause the
+Company and its  Subsidiaries to cooperate,  fully therein.  No investigation by
+the Purchaser  prior to or after the date of this  Agreement  shall  diminish or
+obviate any of the representations,  warranties,  covenants or agreements of the
+Sellers contained in this Agreement or the Seller  Documents.  In order that the
+Purchaser may have full opportunity to make such physical, business,  accounting
+and legal review,  examination or investigation as it may reasonably  request of
+the  affairs of the Company and its  Subsidiaries,  the Sellers  shall cause the
+officers,  employees,  consultants,  agents,  accountants,  attorneys  and other
+representatives of the Company and its Subsidiaries to cooperate fully with such
+representatives in connection with such review and examination.
+
+
+
+                                       20
+<PAGE>
+          6.2       Conduct of the Business Pending the Closing.
+
+          (a) Except as otherwise  expressly  contemplated  by this Agreement or
+with the prior written  consent of the Purchaser,  the Sellers shall,  and shall
+cause the Company and its Subsidiaries to:
+
+               (i)  conduct  the  respective  businesses  of the Company and its
+Subsidiaries only in the ordinary course consistent with past practice;
+
+               (ii) use its best efforts to (A)  preserve  its present  business
+operations,  organization  (including,  without  limitation,  management and the
+sales force) and goodwill of the Company and its  Subsidiaries  and (B) preserve
+its present relationship with persons and entities having business dealings with
+the Company and its Subsidiaries;
+
+               (iii)  maintain  (A)  all of the  assets  and  properties  of the
+Company and its Subsidiaries in their current condition,  ordinary wear and tear
+excepted and (B) insurance  upon all of the properties and assets of the Company
+and its  Subsidiaries  in such amounts and of such kinds  com-parable to that in
+effect on the date of this Agreement;
+
+               (iv) (A) maintain the books,  accounts and records of the Company
+and its  Subsidiaries  in the ordinary  course of business  consistent with past
+practices,  (B) continue to collect accounts receivable and pay accounts payable
+utilizing normal procedures and without  discounting or accelerating  payment of
+such  accounts,  and (C)  comply  with all  contractual  and  other  obligations
+applicable to the operation of the Company and its Subsidiaries; and
+
+               (v) comply in all material respects with applicable laws.
+
+          (b) Except as otherwise  expressly  contemplated  by this Agreement or
+with the prior  written  consent of the  Purchaser,  the Sellers  shall not, and
+shall cause the Company and its Subsidiaries not to:
+
+               (i)  declare,  set  aside,  make or pay  any  dividend  or  other
+distribution  in  respect of the  capital  stock of the  Company or  repurchase,
+redeem or otherwise acquire any outstanding shares of the capital stock or other
+securities  of, or other  ownership  interests  in,  the  Company  or any of its
+Subsidiaries;
+
+               (ii)  transfer,  issue,  sell or dispose of any shares of capital
+stock or other  securities  of the Company or any of its  Subsidiaries  or grant
+options, warrants, calls or other rights to purchase or otherwise acquire shares
+of  the  capital  stock  or  other  securities  of  the  Company  or  any of its
+Subsidiaries;
+                                       21
+<PAGE>
+               (iii) effect any recapitalization,  reclassification, stock split
+or like change in the capitalization of the Company or any of its Subsidiaries;
+
+               (iv) amend the  certificate  of  incorporation  or by-laws of the
+Company or any of its Subsidiaries;
+
+               (v) (A) materially  increase the annual level of  compensation of
+any employee of the Company or any of its Subsidiaries,  (B) increase the annual
+level of compensation  payable or to become payable by the Company or any of its
+Subsidiaries  to any of their  respective  executive  officers,  (C)  grant  any
+unusual or extraordinary bonus, benefit or other direct or indirect compensation
+to any  employee,  director or  consultant,  other than in the  ordinary  course
+consistent with past practice and in such amounts as are fully reserved  against
+in the  Financial  Statements,  (D) increase the coverage or benefits  available
+under any (or create any new)  severance  pay,  termination  pay,  vacation pay,
+company  awards,  salary  continuation  for  disability,  sick  leave,  deferred
+compensation, bonus or other incentive compensation, insurance, pension or other
+employee benefit plan or arrangement made to, for, or with any of the directors,
+officers,  employees,  agents or  representatives  of the  Company or any of its
+Subsidiaries  or  otherwise  modify  or amend  or  terminate  any  such  plan or
+arrangement or (E) enter into any employment, deferred compensation,  severance,
+consulting,  non-competition  or similar agreement (or amend any such agreement)
+to which  the  Company  or any of its  Subsidiaries  is a party or  involving  a
+director,  officer or employee of the Company or any of its  Subsidiaries in his
+or her capacity as a director,  officer or employee of the Company or any of its
+Subsidiaries;
+
+               (vi) except for trade payables and for  indebtedness for borrowed
+money  incurred in the  ordinary  course of business  and  consistent  with past
+practice,  borrow  monies  for any  reason or draw down on any line of credit or
+debt obligation,  or become the guarantor,  surety, endorser or otherwise liable
+for any debt,  obligation  or liability  (contingent  or otherwise) of any other
+person or entity;
+
+               (vii)  subject  to  any  Lien  (except  for  leases  that  do not
+materially  impair the use of the property  subject thereto in their  respective
+businesses as presently  conducted),  any of the  properties or assets  (whether
+tangible or intangible) of the Company or any of its Subsidiaries;
+
+               (viii) acquire any material properties or assets or sell, assign,
+transfer,  convey,  lease or otherwise dispose of any of the material properties
+or assets  (except for fair  consideration  in the  ordinary  course of business
+consistent with past practice) of the Company and its Subsidiaries  except, with
+respect to the items  listed on  Schedule  6.2(b)(viii)  hereto,  as  previously
+consented to by the Purchaser;
+
+               (ix) cancel or  compromise  any debt or claim or waive or release
+any  material  right of the  Company  or any of its  Subsidiaries  except in the
+ordinary course of business consistent with past practice;
+
+               (x) enter into any commitment for capital expenditures out of the
+ordinary course;
+
+                                       22
+<PAGE>
+               (xi) permit the Company or any of its  Subsidiaries to enter into
+any  transaction  or to make or enter into any  Contract  which by reason of its
+size or otherwise is not in the ordinary course of business consistent with past
+practice;
+
+               (xii) permit the Company or any of its Subsidiaries to enter into
+or agree to enter into any merger or  consolidation  with,  any  corporation  or
+other  entity,  and not engage in any new  business  or invest in,  make a loan,
+advance or capital  contribution to, or otherwise  acquire the securities of any
+other person or entity;
+
+               (xiii)  except for  transfers  of cash  pursuant  to normal  cash
+management practices,  permit the Company or any of its Subsidiaries to make any
+investments  in or loans to, or pay any fees or  expenses  to, or enter  into or
+modify any Contract with, any Seller or any affiliate of any Seller; or
+
+               (xiv)  agree to do  anything  prohibited  by this  Section 6.2 or
+anything  which  would make any of the  representations  and  warranties  of the
+Sellers in this  Agreement  or the Seller  Documents  untrue or incorrect in any
+material respect as of any time through and including the Effective Time.
+
+          6.3       Consents.
+
+          The Sellers  shall use their best  efforts,  and the  Purchaser  shall
+cooperate  with the  Sellers,  to obtain at the  earliest  practicable  date all
+consents and approvals  required to consummate the transactions  contemplated by
+this Agreement;  provided,  however,  that neither the Sellers nor the Purchaser
+shall be  obligated  to pay any  consideration  therefor to any third party from
+whom consent or approval is requested.
+
+          6.4       Other Actions.
+
+          Each of the Sellers and the  Purchaser  shall use its best  efforts to
+(i) take all actions  necessary or appropriate  to consummate  the  transactions
+contemplated  by this  Agreement and (ii) cause the  fulfillment at the earliest
+practicable  date of all of the  conditions to their  respective  obligations to
+consummate the transactions contemplated by this Agreement.
+
+          6.5       No Solicitation.
+
+          The Sellers  will not, and will not cause or permit the Company or any
+of the  Company's  directors,  officers,  employees,  representatives  or agents
+(collectively,  the "Representatives") to, directly or indirectly,  (i) discuss,
+negotiate, undertake, authorize, recommend, propose or enter into, either as the
+proposed surviving,  merged, acquiring or acquired corporation,  any transaction
+involving a merger, consolidation, business combination, purchase or disposition
+of any amount of the assets or capital  stock or other  equity  interest  in the
+Company or any of its Subsidiaries  other than the transactions  contemplated by
+this  Agreement (an  "Acquisition  Transaction"),  (ii)  facilitate,  encourage,
+solicit or initiate  discussions,  negotiations  or  submissions of proposals or
+offers in respect of an  Acquisition  Transaction,  (iii) furnish or cause to be
+
+                                       23
+<PAGE>
+furnished,  to any person or entity,  any  information  concerning the business,
+operations,  properties or assets of the Company or any of its  Subsidiaries  in
+connection with an Acquisition  Transaction,  or (iv) otherwise cooperate in any
+way with, or assist or participate  in,  facilitate or encourage,  any effort or
+attempt by any other  person or entity to do or seek any of the  foregoing.  The
+Sellers will inform the Purchaser in writing  immediately  following the receipt
+by any Seller,  the Company or any  Representative of any proposal or inquiry in
+respect of any Acquisition Transaction.
+
+          6.6       Preservation of Records.
+
+          Subject to Section 9.4(e) hereof  (relating to the preservation of Tax
+records),  the Sellers and the Purchaser  agree that each of them shall preserve
+and keep the records  held by it relating to the business of the Company and its
+Subsidiaries  for a period of three years from the  Closing  Date and shall make
+such records and personnel  available to the other as may be reasonably required
+by such party in connection with,  among other things,  any insurance claims by,
+legal proceedings  against or governmental  investigations of the Sellers or the
+Purchaser  or any of their  affiliates  or in order to enable the Sellers or the
+Purchaser to comply with their respective  obligations  under this Agreement and
+each other agreement, document or instrument contemplated hereby or thereby.
+
+          6.7       Publicity.
+
+          None of the Sellers nor the Purchaser shall issue any press release or
+public announcement  concerning this Agreement or the transactions  contemplated
+hereby without  obtaining the prior written  approval of the other party hereto,
+which approval will not be unreasonably withheld or delayed, unless, in the sole
+judgment of the Purchaser or the Sellers,  disclosure  is otherwise  required by
+applicable  law or by the  applicable  rules of any stock  exchange on which the
+Purchaser lists securities,  provided that, to the extent required by applicable
+law,  the party  intending  to make  such  release  shall  use its best  efforts
+consistent with such applicable law to consult with the other party with respect
+to the text thereof.
+
+          6.8       Use of Name.
+
+          The  Sellers   hereby  agree  that  upon  the   consummation   of  the
+transactions  contemplated  hereby, the Purchaser and the Company shall have the
+sole right to the use of the name  "Services  Management  Engineering,"  and the
+Sellers shall not, and shall not cause or permit any affiliate to, use such name
+or any variation or simulation thereof.
+
+          6.9       Employment Agreements; Options.
+
+          On or prior to the  Closing  Date,  certain  employees  of the Company
+shall enter into  employment  or  consulting  agreements  with the Company  (the
+"Employment  Agreements")  substantially in the form attached hereto as Schedule
+6.9(a). The Purchaser shall also offer employment to a majority of the Company's
+employees and the Company's  current  management shall use their reasonable best
+efforts to assist the Purchaser in employing such individuals.  Employees of the
+Company, as determined by the mutual agreement of the Sellers and the Purchaser,
+shall be entitled to participate in the  Purchaser's  employee stock option plan
+or other equity  incentive plan in  consideration  for canceling such employees'
+currently outstanding options or other equity incentive instruments.
+
+                                       24
+<PAGE>
+          6.10      Board of Directors.
+
+          The Board of  Directors of the Company from and after the Closing Date
+shall consist of five (5) members,  a majority of which shall be citizens of the
+United  States.  Sellers shall have the right from and after the Closing Date to
+appoint  two (2)  members to the Board of  Directors  of the  Company,  and such
+members  shall serve as  Directors  at least until all  payments  have been made
+pursuant too Section 2.1(b), herein.
+
+          6.11      Financial Statements.
+
+          The  Sellers  shall  cooperate  with  the  Purchaser  to  provide  all
+information  required for the completion of audited financial  statements of the
+Company to be  prepared  and  delivered  no later than 60 days from the  Closing
+Date.
+
+          6.12      Tax Election.
+
+          At the sole  discretion of the Purchaser,  the Sellers agree to make a
+timely Internal Revenue Code Section  338(h)(10)  election  provided there is no
+additional tax liability for the Sellers due to this election.
+
+          6.13      Operation  of  Business  of  the  Company   after   Closing.
+
+          During the period  beginning on the Closing  Date and ending  December
+31, 2005 (the "Post-Closing Period"), Purchaser agrees to operate the Company as
+a wholly owned  subsidiary of the  Purchaser,  and  Purchaser  shall provide the
+Company with $250,000 of operating capital. Purchaser further agrees that during
+the  Post-Closing  Period  Purchaser  will not  cause the  Company  to incur any
+material additional operating expenses and capital expenses outside the ordinary
+course of business.  In the event any of the Sellers or the Company's  employees
+provide  services to the Company during the Post-Closing  Period,  Purchaser and
+the Sellers  shall  negotiate in good faith the terms for any such  services and
+such terms shall not be less  favorable  to Sellers or the  Company's  employees
+than would be available to independent third parties negotiating an arm's length
+transaction.  The  purpose  and intent of this  Section  6.13 is to ensure  that
+Purchaser  does not cause any adverse  effect on the Company's  ability to reach
+its EBITDA goals set forth in Section 2.1(b).
+
+                                  Article VII
+                              CONDITIONS TO CLOSING
+
+          7.1       Conditions Precedent to Obligations of Purchaser.
+
+          The  obligation  of  the  Purchaser  to  consummate  the  transactions
+contemplated by this Agreement is subject to the fulfillment, on or prior to the
+Closing Date, of each of the  following  conditions  (any or all of which may be
+waived  by the  Purchaser  in  whole  or in  part  to the  extent  permitted  by
+applicable law):
+
+                                       25
+<PAGE>
+          (a) all representations and warranties of the Sellers contained herein
+shall be true and correct as of the date hereof;
+
+          (b) all representations and warranties of the Sellers contained herein
+qualified as to materiality shall be true and correct,  and the  representations
+and warranties of the Sellers  contained  herein not qualified as to materiality
+shall be true and  correct in all  material  respects,  at and as of the Closing
+Date with the same effect as though those  representations  and  warranties  had
+been made again at and as of that time;
+
+          (c) the Sellers  shall have  performed  and  complied in all  material
+respects with all  obligations  and covenants  required by this  Agreement to be
+performed or complied with by them on or prior to the Closing Date;
+
+          (d) the Purchaser shall have been furnished with  certificates  (dated
+the  Closing  Date  and in form and  substance  reasonably  satisfactory  to the
+Purchaser)  executed  by each Seller  certifying  as to the  fulfillment  of the
+conditions specified in Sections 7.1(a), 7.1(b) and 7.1(c) hereof;
+
+          (e) Certificates  representing  100% of the Shares shall have been, or
+shall at the Closing be,  validly  delivered and  transferred  to the Purchaser,
+free and clear of any and all Liens;
+
+          (f) there shall not have been or occurred any Material Adverse Change;
+
+          (g) the Sellers shall have obtained all consents and waivers  referred
+to in Section 4.6 hereof,  in a form  reasonably  satisfactory to the Purchaser,
+with respect to the  transactions  contemplated by this Agreement and the Seller
+Documents;
+
+          (h) no Legal  Proceedings  shall have been instituted or threatened or
+claim  or  demand  made  against  the  Sellers,   the  Company  or  any  of  its
+Subsidiaries,  or the  Purchaser  seeking to  restrain  or prohibit or to obtain
+substantial  damages  with  respect  to the  consummation  of  the  transactions
+contemplated  hereby,  and  there  shall  not  be  in  effect  any  Order  by  a
+Governmental Body of competent jurisdiction restraining,  enjoining or otherwise
+prohibiting the consummation of the transactions contemplated hereby;
+
+          (i) the Employment  Agreements shall have been executed by each Seller
+and the Company;
+
+          (j) The  Company's  balance sheet as of the Closing Date shall reflect
+shareholders'  equity  (assets  less  liabilities)  equal  to  or  greater  than
+$273,000.  The Company's balance sheet as of the Closing Date must be determined
+in accordance with GAAP consistent with the Company's historical procedures.  If
+the Company does not have shareholders' equity equal to or greater than $273,000
+as of the Closing  Date in  accordance  with this  Section  7.1(j),  the Initial
+Purchase  Price shall be reduced by an amount equal to $273,000 minus the actual
+amount of the Company's  shareholders' equity as of the Closing Date, determined
+in accordance with this Section 7.1 (j).
+
+                                       26
+<PAGE>
+          7.2       Conditions Precedent to Obligations of the Sellers.
+
+          The  obligations  of  the  Sellers  to  consummate  the   transactions
+contemplated  by this Agreement are subject to the  fulfillment,  prior to or on
+the Closing Date, of each of the following  conditions  (any or all of which may
+be  waived  by the  Sellers  in  whole  or in part to the  extent  permitted  by
+applicable law):
+
+          (a) all  representations  and  warranties of the  Purchaser  contained
+herein shall be true and correct as of the date hereof;
+
+          (b) all  representations  and  warranties of the  Purchaser  contained
+herein  qualified  as  to  materiality  shall  be  true  and  correct,  and  all
+representations  and warranties of the Purchaser  contained herein not qualified
+as to materiality shall be true and correct in all material respects,  at and as
+of the Closing  Date with the same effect as though  those  representations  and
+warranties had been made again at and as of that date;
+
+          (c) the  Purchaser  shall have  performed and complied in all material
+respects with all  obligations  and covenants  required by this  Agreement to be
+performed or complied with by Purchaser on or prior to the Closing Date;
+
+          (d) the Sellers shall have been furnished with certificates (dated the
+Closing Date and in form and substance  reasonably  satisfactory to the Sellers)
+executed by the Chief  Executive  Officer of the Purchaser  certifying as to the
+fulfillment of the conditions specified in Sections 7.2(a), 7.2(b) and 7.2(c);
+
+          (e) no Legal  Proceedings  shall have been instituted or threatened or
+claim  or  demand  made  against  the  Sellers,   the  Company  or  any  of  its
+Subsidiaries,  or the  Purchaser  seeking to  restrain  or prohibit or to obtain
+substantial  damages  with  respect  to the  consummation  of  the  transactions
+contemplated  hereby,  and  there  shall  not  be  in  effect  any  Order  by  a
+Governmental Body of competent jurisdiction restraining,  enjoining or otherwise
+prohibiting the consummation of the transactions contemplated hereby;
+
+          (f) the Employment  Agreements shall have been executed by the Company
+and each employee described in Section 6.9;
+
+          (g)  appropriate  actions  shall have been taken to remove each Seller
+from  any   personal   guarantees   provided   on  behalf  of  the   Company  or
+indemnification shall have been provided for such guarantees which is acceptable
+in the sole discretion of the Sellers;
+
+          (h) Sellers shall have appointed two members to  Purchaser's  Board of
+Directors and any documentation with Purchaser and/or its shareholders to insure
+the same will have been executed and delivered to Sellers; and
+
+          (i) any and all actions  necessary to retain top secret  United States
+Government   security   clearance  for  the  Company   and/or  its   affiliates,
+subsidiaries  or  parent  will have been  taken  and  documentation  of the same
+delivered to Sellers.
+
+                                       27
+<PAGE>
+          (j) an  executed  term  sheet  or  letter  of  intent  evidencing  the
+necessary financing for the transactions  contemplated in this Agreement and any
+internal proformas related to post-transaction corporate performance, shall have
+been provided to Sellers at least thirty (30) days prior to the Closing.
+
+                                  Article VIII
+                            DOCUMENTS TO BE DELIVERED
+
+          8.1       Documents to be Delivered by the Sellers.
+
+          At the Closing,  the Sellers shall deliver,  or cause to be delivered,
+to the Purchaser the following:
+
+          (a) stock certificates representing the Shares, duly endorsed in blank
+or accompanied by stock  transfer  powers and with all requisite  stock transfer
+tax stamps attached;
+
+          (b) the certificates referred to in Section 7.1(d) hereof;
+
+          (c) copies of all consents and waivers  referred to in Section  7.1(g)
+hereof;
+
+          (d) Duly  executed  Employment  Agreements  referred to in Section 6.9
+hereof;
+
+          (e) written resignations of each of the directors of the Company;
+
+          (f) certificates of good standing with respect to the Company and each
+Subsidiary  issued by the  Secretary of State of the State of  incorporation  of
+each,  and for each state in which the Company or any Subsidiary is qualified to
+do business as a foreign corporation; and
+
+          (g) such other documents as the Purchaser shall reasonably request.
+
+          8.2 Documents to be Delivered by the Purchaser.
+
+          At Closing (or within fifteen (15) business days after the Closing, as
+noted below) the Purchaser shall deliver to the Sellers the following:
+
+          (a) The Initial Purchase Price;
+
+          (b) stock  certificates  representing  the Purchase  Shares (within 15
+business days of Closing);
+
+          (c) the  certificates  and other documents  referred to in Section 7.2
+hereof; and
+
+          (d) such other documents as the Sellers shall reasonably request.
+
+                                       28
+<PAGE>
+                                   Article IX
+                                 INDEMNIFICATION
+
+          9.1       Indemnification.
+
+          (a) Subject to Section 9.2 hereof, the Sellers hereby agree to jointly
+and  severally  indemnify  and  hold  the  Purchaser,  the  Company,  and  their
+respective directors,  officers, employees,  affiliates,  agents, successors and
+assigns  (collectively,  the "Purchaser  Indemnified  Parties") harmless, to the
+limits set forth below, from and against:
+
+               (i)  any  and  all  liabilities  of  the  Company  or  any of its
+Subsidiaries  of every kind,  nature and  description,  absolute or  contingent,
+existing  as  against  the  Company  or  any of its  Subsidiaries  prior  to and
+including the Closing Date or thereafter  coming into being or arising by reason
+of any state of facts existing,  or any transaction entered into, on or prior to
+the Closing  Date,  except to the extent that the same have been fully  provided
+for in the Balance  Sheet or disclosed in the notes  thereto or were incurred in
+the ordinary  course of business  between the Balance Sheet date and the Closing
+Date;
+
+               (ii) subject to Section  10.3,  any and all losses,  liabilities,
+obligations,  damages,  costs  and  expenses  based  upon,  attributable  to  or
+resulting from the failure of any  representation or warranty of the Sellers set
+forth in Section 4 hereof, or any  representation  or warranty  contained in any
+certificate delivered by or on behalf of the Sellers pursuant to this Agreement,
+to be true and correct in all respects as of the date made;
+
+               (iii)  any and all  losses,  liabilities,  obligations,  damages,
+costs and expenses based upon,  attributable  to or resulting from the breach of
+any covenant or other agreement on the part of the Sellers under this Agreement;
+
+               (iv) any and all notices,  actions, suits,  proceedings,  claims,
+demands,  assessments,  judgments,  costs,  penalties  and  expenses,  including
+attorneys'  and  other  professionals'  fees  and  disbursements  (collectively,
+"Expenses") incident to any and all losses, liabilities,  obligations,  damages,
+costs and expenses with respect to which  indemnification  is provided hereunder
+(collectively, "Losses").
+
+          (b) Subject to Section 9.2,  Purchaser  hereby agrees to indemnify and
+hold the Sellers and their respective affiliates, agents, successors and assigns
+(collectively, the "Seller Indemnified Parties") harmless from and against:
+
+               (i)  subject to Section  10.3,  any and all  Losses  based  upon,
+attributable to or resulting from the failure of any  representation or warranty
+of the  Purchaser  set  forth in  Section  5 hereof,  or any  representation  or
+warranty contained in any certificate delivered by or on behalf of the Purchaser
+pursuant to this Agreement, to be true and correct as of the date made;
+
+               (ii) any and all Losses based upon,  attributable to or resulting
+from the breach of any covenant or other  agreement on the part of the Purchaser
+under this  Agreement or arising from the  ownership or operation of the Company
+from and after the Closing Date; and
+
+               (iii) any and all Expenses incident to the foregoing.
+
+                                       29
+<PAGE>
+          9.2       Limitations    on    Indemnification    for    Breaches   of
+                    Representations and Warranties.
+
+          An  indemnifying  party  shall not have any  liability  under  Section
+9.1(a)(ii) or Section 9.1(b)(i) hereof unless the aggregate amount of Losses and
+Expenses to the indemnified parties finally determined to arise thereunder based
+upon,  attributable  to or resulting from the failure of any  representation  or
+warranty to be true and correct  exceeds  $15,000  (the  "Basket")  and, in such
+event, the indemnifying party shall be required to pay the entire amount of such
+Losses and  Expenses  in excess of $15,000  (the  "Deductible").  Further,  each
+Seller's liability under Section 9.1 shall be limited to the amount of and shall
+be in the same form (i.e.,  cash and/or Purchase Shares) of the Initial Purchase
+Price and the Additional Purchase Price received by that Seller. For purposes of
+this  Section 9, the per share  value of the  Purchase  Shares  shall  equal the
+average daily weighted volume average price of Purchaser's  common stock for the
+fifteen  (15)  trading  days  prior to the date that any  liability  under  this
+Section 9.1 arises.  In the event that the amount of liability under Section 9.1
+exceeds  the value of the Initial  Purchase  Price and the  Additional  Purchase
+Price as of the date that such liability arises, the Sellers shall fully satisfy
+such  liability  by  returning  the cash and Purchase  Shares  representing  the
+Initial Purchase Price and Additional Purchase Price to Purchaser.
+
+          9.3       Indemnification Procedures.
+
+          (a) In the event that any Legal  Proceedings  shall be  instituted  or
+that any claim or demand ("Claim") shall be asserted by any Person in respect of
+which payment may be sought under Section 9.1 hereof  (regardless  of the Basket
+or the Deductible referred to above), the indemnified party shall reasonably and
+promptly  cause  written  notice of the  assertion  of any Claim of which it has
+knowledge which is covered by this indemnity to be forwarded to the indemnifying
+party.  The  indemnifying  party  shall have the right,  at its sole  option and
+expense,  to be represented  by counsel of its choice,  which must be reasonably
+satisfactory to the indemnified party, and to defend against,  negotiate, settle
+or otherwise deal with any Claim which relates to any Losses indemnified against
+hereunder. If the indemnifying party elects to defend against, negotiate, settle
+or otherwise deal with any Claim which relates to any Losses indemnified against
+hereunder,  it shall within five (5) days (or sooner, if the nature of the Claim
+so  requires)  notify  the  indemnified  party of its  intent  to do so.  If the
+indemnifying party elects not to defend against,  negotiate, settle or otherwise
+deal with any Claim which relates to any Losses  indemnified  against hereunder,
+fails to notify the  indemnified  party of its  election  as herein  provided or
+contests its obligation to indemnify the indemnified party for such Losses under
+this Agreement, the indemnified party may defend against,  negotiate,  settle or
+otherwise deal with such Claim. If the indemnified party defends any Claim, then
+the indemnifying party shall reimburse the indemnified party for the Expenses of
+defending  such Claim upon  submission of periodic  bills.  If the  indemnifying
+party  shall  assume  the  defense  of any  Claim,  the  indemnified  party  may
+participate,  at his or its own expense, in the defense of such Claim; provided,
+however,  that such  indemnified  party shall be entitled to  participate in any
+such defense with separate counsel at the expense of the indemnifying  party if,
+(i) so  requested  by the  indemnifying  party  to  participate  or  (ii) in the
+reasonable  opinion of counsel to the indemnified party, a conflict or potential
+conflict exists between the indemnified  party and the  indemnifying  party that
+would make such separate representation  advisable; and provided,  further, that
+the  indemnifying  party  shall  not be  required  to pay for more than one such
+counsel for all indemnified  parties in connection  with any Claim.  The parties
+hereto agree to cooperate  fully with each other in connection with the defense,
+negotiation or settlement of any such Claim.
+
+                                       30
+<PAGE>
+          (b) After any final  judgment or award  shall have been  rendered by a
+court,  arbitration board or administrative agency of competent jurisdiction and
+the expiration of the time in which to appeal  therefrom,  or a settlement shall
+have been consummated, or the indemnified party and the indemnifying party shall
+have arrived at a mutually binding  agreement with respect to a Claim hereunder,
+the indemnified party shall forward to the indemnifying party notice of any sums
+due and owing by the indemnifying  party pursuant to this Agreement with respect
+to such  matter and the  indemnifying  party shall be required to pay all of the
+sums so due and owing to the  indemnified  party by wire transfer of immediately
+available funds within 10 business days after the date of such notice.
+
+          (c) The failure of the  indemnified  party to give  reasonably  prompt
+notice  of  any  Claim  shall  not  release,   waive  or  otherwise  affect  the
+indemnifying  party's obligations with respect thereto except to the extent that
+the indemnifying  party can demonstrate actual loss and prejudice as a result of
+such failure.
+
+          9.4       Tax Treatment of Indemnity Payments.
+
+          The Sellers and the  Purchaser  agree to treat any  indemnity  payment
+made pursuant to this Article 9 as an adjustment to the Initial  Purchase  Price
+for federal, state, local and foreign income tax purposes.
+
+                                   Article X
+                                  MISCELLANEOUS
+
+          10.1      Payment of Sales, Use or Similar Taxes.
+
+          All sales, use, transfer, intangible,  recordation,  documentary stamp
+or  similar  Taxes or  charges,  of any  nature  whatsoever,  applicable  to, or
+resulting from, the  transactions  contemplated by this Agreement shall be borne
+by the Sellers.
+
+          10.2      Survival of Representations and Warranties.
+
+          The  parties  hereto  hereby  agree  that  the   representations   and
+warranties  contained  in this  Agreement  or in any  certificate,  document  or
+instrument  delivered in  connection  herewith,  shall survive the execution and
+delivery  of  this  Agreement,  and the  Closing  hereunder,  regardless  of any
+investigation made by the parties hereto; provided,  however, that any claims or
+actions with respect  thereto shall  terminate  unless within  twenty-four  (24)
+months  after the  Closing  Date  written  notice of such claims is given to the
+Sellers or such actions are commenced.
+
+                                       31
+<PAGE>
+          10.3      Expenses.
+
+          Except as otherwise  provided in this  Agreement,  the Sellers and the
+Purchaser  shall each bear its own  expenses  incurred  in  connection  with the
+negotiation and execution of this Agreement and each other  agreement,  document
+and  instrument  contemplated  by this  Agreement  and the  consummation  of the
+transactions  contemplated  hereby and thereby,  it being  understood that in no
+event shall the Company bear any of such costs and expenses.
+
+          10.4      Specific Performance.
+
+          The Sellers  acknowledge  and agree that the breach of this  Agreement
+would cause irreparable  damage to the Purchaser and that the Purchaser will not
+have an adequate remedy at law. Therefore,  the obligations of the Sellers under
+this Agreement,  including,  without limitation, the Sellers' obligation to sell
+the  Shares to the  Purchaser,  shall be  enforceable  by a decree  of  specific
+performance  issued  by any court of  competent  jurisdiction,  and  appropriate
+injunctive relief may be applied for and granted in connection  therewith.  Such
+remedies  shall,  however,  be  cumulative  and not  exclusive  and  shall be in
+addition to any other  remedies which any party may have under this Agreement or
+otherwise.
+
+          10.5      Further Assurances.
+
+          The Sellers and the Purchaser  each agrees to execute and deliver such
+other documents or agreements and to take such other action as may be reasonably
+necessary  or  desirable  for  the  implementation  of  this  Agreement  and the
+consummation of the transactions contemplated hereby.
+
+          10.6      Submission to Jurisdiction; Consent to Service of Process.
+
+          (a) The parties hereto hereby  irrevocably submit to the non-exclusive
+jurisdiction  of any  federal  or state  court  located  within the State of New
+Jersey over any dispute  arising out of or relating to this  Agreement or any of
+the transactions  contemplated  hereby and each party hereby  irrevocably agrees
+that all  claims in  respect  of such  dispute  or any suit,  action  proceeding
+related  thereto may be heard and determined in such courts.  The parties hereby
+irrevocably  waive,  to the fullest  extent  permitted  by  applicable  law, any
+objection  which  they may now or  hereafter  have to the laying of venue of any
+such dispute brought in such court or any defense of inconvenient  forum for the
+maintenance  of such dispute.  Each of the parties hereto agrees that a judgment
+in any  such  dispute  may be  enforced  in other  jurisdictions  by suit on the
+judgment or in any other manner provided by law.
+
+          (b) Each of the parties hereto hereby consents to process being served
+by any party to this Agreement in any suit,  action or proceeding by the mailing
+of a copy thereof in accordance with the provisions of Section 10.10.
+
+          10.7      Entire Agreement; Amendments and Waivers.
+
+                                       32
+<PAGE>
+          This  Agreement   (including   the  schedules  and  exhibits   hereto)
+represents  the entire  understanding  and agreement  between the parties hereto
+with respect to the subject  matter hereof and can be amended,  supplemented  or
+changed,  and any  provision  hereof can be waived,  only by written  instrument
+making  specific  reference to this  Agreement  signed by the party against whom
+enforcement of any such amendment, supplement, modification or waiver is sought.
+No action taken pursuant to this Agreement,  including without  limitation,  any
+investigation  by or on behalf of any  party,  shall be deemed to  constitute  a
+waiver by the party taking such action of  compliance  with any  representation,
+warranty, covenant or agreement contained herein. The waiver by any party hereto
+of a breach of any provision of this Agreement shall not operate or be construed
+as a further or continuing  waiver of such breach or as a waiver of any other or
+subsequent breach. No failure on the part of any party to exercise, and no delay
+in exercising,  any right,  power or remedy  hereunder shall operate as a waiver
+thereof, nor shall any single or partial exercise of such right, power or remedy
+by such party preclude any other or further  exercise thereof or the exercise of
+any other right,  power or remedy. All remedies hereunder are cumulative and are
+not exclusive of any other remedies provided by law.
+
+          10.8      Governing  Law.  This  Agreement  shall be  governed  by and
+                    construed  in  accordance  with the laws of the State of New
+                    Jersey.
+
+          10.9      Table of Contents and Headings.
+
+          The table of contents and section  headings of this  Agreement are for
+reference  purposes  only and are to be given no effect in the  construction  or
+interpretation of this Agreement.
+
+          10.10     Notices.
+
+          All notices and other  communications under this Agreement shall be in
+writing  and  shall be  deemed  given  when  delivered  personally  or mailed by
+certified  mail,  return  receipt  requested,  to the parties (and shall also be
+transmitted  by  facsimile  to the  persons  receiving  copies  thereof)  at the
+following  addresses (or to such other address as a party may have  specified by
+notice given to the other party pursuant to this provision):
+
+     (a) Purchaser:
+
+                    Science Dynamics Corporation
+                    7150 N. Park Drive, Suite 500
+                    Pennsauken, New Jersey 08109
+                    Attn:  Alan C. Bashforth
+                    Phone:  (856) 910-1166
+                    Facsimile: (856) 910-1811
+
+                    Copy to:
+
+                    Gregory Sichenzia, Esq
+                    Sichenzia Ross Friedman Ference LLP
+                    1065 Avenue of the Americas
+                    New York, New York 10018
+                    Phone:  (212) 930-9700
+                    Facsimile: (212) 930-9725
+
+                                       33
+<PAGE>
+     (b) Sellers:
+
+                    Herbert B. Quinn, Jr.
+                    12100 Sunset Hills Road, Suite 330
+                    Reston, VA 20190
+                    Phone:  (703) 525-7500
+                    Facsimile:  (703) 525-2840
+
+                    [Addresses of other Sellers included in Exhibit A hereto]
+
+                    Copy to:
+
+                    Robert Horner, Esq.
+                    4907 Lytfield Drive
+                    Dublin, OH 43017
+                    Phone:  (614) 717-9599
+
+          10.11     Severability.
+
+          If any provision of this  Agreement is invalid or  unenforceable,  the
+balance of this Agreement shall remain in effect.
+
+          10.12     Binding Effect; Assignment.
+
+          This  Agreement  shall be binding upon and inure to the benefit of the
+parties and their respective  successors and permitted assigns.  Nothing in this
+Agreement shall create or be deemed to create any third party beneficiary rights
+in any person or entity not a party to this Agreement  except as provided below.
+No assignment of this Agreement or of any rights or obligations hereunder may be
+made by either the Sellers or the  Purchaser  (by operation of law or otherwise)
+without the prior written  consent of the other parties hereto and any attempted
+assignment without the required consents shall be void; provided,  however, that
+the  Purchaser may assign this  Agreement  and any or all rights or  obligations
+hereunder (including, without limitation, the Purchaser's rights to purchase the
+Shares and the  Purchaser's  rights to seek  indemnification  hereunder)  to any
+affiliate of the Purchaser.  Upon any such permitted assignment,  the references
+in this Agreement to the Purchaser  shall also apply to any such assignee unless
+the context otherwise requires.
+
+                  [REMAINDER OF PAGE INTENTIONALLY LEFT BLANK]
+
+
+
+
+                                       34
+<PAGE>
+         IN WITNESS WHEREOF, the undersigned have caused this Stock Purchase
+Agreement to be duly executed by their respective authorized signatories as of
+the date first indicated above.
+
+
+                                            SCIENCE DYNAMICS CORPORATION
+
+
+                                            By:  /s/ Alan Bashforth
+                                                 ------------------
+                                                     Alan Bashforth,
+                                                     Chief Executive Officer
+
+                                            SYSTEMS MANAGEMENT ENGINEERING, INC.
+
+
+                                            By:  /s/ Herbert B. Quinn, Jr.
+                                                 ------------------------
+                                                     Herbert B. Quinn, Jr.
+                                                     Chief Executive Officer
+
+
+
+
+<PAGE>
+                                    EXHIBIT A
+                             SELLER SIGNATURE PAGES
+
+
+         IN WITNESS WHEREOF, the undersigned have caused this Stock Purchase
+Agreement to be duly executed by their respective authorized signatories as of
+the date first indicated above.
+
+
+
+Signature of Seller: /s/ Herbert B. Quinn, Jr.
+                     -------------------------
+Print name:              Herbert B. Quinn, Jr.
+No. of Shares
+(Including Shares issuable upon exercise of options): 1,682,500
+Address for Notice:        3157 North 19th Street
+                           Arlington, Virginia 22201
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                      A-1
+<PAGE>
+         IN WITNESS WHEREOF, the undersigned have caused this Stock Purchase
+Agreement to be duly executed by their respective authorized signatories as of
+the date first indicated above.
+
+
+
+Signature of Seller: /s/ Eric D. Zelsdorf
+                     --------------------
+Print name:              Eric D. Zelsdorf
+No. of Shares
+(Including Shares issuable upon exercise of options): 1,575,000
+Address for Notice:        19778 Evergreen Mills Rd.
+                           Leesburg, VA 20175
+
+
+
+
+
+
+
+                                      A-2
+<PAGE>
+
+         IN WITNESS WHEREOF, the undersigned have caused this Stock Purchase
+Agreement to be duly executed by their respective authorized signatories as of
+the date first indicated above.
+
+
+
+Signature of Seller: /s/ Elizabeth L. Quinn
+                     ----------------------
+Print name:              Elizabeth L. Quinn
+No. of Shares
+(Including Shares issuable upon exercise of options): 100,000
+Address for Notice:        3157 North 19th Street
+                           Arlington, Virginia 22201
+
+
+
+
+
+
+
+
+
+                                      A-3
+<PAGE>
+         IN WITNESS WHEREOF, the undersigned have caused this Stock Purchase
+Agreement to be duly executed by their respective authorized signatories as of
+the date first indicated above.
+
+
+
+Signature of Seller: /s/ Barbara Schipper
+                     -------------------
+Print name:              Barbara Schipper
+No. of Shares
+(Including Shares issuable upon exercise of options): 115,000
+Address for Notice:        1645 Bentana Way
+                           Reston, Virginia 20190-4906
+
+
+
+
+
+
+
+
+
+
+
+
+                                      A-4
+<PAGE>
+         IN WITNESS WHEREOF, the undersigned have caused this Stock Purchase
+Agreement to be duly executed by their respective authorized signatories as of
+the date first indicated above.
+
+
+
+Signature of Seller: /s/ Ellwood H. Witt, Jr.
+                     ------------------------
+Print name:              Ellwood H. Witt, Jr.
+No. of Shares
+(Including Shares issuable upon exercise of options): 350,000
+Address for Notice:        10409 Towlston Road
+                           Fairfax, Virginia 22030
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                      A-5
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

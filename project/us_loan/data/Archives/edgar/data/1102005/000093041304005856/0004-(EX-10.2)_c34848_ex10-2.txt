@@ -1,0 +1,922 @@
+
+
+                                                                    EXHIBIT 10.2
+
+                 SOLUTION(S) & PRODUCT(S) DEVELOPMENT AGREEMENT
+
+
+              THIS AGREEMENT is made this ___ day of July, 2004 ("Effective
+Date") by and between HALOCOM INC. A DELAWARE CORPORATION WITH ITS PRINCIPAL
+PLACE OF BUSINESS AT 14505 TORREY CHASE BLVD., SUITE 400A, HOUSTON, TEXAS 77014
+(HaloCom), and iGate Inc., an Indiana corporation with its principal place of
+business at 4350 Brownsboro Road, Suite 110, Louisville, KY 40207 ("iGate").
+
+              WHEREAS, iGate has agreed to develop a Technical Solution and
+Product Package, also known as "the Packages" of high-speed data transport over
+power lines for both low voltage system, and medium voltage system respectfully;
+and
+
+              WHEREAS, HaloCom intends to use the iGate Technical Solution and
+Product Package of high-speed data transport over power lines in its business
+operations, as defined herein;
+
+              NOW THEREFORE, in consideration of the mutual covenants and
+conditions set forth below, the parties hereto agree as follows:
+
+1.     DEFINITIONS.
+
+              The following terms shall have the indicated meanings:
+
+       1.1.   "AFFILIATE" of a party shall mean any person, partnership,
+              corporation or other business entity that, directly or indirectly,
+              owns or controls, is under common ownership or control with, or is
+              owned or controlled by such party, including any entity in which
+              such party owns more than twenty percent (20%) of the equity or
+              voting securities.
+
+       1.2.   "CONFIDENTIAL INFORMATION" shall mean all ideas and information of
+              any kind which relate to the disclosing party's technology,
+              know-how, technical data, products, software, works of authorship,
+              assets, operations, contractual relationships, plans or any other
+              aspects of its business which are disclosed or made available by
+              either party hereto to the other pursuant to the provisions
+              hereof, and which are identified or marked as confidential or
+              proprietary by the disclosing party, or if disclosed orally, which
+              are reduced to a written listing or summary marked as confidential
+              or proprietary by the disclosing party within two (2) weeks of
+              such oral disclosure. Without limiting the generality of the
+              foregoing, HaloCom acknowledges that information relating to or
+              comprising the Licensed Products or the Documentation, or
+              disclosed to HaloCom by iGate pursuant to Article 3 hereof, shall
+              be the Confidential Information of iGate.
+
+       1.3.   "TECHNICAL SOLUTION AND PRODUCT PACKAGE" or "the Packages" shall
+              mean all patents, drawings, parts lists, firmware, engineering
+              changes notices, design notes and all such data needed to
+              implement the solution and service(s) to be delivered
+
+<PAGE>
+
+
+              by the product(s). This iGate technology and solution shall
+              include all local area network for simultaneous, bi-directional
+              transmission of video bandwidth signals technology owned by iGate,
+              whether patented or unpatented, including but not limited to the
+              inventions set forth in U.S. patent Nos. 5,537,142 and 6,240,554.
+
+       1.4    "APPLICATION OF PRODUCT" means HoloCom's deployment of the Package
+              for its own service or its customer's service execution.
+
+       1.5    "CONTRACT TERM" shall have the meaning set forth in Section 8.1
+              herein.
+
+       1.6    "TERRITORY" means that the geographical territory covered by this
+              agreement is global, which is all countries, including the United
+              States of America.
+
+       1.7    "iGate TECHNOLOGY" means all technologies and know-how including
+              but not limited to hardware and software which are used for the
+              Package. All information and ideas presented to HaloCom with or
+              without documentation.
+
+       1.8    "HALOCOM TECHNOLOGY" means all knowledge, findings and know-how
+              generated through field application of the Package or its own
+              business execution using the Package by HaloCom, which is not yet
+              materialized or patented by iGate. However, Any technology which
+              is common sense or general practice of the industry shall not be
+              HaloCom's technology.
+
+2.     RIGHTS TO BE GRANTED
+
+       2.1.   GRANT FROM iGate. On the terms and subject to the conditions set
+              forth herein, iGate hereby grants to HaloCom a non-exclusive right
+              to use, market, sell, install, maintain and repair the Technical
+              Solution and Product Package of Power Lines Communication.
+
+       2.2.   CERTAIN LICENSE LIMITATIONS
+
+              2.2.1. HaloCom shall not have the right, directly or indirectly,
+                     to sublicense any or all rights hereunder without the prior
+                     written consent of iGate.
+
+3.     DELIVERY OF THE TECHNICAL SOLUTION AND PRODUCT PACKAGE AND GENERAL
+       CO-OPERATION.
+
+       3.1.   DELIVERY OF THE PACKAGE. As soon as practicable after the
+              Effective Date, but in any event within thirty (30) days
+              thereafter, iGate shall begin to create deliverables according to
+              the contents and schedule as outlined in Appendix 1.
+
+                                       2
+<PAGE>
+
+
+              Nonetheless, iGate shall keep rights to change and modify any
+              technical specifications shown in Appendix 1 during its
+              development process. These changes and modification shall be
+              informed to HaloCom in timely manner.
+
+3.2.   TECHNICAL ASSISTANCE
+
+       3.2.1  iGate hereby agrees to provide technical assistance on a
+              commercially reasonable basis, upon the request of HaloCom, the
+              scope and duration of such request to be provided in writing to
+              iGate. To the extent that iGate seeks compensation for such
+              assistance, the parties shall agree on a value for such assistance
+              and on the payment terms.
+
+3.3    TRAINING
+
+       3.3.1  As part of this product development agreement, iGate will provide
+              training and information for HaloCom's assigned work-force so that
+              the latter can have an understanding of its services/products,
+              applications, and other relevant procedures of the Power Line
+              Communications Technology developed by iGate for HaloCom. The
+              management of each party will each have the sole discretion to
+              determine the numbers, levels of skills of its personnel assigned
+              to HaloCom's program as stipulated in this agreement, and the type
+              of support resources it will make available. Expenses for training
+              program will be borne by the party incurring the expense unless
+              otherwise agreed.
+
+3.4    PROMOTION
+
+       3.4.1  iGate will provide support for HaloCom in its seminars, open
+              houses, public relations, events, press releases, testimonials,
+              demonstrations, trade shows, conventions, and conferences efforts
+              when appropriate. The content of all promotional
+              materials/activities by HaloCom will be subject to advance written
+              approval by iGate, insofar as their content to technology is
+              concerned.
+
+3.5    INSTALLATION AND MAINTENANCE OF PRODUCTS
+
+              iGate will help with HaloCom's installation and maintenance for
+              products sold as a result of activities associated with this
+              product and development agreement at iGate's standard prices, if
+              requested by HaloCom.
+
+3.6    DEMO AND TRIAL EQUIPMENT
+
+       3.6.1  iGate will provide the products to HaloCom or its prospective
+              customers be used temporarily in customer demonstrations and pilot
+              programs as part of its support process. These products will only
+              be available after completion of the final product development.
+
+                                       3
+<PAGE>
+
+
+       3.7    COLLATERAL MATERIALS
+
+              3.7.1  iGate will provide to HaloCom reasonable quantities of
+                     collateral materials, at no cost and as identified and
+                     agreed to by both party, as part of the customer support
+                     process.
+
+4.     FEE AND OTHER TERMS
+
+       4.1.   FEE. In partial consideration for the efforts to create the
+              Technical Solution and Product Package herein by iGate, HaloCom
+              agrees to pay to iGate a Fee as outlined in Appendix 2.
+
+       4.2.   CO-BRANDING. All products and systems within the Technical
+              Solution and Product Package, when delivered, shall bear on their
+              exterior an insignia provided to HaloCom by iGate.
+
+5.     REPRESENTATIONS.
+
+       5.1.   REPRESENTATION OF iGate. iGate hereby represents and warrants to
+              HaloCom as follows:
+
+              5.1.1  iGate is a corporation duly organized, validly existing and
+                     in good standing under the laws of the jurisdiction of its
+                     organization and has all requisite power and authority to
+                     enter into this Agreement, to perform its obligations
+                     hereunder, and to consummate the transactions contemplated
+                     hereby.
+
+              5.1.2  iGate has taken all corporate action necessary to authorize
+                     its execution and delivery of this Agreement, its
+                     performance of its obligations hereunder, and its
+                     consummation of the transactions contemplated hereby. This
+                     Agreement constitutes a valid and binding obligation of
+                     iGate, enforceable in accordance with its terms, subject to
+                     bankruptcy, reorganization, insolvency, moratorium, and
+                     similar laws affecting creditors' rights generally and to
+                     general principles of equity.
+
+              5.1.3  The execution and delivery by iGate of this Agreement, its
+                     consummation of the transactions contemplated hereby, and
+                     its compliance with the provisions hereof, will not (i)
+                     violate or conflict with its Certificate of Incorporation
+                     or By-Laws (ii) violate, conflict with, or give rise to any
+                     right of termination, cancellation, or acceleration under
+                     any agreement, lease, security, license, permit, or
+                     instrument to which iGate or any of its subsidiaries is a
+                     party, (iii) violate or conflict with any laws, rules, or
+                     regulations, or (iv) require any consent, approval or other
+                     action of, notice to, or filing with any entity or person
+                     (governmental or private).
+
+              5.1.4  There are no claims, judgments or settlements to be paid by
+                     iGate or pending claims or litigation relating to the
+                     Licensed Technology and Solution Package or the
+                     Documentation.
+
+
+                                       4
+<PAGE>
+
+
+              5.1.5  iGate has legal right, power and authority to enter into
+                     this Agreement and to grant all of the right, title and
+                     interest in and to the Technical Solution and Product
+                     Package and the Documentation granted herein, and has no
+                     other outstanding agreements or obligations inconsistent
+                     with the terms and provisions of this Agreement.
+
+              5.1.6  iGate will provide to HaloCom the intellectual property to
+                     any and all updates to the Technical Solution and Product
+                     Package as may be delivered during the term of this
+                     Agreement and at no additional charge to HaloCom.
+
+              5.1.7  EXCEPT AS EXPRESSLY PROVIDED IN THIS SECTION, iGate HEREBY
+                     DISCLAIMS ALL EXPRESS OR IMPLIED REPRESENTATIONS AND
+                     WARRANTIES INCLUDING BUT NOT LIMITED TO (A) ANY IMPLIED
+                     WARRANTY OF MERCHANT ABILITY OR FITNESS FOR A PARTICULAR
+                     PURPOSE, (B) ANY WARRANTY THAT HALOCOM'S RIGHTS IN THE
+                     TECHNICAL SOLUTION AND PRODUCT PACKAGE OR PATENTS ARE VALID
+                     AND ENFORCEABLE, AND (C) ANY WARRANTY AS TO
+                     NON-INFRINGEMENT OF THIRD PARTY INTELLECTUAL PROPERTY
+                     RIGHTS.
+
+       5.2.   REPRESENTATIONS OF HALOCOM. HaloCom hereby represents and warrants
+              to iGate as follows:
+
+              5.2.1  HaloCom is a corporation duly organized, validly existing
+                     and in good standing under the laws of the jurisdiction of
+                     its organization and has all requisite power and authority
+                     to enter into this Agreement, to perform its obligations
+                     hereunder, and to consummate the transactions contemplated
+                     hereby.
+
+              5.2.2  HaloCom has taken all corporate action necessary to
+                     authorize its execution and delivery of this Agreement, its
+                     performance of its obligations hereunder, and its
+                     consummation of the transactions contemplated hereby. This
+                     Agreement constitutes a valid, binding obligation of
+                     HaloCom, enforceable in accordance with its terms, subject
+                     to bankruptcy, reorganization, insolvency, moratorium, and
+                     similar laws affecting creditors' rights generally and to
+                     general principles of equity.
+
+              5.2.3  The execution and delivery by HaloCom of this Agreement,
+                     its consummation of the transactions contemplated hereby,
+                     and its compliance with the provisions hereof, will not (i)
+                     violate or conflict with its Certificate of Incorporation
+                     or By-laws, (ii) violate, conflict with, or give rise to
+                     any right of termination, cancellation, or acceleration
+                     under any agreement, lease, security, license, permit, or
+                     instrument to which HaloCom is a party, (iii) violate or
+                     conflict with any laws, rules, or regulations, or (iv)
+                     require any consent, approval or other action of, notice
+                     to, or filing with any entity or person (governmental or
+                     private).
+
+                                       5
+<PAGE>
+
+
+6.     CONFIDENTIAL INFORMATION/ACKNOWLEDGEMENT OF OWNERSHIP RIGHTS.
+
+       6.1    Ownership
+
+              6.1.1  HaloCom expressly acknowledges that iGate is the sole and
+                     exclusive owner of the Technical Solution and Product
+                     Package. Nothing in this agreement shall constitute the
+                     grant of a general license from iGate to use the Technical
+                     Solution and Product Package. HaloCom expressly covenants
+                     that it will not knowingly take any action, or omit to take
+                     any action, that impairs, infringes, injures, degrades or
+                     lessens in value of the Package. HaloCom also expressly
+                     covenants that it will not seek registration of any of the
+                     Package in its own name or in the name of any affiliate,
+                     and agrees that it will not at any time challenge, contest,
+                     or call into question the registration, validity, or
+                     enforceability of the Package.
+
+              6.1.2  iGate agrees that HaloCom shall be the owner of the
+                     specific agreed upon "HaloCom technology" developed as
+                     defined in section 1.8 under this agreement. HaloCom also
+                     expressly covenants that it will not seek registration of
+                     any other application without written agreement from iGate.
+
+       6.2    CONFIDENTIALITY OBLIGATION. Each party shall hold in confidence
+              any Confidential Information disclosed by the other or otherwise
+              obtained by such party as a result of activities contemplated by
+              this Agreement, and each party shall protect the confidentiality
+              thereof with the same degree of care that it exercises with
+              respect to its own information of a like nature, but in no event
+              less than reasonable care. Access to Confidential Information must
+              be restricted to the receiving party's employees or agents, who,
+              in each case, need to have access to carry out a permitted use and
+              are bound in writing to maintain the confidentiality of such
+              Confidential Information. The Confidential Information, and all
+              copies of part or all thereof, shall be and remain the exclusive
+              property of the disclosing party, and the receiving party shall
+              acquire only such rights as are expressly set forth under the
+              terms and conditions of this Agreement and only for so long as
+              such rights are in effect.
+
+              6.2.1  EXCEPTIONS. Notwithstanding any provisions contained herein
+                     concerning nondisclosure and non-use of the Confidential
+                     Information, the obligations shall not apply to any portion
+                     of the Confidential Information which the receiving party
+                     can demonstrate by legally sufficient evidence:
+
+                     6.2.1.1 now or hereafter, through no act or failure to act
+                             on the part of the receiving party, becomes
+                             generally known or available;
+
+                                       6
+<PAGE>
+
+
+                     6.2.1.2 is known to the receiving party at the time of
+                             receiving such Confidential Information without an
+                             obligation of Confidentiality;
+
+                     6.2.1.3 is hereafter furnished to the receiving party by a
+                             third party as a matter of right without
+                             restriction on disclosure;
+
+                     6.2.1.4 is independently developed by the receiving party
+                             without use of any Confidential Information
+                             received from the other; or
+
+                     6.2.1.5 is disclosed in response to a valid order of a
+                             court or other governmental body or any political
+                             subdivision thereof; provided, however, that the
+                             party making the disclosure pursuant to such an
+                             order shall promptly give notice to the other party
+                             and make a reasonable effort to obtain a protective
+                             order requiring that Confidential Information so
+                             disclosed by used only for the purposes for which
+                             the order was issued.
+
+7      INDEMNIFICATION.
+
+       7.1    INDEMNIFICATION. iGate indemnifies HaloCom for any patent,
+              copyright or trade secret infringement. iGate will defend at its
+              expense and indemnify HaloCom with respect to any action brought
+              against HaloCom to the extent that it is based on a breach of the
+              foregoing warranty, and iGate will pay any costs and damages
+              finally awarded against HaloCom, or any settlement finally paid
+              with the consent of iGate (which consent shall not be unreasonably
+              withheld) by HaloCom and reimburse HaloCom for attorney's fees
+              reasonably incurred in connection therewith, provided HaloCom
+              notifies iGate promptly in writing of such claim and allows iGate
+              to fully control the defense of such claim.
+
+              7.1.1  Should the Technical Solution and Product Package or any
+                     portion thereof become, or in iGate's opinion be likely to
+                     become the subject of any claim of infringement, iGate
+                     shall, at HaloCom option:
+
+                     7.1.1.1 produce for HaloCom the right to continue
+                             exercising its rights hereunder with respect to the
+                             Technical Solution and Product Package
+
+                     7.1.1.2 replace or modify the Technical Solution and
+                             Product Package to make it noninfringing, or
+
+       7.2    In the event of any patent, copyright or trade secret infringement
+              on the Technical Solution and Product Package by a third-party in
+              conjunction with the sale, manufacture or use of units in the
+              Technical Solution and Product Package, or any sublicense granted
+              under this Agreement, HaloCom agrees to indemnify iGate for any
+              actual and consequential damages resulting from such infringement
+              and to reimburse iGate for attorney's fees reasonably incurred in
+              connection therewith.
+
+                                       7
+<PAGE>
+
+
+              7.2.1  If HaloCom becomes aware of any such violation or suspected
+                     violation described above, HaloCom shall notify iGate of
+                     such event in sufficient detail and present iGate with a
+                     course of action to abate such violation. If such violation
+                     is not cured by the course of actions taken by HaloCom,
+                     iGate shall have the right to terminate this Agreement
+                     pursuant to Section 8.2.
+
+       7.3    LIMITATIONS. Subject to the representations by iGate in Section 5,
+              iGate shall not be liable for any incidental, indirect, special,
+              punitive, exemplary or consequential damages of any kind
+              whatsoever relating to, resulting form, arising out of, or
+              connected with the Technical Solution and Product Package, or this
+              Agreement, whether in contract or tort (including negligence) even
+              if iGate has been advised of or is or should be aware of the
+              possibility of such damages. In no event shall iGate's liability
+              to HaloCom exceed the actual amount of sums paid to iGate under
+              the Agreement.
+
+8      TERMINATION.
+
+       8.1    CONTRACT TERM. This Agreement shall continue in full force and
+              effect from the Effective Date until otherwise terminated by
+              mutual agreement of the parties hereto or pursuant to Section 8.2
+              below ("Contract Term").
+
+       8.2    TERMINATION BY EITHER PARTY. Notwithstanding anything herein to
+              the contrary, each party shall have the right, in addition and
+              without prejudice to any other rights or remedies, to terminate
+              this Agreement if:
+
+              8.2.1  the other party fails to pay any sum of money when due
+                     hereunder or commits any material breach of the terms
+                     hereof, which, in the case of a breach capable of remedy,
+                     shall not have been remedied within ten (10) days in the
+                     case of non-payment, or thirty (30) days in the event of
+                     any other breach, of the receipt by the party in default of
+                     notice specifying the breach and requiring its remedy; or
+
+              8.2.2  the other party (1) has filed a petition in bankruptcy or
+                     insolvency; (2) any adjudication that the other party is
+                     bankrupt or insolvent; (3) filing of any petition or answer
+                     seeking reorganization, readjustment or arrangement of its
+                     business under any law relating to bankruptcy or
+                     insolvency; (4) the appointment of a receiver for all or
+                     substantially all of the property of the other party; (5)
+                     the making of any assignment for the benefit of creditors;
+                     (6) the  institution of any proceedings for the liquidation
+                     or winding up of  business  or for the  termination  of its
+                     corporate charter.
+
+              8.2.3  either party shall have the right to terminate this
+                     agreement without cause after 24 months of the effective
+                     date of the agreement.
+
+                                       8
+<PAGE>
+
+
+       8.3    EFFECT OF TERMINATION. Notwithstanding anything herein to the
+              contrary, upon the termination of this Agreement, the provisions
+              of Article 6 shall survive such termination and continue in full
+              force and effect.
+
+9      MISCELLANEOUS.
+
+       9.1    GOVERNING LAW. This Agreement shall be governed by and construed
+              in accordance with the laws of the State of Kentucky without
+              reference to its choice of law principles. Any dispute arising
+              hereunder or concerning any transaction contemplated hereby shall
+              be resolved by submission to arbitration as provided by Laws of
+              Washington, D.C. and not by a lawsuit or other court proceedings.
+              In the event that either party hereto shall institute any action
+              to enforce any rights hereunder in the courts, the prevailing
+              party in such an action shall be entitled, in addition to relief
+              awarded by the court, to attorney's fees and litigation expenses
+              as the court may award. The only choice and venue of jurisdiction
+              by which an action may be brought in the court of law in the State
+              of Kentucky. Any dispute arising hereunder or concerning any
+              transaction contemplated hereby that cannot be resolved by
+              arbitration, will be proceed to be resolved in a state or federal
+              court located in such State, and each of the parties hereby agrees
+              to submit itself to the exclusive jurisdiction and venue of such
+              courts for such purposes, in this case, the State of Kentucky.
+
+       9.2    ATTORNEYS' FEES. In the event of any legal action to enforce the
+              terms and conditions of this Agreement, the prevailing party in
+              any such action shall be entitled to its costs and expenses,
+              including reasonably attorneys' fees, expended in enforcing its
+              rights hereunder.
+
+       9.3    EXPENSES. Both HaloCom and iGate are under no obligation or
+              requirement to reimburse each other any expenses relating to the
+              development, marketing or sale of the The Packages. Any costs and
+              expenses incurred by iGate and the HaloCom will their sole
+              responsibility.
+
+       9.4    PRODUCT(S) DEVELOPMENT WARRANTIES. iGate warrants that the product
+              development process shown in Appendix 1, for both low voltage and
+              medium voltage systems respectfully, for all categories of
+              hardware, and software as part of the OEM Packages, will be
+              achieved within the time line allotted, and will be free from
+              defects in materials, fitness for a particular purpose, and
+              workmanship under trial and normal use for a period of six months
+              from the date of sale to the end-user. HaloCom shall not pass this
+              warranty to the end-user. The exclusive remedy for the HaloCom for
+              the breach of the foregoing warranties will be to seek to have
+              iGate bring the completion the development of the OEM Packages, or
+              refund to a larger extent the development fee, stipulated in
+              Appendix 2, less expenses incurred by iGate for the project
+              development.
+
+       9.5    NO JOINT VENTURE. This agreement is not intended to create, nor
+              will it be construed as, a joint venture, association,
+              partnership, franchise or other form of business or relationship.
+              Neither party will have or hold itself out as having any
+
+                                       9
+<PAGE>
+
+
+              right or power or authority to assume, create, or incur any
+              expense, liability, expressed or implied, on behalf of the other
+              party, except as expressly provided herein.
+
+       9.6    FORCE MAJEURE. The failure of any party hereunder to perform any
+              obligation otherwise due (except for the payment of monies due
+              hereunder) as a result of governmental action, law, order or
+              regulation, or as a result of war, terrorism, act of public enemy,
+              strike or other labor disturbance, fire, flood, act of God or
+              other causes of like kind beyond the reasonable control of such
+              party, shall be excused for so long as said cause exists to the
+              extent such failure is caused by such event.
+
+       9.7    NOTICES. Any notices or other communications required or permitted
+              hereunder shall be sufficiently given, if delivered by hand, or
+              sent by certified mail, return receipt requested and
+              postage-prepaid, address as follows:
+
+                     If to HaloCom:     HaloComcom, Inc.
+                                        14505 Torrey Chase Blvd., #400A
+                                        Houston, Texas 77014.
+                                        Attn: Blaize Kaduru, President/CEO.
+
+                     If to iGate:       iGate, Inc.
+                                        433 Hackensack Ave, 4F
+                                        Hackensack, NJ 07601
+                                        Attn: B.K. Son, President & COO
+
+       9.8    SEVERABILITY. If any term or provision of this Agreement is found
+              to be invalid under any applicable statute or rule of law by a
+              court of competent jurisdiction then, that provision
+              notwithstanding, this Agreement shall remain in full force and
+              effect and such provision shall be deleted unless such a deletion
+              would frustrate the intent of the parties with respect to any
+              material aspect of the relationship established hereby, in which
+              case this Agreement shall terminate, with the consequences set
+              forth in Section 8.2.
+
+       9.9    ARBITRATION. Any and all disputes or controversies arising out of
+              or relating to this Agreement which cannot be resolved by the
+              parties shall be exclusively and definitively resolved by
+              arbitration in Washington, D.C. or via teleconference originating
+              anywhere within the United States mutually agreeable to both
+              parties. In no event shall the arbitrator(s) of any arbitration
+              conducted under this Section 9.6 be empowered to disregard the
+              intent of the provisions of this Agreement in
+
+                                       10
+<PAGE>
+
+
+              rendering a decision in such arbitration and any such decision
+              shall be set forth in writing and include the reasons and the
+              analysis in support of such decision. The arbitration award shall
+              be final and binding on all parties and judgment upon any such
+              decision may be entered in any court of competent jurisdiction.
+              The arbitrator(s) shall be entitled to assess attorneys' fees and
+              apportion arbitration costs in any arbitration decision.
+
+       9.10   ASSIGNMENT. This Agreement is not assignable, whether in
+              conjunction with a change in ownership, or the sale or transfer of
+              the whole or any part of a Party's business or assets, either
+              voluntarily, or by operation of law, or otherwise, without the
+              prior written consent of the other party. Such consent shall not
+              be unreasonably withheld.
+
+       9.11   ENTIRE AGREEMENT. This Agreement constitutes the entire
+              understanding between the parties with respect to the subject
+              matter hereof and supersedes all other negotiations, discussions
+              and memoranda, and any other letter or agreements relating to such
+              subject matter. This Agreement may not be amended, changes or
+              modified, except by a writing executed by the parties or their
+              respective permitted successors and assigns.
+
+       9.12   WAIVER. Any party to this Agreement may, by written notice to the
+              other party, waive any provision of this Agreement, the benefit of
+              which runs to the party executing the waiver. The waiver by any
+              party hereto of a breach of any provision of this Agreement shall
+              not operate or be construed as a waiver of any subsequent same or
+              different breach.
+
+       9.13   HEADINGS. Headings and other titles to articles and section of
+              this Agreement are solely for the convenience of reference and in
+              no way define or limit the scope or substance of any provision of
+              this Agreement.
+
+       9.14   PUBLICITY. Neither iGate nor HaloCom shall disclose the existence
+              of this Agreement, unless any proposed publication is approved in
+              writing by both parties prior to release.
+
+              IN WITNESS WHEREOF, the parties have executed this Agreement as of
+the date first written above.
+
+HaloComCom, INCORPORATED                iGATE, INCORPORATED
+
+
+By: /s/ Blaize N. Kaduru
+  -----------------------------------
+Name:  Blaize N. Kaduru
+Title: President/CEO
+
+                                        By: /s/ Vernon L. Jackson
+                                           -----------------------------
+                                        Name:  Vernon L. Jackson
+                                        Title: Chairman & CEO
+
+
+Date: 7/16/04                           Date: 7/23/04
+     --------------------------------        ----------------------------
+
+                                       11
+<PAGE>
+
+
+APPENDIX 1. CONTENTS AND SCHEDULE
+
+Hardware and Target Specifications (Preliminary)
+
+1.     LOW VOLTAGE SYSTEM
+
+                               [GRAPHIC OMITTED]
+
+- --------------------------------------- ----------------------------------------
+Product ID (Temporary)                  iBPL Gateway Router (iBGR)
+- --------------------------------------- ----------------------------------------
+Description                             Support up to 16~25 CPEs. (Optional
+                                        consideration: modular extendable
+                                        function)
+
+                                        Mountable to power pole nearby a
+                                        transformer, distribution panel of multi
+                                        dwelling unit and other applicable site
+                                        VoIP ready (with optional VoIP
+                                        equipment)
+
+                                        -Connection to the local backbone
+- --------------------------------------- ----------------------------------------
+
+                                       12
+<PAGE>
+
+
+- --------------------------------------- ----------------------------------------
+Target Specification                    Data rate: 14Mbps~25Mbps
+
+                                        Reach: Up to 2,000 feet~2,500 feet
+
+                                        -DMT (Discrete Multi Tone) Modulation,
+                                        Adaptive bit loading for each sub
+                                        channel
+
+                                        Multiple Access: CSMA/CA
+
+                                        -5~ 10 repeaters support
+- --------------------------------------- ----------------------------------------
+
+- --------------------------------------- ----------------------------------------
+Product ID (Temporary)                       iBPL CPE
+- --------------------------------------- ----------------------------------------
+Description                             Instant access to the Internet and/ or
+                                        to home network by power outlet Each
+                                        with individual encryption key Packet
+                                        based data communication Ready for value
+                                        added service including VoIP, Video
+                                        conferencing, VOD and Security
+                                        monitoring.
+
+                                        -Support standard hub and router
+
+- --------------------------------------- ----------------------------------------
+Target Specification                    Max. data rate: 14Mbps~25Mbps
+
+                                        Practical average data rate: 2Mbps~4Mbps
+
+                                        Reach: Up to 2,000 feet~2,500 feet
+
+                                        Channel specific adaptive bit loading
+
+                                        Forward error correction: Convolution
+                                        and RS codes with Interleave
+
+                                        -Individual encryption
+
+                                        -USB
+
+                                        -Plug & Play with Windows(R)
+
+- --------------------------------------- ----------------------------------------
+
+- --------------------------------------- ----------------------------------------
+        PRODUCT ID (TEMPORARY)          iBPL Signal Repeater
+- --------------------------------------- ----------------------------------------
+Description                             Relay frames between iBPL router and CPE
+
+                                        Automatic detection of existing iBPL
+                                        device
+
+                                        - Easy and simple installation
+
+- --------------------------------------- ----------------------------------------
+Target Specification                    Data rate: 14Mbps~25Mbps
+
+                                        Reach: Up to 2,000 feet~2,500 feet 5~10
+                                        repeaters per iBPL router
+
+                                        Channel specific adaptive bit loading
+
+                                        Forward error correction: Convolution
+                                        and RS codes with Interleave
+
+                                        - Support other repeaters at the level
+                                        below
+
+- --------------------------------------- ----------------------------------------
+
+                                       13
+<PAGE>
+
+
+- --------------------------------------- ----------------------------------------
+Configuration                           [GRAPHIC OMITTED]
+
+- --------------------------------------- ----------------------------------------
+
+
+- --------------------------------------- ----------------------------------------
+        PRODUCT ID (TEMPORARY)          iBPL Low Voltage Coupler
+- --------------------------------------- ----------------------------------------
+Description                             Inject BPL signals into 110V power line
+
+                                        Support 4 subscribers per each
+
+                                        - Extendable
+
+- --------------------------------------- ----------------------------------------
+Target Specification                    - to be determined
+
+- --------------------------------------- ----------------------------------------
+
+- --------------------------------------- ----------------------------------------
+       PRODUCT ID (TEMPORARY)           iBPL Low Voltage Network Management
+                                        Server and Software
+
+- --------------------------------------- ----------------------------------------
+Description
+
+                                        Monitoring and management of network
+
+                                        Basic remote operation (Power reset)
+
+                                        SNMP and/or MIB II compatible
+
+                                        - Subscriber registration and activity
+                                        monitoring
+
+- --------------------------------------- ----------------------------------------
+Target Specification                    - TBD
+- --------------------------------------- ----------------------------------------
+
+                                       14
+<PAGE>
+
+
+2.     MID. VOLTAGE SYSTEM
+
+                               [GRAPHIC OMITTED]
+
+
+* UNTIL THE COMPLETION OF MID. VOLTAGE SYSTEM, IGATE WILL PROVIDE AN ALTERNATIVE
+   SOLUTION WITH ITS LONG RANGE SWITCH (MODEL: IB4244) FOR CONNECTIONS WITHIN
+                          2.7 MILES IN EACH DIRECTION.
+
+
+
+                       MID. VOLTAGE SYSTEM CONFIGURATION
+
+- --------------------------------------- ----------------------------------------
+         PRODUCT ID (TEMPORARY)         iBPL Mid. Voltage Bridge
+- --------------------------------------- ----------------------------------------
+Description                             Inject broadband signals into 22kV power
+                                        line
+
+                                        Support local iBPL Gateway Router
+
+                                        -Insulation resistance
+
+- --------------------------------------- ----------------------------------------
+Target Specification                    TBD
+Configuration
+- --------------------------------------- ----------------------------------------
+
+- --------------------------------------- ----------------------------------------
+         PRODUCT ID (TEMPORARY)         iBPL Mid. Voltage Signal Repeater
+
+- --------------------------------------- ----------------------------------------
+Description                             Relay frames between iBPL Mid Voltage
+- --------------------------------------- ----------------------------------------
+
+                                       15
+<PAGE>
+
+
+- --------------------------------------- ----------------------------------------
+
+                                        Bridge and the Bridge Slave via 22kV
+                                        power line
+
+                                        Automatic detection of existing iBPL
+                                        device
+
+                                        Easy and simple installation
+
+                                        - Pass the broadband to iBPL Gateway
+                                        Router
+
+- --------------------------------------- ----------------------------------------
+Target Specification                    TBD
+Configuration
+- --------------------------------------- ----------------------------------------
+
+- --------------------------------------- ----------------------------------------
+         PRODUCT ID (TEMPORARY)         iBPL Mid. Voltage Bridge Slave
+- --------------------------------------- ----------------------------------------
+Description                             Get broadband signal from iBPL Mid
+                                        Voltage Bridge or the Repeater.
+
+                                        - Pass the broadband to iBPL Gateway
+                                        Router
+
+- --------------------------------------- ----------------------------------------
+Target Specification
+Configuration                           TBD
+- --------------------------------------- ----------------------------------------
+
+- --------------------------------------- ----------------------------------------
+         PRODUCT ID (TEMPORARY)         iBPL Mid. Voltage Coupler
+- --------------------------------------- ----------------------------------------
+Description                             Inject BPL signals into 22kV power line
+
+                                        Safe against dielectric breakdown
+
+                                        Multiple bonded ceramic structure
+
+                                        -Insulation resistance
+
+- --------------------------------------- ----------------------------------------
+Target Specification                    Frequency: 1MHz ~ 30MHz
+Configuration
+                                        Signal loss: less than 3dB
+
+                                        Rating: 22.9kV
+
+                                        - Drain coil inductance: 1mH, M-class
+- --------------------------------------- ----------------------------------------
+
+                                       16
+<PAGE>
+
+
+APPENDIX 2. FEE AND PAYMENT SCHEDULE
+
+
+- ------------------------------------ -------------- ----------------------------
+Low Voltage System                          8/1/04                 $   200,000
+                                     -------------- ----------------------------
+                                            9/1/04                 $   200,000
+                                     -------------- ----------------------------
+                                           10/1/04                 $   150,000
+                                     -------------- ----------------------------
+                                           11/1/04                 $   150,000
+- ------------------------------------ -------------- ----------------------------
+Sub Total (Low Voltage System)                                     $   700,000
+- ------------------------------------ -------------- ----------------------------
+
+- ------------------------------------ -------------- ----------------------------
+Mid Voltage System**                        2/1/05                 $   100,000
+                                     -------------- ----------------------------
+*Built on Low Voltage System                3/1/05                 $   100,000
+                                     -------------- ----------------------------
+                                            4/1/05                 $   100,000
+                                     -------------- ----------------------------
+                                            5/1/05                 $   100,000
+                                     -------------- ----------------------------
+                                            6/1/05                 $   100,000
+- ------------------------------------ -------------- ----------------------------
+Sub Total (Mid Voltage System)                                     $   500,000
+- ------------------------------------ -------------- ----------------------------
+** Optional
+
+
+
+                               [GRAPHIC OMITTED]
+
+                                       17
+

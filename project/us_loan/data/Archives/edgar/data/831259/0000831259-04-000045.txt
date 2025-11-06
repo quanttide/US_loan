@@ -1,0 +1,396 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ L3CgaePFDpaOR/khy3Uonbq9ovTQNWYTvPT4KU9yvKwsU91/LYSirvt8Fbpml64J
+ J1GenWxPJaTZEKmAMtVegQ==
+
+<SEC-DOCUMENT>0000831259-04-000045.txt : 20041230
+<SEC-HEADER>0000831259-04-000045.hdr.sgml : 20041230
+<ACCEPTANCE-DATETIME>20041230122050
+ACCESSION NUMBER:		0000831259-04-000045
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		4
+CONFORMED PERIOD OF REPORT:	20041230
+ITEM INFORMATION:		Entry into a Material Definitive Agreement
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20041230
+DATE AS OF CHANGE:		20041230
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			FREEPORT MCMORAN COPPER & GOLD INC
+		CENTRAL INDEX KEY:			0000831259
+		STANDARD INDUSTRIAL CLASSIFICATION:	METAL MINING [1000]
+		IRS NUMBER:				742480931
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-11307-01
+		FILM NUMBER:		041233097
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1615 POYDRAS ST
+		CITY:			NEW ORLEANS
+		STATE:			LA
+		ZIP:			70112
+		BUSINESS PHONE:		5045824000
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	FREEPORT MCMORAN COPPER COMPANY INC
+		DATE OF NAME CHANGE:	19910114
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>f123004fcx8k.htm
+<TEXT>
+<!doctype html public "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<TITLE>UNITED STATES</TITLE>
+<META NAME="author" CONTENT="Jones Walker">
+<META NAME="date" CONTENT="12/29/2004">
+</HEAD>
+<BODY style="line-height:12pt; font-size:10pt; color:#000000">
+<P style="margin:0pt; font-family:Arial" align=center><BR></P>
+<P style="margin:0pt; font-family:Arial" align=center><BR></P>
+<P style="margin:0pt; font-family:Arial" align=center><BR></P>
+<P style="margin:0pt; font-family:Arial" align=center><BR></P>
+<P style="margin:0pt; font-family:Arial" align=center><BR></P>
+<P style="margin:0pt; font-family:Arial" align=center>UNITED STATES</P>
+<P style="margin:0pt; font-family:Arial" align=center>SECURITIES AND EXCHANGE COMMISSION</P>
+<P style="margin:0pt; font-family:Arial" align=center>Washington, D.C. &nbsp;20549</P>
+<P style="margin:0pt; font-family:Arial" align=center><BR></P>
+<P style="margin:0pt; font-family:Arial" align=center>FORM 8-K</P>
+<P style="margin:0pt; font-family:Arial" align=center><BR></P>
+<P style="margin:0pt; font-family:Arial" align=center>CURRENT REPORT</P>
+<P style="margin:0pt; font-family:Arial" align=center>Pursuant to Section 13 OR 15(d) of The Securities Exchange Act of 1934</P>
+<P style="margin:0pt; font-family:Arial" align=center><BR></P>
+<P style="margin:0pt; font-family:Arial" align=center><BR></P>
+<P style="margin:0pt; font-family:Arial" align=center><BR></P>
+<P style="margin:0pt; font-family:Arial" align=center>Date of Report (Date of earliest event reported): &nbsp;December 30, 2004</P>
+<P style="margin:0pt; font-family:Arial" align=center><BR></P>
+<P style="margin:0pt; font-family:Arial" align=center><BR></P>
+<P style="margin:0pt; font-family:Arial" align=center><BR></P>
+<P style="margin:0pt; font-family:Arial" align=center>FREEPORT-McMoRan COPPER &amp; GOLD INC.</P>
+<P style="margin:0pt; font-family:Arial" align=center><BR></P>
+<P style="margin:0pt; font-family:Arial" align=center><BR></P>
+<P style="margin-top:0pt; margin-bottom:-12pt; padding-left:36pt; text-indent:36pt; font-family:Arial">Delaware</P>
+<P style="margin-top:0pt; margin-bottom:-12pt; padding-left:36pt; text-indent:180pt; font-family:Arial">1-9916</P>
+<P style="margin:0pt; padding-left:36pt; text-indent:324pt; font-family:Arial">74-2480931</P>
+<P style="margin:0pt; font-family:Arial" align=center><BR></P>
+<P style="margin-top:0pt; margin-bottom:-12pt; padding-left:36pt; text-indent:36pt; font-family:Arial">(State or other</P>
+<P style="margin-top:0pt; margin-bottom:-12pt; padding-left:36pt; text-indent:180pt; font-family:Arial">(Commission</P>
+<P style="margin:0pt; padding-left:36pt; text-indent:324pt; font-family:Arial">(IRS Employer</P>
+<P style="margin-top:0pt; margin-bottom:-12pt; padding-left:36pt; text-indent:36pt; font-family:Arial">jurisdiction of</P>
+<P style="margin-top:0pt; margin-bottom:-12pt; padding-left:36pt; text-indent:180pt; font-family:Arial">File Number)</P>
+<P style="margin:0pt; padding-left:36pt; text-indent:324pt; font-family:Arial">Identification</P>
+<P style="margin-top:0pt; margin-bottom:-12pt; padding-left:36pt; text-indent:36pt; font-family:Arial">incorporation)</P>
+<P style="margin:0pt; padding-left:36pt; text-indent:324pt; font-family:Arial">Number)</P>
+<P style="margin:0pt; font-family:Arial" align=center><BR></P>
+<P style="margin:0pt; font-family:Arial" align=center><BR></P>
+<P style="margin:0pt; font-family:Arial" align=center>1615 Poydras Street</P>
+<P style="margin:0pt; font-family:Arial" align=center>New Orleans, Louisiana &nbsp;70112</P>
+<P style="margin:0pt; font-family:Arial" align=center><BR></P>
+<P style="margin:0pt; font-family:Arial" align=center>Registrant's telephone number, including area code: &nbsp;(504) 582-4000</P>
+<P style="margin:0pt; font-family:Arial; font-size:9pt" align=center><BR></P>
+<P style="margin:0pt; font-family:Arial; font-size:9pt" align=center><BR></P>
+<P style="margin:0pt; line-height:11pt; font-family:Arial; font-size:9pt">Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:</P>
+<P style="margin:0pt; font-family:Arial; font-size:9pt"><BR></P>
+<P style="margin:0pt; line-height:11pt; font-family:Arial; font-size:9pt">[ ] Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)</P>
+<P style="margin:0pt; font-family:Arial; font-size:9pt"><BR></P>
+<P style="margin:0pt; line-height:11pt; font-family:Arial; font-size:9pt">[ ] Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)</P>
+<P style="margin:0pt; font-family:Arial; font-size:9pt"><BR></P>
+<P style="margin:0pt; line-height:11pt; font-family:Arial; font-size:9pt">[ ] Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))</P>
+<P style="margin:0pt; font-family:Arial; font-size:9pt"><BR></P>
+<P style="margin:0pt; line-height:11pt; font-family:Arial; font-size:9pt">[ ] Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))</P>
+<P style="margin:0pt; font-family:Arial; font-size:9pt"><BR></P>
+<P style="margin:0pt; font-family:Arial; font-size:9pt"><BR></P>
+<P style="margin:0pt; font-family:Arial; font-size:9pt"><BR></P>
+<P style="margin:0pt; padding-left:72pt; text-indent:-72pt; font-family:Arial; font-size:12pt" align=justify><BR></P>
+<P style="margin:0pt; padding-left:72pt; text-indent:-72pt; font-family:Arial; font-size:12pt" align=justify><BR></P>
+<P style="margin:0pt; padding-left:72pt; text-indent:-72pt; font-family:Arial" align=justify>Item 1.01. &nbsp;<U>Entry into a Material Definitive Agreement.</U></P>
+<P style="margin:0pt; font-family:Arial"><BR></P>
+<P style="margin:0pt; font-family:Arial">FM Services Company (FM Services), a wholly owned subsidiary of Freeport-McMoRan Copper &amp; Gold Inc. (FCX) entered into a supplemental consulting agreement with J. Bennett Johnston, Jr. &nbsp;This supplemental agreement renews the consulting agreement previously entered into with Mr. Johnston for an additional one-year period beginning January 1, 2005, and ending December 31, 2005. &nbsp;All terms and conditions of Mr. Johnston&#146;s original consulting agreement remain unchanged. &nbsp;Mr. Johnston is a director of FCX.</P>
+<P style="margin:0pt; font-family:Arial"><BR></P>
+<P style="margin:0pt; font-family:Arial">FM Services also entered into a supplemental consulting agreement with Kissinger Associates, Inc. and Kent Associates Inc., which renews the agreements previously entered into with Kissinger Associates, Inc. and Kent Associates Inc. for an additional one-year period beginning January 1, 2005, and ending December 31, 2005. &nbsp;All terms and conditions of the original agreements remain unchanged. &nbsp;J. Stapleton Roy, managing director of Kissinger Associates, Inc., is an advisory director of FCX.</P>
+<P style="margin:0pt; font-family:Arial"><BR></P>
+<P style="margin:0pt; font-family:Arial">FM Services also entered into a supplemental consulting agreement with Gabrielle K. McDonald, which renews the consulting agreement previously entered into with Judge McDonald for an additional one-year period beginning January 1, 2005, and ending December 31, 2005. &nbsp;All terms and conditions of Judge McDonald&#146;s original consulting agreement remain unchanged. &nbsp;Judge McDonald is an advisory director of FCX.</P>
+<P style="margin:0pt; font-family:Arial"><BR></P>
+<P style="margin:0pt; font-family:Arial">Item 9.01. &nbsp;<U>Financial Statements and Exhibits.</U></P>
+<P style="margin:0pt; font-family:Arial"><BR></P>
+<P style="margin-top:0pt; margin-bottom:-12pt; font-family:Arial">(c)</P>
+<P style="margin:0pt; text-indent:36pt; font-family:Arial">Exhibits.</P>
+<P style="margin:0pt; font-family:Arial"><BR></P>
+<P style="margin:0pt; font-family:Arial">The Exhibits included as part of this Current Report are listed in the attached Exhibit Index.</P>
+<BR>
+<BR>
+<BR>
+<BR>
+<P style="margin:0pt; font-family:Arial"><BR></P>
+<P style="margin:0pt; font-family:Arial" align=center><BR></P>
+<P style="margin:0pt; font-family:Arial" align=center><BR></P>
+<P style="margin:0pt; font-family:Arial" align=center>SIGNATURE</P>
+<P style="margin:0pt; font-family:Arial" align=justify><BR></P>
+<P style="margin:0pt; font-family:Arial" align=justify><BR></P>
+<P style="margin:0pt; text-indent:36pt; font-family:Arial">Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.</P>
+<P style="margin:0pt; font-family:Arial" align=justify><BR></P>
+<P style="margin:0pt; text-indent:216pt; font-family:Arial" align=justify>FREEPORT-McMoRan COPPER &amp; GOLD INC.</P>
+<P style="margin:0pt; font-family:Arial" align=justify><BR></P>
+<P style="margin:0pt; font-family:Arial" align=justify><BR></P>
+<P style="margin:0pt; text-indent:216pt; font-family:Arial" align=justify>By: \s\ C. Donald Whitmire, Jr.</P>
+<P style="margin:0pt; text-indent:229.5pt; font-family:Arial" align=justify>----------------------------------------</P>
+<P style="margin:0pt; text-indent:247.5pt; font-family:Arial" align=justify>C. Donald Whitmire, Jr.</P>
+<P style="margin:0pt; text-indent:247.5pt; font-family:Arial" align=justify>Vice President and Controller -</P>
+<P style="margin:0pt; text-indent:247.5pt; font-family:Arial" align=justify>Financial Reporting</P>
+<P style="margin:0pt; text-indent:247.5pt; font-family:Arial" align=justify>(authorized signatory and</P>
+<P style="margin:0pt; text-indent:247.5pt; font-family:Arial" align=justify>Principal Accounting Officer)</P>
+<P style="margin:0pt; font-family:Arial" align=justify><BR></P>
+<P style="margin:0pt; font-family:Arial" align=justify>Date: &nbsp;December 30, 2004</P>
+<P style="margin:0pt; font-family:Arial; font-size:12pt" align=justify><BR></P>
+<BR>
+<BR>
+<BR>
+<BR>
+<P style="margin:0pt; font-family:Arial; font-size:9pt" align=center><BR></P>
+<P style="margin:0pt; font-family:Arial; font-size:9pt" align=center><BR></P>
+<P style="margin:0pt; font-family:Arial; font-size:9pt" align=center><BR></P>
+<P style="margin:0pt; font-family:Arial" align=center>FREEPORT-McMoRan COPPER &amp; GOLD INC.</P>
+<P style="margin:0pt; font-family:Arial" align=center>Exhibit Index</P>
+<P style="margin:0pt; font-family:Arial; font-size:12pt" align=center><BR></P>
+<P style="margin:0pt; font-family:Arial">Exhibit</P>
+<P style="margin:0pt; font-family:Arial"><U>Number</U></P>
+<P style="margin:0pt; font-family:Arial"><BR></P>
+<TABLE cellspacing=0><TR><TD valign=top width=38.4><P style="margin:0pt; font-family:Arial">
+  <font size="2">10.1</font></P>
+</TD><TD valign=top width=19.2>&nbsp;</TD><TD valign=top width=595.2><P style="margin:0pt; font-family:Arial">
+  <font size="2">Supplemental Consulting Agreement between FM Services Company and J. Bennett Johnston, Jr. effective as of January 1, 2005.</font></P>
+</TD></TR>
+<TR><TD valign=top width=38.4>&nbsp;</TD><TD valign=top width=19.2>&nbsp;</TD><TD valign=top width=595.2>&nbsp;</TD></TR>
+<TR><TD valign=top width=38.4><P style="margin:0pt; font-family:Arial">
+  <font size="2">10.2</font></P>
+</TD><TD valign=top width=19.2>&nbsp;</TD><TD valign=top width=595.2><P style="margin:0pt; font-family:Arial">
+  <font size="2">Supplemental Consulting Agreement between FM Services Company, Kissinger Associates, Inc. and Kent Associates Inc. effective as of January 1, 2005.</font></P>
+</TD></TR>
+<TR><TD valign=top width=38.4>&nbsp;</TD><TD valign=top width=19.2>&nbsp;</TD><TD valign=top width=595.2>&nbsp;</TD></TR>
+<TR><TD valign=top width=38.4><P style="margin:0pt; font-family:Arial">
+  <font size="2">10.3</font></P>
+</TD><TD valign=top width=19.2>&nbsp;</TD><TD valign=top width=595.2><P style="margin:0pt; font-family:Arial">
+  <font size="2">Supplemental Consulting Agreement between FM Services Company and Gabrielle K. McDonald effective as of January 1, 2005.</font></P>
+</TD></TR>
+</TABLE>
+<P style="margin:0pt; font-family:Arial; font-size:9pt"><BR></P>
+<BR>
+<BR>
+<BR>
+<BR>
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10
+<SEQUENCE>2
+<FILENAME>f123004exhibit101.htm
+<TEXT>
+<!doctype html public "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<TITLE>Exhibit 10</TITLE>
+<META NAME="date" CONTENT="12/29/2004">
+</HEAD>
+<BODY style="line-height:12pt; font-size:10pt; color:#000000">
+<BR>
+<BR>
+<P style="margin:0pt; line-height:14pt; font-family:Times New Roman; font-size:12pt" align=right><U>Exhibit 10.1</U></P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<P style="margin:0pt; line-height:14pt; font-family:Times New Roman; font-size:12pt" align=center>[FM Services Company Letterhead]</P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<P style="margin:0pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">September 28, 2004</P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<P style="margin:0pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">Mr. J. Bennett Johnston, Jr.</P>
+<P style="margin:0pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">1317 Merrie Ridge Road</P>
+<P style="margin:0pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">McLean, Virginia 22101</P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<P style="margin:0pt; line-height:14pt; font-family:Times New Roman; font-size:12pt" align=center><B>Supplemental Agreement Providing an Extension to the</B></P>
+<P style="margin:0pt; line-height:14pt; font-family:Times New Roman; font-size:12pt" align=center><B>Consulting Agreement of January 7, 1997</B></P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<P style="margin:0pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">Dear Mr. Johnston:</P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<P style="margin:0pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">This Supplemental Agreement refers to the consulting agreement of January 7, 1997 (The &#147;Consulting Agreement&#148;) with the undersigned, FM Services Company (The &#147;Company&#148;), with respect to your performance of consulting services for FM Services and its subsidiaries and affiliates (collectively with FM Services, the &#147;Freeport Entities&#148;).</P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<P style="margin:0pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">By way of this Supplemental Agreement, the Company would like to extend your Consulting Agreement from January 1, 2005 through December 31, 2005.</P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<P style="margin:0pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">Please confirm that the foregoing correctly sets forth your understanding with respect to this matter by signing both originals of this Supplemental Agreement and returning one to me.</P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<P style="margin:0pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">Very truly yours,</P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<P style="margin:0pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">/s/ Richard C. Adkerson </P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<P style="margin:0pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">Richard C. Adkerson</P>
+<P style="margin:0pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">Chairman of the Board and President</P>
+<P style="margin:0pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">FM Services Company</P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<P style="margin:0pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">AGREED TO AND ACCEPTED:</P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<P style="margin-top:0pt; margin-bottom:-14pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">BY:</P>
+<P style="margin-top:0pt; margin-bottom:-14pt; text-indent:36pt; line-height:14pt; font-family:Times New Roman; font-size:12pt"><U>/s/ J. Bennett Johnston, Jr.</U></P>
+<P style="margin:0pt; text-indent:180pt; font-family:Times New Roman; font-size:12pt"><U><BR></U></P>
+<P style="margin:0pt; text-indent:36pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">J. Bennett Johnston, Jr.</P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<P style="margin-top:0pt; margin-bottom:-14pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">DATE:</P>
+<U><P style="margin-top:0pt; margin-bottom:-14pt; text-indent:72pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">October 12, 2004</U></P>
+<P style="margin:0pt; text-indent:180pt; font-family:Times New Roman; font-size:12pt"><U><BR></U></P>
+<BR>
+<BR>
+<BR>
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10
+<SEQUENCE>3
+<FILENAME>f123004exhibit102.htm
+<TEXT>
+<!doctype html public "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<TITLE><U>Exhibit 10</TITLE>
+<META NAME="date" CONTENT="12/29/2004">
+</HEAD>
+<BODY style="line-height:12pt; font-size:10pt; color:#000000">
+<BR>
+<BR>
+<P style="margin:0pt; line-height:14pt; font-family:Times New Roman; font-size:12pt" align=right><U>Exhibit 10.2</U></P>
+<P style="margin:0pt; line-height:14pt; font-family:Times New Roman; font-size:12pt" align=center>[FM Services Company Letterhead]</P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<P style="margin:0pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">September 28, 2004</P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<P style="margin:0pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">Dr. Henry A. Kissinger</P>
+<P style="margin:0pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">350 Park Avenue</P>
+<P style="margin:0pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">New York, NY &nbsp;10022</P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<P style="margin:0pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">Dear Dr. Kissinger:</P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<P style="margin:0pt; line-height:14pt; font-family:Times New Roman; font-size:12pt" align=center><B>Supplemental Agreement Providing an Extension to</B></P>
+<P style="margin:0pt; line-height:14pt; font-family:Times New Roman; font-size:12pt" align=center><B>Consulting Agreement of May 1, 1989</B></P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<P style="margin:0pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">The purpose of this letter is to confirm the automatic renewal of your Consulting Agreement with FM Services. &nbsp;Your contracts under both Kissinger Associates, Inc. dated December 22, 1998, as amended and Kent Associates Inc. dated May 1, 1989, as amended are considered renewed.</P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<P style="margin:0pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">Each Agreement renews for an additional one-year period beginning January 1, 2005 and ending December 31, 2005. &nbsp;All other terms and conditions of the Agreements as amended between you and FM Services shall remain the same.</P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<P style="margin:0pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">Please confirm that the foregoing correctly sets forth your understanding with respect to this matter by signing both originals of this Supplemental Agreement and returning one to me.</P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<P style="margin:0pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">Very truly yours,</P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<P style="margin:0pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">/s/ Richard C. Adkerson </P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<P style="margin:0pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">Richard C. Adkerson</P>
+<P style="margin:0pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">Chairman of the Board and President</P>
+<P style="margin:0pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">FM Services Company</P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<P style="margin:0pt; line-height:14pt; font-family:Times New Roman; font-size:12pt"><B>AGREED TO AND ACCEPTED:</B></P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<P style="margin-top:0pt; margin-bottom:-14pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">BY: &nbsp;</P>
+<U><P style="margin-top:0pt; margin-bottom:-14pt; text-indent:72pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">/s/ Henry A. Kissinger</U></P>
+<U><P style="margin:0pt; text-indent:252pt; font-family:Times New Roman; font-size:12pt"><BR></U></P>
+<P style="margin:0pt; text-indent:72pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">Dr. Henry A. Kissinger</P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<P style="margin-top:0pt; margin-bottom:-14pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">DATE: &nbsp;</P>
+<P style="margin-top:0pt; margin-bottom:-14pt; text-indent:72pt; line-height:14pt; font-family:Times New Roman; font-size:12pt"><U>October 12, 2004</U></P>
+<U><P style="margin:0pt; text-indent:252pt; font-family:Times New Roman; font-size:12pt"><BR></U></P>
+<BR>
+<BR>
+<BR>
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10
+<SEQUENCE>4
+<FILENAME>f123004exhibit103.htm
+<TEXT>
+<!doctype html public "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<TITLE><U>Exhibit 10</TITLE>
+<META NAME="date" CONTENT="12/29/2004">
+</HEAD>
+<BODY style="line-height:12pt; font-size:10pt; color:#000000">
+<BR>
+<BR>
+<P style="margin:0pt; line-height:14pt; font-family:Times New Roman; font-size:12pt" align=right><U>Exhibit 10.3</U></P>
+<P style="margin:0pt; line-height:14pt; font-family:Times New Roman; font-size:12pt" align=center>[FM Services Company Letterhead]</P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<P style="margin:0pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">December 8, 2004</P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<P style="margin:0pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">The Honorable Gabrielle K. McDonald</P>
+<P style="margin:0pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">2001 Holcombe Boulevard, #3201</P>
+<P style="margin:0pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">Houston, Texas &nbsp;77030</P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<P style="margin:0pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">Dear Judge McDonald:</P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<P style="margin:0pt; line-height:14pt; font-family:Times New Roman; font-size:12pt" align=center><B>Supplemental Agreement to</B></P>
+<P style="margin:0pt; line-height:14pt; font-family:Times New Roman; font-size:12pt" align=center><B>Consulting Agreement of November 1, 1999</B></P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt" align=center><BR></P>
+<P style="margin:0pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">This Supplemental Agreement refers to the consulting agreement of November 1, 1999 (the &#147;Consulting Agreement&#148;), with the undersigned, FM Services Company (the &#147;Company&#148;), with respect to your performance of consulting services for the Company and its subsidiaries and affiliates.</P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<P style="margin:0pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">By way of this Supplemental Agreement, the Company would like to extend your Consulting Agreement from January 1, 2005 through December 31, 2005. &nbsp;All other terms and conditions of the Consulting Agreement shall remain unchanged.</P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<P style="margin:0pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">Please confirm that the foregoing correctly sets forth your understanding with respect to this matter by signing both originals of this Supplemental Agreement and returning one to me.</P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<P style="margin:0pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">Very truly yours,</P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<P style="margin:0pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">/s/ Richard C. Adkerson </P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<P style="margin:0pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">Richard C. Adkerson</P>
+<P style="margin:0pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">Chairman of the Board and President</P>
+<P style="margin:0pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">FM Services Company</P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<P style="margin:0pt; line-height:14pt; font-family:Times New Roman; font-size:12pt"><B>AGREED TO AND ACCEPTED:</B></P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<P style="margin-top:0pt; margin-bottom:-14pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">BY: &nbsp;</P>
+<U><P style="margin-top:0pt; margin-bottom:-14pt; text-indent:72pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">/s/ Gabrielle K. McDonald</U></P>
+<U><P style="margin:0pt; text-indent:252pt; font-family:Times New Roman; font-size:12pt"><BR></U></P>
+<P style="margin:0pt; text-indent:36pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">The Honorable Gabrielle K. McDonald</P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<P style="margin-top:0pt; margin-bottom:-14pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">DATE: &nbsp;</P>
+<P style="margin-top:0pt; margin-bottom:-14pt; text-indent:72pt; line-height:14pt; font-family:Times New Roman; font-size:12pt"><U>December 9, 2004</U></P>
+<U><P style="margin:0pt; text-indent:252pt; font-family:Times New Roman; font-size:12pt"><BR></U></P>
+<BR>
+<BR>
+<BR>
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

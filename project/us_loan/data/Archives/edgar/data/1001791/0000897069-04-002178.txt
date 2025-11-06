@@ -1,0 +1,532 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ KwKjqI64nCbcBQfpweJLHsEYPnuCb6ByX3wfQGPu5rvqi2C7qJgtagEblbFfmZVf
+ kSbRBFaCmoDgc++EQkEcag==
+
+<SEC-DOCUMENT>0000897069-04-002178.txt : 20041222
+<SEC-HEADER>0000897069-04-002178.hdr.sgml : 20041222
+<ACCEPTANCE-DATETIME>20041222135422
+ACCESSION NUMBER:		0000897069-04-002178
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20041222
+ITEM INFORMATION:		Other Events
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20041222
+DATE AS OF CHANGE:		20041222
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			RIDGESTONE FINANCIAL SERVICES INC
+		CENTRAL INDEX KEY:			0001001791
+		STANDARD INDUSTRIAL CLASSIFICATION:	STATE COMMERCIAL BANKS [6022]
+		IRS NUMBER:				391797151
+		STATE OF INCORPORATION:			WI
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-27984
+		FILM NUMBER:		041220121
+
+	BUSINESS ADDRESS:	
+		STREET 1:		13925 W NORTH AVE
+		CITY:			BROOKFIELD
+		STATE:			WI
+		ZIP:			53005
+		BUSINESS PHONE:		2627891011
+
+	MAIL ADDRESS:	
+		STREET 1:		13925 W NORTH AVE
+		CITY:			BROOKFIELD
+		STATE:			WI
+		ZIP:			53005
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>cmw1093.htm
+<DESCRIPTION>CURRENT REPORT
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>
+</TITLE>
+</HEAD>
+<BODY>
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center-TNR" FSL="Project" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>UNITED STATES
+<BR>SECURITIES AND EXCHANGE COMMISSION <BR>Washington, D.C. 20549  </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Center Rule" FSL="Default" -->
+     <P ALIGN=CENTER>_________________ </P>
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center-TNR" FSL="Project" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=3>FORM 8-K </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center-TNR" FSL="Project" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>CURRENT REPORT </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center-TNR" FSL="Project" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Pursuant to Section 13
+or 15(d) of <BR>the Securities Exchange Act of 1934  </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Center Rule" FSL="Default" -->
+     <P ALIGN=CENTER>_________________ </P>
+
+
+<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 WIDTH=50% align=center>
+<TR VALIGN=Bottom>
+     <TD WIDTH=55% ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Date of Report</FONT></TD>
+     <TD WIDTH=45% ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>(Date of earliest</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>event reported):</FONT></TD>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>December 22, 2004</FONT></TD></TR>
+</TABLE>
+<BR>
+
+<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 WIDTH=100%>
+<TR VALIGN=Bottom>
+     <TD ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Ridgestone Financial Services, Inc.</FONT><HR SIZE=1 WIDTH=30% COLOR=BLACK NOSHADE></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>(Exact name of registrant as specified in its charter)</FONT></TD></TR>
+</TABLE>
+<BR>
+
+
+<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 WIDTH=100%>
+<TR VALIGN=Bottom>
+     <TD WIDTH=34% ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Wisconsin</FONT><HR SIZE=1 WIDTH=30% COLOR=BLACK NOSHADE></TD>
+     <TD WIDTH=33% ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>0-27984</FONT><HR SIZE=1 WIDTH=30% COLOR=BLACK NOSHADE></TD>
+     <TD WIDTH=33% ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>39-1797151</FONT><HR SIZE=1 WIDTH=30% COLOR=BLACK NOSHADE></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>(State or other</FONT></TD>
+     <TD ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>(Commission File</FONT></TD>
+     <TD ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>(IRS Employer</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>jurisdiction of</FONT></TD>
+     <TD ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Number)</FONT></TD>
+     <TD ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Identification No.)</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>incorporation)</FONT></TD></TR>
+</TABLE>
+<BR>
+
+<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 WIDTH=100%>
+<TR VALIGN=Bottom>
+     <TD ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>13925 West North Avenue, Brookfield, Wisconsin 53005</FONT><HR SIZE=1 WIDTH=40% COLOR=BLACK NOSHADE></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>(Address of principal executive offices, including zip code)</FONT></TD></TR>
+</TABLE>
+<BR>
+
+<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 WIDTH=100%>
+<TR VALIGN=Bottom>
+     <TD ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>(262) 789-1011</FONT><HR SIZE=1 WIDTH=20% COLOR=BLACK NOSHADE></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>(Registrant's telephone number, including area code)</FONT></TD></TR>
+</TABLE>
+<BR>
+
+<!-- MARKER FORMAT-SHEET="Center Rule" FSL="Default" -->
+     <P ALIGN=CENTER>_________________ </P>
+
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Project" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Check the appropriate box below if
+the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the
+registrant under any of the following provisions: </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Hang Lv 0-TNR" FSL="Project" -->
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0 BORDER=0>
+<TR VALIGN=TOP>
+<TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>[_] </FONT></TD>
+<TD WIDTH=95%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Written
+communications pursuant to Rule 425 under the Securities Act (17 CFR           230.425) </FONT></TD>
+</TR>
+</TABLE>
+
+
+<!-- MARKER FORMAT-SHEET="Para Hang Lv 0-TNR" FSL="Project" -->
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0 BORDER=0>
+<TR VALIGN=TOP>
+<TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>[_] </FONT></TD>
+<TD WIDTH=95%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Soliciting
+material pursuant to Rule 14a-12 under the Exchange Act (17 CFR           240.14a-12) </FONT></TD>
+</TR>
+</TABLE>
+
+
+<!-- MARKER FORMAT-SHEET="Para Hang Lv 0-TNR" FSL="Project" -->
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0 BORDER=0>
+<TR VALIGN=TOP>
+<TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>[_] </FONT></TD>
+<TD WIDTH=95%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Pre-commencement
+communications pursuant to Rule 14d-2(b) under the Exchange Act           (17 CFR
+240.14d-2(b)) </FONT></TD>
+</TR>
+</TABLE>
+
+
+<!-- MARKER FORMAT-SHEET="Para Hang Lv 0-TNR" FSL="Project" -->
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0 BORDER=0>
+<TR VALIGN=TOP>
+<TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>[_] </FONT></TD>
+<TD WIDTH=95%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Pre-commencement
+communications pursuant to Rule 13e-4(c) under the Exchange Act           (17 CFR
+240.13e-4(c)) </FONT></TD>
+</TR>
+</TABLE>
+<BR>
+
+
+
+
+<!-- *************************************************************************** -->
+<!-- MARKER PAGE="sheet: 3; page: 3" -->
+<HR SIZE=5 COLOR=GRAY NOSHADE>
+
+<!-- MARKER FORMAT-SHEET="Head Major Left Bold-TNR" FSL="Project" -->
+<H1 ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Item 8.01.&nbsp;&nbsp;&nbsp;&nbsp;Other Events. </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Para Large Indent Lv 0-TNR" FSL="Project" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On
+December 22, 2004, Ridgestone Financial Services, Inc. (the &#147;Company&#148;) issued a
+press release announcing the decision of its Board of Directors to file Form 15 with the
+Securities and Exchange Commission (the &#147;SEC&#148;) on or about March 7, 2005, to
+terminate the registration of its Common Stock under the Securities Exchange Act of 1934,
+as amended. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Large Indent Lv 0-TNR" FSL="Project" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A
+copy of the press release is filed as Exhibit 99 to this Current Report on Form 8-K
+and is incorporated herein by reference. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Major Left Bold-TNR" FSL="Project" -->
+<H1 ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Item 9.01.&nbsp;&nbsp;&nbsp;&nbsp;Financial
+Statements and Exhibits. </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Para Hang Lv 1-TNR" FSL="Project" -->
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0 BORDER=0>
+<TR VALIGN=TOP>
+<TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>(a)</FONT></TD>
+<TD WIDTH=90%><FONT FACE="Times New Roman, Times, Serif" SIZE=2><U>Financial
+Statements of Businesses Acquired</U>. Not applicable. </FONT></TD>
+</TR>
+</TABLE>
+<BR>
+
+<!-- MARKER FORMAT-SHEET="Para Hang Lv 1-TNR" FSL="Project" -->
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0 BORDER=0>
+<TR VALIGN=TOP>
+<TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>(b)</FONT></TD>
+<TD WIDTH=90%><FONT FACE="Times New Roman, Times, Serif" SIZE=2><U>Pro
+Forma Financial Information</U>. Not applicable. </FONT></TD>
+</TR>
+</TABLE>
+<BR>
+
+<!-- MARKER FORMAT-SHEET="Para Hang Lv 1-TNR" FSL="Project" -->
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0 BORDER=0>
+<TR VALIGN=TOP>
+<TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>(c)</FONT></TD>
+<TD WIDTH=90%><FONT FACE="Times New Roman, Times, Serif" SIZE=2><U>Exhibits</U>: </FONT></TD>
+</TR>
+</TABLE>
+<BR>
+
+<!-- MARKER FORMAT-SHEET="Para Hang Lv 2-TNR" FSL="Project" -->
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0 BORDER=0>
+<TR VALIGN=TOP>
+<TD WIDTH=10%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>(99)</FONT></TD>
+<TD WIDTH=85%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Press
+Release of Ridgestone Financial Services, Inc., dated December 22, 2004.  </FONT></TD>
+</TR>
+</TABLE>
+<BR>
+
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+
+
+<!-- MARKER FORMAT-SHEET="Page Number Center" FSL="Project" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>-2- </FONT></P>
+
+<!-- MARKER PAGE="sheet: 1; page: 1" -->
+<HR SIZE=5 COLOR=GRAY NOSHADE>
+
+
+
+<!-- MARKER FORMAT-SHEET="Head Center Underline-TNR" FSL="Project" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2><U>SIGNATURES</U></FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Large Indent Lv 0-TNR" FSL="Default" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pursuant
+to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused
+this report to be signed on its behalf by the undersigned hereunto duly authorized. </FONT></P>
+
+
+<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 WIDTH=100%>
+<TR VALIGN=Bottom>
+     <TD WIDTH=50% ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2></FONT></TD>
+     <TD WIDTH=50% ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>RIDGESTONE FINANCIAL SERVICES, INC.</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2><BR><BR>Date:&nbsp;&nbsp;December 22, 2004</FONT></TD>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>By:&nbsp;&nbsp;<U>/s/ Christine V. Lake</U></FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2></FONT></TD>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Christine V. Lake</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2></FONT></TD>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>President and</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2></FONT></TD>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Chief Operating Officer</FONT></TD></TR>
+</TABLE>
+
+
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+
+<BR>
+<BR>
+<BR>
+<BR>
+
+
+<!-- MARKER FORMAT-SHEET="Page Number Center" FSL="Project" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>-3- </FONT></P>
+
+
+
+
+<!-- MARKER PAGE="sheet: 2; page: 2" -->
+<HR SIZE=5 COLOR=GRAY NOSHADE>
+
+
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center-TNR" FSL="Project" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>RIDGESTONE FINANCIAL
+SERVICES, INC. <BR>FORM 8-K <BR>EXHIBIT INDEX </FONT></P>
+
+<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 WIDTH=100%>
+<TR VALIGN=Bottom>
+     <TD WIDTH=10% ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Exhibit <BR><U>Number</U></FONT></TD>
+     <TD WIDTH=90% ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<U>Description</U></FONT></TD></TR>
+</TABLE>
+<BR>
+
+<!-- MARKER FORMAT-SHEET="Para Hang Lv 0-TNR" FSL="Project" -->
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0 BORDER=0>
+<TR VALIGN=TOP>
+<TD WIDTH=10% align=center><FONT FACE="Times New Roman, Times, Serif" SIZE=2>(99) </FONT></TD>
+<TD WIDTH=90%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Press
+Release of Ridgestone Financial Services, Inc., dated December 22, 2004. </FONT></TD>
+</TR>
+</TABLE>
+<BR>
+
+
+
+
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+
+
+<!-- MARKER FORMAT-SHEET="Page Number Center" FSL="Project" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>-4- </FONT></P>
+
+
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>2
+<FILENAME>cmw1093a.htm
+<DESCRIPTION>PRESS RELEASE
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>
+</TITLE>
+</HEAD>
+<BODY>
+
+<!-- MARKER FORMAT-SHEET="Head Major Left Bold-TNR" FSL="Project" -->
+<H1 ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>FOR IMMEDIATE RELEASE </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Head Major Left Bold-TNR" FSL="Project" -->
+<H1 ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Ridgestone Financial
+Services, Inc.<BR>13925 W. North Avenue<BR>Brookfield, Wisconsin 53005<BR>Telephone: (262)
+789-1011<BR>Contact: Paul E. Menzel, Chairman  </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold-TNR" FSL="Project" -->
+<H1 ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>RIDGESTONE FINANCIAL
+SERVICES, INC. ANNOUNCES INTENTION TO DEREGISTER <BR>COMMON STOCK WITH THE SECURITIES
+AND EXCHANGE COMMISSION  </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Project" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2><B>Brookfield, Wisconsin, December
+22, 2004 </B>&#150; Ridgestone Financial Services, Inc. (OTC: RFSV) today announced that
+it intends to file a Form 15 with the Securities and Exchange Commission (the
+&#147;SEC&#148;) on or about March 7, 2005 to deregister its Common Stock under the
+Securities Exchange Act of 1934, as amended (the &#147;Exchange Act&#148;). The
+Company expects that deregistration of its Common Stock will become effective 90 days
+after the date of filing of the Form 15 with the SEC. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Project" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Upon filing of the Form 15, the
+Company&#146;s obligation to file with the SEC certain reports and forms, including Forms
+10-KSB, 10-QSB and 8-K, will immediately be suspended. In addition, following the filing
+of the Form 15, the Company&#146;s Common Stock will cease to be quoted on the OTC
+Bulletin Board. The Company anticipates that its Common Stock will thereafter continue to
+be quoted on the Pink Sheets electronic quotation service, but only to the extent that
+market makers continue to make a market in the Common Stock. The Company can provide no
+assurance that trading on the Pink Sheets will continue. The Pink Sheets is an electronic
+quotation service through which participating broker-dealers can make markets, and enter
+orders to buy and sell securities. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Project" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Paul E. Menzel, Chairman of the
+Board, stated, &#147;After careful consideration of a variety of issues and factors, our
+Board of Directors has determined that continued registration with the SEC is no longer
+cost effective because of the significant increase in costs and administrative burdens
+associated with being a public company, particularly in light of the rules and regulations
+promulgated under the Sarbanes-Oxley Act of 2002. As a small company, we have not enjoyed
+many of the benefits traditionally associated with being a public company. Deregistration
+will enable management to focus more of its time and resources on implementing the
+Company&#146;s business plan and to concentrate its efforts on increasing long-term value
+for our shareholders.&#148; Menzel also said, &#147;We have decided to publicly announce
+our intention to deregister well in advance of actually doing so, in order to provide our
+shareholders with an opportunity to realize liquidity on the OTC Bulletin Board for an
+additional period of time. While we intend to take efforts to maintain quotation of our
+Common Stock on the Pink Sheets, we cannot be assured that we will be able to do so.&#148; </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Project" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Notwithstanding the Company&#146;s
+decision to deregister, the Company intends to continue hold annual meetings and to
+provide its shareholders and the interested public with unaudited financial information on
+a quarterly basis and audited financial statements on an annual basis while its Common
+Stock is quoted on the Pink Sheets. The Company also intends to update its shareholders
+with information about the Company through mailings and/or press releases. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Project" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Ridgestone Financial Services, Inc.
+is a bank holding company in Brookfield, Wisconsin. The Company is the parent company of
+RidgeStone Bank, a community bank with two locations. The Company&#146;s stock is traded
+in the over-the-counter market and quoted on the OTC Bulletin Board under the symbol RFSV. </FONT></P>
+
+
+<!-- MARKER FORMAT-SHEET="Page Number Center" FSL="Project" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Page 1 of 2 </FONT></P>
+
+<!-- *************************************************************************** -->
+<!-- MARKER PAGE="sheet: 3; page: 3" -->
+<HR SIZE=5 COLOR=GRAY NOSHADE>
+
+<!-- MARKER FORMAT-SHEET="Head Major Left Bold-TNR" FSL="Project" -->
+<H1 ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>FOR IMMEDIATE RELEASE </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Head Major Left Bold-TNR" FSL="Project" -->
+<H1 ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Ridgestone Financial
+Services, Inc.<BR>13925 W. North Avenue<BR>Brookfield, Wisconsin 53005<BR>Telephone: (262)
+789-1011<BR>Contact: Paul E. Menzel, Chairman  </FONT></H1>
+
+
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Project" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2><U>Note Regarding Forward-Looking
+Statements</U>  <BR>Certain matters discussed in this press release are &#147;forward-looking
+statements&#148; intended to qualify for the safe harbors from liability established by
+the Private Securities Litigation Reform Act of 1995. These forward-looking statements
+can generally be identified as such because the context of the statement will include
+words such as the Company &#147;believes,&#148; &#147;anticipates,&#148; &#147;expects,&#148; or
+other words of similar import. Similarly, statements that describe the Company&#146;s
+future plans, objectives, goals, and performance or operating expectations are also
+forward-looking statements. Such forward-looking statements are subject to certain risks
+and uncertainties which could cause actual results to differ materially from those
+contemplated in the forward-looking statements. Such risks include, among others (i)
+unanticipated issues that could prevent the Company from deregistering its Common Stock;
+(ii) failure to have at least one market maker continue to make a market in the Company&#146;s
+Common Stock on the Pink Sheets following deregistration; (iii) becoming subject to the
+Exchange Act in the future due to the filing of a registration statement by the Company
+pursuant to the Securities Act of 1933 or there being a significant increase in
+shareholders of record of the Common Stock at some point in the future; and (iv) economic
+factors, legislative enactments or regulatory changes which adversely affect the business
+of the Company and/or RidgeStone Bank. Shareholders, potential investors and other
+readers are urged to consider these factors in evaluating the forward-looking statements.
+The forward-looking statements included herein are only made as of the date of this press
+release and the Company undertakes no obligation to publicly update such forward-looking
+statements to reflect subsequent events or circumstances.  </FONT></P>
+
+
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+
+<BR>
+<BR>
+
+
+<!-- MARKER FORMAT-SHEET="Page Number Center" FSL="Project" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Page 2 of 2 </FONT></P>
+
+
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

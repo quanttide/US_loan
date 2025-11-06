@@ -1,0 +1,1334 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ IXesYxDnMSYMCJ0aeDyFwNAZv2/MhDFPFfrZRWtmiH9ezlAwnB+p1icTzmhY3OzM
+ SnFgXVCsWKg/3v1Xc5AVwQ==
+
+<SEC-DOCUMENT>0000950123-04-015308.txt : 20041228
+<SEC-HEADER>0000950123-04-015308.hdr.sgml : 20041228
+<ACCEPTANCE-DATETIME>20041228172715
+ACCESSION NUMBER:		0000950123-04-015308
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20041213
+ITEM INFORMATION:		Other Events
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20041228
+DATE AS OF CHANGE:		20041228
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			DVI RECEIVABLES CORP VIII DVI RECEIVABLES X LLC
+		CENTRAL INDEX KEY:			0001282098
+		STANDARD INDUSTRIAL CLASSIFICATION:	ASSET-BACKED SECURITIES [6189]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-74901-05
+		FILM NUMBER:		041229169
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2500 YORK PARK
+		CITY:			JAMISON
+		STATE:			PA
+		ZIP:			18929
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>y04213be8vk.txt
+<DESCRIPTION>8-K
+<TEXT>
+<PAGE>
+
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+
+                         -------------------------------
+
+                                    FORM 8-K
+
+                                 CURRENT REPORT
+     PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+       Date of Report (Date of Earliest Event Reported): December 13, 2004
+
+                            DVI Receivables X, L.L.C.
+- --------------------------------------------------------------------------------
+             (Exact Name of Registrant as Specified in Its Charter)
+
+         DELAWARE                    333-74901-05               23-3006238
+- --------------------------------------------------------------------------------
+      (State or Other                (Commission              (IRS Employer
+Jurisdiction of Incorporation)       File Number)         Identification Number)
+
+                    29 DALEY CIRCLE, MARLBOROUGH MA, 01752
+
+       Registrant's Telephone Number, Including Area Code: (508) 460-1585
+
+                      2500 YORK ROAD, JAMISON, PA 18929
+- --------------------------------------------------------------------------------
+          (Former Name or Former Address, if Changed Since Last Report)
+
+Check the appropriate box below if the Form 8-K filing is intended to
+simultaneously satisfy the filing obligation of the registrant under any of the
+following provision:
+
+[ ]   Written communications pursuant to Rule 425 under the Securities Act (17
+      CFR 230.425)
+
+[ ]   Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17
+      CFR 240.14a-12)
+
+[ ]   Pre-commencement communications pursuant to Rule 14d-2(b) under the
+      Exchange Act (17 CFR 240.14d-2(b))
+
+[ ]   Pre-commencement communications pursuant to Rule 13e-4(c) under the
+      Exchange Act (17 CFR 240.13e-4(c))
+
+<PAGE>
+
+Item 8.01 Other Events
+
+On December 9, 2004, Lyon Financial Services d/b/a US Bancorp Portfolio Services
+("USBPS") as servicer, made available to U.S. Bank National Association (the
+"Trustee"), as trustee for the noteholders of DVI Receivables X, L.L.C., the
+servicer report for the payment date December 13, 2004 attached hereto as
+Exhibit 99.1 (the "December Report").
+
+USBPS has certified to the December Report. The December Report has not been
+approved by any third party, including the Trustee.
+
+Item 9. Financial Statements and Exhibits
+
+      (a)   Exhibits
+
+            99.1  -  DVI Receivables X, L.L.C. 1999-2 Servicer Report for the
+                     Payment Date December 13, 2004.
+
+<PAGE>
+
+                                   SIGNATURES
+
+            Pursuant to the requirements of the Securities Exchange Act of 1934,
+the registrant has duly caused this report to be signed on its behalf by the
+undersigned hereunto duly authorized.
+
+                                                DVI Receivables X, L.L.C.,
+                                                by its Managing Member,
+                                                DVI Receivables Corp. VIII
+
+                                                By: /s/ Dennis Buckley
+                                                    ----------------------------
+                                                    Dennis Buckley
+                                                    Vice President
+
+Dated: December 28, 2004
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>y04213bexv99w1.txt
+<DESCRIPTION>SERVICER REPORT
+<TEXT>
+<PAGE>
+
+                                                                    EXHIBIT 99.1
+
+                        DVI Receivables X, L.L.C. 1999-2
+                                 SERVICER REPORT
+                              For the Payment Date
+                                December 13, 2004
+
+<TABLE>
+<S>                                                                                     <C>              <C>
+I.  RECONCILIATION OF COLLECTION ACCOUNT:
+End of Period Collection Account Balance as of Prior Payment Date:                      $            -
+Available Funds:
+      Contract payments received in this period                                         $   742,276.83
+      Sales, Use and Property Tax, Maintenance, Late Charges                            $    59,431.51
+      Prepayment Amount related to early termination in this period                     $   169,603.84
+      Servicer Advance                                                                  $            -
+      Proceeds received from recoveries on previously Defaulted Contracts               $    12,265.00
+      Proceeds on closed accounts (Chargeoffs/Settlements)                              $    13,016.89
+      Transfer from Reserve Account                                                     $            -
+      Interest Earned on Collection Account                                             $       924.00
+      Interest Earned on CSA Reserve Account                                            $       232.02
+      Funds allocated from the CSA Reserve Account                                      $            -
+      Amounts paid per Contribution & Servicing Agreement Section 7.01 - Substitution   $            -
+      Amounts paid under Insurance Policies                                             $            -
+      Any other amounts                                                                 $            -
+                                                                                        --------------
+      Total Available Funds                                                             $   997,750.09
+      Less Amounts to be Retained in Collection Account                                 $            -
+                                                                                        --------------
+      AMOUNT TO BE DISTRIBUTED IN CURRENT MONTH                                         $   997,750.09
+                                                                                        ==============
+
+      DISTRIBUTION OF FUNDS:
+      1.  To Trustee-Fees & Expenses                                                    $     4,386.78
+      2.  To Servicer, any unreimbursed Nonrecoverable Advances or Servicer Advances    $            -
+      3.  To Servicer, Tax, Maintenance, Late Charges                                   $    59,431.51
+      4.  To Servicer, Servicing Fee and other Servicing Compensations                  $    19,192.16
+      5.  To Noteholders
+             Class A1 Interest                                                          $            -
+             Class A2 Interest                                                          $            -
+             Class A3 Interest                                                          $            -
+             Class A4 Interest                                                          $    91,480.77
+             Class B Interest                                                           $     4,871.37
+             Class C Interest                                                           $     9,976.73
+             Class D Interest                                                           $     7,338.12
+             Class E Interest                                                           $    12,061.17
+             Class A1 Principal                                                         $            -
+             Class A2 Principal (distributed after A1 Note matures)                     $            -
+             Class A3 Principal (distributed after A2 Note matures)                     $            -
+             Class A4 Principal  (distributed after A3 Note matures)                    $   789,011.49
+             Class B Principal                                                          $            -
+             Class C Principal                                                          $            -
+             Class D Principal                                                          $            -
+             Class E Principal                                                          $            -
+      6.  To Reserve Account for Requirement per Indenture Agreement Section 3.08
+          (Provided no Amortization Event)                                              $            -
+      7.  To Issuer-Residual Principal and Interest and Reserve Account Distribution
+           a)  Residual Interest (Provided no Restricting or Amortization Event in
+               effect)                                                                  $            -
+           b)  Residual Principal (Provided no Restricting or Amortization Event in
+               effect)                                                                  $            -
+           c)  Reserve Account Distribution (Provided no Restricting or
+               Amortization Event in effect)                                            $            -
+                                                                                        --------------
+      TOTAL FUNDS DISTRIBUTED FOR CURRENT MONTH                                         $   997,750.09
+                                                                                        ==============
+      End of Period Collection Account Balance (Includes Payments in Advance &
+        Restricting Event Funds (If any))                                               $            -
+                                                                                        ==============
+
+II.  RESERVE ACCOUNT
+      Beginning Balance                                                                 $            -
+           -Add Investment Earnings                                                     $            -
+           -Add Transfer from Certificate Account (To Satisfy Reserve Account
+            Requirement)                                                                $            -
+           -Less Distribution to Certificate Account                                    $            -
+                                                                                        --------------
+      End of Period Balance                                                             $            -
+                                                                                        ==============
+      Reserve Account Requirement (Lesser of: (i) Initial Reserve Account Required
+      Amount, or (ii) Sum of Class A, Class B, Class C, Class D, and Class E Note
+      Balances (Provided no Amortization Event)                                         $            -
+
+      CSA RESERVE ACCOUNT
+      Aggregate Beginning Balance*                                                                       $ 3,900,693.23
+           -Add Aggregate Investment Earnings                                                            $     7,411.48
+           -Add Series 1999-2 Amounts Deposited                                                          $     6,916.80
+           -Add Amounts Deposited for All Other Securitizations                                          $   153,342.32
+                                                                                                         --------------
+      SubTotal Available Funds                                                                           $ 4,068,363.83
+
+      Amount Available to this series for payment of Claims based on Note Balances
+       of all securitizations                                                           $  122,044.50
+
+           -Less Total Claims submitted for Series 1999-2                                                $       (70.44)
+           -Less Current Month Claims submitted for all other deals                                      $  (220,685.69)
+           -Less Transfer of Investment Earnings to Available Funds for all
+            Securitizations                                                                              $    (7,411.48)
+
+                                                                                                         --------------
+      Aggregate End of Period Balance                                                                    $ 3,840,196.22
+                                                                                                         ==============
+</TABLE>
+
+*The CSA Reserve account Beginning Balance has been modified to be the Aggregate
+Beginning Balance of all securitizations, rather than just the individual
+series' balance.
+
+                                                          Payment Date: 12/13/04
+
+<PAGE>
+
+                        DVI Receivables X, L.L.C. 1999-2
+                                 SERVICER REPORT
+                              For the Payment Date
+                                December 13, 2004
+
+<TABLE>
+<S>                                                                                     <C>
+III. CLASS A NOTE AGGREGATE PRINCIPAL BALANCE
+      Beginning Aggregate Principal Balance of the Class A Notes                        $ 15,204,559.40
+      Class A Overdue Interest, If Any                                                  $             -
+      Class A Monthly Interest                                                          $     91,480.77
+      Class A Overdue Principal, If Any                                                 $             -
+      Class A Monthly Principal                                                         $    789,011.49
+                                                                                        ---------------
+      Ending Aggregate Principal Balance of the Class A Notes                           $ 14,415,547.91
+                                                                                        ===============
+
+IV. CLASS A NOTE PRINCIPAL BALANCE
+      Beginning Principal Balance of the Class A Notes
+                  Class A1                                                              $             -
+                  Class A2                                                              $             -
+                  Class A3                                                              $             -
+                  Class A4                                                              $ 15,204,559.40
+                                                                                        ---------------
+                                                                                        $ 15,204,559.40
+
+      Class A Monthly Interest
+                   Class A1 (Actual Number Days/360)                                    $             -
+                   Class A2                                                             $             -
+                   Class A3                                                             $             -
+                   Class A4                                                             $     91,480.77
+
+      Class A Monthly Principal
+                  Class A1                                                              $             -
+                  Class A2                                                              $             -
+                  Class A3                                                              $             -
+                  Class A4                                                              $    789,011.49
+                                                                                        ---------------
+                                                                                        $    789,011.49
+
+      Ending Principal Balance of the Class A Notes
+                  Class A1                                                              $             -
+                  Class A2                                                              $             -
+                  Class A3                                                              $             -
+                  Class A4                                        CUSIP 23334NAD0       $ 14,415,547.91
+                                                                                        ---------------
+                                                                                        $ 14,415,547.91
+                                                                                        ===============
+      CLASS A4
+      Interest Paid Per $1,000               Original Face $99,051,000                        0.9235724
+      Principal Paid Per $1,000             Original Face $99,051,000                         7.9657095
+      Ending Principal                               Balance Factor                           0.1455366
+
+V. CLASS B NOTE PRINCIPAL BALANCE                                 CUSIP 23334NAE8
+      Beginning Principal Balance of the Class B Notes                                  $    800,772.51
+      Class B Overdue Interest, If Any                                                  $             -
+      Class B Monthly Interest                                                          $      4,871.37
+      Class B Overdue Principal, If Any                                                 $             -
+      Class B Monthly Principal                                                         $             -
+                                                                                        ---------------
+      Ending Principal Balance of the Class B Notes                                     $    800,772.51
+                                                                                        ===============
+
+      Interest Paid Per $1,000               Original Face $4,054,000                         1.2016197
+      Principal Paid Per $1,000             Original Face $4,054,000                          0.0000000
+      Ending Principal                               Balance Factor                           0.1975265
+
+VI. CLASS C NOTE PRINCIPAL BALANCE                                CUSIP 23334NAF5
+      Beginning Principal Balance of the Class C Notes                                  $  1,600,545.00
+      Class C Overdue Interest, If Any                                                  $             -
+      Class C Monthly Interest                                                          $      9,976.73
+      Class C Overdue Principal, If Any                                                 $             -
+      Class C Monthly Principal                                                         $             -
+                                                                                        ---------------
+      Ending Principal Balance of the Class C Notes                                     $  1,600,545.00
+                                                                                        ===============
+
+      Interest Paid Per $1,000                Original Face $8,107,000                        1.2306316
+      Principal Paid Per $1,000             Original Face $8,107,000                          0.0000000
+      Ending Principal                                Balance Factor                          0.1974275
+</TABLE>
+
+                                                          Payment Date: 12/13/04
+
+<PAGE>
+
+                        DVI Receivables X, L.L.C. 1999-2
+                                 SERVICER REPORT
+                              For the Payment Date
+                                December 13, 2004
+
+<TABLE>
+<S>                                                                                     <C>
+VII. CLASS D NOTE PRINCIPAL BALANCE                               CUSIP 23334NAG3
+      Beginning Principal Balance of the Class D Notes                                  $  1,067,363.34
+
+      Class D Overdue Interest, If Any                                                  $             -
+      Class D Monthly Interest                                                          $      7,338.12
+      Class D Overdue Principal, If Any                                                 $             -
+      Class D Monthly Principal                                                         $             -
+                                                                                        ---------------
+      Ending Principal Balance of the Class D Notes                                     $  1,067,363.34
+                                                                                        ===============
+
+      Interest Paid Per $1,000                Original Face $5,405,000                        1.3576546
+      Principal Paid Per $1,000             Original Face $5,405,000                          0.0000000
+      Ending Principal                                Balance Factor                          0.1974770
+
+VIII. CLASS E NOTE PRINCIPAL BALANCE                              CUSIP 23334NAH1
+      Beginning Principal Balance of the Class E Notes                                  $  1,333,954.19
+
+      Class E Overdue Interest, If Any                                                  $             -
+      Class E Monthly Interest                                                          $     12,061.17
+      Class E Overdue Principal, If Any                                                 $             -
+      Class E Monthly Principal                                                         $             -
+                                                                                        ---------------
+      Ending Principal Balance of the Class E Notes                                     $  1,333,954.19
+                                                                                        ===============
+
+      Interest Paid Per $1,000               Original Face $6,756,000                         1.7852530
+      Principal Paid Per $1,000             Original Face $6,756,000                          0.0000000
+      Ending Principal                               Balance Factor                           0.1974473
+
+IX. ISSUERS RESIDUAL PRINCIPAL BALANCE
+      Beginning Residual Principal Balance                                              $             -
+
+      Residual Interest                                                                 $             -
+      Residual Principal                                                                $             -
+                                                                                        ---------------
+      Ending Residual Principal Balance                                                 $             -
+                                                                                        ===============
+
+X. PAYMENT TO SERVICER
+       -Collection period Servicer Fee                                                  $     19,192.16
+       -Servicer Advances Reimbursement                                                 $             -
+       -Tax, Maintenance, Late Charges, and other amounts                               $     59,431.51
+                                                                                        ---------------
+      Total amounts due to Servicer                                                     $     78,623.67
+                                                                                        ===============
+</TABLE>
+
+                                                          Payment Date: 12/13/04
+
+<PAGE>
+
+                        DVI Receivables X, L.L.C. 1999-2
+                                 SERVICER REPORT
+                              For the Payment Date
+                                December 13, 2004
+
+<TABLE>
+<S>                                                                                                   <C>             <C>
+XI. AGGREGATE DISCOUNTED CONTRACT BALANCE
+POOL A (SEE EXHIBIT B)
+    Aggregate Discounted Contract Balance at the  beginning of the related Collection Period                          $10,939,318.37
+
+      Portion of ADCB at the BEGINNING of the related Collection Period that is Current               $10,826,375.11
+      Portion of ADCB  at the BEGINNING of the related Collection Period that is Delinquent Payments  $   112,943.26
+
+      Portion of ADCB at the END of the related Collection Period that is Current                     $10,165,668.78
+      Portion of ADCB  at the END of the related Collection Period that is Delinquent Payments        $    92,629.27
+
+                                                                                                                      --------------
+    Aggregate Discounted Contract Balance at the end of the related Collection Period                                 $10,258,298.05
+                                                                                                                      ==============
+
+    (Increase)/Decrease in Aggregate Discounted Contract Balance                                                      $   681,020.32
+
+POOL B (SEE EXHIBIT C)
+    Aggregate Discounted Contract Balance at the beginning of the related Collection Period                           $   809,155.16
+
+      Portion of ADCB at the beginning of the related Collection Period that is Current               $   736,661.02
+      Portion of ADCB at the beginning of the related Collection Period that is Delinquent Payments   $    72,494.14
+
+      Portion of ADCB at the END of the related Collection Period that is Current                     $   638,198.05
+      Portion of ADCB  at the END of the related Collection Period that is Delinquent Payments        $    11,111.41
+
+                                                                                                                      --------------
+    Aggregate Discounted Contract Balance at the end of the related Collection Period                                 $   649,309.46
+                                                                                                                      ==============
+
+    (Increase)/Decrease in Aggregate Discounted Contract Balance                                                      $   159,845.71
+
+                                                                                                                      --------------
+    AGGREGATE DISCOUNTED CONTRACT BALANCE AT THE END OF THE RELATED COLLECTION PERIOD                                 $10,907,607.51
+                                                                                                                      ==============
+</TABLE>
+
+* The ADCB will consist of the present value of each remaining contract payment
+and unpaid balances, taking into account payments received with a future due
+date.
+
+                                                          Payment Date: 12/13/04
+
+<PAGE>
+
+                        DVI Receivables X, L.L.C. 1999-2
+                                 SERVICER REPORT
+                              For the Payment Date
+                                December 13, 2004
+
+XII. CUMULATIVE DETAIL OF DEFAULTED CONTRACTS
+
+<TABLE>
+<CAPTION>
+Lease #       Lessee Name
+- ----------------------------------------------------------------------------------
+(See EXHIBIT A)                                                                                     Current Month   Total Cumulative
+                                                                                                    -------------   ----------------
+<S>                                                                                                 <C>             <C>
+       Pool A Total Discounted Present Value                                                        $           -   $  5,451,533.31
+       Pool B Total Discounted Present Value                                                        $           -   $    430,382.01
+                                                                                                                    ---------------
+
+a)  Discounted Contract Balances of all Defaulted Contracts                                                         $  5,881,915.32
+b)  ADCB at Closing Date                                                                                            $270,243,724.70
+c)  (Cannot Exceed 6% over the Life of the Pool)                                                                               2.18%
+                                                                                                       Pool A             Pool B
+                                                                                                       ------             ------
+Discounted Contract Balances of the Active Defaulted Contracts                                      $4,533,873.72   $    102,814.65
+</TABLE>
+
+XIII. CUMULATIVE DETAIL OF SUBSTITUTED CONTRACTS-PREPAYMENTS (POOL A)
+
+<TABLE>
+<CAPTION>
+                                                                                                                      Predecessor
+                                                                                    Discounted       Predecessor       Discounted
+Lease #                                                                            Present Value       Lease #       Present Value
+- ------------------------------------------------------------------------------------------------    -------------   ----------------
+<S>                                                                               <C>               <C>             <C>
+3024-003                                                                          $ 1,289,113.68         1667-003   $  1,466,069.44
+                     Cash                                                         $   176,955.76
+1743-004                                                                          $ 1,539,883.34         2425-001   $  1,890,612.33
+3221-001                                                                          $ 1,496,892.51         2427-001   $  1,194,070.97
+3323-002                                                                          $ 1,181,820.77          917-503   $    644,152.99
+3323-002                                                                          $ 1,162,123.59         1004-503   $     77,559.49
+                                                                                  --------------
+                                                                                                         1048-501   $    896,884.04
+                                                                                                         1049-504   $    644,152.99
+                                                                                                         1050-504   $     85,901.56
+                                                                                                                    ---------------
+                                                                 Totals:          $ 6,846,789.65                    $  6,899,403.81
+
+a) Discounted Contract Balances of All Prepaid Contracts                                                            $  6,899,403.81
+b) ADCB of Pool A at Closing Date                                                                                   $211,061,551.13
+c) (Cannot Exceed 10% Over the Life of the Pool)                                                                               3.27%
+
+Data for Current Reporting Period Substitutions
+a) Total Discounted Contract Balance of Predecessor Receivables                                     $           -
+b) Total Discounted Contract Balance of Substitute Receivables                                      $           -
+c) If (a) > (b), amount to be deposited in Collection Account
+   per Contribution & Servicing Agreement 7.02                                                      $           -
+
+Changes in any of the above detail during the related Collection Period                             YES             NO    X
+                                                                                                    -------------   ---------------
+</TABLE>
+
+CUMULATIVE DETAIL OF SUBSTITUTED CONTRACTS-PREPAYMENTS (POOL B)
+
+<TABLE>
+<CAPTION>
+                                                                                                                      Predecessor
+                                                                                    Discounted       Predecessor       Discounted
+Lease #                                                                            Present Value       Lease #       Present Value
+- ------------------------------------------------------------------------------------------------    -------------   ----------------
+<S>                                                                               <C>               <C>             <C>
+NONE
+
+                                                                 Totals:          $            -                    $             -
+
+a) Discounted Contract Balances of All Prepaid Contracts                                                            $             -
+b) ADCB of Pool B at Closing Date                                                                                   $ 59,182,173.57
+c) (Cannot Exceed 10% Over the Life of the Pool Unless Rating Agency Approves)                                                 0.00%
+
+Data for Current Reporting Period Substitutions
+
+a) Total Discounted Contract Balance of Predecessor Receivables                                     $           -
+b) Total Discounted Contract Balance of Substitute Receivables                                      $           -
+c) If (a) > (b), amount to be deposited in Collection Account per Contribution
+   & Servicing Agreement 7.02                                                                       $           -
+
+Changes in any of the above detail during the related Collection Period                             YES             NO   X
+                                                                                                    -------------------------------
+</TABLE>
+
+                                                          Payment Date: 12/13/04
+
+<PAGE>
+
+                        DVI Receivables X, L.L.C. 1999-2
+                                 SERVICER REPORT
+                              For the Payment Date
+                                December 13, 2004
+
+XIV. CUMULATIVE DETAIL OF SUBSTITUTED CONTRACTS-NON-PERFORMING (POOL A)
+
+<TABLE>
+<CAPTION>
+                                                                                                                      Predecessor
+                                                                                    Discounted       Predecessor       Discounted
+Lease #                                                                            Present Value       Lease #       Present Value
+- ------------------------------------------------------------------------------------------------    -------------   ----------------
+<S>                                                                               <C>               <C>             <C>
+2841-001                                                                          $ 1,121,500.51         2207-001   $    551,274.29
+2004383-1                                                                         $   512,828.61         2207-002   $  1,160,782.50
+2006209-2                                                                         $   252,655.70         2207-003   $    181,136.33
+                       Cash                                                       $     6,208.31
+2875-007                                                                          $ 1,629,015.55         2337-001   $  1,215,773.70
+3024-003                                                                          $ 1,495,882.60         4283-401   $    286,487.54
+                                                                                                         2314-002   $  1,209,395.06
+3718-005                                                                          $ 1,711,481.42         1969-003   $  1,251,411.72
+                                                                                  --------------
+                                                                                                         1954-002   $    221,077.49
+                                                                                                         1954-003   $     74,796.06
+                                                                                                         1095.501   $    209,827.19
+                                                                                                                    ---------------
+                                                           Totals:                $ 6,729,572.70                    $  6,361,961.88
+
+a) Discounted Contract Balances of All Non-Performing Contracts and of all Contracts Substituted                    $  6,361,961.88
+b) ADCB of Pool A at Closing Date                                                                                   $211,061,551.13
+c) (Cannot Exceed 10% Over the Life of the Pool)                                                                               3.01%
+
+Data for Current Reporting Period Substitutions
+a) Total Discounted Contract Balance of Predecessor Receivables                                     $           -
+b) Total Discounted Contract Balance of Substitute Receivables                                      $           -
+c) If (a) > (b), amount to be deposited in Collection Account per Contribution
+   & Servicing Agreement 7.02                                                                       $           -
+
+Changes in any of the above detail during the related Collection Period                             YES             NO    X
+                                                                                                    -------------   ---------------
+</TABLE>
+
+CUMULATIVE DETAIL OF SUBSTITUTED CONTRACTS -GENERAL RIGHTS (POOL B)
+
+<TABLE>
+<CAPTION>
+                                                                                                                      Predecessor
+                                                                                    Discounted       Predecessor       Discounted
+Lease #                                                                            Present Value       Lease #       Present Value
+- ------------------------------------------------------------------------------------------------    -------------   ----------------
+<S>                                                                               <C>               <C>             <C>
+NONE
+
+                                                           Totals:                                                  $             -
+
+a) Discounted Contract Balances of All Non-Performing Contracts and of all Contracts Substituted                    $             -
+b) ADCB of Pool B at Closing Date                                                                                   $ 59,182,173.57
+c) (Cannot Exceed 10% Over the Life of the Pool)                                                                               0.00%
+
+Data for Current Reporting Period Substitutions
+a) Total Discounted Contract Balance of Predecessor Receivables                                     $           -
+b) Total Discounted Contract Balance of Substitute Receivables                                      $           -
+c) If (a) > (b), amount to be deposited in Collection Account per Contribution
+   & Servicing Agreement 7.02                                                                       $           -
+
+Changes in any of the above detail during the related Collection Period                             YES             NO    X
+                                                                                                    -------------   ---------------
+</TABLE>
+
+                                                          Payment Date: 12/13/04
+<PAGE>
+
+                        DVI Receivables X, L.L.C. 1999-2
+                                 SERVICER REPORT
+                              For the Payment Date
+                                December 13, 2004
+
+XV. POOL PERFORMING MEASUREMENTS
+
+<TABLE>
+<S>                                                                                                 <C>
+1   Aggregate Discounted Contract Balance
+    Contracts Delinquent > 90 days
+     - This Month :                                                                                 $     89,962.93
+     -1 Month Prior :                                                                               $    113,964.37
+     -2 Months Prior :                                                                              $    106,164.71
+    ------------------------------------------------------------------------------------------      ---------------
+     Total                                                                                          $    310,092.01
+
+    a) 3 Month Average:                                                                             $    103,364.00
+
+     Total Outstanding Contracts
+     - This Month :                                                                                 $ 10,907,607.51
+     -1 Month Prior :                                                                               $ 11,748,473.53
+     -2 Months Prior :                                                                              $ 11,234,269.11
+    ------------------------------------------------------------------------------------------      ---------------
+     Total                                                                                          $ 33,890,350.14
+
+    b) 3 Month Average:                                                                             $ 11,296,783.38
+    c) a/b                                                                                                     0.91%
+
+2.  Does a Delinquency Condition Exist (1c > 6%)?                                                          NO
+                                                                                                    ---------------
+
+3.  Restricting Event Check
+    A. A Delinquency Condition Exists for Current Period?                                                 NO
+                                                                                                    ---------------
+    B. An Indenture Event of Default has occurred and is then Continuing? *                               NO
+                                                                                                    ---------------
+
+4.  Has a Servicer Event of Default Occurred? *                                                           NO
+                                                                                                    ---------------
+
+5.  Amortization Event?                                                                                   YES
+                                                                                                    ---------------
+
+6.  Aggregate Discounted Contract Balance at Closing Date                                           $270,243,724.70
+
+    Aggregate Discounted Contract Balances (A.D.C.B.) of Contracts listed as more than:
+
+    A.D.C.B  **
+    30 Days Overdue                                                                                 $     56,258.74
+    60 Days Overdue                                                                                 $             -
+    90 Days Overdue                                                                                 $     15,974.30
+    120 Days Overdue                                                                                $     72,898.63
+    150 Days Overdue                                                                                $      1,090.00
+    180 Days Overdue                                                                                $             -
+                                                                                                    ---------------
+                                                                                                    $    146,221.67
+
+    % OF TOTAL                                                                                      $ 10,907,607.51
+    A.D.C.B
+    30 Days Overdue                                                                                           0.516%
+    60 Days Overdue                                                                                           0.000%
+    90 Days Overdue                                                                                           0.146%
+    120 Days Overdue                                                                                          0.668%
+    150 Days Overdue                                                                                          0.010%
+    180 Days Overdue                                                                                          0.000%
+</TABLE>
+
+- ---------------
+*     Pursuant to the Settlement Agreement, any Indenture or Contribution &
+      Servicing Agreement event of default listed under Section XV that occurred
+      prior to February 24, 2004 are waived.
+
+**    Previously reported ADCB calculations were based on scheduled present
+      value and calculations on this report and going forward will include the
+      present value of each remaining contract payment and unpaid balances.
+
+                                                          Payment Date: 12/13/04
+
+<PAGE>
+
+                        DVI Receivables X, L.L.C. 1999-2
+                                 SERVICER REPORT
+                              For the Payment Date
+                                December 13, 2004
+
+EXHIBIT # A - DETAIL ON DEFAULTED CONTRACTS
+
+<TABLE>
+<CAPTION>
+                                                               DISCOUNTED
+DEFAULT MONTH           CONTRACT #             POOL         CONTRACT BALANCE
+- -------------           ----------             ----         ----------------
+<S>                     <C>                    <C>          <C>
+    Oct-03              0002413-001            A             $   560,373.26
+    Nov-03              0002932-001            A             $   613,520.60
+    Dec-03              0002277-001            A             $   440,712.70
+    Jan-04              0002256-001            A             $   392,478.67
+    Jan-04              0002256-002            A             $    16,181.06
+    Jan-04              0002256-003            A             $    21,636.49
+    Jan-04              0003307-001            A             $   740,687.08
+    Jan-04              0003323-003            A             $   728,341.79
+    Jan-04              0002276-001            A             $   380,539.91
+    Jan-04              0002286-001            A             $   428,265.84
+    Jan-04              0002286-002            A             $    71,935.56
+    Jan-04              0002276-002            A             $    63,633.14
+    Jan-04              0001759-002            A             $     9,686.89
+    Jan-04              0002178-002            A             $    52,163.19
+    Jan-04              0002365-001            A             $    13,717.52
+    Jan-04              0002277-002            B             $    45,609.13
+    Aug-04              1945-007               B             $    57,205.52
+CHARGEOFFS
+    Oct-03              0001459-003            B             $   164,789.31
+    Oct-03              0001459-004            B             $    19,896.50
+    Dec-03              9901391-401            A             $    17,667.91
+    Feb-04              0001124-501            B             $    12,894.83
+    Feb-04              0001082-501            B             $   103,434.01
+    Feb-04              9900840-401            A             $       524.55
+    May-04              9900017-101            A             $     2,340.68
+    Feb-04              0002225-003            A             $   108,578.37
+    Feb-04              0002225-001            A             $    97,720.94
+    Feb-04              0002225-002            A             $   443,097.06
+    Mar-04              0002225-004            A             $   130,537.08
+    Mar-04              0002225-005            A             $    50,947.97
+    Aug-03              0000863-507            B             $    24,434.56
+    Feb-04              0001166-501            B             $     2,118.15
+    Nov-03              9805562-403            A             $     4,467.05
+    Dec-03              9900373-401            A             $     7,623.08
+    Dec-03              9901524-701            A             $     8,681.96
+    Feb-04              9800277-702            A             $       223.70
+    Mar-04              9805185-401            A             $       345.64
+    Aug-03              9900321-401            A             $     4,277.92
+    May-04              0001968-001            A             $    40,428.72
+SETTLEMENTS
+    Apr-04              9702450-303            A             $       196.97
+    Jun-04              1639-001               A             $            -
+                                                             --------------
+                                                             $ 5,881,915.32
+                                                             ==============
+</TABLE>
+
+CURRENT MONTH DEFAULTS RETURNED TO ADCB
+
+<PAGE>
+
+                        DVI Receivables X, L.L.C. 1999-2
+                                 SERVICER REPORT
+                              For the Payment Date
+                                December 13, 2004
+
+XI. AGGREGATE DISCOUNTED CONTRACT BALANCE
+POOL A EXHIBIT B
+
+<TABLE>
+<CAPTION>
+                                 OCTOBER ADCB      OCTOBER DELINQ     NOVEMBER ADCB     NOVEMBER DELINQ
+<S>                            <C>                 <C>              <C>                 <C>
+001-0002093-004                $       8,490.67    $           -    $              -     $           -
+001-9901022-901                $              -    $           -    $              -     $           -
+022-9900436-401                $              -    $           -    $              -     $           -
+001-9803320-101                $              -    $           -    $              -     $           -
+002-5051111-103                $              -    $           -    $              -     $           -
+013-9802755-501                $              -    $           -    $              -     $           -
+001-9900390-901                $              -    $           -    $              -     $           -
+031-9900561-701                $              -    $           -    $              -     $           -
+001-9900219-901                $              -    $           -    $              -     $           -
+031-9805425-701                $              -    $           -    $              -     $           -
+013-9900345-501                $              -    $           -    $              -     $           -
+001-9900593-401                $              -    $           -    $              -     $           -
+002-9601965-902                $              -    $           -    $              -     $           -
+001-0002248-001                $              -    $           -    $              -     $           -
+001-0002249-001                $              -    $           -    $              -     $           -
+001-0002250-001                $              -    $           -    $              -     $           -
+001-0002251-001                $              -    $           -    $              -     $           -
+001-0001956-002                $              -    $           -    $              -     $           -
+001-9900208-401                $              -    $           -    $              -     $           -
+013-9900292-501                $              -    $           -    $              -     $           -
+031-9804950-701                $              -    $           -    $              -     $           -
+001-0002196-002                $              -    $           -    $              -     $           -
+001-9900368-601                $              -    $           -    $              -     $           -
+001-0002196-001                $              -    $           -    $              -     $           -
+001-0002201-002                $              -    $           -    $              -     $           -
+001-0002331-001                $              -    $           -    $              -     $           -
+001-0000983-029                $              -    $           -    $              -     $           -
+001-9901285-401                $              -    $           -    $              -     $           -
+001-0002237-002                $              -    $           -    $              -     $           -
+001-9901215-901                $              -    $           -    $              -     $           -
+001-0000238-002                $              -    $           -    $              -     $           -
+001-0002269-001                $              -    $           -    $              -     $           -
+031-9901004-701                $              -    $           -    $              -     $           -
+022-9901152-401                $              -    $           -    $              -     $           -
+031-9703286-702                $              -    $           -    $              -     $           -
+001-9901421-901                $              -    $           -    $              -     $           -
+001-0001566-003/3102-003       $              -    $           -    $              -     $           -
+001-0002302-001                $              -    $           -    $              -     $           -
+001-0001566-002/3102-002       $              -    $   24,966.00    $              -     $   24,966.00
+001-9901446-701                $              -    $           -    $              -     $           -
+001-0002231-005                $              -    $    1,663.16    $              -     $    1,663.16
+001-0002231-006                $              -    $    2,293.26    $              -     $    2,293.26
+001-0002404-001                $              -    $   19,609.21    $              -     $   19,609.21
+002-9900994-702                $              -    $           -    $              -     $           -
+001-0002231-007                $              -    $           -    $              -     $           -
+001-0002309-002                $              -    $   15,978.00    $              -     $   15,978.00
+001-9900898-401                $              -    $           -    $              -     $           -
+001-9901299-901                $              -    $           -    $              -     $           -
+001-0002441-001                $              -    $   23,961.45    $              -     $   15,974.30
+001-0002288-001                $              -    $           -    $              -     $           -
+001-0002410-002                $       1,572.29    $           -    $              -     $           -
+001-0002322-001                $       7,930.02    $           -    $              -     $    8,460.42
+001-0002410-001                $      20,513.44    $   20,646.70    $              -     $           -
+001-0001993-001                $      28,649.93    $           -    $              -     $           -
+001-0001894-004                $      52,161.21    $           -    $              -     $           -
+001-9901473-901                $       2,327.79    $           -    $       1,556.88     $           -
+001-0001294-008                $       3,077.35    $           -    $       2,156.21     $           -
+001-0001845-005                $       3,947.69    $      106.29    $       3,520.33     $      106.29
+001-0001809-004                $       4,454.06    $      115.30    $       3,723.68     $      115.30
+001-0002245-001                $       4,900.60    $           -    $       4,243.69     $           -
+</TABLE>
+
+<PAGE>
+
+                        DVI Receivables X, L.L.C. 1999-2
+                                 SERVICER REPORT
+                              For the Payment Date
+                                December 13, 2004
+
+<TABLE>
+<S>                            <C>                 <C>              <C>                  <C>                <C>
+001-0002229-001                $       6,107.67    $           -    $       4,974.08     $           -
+001-0001586-010                $       6,029.64    $      196.39    $       5,040.89     $      196.39
+001-0001619-006                $       7,035.92    $      479.39    $       5,646.90     $      479.40
+001-0002281-001                $       6,995.12    $      183.38    $       6,140.41     $      183.38
+001-0002193-002                $       7,655.12    $      124.62    $       6,826.41     $      124.62
+001-0002317-001                $       7,969.49    $           -    $       6,918.54     $           -
+001-0002315-001                $       9,119.60    $           -    $       8,047.42     $           -
+001-0002330-001                $      19,193.14    $           -    $      12,836.80     $           -
+001-0002313-001                $      17,324.61    $           -    $      13,425.16     $           -
+001-0002313-003                $      17,543.48    $           -    $      13,594.76     $           -
+001-0002418-001                $      15,102.02    $           -    $      13,631.66     $           -
+001-0001824-008                $      26,933.02    $           -    $      23,642.18     $           -
+001-0002247-001                $      28,138.98    $           -    $      26,212.54     $           -
+001-0002213-002                $      31,189.10    $           -    $      29,641.45     $           -
+001-0002272-003                $      36,742.00    $           -    $      32,252.64     $           -
+001-0002208-001                $      35,483.54    $           -    $      32,630.73     $           -
+001-0002272-004                $      39,746.02    $           -    $      34,889.61     $           -
+001-0002393-001                $      61,065.61    $           -    $      39,423.61     $           -
+001-0002267-003                $      42,771.31    $           -    $      40,383.55     $           -
+001-0002272-002                $      59,685.70    $           -    $      44,712.53     $           -
+001-0002246-001                $      92,860.52    $           -    $      46,654.60     $           -
+001-0002193-001                $      57,437.26    $    2,479.54    $      53,779.20     $    2,479.54
+001-0001829-005                $      63,024.38    $           -    $      62,087.63     $           -
+001-0002272-001                $      77,700.14    $           -    $      64,958.80     $           -
+003-2005209-002                $      69,933.55    $           -    $      65,145.77     $           -
+001-0001722-002                $     141,794.88    $           -    $     108,557.89     $           -
+001-0001437-004                $     140,363.05    $           -    $     126,572.05     $           -
+003-2004383-001                $     149,486.31    $           -    $     139,965.83     $           -
+001-0001829-004                $     151,899.43    $           -    $     144,762.47     $           -
+001-0002405-005                $     201,879.62    $           -    $     203,190.84     $           -
+001-0002345-002                $     230,444.66    $           -    $     227,019.48     $           -
+001-0002414-001                $     380,053.00    $           -    $     382,521.47     $           -
+001-0001975-002                $     404,824.49    $           -    $     385,803.92     $           -
+001-0002405-002                $     424,151.77    $           -    $     426,906.66     $           -
+001-0002405-001                $     433,677.91    $           -    $     436,494.67     $           -
+001-0002387-002                $     470,459.49    $           -    $     470,459.49     $           -
+001-0002222-001                $     564,777.94    $           -    $     505,157.32     $           -
+001-0001743-004                $     671,023.11    $           -    $     643,878.65     $           -
+001-0003221-001                $     699,426.01    $           -    $     673,568.37     $           -
+001-0002062-001                $   1,034,315.89    $           -    $     985,718.84     $           -
+001-0003718-005                $   1,693,356.21    $           -    $   1,699,706.30     $           -
+001-0003024-003                $   1,896,685.84    $           -    $   1,896,685.84     $           -
+
+PAYOFFS
+001-0002280-002                $              -    $           -    $              -     $           -      November, 2004 Payoff
+031-9700562-702                $              -    $           -    $              -     $           -      November, 2004 Payoff
+001-9900717-401                $              -    $           -    $              -     $           -      November, 2004 Payoff
+001-9900383-601                $              -    $           -    $              -     $           -      November, 2004 Payoff
+001-9900976-401                $              -    $           -    $              -     $           -      November, 2004 Payoff
+002-9901510-702                $              -    $           -    $              -     $           -      November, 2004 Payoff
+001-9901283-401                $              -    $           -    $              -     $           -      November, 2004 Payoff
+001-9901319-701                $              -    $           -    $              -     $           -      November, 2004 Payoff
+002-9704297-402                $              -    $           -    $              -     $           -      November, 2004 Payoff
+001-9901438-401                $              -    $           -    $              -     $           -      November, 2004 Payoff
+001-0002093-003                $              -    $           -    $              -     $           -      November, 2004 Payoff
+001-0002270-002                $              -    $           -    $              -     $           -      November, 2004 Payoff
+001-9900880-401                $              -    $           -    $              -     $           -      November, 2004 Payoff
+001-0001905-103                $              -    $           -    $              -     $           -      November, 2004 Payoff
+001-0001667-002                $              -    $           -    $              -     $           -      November, 2004 Payoff
+001-0002280-001                $              -    $           -    $              -     $           -      November, 2004 Payoff
+013-9900531-401                $              -    $      140.57    $              -     $           -      November, 2004 Payoff
+001-0002300-001                $              -    $           -    $              -     $           -      November, 2004 Payoff
+001-0001938-004                $              -    $           -    $              -     $           -      November, 2004 Payoff
+001-0002841-001                $              -    $           -    $              -     $           -      November, 2004 Payoff
+</TABLE>
+
+<PAGE>
+
+                        DVI Receivables X, L.L.C. 1999-2
+                                 SERVICER REPORT
+                              For the Payment Date
+                                December 13, 2004
+
+<TABLE>
+<S>                            <C>                 <C>              <C>                  <C>                <C>
+001-0002118-001                $              -    $           -    $              -     $           -      November, 2004 Payoff
+001-0001993-002                $         499.84    $           -    $              -     $           -      November, 2004 Payoff
+001-0001993-003                $       1,576.20    $           -    $              -     $           -      November, 2004 Payoff
+001-0002313-006                $       1,686.09    $           -    $              -     $           -      November, 2004 Payoff
+001-0002313-002                $      17,774.38    $           -    $              -     $           -      November, 2004 Payoff
+001-0001560-006                $      36,497.73    $           -    $              -     $           -      November, 2004 Payoff
+001-0002232-001                $      98,909.25    $           -    $              -     $           -      November, 2004 Payoff
+031-9900756-702                $              -    $           -                                            October, 2004 Payoff
+001-9901252-611                $              -    $           -                                            October, 2004 Payoff
+001-0002059-006                $              -    $           -                                            October, 2004 Payoff
+001-0002053-001                $              -    $           -                                            October, 2004 Payoff
+001-0000983-032                $              -    $           -                                            October, 2004 Payoff
+001-0001938-003                $              -    $           -                                            October, 2004 Payoff
+001-0002313-004                $              -    $           -                                            October, 2004 Payoff
+001-0002059-007                $              -    $           -                                            October, 2004 Payoff
+001-0002313-005                $              -    $           -                                            October, 2004 Payoff
+001-9804965-501                                                                                             September, 2004 Payoff
+001-9900336-901                                                                                             September, 2004 Payoff
+013-9900739-401                                                                                             September, 2004 Payoff
+001-9901111-401                                                                                             September, 2004 Payoff
+001-0001051-501                                                                                             September, 2004 Payoff
+001-0001873-004                                                                                             September, 2004 Payoff
+031-9901574-701                                                                                             September, 2004 Payoff
+001-9901522-901                                                                                             September, 2004 Payoff
+001-9901298-901                                                                                             September, 2004 Payoff
+001-9901491-701                                                                                             September, 2004 Payoff
+001-0002299-001                                                                                             September, 2004 Payoff
+001-9900547-901                                                                                             September, 2004 Payoff
+001-0002299-003                                                                                             September, 2004 Payoff
+001-0002340-001                                                                                             September, 2004 Payoff
+001-0002323-001                                                                                             September, 2004 Payoff
+001-0002191-002                                                                                             September, 2004 Payoff
+001-0002265-001                                                                                             September, 2004 Payoff
+001-0001973-003                                                                                             September, 2004 Payoff
+001-0002059-004                                                                                             September, 2004 Payoff
+001-0002059-002                                                                                             September, 2004 Payoff
+001-0002220-001                                                                                             September, 2004 Payoff
+001-9803867-401                                                                                             August, 2004 Payoff
+013-9900430-601                                                                                             August, 2004 Payoff
+001-9900472-401                                                                                             August, 2004 Payoff
+022-9900173-501                                                                                             August, 2004 Payoff
+001-9803852-501                                                                                             August, 2004 Payoff
+001-9804360-501                                                                                             August, 2004 Payoff
+001-9900317-401                                                                                             August, 2004 Payoff
+001-9900807-401                                                                                             August, 2004 Payoff
+001-0002144-001                                                                                             August, 2004 Payoff
+001-9803556-501                                                                                             August, 2004 Payoff
+021-9900395-621                                                                                             August, 2004 Payoff
+001-9901054-401                                                                                             August, 2004 Payoff
+001-9900848-401                                                                                             August, 2004 Payoff
+002-9702370-402                                                                                             August, 2004 Payoff
+001-9901094-901                                                                                             August, 2004 Payoff
+001-0001873-007                                                                                             August, 2004 Payoff
+001-0002231-003                                                                                             August, 2004 Payoff
+001-0002296-001                                                                                             August, 2004 Payoff
+001-9901357-401                                                                                             August, 2004 Payoff
+001-9901063-901                                                                                             August, 2004 Payoff
+001-9901028-401                                                                                             August, 2004 Payoff
+001-0001879-006                                                                                             August, 2004 Payoff
+013-9900916-901                                                                                             August, 2004 Payoff
+001-9900486-401                                                                                             August, 2004 Payoff
+001-9901394-542                                                                                             August, 2004 Payoff
+001-9901086-401                                                                                             August, 2004 Payoff
+</TABLE>
+
+<PAGE>
+
+                        DVI Receivables X, L.L.C. 1999-2
+                                 SERVICER REPORT
+                              For the Payment Date
+                                December 13, 2004
+
+<TABLE>
+<S>                            <C>                 <C>              <C>                  <C>                <C>
+001-0001921-002                                                                                             August, 2004 Payoff
+001-9901080-621                                                                                             August, 2004 Payoff
+001-0002231-004                                                                                             August, 2004 Payoff
+001-0000983-031                                                                                             August, 2004 Payoff
+001-0000983-030                                                                                             August, 2004 Payoff
+001-9901531-301                                                                                             August, 2004 Payoff
+001-9900250-302                                                                                             August, 2004 Payoff
+031-9900760-701                                                                                             August, 2004 Payoff
+001-0002218-002                                                                                             August, 2004 Payoff
+001-0002218-001                                                                                             August, 2004 Payoff
+001-9900690-401                                                                                             August, 2004 Payoff
+001-0002290-001                                                                                             August, 2004 Payoff
+001-0002154-001                                                                                             August, 2004 Payoff
+001-0002309-001                                                                                             August, 2004 Payoff
+001-0002875-007                                                                                             August, 2004 Payoff
+001-9900603-401                                                                                             July, 2004 Payoff
+001-9900258-601                                                                                             July, 2004 Payoff
+001-9900370-401                                                                                             July, 2004 Payoff
+041-9802142-501                                                                                             July, 2004 Payoff
+001-0002211-002                                                                                             July, 2004 Payoff
+001-0001956-001                                                                                             July, 2004 Payoff
+001-9900932-401                                                                                             July, 2004 Payoff
+001-0001724-003                                                                                             July, 2004 Payoff
+002-9803130-402                                                                                             July, 2004 Payoff
+001-9900832-401                                                                                             July, 2004 Payoff
+001-0004268-401                                                                                             July, 2004 Payoff
+001-0001873-001                                                                                             July, 2004 Payoff
+001-9900327-401                                                                                             July, 2004 Payoff
+001-9901062-401                                                                                             July, 2004 Payoff
+001-0001956-003                                                                                             July, 2004 Payoff
+001-0002242-001                                                                                             July, 2004 Payoff
+001-9901523-401                                                                                             July, 2004 Payoff
+001-9901346-901                                                                                             July, 2004 Payoff
+002-9801202-903                                                                                             July, 2004 Payoff
+001-0002242-002                                                                                             July, 2004 Payoff
+001-0002143-003                                                                                             July, 2004 Payoff
+001-0002293-002                                                                                             July, 2004 Payoff
+001-0002280-003                                                                                             July, 2004 Payoff
+001-0002293-003                                                                                             July, 2004 Payoff
+001-0001633-003                                                                                             July, 2004 Payoff
+001-0002293-001                                                                                             July, 2004 Payoff
+001-0002211-001                                                                                             July, 2004 Payoff
+001-9805374-501                                                                                             June, 2004 Payoff
+001-9900382-401                                                                                             June, 2004 Payoff
+001-9900549-401                                                                                             June, 2004 Payoff
+020-3091039-904                                                                                             June, 2004 Payoff
+001-9805561-101                                                                                             June, 2004 Payoff
+001-9900737-541                                                                                             June, 2004 Payoff
+002-9901094-902                                                                                             June, 2004 Payoff
+002-9700562-403                                                                                             June, 2004 Payoff
+031-9900991-701                                                                                             June, 2004 Payoff
+002-9701270-404                                                                                             June, 2004 Payoff
+001-9900759-401                                                                                             June, 2004 Payoff
+001-9901104-701                                                                                             June, 2004 Payoff
+002-9900338-532                                                                                             June, 2004 Payoff
+001-9901402-401                                                                                             June, 2004 Payoff
+013-5061187-403                                                                                             June, 2004 Payoff
+001-9805316-501                                                                                             June, 2004 Payoff
+001-9901399-401                                                                                             June, 2004 Payoff
+001-9901058-901                                                                                             June, 2004 Payoff
+001-0002176-001                                                                                             June, 2004 Payoff
+001-0002165-002                                                                                             June, 2004 Payoff
+001-0002092-001                                                                                             June, 2004 Payoff
+</TABLE>
+
+<PAGE>
+
+                        DVI Receivables X, L.L.C. 1999-2
+                                 SERVICER REPORT
+                              For the Payment Date
+                                December 13, 2004
+
+<TABLE>
+<S>                            <C>                 <C>              <C>                  <C>                <C>
+001-0002246-003                                                                                             June, 2004 Payoff
+001-0002438-002                                                                                             June, 2004 Payoff
+034-2091113-502                                                                                             May, 2004 Payoff
+034-9900271-501                                                                                             May, 2004 Payoff
+001-9901576-401                                                                                             May, 2004 Payoff
+002-9900338-533                                                                                             May, 2004 Payoff
+001-9900575-401                                                                                             May, 2004 Payoff
+001-9900575-402                                                                                             May, 2004 Payoff
+001-9900588-401                                                                                             May, 2004 Payoff
+031-9900794-701                                                                                             May, 2004 Payoff
+002-9804364-902                                                                                             May, 2004 Payoff
+001-0001830-006                                                                                             May, 2004 Payoff
+021-9900246-531                                                                                             May, 2004 Payoff
+001-0001560-008                                                                                             May, 2004 Payoff
+001-0002161-001                                                                                             May, 2004 Payoff
+001-0002235-001                                                                                             May, 2004 Payoff
+013-9802604-501                                                                                             May, 2004 Payoff
+001-9900329-501                                                                                             May, 2004 Payoff
+001-0002275-001                                                                                             May, 2004 Payoff
+001-0001873-005                                                                                             May, 2004 Payoff
+001-0002274-001                                                                                             May, 2004 Payoff
+031-9700192-702                                                                                             May, 2004 Payoff
+001-9901045-401                                                                                             May, 2004 Payoff
+001-0002275-003                                                                                             May, 2004 Payoff
+021-9900338-626                                                                                             May, 2004 Payoff
+001-0002274-003                                                                                             May, 2004 Payoff
+001-9901136-541/3078-001                                                                                    May, 2004 Payoff
+001-0002274-002                                                                                             May, 2004 Payoff
+001-0002312-001                                                                                             May, 2004 Payoff
+001-0002275-002                                                                                             May, 2004 Payoff
+001-0002312-002                                                                                             May, 2004 Payoff
+001-0001873-002                                                                                             May, 2004 Payoff
+001-0001873-003                                                                                             May, 2004 Payoff
+001-0002234-001                                                                                             May, 2004 Payoff
+001-0001905-005                                                                                             April, 2004 Payoff
+001-0002123-001                                                                                             April, 2004 Payoff
+002-9701270-403                                                                                             April, 2004 Payoff
+001-9900377-901                                                                                             April, 2004 Payoff
+001-9805357-501                                                                                             April, 2004 Payoff
+001-9900220-901                                                                                             April, 2004 Payoff
+001-9900969-401                                                                                             April, 2004 Payoff
+031-9901043-701                                                                                             April, 2004 Payoff
+001-9900297-901                                                                                             April, 2004 Payoff
+001-9901249-901                                                                                             April, 2004 Payoff
+001-0002159-001                                                                                             April, 2004 Payoff
+022-9804644-501                                                                                             April, 2004 Payoff
+                             --------------------  -------------  ---------------------  -------------
+                             $      10,826,375.11  $  112,943.26  $       10,165,668.78  $   92,629.27
+                             ====================  =============  =====================  =============
+
+DEFAULTS
+001-0001639-001                                                                                             June, 2004 Default
+013-9900017-101                                                                                             May, 2004 Default
+001-0001968-001                                                                                             May, 2004 Default
+002-9702540-303/9702450-303                                                                                 April, 2004 Default
+001-0002225-004                                                                                             March, 2004 Default
+001-0002225-005                                                                                             March, 2004 Default
+001-9805185-401                                                                                             March, 2004 Default
+001-0002225-001                                                                                             February, 2004 Default
+001-0002225-002                                                                                             February, 2004 Default
+001-0002225-003                                                                                             February, 2004 Default
+001-9900840-401                                                                                             February, 2004 Default
+031-9800277-702                                                                                             February, 2004 Default
+                             OCTOBER DEFAULTS DCB  $           -  NOVEMBER DEFAULTS DCB  $           -
+                             ====================  =============  =====================  =============
+</TABLE>
+
+<PAGE>
+
+                        DVI Receivables X, L.L.C. 1999-2
+                                 SERVICER REPORT
+                              For the Payment Date
+                                December 13, 2004
+
+<TABLE>
+<CAPTION>
+                                                                                                                      GAIN/LOSS
+                                                                                                                      ---------
+<S>                          <C>                     <C>                        <C>                                <C>
+SETTLEMENTS
+001-0002335-001                                                                 May, 2004 Settlement               $    (27,687.17)
+001-0002335-002                                                                 May, 2004 Settlement               $    (55,968.41)
+RESTRUCTURES
+001-0002405-001                                                                 October, 2004 Restructure          $ (1,849,400.40)
+001-0002405-002                                                                 October, 2004 Restructure          $ (1,810,505.66)
+001-0002405-005                                                                 October, 2004 Restructure          $   (860,861.07)
+001-0002414-001                                                                 October, 2004 Restructure          $ (1,618,579.76)
+001-0003024-003                                                                 July, 2004 Restructure             $    (13,661.58)
+001-0001829-005                                                                 July, 2004 Restructure             $        727.62
+001-0002345-002                                                                 July, 2004 Restructure             $      2,659.84
+001-0003718-005                                                                 July & Oct-04 Restructure          $      9,942.72
+                             ---------------------   --------------             -------------------------          ---------------
+                             OCTOBER TOTAL BALANCE   $10,939,318.37               NOVEMBER TOTAL BALANCE           $ 10,258,298.05
+                             =====================   ==============             ========================           ===============
+</TABLE>
+
+<PAGE>
+
+                        DVI Receivables X, L.L.C. 1999-2
+                                 SERVICER REPORT
+                              For the Payment Date
+                                December 13, 2004
+
+XI. AGGREGATE DISCOUNTED CONTRACT BALANCE
+POOL B EXHIBIT C
+
+<TABLE>
+<CAPTION>
+                              OCTOBER ADCB        OCTOBER DELINQ      NOVEMBER ADCB       NOVEMBER DELINQ
+<S>                       <C>                     <C>                 <C>                 <C>                <C>
+001-0000792-508           $                  -    $           -       $            -       $          -
+001-0000985-501           $                  -    $           -       $            -       $          -
+001-0001067-501           $                  -    $           -       $            -       $          -
+001-0001831-004           $                  -    $           -       $            -       $          -
+001-0002343-001           $                  -    $           -       $            -       $          -
+001-0001161-501           $                  -    $           -       $            -       $          -
+001-0001041-547           $                  -    $           -       $            -       $          -
+001-0001136-501           $                  -    $           -       $            -       $          -
+001-0001164-501           $                  -    $           -       $            -       $          -
+001-0001168-501           $                  -    $           -       $            -       $          -
+001-0001171-501           $                  -    $           -       $            -       $          -
+001-0001172-501           $                  -    $           -       $            -       $          -
+001-0001177-501           $                  -    $           -       $            -       $          -
+001-0002363-001           $                  -    $           -       $            -       $          -
+001-0000975-502           $                  -    $           -       $            -       $          -
+001-0001087-501           $                  -    $           -       $            -       $          -
+001-0001119-501           $                  -    $           -       $            -       $          -
+001-0001914-002           $                  -    $           -       $            -       $          -
+001-0001566-004/3102-004  $                  -    $           -       $            -       $          -
+001-0000110-566           $                  -    $           -       $            -       $          -
+001-0001122-501           $                  -    $           -       $            -       $          -
+001-0004240-403           $                  -    $           -       $            -       $          -
+001-0001658-003           $                  -    $           -       $            -       $          -
+001-0001096-501           $                  -    $           -       $            -       $          -
+001-0001071-503           $                  -    $           -       $            -       $          -
+001-0001134-501           $                  -    $           -       $            -       $          -
+001-0001658-004           $                  -    $    1,090.00       $            -       $   1,090.00
+001-0001148-503           $                  -    $           -       $            -       $          -
+001-0002073-010           $                  -    $           -       $            -       $          -
+001-0002073-011           $                  -    $           -       $            -       $          -
+001-0002073-012           $                  -    $           -       $            -       $          -
+001-0001153-501           $                  -    $           -       $            -       $          -
+001-0001167-501           $                  -    $           -       $            -       $          -
+001-0001097-504           $                  -    $           -       $            -       $          -
+001-0001097-503           $                  -    $           -       $            -       $          -
+001-0002299-002           $                  -    $    8,389.00       $            -       $   8,389.00
+001-0001097-502           $                  -    $   18,718.45       $            -       $          -
+001-0001141-501           $                  -    $           -       $            -       $          -
+001-0001246-005           $                  -    $           -       $            -       $          -
+001-0001246-003           $                  -    $           -       $            -       $          -
+001-0001973-002           $                  -    $   26,649.99       $            -       $          -
+001-0001108-501           $           1,621.88    $    1,632.41       $            -       $   1,632.41
+001-0001110-501           $          25,665.52    $           -       $    23,573.57       $          -
+001-0004260-401           $          43,010.12    $           -       $    34,171.09       $          -
+001-0001077-501           $         661,248.73    $           -       $   580,453.39       $          -
+PAYOFFS
+
+001-0001126-504           $                  -    $           -       $            -       $          -      November, 2004 Payoff
+001-0002344-002           $                  -    $           -       $            -       $          -      November, 2004 Payoff
+001-0001039-504           $                  -    $           -       $            -       $          -      November, 2004 Payoff
+001-0001895-004           $                  -    $           -       $            -       $          -      November, 2004 Payoff
+001-0001106-502           $             177.84    $           -       $            -       $          -      November, 2004 Payoff
+001-0001106-504           $             510.68    $           -       $            -       $          -      November, 2004 Payoff
+001-0001106-505           $             552.41    $           -       $            -       $          -      November, 2004 Payoff
+001-0001106-503           $             862.40    $           -       $            -       $          -      November, 2004 Payoff
+001-0001106-501           $           3,011.44    $           -       $            -       $          -      November, 2004 Payoff
+001-0002350-002           $                  -    $           -                                              October, 2004 Payoff
+001-0001894-006           $                  -    $           -                                              October, 2004 Payoff
+001-0002252-002           $                  -    $           -                                              October, 2004 Payoff
+001-0001534-004                                                                                              September, 2004 Payoff
+001-0002096-011                                                                                              September, 2004 Payoff
+</TABLE>
+
+<PAGE>
+
+                        DVI Receivables X, L.L.C. 1999-2
+                                 SERVICER REPORT
+                              For the Payment Date
+                                December 13, 2004
+
+<TABLE>
+<S>                       <C>                     <C>             <C>                     <C>                <C>
+001-0002073-009                                                                                              September, 2004 Payoff
+001-0002350-001                                                                                              August, 2004 Payoff
+001-0002339-004                                                                                              August, 2004 Payoff
+001-0001143-501                                                                                              August, 2004 Payoff
+001-0001139-501                                                                                              August, 2004 Payoff
+001-0001140-501                                                                                              August, 2004 Payoff
+001-0001560-005                                                                                              August, 2004 Payoff
+001-0000867-556                                                                                              August, 2004 Payoff
+001-0001144-501                                                                                              July, 2004 Payoff
+001-0001170-501                                                                                              July, 2004 Payoff
+001-0002255-001                                                                                              July, 2004 Payoff
+001-0001173-504                                                                                              July, 2004 Payoff
+001-0001084-501                                                                                              June, 2004 Payoff
+001-0002163-006                                                                                              June, 2004 Payoff
+001-0002188-001                                                                                              June, 2004 Payoff
+001-0002210-002                                                                                              June, 2004 Payoff
+001-0001104-501                                                                                              June, 2004 Payoff
+001-0002210-001                                                                                              June, 2004 Payoff
+001-0001080-501                                                                                              May, 2004 Payoff
+001-0001089-501                                                                                              May, 2004 Payoff
+001-0001873-006                                                                                              May, 2004 Payoff
+001-0002163-004                                                                                              May, 2004 Payoff
+001-0002163-005                                                                                              May, 2004 Payoff
+001-0002163-007                                                                                              May, 2004 Payoff
+001-0002163-003                                                                                              May, 2004 Payoff
+001-0001843-003                                                                                              April, 2004 Payoff
+001-0001079-501                                                                                              April, 2004 Payoff
+001-0001088-501                                                                                              April, 2004 Payoff
+001-0002329-001                                                                                              April, 2004 Payoff
+001-0002159-002                                                                                              April, 2004 Payoff
+                          --------------------    --------------  ----------------------  ------------
+                          $         736,661.02    $    72,494.14  $           638,198.05  $  11,111.41
+                          ====================    ==============  ======================  ============
+
+DEFAULTS
+001-0001945-007                                                                                              August, 2004 Default
+001-0001124-501                                                                                              February, 2004 Default
+001-0001082-501                                                                                              February, 2004 Default
+001-0001166-501                                                                                              February, 2004 Default
+                          --------------------    --------------  ----------------------  ------------
+                          OCTOBER DEFAULTS DCB    $            -  NOVEMBER DEFAULTS DCB   $          -
+                          ====================    ==============  ======================  ============
+
+                                                                                           GAIN/LOSS
+SETTLEMENTS                                                                                ---------
+001-0001107-501           $                   -   $    16,014.29  Nov, 2004 Settlement    $  (2,997.40)
+001-0001930-005                                                   July, 2004 Settlement   $ (41,978.43)
+001-0001930-004                                                   July, 2004 Settlement   $ (42,516.71)
+                          --------------------    --------------  ----------------------  ------------
+                          OCTOBER TOTAL BALANCE   $   809,155.16  NOVEMBER TOTAL BALANCE  $ 649,309.46
+                          ====================    ==============  ======================  ============
+</TABLE>
+
+<PAGE>
+
+                        DVI Receivables X, L.L.C. 1999-2
+                                 SERVICER REPORT
+                              For the Payment Date
+                                December 13, 2004
+
+With respect to any cumulative data provided on the report prior to USBPS being
+assigned Successor Servicer, as well as Scheduled Principal Balances, USBPS's
+figures are based on original data from DVI. USBPS can not warrant the data that
+is provided from DVI's original information and accordingly disclaims any
+liability for the accuracy of those figures.
+
+/s/ Joseph A. Andries
+- ---------------------
+APPROVED BY:
+JOSEPH A. ANDRIES, SENIOR VICE PRESIDENT OF U.S. BANK PORTFOLIO
+SERVICES
+
+                                                          Payment Date: 12/13/04
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

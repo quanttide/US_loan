@@ -1,0 +1,301 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ IH/8oZvyC3Fyuh+lYwmuiXDp86JKVaVjk92FVhmN4B0YZkv5UGFu72fLTwdQawni
+ RB7zaxC4G3mADFqd1AqLlw==
+
+<SEC-DOCUMENT>0001108017-04-000767.txt : 20041230
+<SEC-HEADER>0001108017-04-000767.hdr.sgml : 20041230
+<ACCEPTANCE-DATETIME>20041230123603
+ACCESSION NUMBER:		0001108017-04-000767
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20041228
+ITEM INFORMATION:		Other Events
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20041230
+DATE AS OF CHANGE:		20041230
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			DIATECT INTERNATIONAL CORP
+		CENTRAL INDEX KEY:			0000319124
+		STANDARD INDUSTRIAL CLASSIFICATION:	AGRICULTURE CHEMICALS [2870]
+		IRS NUMBER:				820513109
+		STATE OF INCORPORATION:			CA
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-10147
+		FILM NUMBER:		041233161
+
+	BUSINESS ADDRESS:	
+		STREET 1:		875 SOUTH INDUSTRIAL PARKWAY
+		CITY:			HEBER
+		STATE:			UT
+		ZIP:			84032
+		BUSINESS PHONE:		435-654-4370
+
+	MAIL ADDRESS:	
+		STREET 1:		875 SOUTH INDUSTRIAL PARKWAY
+		CITY:			HEBER
+		STATE:			UT
+		ZIP:			84032
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	SAN DIEGO BANCORP
+		DATE OF NAME CHANGE:	19931124
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>diatect8k.htm
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>Diatect 8-K</TITLE>
+</HEAD>
+<BODY>
+
+
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold-TNR" FSL="Workstation" -->
+<H1 ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>UNITED STATES<BR>SECURITIES
+AND EXCHANGE COMMISSION<BR>Washington, D.C. 20549 </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold-TNR" FSL="Workstation" -->
+<H1 ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>FORM 8-K </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold-TNR" FSL="Workstation" -->
+<H1 ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>CURRENT REPORT </FONT></H1>
+
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center-TNR" FSL="Workstation" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Pursuant to Section 13
+or 15(d) of the <BR>Securities Exchange Act of 1934 </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Large Indent Lv 0-TNR" FSL="Workstation" -->
+<P align=center><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Date
+of Report (Date of earliest event reported):<B> December 28, 2004</B> </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold-TNR" FSL="Default" -->
+<p ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2><B>DIATECT INTERNATIONAL
+CORPORATION</B> <BR>(Exact
+name of registrant as specified in its charter) </FONT></P>
+
+
+
+
+
+
+
+
+<TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0" align=center>
+<TR VALIGN="BOTTOM">
+     <TH><FONT FACE="Times New Roman, Times, Serif" SIZE="2">California</FONT></TH>
+     <TH><FONT FACE="Times New Roman, Times, Serif" SIZE="2">0-10147</FONT></TH>
+     <TH><FONT FACE="Times New Roman, Times, Serif" SIZE="2">95-355578</FONT></TH></TR>
+<TR VALIGN="TOP" align=center>
+     <TD WIDTH="34%"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">(State or other jurisdiction of incorporation)</FONT></TD>
+     <TD WIDTH="33%"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">(Commission File Number)</FONT></TD>
+     <TD WIDTH="33%"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">(IRS Employer ID No.)</FONT></TD></TR>
+</TABLE><BR>
+
+
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold 1-TNR" FSL="Default" -->
+<p ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2><B>875 South Industrial
+Parkway, Heber City, Utah, 84032</B> <BR>(Address
+of principal executive office) </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold-TNR" FSL="Default" -->
+<p ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2><B>(435) 654-4370</B> <BR>(Registrant&#146;s
+phone number including area code) </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Check the appropriate box below if
+the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the
+registrant under any of the following provisions: </FONT></P>
+
+
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>[&nbsp;&nbsp;&nbsp;] Written communications pursuant to
+Rule 425 under the Securities Act (17 CFR 230.425) </FONT></P>
+
+
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>[&nbsp;&nbsp;&nbsp;] Soliciting material pursuant to Rule
+14a-12 under the Exchange Act (17 CFR 240.14a-12) </FONT></P>
+
+
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>[&nbsp;&nbsp;&nbsp;] Pre-commencement communications
+pursuant to Rule 14d-2(b) under the Exchange Act (17CFR 240.14d-2(b)) </FONT></P>
+
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Default" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>[&nbsp;&nbsp;&nbsp;] Pre-commencement communications
+pursuant to Rule 13e-4(c) under the Exchange Act (17CFR 240.13e-4(c)) </FONT></P>
+
+
+
+
+<PAGE>
+
+
+
+
+
+
+<!-- MARKER FORMAT-SHEET="Head Sub 2 Left-TNR" FSL="Workstation" -->
+<P ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2><b>ITEM
+8.01 &#150; OTHER EVENTS</b></FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Indent Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>The
+Corporation issued a press release concerning the beginning of its shipments of Results
+Fireant product to major national retailer. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Sub 2 Left-TNR" FSL="Workstation" -->
+<P ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2><b>ITEM
+9.01 &#150; FINANCIAL STATEMENTS AND EXHIBITS</b></FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Flush Lv 0- TNR" FSL="Workstation" -->
+     <P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>(A)&nbsp;&nbsp;&nbsp;&nbsp;
+          Not applicable </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Flush Lv 0- TNR" FSL="Workstation" -->
+     <P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>(B)&nbsp;&nbsp;&nbsp;&nbsp;
+          Not applicable </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Flush Lv 0- TNR" FSL="Workstation" -->
+     <P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>(C)&nbsp;&nbsp;&nbsp;&nbsp;
+          Exhibits </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Sub 2 Left-TNR" FSL="Default" -->
+<P ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(1)
+Press Release</FONT></P>
+
+
+<PAGE>
+
+
+
+
+
+
+
+
+
+
+
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold-TNR" FSL="Workstation" -->
+<H1 ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>SIGNATURES </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Pursuant to the requirements of the
+Securities Exchange Act of 1934, as amended, the Registrant has duly caused this report to
+be signed on its behalf by the undersigned hereunder duly authorized. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Left-TNR" FSL="Workstation" -->
+<P ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>DIATECT INTERNATIONAL
+CORPORATION </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Left-TNR" FSL="Workstation" -->
+<P ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>December 28, 2004<BR><BR><U>/s/ Dave
+Andrus</U><BR>Dave Andrus<BR>Principal Executive
+Officer<BR>Principal Financial Officer </FONT></P>
+
+
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>2
+<FILENAME>e991.htm
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>Exhibit 99.1</TITLE>
+</HEAD>
+<BODY>
+
+
+<!-- MARKER FORMAT-SHEET="Head Major Left Bold-TNR" FSL="Workstation" -->
+<H1 ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>PRESS RELEASE <BR>FOR IMMEDIATE RELEASE </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold 1-TNR" FSL="Workstation" -->
+<H1 ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Diatect Begins
+Shipments of Results Fireant Product to Major National Retailer </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2><B>Heber, UT, December 28, 2004</B>
+&#151; Diatect International Corporation (OTC Bulletin Board: DTCT) WKN: 913540 Symbol:
+DI8.FSE (Frankfurt) DI8.BER (Berlin) announced today that a national retailer has ordered
+and received its first shipments of Results Fireant product for retail sale in Texas,
+Florida, Louisiana and Arkansas stores. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Dave Andrus, interim chairman,
+president and CEO, said, &#147;We are on track with this major retailer in many of its
+stores. We have already received a number of re-orders. We hope this is the start of a
+long-standing relationship. We are particularly pleased with the early re-orders, which
+suggests that the Results product is making a solid early impression with consumers.&#148; </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Major Left Bold-TNR" FSL="Workstation" -->
+<H1 ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>About Diatect </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Diatect International Corporation is
+an insect control and natural resource company headquartered in Heber near Salt Lake City.
+Diatect products are an EPA-labeled new generation of non-toxic insect control products
+marketed for sustainable and organic food production. The company&#146;s Diatect&#153; and
+Results products are sold into the multi-billion dollar agriculture, industrial, home and
+garden industry worldwide. The Results line for fire ant, tomato and garden, pet powder
+and indoor markets is packaged for the over-the-counter market and consumer use. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>An investment profile on Diatect may
+be found on the website <U>http://www.hawkassociates.com/diatect/profile.htm.</U> </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>For further information, contact
+Diatect International Shareholder Services at (435) 654-4370, e-mail:
+shareholderservices@diatect.com, or Frank Hawkins or Julie Marshall, Hawk Associates, at
+(305) 852-2383, e-mail: info@hawkassociates.com. Detailed information about Diatect
+International Corporation can be found on the website <U>http://www.diatect.com</U>.
+Copies of Diatect press releases, SEC filings, current price quotes, stock charts and
+other valuable information for investors may be found on the website
+<U>http://www.hawkassociates.com/diatect</U>. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Default" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>This announcement includes
+forward-looking statements that involve risk and uncertainties. While these statements are
+made to convey to the public Diatect&#146;s progress, business potential and growth
+prospects, readers are cautioned that such forward-looking statements represent
+management&#146;s opinion. Such statements are made based upon current expectations that
+are subject to risk and uncertainty. In particular, management&#146;s estimates of future
+revenue amounts and timing are based upon product delivery schedules, which may be subject
+to unforeseen delays. Diatect does not undertake to update forward-looking statements in
+this news release to reflect actual results of its marketing plan and changes in
+assumptions or changes in other factors affecting such forward-looking information. </FONT></P>
+
+
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

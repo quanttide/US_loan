@@ -1,0 +1,384 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ OiMfm3fvXjsS2Od0jz3BflWT6AOWcNM5+uk4NeRgJYoxvsY31VVNH9h69HVpoNgK
+ 5p6pfG7fegoHZm9xVJLCYQ==
+
+<SEC-DOCUMENT>0000909518-04-001020.txt : 20041227
+<SEC-HEADER>0000909518-04-001020.hdr.sgml : 20041224
+<ACCEPTANCE-DATETIME>20041227103550
+ACCESSION NUMBER:		0000909518-04-001020
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20041227
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20041227
+DATE AS OF CHANGE:		20041227
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BMW VEHICLE OWNER TRUST 2002-A
+		CENTRAL INDEX KEY:			0001173294
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-AUTO RENTAL & LEASING (NO DRIVERS) [7510]
+		IRS NUMBER:				456117451
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-56802-02
+		FILM NUMBER:		041225718
+
+	BUSINESS ADDRESS:	
+		STREET 1:		300 CHESTNUT RIDGE ROAD
+		CITY:			WOODCLIFF LAKE
+		STATE:			NJ
+		ZIP:			07677
+		BUSINESS PHONE:		2013074000
+
+	MAIL ADDRESS:	
+		STREET 1:		300 CHESTNUT RIDGE ROAD
+		CITY:			WOODCLIFF LAKE
+		STATE:			NJ
+		ZIP:			07677
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BMW FS SECURITIES LLC
+		CENTRAL INDEX KEY:			0001136586
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-AUTO RENTAL & LEASING (NO DRIVERS) [7510]
+		IRS NUMBER:				000000000
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-56802
+		FILM NUMBER:		041225719
+
+	BUSINESS ADDRESS:	
+		STREET 1:		300 CHESTNUT RIDGE RD
+		CITY:			WOODCLIFF LAKE
+		STATE:			NJ
+		ZIP:			07677
+		BUSINESS PHONE:		2013074000
+
+	MAIL ADDRESS:	
+		STREET 1:		300 CHESTNUT RIDGE RD
+		CITY:			WOODCLIFF LAKE
+		STATE:			NJ
+		ZIP:			07677
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>jd12-17_8k2002.txt
+<TEXT>
+================================================================================
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+
+                            -----------------------
+
+
+                                    FORM 8-K
+
+                                 CURRENT REPORT
+                     PURSUANT TO SECTION 13 OR 15(D) OF THE
+                         SECURITIES EXCHANGE ACT OF 1934
+
+                            -----------------------
+
+        DATE OF REPORT (DATE OF EARLIEST EVENT REPORTED): DECEMBER 27, 2004
+
+
+                              BMW FS SECURITIES LLC
+                         BMW VEHICLE OWNER TRUST 2002-A
+                        --------------------------------
+                           (EXACT NAME OF REGISTRANT)
+
+        DELAWARE                 333-56802                22-3784653
+        DELAWARE                 333-56802-02             45-6117451
+        --------                 ------------            -------------
+ (STATE OF INCORPORATION)   (COMMISSION FILE NO.)        (IRS EMPLOYER
+                                                         IDENTIFICATION
+                                                            NUMBER)
+
+                             300 CHESTNUT RIDGE ROAD
+                            WOODCLIFF LAKE, NJ 07677
+                            ------------------------
+                    (ADDRESS OF PRINCIPAL EXECUTIVE OFFICES)
+
+                                 (201) 307-4000
+                                 --------------
+                         (REGISTRANT'S TELEPHONE NUMBER)
+
+================================================================================
+
+<PAGE>
+ITEM 9.01       FINANCIAL STATEMENTS AND EXHIBITS.
+                ----------------------------------
+
+
+(c) Exhibit.
+    --------
+
+   Exhibit 99.1 -    Servicer Report for BMW Vehicle Owner Trust 2002-A for
+                     the Distribution Date December 27, 2004.
+
+
+
+
+
+
+
+                                        2
+<PAGE>
+                                    SIGNATURE
+
+
+           Pursuant to the requirements of the Securities Exchange Act of 1934,
+the Registrants have duly caused this report to be signed on their behalf by the
+undersigned hereunto duly authorized.
+
+
+                                       BMW FS Securities LLC
+                                       BMW Vehicle Owner Trust 2002-A
+
+
+
+Date:  December 27, 2004               By:   /s/ Gerald Holzmann
+                                            -----------------------------------
+                                            Gerald Holzmann
+                                            Authorized Signatory
+
+
+
+
+
+
+
+
+
+
+                                        3
+<PAGE>
+                                  EXHIBIT INDEX
+
+
+           Exhibit No.                      Description
+           -----------                      -----------
+
+               99.1           Servicer Report for BMW Vehicle Owner Trust 2002-A
+                              for the Distribution Date December 27, 2004.
+
+
+
+
+
+
+
+
+                                        4
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>2
+<FILENAME>jd12-17ex99_2002.txt
+<DESCRIPTION>99.1
+<TEXT>
+                                                                    EXHIBIT 99.1
+
+    Accrued Interest Date:                             Collection Period Ending:
+    26-Nov-04                                                         30-Nov-04
+
+    Distribution Date:       BMW Vehicle Owner Trust 2002-A            Period #
+    27-Dec-04                ------------------------------                  31
+
+<TABLE>
+<S>                                                                     <C>                     <C>
+    --------------------------------------------------------------------------------------------------------------------------------
+
+    Balances
+    --------------------------------------------------------------------------------------------------------------------------------
+
+                                                                               Initial               Period End
+        Receivables                                                     $1,401,763,032             $266,101,572
+        Reserve Account                                                    $14,017,630              $10,513,223
+        Yield Supplement Overcollateralization                              $6,397,885               $1,301,306
+        Class A-1 Notes                                                   $311,000,000                       $0
+        Class A-2 Notes                                                   $358,426,000                       $0
+        Class A-3 Notes                                                   $446,779,000                       $0
+        Class A-4 Notes                                                   $251,253,000             $236,893,119
+        Class B Notes                                                      $27,907,000              $27,907,000
+
+    Current Collection Period
+    --------------------------------------------------------------------------------------------------------------------------------
+
+        Beginning Receivables Outstanding                                 $286,483,287
+        Calculation of Total Distribution Amount
+            Regular Principal Distributable Amount
+                Receipts of Scheduled Principal                            $12,858,039
+                Receipts of Pre-Paid Principal                              $7,247,422
+                Liquidation Proceeds                                          $140,958
+                Principal Balance Allocable to Gross Charge-offs              $135,296
+            Total Receipts of Principal                                    $20,381,715
+
+            Interest Distribution Amount
+                Receipts of Interest                                        $1,358,997
+                Servicer Advances                                                   $0
+                Reimbursement of Previous Servicer Advances                   ($55,293)
+                Accrued Interest on Purchased Receivables                           $0
+                Recoveries                                                     $46,893
+                Net Investment Earnings                                        $14,289
+            Total Receipts of Interest                                      $1,364,886
+
+            Release from Reserve Account                                            $0
+
+        Total Distribution Amount                                          $21,611,306
+
+        Ending Receivables Outstanding                                    $266,101,572
+
+    Servicer Advance Amounts
+    --------------------------------------------------------------------------------------------------------------------------------
+
+        Beginning Period Unreimbursed Previous Servicer Advance             $2,087,188
+        Current Period Servicer Advance                                             $0
+        Current Reimbursement of Previous Servicer Advance                    ($55,293)
+        Ending Period Unreimbursed Previous Servicer Advances               $2,031,895
+
+    Collection Account
+    --------------------------------------------------------------------------------------------------------------------------------
+
+        Deposits to Collection Account                                     $21,611,306
+        Withdrawals from Collection Account
+            Servicing Fees                                                    $238,736
+            Class A Noteholder Interest Distribution                          $952,561
+            First Priority Principal Distribution                                   $0
+            Class B Noteholder Interest Distribution                          $112,791
+            Regular Principal Distribution                                 $20,276,967
+            Reserve Account Deposit                                                 $0
+            Unpaid Trustee Fees                                                     $0
+            Excess Funds Released to Depositor                                 $30,250
+        Total Distributions from Collection Account                        $21,611,306
+
+
+                                       1
+<PAGE>
+    Excess Funds Released to the Depositor
+    --------------------------------------------------------------------------------------------------------------------------------
+            Release from Reserve Account                                    $0
+            Release from Collection Account                            $30,250
+        Total Excess Funds Released to the Depositor                   $30,250
+
+    Note Distribution Account
+    --------------------------------------------------------------------------------------------------------------------------------
+
+        Amount Deposited from the Collection Account               $21,342,319
+        Amount Deposited from the Reserve Account                           $0
+        Amount Paid to Noteholders                                 $21,342,319
+
+    Distributions
+    --------------------------------------------------------------------------------------------------------------------------------
+
+
+        Monthly Principal Distributable Amount                 Current Payment           Ending Balance      Per $1,000      Factor
+        Class A-1 Notes                                                     $0                       $0           $0.00       0.00%
+        Class A-2 Notes                                                     $0                       $0           $0.00       0.00%
+        Class A-3 Notes                                             $5,917,086                       $0          $13.24       0.00%
+        Class A-4 Notes                                            $14,359,881             $236,893,119          $57.15      94.28%
+        Class B Notes                                                       $0              $27,907,000           $0.00     100.00%
+
+        Interest Distributable Amount                          Current Payment               Per $1,000
+        Class A-1 Notes                                                     $0                    $0.00
+        Class A-2 Notes                                                     $0                    $0.00
+        Class A-3 Notes                                                $18,737                    $0.04
+        Class A-4 Notes                                               $933,824                    $3.72
+        Class B Notes                                                 $112,791                    $4.04
+
+
+
+    Carryover Shortfalls
+    --------------------------------------------------------------------------------------------------------------------------------
+                                                                        Prior
+                                                                  Period Carryover          Current Payment      Per $1,000
+        Class A-1 Interest Carryover Shortfall                              $0                       $0              $0
+        Class A-2 Interest Carryover Shortfall                              $0                       $0              $0
+        Class A-3 Interest Carryover Shortfall                              $0                       $0              $0
+        Class A-4 Interest Carryover Shortfall                              $0                       $0              $0
+        Class B Interest Carryover Shortfall                                $0                       $0              $0
+
+
+    Receivables Data
+    --------------------------------------------------------------------------------------------------------------------------------
+
+                                                              Beginning Period            Ending Period
+        Number of Contracts                                             24,721                   23,862
+        Weighted Average Remaining Term                                  24.12                    23.22
+        Weighted Average Annual Percentage Rate                          6.32%                    6.32%
+
+        Delinquencies Aging Profile End of Period                Dollar Amount               Percentage
+            Current                                               $235,163,518                   88.37%
+            1-29 days                                              $24,546,707                    9.22%
+            30-59 days                                              $4,955,268                    1.86%
+            60-89 days                                                $730,297                    0.27%
+            90-119 days                                               $243,739                    0.09%
+            120+ days                                                 $462,042                    0.17%
+            Total                                                 $266,101,572                  100.00%
+            Delinquent Receivables +30 days past due                $6,391,347                    2.40%
+
+
+        Write-offs
+            Gross Principal Write-Offs for Current Period             $135,296
+            Recoveries for Current Period                              $46,893
+            Net Write-Offs for Current Period                          $88,403
+
+            Cumulative Realized Losses                              $6,956,801
+
+
+
+                                       2
+<PAGE>
+        Repossessions                                            Dollar Amount          Units
+            Beginning Period Repossessed Receivables Balance          $394,180             24
+            Ending Period Repossessed Receivables Balance             $547,184             34
+            Principal Balance of 90+ Day Repossessed Vehicles          $79,796              3
+
+
+
+    Yield Supplement Overcollateralization
+    --------------------------------------------------------------------------------------------------------------------------------
+
+        Beginning Period Required Amount                            $1,406,054
+        Beginning Period Amount                                     $1,406,054
+        Ending Period Required Amount                               $1,301,306
+        Current Period Release                                        $104,748
+        Ending Period Amount                                        $1,301,306
+        Next Distribution Date Required Amount                      $1,200,775
+
+    Reserve Account
+    --------------------------------------------------------------------------------------------------------------------------------
+
+        Beginning Period Required Amount                           $10,513,223
+        Beginning Period Amount                                    $10,513,223
+        Net Investment Earnings                                        $14,289
+        Current Period Deposit                                              $0
+        Current Period Release to Collection Account                        $0
+        Current Period Release to Depositor                                 $0
+        Ending Period Required Amount                              $10,513,223
+        Ending Period Amount                                       $10,513,223
+
+</TABLE>
+
+                                       3
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

@@ -1,0 +1,818 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ ED2kH8+Uk+/e+AJ+imDUx9bgU7aoqSLxhdDNpg0/KsvYMiHMIprnH7vet4hhz+Ye
+ ZBhbIB3CY0irRfpuuqAGYA==
+
+<SEC-DOCUMENT>0001193125-04-220823.txt : 20041229
+<SEC-HEADER>0001193125-04-220823.hdr.sgml : 20041229
+<ACCEPTANCE-DATETIME>20041229155440
+ACCESSION NUMBER:		0001193125-04-220823
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		4
+CONFORMED PERIOD OF REPORT:	20041228
+ITEM INFORMATION:		Entry into a Material Definitive Agreement
+ITEM INFORMATION:		Departure of Directors or Principal Officers; Election of Directors; Appointment of Principal Officers
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20041229
+DATE AS OF CHANGE:		20041229
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			GATEWAY INC
+		CENTRAL INDEX KEY:			0000895812
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRONIC COMPUTERS [3571]
+		IRS NUMBER:				421249184
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-22784
+		FILM NUMBER:		041231160
+
+	BUSINESS ADDRESS:	
+		STREET 1:		7565 IRVINE CENTER DRIVE
+		CITY:			IRVINE
+		STATE:			CA
+		ZIP:			92618
+		BUSINESS PHONE:		9494717000
+
+	MAIL ADDRESS:	
+		STREET 1:		7565 IRVINE CENTER DRIVE
+		CITY:			IRVINE
+		STATE:			CA
+		ZIP:			92618
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	GATEWAY 2000 INC
+		DATE OF NAME CHANGE:	19931022
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>d8k.htm
+<DESCRIPTION>FORM 8-K
+<TEXT>
+<HTML><HEAD>
+<TITLE>Form 8-K</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+<HR SIZE="3" NOSHADE COLOR="#000000" ALIGN="left"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="5"><B>UNITED STATES </B></FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="5"><B>SECURITIES AND EXCHANGE COMMISSION </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman"
+SIZE="3"><B>Washington, D.C. 20549 </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P><HR WIDTH="17%" SIZE="1" NOSHADE COLOR="#000000"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="5"><B>FORM 8-K </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P><HR WIDTH="17%"
+SIZE="1" NOSHADE COLOR="#000000"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="3"><B>CURRENT REPORT </B></FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="3"><B>Pursuant to Section 13 OR 15(d) of </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman"
+SIZE="3"><B>The Securities Exchange Act of 1934 </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>Date of
+Report (Date of earliest event reported): December 28, 2004 </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P><HR WIDTH="17%" SIZE="1" NOSHADE COLOR="#000000"> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="6"><B>Gateway, Inc. </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"
+ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(Exact name of registrant as specified in its charter) </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P><HR WIDTH="17%" SIZE="1" NOSHADE
+COLOR="#000000"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD WIDTH="34%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="32%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="32%"></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>Delaware</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>0-22784</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>42-1249184</B></FONT></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(State or other jurisdiction</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:1px" ALIGN="center"><FONT
+FACE="Times New Roman" SIZE="1"><B>of incorporation)</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(Commission File Number)</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(IRS Employer</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:1px" ALIGN="center"><FONT FACE="Times New Roman"
+SIZE="1"><B>Identification No.)</B></FONT></P></TD></TR>
+</TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>7565 Irvine Center
+Drive, Irvine, CA 92618 </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(Address of principal executive offices, zip code) </B></FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>Registrant&#146;s telephone number, including area code: 949-471-7000
+</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>14303 Gateway Place, Poway, CA 92064 </B></FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(Former name or former address, if changed since last report.) </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P><HR WIDTH="17%" SIZE="1" NOSHADE COLOR="#000000"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Check the
+appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions: </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2"></FONT><FONT FACE="WINGDINGS" SIZE="2" COLOR="#000000">&#168;</FONT><FONT FACE="Times New Roman" SIZE="2"></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2"></FONT><FONT FACE="WINGDINGS" SIZE="2" COLOR="#000000">&#168;</FONT><FONT FACE="Times New Roman" SIZE="2"></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2"></FONT><FONT FACE="WINGDINGS" SIZE="2" COLOR="#000000">&#168;</FONT><FONT FACE="Times New Roman" SIZE="2"></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2"></FONT><FONT FACE="WINGDINGS" SIZE="2" COLOR="#000000">&#168;</FONT><FONT FACE="Times New Roman" SIZE="2"></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT
+SIZE="1">&nbsp;</FONT></P><HR SIZE="3" NOSHADE COLOR="#000000" ALIGN="left">
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>Item 1.01 Entry Into a Material Definitive Agreement </B></FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">The information concerning the Option Agreement set forth below in Item 5.02
+is hereby incorporated by reference into this Item 1.01. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>Item 5.02
+Departure of Directors or Principal Officers; Election of Directors; Appointment of Principal Officers. </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">On December 28<U></U>, the Board of Directors of Gateway, Inc. (&#147;Gateway&#148;) elected Mr. Joseph G. Parham, Jr. to serve on its Board of Directors,
+effective January 1, 2005. In addition, Mr. Parham was named to the Compensation Committee and the Corporate Governance &amp; Nominating Committee of the Board. There is no arrangement or understanding pursuant to which Mr. Parham was selected as a
+director, and there are no related party transactions between Gateway and Mr. Parham, reportable under Item 404(a) of Regulation S-K. A copy of the press release announcing Mr. Parham&#146;s election is attached as Exhibit 99.1 to this current
+report on Form 8-K. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">In connection with Mr. Parham joining the
+Gateway Board, he will receive a non-employee director stock option grant to acquire 20,000 shares of Gateway common stock. The option grant price will be set at the closing price for Gateway common stock on December 31, 2004 as reported by the New
+York Stock Exchange. The option vests over three years and is otherwise granted on the same terms and conditions as the regular annual grant to non-employee members of the Board of Directors. A copy of the form of Option Agreement is attached as
+Exhibit 99.2 to this current report on Form 8-K. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>Item 9.01 Financial
+Statements and Exhibits. </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">(c)</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Exhibits </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="96%"></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">99.1</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">Press release, dated December 28, 2004</FONT></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">99.2</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">Form of Option Agreement</FONT></TD></TR>
+</TABLE>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>SIGNATURES </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the
+undersigned hereunto duly authorized. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Date: December 29, 2004 </FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P><DIV ALIGN="right">
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="40%" BORDER="0">
+
+<TR>
+<TD WIDTH="7%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="92%"></TD></TR>
+<TR>
+<TD VALIGN="top" COLSPAN="3"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">GATEWAY, INC.</FONT></P></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">By:</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-top:0px;margin-bottom:0px; margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">/s/ Michael R. Tyler</FONT></P><HR SIZE="1" NOSHADE COLOR="#000000"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Michael R. Tyler</FONT></P></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Vice President, General Counsel &amp; Secretary</FONT></P></TD></TR>
+</TABLE></DIV>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>EXHIBIT INDEX </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD WIDTH="95%"></TD></TR>
+<TR>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="1"><B>Exhibit<BR>Number</B></FONT><BR><HR WIDTH="37" SIZE="1" NOSHADE ALIGN="left" COLOR="#000000"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="1"><B>Description</B></FONT></P><HR WIDTH="54" SIZE="1" NOSHADE ALIGN="left" COLOR="#000000"></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">99.1</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">Press release, dated December 28, 2004</FONT></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">99.2</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">Form of Option Agreement</FONT></TD></TR>
+</TABLE>
+</BODY></HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>dex991.htm
+<DESCRIPTION>PRESS RELEASE
+<TEXT>
+<HTML><HEAD>
+<TITLE>Press Release</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2"><B>Exhibit 99.1 </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="right">
+
+<IMG SRC="g92897img001.jpg" ALT="LOGO"> </P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>Media Contact: </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">David
+Hallisey, (949) 471-7703 </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B><U>david.hallisey@gateway.com</U> </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>Investor Contact: </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Marlys Johnson, (605) 232-2709 </FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B><U>marlys.johnson@gateway.com</U> </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>JOE PARHAM JOINS GATEWAY&#146;S BOARD OF DIRECTORS </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2"><B>Irvine, Calif., Dec. 28, 2004</B> &#150; Gateway, Inc. announced today that Joseph G. Parham, Jr. will join the company&#146;s Board of Directors,
+effective January 1, 2005. Mr. Parham was also appointed a member of the Compensation Committee and Corporate Governance Committee of the Board. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">Parham, 55, is senior vice president of human resources for Atlanta-based Acuity Brands, Inc. Acuity Brands is composed of the Acuity Lighting Group, the
+world&#146;s largest lighting fixture manufacturer, and Acuity Specialty products, a leading provider of specialty chemicals. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">&#147;The addition of Joe Parham further bolsters the strength of Gateway&#146;s board and provides us a valuable resource, specifically in the area of
+human resources,&#148; said Gateway Chairman Ted Waitt. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">Prior
+to joining Acuity Brands, Parham spent 25 years at Polaroid Corporation where he served in a variety of roles, including president of Polaroid Eyewear and senior vice president of human resources. He has a BS in management and a MBA in economics,
+both from Babson College, where he also currently serves as a trustee. Parham is a member of the board of the National Kidney Foundation of Georgia and a former member of the board of directors of International Multifoods Corporation. </FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">&#151; more &#151; </FONT></P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>About Gateway </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">Since its founding in 1985, Irvine, Calif.-based Gateway (NYSE: <U>GTW</U>) has been a technology pioneer, offering award-winning PCs and related products
+to consumers, businesses, government agencies and schools. Since acquiring eMachines in early 2004, Gateway is now the third largest PC company in the U.S. and among the top ten worldwide. The company&#146;s value-based eMachines brand is sold
+exclusively by leading retailers worldwide, while the premium Gateway line is available at major retailers, over the web and phone, and through its direct sales force. See <U>http://www.gateway.com</U> for more information. </FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">1. Data according to The NPD Group, Jan. &#150; Sept., 2004 </FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">### </FONT></P>
+</BODY></HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.2
+<SEQUENCE>3
+<FILENAME>dex992.htm
+<DESCRIPTION>FORM OF OPTION AGREEMENT
+<TEXT>
+<HTML><HEAD>
+<TITLE>Form of Option Agreement</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2"><B>Exhibit 99.2
+</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>GATEWAY, INC. </B></FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>Form of Option Agreement </B></FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">(Non-Employee Directors Grant) </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">This document constitutes part of the prospectus covering securities that may be registered under the Securities Act of 1933. </FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD WIDTH="18%"></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD WIDTH="80%"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Optionee</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">Joseph G. Parham, Jr.</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Grant Date</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">January 1, 2005</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Vesting Start Date</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">January 1, 2005</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Exercise Price</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">TBD</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Option Shares</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">20,000</FONT></TD></TR>
+</TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">Gateway, Inc. hereby
+grants Joseph G. Parham, Jr., a non-employee member of the Board of Directors and the Optionee named above, a non-qualified stock option under the Company&#146;s 2000 Equity Incentive Plan. The Option allows Optionee to purchase shares of the
+Company&#146;s Common Stock up to the number of shares shown by &#147;Option Shares,&#148; above. The Option is effective as of the Grant Date shown above. The Company will deliver to Optionee certificates for shares purchased under the Option upon
+payment of the Exercise Price, subject to the terms and conditions below. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">1.
+<I><U>Definitions</U>. </I>Stylized terms used herein have the following meanings: </FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">1.1.</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">&#147;Board&#148; means the Board of Directors of the Company. </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">1.2.</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">&#147;Code&#148; means the Internal Revenue Code of 1986, as amended. </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">1.3.</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">&#147;Committee&#148; means the Compensation Committee of the Board. </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">1.4.</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">&#147;Common Stock&#148; means the Company&#146;s Common Stock, par value $.01 per share. </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT
+SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">1.5.</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">&#147;Company&#148; means Gateway, Inc., a Delaware corporation. </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">1.6.</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">&#147;Disability&#148; means Optionee&#146;s permanent inability, due to illness, accident, injury, physical or mental incapacity or other disability, to carry out effectively
+Optionee&#146;s duties and obligations as a director of the Company or to participate effectively and actively in the management of the Company by the Board. </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P>
+
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">1.7.</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">&#147;Exchange Act&#148; means the Securities Exchange Act of 1934, as amended. </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT
+SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">1.8.</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">&#147;Exercise&#148; of the Option means the purchase by Optionee of Option Shares under Section 2. </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT
+SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">1.9.</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">&#147;Exercise Price&#148; means the Exercise Price shown above, which is the closing price per share of the Common Stock on the New York Stock Exchange on the Grant Date as
+reported in the Wall Street Journal. </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">1.10.</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">&#147;Gateway Companies&#148; means, collectively, the Company and its subsidiaries. Individually, a &#147;Gateway Company&#148; means any of the Company and its subsidiaries.
+</FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">1.11.</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">&#147;Option&#148; means the option to purchase Common Stock granted Optionee by this Agreement. </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT
+SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">1.12.</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">&#147;Option Shares&#148; means all shares of Common Stock issued or issuable upon Option exercise, as adjusted under Section 8. </FONT></TD></TR></TABLE> <P
+STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">1.13.</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">&#147;Plan&#148; means the Company&#146;s 2000 Equity Incentive Plan. </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">1.14.</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">&#147;Requirements&#148; has the meaning provided in Section 10. </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">1.15.</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">&#147;Securities Act&#148; means the Securities Act of 1933, as amended. </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">1.16.</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">&#147;Service&#148; means Optionee&#146;s service as a non-employee member of the Board of Directors of the Company. </FONT></TD></TR></TABLE> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">2. <I><U>Exercise</U>. </I>Optionee may exercise the Option, in one or more transactions, to
+the extent that it is vested and has not expired. Optionee exercises the Option by (i) giving written notice to the Company&#146;s Corporate Secretary substantially in the form of Exhibit A together with payment of the Exercise Price multiplied by
+the number of Option Shares to be purchased, or (ii) pursuant to a Company approved cashless exercise program. Termination of Service or expiration of the Option cannot reverse any previous, proper Option exercise hereunder. </FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">3. <I><U>Vesting</U>. </I>Subject to Section 4, and so long as Optionee is in Service, the
+Option will vest as follows: (i) 4,000 shares will vest at midnight on May 19, 2005; and (ii) 8,000 shares will vest at midnight on each of May 19, 2006 and May 19, 2007. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">4. <I><U>Expiration</U>. </I>When the Option expires, any vested portions become unvested and can no longer be exercised. The Option expires
+at the earliest to occur of (1) midnight of the day before the tenth anniversary of the Grant Date; (2) midnight of the day before the third anniversary of any termination of Service for any reason other than death or Disability, (3) midnight of the
+ninetieth day after any termination of Service for any reason other than death or Disability, if Optionee did not serve for six years or more; or (4) midnight of the day before the first </FONT>
+</P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">2 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px">
+<FONT FACE="Times New Roman" SIZE="2">anniversary of the date on which the Optionee ceases service as a director as a result of death or Disability. </FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">5. <I><U>Conformity with Plan</U>. </I>The Option and this Agreement are intended to conform
+to the Plan&#146;s provisions. The Plan&#146;s provisions will control in the event of any inconsistency between them and this Agreement. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">6. <I><U>Withholding of Taxes</U>. </I>The Committee may, as a condition of Option exercise, require payment by Optionee of, or indemnification from Optionee for, any
+withholding or other tax due upon Option exercise. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">7. <I><U>Payments</U>.
+</I>Any payments by Optionee required under Sections 2 or 6 may be made either in cash (including certified or cashier&#146;s check, or money order) or by delivery of other shares of Common Stock already owned by Optionee for at least six months and
+to which Optionee has good title, free and clear of all liens and encumbrances. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman"
+SIZE="2">8. <I><U>Adjustments</U>. </I>In the event of any stock dividend, stock split, recapitalization, reorganization, merger, consolidation, combination or exchanges of shares, or any other similar change affecting the Common Stock, the
+Committee will adjust the Exercise Price and the number and type of Option Shares subject, in each case, to compliance with the Plan and applicable law. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">9. <I><U>Transferability</U>. </I>The Option is personal to Optionee and is not transferable by Optionee other than (1) by will or the laws of descent and distribution;
+(2) by gift or other transfer to Optionee&#146;s spouse or other immediate relative or to any trust or estate in which Optionee or Optionee&#146;s spouse or other immediate relative has a substantial beneficial interest, <I>provided that </I>(a)
+such transfer is permitted by Rule 16b-3 of the Exchange Act as in effect when such transfer occurs, and (b) there is a Plan provision permitting such transfer in full force and effect with respect to such transfer when such transfer occurs; or (3)
+pursuant to a qualified domestic relations order (as defined by the Code). Any transfer of the Option or Option Shares in violation of this Agreement is void from inception. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">10. <I><U>Registration</U>. </I>The Company is not obligated to issue any shares of Common Stock upon Option exercise unless (1) such shares
+have been registered under the Securities Act or an exemption from such registration is available and otherwise deemed appropriate by the Committee for such issuance; and (2) such issuance is in compliance with applicable law and regulations and the
+requirements of any stock exchange, quotation service or similar agency on which the Common Stock may then be listed or quoted (such law, regulations and requirements being collectively referred to herein as &#147;Requirements&#148;). The Company
+has no obligation to so register shares of Common Stock or to so comply with Requirements. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+FACE="Times New Roman" SIZE="2">11. <I><U>Remedies</U>. </I>Each party is entitled to enforce its rights under this Agreement and to recover damages for breach. The parties agree that money damages may not always be an adequate remedy for breach,
+and in such event the wronged party may, in its sole discretion, request specific performance and/or injunctive relief (without posting bond or other security) from any court of competent jurisdiction to enforce or prevent any breach of this
+Agreement. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">3 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">12. <I><U>Miscellaneous</U>. </I>This Agreement is not an offer and is effective only when fully signed. All required
+notices must be in writing and are deemed given upon delivery if sent with return receipt via a reputable delivery service. Deadline times herein refer to Irvine, California, USA time. No failure or delay to enforce a provision will be deemed a
+waiver thereof. The invalidity of any provision will not affect the validity of any other provision. Descriptive headings are intended as a convenience and not as operative text. This Agreement is governed by Delaware, USA law with respect to
+matters of corporate law and governance and by the internal law of South Dakota, USA in all other respects. This Agreement may be signed in counterparts, is the entire and exclusive set of terms and conditions for transactions made under it and
+binds and benefits the permitted successors and assigns of all parties. This Agreement may only be modified by a writing signed by all parties, unless the modification only enhances Optionee&#146;s rights, in which case it can become effective with
+only the Company&#146;s signature. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">13. <I><U>Optionee Acknowledgment</U>.
+</I>Optionee agrees, represents and acknowledges that (1) Optionee&#146;s exercise of the Option and purchase of Option Shares will be for Optionee&#146;s own account or for the account of transferees permitted under Section 9 and not on behalf of
+any others; (2) certain laws govern and restrict Optionee&#146;s right to offer, sell or otherwise dispose of any Option Shares, unless an exemption from such laws is available and otherwise deemed appropriate by the Committee; (3) Optionee will not
+offer, sell or otherwise dispose of any Option Shares in any way which would cause Optionee or any Gateway Company to violate any Requirement or require any Gateway Company to register such disposition under any Requirement; (4) Optionee may be
+required upon Option exercise or upon subsequent transfer of Option Shares to furnish representations and undertakings deemed appropriate by the Committee for compliance with Requirements; (5) certificates evidencing Option Shares will bear such
+legends, if any, deemed appropriate by the Committee for compliance with Requirements; (6) Optionee will not offer, sell or otherwise dispose of any Option Shares in violation of any policy of a Gateway Company; (7) the Option is not intended to be
+an &#147;incentive stock option&#148; within the meaning of Section 422 of the Code; (8) nothing in this Agreement prevents Optionee&#146;s removal or change in compensation as a director of the Company in accordance with the Company&#146;s
+Certificate of Incorporation or Bylaws or with applicable law; (9) Optionee only has rights as a stockholder of Option Shares if and to the extent that Optionee exercises the Option and retains ownership of Option Shares; and (10) Optionee will be
+bound by the provisions of this Agreement and the Plan as of the Grant Date. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT
+FACE="Times New Roman" SIZE="2">The parties, or their respective, authorized representatives, have signed this Agreement on the dates shown below: </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0">
+
+<TR>
+<TD WIDTH="2%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="44%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="4%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="2%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="44%"></TD></TR>
+<TR>
+<TD VALIGN="top" COLSPAN="3"><FONT FACE="Times New Roman" SIZE="2"><B>OPTIONEE</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" COLSPAN="3"><FONT FACE="Times New Roman" SIZE="2"><B>GATEWAY, INC.</B></FONT></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Signed:&nbsp;</FONT></P></TD>
+<TD VALIGN="bottom" STYLE="BORDER-BOTTOM:1px solid #000000"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" STYLE="BORDER-BOTTOM:1px solid #000000"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">By:&nbsp;</FONT></TD>
+<TD VALIGN="bottom" STYLE="BORDER-BOTTOM:1px solid #000000"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" STYLE="BORDER-BOTTOM:1px solid #000000"><FONT SIZE="1">&nbsp;</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Joseph G. Parham, Jr.</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Wayne R. Inouye</FONT></P></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">President &amp; CEO</FONT></P></TD></TR>
+</TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">4 </FONT></P>
+
+</BODY></HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>4
+<FILENAME>g92897img001.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 g92897img001.jpg
+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
+#K__9
+`
+end
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

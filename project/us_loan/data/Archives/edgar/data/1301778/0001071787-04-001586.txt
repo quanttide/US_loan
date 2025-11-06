@@ -1,0 +1,405 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ CK3htoHvieHnIdK13KzDLcILXKK53EV0MJiO/nV+bw3WjoT1Pkd6b01dd1iovPAm
+ PtcRS/3bsSlEXhRir1OlNQ==
+
+<SEC-DOCUMENT>0001071787-04-001586.txt : 20041230
+<SEC-HEADER>0001071787-04-001586.hdr.sgml : 20041230
+<ACCEPTANCE-DATETIME>20041230150545
+ACCESSION NUMBER:		0001071787-04-001586
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20041225
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20041230
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CHL MORTGAGE PASS-THROUGH TRUST 2004-19
+		CENTRAL INDEX KEY:			0001301778
+		STANDARD INDUSTRIAL CLASSIFICATION:	ASSET-BACKED SECURITIES [6189]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-109248-27
+		FILM NUMBER:		041233846
+
+	BUSINESS ADDRESS:	
+		STREET 1:		4500 PARK GRANADA
+		CITY:			CALABASAS
+		STATE:			CA
+		ZIP:			91302
+		BUSINESS PHONE:		8183045591
+
+	MAIL ADDRESS:	
+		STREET 1:		4500 PARK GRANADA
+		STREET 2:		155 N LAKE AVE
+		CITY:			PASADENA
+		STATE:			CA
+		ZIP:			91302
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>cw0419_8k0412.txt
+<TEXT>
+                      SECURITIES AND EXCHANGE COMMISSION
+
+                            Washington, D.C. 20549
+
+                                   FORM 8-K
+
+                                CURRENT REPORT
+
+                    Pursuant to Section 13 or 15(d) of the
+
+                        Securities Exchange Act of 1934
+
+      Date of Report (Date of earliest event reported): December 25, 2004
+
+                                       CW
+
+                                  (Depositor)
+
+   (Issuer in respect of Mortgage Pass-Through Certificates, Series 2004-19)
+
+                (Exact name of registrant as specified in charter)
+
+Delaware                      33-63714                      95-4449516
+(State or other               (Commission File No.)         (I.R.S. Employer
+    jurisdiction of                                         Identification No.)
+    organization)
+
+
+
+, , N/A                                                     91110-7137
+(Address of principal executive offices)                    (Zip Code)
+
+
+Registrant's Telephone Number, including area code: (818)-304-4428
+
+                                 Not Applicable
+              (Former name, former address and former fiscal year,
+                          if changed since last report)
+
+Check the appropriate box below if the Form 8-K filing is intended to
+simultaneously satisfy the filing obligation of the registrant under any of the
+following provisions.
+
+[]Written communications pursuant to Rule 425 under the Securities Act (17
+  CFR 230.425)
+[]Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17
+  CFR 240.14a-12)
+[]Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange
+  Act (17 CFR 240.14d-2(b))
+[]Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange
+  Act (17 CFR 240.13e-4(c))
+
+
+<PAGE>
+
+
+                    Section 8 - Other Events
+
+  Item 8.01  Other Events
+
+                    Section 9 - Financial Statements and Exhibits
+
+  Item 9.01  Financial Statements and Exhibits
+
+
+<PAGE>
+
+
+
+                                   SIGNATURES
+
+Pursuant  to the  requirements  of the  Securities  Exchange  Act of  1934,  the
+registrant  has duly  caused  this  report  to be  signed  on its  behalf by the
+undersigned thereunto duly authorized.
+
+Dated: December 25, 2004
+
+
+                                       CW
+
+
+                          By: /s/ Courtney Bartholomew
+                              ------------------------------
+                          Name:   Courtney Bartholomew
+                                  Vice President
+                                  The Bank of New York,
+                                  as Trustee
+
+
+
+<PAGE>
+
+
+
+                                 EXHIBIT INDEX
+
+
+
+Exhibit
+
+
+99                  Monthly Remittance Statement dated December 25, 2004
+
+
+                             Payment Date: 12/25/04
+
+
+          ------------------------------------------------------------
+                      Countrywide Home Loans Servicing LP
+               Mortgage Pass-Through Certificates, Series 2004-19
+          ------------------------------------------------------------
+<TABLE>
+<CAPTION>
+
+Class Information                                Current Payment Information
+
+- ----------------------------------------------------------------------------------------------------------------------------------
+                                 Beginning       Pass Thru     Principal       Interest      Total           Principal  Interest
+Type       Class Code   Name     Cert. Bal.      Rate          Dist. Amt.      Dist. Amt.    Dist.           Losses     Shortfalls
+- ----------------------------------------------------------------------------------------------------------------------------------
+<S>        <C>          <C>      <C>             <C>           <C>             <C>           <C>             <C>        <C>
+Senior                  A1         53,328,815.29    5.500000%       512,181.35    244,423.74      756,605.09       0.00       0.00
+                        A2         25,924,546.00    5.250000%             0.00    113,419.89      113,419.89       0.00       0.00
+                        A3         40,379,091.00    5.250000%             0.00    176,658.52      176,658.52       0.00       0.00
+                        A4         26,854,546.00    5.250000%             0.00    117,488.64      117,488.64       0.00       0.00
+                        A5         14,416,364.00    5.250000%             0.00     63,071.59       63,071.59       0.00       0.00
+                        A6         10,757,453.00    2.680000%             0.00     24,024.98       24,024.98       0.00       0.00
+                        A7         10,757,453.00    5.320000%             0.00     47,691.37       47,691.37       0.00       0.00
+                        A8         44,704,297.94    5.500000%     9,645,905.59    204,894.70    9,850,800.29       0.00       0.00
+                        A9          6,086,682.50    5.500000%     1,319,350.98          0.00    1,319,350.98       0.00       0.00
+                        A10                 0.00    5.500000%             0.00          0.00            0.00       0.00       0.00
+                        A11            47,727.00    0.000000%             0.00          0.00            0.00       0.00       0.00
+                        A12         3,902,273.00    5.500000%             0.00     17,885.42       17,885.42       0.00       0.00
+                        A13         1,050,000.00    5.750000%             0.00      5,031.25        5,031.25       0.00       0.00
+                        A14        28,459,000.00    5.500000%             0.00    130,437.08      130,437.08       0.00       0.00
+                        A15           584,000.00    5.500000%             0.00      2,676.67        2,676.67       0.00       0.00
+                        A16        85,498,265.24    6.500000%     3,816,513.54    463,115.60    4,279,629.15       0.00       0.00
+                        PO            779,087.12    0.000000%         1,718.13          0.00        1,718.13       0.00       0.00
+Residual                AR                  0.00    5.750000%             0.00          0.00            0.00       0.00       0.00
+- ----------------------------------------------------------------------------------------------------------------------------------
+Subordinate             M           5,787,348.12    5.750000%         5,120.86     27,731.04       32,851.90       0.00       0.00
+                        B1          2,394,764.74    5.750000%         2,118.98     11,474.91       13,593.89       0.00       0.00
+                        B2          1,396,946.10    5.750000%         1,236.07      6,693.70        7,929.77       0.00       0.00
+                        B3            798,254.91    5.750000%           706.33      3,824.97        4,531.30       0.00       0.00
+                        B4            598,691.18    5.750000%           529.74      2,868.73        3,398.47       0.00       0.00
+                        B5            798,261.67    5.750000%           706.26      3,825.00        4,531.27       0.07       0.00
+- ----------------------------------------------------------------------------------------------------------------------------------
+- ----------------------------------------------------------------------------------------------------------------------------------
+Totals          -        -        751,614,410.15     -           15,306,087.84  1,667,237.81   16,973,325.65       0.07     -
+- ----------------------------------------------------------------------------------------------------------------------------------
+Class Information
+
+- --------------------------------------------------------------------------------
+                                             Ending Cert.          Unpaid
+Type             Class Code     Name         Notional Bal.         Interest
+- --------------------------------------------------------------------------------
+Senior                          A1         52,816,633.94              0.00
+                                A2         25,924,546.00              0.00
+                                A3         40,379,091.00              0.00
+                                A4         26,854,546.00              0.00
+                                A5         14,416,364.00              0.00
+                                A6         10,757,453.00              0.00
+                                A7         10,757,453.00              0.00
+                                A8         35,058,392.35              0.00
+                                A9          4,795,228.81              0.00
+                                A10                 0.00              0.00
+                                A11            47,727.00              0.00
+                                A12         3,902,273.00              0.00
+                                A13         1,050,000.00              0.00
+                                A14        28,459,000.00              0.00
+                                A15           584,000.00              0.00
+                                A16        81,681,751.70              0.00
+                                PO            777,368.99              0.00
+Residual                        AR                  0.00              0.00
+- --------------------------------------------------------------------------------
+Subordinate                     M           5,782,227.26              0.00
+                                B1          2,392,645.76              0.00
+                                B2          1,395,710.03              0.00
+                                B3            797,548.59              0.00
+                                B4            598,161.44              0.00
+                                B5            797,555.34              0.00
+- --------------------------------------------------------------------------------
+- --------------------------------------------------------------------------------
+Totals            -              -        735,006,370.57     -
+- --------------------------------------------------------------------------------
+
+</TABLE>
+<PAGE>
+                             Payment Date: 12/25/04
+
+
+          ------------------------------------------------------------
+                      Countrywide Home Loans Servicing LP
+               Mortgage Pass-Through Certificates, Series 2004-19
+          ------------------------------------------------------------
+<TABLE>
+<CAPTION>
+
+Class Information                                Current Payment Information
+
+                                                      Factors per $1,000
+
+- ------------------------------------------------------------------------------------------------------------------------
+                                   Beginning     Pass Thru    CUSIP       Principal     Interest    Ending Cert./
+Type        Class Code    Name   Cert. Bal.(Face)  Rate       Numbers       Dist.         Dist.     Notional Bal.
+- ------------------------------------------------------------------------------------------------------------------------
+<S>         <C>           <C>    <C>               <C>        <C>         <C>           <C>         <C>
+- ------------------------------------------------------------------------------------------------------------------------
+Senior                     A1     53,328,815.29     5.500000% 12669F3T8     9.400583      4.486156    969.397143
+                           A2     25,924,546.00     5.250000% 12669F3U5     0.000000      4.375000  1,000.000000
+                           A3     40,379,091.00     5.250000% 12669F3V3     0.000000      4.375000  1,000.000000
+                           A4     26,854,546.00     5.250000% 12669F3W1     0.000000      4.375000  1,000.000000
+                           A5     14,416,364.00     5.250000% 12669F3X9     0.000000      4.375000  1,000.000000
+                           A6     10,757,453.00     2.680000% 12669F3Y7     0.000000      2.233333  1,000.000000
+                           A7     10,757,453.00     5.320000% 12669F3Z4     0.000000      4.433333  1,000.000000
+                           A8     44,704,297.94     5.500000% 12669F4A8   137.798651      2.927067    500.834176
+                           A9      6,086,682.50     5.500000% 12669F4B6   140.588309      0.000000    510.973287
+                           A10             0.00     5.500000% 12669F4C4     0.000000      0.000000      0.000000
+                           A11        47,727.00     0.000000% 12669F4D2     0.000000      0.000000  1,000.000000
+                           A12     3,902,273.00     5.500000% 12669F4E0     0.000000      4.583333  1,000.000000
+                           A13     1,050,000.00     5.750000% 12669F4F7     0.000000      4.791667  1,000.000000
+                           A14    28,459,000.00     5.500000% 12669F4G5     0.000000      4.583333  1,000.000000
+                           A15       584,000.00     5.500000% 12669F4H3     0.000000      4.583333  1,000.000000
+                           A16    85,498,265.24     6.500000% 12669F4J9    39.422924      4.783783    843.736944
+                           PO        779,087.12     0.000000% 12669F4K6     1.786191      0.000000    808.165573
+Residual                   AR              0.00     5.750000% 12669F4L4     0.000000      0.000000      0.000000
+- ------------------------------------------------------------------------------------------------------------------------
+Subordinate                M       5,787,348.12     5.750000% 12669F4M2     0.882907      4.781214    996.935734
+                           B1      2,394,764.74     5.750000% 12669F4N0     0.882907      4.781214    996.935734
+                           B2      1,396,946.10     5.750000% 12669F4P5     0.882907      4.781214    996.935734
+                           B3        798,254.91     5.750000% 12669F4W0     0.882907      4.781214    996.935734
+                           B4        598,691.18     5.750000% 12669F4X8     0.882907      4.781214    996.935734
+                           B5        798,261.67     5.750000% 12669F4Y6     0.882823      4.781214    996.935734
+- ------------------------------------------------------------------------------------------------------------------------
+- ------------------------------------------------------------------------------------------------------------------------
+Totals       -             -     751,614,410.15       -            -           -             -           -
+- ------------------------------------------------------------------------------------------------------------------------
+- ------------------------------------------------------------------------------------------------------------------------
+</TABLE>
+
+
+<PAGE>
+
+          ------------------------------------------------------------
+                      Countrywide Home Loans Servicing LP
+               Mortgage Pass-Through Certificates, Series 2004-19
+          ------------------------------------------------------------
+
+- --------------------------------------------------------------------------------
+                             COLLATERAL INFORMATION
+- --------------------------------------------------------------------------------
+
+                                           Total
+                                           -----
+Prin balance       339,268,224.20   339,268,224.20
+Loan count                    699              699
+Avg loan rate           6.362179%             6.36
+Prepay amount       14,964,374.62    14,964,374.62
+
+- --------------------------------------------------------------------------------
+                                FEES AND ADVANCES
+- --------------------------------------------------------------------------------
+
+                                           Total
+                                           -----
+Master serv fees        60,939.15        60,939.15
+Sub servicer fees      108,081.66       108,081.66
+Trustee fees             2,659.10         2,659.10
+
+
+Agg advances                  N/A              N/A
+Adv this period         35,138.87        35,138.87
+
+- --------------------------------------------------------------------------------
+                          LOSSES & INSURANCE COVERAGES
+- --------------------------------------------------------------------------------
+
+                                           Total
+                                           -----
+Realized losses              0.00             0.00
+Cumulative losses            0.00             0.00
+
+Coverage Amounts                           Total
+- ----------------                           -----
+Bankruptcy                   0.00             0.00
+Fraud                8,000,000.00     8,000,000.00
+Special Hazard               0.00             0.00
+
+
+                         Aggregate Certificate Information
+   -----------------------------------------------------------------------------
+   Class            Aggregate           Aggregate                     Aggregate
+   Type            Percentage           Prepay Pct.              End Cert. Bal.
+   -----------------------------------------------------------------------------
+   Senior           98.434834%           100.000000%            739,840,143.43
+   -----------------------------------------------------------------------------
+   Junior            1.565166%             0.000000%             11,763,848.41
+   -----------------------------------------------------------------------------
+
+- --------------------------------------------------------------------------------
+                          DELINQUENCY INFORMATION
+- --------------------------------------------------------------------------------
+Period                             Loan Count    Ending Stated Balance
+- ------                             ----------    ---------------------
+30 to 59 days                           9                 4,575,073.99
+60 to 89 days                           2                 1,037,421.40
+90 or more                              0                         0.00
+Foreclosure                             0                         0.00
+
+Totals:                                11                 5,612,495.39
+- --------------------------------------------------------------------------------
+
+
+<PAGE>
+- --------------------------------------------------------------------------------
+                                REO INFORMATION
+- --------------------------------------------------------------------------------
+   REO Date        Loan Number     Ending Stated Balance          Book Value
+   --------        -----------     ---------------------          ----------
+   N/A              #                   0                            N/A
+   N/A              #                   0                            N/A
+   N/A              #                   0                            N/A
+   N/A              #                   0                            N/A
+   N/A              #                   0                            N/A
+   N/A              #                   0                            N/A
+   N/A              #                   0                            N/A
+   N/A              #                   0                            N/A
+   Totals:                              0                            N/A
+
+Current Total Outstanding Balance:                                      0.00
+Current Total Outstanding Number of Loans:                                 0
+
+
+
+<PAGE>
+- --------------------------------------------------------------------------------
+                               OTHER INFORMATION
+- --------------------------------------------------------------------------------
+                                  Amount/Withdrawal     Total/Ending Bal.
+                                  -----------------     -----------------
+Available remittance amount           16,973,325.65         16,973,325.65
+Principal remittance amount           15,306,087.84         15,306,087.84
+Interest remittance amount             1,667,237.81          1,667,237.81
+
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

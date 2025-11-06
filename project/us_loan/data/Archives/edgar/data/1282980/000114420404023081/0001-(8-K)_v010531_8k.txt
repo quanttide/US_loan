@@ -1,0 +1,1237 @@
+
+
+================================================================================
+
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+
+                                -----------------
+
+                                    FORM 8-K
+
+                                 CURRENT REPORT
+
+                       Pursuant to Section 13 or 15(d) of
+                       the Securities Exchange Act of 1934
+
+                                -----------------
+
+       Date of Report (Date of earliest event reported): December 29, 2004
+
+                                -----------------
+
+
+                            NOVINT TECHNOLOGIES, INC.
+               (Exact name of registrant as specified in Charter)
+
+
+            DELAWARE                    000-00000                85-0461778
+(State or other jurisdiction of   (Commission File No.)        (IRS Employee
+ incorporation or organization)                              Identification No.)
+
+
+                                4109 Bryan Ave NW
+                          Albuquerque, New Mexico 87114
+                    (Address of Principal Executive Offices)
+
+
+                                  866-298-4420
+                            (Issuer Telephone Number)
+
+================================================================================
+
+<PAGE>
+
+Item 9.01 Financial Statements and Exhibits
+
+The Registrant hereby presents its unaudited but reviewed financial statements
+for the quarter ended September 30, 2004.
+
+
+                          Novint Technologies, Inc.
+
+                               BALANCE SHEETS
+
+<TABLE>
+<CAPTION>
+                                                                              September 30, 2004   December 31, 2003
+                                                                              ------------------   -----------------
+                                 ASSETS                                           (Unaudited)         (Audited)
+<S>                                                                               <C>               <C>
+CURRENT ASSETS:
+    Cash and cash equivalents                                                     $ 1,536,843       $    32,119
+    Restricted cash (Note 3)                                                               --           291,254
+    Marketable equity securities, available for sale (Note 4)                             497               497
+    Prepaid interest expense                                                               --            24,750
+    Prepaid private placement issuance costs                                               --           293,753
+    Prepaid consortium dues                                                            11,250                --
+    Accounts receivable                                                               132,690            81,865
+    Inventory                                                                              --                --
+    Costs and estimated earnings in excess of billings on contracts (Note 5)           51,909            37,060
+                                                                                  -----------       -----------
+        Total current assets                                                        1,733,189           761,298
+                                                                                  -----------       -----------
+
+SOFTWARE DEVELOPMENT COSTS, NET (Note 6)                                                4,002            16,012
+                                                                                  -----------       -----------
+
+PROPERTY AND EQUIPMENT:
+    Office equipment                                                                   46,632            45,586
+    Software                                                                            7,246             7,246
+    Computer equipment                                                                187,359           155,067
+                                                                                  -----------       -----------
+                                                                                      241,237           207,899
+
+    Less: Accumulated depreciation                                                    157,145           124,146
+                                                                                  -----------       -----------
+        Total property and equipment                                                   84,092            83,753
+                                                                                  -----------       -----------
+
+INTANGIBLE ASSETS, NET (Note 7)                                                        43,234           111,313
+                                                                                  -----------       -----------
+
+        Total assets                                                              $ 1,864,517       $   972,376
+                                                                                  ===========       ===========
+</TABLE>
+
+
+   The accompanying notes are an integral part of these financial statements.
+
+                                       4
+<PAGE>
+
+                          Novint Technologies, Inc.
+
+                               BALANCE SHEETS
+
+<TABLE>
+<CAPTION>
+                                                                              September 30, 2004   December 31, 2003
+                                                                              ------------------   -----------------
+                                                                                  (Unaudited)         (Audited)
+<S>                                                                               <C>               <C>
+                    LIABILITIES AND STOCKHOLDERS' EQUITY
+
+CURRENT LIABILITIES:
+    Accounts payable                                                              $    65,638       $    13,891
+    Accrued payroll related liabilities                                                11,209           175,846
+    Accrued consulting fees                                                                --            86,380
+    Other accrued liabilities                                                          70,855            46,687
+    Billings in excess of costs and estimated earnings                                 51,510                --
+    Notes payable, investor (Note 8)                                                       --           100,000
+    Notes payable, net of discount (Note 8)                                                --           378,017
+                                                                                  -----------       -----------
+        Total current liabilities                                                     199,212           800,821
+                                                                                  -----------       -----------
+
+COMMITMENTS AND CONTINGENCIES (Note 9)
+
+MANDATORILY REDEEMABLE, CONVERTIBLE
+    PREFERRED STOCK
+    Series A: aggregate liquidation preference, $100,000, $0.01 par
+      value; authorized 400,000 shares, issued and outstanding                        239,827           145,388
+                                                                                  -----------       -----------
+
+STOCKHOLDERS' EQUITY (Note 10):
+    Common stock, authorized 50,000,000 shares, $0.01 par value;
+      13,735,814 and 10,028,026 issued as of June 30, 2004 and
+      December 31, 2003, respectively; 13,535,814 and 10,028,026
+      outstanding as of June 30, 2004 and December 31, 2003,
+      respectively                                                                    135,858           100,280
+    Additional paid-in capital                                                      5,643,260         2,147,028
+    Accumulated deficit                                                            (3,582,535)       (2,211,586)
+    Accumulated other comprehensive loss (Note 4)                                      (4,605)           (4,605)
+    Unearned compensation                                                            (766,500)           (4,950)
+                                                                                  -----------       -----------
+        Total stockholders' equity                                                  1,425,478            26,167
+                                                                                  -----------       -----------
+
+        Total liabilities and stockholders' equity                                $ 1,864,517       $   972,376
+                                                                                  ===========       ===========
+</TABLE>
+
+
+   The accompanying notes are an integral part of these financial statements.
+
+                                       5
+<PAGE>
+
+                            Novint Technologies, Inc.
+
+                      STATEMENTS OF OPERATIONS (Unaudited)
+
+<TABLE>
+<CAPTION>
+                                                        Three Months Ended              Nine Months Ended
+                                                  ----------------------------    ----------------------------
+                                                    9/30/2004       9/30/2003      9/30/2004        9/30/2003
+                                                  ------------    ------------    ------------    ------------
+<S>                                               <C>             <C>             <C>             <C>
+Revenue
+    Project                                       $     86,928    $     94,131    $    133,089    $    234,454
+    Products                                            47,177              --          91,172         143,678
+                                                  ------------    ------------    ------------    ------------
+      Total revenue                                    134,105          94,131         224,261         378,132
+
+Cost of goods sold                                      72,526          87,601         155,824         255,327
+                                                  ------------    ------------    ------------    ------------
+Gross margin                                            61,579           6,530          68,437         122,805
+                                                  ------------    ------------    ------------    ------------
+Costs and expenses
+    Research and development                            57,109           2,713         137,657           9,338
+    General and administrative                         346,864         156,589         813,036         296,049
+    Depreciation and amortization                       17,954          67,508         135,133         202,562
+    Sales and marketing                                 31,712           3,688          68,466           6,888
+                                                  ------------    ------------    ------------    ------------
+      Total costs and expenses                         453,639         230,498       1,154,292         514,837
+                                                  ------------    ------------    ------------    ------------
+
+      Loss from operations                            (392,060)       (223,968)     (1,085,855)       (392,032)
+                                                  ------------    ------------    ------------    ------------
+Other expense
+    Realized loss on disposition of securities              --              --              --         239,040
+    Interest expense                                     1,599           1,875         190,655           3,750
+                                                  ------------    ------------    ------------    ------------
+      Total other expenses                               1,599           1,875         190,655         242,790
+                                                  ------------    ------------    ------------    ------------
+
+    Loss before income taxes                          (393,659)       (225,843)     (1,276,510)       (634,822)
+
+    Income tax expense                                      --              --              --              --
+                                                  ------------    ------------    ------------    ------------
+    Net loss                                          (393,659)       (225,843)     (1,276,510)       (634,822)
+
+    Other comprehensive loss, net of tax
+      Change in unrealized loss on securities               --              --              --         (10,416)
+                                                  ------------    ------------    ------------    ------------
+
+      Comprehensive loss                              (393,659)       (225,843)     (1,276,510)       (645,238)
+
+    Preferred stock accretion                           (6,699)         (3,948)        (94,439)        (11,516)
+                                                  ------------    ------------    ------------    ------------
+
+      Net loss available to common stockholders   $   (400,358)   $   (229,791)   $ (1,370,949)   $   (656,754)
+                                                  ============    ============    ============    ============
+    Loss per share, basic and diluted:
+      Net loss                                    $      (0.03)   $      (0.02)   $      (0.10)   $      (0.07)
+                                                  ============    ============    ============    ============
+      Net loss available to common stockholders   $      (0.03)   $      (0.02)   $      (0.11)   $      (0.07)
+                                                  ============    ============    ============    ============
+    Weighted-average common shares outstanding,
+      basic and diluted                             13,216,147       9,274,020      12,747,270       9,295,140
+                                                  ============    ============    ============    ============
+</TABLE>
+
+   The accompanying notes are an integral part of these financial statements.
+
+                                       6
+<PAGE>
+
+                            Novint Technologies, Inc.
+
+                       STATEMENTS OF STOCKHOLDERS' EQUITY
+
+      Year Ended December 31, 2003 and Nine Months Ended September 30, 2004
+
+<TABLE>
+<CAPTION>
+                                                                 Mandatorily Redeemable,
+                                                              Convertible Preferred Stock        Common Stock           Additional
+                                                               -------------------------   -------------------------     Paid-in
+                                                                  Shares       Amount         Shares         Amount      Capital
+                                                               -----------   -----------   -----------   -----------   -----------
+<S>                                                                  <C>     <C>             <C>         <C>           <C>
+Balances, as restated, December 31, 2002                             4,000   $   129,811     9,244,834   $    92,448   $ 1,380,703
+
+Common stock issued to consultants for services                         --            --       209,092         2,091       135,909
+Common stock issued for Board of Directors services                     --            --        30,304           303        19,697
+Common stock issued for cash                                            --            --       378,788         3,788       246,212
+Common stock issued for interest                                        --            --        50,000           500        32,500
+Common stock issued upon exercise of options for cash                   --            --       115,008         1,150            --
+Options issued to consultants for services                              --            --            --            --        55,776
+Warrants issued in private placement transaction                        --            --            --            --        85,007
+Warrants issued in connection with notes payable                        --            --            --            --       182,974
+Executive compensation paid by shareholder                              --            --            --            --         8,250
+Amortization of unearned compensation                                   --            --            --            --            --
+Change in unrealized holding loss on investments                        --            --            --            --            --
+Reclassification of realized loss on investments                        --            --            --            --            --
+Preferred stock accretion                                               --        15,577            --            --            --
+Net loss                                                                --            --            --            --            --
+                                                               -----------   -----------   -----------   -----------   -----------
+
+Balances, December 31, 2003                                          4,000   $   145,388    10,028,026   $   100,280   $ 2,147,028
+                                                               ===========   ===========   ===========   ===========   ===========
+
+Common stock issued to consultants for services                         --            --       110,000         1,100       108,900
+Common stock issued for cash                                            --            --       378,788         3,788       246,212
+Common stock and warrants issued in private
+    placement transaction, net of issuance costs                        --            --     3,049,000        30,490     2,059,173
+Options issued to employees for future services                         --            --            --            --       806,500
+Options issued to consultants for future services                       --            --            --            --        26,735
+Options issued to consultants for services                              --            --            --            --        23,225
+Cancelled options for employees                                         --            --            --            --       (40,000)
+Common stock issued upon exercise of options for services               --            --        20,000           200            --
+Amortization of unearned compensation                                   --            --            --            --            --
+Modification of warrants issued in private placement transaction        --            --            --            --       265,488
+Preferred stock accretion                                               --        94,439            --            --            --
+Net loss                                                                --            --            --            --            --
+                                                               -----------   -----------   -----------   -----------   -----------
+
+Balances, September 30, 2004                                         4,000   $   239,827    13,585,814   $   135,858   $ 5,643,260
+                                                               ===========   ===========   ===========   ===========   ===========
+
+<CAPTION>
+                                                                               Accumulated
+                                                                 Retained         Other
+                                                                 Earnings     Comprehensive    Unearned
+                                                                 (Deficit)        Loss        Compensation      Total
+                                                                -----------    -----------    -----------    -----------
+<S>                                                             <C>            <C>            <C>            <C>
+Balances, as restated, December 31, 2002                        $(1,205,459)   $  (233,229)   $   (10,300)   $    24,163
+
+Common stock issued to consultants for services                          --             --             --        138,000
+Common stock issued for Board of Directors services                      --             --             --         20,000
+Common stock issued for cash                                             --             --             --        250,000
+Common stock issued for interest                                         --             --             --         33,000
+Common stock issued upon exercise of options for cash                    --             --             --          1,150
+Options issued to consultants for services                               --             --             --         55,776
+Warrants issued in private placement transaction                         --             --             --         85,007
+Warrants issued in connection with notes payable                         --             --             --        182,974
+Executive compensation paid by shareholder                               --             --             --          8,250
+Amortization of unearned compensation                                    --             --          5,350          5,350
+Change in unrealized holding loss on investments                         --        (10,416)            --        (10,416)
+Reclassification of realized loss on investments                         --        239,040             --        239,040
+Preferred stock accretion                                           (15,577)            --             --        (15,577)
+Net loss                                                           (990,550)            --             --       (990,550)
+                                                                -----------    -----------    -----------    -----------
+
+Balances, December 31, 2003                                     $(2,211,586)   $    (4,605)   $    (4,950)   $    26,167
+                                                                ===========    ===========    ===========    ===========
+
+Common stock issued to consultants for services                          --             --             --        110,000
+Common stock issued for cash                                             --             --             --        250,000
+Common stock and warrants issued in private
+    placement transaction, net of issuance costs                         --             --             --      2,089,663
+Options issued to employees for future services                          --             --       (806,500)            --
+Options issued to consultants for future services                        --             --             --         26,735
+Options issued to consultants for services                               --             --             --         23,225
+Cancelled options for employees                                          --             --         40,000             --
+Common stock issued upon exercise of options for services                --             --             --            200
+Amortization of unearned compensation                                    --             --          4,950          4,950
+Modification of warrants issued in private placement transaction         --             --             --        265,488
+Preferred stock accretion                                           (94,439)            --             --        (94,439)
+Net loss                                                         (1,276,510)            --             --     (1,276,510)
+                                                                -----------    -----------    -----------    -----------
+
+Balances, September 30, 2004                                    $(3,582,535)   $    (4,605)   $  (766,500)   $ 1,425,478
+                                                                ===========    ===========    ===========    ===========
+</TABLE>
+
+     The accompanying notes are an integral part of these financial statements.
+
+                                       7
+<PAGE>
+
+                            Novint Technologies, Inc.
+
+                       STATEMENT OF CASH FLOWS (Unaudited)
+
+<TABLE>
+<CAPTION>
+                                                                                        Nine Months Ended
+                                                                                   --------------------------
+                                                                                    9/30/2004      9/30/2003
+                                                                                   -----------    -----------
+<S>                                                                                <C>            <C>
+Cash flows from operating activities:
+      Net loss                                                                     $(1,276,510)   $  (634,822)
+      Adjustments to reconcile net loss to net cash used in
+          operating activities
+            Depreciation and amortization                                              135,133        202,562
+            Common stock issued for services                                           110,000         44,500
+            Options issued to employees for services                                        --         49,581
+            Options issued to consultants for services                                  49,960         85,007
+            Options exercised for services performed                                       200             --
+            Discount on notes payable charged to interest expense                      121,983          5,350
+            Reserve for conract loss                                                        --         18,413
+             Amortization of unearned compensation                                       4,950             --
+             Services paid with investments                                                 --         16,600
+             Realized loss on disposition of securities                                     --        239,040
+             Changes in operating assets and liabilities:                                   --
+                  Accounts receivable                                                  (50,825)       (74,817)
+                  Prepaid expenses                                                     307,253        (79,382)
+                  Accounts payable                                                      51,747         (6,506)
+                  Accrued liabilities                                                 (226,850)        73,953
+                  Inventory                                                                 --             --
+                 Costs and estimated earnings in excess of billings
+                        on contracts, net                                              (14,849)        38,729
+                 Billings in excess of costs and estimated earnings
+                        on contracts, net                                               51,510          4,672
+                                                                                   -----------    -----------
+                       Net cash used by operating activities                          (736,298)       (17,120)
+                                                                                   -----------    -----------
+Cash flows from investing activities:
+      Capital expenditures                                                             (55,383)
+      Lapse of restrictions on cash                                                    291,254         (1,795)
+                                                                                   -----------    -----------
+                       Net cash provided (used) by investing activities                235,871         (1,795)
+                                                                                   -----------    -----------
+Cash flows from financing activities:
+      Proceeds from issuance of common stock                                         2,605,151         51,150
+      Repayment of notes payable, investor                                            (100,000)            --
+      Repayment of notes payable                                                      (500,000)            --
+                                                                                   -----------    -----------
+                       Net cash provided by financing activities                     2,005,151         51,150
+                                                                                   -----------    -----------
+
+Net decrease in cash and cash equivalents                                            1,504,724         32,235
+
+Cash and cash equivalents at beginning of period                                        32,119          4,820
+                                                                                   -----------    -----------
+
+Cash and cash equivalents at end of period                                         $ 1,536,843    $    37,055
+                                                                                   ===========    ===========
+Supplemental information:
+      Interest paid                                                                $    61,600    $        --
+                                                                                   ===========    ===========
+     Services paid with investments                                                $        --    $    16,600
+                                                                                   ===========    ===========
+     Fair value accretion on manditorily redeemable, convertible preferred stock   $    94,439    $     7,568
+                                                                                   ===========    ===========
+     Modification of warrants issued in private placement transaction              $   265,488    $        --
+                                                                                   ===========    ===========
+</TABLE>
+
+   The accompanying notes are an integral part of these financial statements.
+
+
+                                       8
+<PAGE>
+
+                            Novint Technologies, Inc.
+
+                    NOTES TO FINANCIAL STATEMENTS (continued)
+
+                               September 30, 2004
+                                   (unaudited)
+
+NOTE 1 - PRESENTATION OF UNAUDITED FINANCIAL STATEMENTS
+
+The accompanying interim financial data is unaudited, however in the opinion of
+management, the interim data includes all adjustments, consisting of normal
+recurring adjustments, necessary for a fair statement of the results for the
+interim period. The financial statements included herein have been prepared by
+Novint in accordance with the rules and regulations of the Securities and
+Exchange Commission. Certain information and footnote disclosures normally
+included in financial statements prepared in accordance with accounting
+principles generally accepted in the United States of America have been
+condensed or omitted pursuant to such rules and regulations, although Novint
+believes that the disclosures included herein are adequate to make the
+information presented not misleading.
+
+The organization and business of Novint, accounting policies followed by Novint
+and other information are contained in the notes to Novint's financial
+statements filed as part of the Company's audited financial statements for the
+year ended December 31, 2003 included in this registration statement. These
+unaudited quarterly statements should be read in conjunction with the financial
+statements as of and for the years ended December 31, 2003 and 2002 included in
+this Registration Statement. In the opinion of management, the accompanying
+interim financial statements reflect all adjustments necessary for the fair
+presentation of the financial position, results of operations, and cash flows
+for the interim periods presented. Adjustments, if any, are reflected in the
+current quarter balances. The results of operations for interim periods are not
+necessarily indicative of results which may be expected for any other interim
+period or for the year ending December 31, 2004.
+
+NOTE 2 - CAPITAL RESOURCES
+
+Since inception, Novint has incurred net operating losses and other equity
+charges which have resulted in an accumulated deficit of $3,582,535 at September
+30, 2004 and operations using net cash of $736,298 during the first nine months
+of 2004. Management has raised equity totaling approximately $5.7 million
+through various private equity transactions. Management believes the proceeds
+from these private placements, along with revenues from project and product
+sales, will allow Novint to satisfy its short and long-term obligations and
+provide enough cash flow for Novint to continue operations through September 30,
+2005. The accompanying financial statements have been prepared in conformity
+with accounting principles generally accepted in the United States of America,
+which contemplate continuation of Novint as a going concern. Should Novint be
+unable to raise additional capital or ramp up product sales, additional
+adjustments may be required.
+
+In May 2004, Novint completed a private placement raising gross proceeds of
+$909,000 in exchange for 909,000 shares of common stock at an exercise price of
+$1.00 per share and warrants to purchase 454,500 shares of common stock with an
+exercise price of $2.00 per share. After cash fees incurred in connection with
+this placement, net cash proceeds to Novint were $850,270.
+
+In February 2004, Novint completed a private placement raising gross proceeds of
+$2,140,000 in exchange for 2,140,000 shares of common stock at an exercise price
+of $1.00 per share and warrants to purchase 1,070,000 shares of common stock
+with an exercise price of $2.00 per share. After cash fees incurred in
+connection with this placement, net cash proceeds to Novint were $1,505,393.
+
+On January 31, 2004, Novint entered into a stock purchase agreement with a
+private investor. In connection with this agreement, Novint issued 378,788
+shares of its common stock for $0.66 per share and received gross proceeds of
+$250,000.
+
+Novint issued 300,000 warrants to their attorney for services rendered in
+connection with the private placement. Such costs, totaling approximately
+$266,000 for the nine months ended September 30, 2004, have been netted against
+the proceeds from the private placement in the accompanying statement of
+stockholders' equity. See Note 11.
+
+
+                                       9
+<PAGE>
+
+                            Novint Technologies, Inc.
+
+                     NOTES TO UNAUDITED FINANCIAL STATEMENTS
+
+                               September 30, 2004
+
+NOTE 3 - SUMMARY OF CHANGES IN SIGNIFICANT ACCOUNTING POLICIES
+
+                                 Restricted Cash
+
+In connection with Novint's private placement, a loan of $500,000 was provided
+in November 2003 for use solely with private placement expenses and a hardware
+licensing agreement with a third party. As of December 31, 2003, Novint had
+approximately $291,000 in cash on hand restricted for use to close the private
+placement and payment of milestones pursuant to the licensing agreement. As of
+September 30, 2004, the $500,000 loan was repaid and the restriction on the cash
+was lifted.
+
+                Accounts Receivable/Concentration of Credit Risk
+
+Novint utilizes the allowance method for accounts receivable valuation,
+providing for allowances for estimated uncollectible accounts receivable. At
+September 30, 2004 and December 31, 2003, management believes all receivables
+are collectible; therefore, no allowances have been provided. Novint's financial
+instruments that are exposed to concentration of credit risk consist primarily
+of uninsured cash, cash equivalents and available-for- sale securities held at
+commercial banks and institutions primarily in the United States and trade
+receivables from Novint's customers. For the nine months ended September 30,
+2004, Novint had sales to four customers that accounted for approximately 36%,
+22%, 21%, and 13% of its sales. For the nine months ended September 30, 2003,
+Novint had sales to three customers that accounted for approximately 39%, 35%
+and 10% of its sales. Novint routinely assesses the financial strength of its
+customers as part of its consideration of accounts receivable collectibility by
+performing credit evaluations of customers. Trade receivables are not
+collateralized. Novint generally grants credit terms to most customers ranging
+from 30 to 90 days. For the nine months ended September 30, 2004 and 2003,
+Novint's revenues were substantially earned from a government agency
+headquartered in New Mexico and several government contractors located in the
+United States. As of September 30, 2004 and 2003, Novint's trade receivables
+were substantially due from several prominent government contractors located in
+the United States.
+
+                                    Inventory
+
+Novint values its material inventory at the lower of cost or market. Cost is
+determined on the first-in, first-out ("FIFO") method. Novint evaluates the need
+to record adjustments for impairment of inventory on a periodic basis and any
+required adjustment is made to record inventory at its estimated net realizable
+value. Novint had no inventory at September 30, 2004 or December 31, 2003.
+
+                                Intangible Assets
+
+Intangible assets, which consist of licensing agreements and a patent, are
+carried at cost less accumulated amortization. Amortization is computed using
+the straight-line method over the economic life of the asset, or useful life of
+the license agreements, which are 3 and 12 years. For the 9 months ended
+September 30, 2004 and the year ended December 31, 2003, Novint recognized
+amortization expense of approximately $90,000 and $221,000, respectively,
+related to the intangible assets.
+
+
+                                       10
+<PAGE>
+
+                            Novint Technologies, Inc.
+
+                     NOTES TO UNAUDITED FINANCIAL STATEMENTS
+
+                               September 30, 2004
+
+     Impairment of Long-Lived Assets and Long-Lived Assets to be Disposed Of
+
+Novint reviews its long-lived assets for impairment whenever events or changes
+in circumstances indicate that the carrying amount of an asset may not be
+recoverable. Recoverability of assets to be held and used is measured by a
+comparison of the carrying amount of an asset to future net cash flows expected
+to be generated by the asset. If such assets are considered to be impaired, the
+impairment to be recognized is measured by the amount by which the carrying
+amount of the assets exceeds the fair value of the assets. Assets to be disposed
+of are reported at the lower of the carrying amount or fair value less costs to
+sell. No impairment loss was recorded in 2004 or 2003.
+
+                              Loss per Common Share
+
+The Financial Accounting Standards Board (FASB) issued SFAS 128, Earnings Per
+Share, which is effective for periods ending after December 15, 1997. SFAS 128
+provides for the calculation of "Basic" and "Diluted" earnings per share. Basic
+earnings per share includes no dilution and is computed by dividing loss to
+common shareholders by the weighted average number of common shares outstanding
+for the period.
+
+All potentially dilutive securities have been excluded from the computations
+since they would be antidilutive. However, these dilutive securities could
+potentially dilute earnings per share in the future. As of September 30, 2004
+and 2003, Novint had a total of 9,201,338 and 5,515,565 potentially dilutive
+securities, respectively.
+
+                               Stock Option Plans
+
+Novint applies the intrinsic value-based method of accounting prescribed by
+Accounting Principles Board (APB) Opinion No. 25, Accounting for Stock Issued to
+Employees, and related interpretations, in accounting for the recognition and
+measurement of its fixed plan stock options. As such, unearned compensation is
+recorded on the date of grant if the current market price of the underlying
+stock exceeds the exercise price, and is amortized over the service period. As
+of September 30, 2004 and December 31, 2003, amortization of unearned
+compensation approximates $5,000 and $5,000, respectively.
+
+SFAS 123, Accounting for Stock-Based Compensation, established accounting and
+disclosure requirements using a fair value-based method of accounting for
+stock-based employee compensation plans. As permitted by SFAS 123, Novint has
+elected to continue to apply the intrinsic value-based method of accounting
+described above, and has adopted the disclosure-only requirements of SFAS l23.
+
+The following table illustrates the effect on net loss to common stockholders if
+Novint had applied the fair value recognition provisions of SFAS 123 to all
+stock-based employee compensation for the nine month period ended September 30.
+EPS has been calculated after the accretion of the preferred stock:
+
+
+                                       11
+<PAGE>
+
+                            Novint Technologies, Inc.
+
+                     NOTES TO UNAUDITED FINANCIAL STATEMENTS
+
+                               September 30, 2004
+
+
+                                                    September 30,  September 30,
+                                                        2004           2003
+                                                    (unaudited)    (unaudited)
+                                                    -----------    -----------
+      Net loss, as reported                         $(1,276,510)   $  (634,822)
+      Add: Stock-based employee compensation
+      expense included in reported net income             4,950          5,350
+      Deduct: Total stock based employee
+      compensation expense determined under fair
+      value based method for all awards                 (18,018)      (154,602)
+                                                    -----------    -----------
+
+      Pro forma net loss                            $(1,289,578)   $  (784,074)
+                                                    ===========    ===========
+
+      Loss per share, basic and diluted:
+          As reported                               $     (0.10)   $     (0.07)
+          Pro forma                                 $     (0.10)   $     (0.08)
+
+In calculating the fair value of options for the above pro forma disclosure, the
+following assumptions were used for the quarter ended September 30, 2004: a risk
+free rate of 3.27%, volatility of Novint's stock of 100%, estimated lives of the
+options of 3 years, an exercise price of $0.66 per share, and a fair market
+value of $1.00 per share.
+
+                                Reclassifications
+
+Certain reclassifications have been made to prior year or quarter balances in
+order to conform to the current year or quarter presentation.
+
+NOTE 4 - MARKETABLE EQUITY SECURITIES
+
+In September 2000, Novint entered into a Research and Development contract to
+provide to Manhattan Scientifics, Inc. (Manhattan), a publicly-traded company
+located in New York, a license and rights to sublicense haptics technology.
+Coincident with the contract agreement, Novint and Manhattan entered into an
+exchange transaction that was finalized in May 2001, whose terms provided that
+Manhattan would receive 4,067,200 shares of Novint's stock, and Novint would
+receive 1,000,000 shares of Manhattan stock. In addition, Novint obtained from
+Manhattan exclusive ownership of the worldwide IP rights and associated
+obligations of Teneo, a privately owned company previously acquired by
+Manhattan. The rights in Teneo are recorded on the accompanying September 30,
+2004 and December 31, 2003 balance sheets as licensing agreements (see Note 7).
+
+At September 30, 2004 and December 31, 2003, Novint held 8,284 shares of the
+original 1,000,000 shares of Manhattan common stock acquired in the exchange
+transaction, with original cost basis of $5,102. At September 30, 2004 and
+December 31, 2003, there were unrealized holding losses of $4,605 related to its
+investment in marketable equity securities, which have been presented as
+accumulated other comprehensive losses in the statement of stockholders' equity.
+
+NOTE 5 - COSTS AND ESTIMATED EARNINGS IN EXCESS OF BILLINGS ON CONTRACTS
+
+Costs and estimated earnings in excess of billings on contracts consist of the
+following at:
+
+<TABLE>
+<CAPTION>
+                                                                      September 30,      December 31,
+                                                                          2004               2003
+                                                                      (Unaudited)         (Audited)
+                                                                      ------------      ------------
+<S>                                                                   <C>               <C>
+        Costs and estimated earnings on uncompleted contracts         $     51,909      $     67,000
+        Billings on uncompleted contracts                                       --           (29,940)
+                                                                      ------------      ------------
+
+        Costs and estimated earnings in excess of billings on
+        uncompleted contracts                                         $     51,909      $     37,060
+                                                                      ============      ============
+</TABLE>
+
+Billings in excess of costs and estimated earnings on contracts consist of the
+following at December 31:
+
+<TABLE>
+<CAPTION>
+                                                                      September 30,      December 31,
+                                                                          2004               2003
+                                                                      (Unaudited)         (Audited)
+                                                                      ------------      ------------
+<S>                                                                   <C>               <C>
+        Billings on uncompleted contracts                             $    132,690      $         --
+        Costs and estimated earnings on uncompleted contracts               81,180                --
+                                                                      ------------      ------------
+
+        Billings in excess of costs and estimated earnings on
+        uncompleted contracts                                         $     51,510      $         --
+                                                                      ============      ============
+</TABLE>
+
+                                       12
+<PAGE>
+
+                            Novint Technologies, Inc.
+
+                     NOTES TO UNAUDITED FINANCIAL STATEMENTS
+
+                               September 30, 2004
+
+
+NOTE 6 - SOFTWARE DEVELOPMENT COSTS
+
+Capitalized software development costs consisted of the following at:
+
+<TABLE>
+<CAPTION>
+                                                                      September 30,      December 31,
+                                                                          2004               2003
+                                                                      (Unaudited)         (Audited)
+                                                                      ------------      ------------
+<S>                                                                   <C>               <C>
+        Software development costs                                    $     80,058      $     80,058
+        Less accumulated amortization                                       76,056            64,046
+                                                                      ------------      ------------
+
+                                                                      $      4,002      $     16,012
+                                                                      ============      ============
+</TABLE>
+
+NOTE 7 - INTANGIBLE ASSETS
+
+Intangible assets consisted of the following at:
+
+<TABLE>
+<CAPTION>
+                                                                      September 30,      December 31,
+                                                                          2004               2003
+                                                                      (Unaudited)         (Audited)
+                                                                      ------------      ------------
+<S>                                                                   <C>               <C>
+        Licensing agreement                                           $    680,000      $    665,000
+        Patent                                                              10,734             3,688
+        Less accumulated amortization                                     (647,500)         (557,375)
+                                                                      ------------      ------------
+
+                                                                      $     43,234      $    111,313
+                                                                      ============      ============
+</TABLE>
+
+NOTE 8 - NOTES PAYABLE
+
+In October 2002, Novint issued a promissory note of $100,000 with a maturity
+date of October 2003. During 2003, the maturity date was extended to October
+2004. Novint repaid the $100,000 note in full in March 2004. In conjunction with
+the issuance of the $100,000 promissory note in October 2002, Novint issued
+150,000 shares of common stock at a fair value of $0.05 per share in lieu of
+interest. Novint determined the fair value of their common stock to be $0.05 per
+share as determined by its Board of Directors based on the value of other
+instruments issued, such as preferred stock, during the prior year. In October
+2003, as a result of the repayment extension and in accordance with the original
+terms of the promissory note, Novint issued an additional 50,000 shares of
+common stock at a fair value of $0.66 per share. Novint determined the fair
+value of their common stock to be $0.66 per share as a result of a third party
+common stock sale. The fair market value of the shares issued in lieu of
+interest has been recorded as interest expense over the term of the note. The
+fair value of the shares issued in 2003 total $33,000. During the year ended
+December 31, 2003, Novint recorded $8,250 on shares issued in 2003 as interest
+expense, and $24,750 was prepaid interest expense. The remaining fair value of
+$24,750 was properly recognized as interest expense during the 9 months ended
+September 30, 2004 upon repayment of the note.
+
+In November 2003, Novint issued a promissory note, which is secured by all of
+Novint's assets, of $500,000 with an interest rate of 12% per annum, maturity
+date of May 2004. During the 9 months ended September 30, 2004, Novint fully
+repaid this note, along with $60,000 of interest. In conjunction with the
+issuance of the $500,000 promissory note, Novint issued a warrant for the
+purchase of 500,000 shares of Novint's common stock at an exercise price of
+$0.50 per share. The warrant expires in November 2013. Novint calculated the
+relative fair value of the warrant to be approximately $183,000 using the
+Black-Scholes model based on the following assumptions: a risk-free rate of
+4.31%, volatility of 86%, contractual life of 10 years, and a common stock fair
+market value of $0.66 per share. As these warrants were issued in connection
+with a note, the value of the warrant was recorded as a debt discount. At
+December 31, 2003, the unamortized discount totaled $122,000. This amount was
+charged to interest expense during the nine months ended September 30, 2004.
+
+
+                                       13
+<PAGE>
+
+                            Novint Technologies, Inc.
+
+                     NOTES TO UNAUDITED FINANCIAL STATEMENTS
+
+                               September 30, 2004
+
+NOTE 9 - INCOME TAXES
+
+Deferred income taxes reflect the tax consequences on future years for
+differences between the tax basis of assets and liabilities and their basis for
+financial reporting purposes. Temporary differences giving rise to the current
+deferred tax asset are the accrual for billings in excess of costs and estimated
+earnings and accounts payable, which are recorded for financial reporting
+purposes but not currently deductible for tax reporting. Temporary differences
+giving rise to the non-current deferred tax asset include accrued payroll not
+paid and contribution carryover, which are deductible for financial reporting
+purposes but not currently deductible for tax reporting. The other major
+temporary timing differences giving rise to the non-current deferred tax asset
+is the net operating loss carryforward. The temporary differences giving rise to
+the current deferred tax liability consist of accounts receivable, prepaid
+expenses and costs and estimated earnings in excess of billings that are accrued
+for financial reporting purposes but are not currently includible for tax
+reporting purposes. The temporary differences giving rise to the non-current
+deferred tax liability consist of the software costs that have been capitalized
+for financial reporting purposes but are deductible for tax reporting purposes.
+
+As a result of the significant net losses incurred during 2004 and in prior
+years and potential statutory limitations on the ability to recognize these
+losses, Novint recorded a valuation allowance to fully reserve its net deferred
+tax asset.
+
+NOTE 10 - COMMITMENTS AND CONTINGENCIES
+
+Novint has a month-to-month operating lease of $800 per month for office space.
+The monthly rent shall be paid in either cash or Manhattan Scientifics
+("Manhattan") common stock in an amount of shares calculated based on the
+closing price of Manhattan stock on the previous trading day. Novint has no
+further relationship with the lessor beyond the lease agreement.
+
+Novint has a licensing agreement with Sandia National Laboratories (Sandia),
+which initially developed Flight, the precursor to e-TouchTM (the technology),
+and employed Novint's founder. The licensing agreement provides Novint the right
+to utilize the technology exclusively for a period of 12 years and
+non-exclusively in perpetuity and places certain restrictions on its use as well
+as requires Novint to pay 1.5 percent royalty fees to Sandia in connection with
+any income earned based upon the technology. Additionally, Novint is obligated
+to pay to Sandia on a semi-annual basis annual minimum earned royalties of
+$6,000 in 2001, $14,000 in 2002, $24,000 in 2003, and $30,000 from 2004 through
+2011. The agreement also allows for sub-licensure of the technology to others,
+which was provided to Manhattan under an agreement dated September 24, 2000. As
+of September 30, 2004 and December 31, 2003, Novint had accrued approximately
+$22,500 and $24,000, respectively, in royalty fees owed to Sandia under the
+royalty agreement. Amounts owed to Sandia as of December 31, 2003 were paid in
+full during 2004.
+
+From time to time, in the normal course of business, Novint is subject to
+routine litigation incidental to their business. Although there can be no
+assurances as to the ultimate disposition of any such matters, it is the opinion
+of management, based upon the information available at this time, that there are
+no matters, individually or in the aggregate, that will have a material adverse
+effect on the results of operations and financial condition of Novint.
+
+In September 2004, Novint signed an agreement with Lunar Design, a product
+design firm, to design and develop their Haptics game controller. The work is
+estimated to take up to 9 months. Estimated costs will range between
+approximately $542,000 and $634,000, which will be billed on a time and
+materials basis. Lunar Design has agreed to accept payment in the form of cash,
+promissory note, or Novint common stock. As of September 30, 2004, no amounts
+have been paid to Lunar Design.
+
+
+                                       14
+<PAGE>
+                            Novint Technologies, Inc.
+
+                     NOTES TO UNAUDITED FINANCIAL STATEMENTS
+
+                               September 30, 2004
+
+NOTE 11 - STOCKHOLDERS' EQUITY
+
+               Mandatorily Redeemable, Convertible Preferred Stock
+
+Novint is authorized to issue a maximum of 4,000 shares of preferred stock with
+$0.01 par value. On April 20, 2000, in connection with the license agreement
+with Sandia, Novint issued 4,000 shares of Series A mandatorily redeemable,
+convertible preferred stock at $0.25 per share. The preferred stock is
+convertible into fully paid and nonassessable common stock as follows: at the
+holder's option based on the conversion price in effect on the conversion date,
+or automatically upon the closing of an initial public offering which would
+result in 447,300 shares of common stock. The conversion price is to be (i) the
+subscription price ($100,000 when expressed as an aggregate amount, or $0.25 per
+share when expressed on a per share basis) divided by (ii) the conversion price
+in effect on the conversion date. Additionally, Novint is obligated to redeem
+the preferred shares, if there is no public offering (initial public offering or
+"IPO") or initial sale within 10 years from the issue date. If there is no IPO,
+Novint shall repurchase the number of shares of preferred stock as the holders
+thereof may from time to time request, but in any 12 month period, not more than
+10% of the largest number of shares of preferred stock that have ever been
+outstanding, at an amount per share equal to the redemption price. The
+redemption price is the greater of (a) the subscription price, and (b) that
+portion of the fair market value of Novint, as determined in good faith by the
+Board of Directors, corresponding to the number of shares of common stock to
+which the shares of preferred stock to be redeemed would convert according to
+the conversion provisions.
+
+Accordingly, Novint has accreted the fair value of the common stock conversion
+to retained earnings over the 10 year life of the preferred stock. If an IPO
+occurs, Novint will recognize an additional charge to retained earnings of the
+converted shares at the fair value as compared to the IPO price. At September
+30, 2004, the unaccreted fair value of the preferred stock totaled $239,827
+based on the fair value of the stock at September 30, 2004 of $1.00 per share.
+
+Upon conversion, the preferred stock will be reclassified to common stock
+outstanding. The holders of the issued and outstanding shares of preferred stock
+shall have no voting rights. In all respects regarding dividends or
+distributions of any kind to holders of common stock, holders of preferred stock
+shall have the rights, privileges, and share in all respects as if such holders
+had converted the preferred stock to the number of shares of common stock
+corresponding to their conversion provisions. In the event of any voluntary or
+involuntary liquidation, dissolution or other winding up of Novint, the holders
+of the preferred stock shall be entitled to be paid the subscription price of
+all outstanding shares of preferred stock, in cash or in property taken at its
+fair value as determined by the Board of Directors, or both, at the election of
+the Board of Directors, prior to any distribution to the holders of common
+stock.
+
+                                  Common Stock
+
+Novint is authorized to issue a maximum of 50,000,000 shares of common stock
+with a par value of $0.01 per share. For the period ended September 30, 2004 and
+the year ended December 31, 2003, Novint had 13,735,814 and 10,028,026 shares
+outstanding, respectively, and 13,535,814 and 10,028,025 shares issued,
+respectively.
+
+                                Private Placement
+
+A private placement offering was completed in February 2004 for $2,140,000. In
+connection with this offering, Novint issued 2,140,000 shares of common stock at
+an exercise price of $1.00 per share and warrants to purchase 1,070,000 shares
+of common stock at an exercise price of $2.00 per share. Novint received net
+cash proceeds of $1,505,393 (after fees were paid to their placement agent and
+lawyers).
+
+A second closing of the private placement offering was completed in May 2004 for
+$909,000. In connection with this offering, Novint issued 909,000 shares of
+common stock at an exercise price of $1.00 per share and warrants to purchase
+454,500 shares of common stock at an exercise price of $2.00 per share. Novint
+received net cash proceeds of $850,440 (after fees were paid to their placement
+agent and lawyers).
+
+
+                                       15
+<PAGE>
+
+                            Novint Technologies, Inc.
+
+                     NOTES TO UNAUDITED FINANCIAL STATEMENTS
+
+                               September 30, 2004
+
+
+                               Equity Transactions
+
+On January 31, 2004, Novint entered into a stock purchase agreement with a
+private investor. In connection with this agreement, Novint issued 378,788
+shares of its common stock at $0.66 per share and received gross proceeds of
+$250,000. The share price was based on a prior agreement with this investor.
+
+On February 25, 2004, Novint issued 10,000 shares of common stock at $1.00 per
+share to a consultant for services performed. Novint recognized $10,000 in
+consulting expense related to this issuance.
+
+On April 1, 2004, Novint committed to issue 250,000 shares of common stock at
+$1.00 per share to a consultant for future services. Vesting terms are as
+follows: 50,000 shares per quarter as long as the consultant is still providing
+services to Novint, up to a total of 250,000 shares, beginning April 1, 2004,
+Novint recognized $100,000 in consulting expense related to this issuance as of
+September 30, 2004.
+
+On April 8, 2004, Novint issued 20,000 shares of its common stock in connection
+with option exercises at $0.01 per share.
+
+On July 7, 2004, Novint committed to issue 10,000 shares of common stock at
+$1.00 per share to an employee for future services. Stock vests on July 7, 2005,
+and as such Novint had not recognized any expense related to this issuance as of
+September 30, 2004.
+
+                              Options and Warrants
+
+On February 18, 2004, Novint granted 1,205,000 options at an exercise price of
+$0.50 per share, with a 5-year annual vesting provision, to purchase common
+stock to various employees. These options had intrinsic value because the
+exercise price of $0.50 per share was less than the fair market value of $1.00
+per share. Unearned compensation of $602,500 was recorded at the measurement
+date and will be amortized over the vesting period.
+
+On February 18, 2004, Novint granted to a consultant for future services 125,000
+options to purchase common stock at an exercise price of $0.50 per share. The
+options have a 5-year annual vesting provision. Novint calculated the value of
+the options using the Black-Scholes model based on the following assumptions: a
+risk-free rate of 4.05%, volatility of 91%, estimated life of 10 years, and a
+fair market value of $1.00 per share. On June 10, 2004, Novint granted to
+various consultants for future services 300,000 options to purchase common stock
+at an exercise price of $0.66 per share. The options have a 5-year annual
+vesting provision. Novint calculated the value of these options using the
+Black-Scholes model based on the following assumptions: a risk-free rate of
+4.81%, volatility of 100%, estimated life of 10 years, and a fair market value
+of $1.00 per share. The vesting schedules are prorated over the reporting
+period, and approximately $53,000 was recorded as consultant expense during the
+9 months ended September 30, 2004.
+
+On June 10, 2004, Novint granted 500,000 options at an exercise price of $0.66
+per share, with a 5-year annual vesting provision, to purchase common stock to
+an employee. These options had intrinsic value because the exercise price of
+$0.66 per share was less than the fair market value of $1.00 per share. Unearned
+compensation of $170,000 was recorded at the measurement date and will be
+amortized over the vesting period.
+
+On July 20, 2004, Novint granted 50,000 options at an exercise price of $0.66
+per share, with a 5-year annual vesting provision, to purchase common stock to
+an employee. These options had intrinsic value because the exercise price of
+$0.66 per share was less than the fair market value of $1.00 per share. Unearned
+compensation of $17,000 was recorded at the measurement date and will be
+amortized over the vesting period.
+
+On August 9, 2004, Novint granted 50,000 options at an exercise price of $0.66
+per share, with a 5-year annual vesting provision, to purchase common stock to
+an employee. These options had intrinsic value because the exercise price of
+$0.66 per share was less than the fair market value of $1.00 per share. Unearned
+compensation of $17,000 was recorded at the measurement date and will be
+amortized over the vesting period.
+
+On August 9, 2004, Novint cancelled 80,000 options previously granted at an
+exercise price of $0.50 per share, with a 5-year annual vesting provision, to
+purchase common stock to an employee. These options had intrinsic value because
+the exercise price of $0.66 per share was less than the fair market value of
+$1.00 per share. Unearned compensation of $40,000 had been recorded at the
+measurement date and was reversed at September 30, 2004.
+
+
+                                       16
+<PAGE>
+
+                            Novint Technologies, Inc.
+
+                     NOTES TO UNAUDITED FINANCIAL STATEMENTS
+
+                               September 30, 2004
+
+On June 10, 2004, Novint granted to a former Board of Director providing
+consulting services for services 25,000 options to purchase common stock at an
+exercise price of $0.66 per share. These options immediately vest. Novint
+calculated the value of these options using the Black-Scholes model based on the
+following assumptions: a risk-free rate of 4.81%, volatility of 100%, estimated
+life of 10 years, and a fair market value of $1.00 per share. Approximately
+$23,000 was recorded as consultant expense during the 9 months ended September
+30, 2004.
+
+                                    Warrants
+
+In September 2003, Novint issued 300,000 warrants to an attorney for services
+rendered in connection with a private placement at an exercise price of $0.66
+per share. These warrants vested 50% upon issuance in September 2003, and 50%
+on the 1st anniversary date (September 2004) of the execution date of this
+warrant provided that the holder continued to represent the company as its legal
+counsel on such vesting date. In March 2004, Novint amended the exercise price
+from $0.66 per share to $0.50 per share to compensate them fairly for their
+services. As the terms of the original Warrant agreement do not specifically
+address how such modifications should be treated, Novint has recorded an
+additional approximately $105,000, which represents the difference in the fair
+value of this modification. The following assumptions were used for the quarter
+ended March 31, 2004 in calculating the fair value difference of this warrant
+modification under the Black-Scholes model: risk free rate of 3.75%, volatility
+of 91%, contractual term of 10 years, exercise price of $0.50 per share, and
+fair market value of $1.00 per share. Novint recognized the remaining 50%
+value of the warrant during the quarter ended September 30, 2004. The following
+assumptions were used for the quarter ended September 30, 2004 in calculating
+the fair value of this warrant under the Black-Scholes model: risk free rate of
+4.14%, volatility of 79%, contractual term of 10 years, exercise price of $0.50
+per share, and fair market value of $1.00 per share. A total amount of
+approximately $266,000 has been recorded to reflect the fair value of these
+warrants, which have been recorded as a reduction of the offering proceeds in
+the statement of stockholders' equity.
+
+In March 2004, Novint issued 200,000 warrants to a consulting group for services
+rendered in connection with a private placement at an exercise price of $1.00
+per share. The warrants vested immediately, and have a life of 5 years. The fair
+market value of the warrants totaled approximately $142,000. Novint calculated
+the warrant expense using the Black-Scholes model based on the following
+assumptions: a risk-free rate of 2.39%, volatility of 91%, estimated life of 5
+years, and a fair market value of $1.00 per share. As of September 30, 2004,
+Novint recognized this amount as a reduction of the offering proceeds.
+
+In April 2004, Novint issued 263,500 warrants to a consulting group for services
+rendered in connection with a private placement at an exercise price of $1.00
+per share. The warrants vested immediately, and have a life of 5 years. The fair
+market value of the warrants totaled approximately $200,000. Novint calculated
+the warrant expense using the Black-Scholes model based on the following
+assumptions: a risk-free rate of 3.49%, volatility of 100%, estimated life of 5
+years, and a fair market value of $1.00 per share. As of September 30, 2004,
+Novint recognized this amount as reduction of the offering proceeds.
+
+In May 2004, Novint issued 250,000 warrants to a consultant for services to be
+rendered in connection with its marketing strategy. The warrants will have an
+exercise price of $1.00 per share and will vest at a rate of 10,000 shares for
+each $1,000,000 in contract revenue associated with the consultant's efforts. As
+no associated revenue had been recorded for the 9 months ended September 30,
+2004, no impact is reflected on the accompanying financial statements.
+
+During the 9 months ended September 30, 2004, Novint committed to issue 304,900
+warrants in connection with an over allotment agreement with a consulting group
+for private placement services. The warrants will have an exercise price of
+$1.00 per share and will have a six-month term. The date of issue will be
+coincident with the date of Novint's initial public offering. As Novint is
+currently undergoing initial public offering procedures and does not know of
+their initial public offering date, these warrants are not outstanding as of
+September 30, 2004.
+
+
+                                       17
+<PAGE>
+
+                            Novint Technologies, Inc.
+
+                     NOTES TO UNAUDITED FINANCIAL STATEMENTS
+
+                               September 30, 2004
+
+NOTE 12 - RELATED PARTIES
+
+In April 2000, Sandia licensed to Novint the right to utilize the Flight
+technology, which is the precursor to e-TouchTM, exclusively for a period of 12
+years and non-exclusively in perpetuity, as well as requiring Novint to pay 1.5
+percent royalty fees to Sandia in connection with any income earned based upon
+the technology. In connection with this licensing agreement, Novint issued 4,000
+shares of Series A mandatorily redeemable, convertible preferred stock, which
+can be converted into 447,300 shares of common stock. The preferred stock is
+convertible into fully paid and nonassessable common stock as follows: at the
+holder's option based on the conversion price in effect on the conversion date,
+or automatically upon the closing of an initial public offering. The conversion
+price is to be (i) the subscription price ($100,000 when expressed as an
+aggregate amount, or $25 per share when expressed on a per share basis) divided
+by (ii) the conversion price in effect on the conversion date. Additionally,
+during November 2002, Novint issued to Sandia 40,000 shares of common stock as
+repayment of their 2001 and 2002 royalty fees, which totaled $20,000, at $0.50
+per share.
+
+As of December 31, 2003, Novint had a loan outstanding for $100,000 from an
+investor. This loan was repaid in March 2004.
+
+Manhattan Scientifics ("Manhattan") is Novint's main investor with approximately
+30% and 41% ownership in Novint as of September 30, 2004 and December 31, 2003,
+respectively. During the nine months ended September 30, 2004, Manhattan
+provided consulting services to Novint in relation to their long-term strategic
+planning. As of September 30, 2004, Novint had paid $40,000 for these services.
+
+On February 25, 2004, Novint issued 10,000 shares of common stock at $1.00 per
+share to a former Board of Director for consulting services performed. Novint
+recognized $10,000 in consulting expense based on the fair market value of the
+shares, when these shares were issued.
+
+In March 2004, Normandie New Mexico Corporation, which is owned by Manhattan's
+Chief Executive Officer (CEO), who is also a member of Novint's Board of
+Directors, entered into an agreement with Novint to provide consulting services
+in relation to business development and marketing support. Fees per the
+agreement are $6,250 per month. For the nine months ended September 30, 2004,
+Novint had paid $43,750 for these services.
+
+On April 1, 2004, Novint committed to issue 250,000 shares of common stock at
+$1.00 per share to Manhattan's Chief Operating Officer (COO) for future
+consulting services. Vesting terms are as follows: 50,000 shares per quarter as
+long as the COO is still providing services to Novint, up to a total of 250,000
+shares, beginning April 1, 2004. Novint recognized $100,000 in consulting
+expense related to this issuance during the nine months ended September 30,
+2004.
+
+On June 10, 2004, Novint granted 250,000 options to purchase common stock to
+Manhattan's CEO for future consulting services at an exercise price of $0.66 per
+share. The options have a 5-year annual vesting provision. Novint calculated the
+value of these options using the Black-Scholes model based on the following
+assumptions: a risk-free rate of 4.81%, volatility of 100%, estimated life of 10
+years, and a fair market value of $1.00 per share. The vesting schedule is
+prorated over the reporting period, and approximately $13,000 was recorded as
+consultant expense during the nine months ended September 30, 2004.
+
+
+                                       18
+<PAGE>
+
+                            Novint Technologies, Inc.
+
+                     NOTES TO UNAUDITED FINANCIAL STATEMENTS
+
+                               September 30, 2004
+
+On June 10, 2004, Novint granted 25,000 options to purchase common stock to a
+former member of the Board of Directors for consulting services at an exercise
+price of $0.66 per share. These options immediately vest. Novint calculated the
+value of these options using the Black-Scholes model based on the following
+assumptions: a risk-free rate of 4.81%, volatility of 100%, estimated life of 10
+years, and a fair market value of $1.00 per share. Approximately $23,000 was
+recorded as consultant expense during the 9 months ended September 30, 2004.
+
+During the quarters ended September 30, 2004 and 2003, Novint developed
+professional applications for Sandia. Novint recognized approximately $81,000
+and $154,000 in revenues from Sandia during the nine months ended September 30,
+2004 and 2003.
+
+
+
+                                       19
+
+
+<PAGE>
+
+                                   SIGNATURES
+
+     Pursuant to the requirements of the Securities Exchange Act of 1934, the
+Registrant has duly caused this report to be signed on its behalf by the
+undersigned thereunto duly authorized.
+
+Dated: December 29, 2004               NOVINT TECHNOLOGIES, INC.
+
+
+
+                                       By: /s/ Tom Anderson
+                                           -----------------------------------
+                                           Tom Anderson
+                                           Its: Chief Executive Officer and
+                                                Acting Chief Financial Officer
+
+
+
+
+                                       20
+
+

@@ -1,0 +1,532 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ WycuS+qcoJjzZ0fefpWXcHr4oZSO/bxgMmjG6ViW9hoatTptL8MCNdNBGK4rL0ii
+ 5DI0VWhasUl36ewJi+pwjg==
+
+<SEC-DOCUMENT>0001169232-04-006187.txt : 20041227
+<SEC-HEADER>0001169232-04-006187.hdr.sgml : 20041224
+<ACCEPTANCE-DATETIME>20041227172115
+ACCESSION NUMBER:		0001169232-04-006187
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	20041221
+ITEM INFORMATION:		Other Events
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20041227
+DATE AS OF CHANGE:		20041227
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			DREW INDUSTRIES INC
+		CENTRAL INDEX KEY:			0000763744
+		STANDARD INDUSTRIAL CLASSIFICATION:	METAL DOORS, SASH, FRAMES, MOLDING & TRIM [3442]
+		IRS NUMBER:				133250533
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-13646
+		FILM NUMBER:		041227066
+
+	BUSINESS ADDRESS:	
+		STREET 1:		200 MAMARONECK AVE
+		CITY:			WHITE PLAINS
+		STATE:			NY
+		ZIP:			10601
+		BUSINESS PHONE:		9144289098
+
+	MAIL ADDRESS:	
+		STREET 1:		200 MAMARONECK AVE
+		CITY:			WHITE PLAINS
+		STATE:			NY
+		ZIP:			10601
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>d61730_8-k.htm
+<DESCRIPTION>CURRENT REPORT
+<TEXT>
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML>
+<HEAD>
+     <!-- Created by EDGAR Ease Plus (EDGAR Ease+) -->
+     <!-- Project:        X:\JOBS\04-61073\d04-61730.eep                                   -->
+     <!-- Control Number: 04-61730                                                         -->
+     <!-- Rev Number:     1.0                                                              -->
+     <!-- Client Name:    Drew Industries Incorporated                                     -->
+     <!-- Project Name:   Form Type: 8-K                                                   -->
+     <!-- Firm Name:      Curran & Connors (NY)                                            -->
+     <TITLE>Drew Industries Incorporated</TITLE>
+</HEAD>
+<BODY>
+<div style='width:600;'>
+<BR>
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold" FSL="Default" -->
+<H1 ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>SECURITIES AND
+EXCHANGE COMMISSION </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold 1" FSL="Default" -->
+<H1 ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Washington, DC 20549 </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold" FSL="Default" -->
+<H1 ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>FORM 8-K </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold" FSL="Default" -->
+<H1 ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>CURRENT REPORT <BR>Pursuant to Section 13
+OR 15(d) of the Securities Exchange Act of 1934 </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Head Left-TNR" FSL="Project" -->
+<P ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Date of Report (Date of
+earliest event reported): December 21, 2004  </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold" FSL="Default" -->
+<H1 ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>DREW INDUSTRIES
+INCORPORATED </FONT></H1>
+
+<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 WIDTH=600>
+  <TR VALIGN=Bottom>
+    <TD WIDTH=1% ALIGN=left><b><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Delaware</FONT></b></TD>
+    <TD WIDTH=1% ALIGN=CENTER><b><FONT FACE="Times New Roman, Times, Serif" SIZE=2>0-13646</FONT></b></TD>
+    <TD WIDTH=1% ALIGN=right><b><FONT FACE="Times New Roman, Times, Serif" SIZE=2>13-3250533</FONT></b></TD>
+  </TR>
+  <TR VALIGN=Bottom>
+    <TD ALIGN=left><FONT FACE="Times New Roman, Times, Serif" SIZE=2>(State or
+      other jurisdiction </FONT></TD>
+    <TD ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>(Commission
+      File Number) </FONT></TD>
+    <TD ALIGN=right><FONT FACE="Times New Roman, Times, Serif" SIZE=2>(I.R.S.
+      Employer </FONT></TD>
+  </TR>
+  <TR VALIGN=Bottom>
+    <TD ALIGN=left><FONT FACE="Times New Roman, Times, Serif" SIZE=2>of incorporation)</FONT></TD>
+    <TD ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2></FONT></TD>
+    <TD ALIGN=right><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Identification
+      No.)</FONT></TD>
+  </TR>
+  <TR VALIGN=Bottom>
+    <TD ALIGN=CENTER colspan="2">&nbsp;</TD>
+    <TD ALIGN=CENTER>&nbsp;</TD>
+  </TR>
+
+  <TR VALIGN=Bottom>
+    <TD ALIGN=CENTER colspan="2"><b><FONT FACE="Times New Roman, Times, Serif" SIZE=2>200
+      Mamaroneck Avenue, White Plains, New York&nbsp; </FONT></b></TD>
+    <TD ALIGN=CENTER><b><FONT FACE="Times New Roman, Times, Serif" SIZE=2>10601</FONT></b></TD>
+  </TR>
+  <TR VALIGN=Bottom>
+    <TD ALIGN=CENTER colspan="2"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>(Address
+      of principal executive offices) </FONT><FONT FACE="Times New Roman, Times, Serif" SIZE=2></FONT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+    <TD ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>(Zip Code) </FONT></TD>
+  </TR>
+  <TR VALIGN=Bottom>
+    <TD ALIGN=CENTER colspan="2">&nbsp;</TD>
+    <TD ALIGN=CENTER>&nbsp;</TD>
+  </TR>
+  <TR VALIGN=Bottom>
+    <TD ALIGN=left colspan="2"><b><font face="Times New Roman, Times, Serif" size="2">Registrant&#146;s
+      telephone number, including area code: </font></b></TD>
+    <TD ALIGN=right><b><font face="Times New Roman, Times, Serif" size="2">(914)
+      428-9098  </font></b></TD>
+  </TR>
+  <TR VALIGN=Bottom>
+    <TD ALIGN=left colspan="2">&nbsp;</TD>
+    <TD ALIGN=right>&nbsp;</TD>
+  </TR>
+  <TR VALIGN=Bottom align="center">
+    <TD colspan="3"><font face="Times New Roman, Times, Serif" size=2>N/A</font></TD>
+  </TR>
+  <TR VALIGN=Bottom align="center">
+    <TD colspan="3"><font face="Times New Roman, Times, Serif" size=2>(Former
+      name or former address, if changed since last report) </font></TD>
+  </TR>
+</TABLE>
+
+<BR>
+<!-- MARKER FORMAT-SHEET="Para Flush" FSL="Default" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Check the appropriate box below if
+the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the
+registrant under any of the following provisions (<i>see</i> General Instruction A.2.
+below): </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Hang" FSL="Default" -->
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0>
+<TR VALIGN=TOP>
+<TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>|_| </FONT></TD>
+<TD><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp; </FONT></TD>
+<TD WIDTH=95%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) </FONT></TD>
+</TR>
+</TABLE>
+<BR>
+
+<!-- MARKER FORMAT-SHEET="Para Hang" FSL="Default" -->
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0>
+<TR VALIGN=TOP>
+<TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>|_| </FONT></TD>
+<TD><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp; </FONT></TD>
+<TD WIDTH=95%><FONT FACE="Times New Roman, Times, Serif" SIZE=2> Soliciting
+material pursuant to Rule 14a-12(b) under the Exchange Act (17 CFR 240.14a-12(b)) </FONT></TD>
+</TR>
+</TABLE>
+<BR>
+
+<!-- MARKER FORMAT-SHEET="Para Hang" FSL="Default" -->
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0>
+<TR VALIGN=TOP>
+<TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>|_| </FONT></TD>
+<TD><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp; </FONT></TD>
+<TD WIDTH=95%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR
+240.14d-2(b)) </FONT></TD>
+</TR>
+</TABLE>
+<BR>
+
+<!-- MARKER FORMAT-SHEET="Para Hang" FSL="Default" -->
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0>
+<TR VALIGN=TOP>
+<TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>|_| </FONT></TD>
+<TD><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp; </FONT></TD>
+<TD WIDTH=95%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR
+240.13e-4(c)) </FONT></TD>
+</TR>
+</TABLE>
+<BR>
+
+
+<p style=' margin-bottom:0pt;text-align:center; margin-top:0pt;'><font size=2> </font></p>
+
+<HR SIZE=5 COLOR=GRAY NOSHADE>
+</div>
+
+<!-- *************************************************************************** -->
+<!-- MARKER PAGE="sheet: 1; page: 1" -->
+<p style=' margin-bottom:0pt;text-align:center; margin-top:0pt;'><font size=2>&nbsp; </font></p>
+
+<div style='width:600;'>
+<BR>
+
+
+<!-- MARKER FORMAT-SHEET="Head Left" FSL="Default" -->
+<P ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Item 8.01&nbsp;&nbsp;&nbsp;Other Events</FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 2-TNR" FSL="Project" -->
+<TABLE WIDTH=600 CELLPADDING=0 CELLSPACING=0 BORDER=0>
+<TR VALIGN=TOP>
+<TD WIDTH=10%>&nbsp;</TD>
+<TD WIDTH=5%>a)</TD>
+<TD WIDTH=85%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>
+Reference is made to the press release dated December 27, 2004,  the text of which is attached  hereto as
+Exhibit 99.1, for a description of the events reported pursuant to this Form 8-K.
+  </FONT></TD>
+</TR>
+</TABLE>
+
+<!-- MARKER FORMAT-SHEET="Head Left" FSL="Default" -->
+<P ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Item 9.01&nbsp;&nbsp;&nbsp;Financial Statements and Exhibits</FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 2-TNR" FSL="Project" -->
+<TABLE WIDTH=600 CELLPADDING=0 CELLSPACING=0 BORDER=0>
+<TR VALIGN=TOP>
+<TD WIDTH=10%>&nbsp;</TD>
+<TD WIDTH=90%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>
+Exhibits </FONT></TD>
+</TR>
+</TABLE>
+<BR>
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 4-TNR" FSL="Project" -->
+<TABLE WIDTH=600 CELLPADDING=0 CELLSPACING=0 BORDER=0>
+<TR VALIGN=TOP>
+<TD WIDTH=15%>&nbsp;</TD>
+<TD WIDTH=85%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>
+99.1
+Press Release dated December 27, 2004 </FONT></TD>
+</TR>
+</TABLE>
+<BR>
+
+<!-- MARKER FORMAT-SHEET="Para Indent Lv 0-TNR" FSL="Project" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pursuant
+to the requirements of the Securities and Exchange Act of 1934, the registrant has duly
+caused this report to be signed on its behalf by the undersigned hereunto duly
+authorized.  </FONT></P>
+
+
+<!-- MARKER FORMAT-SHEET="Signature (Single)" FSL="Workstation" -->
+<TABLE WIDTH=600 CELLSPACING=0 CELLPADDING=0 BORDER=0>
+  <TR VALIGN=TOP>
+    <TD WIDTH=40% align="left" valign="middle"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"> </FONT></TD>
+<TD WIDTH=10%><FONT FACE="Times New Roman, Times, Serif" SIZE=2></FONT></TD>
+    <TD WIDTH=50%><FONT FACE="Times New Roman, Times, Serif" SIZE="2">DREW INDUSTRIES INCORPORATED<BR><BR>
+(Registrant)<BR>
+<BR>
+<BR>
+By:&nbsp;&nbsp;<B>&nbsp;<I>/s/ Fredric M. Zinn</I></B><BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                                                            Fredric M. Zinn<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                                                            Executive Vice President and<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                                                            Chief Financial Officer </FONT></TD>
+</TR>
+</TABLE>
+<BR>
+
+
+<!-- MARKER FORMAT-SHEET="Head Left" FSL="Default" -->
+<P ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Dated: December 27, 2004 </FONT></P>
+
+
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center-TNR" FSL="Project" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>2 </FONT></P>
+
+
+<HR SIZE=5 COLOR=GRAY NOSHADE>
+</div>
+
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>d61730_ex99-1.htm
+<DESCRIPTION>PRESS RELEASE
+<TEXT>
+
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML>
+<HEAD>
+     <!-- Created by EDGAR Ease Plus (EDGAR Ease+) -->
+     <!-- Project:        X:\JOBS\04-61730\d04-61730.eep                                   -->
+     <!-- Control Number: 04-61730                                                         -->
+     <!-- Rev Number:     1.0                                                              -->
+     <!-- Client Name:    Drew Industries Incorporated                                     -->
+     <!-- Project Name:   Form Type: 8-K                                                   -->
+     <!-- Firm Name:      Curran & Connors (NY)                                            -->
+     <TITLE>Drew Industries Incorporated</TITLE>
+</HEAD>
+<BODY>
+<div style='width:600;'>
+<BR>
+<!-- MARKER FORMAT-SHEET="Head Minor Center-TNR" FSL="Project" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Exhibit 99.1  </FONT></P>
+
+
+<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 WIDTH=600>
+  <TR>
+    <TD>
+      <hr NOSHADE color=#808080 size=1>
+    </TD>
+    <TD rowspan="9"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;<img src="drew.gif"></FONT></TD>
+  </TR>
+  <TR VALIGN=Bottom>
+    <TD WIDTH=88% ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;<b>FOR
+      IMMEDIATE RELEASE</b></FONT></TD>
+  </TR>
+  <TR>
+    <TD>
+      <hr NOSHADE color=#808080 size=1>
+    </TD>
+  </TR>
+  <TR VALIGN=Bottom>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2><b>&nbsp;Contact:</b>
+      Leigh J. Abrams, President and CEO</FONT></TD>
+  </TR>
+  <TR>
+    <TD>
+      <hr NOSHADE color=#808080 size=1>
+    </TD>
+  </TR>
+  <TR VALIGN=Bottom>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2><b>Phone:</b>
+      (914) 428-9098&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b> Fax:</b> (914) 428-4581</FONT></TD>
+  </TR>
+  <TR>
+    <TD>
+      <hr NOSHADE color=#808080 size=1>
+    </TD>
+  </TR>
+  <TR VALIGN=Bottom>
+    <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2><b>E Mail:</b>
+      <i>Drew@drewindustries.com</i></FONT></TD>
+  </TR>
+  <TR>
+    <TD>
+      <hr NOSHADE color=#808080 size=1>
+    </TD>
+  </TR>
+</TABLE>
+
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold-TNR" FSL="Project" -->
+<H1 ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=3>DREW ANNOUNCES ADVERSE JURY VERDICT IN<BR>
+EMPLOYEE PERSONAL INJURY</FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Project" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>White Plains, New York &#151; December  27,  2004 &#151; Drew  Industries Incorporated  reported  today  that a jury in state court in San
+Bernardino, California rendered a verdict in favor of a former  employee  of Drew&#146;s  subsidiary,  Lippert  Components,  Inc.,  for
+compensatory and punitive damages arising from an injury to the employee&#146;s hand caused by a punch press machine.
+</FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Project" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>The verdict was comprised of compensatory damages of $464,000, most of which has been previously paid or accrued by the Company,
+and punitive damages of $4 million.  Counsel for Lippert advised the Company that, under California law, the award of punitive
+damages will most likely be reduced by more than half.  It is anticipated that a final decision by the court concerning the
+reduction of punitive damages will be reached in approximately 60 days.</FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Project" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Lippert intends to move for a new trial or appeal the verdict because counsel for Lippert asserts that the verdict is unsupported
+by the evidence, citing numerous appealable issues that were created throughout the trial.</FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Project" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>The Company is in the process of evaluating the amount of the accrual related to this case, which will be recorded in the fourth
+quarter of 2004.</FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Major Left Bold-TNR" FSL="Project" -->
+<H1 ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>About Drew </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Project" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Drew,  through its wholly  owned  subsidiaries,  Kinro and Lippert  Components,  supplies a broad  array of  components  for RVs and
+manufactured  homes.  Drew&#146;s products include vinyl and aluminum windows and screens,  doors,  chassis,  chassis parts, RV slide-out
+mechanisms and power units, bath and shower units,  electric  stabilizer jacks and trailers for equipment hauling,  boats,  personal
+watercrafts and snowmobiles,  as well as chassis for modular  offices.  From 51 factories  located  throughout the United States and
+one  factory  in  Canada,  Drew  serves  most  major  national  manufacturers  of RVs and  manufactured  homes in an  efficient  and
+cost-effective manner. Additional information about Drew and its products can be found at <i>www.drewindustries.com.</i>
+</FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Major Left Bold-TNR" FSL="Project" -->
+<H1 ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Forward Looking
+Statements </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Project" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2><I>This press release contains
+certain &#147;forward-looking statements&#148; within the meaning of the Private
+Securities Litigation Reform Act of 1995 with respect to financial condition, results of
+operations, business strategies, operating efficiencies or synergies, competitive
+position, growth opportunities for existing products, plans and objectives of management,
+markets for the Company&#146;s common stock and other matters. Statements in this press
+release that are not historical facts are &#147;forward-looking statements&#148; for the
+purpose of the safe harbor provided by Section 21E of the Exchange Act and Section 27A of
+the Securities Act. Forward-looking statements, including, without limitation those
+relating to our future business prospects, revenues and income, wherever they occur in
+this press release, are necessarily estimates reflecting the best judgment of our senior
+management, at the time such statements were made, and involve a number of risks and
+uncertainties that could cause actual results to differ materially from those suggested by
+forward-looking statements. The Company does not undertake to update forward-looking
+statements to reflect circumstances or events that occur after the date the
+forward-looking statements are made. You should consider forward-looking statements,
+therefore, in light of various important factors, including those set forth in this press
+release.</I> </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Default" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2><I>Certain factors are beyond the Company&#146;s control, which could cause actual results and events to differ materially from those
+described in the forward-looking statements consisting primarily of the outcome of the litigation described in this press release.
+</I> </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Center Rule" FSL="Default" -->
+     <P ALIGN=CENTER>### </P>
+
+<p style=' margin-bottom:0pt;text-align:center; margin-top:0pt;'><font size=2> </font></p>
+
+<HR SIZE=5 COLOR=GRAY NOSHADE>
+</div>
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>3
+<FILENAME>drew.gif
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 drew.gif
+M1TE&.#=A-@&``/<``````(````"``("`````@(``@`"`@,#`P,#<P*;*\$`@
+M`&`@`(`@`*`@`,`@`.`@``!``"!``$!``&!``(!``*!``,!``.!```!@`"!@
+M`$!@`&!@`(!@`*!@`,!@`.!@``"``""``$"``&"``("``*"``,"``."```"@
+M`""@`$"@`&"@`("@`*"@`,"@`."@``#``"#``$#``&#``(#``*#``,#``.#`
+M``#@`"#@`$#@`&#@`(#@`*#@`,#@`.#@````0"``0$``0&``0(``0*``0,``
+M0.``0``@0"`@0$`@0&`@0(`@0*`@0,`@0.`@0`!`0"!`0$!`0&!`0(!`0*!`
+M0,!`0.!`0`!@0"!@0$!@0&!@0(!@0*!@0,!@0.!@0`"`0""`0$"`0&"`0("`
+M0*"`0,"`0."`0`"@0""@0$"@0&"@0("@0*"@0,"@0."@0`#`0"#`0$#`0&#`
+M0(#`0*#`0,#`0.#`0`#@0"#@0$#@0&#@0(#@0*#@0,#@0.#@0```@"``@$``
+M@&``@(``@*``@,``@.``@``@@"`@@$`@@&`@@(`@@*`@@,`@@.`@@`!`@"!`
+M@$!`@&!`@(!`@*!`@,!`@.!`@`!@@"!@@$!@@&!@@(!@@*!@@,!@@.!@@`"`
+M@""`@$"`@&"`@("`@*"`@,"`@."`@`"@@""@@$"@@&"@@("@@*"@@,"@@."@
+M@`#`@"#`@$#`@&#`@(#`@*#`@,#`@.#`@`#@@"#@@$#@@&#@@(#@@*#@@,#@
+M@.#@@```P"``P$``P&``P(``P*``P,``P.``P``@P"`@P$`@P&`@P(`@P*`@
+MP,`@P.`@P`!`P"!`P$!`P&!`P(!`P*!`P,!`P.!`P`!@P"!@P$!@P&!@P(!@
+MP*!@P,!@P.!@P`"`P""`P$"`P&"`P("`P*"`P,"`P."`P`"@P""@P$"@P&"@
+MP("@P*"@P,"@P."@P`#`P"#`P$#`P&#`P(#`P*#`P/_[\*"@I("`@/\```#_
+M`/__````__\`_P#______R'Y!```````+``````V`8````C_`/\)'$BPH,&#
+M"!,J7,BPH<.'$"-*G$BQHL6+&#-JW,BQH\>/($.*'$FRI,F3*%,ZM'>@I<N7
+M,`^HG$FSILV;&J4`V,FSIT\I.(,*'4ITIL^C/F467<JTJ5.(]Y!*!?"TJM6K
+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
+`
+end
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

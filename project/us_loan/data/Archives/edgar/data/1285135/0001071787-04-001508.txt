@@ -1,0 +1,362 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ BvKXBBXpsoJYS1w+wqeet6guAPWJrXuMP45mipipjy+kWs3EWY99l5Mf4uxSi1dc
+ +tudmZ6fhvRKmX/ix5aPPw==
+
+<SEC-DOCUMENT>0001071787-04-001508.txt : 20041228
+<SEC-HEADER>0001071787-04-001508.hdr.sgml : 20041228
+<ACCEPTANCE-DATETIME>20041228162506
+ACCESSION NUMBER:		0001071787-04-001508
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20041225
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20041228
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CWABS INC ASSET BACKED CERTIFICATES SERIES 2004 BC1
+		CENTRAL INDEX KEY:			0001285135
+		STANDARD INDUSTRIAL CLASSIFICATION:	ASSET-BACKED SECURITIES [6189]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0228
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-109272-06
+		FILM NUMBER:		041228789
+
+	BUSINESS ADDRESS:	
+		STREET 1:		4500 PARK GRANADA
+		CITY:			CALABASAS
+		STATE:			CA
+		ZIP:			91302
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>cwa04bc1_8k0412.txt
+<TEXT>
+                      SECURITIES AND EXCHANGE COMMISSION
+
+                            Washington, D.C. 20549
+
+                                   FORM 8-K
+
+                                CURRENT REPORT
+
+                    Pursuant to Section 13 or 15(d) of the
+
+                        Securities Exchange Act of 1934
+
+      Date of Report (Date of earliest event reported): December 25, 2004
+
+                                       CW
+
+                                  (Depositor)
+
+        (Issuer in respect of Asset-Backed Securitiies, Series 2004-BC1)
+
+                (Exact name of registrant as specified in charter)
+
+Delaware                      33-63714                      95-4449516
+(State or other               (Commission File No.)         (I.R.S. Employer
+    jurisdiction of                                         Identification No.)
+    organization)
+
+
+
+, , N/A                                                     91110-7137
+(Address of principal executive offices)                    (Zip Code)
+
+
+Registrant's Telephone Number, including area code: (818)-304-4428
+
+                                 Not Applicable
+              (Former name, former address and former fiscal year,
+                          if changed since last report)
+
+Check the appropriate box below if the Form 8-K filing is intended to
+simultaneously satisfy the filing obligation of the registrant under any of the
+following provisions.
+
+[]Written communications pursuant to Rule 425 under the Securities Act (17
+  CFR 230.425)
+[]Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17
+  CFR 240.14a-12)
+[]Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange
+  Act (17 CFR 240.14d-2(b))
+[]Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange
+  Act (17 CFR 240.13e-4(c))
+
+
+<PAGE>
+
+
+                    Section 8 - Other Events
+
+  Item 8.01  Other Events
+
+                    Section 9 - Financial Statements and Exhibits
+
+  Item 9.01  Financial Statements and Exhibits
+
+
+<PAGE>
+
+
+
+                                   SIGNATURES
+
+Pursuant  to the  requirements  of the  Securities  Exchange  Act of  1934,  the
+registrant  has duly  caused  this  report  to be  signed  on its  behalf by the
+undersigned thereunto duly authorized.
+
+Dated: December 25, 2004
+
+
+                                       CW
+
+
+                          By: /s/ Maria Tokarz
+                              ------------------------------
+                          Name:   Maria Tokarz
+                                  Assistant Treasurer
+                                  The Bank of New York,
+                                  as Trustee
+
+
+
+<PAGE>
+
+
+
+                                 EXHIBIT INDEX
+
+
+
+Exhibit
+
+
+99                  Monthly Remittance Statement dated December 25, 2004
+
+
+                             Payment Date: 12/25/04
+
+
+          ------------------------------------------------------------
+                             Countrywide Home Loans
+                   Asset-Backed Securitiies, Series 2004-BC1
+          ------------------------------------------------------------
+<TABLE>
+<CAPTION>
+
+Class Information                                Current Payment Information
+
+- ----------------------------------------------------------------------------------------------------------------------------------
+                                 Beginning       Pass Thru     Principal       Interest      Total           Principal  Interest
+Type       Class Code   Name     Cert. Bal.      Rate          Dist. Amt.      Dist. Amt.    Dist.           Losses     Shortfalls
+- ----------------------------------------------------------------------------------------------------------------------------------
+<S>        <C>          <C>      <C>             <C>           <C>             <C>           <C>             <C>        <C>
+Senior                  A1        583,808,355.00    2.410000%    51,589,495.56  1,211,564.51   52,801,060.07       0.00       0.00
+                        C         767,368,356.15    0.000000%             0.00  2,487,366.84    2,487,366.84       0.00       0.00
+                        P                 100.00    0.000000%             0.00  1,300,191.21    1,300,191.21       0.00       0.00
+Residual                AR                  0.00    0.000000%             0.00          0.00            0.00       0.00       0.00
+- ----------------------------------------------------------------------------------------------------------------------------------
+Subordinate             M1         65,000,000.00    2.680000%             0.00    150,005.56      150,005.56       0.00       0.00
+                        M2         52,000,000.00    3.250000%             0.00    145,527.78      145,527.78       0.00       0.00
+                        M3         15,600,000.00    3.580000%             0.00     48,091.33       48,091.33       0.00       0.00
+                        M4         15,600,000.00    3.830000%             0.00     51,449.67       51,449.67       0.00       0.00
+                        M5         13,000,000.00    3.930000%             0.00     43,994.17       43,994.17       0.00       0.00
+                        B          10,400,000.00    5.080000%             0.00     45,494.22       45,494.22       0.00       0.00
+- ----------------------------------------------------------------------------------------------------------------------------------
+- ----------------------------------------------------------------------------------------------------------------------------------
+Totals          -        -        755,408,455.00     -           51,589,495.56  5,483,685.28   57,073,180.84     -          -
+- ----------------------------------------------------------------------------------------------------------------------------------
+Class Information
+
+- --------------------------------------------------------------------------------
+                                             Ending Cert.          Unpaid
+Type             Class Code     Name         Notional Bal.         Interest
+- --------------------------------------------------------------------------------
+Senior                          A1        532,218,859.44              0.00
+                                C         715,778,860.59              0.00
+                                P                 100.00              0.00
+Residual                        AR                  0.00              0.00
+- --------------------------------------------------------------------------------
+Subordinate                     M1         65,000,000.00              0.00
+                                M2         52,000,000.00              0.00
+                                M3         15,600,000.00              0.00
+                                M4         15,600,000.00              0.00
+                                M5         13,000,000.00              0.00
+                                B          10,400,000.00              0.00
+- --------------------------------------------------------------------------------
+- --------------------------------------------------------------------------------
+Totals            -              -        703,818,959.44     -
+- --------------------------------------------------------------------------------
+
+</TABLE>
+<PAGE>
+                             Payment Date: 12/25/04
+
+
+          ------------------------------------------------------------
+                             Countrywide Home Loans
+                   Asset-Backed Securitiies, Series 2004-BC1
+          ------------------------------------------------------------
+<TABLE>
+<CAPTION>
+
+Class Information                                Current Payment Information
+
+                                                      Factors per $1,000
+
+- ------------------------------------------------------------------------------------------------------------------------
+                                   Beginning     Pass Thru    CUSIP       Principal     Interest    Ending Cert./
+Type        Class Code    Name   Cert. Bal.(Face)  Rate       Numbers       Dist.         Dist.     Notional Bal.
+- ------------------------------------------------------------------------------------------------------------------------
+<S>         <C>           <C>    <C>               <C>        <C>         <C>           <C>         <C>
+- ------------------------------------------------------------------------------------------------------------------------
+Senior                     A1    583,808,355.00     2.410000% 1266712T2    60.018493      1.409517    619.175927
+                           C     767,368,356.15     0.000000% 1266713A2     0.000000      2.391699    688.248838
+                           P             100.00     0.000000% 1266713B0     0.000000    13,001,912.100000  1,000.000000
+Residual                   AR              0.00     0.000000% 1266713C8     0.000000      0.000000      0.000000
+- ------------------------------------------------------------------------------------------------------------------------
+Subordinate                M1     65,000,000.00     2.680000% 1266712U9     0.000000      2.307778  1,000.000000
+                           M2     52,000,000.00     3.250000% 1266712V7     0.000000      2.798611  1,000.000000
+                           M3     15,600,000.00     3.580000% 1266712W5     0.000000      3.082778  1,000.000000
+                           M4     15,600,000.00     3.830000% 1266712X3     0.000000      3.298056  1,000.000000
+                           M5     13,000,000.00     3.930000% 1266712Y1     0.000000      3.384167  1,000.000000
+                           B      10,400,000.00     5.080000% 1266712Z8     0.000000      4.374444  1,000.000000
+- ------------------------------------------------------------------------------------------------------------------------
+- ------------------------------------------------------------------------------------------------------------------------
+Totals       -             -     755,408,455.00       -            -           -             -           -
+- ------------------------------------------------------------------------------------------------------------------------
+- ------------------------------------------------------------------------------------------------------------------------
+</TABLE>
+
+
+<PAGE>
+
+          ------------------------------------------------------------
+                             Countrywide Home Loans
+                   Asset-Backed Securitiies, Series 2004-BC1
+          ------------------------------------------------------------
+
+- --------------------------------------------------------------------------------
+                             COLLATERAL INFORMATION
+- --------------------------------------------------------------------------------
+
+                                           Total
+                                           -----
+Prin balance       715,778,860.59   715,778,860.59
+Loan count                   4585             4585
+Avg loan rate           7.037367%             7.04
+Prepay amount       50,580,959.60    50,580,959.60
+
+- --------------------------------------------------------------------------------
+                                FEES AND ADVANCES
+- --------------------------------------------------------------------------------
+
+                                           Total
+                                           -----
+Master serv fees       276,633.37       276,633.37
+Sub servicer fees          103.38           103.38
+Trustee fees             5,755.26         5,755.26
+
+
+Agg advances                  N/A              N/A
+Adv this period        349,513.25       349,513.25
+
+- --------------------------------------------------------------------------------
+                          LOSSES & INSURANCE COVERAGES
+- --------------------------------------------------------------------------------
+
+                                           Total
+                                           -----
+Realized losses            856.84           856.84
+Cumulative losses      443,810.78       443,810.78
+
+Coverage Amounts                           Total
+- ----------------                           -----
+Bankruptcy                   0.00             0.00
+Fraud               20,800,002.00    20,800,002.00
+Special Hazard               0.00             0.00
+
+
+                         Aggregate Certificate Information
+   -----------------------------------------------------------------------------
+   Class            Aggregate           Aggregate                     Aggregate
+   Type            Percentage           Prepay Pct.              End Cert. Bal.
+   -----------------------------------------------------------------------------
+   Senior           77.283813%           100.000000%            583,808,455.00
+   -----------------------------------------------------------------------------
+   Junior           22.716187%             0.000000%            171,600,000.00
+   -----------------------------------------------------------------------------
+
+- --------------------------------------------------------------------------------
+                          DELINQUENCY INFORMATION
+- --------------------------------------------------------------------------------
+Period                             Loan Count    Ending Stated Balance
+- ------                             ----------    ---------------------
+30 to 59 days                         143                17,813,224.45
+60 to 89 days                          44                 6,896,973.76
+90 or more                             21                 3,227,549.84
+Foreclosure                           103                14,081,117.81
+
+Totals:                               311                42,018,865.86
+- --------------------------------------------------------------------------------
+
+
+<PAGE>
+- --------------------------------------------------------------------------------
+                                REO INFORMATION
+- --------------------------------------------------------------------------------
+   REO Date        Loan Number     Ending Stated Balance          Book Value
+   --------        -----------     ---------------------          ----------
+   N/A              #                   0                            N/A
+   N/A              #                   0                            N/A
+   N/A              #                   0                            N/A
+   N/A              #                   0                            N/A
+   N/A              #                   0                            N/A
+   N/A              #                   0                            N/A
+   N/A              #                   0                            N/A
+   N/A              #                   0                            N/A
+   N/A              #                   0                            N/A
+   N/A              #                   0                            N/A
+   N/A              #                   0                            N/A
+   N/A              #                   0                            N/A
+   N/A              #                   0                            N/A
+   N/A              #                   0                            N/A
+   N/A              #                   0                            N/A
+   Totals:                              0                            N/A
+
+Current Total Outstanding Balance:                              1,638,738.66
+Current Total Outstanding Number of Loans:                                15
+
+
+
+<PAGE>
+- --------------------------------------------------------------------------------
+                               OTHER INFORMATION
+- --------------------------------------------------------------------------------
+                                  Amount/Withdrawal     Total/Ending Bal.
+                                  -----------------     -----------------
+Available remittance amount           57,073,180.84         57,073,180.84
+Principal remittance amount           51,589,495.56         51,589,495.56
+Interest remittance amount             5,483,685.28          5,483,685.28
+
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

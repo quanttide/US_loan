@@ -1,0 +1,332 @@
+
+                                 EXHIBIT 99.1
+                                 ------------
+
+                Computational Materials and/or ABS Term Sheet.
+
+
+
+                                      6
+
+<PAGE>
+
+STATEMENT REGARDING ASSUMPTIONS AS TO SECURITIES, PRICING ESTIMATES AND OTHER
+INFORMATION
+
+The information contained in the attached materials (the "Information") may
+include various forms of performance analysis, security characteristics and
+securities pricing estimates for the securities addressed. Please read and
+understand this entire statement before utilizing the Information. The
+Information is provided solely by Bear Stearns, not as agent for any issuer,
+and although it may be based on data supplied to it by an issuer, the issuer
+has not participated in its preparation and makes no representations regarding
+its accuracy or completeness. Should you receive Information that refers to
+the "Statement Regarding Assumptions and Other Information", please refer to
+this statement instead.
+
+The Information is illustrative and is not intended to predict actual results
+which may differ substantially from those reflected in the Information.
+Performance analysis is based on certain assumptions with respect to
+significant factors that may prove not to be as assumed. You should understand
+the assumptions and evaluate whether they are appropriate for your purposes.
+Performance results are based on mathematical models that use inputs to
+calculate results. As with all models, results may vary significantly
+depending upon the value of the inputs given. Inputs to these models include
+but are not limited to: prepayment expectations (econometric prepayment
+models, single expected lifetime prepayments or a vector of periodic
+prepayments), interest rate assumptions (parallel and nonparallel changes for
+different maturity instruments), collateral assumptions (actual pool level
+data, aggregated pool level data, reported factors or imputed factors),
+volatility assumptions (historically observed or implied current) and reported
+information (paydown factors, rate resets and trustee statements). Models used
+in any analysis may be proprietary making the results difficult for any third
+party to reproduce. Contact your registered representative for detailed
+explanations of any modelling techniques employed in the Information.
+
+The Information addresses only certain aspects of the applicable security's
+characteristics and thus does not provide a complete assessment. As such, the
+Information may not reflect the impact of all structural characteristics of
+the security, including call events and cash flow priorities at all prepayment
+speeds and/or interest rates. You should consider whether the behavior of
+these securities should be tested at assumptions different from those included
+in the Information. The assumptions underlying the Information, including
+structure and collateral, may be modified from time to time to reflect changed
+circumstances. Any investment decision should be based only on the data in the
+prospectus and the prospectus supplement or private placement memorandum
+(Offering Documents) and the then current version of the Information. Offering
+Documents contain data that is current as of their publication dates and after
+publication may no longer be complete or current. Contact your registered
+representative for Offering Documents, current Information or additional
+materials, including other models for performance analysis, which are likely
+to produce different results, and any further explanation regarding the
+Information.
+
+Any pricing estimates Bear Stearns has supplied at your request (a) represent
+our view, at the time determined, of the investment value of the securities
+between the estimated bid and offer levels, the spread between which may be
+significant due to market volatility or illiquidity, (b) do not constitute a
+bid by any person for any security, (c) may not constitute prices at which the
+securities could have been purchased or sold in any market, (d) have not been
+confirmed by actual trades, may vary from the value Bear Stearns assigns any
+such security while in its inventory, and may not take into account the size
+of a position you have in the security, and (e) may have been derived from
+matrix pricing that uses data relating to other securities whose prices are
+more readily ascertainable to produce a hypothetical price based on the
+estimated yield spread relationship between the securities.
+
+General Information: The data underlying the Information has been obtained
+from sources that we believe are reliable, but we do not guarantee the
+accuracy of the underlying data or computations based thereon. Bear Stearns
+and/or individuals thereof may have positions in these securities while the
+Information is circulating or during such period may engage in transactions
+with the issuer or its affiliates. We act as principal in transactions with
+you, and accordingly, you must determine the appropriateness for you of such
+transactions and address any legal, tax or accounting considerations
+applicable to you. Bear Stearns shall not be a fiduciary or advisor unless we
+have agreed in writing to receive compensation specifically to act in such
+capacities. If you are subject to ERISA, the Information is being furnished on
+the condition that it will not form a primary basis for any investment
+decision. The Information is not a solicitation of any transaction in
+securities which may be made only by prospectus when required by law, in which
+event you may obtain such prospectus from Bear Stearns.
+
+
+STATEMENT REGARDING CBO PRICING
+
+The security evaluation set forth above has been provided at your request as
+an accommodation to you. We believe it represents an estimate of value given
+stable market conditions and adequate time to work an order. However, by
+providing this information, we are not representing that such evaluation has
+been confirmed by actual trades or that a market exists or will exit for this
+security now or in the future. You should understand that our evaluation does
+not represent a bid by Bear Stearns or any other person and it may vary from
+the value Bear Stearns assigns such security while in our inventory.
+Additionally, you should consider that under adverse market conditions and/or
+deteriorating credit conditions in the collateral underlying the CBO, a
+distressed or forced sale of this instrument could result in proceeds that are
+far less than the evaluation provided.
+
+<PAGE>
+
+- ------------------------------------------------------------------------------
+  BEAR                        FASTrader                      12/22/2004 10:49
+ STEARNS                                                            jeshapiro
+                          CWALT-434T1 A3 ()                       Page 1 of 1
+- ------------------------------------------------------------------------------
+
+- --------------------------------------------------------------------
+                               CWALT-434T1 A3 ()
+
+Dated Date:                  12/1/04       Pricing
+Trade Date:                  1/1/01        WAC:   .00
+Settle Date:                 12/30/04      WAM:   .00
+Date of 1st CF:              1/25/05       Type:
+Pmts Per Year:                          ----------------------------
+Manager:                                   Collateral
+Face:                        .00        ----------------------------
+Speed Assumpt.:                            Cumulative Prepayment
+- ------------------------
+  Monthly Prepayment
+    Date   PSA   CPR
+- --------------------------------------------------------------------
+                            Deal Comments
+- --------------------------------------------------------------------
+                           Tranche Details
+           Des:          A3             P-Des:         A3
+           Cusip:                       Description:   NAS
+           Orig. Bal:    5,000,000.00   Current Bal:   5,000,000.00
+           Factor:       1.00           As of:         1/1/01
+           Coupon:       5.50           Cpn Mult.:
+           Cap:                         Floor.:
+           Last Reset:   1/1/01         Next Reset:    1/1/01
+           Delay Days:   24             Stated Mat:
+           Current Pac:                 Original Pac:
+           S&P:                         Fitch:
+           Moody:                       Duff:
+- --------------------------------------------------------------------
+                           Coupon Formulas
+                               Formula
+- --------------------------------------------------------------------
+- --------------------------------------------------------------------
+USD Swap  1mo   3mo   6mo   1yr   2yr   3yr   4yr   5yr   6yr   7yr
+- --------------------------------------------------------------------
+          2.42  2.53  2.76  3.08  3.44  3.63  3.81  3.97  4.12  4.25
+- --------------------------------------------------------------------
+USD Swap  8yr   9yr   10yr  11yr  12yr  13yr  14yr  15yr  20yr  30yr
+- --------------------------------------------------------------------
+          4.37  4.48  4.57  4.66  4.74  4.80  4.86  4.92  5.09  5.19
+- --------------------------------------------------------------------
+
+<TABLE>
+<CAPTION>
+                        Settlement Date: 12/30/2004     Valuation Date: 12/21/2004     Yield Curve: USD Swap
+- ----------------------------------------------------------------------------------------------------------------------------------
+                                                               Results
+- ----------------------------------------------------------------------------------------------------------------------------------
+         Prepay              0% CPR   CWALT-434T1/V50 ACPR   CWALT-434T1/V100 ACPR   CWALT-434T1/V150 ACPR   CWALT-434T1/V200 ACPR
+- ----------------------------------------------------------------------------------------------------------------------------------
+<S>                 <C>      <C>      <C>                    <C>                     <C>                     <C>
+Price  100.195312   Yield      5.52                   5.50                    5.49                    5.48                    5.44
+- ----------------------------------------------------------------------------------------------------------------------------------
+Price  100.320312   Yield      5.51                   5.49                    5.48                    5.46                    5.42
+- ----------------------------------------------------------------------------------------------------------------------------------
+Price  100.445312   Yield      5.50                   5.48                    5.46                    5.44                    5.39
+- ----------------------------------------------------------------------------------------------------------------------------------
+Price  100.570312   Yield      5.48                   5.46                    5.44                    5.42                    5.37
+- ----------------------------------------------------------------------------------------------------------------------------------
+Price  100.695312   Yield      5.47                   5.45                    5.43                    5.40                    5.34
+- ----------------------------------------------------------------------------------------------------------------------------------
+Price  100.820312   Yield      5.46                   5.43                    5.41                    5.39                    5.31
+- ----------------------------------------------------------------------------------------------------------------------------------
+Price  100.945312   Yield      5.45                   5.42                    5.40                    5.37                    5.29
+- ----------------------------------------------------------------------------------------------------------------------------------
+</TABLE>
+
+
+   -----------------------------------------------
+   Vector Name                 Vector Description
+   -----------------------------------------------
+   CWALT-434T1/V50             **SEE ATTACHED**
+   -----------------------------------------------
+   CWALT-434T1/V200            **SEE ATTACHED**
+   -----------------------------------------------
+   CWALT-434T1/V150            **SEE ATTACHED**
+   -----------------------------------------------
+   CWALT-434T1/V100            **SEE ATTACHED**
+   -----------------------------------------------
+
+- ------------------------------------------------------
+Security                % of Orig. Bal   Face Value
+- ------------------------------------------------------
+CWALT-434T1 A3 ()       100.00           5,000,000.00
+- ------------------------------------------------------
+
+           *** Vectors have been used in one or more scenarios. ***
+ *** Please see attached document for detailed scenario assumptions used. ***
+
+
+             [LOGO OMITTED] F.A.S.T.
+             -----------------------
+FINANCIAL ANALYTICS & STRUCTURED TRANSACTIONS
+This information should be considered only after reading Bear Stearns'
+Statement Regarding Assumptions as to Securities, Pricing Estimates, and Other
+Information ("the Statement"), which should be attached. Do not use or rely on
+this information if you have not received and reviewed the Statement. You may
+obtain a copy of the Statement from your sales representative.
+
+<PAGE>
+
+- ------------------------------------------------------------------------------
+  BEAR                        FASTrader                      12/22/2004 10:52
+ STEARNS                                                            jeshapiro
+                          CWALT-434T1 A4 ()                       Page 1 of 1
+- ------------------------------------------------------------------------------
+- --------------------------------------------------------------------
+                               CWALT-434T1 A4 ()
+
+Dated Date:                  12/1/04       Pricing
+Trade Date:                  1/1/01        WAC:   .00
+Settle Date:                 12/30/04      WAM:   .00
+Date of 1st CF:              1/25/05       Type:
+Pmts Per Year:                          ----------------------------
+Manager:                                   Collateral
+Face:                        .00        ----------------------------
+Speed Assumpt.:                            Cumulative Prepayment
+- ------------------------
+  Monthly Prepayment
+    Date   PSA   CPR
+- --------------------------------------------------------------------
+                            Deal Comments
+- --------------------------------------------------------------------
+                           Tranche Details
+           Des:          A4             P-Des:         A4
+           Cusip:                       Description:   NAS
+           Orig. Bal:    15,400,000.00  Current Bal:   15,400,000.00
+           Factor:       1.00           As of:         1/1/01
+           Coupon:       5.50           Cpn Mult.:
+           Cap:                         Floor.:
+           Last Reset:   1/1/01         Next Reset:    1/1/01
+           Delay Days:   24             Stated Mat:
+           Current Pac:                 Original Pac:
+           S&P:                         Fitch:
+           Moody:                       Duff:
+- --------------------------------------------------------------------
+                           Coupon Formulas
+                               Formula
+- --------------------------------------------------------------------
+- --------------------------------------------------------------------
+USD Swap  1mo   3mo   6mo   1yr   2yr   3yr   4yr   5yr   6yr   7yr
+- --------------------------------------------------------------------
+          2.42  2.53  2.76  3.09  3.45  3.65  3.83  3.99  4.14  4.28
+- --------------------------------------------------------------------
+USD Swap  8yr   9yr   10yr  11yr  12yr  13yr  14yr  15yr  20yr  30yr
+- --------------------------------------------------------------------
+          4.40  4.51  4.61  4.69  4.77  4.84  4.90  4.96  5.13  5.23
+- --------------------------------------------------------------------
+
+<TABLE>
+<CAPTION>
+                        Settlement Date: 12/30/2004     Valuation Date: 12/22/2004     Yield Curve: USD Swap
+
+- ----------------------------------------------------------------------------------------------------------------------------------
+                                                               Results
+- ----------------------------------------------------------------------------------------------------------------------------------
+         Prepay              0% CPR   CWALT-434T1/V50 ACPR   CWALT-434T1/V100 ACPR   CWALT-434T1/V150 ACPR   CWALT-434T1/V200 ACPR
+- ----------------------------------------------------------------------------------------------------------------------------------
+<S>                 <C>      <C>      <C>                    <C>                     <C>                     <C>
+Price  100.171875   Yield      5.52                   5.50                    5.50                    5.48                    5.45
+- ----------------------------------------------------------------------------------------------------------------------------------
+Price  100.296875   Yield      5.51                   5.49                    5.48                    5.46                    5.42
+- ----------------------------------------------------------------------------------------------------------------------------------
+Price  100.421875   Yield      5.50                   5.48                    5.46                    5.45                    5.40
+- ----------------------------------------------------------------------------------------------------------------------------------
+Price  100.546875   Yield      5.49                   5.46                    5.45                    5.43                    5.37
+- ----------------------------------------------------------------------------------------------------------------------------------
+Price  100.671875   Yield      5.48                   5.45                    5.43                    5.41                    5.35
+- ----------------------------------------------------------------------------------------------------------------------------------
+Price  100.796875   Yield      5.47                   5.44                    5.42                    5.39                    5.32
+- ----------------------------------------------------------------------------------------------------------------------------------
+Price  100.921875   Yield      5.46                   5.42                    5.40                    5.37                    5.29
+- ----------------------------------------------------------------------------------------------------------------------------------
+</TABLE>
+
+
+
+   -----------------------------------------------
+   Vector Name                 Vector Description
+   -----------------------------------------------
+   CWALT-434T1/V50             **SEE ATTACHED**
+   -----------------------------------------------
+   CWALT-434T1/V200            **SEE ATTACHED**
+   -----------------------------------------------
+   CWALT-434T1/V150            **SEE ATTACHED**
+   -----------------------------------------------
+   CWALT-434T1/V100            **SEE ATTACHED**
+   -----------------------------------------------
+
+- ---------------------------------------------------------
+Security                % of Orig. Bal    Face Value
+- ---------------------------------------------------------
+CWALT-434T1 A4 ()       100.00            15,400,000.00
+- ---------------------------------------------------------
+
+
+
+
+
+
+
+           *** Vectors have been used in one or more scenarios. ***
+ *** Please see attached document for detailed scenario assumptions used. ***
+
+
+
+             [LOGO OMITTED] F.A.S.T.
+             -----------------------
+FINANCIAL ANALYTICS & STRUCTURED TRANSACTIONS
+This information should be considered only after reading Bear Stearns'
+Statement Regarding Assumptions as to Securities, Pricing Estimates, and Other
+Information ("the Statement"), which should be attached. Do not use or rely on
+this information if you have not received and reviewed the Statement. You may
+obtain a copy of the Statement from your sales representative.
+

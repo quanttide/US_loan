@@ -1,0 +1,274 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ V7iUGS/G6Y/4884wJEYm4Z78dD4HyM1xSrDCdmLw8MJc9cbNfq0/3jGdu2A5NgID
+ ADs+GD+IHWQ8Uff0qCfu/A==
+
+<SEC-DOCUMENT>0001068800-04-000746.txt : 20041227
+<SEC-HEADER>0001068800-04-000746.hdr.sgml : 20041224
+<ACCEPTANCE-DATETIME>20041227170146
+ACCESSION NUMBER:		0001068800-04-000746
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20041222
+ITEM INFORMATION:		Regulation FD Disclosure
+FILED AS OF DATE:		20041227
+DATE AS OF CHANGE:		20041227
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			KV PHARMACEUTICAL CO /DE/
+		CENTRAL INDEX KEY:			0000057055
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		IRS NUMBER:				430618919
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0331
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-09601
+		FILM NUMBER:		041226965
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2503 S HANLEY RD
+		CITY:			ST LOUIS
+		STATE:			MO
+		ZIP:			63144
+		BUSINESS PHONE:		3146456600
+
+	MAIL ADDRESS:	
+		STREET 1:		2503 S HANLEY RD
+		CITY:			ST LOUIS
+		STATE:			MO
+		ZIP:			63144
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>kv8k.txt
+<TEXT>
+<PAGE>
+
+============================================================================
+
+                                UNITED STATES
+                     SECURITIES AND EXCHANGE COMMISSION
+                           Washington, D.C. 20549
+
+                     ----------------------------------
+
+                                  FORM 8-K
+
+
+                               CURRENT REPORT
+
+
+                     PURSUANT TO SECTION 13 OR 15(d) OF
+                     THE SECURITIES EXCHANGE ACT OF 1934
+
+
+                        Commission File Number 1-9601
+
+
+     Date of Report (date of earliest event reported): December 22, 2004
+
+
+                         K-V PHARMACEUTICAL COMPANY
+           (Exact name of registrant as specified in its charter)
+
+
+              DELAWARE                                  43-0618919
+   (State or other jurisdiction of         (I.R.S. Employer Identification No.)
+   incorporation or organization)
+
+        2503 SOUTH HANLEY ROAD
+         ST. LOUIS, MISSOURI                              63144
+ (Address of principal executive offices)              (Zip Code)
+
+
+
+                               (314) 645-6600
+            (Registrant's telephone number, including area code)
+
+         Check the appropriate box below if the Form 8-K filing is intended
+to simultaneously satisfy the filing obligation of the registrant under any
+of the following provisions:
+
+     [ ] Written communications pursuant to Rule 425 under the Securities Act.
+     [ ] Soliciting material pursuant to Rule 14a-12 under the Exchange Act.
+     [ ] Pre-commencement communications pursuant to Rule 14d-2(b) under
+         the Exchange Act.
+     [ ] Pre-commencement communications pursuant to Rule 13e-4(c) under
+         the Exchange Act.
+
+
+============================================================================
+
+
+
+                          SECTION 7 - REGULATION FD
+
+ITEM 7.01         REGULATION FD DISCLOSURE
+
+                  Attached and incorporated herein by reference as Exhibit
+99 is a press release issued by K-V Pharmaceutical Company (the "Company")
+announcing that it has adopted the Financial Accounting Standards Board's
+(FASB) ruling, EITF 04-8, effective December 15, 2004, which provides that
+companies must include all common stock underlying contingent convertible
+securities in diluted earnings per share calculations. The information in
+this Form 8-K, including Exhibit 99 attached hereto, is being furnished
+under Regulation FD and shall not be deemed "filed" for purposes of Section
+18 of the Securities Exchange Act of 1934, as amended. The Company has
+posted this Form 8-K on its internet website at www.kvpharmaceutical.com. A
+copy of the press release is attached hereto as Exhibit 99.
+
+
+
+                                 *    *    *
+
+
+
+
+                                     -2-
+
+                                 SIGNATURES
+
+
+                  Pursuant to the requirements of the Securities Exchange
+Act of 1934, the Registrant has duly caused this report to be signed on its
+behalf by the undersigned hereunto duly authorized.
+
+
+Dated: December 27, 2004
+
+                                       K-V PHARMACEUTICAL COMPANY
+
+
+                                       By:      /s/ GERALD R. MITCHELL
+                                          -------------------------------------
+                                          Gerald R. Mitchell
+                                          Vice President and
+                                          Chief Financial Officer
+
+
+
+
+                                    -3-
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>2
+<FILENAME>ex99.txt
+<TEXT>
+<PAGE>
+
+                                                                  EXHIBIT 99
+
+KV PHARMACEUTICAL COMPANY
+
+                                             CONTACT:
+                                             CATHERINE M. BIFFIGNANI
+                                             VICE PRESIDENT, INVESTOR RELATIONS
+                                             314-645-6600
+
+                                                 [KV PHARMACEUTICAL logo]
+
+FOR IMMEDIATE RELEASE
+
+
+
+            KV PHARMACEUTICAL COMPANY ADOPTS FASB RULE EITF 04-8
+
+St. Louis, MO., December 22, 2004 -- KV Pharmaceutical Company (NYSE:
+KVa/KVb) announced today that in step with other companies it is adopting
+the Financial Accounting Standards Board's (FASB) ruling, EITF 04-8,
+effective December 15, 2004. The new rule requires companies to calculate
+diluted earnings per share by including common stock underlying contingent
+convertible securities. Previously, companies would include these shares
+only when the price conversion triggers were reached.
+
+This ruling changes the way KV accounts for its $200 million aggregate
+principal amount of Contingent Convertible Subordinated Notes due 2033 (the
+"Notes") that are convertible into shares of KV Pharmaceutical Company Class
+A Common Stock under certain circumstances, at an initial conversion price
+of $23.01 per share.
+
+Approximately 8.7 million additional shares will be included in the
+Company's total diluted shares outstanding for the quarter ending December
+31, 2004 and subsequent periods. KV will restate financial results for all
+periods affected by the adoption of EITF 04-8 dating back to the issuance of
+the Notes on May 13, 2003.
+
+ABOUT KV PHARMACEUTICAL COMPANY
+KV Pharmaceutical Company is a fully integrated specialty pharmaceutical
+company that develops, manufactures, markets and acquires
+technology-distinguished branded and generic/non-branded prescription
+pharmaceutical products. The Company markets its technology distinguished
+products through ETHEX Corporation, a national leader in pharmaceuticals
+that compete with branded products, and Ther-Rx Corporation, its emerging
+branded drug subsidiary. KV has consistently ranked as one of America's
+fastest growing small companies, most recently by Forbes in its November
+2004 issue.
+
+For further information about KV Pharmaceutical Company, please visit the
+Company's corporate website at www.kvpharmaceutical.com.
+
+
+
+SAFE HARBOR
+The information in this release may contain various forward-looking
+statements within the meaning of the United States Private Securities
+Litigation Reform Act of 1995 ("PSLRA") and which may be based on or include
+assumptions, concerning KV's operations, future results and prospects. Such
+statements may be identified by the use of words like "plans", "expect",
+"aim", "believe", "projects", "anticipate", "commit", "intend", "estimate",
+"will", "should", "could", and other expressions that indicate future events
+and trends.
+
+All statements that address expectations or projections about the future,
+including without limitation, statements about the Company's strategy for
+growth, product development, regulatory approvals, market position,
+expenditures and financial results, are forward-looking statements.
+
+All forward-looking statements are based on current expectations and are
+subject to risk and uncertainties. In connection with the "safe harbor"
+provisions, KV provides the following cautionary statements identifying
+important economic, political and technology factors which, among others,
+could cause the actual results or events to differ materially from those set
+forth or implied by the forward-looking statements and related assumptions.
+
+Such factors include (but are not limited to) the following: (1) changes in
+the current and future business environment, including interest rates and
+capital and consumer spending; (2) the difficulty of predicting FDA
+approvals including the timing, and that any period of exclusivity may not
+be realized; (3) acceptance and demand for new pharmaceutical products; (4)
+the impact of competitive products and pricing; (5) new product development
+and launch including but limited to the possibility that any product launch
+may be delayed or that product acceptance may be less than anticipated; (6)
+reliance on key strategic alliances; (7) the availability of raw materials;
+(8) the regulatory environment; (9) fluctuations in operating results; (10)
+the difficulty of predicting the pattern of inventory movements by the
+Company's customers; (11) the impact of competitive response to the
+Company's sales, marketing and strategic efforts; (12) risks that the
+company may not ultimately prevail in its litigation; and (13) the risks
+detailed from time to time in the Company's filings with the Securities and
+Exchange Commission.
+
+This discussion is by no means exhaustive, but is designed to highlight
+important factors that may impact the Company's outlook.
+
+                                   # # #
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

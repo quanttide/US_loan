@@ -1,0 +1,762 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ EuckD9vdqdK4rpPoinRnJLK/Dn+lbOyh5nfBJWE86ttY1pVIdwsc5LpnhVb0LzXj
+ QdKI7QzguyPUDDaRHnFIuw==
+
+<SEC-DOCUMENT>0001193125-04-219329.txt : 20041223
+<SEC-HEADER>0001193125-04-219329.hdr.sgml : 20041223
+<ACCEPTANCE-DATETIME>20041223171804
+ACCESSION NUMBER:		0001193125-04-219329
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		4
+CONFORMED PERIOD OF REPORT:	20040729
+ITEM INFORMATION:		Entry into a Material Definitive Agreement
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20041223
+DATE AS OF CHANGE:		20041223
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			OPNET TECHNOLOGIES INC
+		CENTRAL INDEX KEY:			0001108924
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		IRS NUMBER:				521483235
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0331
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-30931
+		FILM NUMBER:		041225072
+
+	BUSINESS ADDRESS:	
+		STREET 1:		7255 WOODMONT AVENUE
+		CITY:			BETHESDSA
+		STATE:			MD
+		ZIP:			20814
+		BUSINESS PHONE:		2404973000
+
+	MAIL ADDRESS:	
+		STREET 1:		7255 WOODMONT AVENUE
+		CITY:			BETHESDA
+		STATE:			MD
+		ZIP:			20814
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>d8k.htm
+<DESCRIPTION>FORM 8-K
+<TEXT>
+<HTML><HEAD>
+<TITLE>Form 8-K</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+<HR SIZE="3" NOSHADE COLOR="#000000" ALIGN="left"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="5"><B>UNITED STATES </B></FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="5"><B>SECURITIES AND EXCHANGE COMMISSION </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman"
+SIZE="3"><B>WASHINGTON, D.C. 20549 </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P><HR WIDTH="17%" SIZE="1" NOSHADE COLOR="#000000"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="5"><B>FORM 8-K </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P><HR WIDTH="17%"
+SIZE="1" NOSHADE COLOR="#000000"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="3"><B>CURRENT REPORT </B></FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="3"><B>Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934 </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>Date of Report (Date of earliest event reported): December 23, 2004 (July 29, 2004) </B></FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P><HR WIDTH="17%" SIZE="1" NOSHADE COLOR="#000000"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"
+ALIGN="center"><FONT FACE="Times New Roman" SIZE="6"><B>OPNET Technologies, Inc. </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(Exact Name of Registrant as Specified in Charter)
+</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P><HR WIDTH="17%" SIZE="1" NOSHADE COLOR="#000000"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD WIDTH="34%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="32%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="32%"></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>Delaware</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>000-30931</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>52-1483235</B></FONT></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(State or Other Jurisdiction</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:1px" ALIGN="center"><FONT
+FACE="Times New Roman" SIZE="1"><B>of Incorporation)</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(Commission File Number)</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(IRS Employer</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:1px" ALIGN="center"><FONT FACE="Times New Roman"
+SIZE="1"><B>Identification No.)</B></FONT></P></TD></TR>
+</TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD WIDTH="50%"></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD WIDTH="48%"></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>7255 Woodmont Avenue</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:1px" ALIGN="center"><FONT
+FACE="Times New Roman" SIZE="2"><B>Bethesda, Maryland</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>20814</B></FONT></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(Address of Principal Executive Offices)</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(Zip Code)</B></FONT></TD></TR>
+</TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>Registrant&#146;s
+telephone number, including area code: (240) 497-3000 </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(Former Name or Former Address, if Changed Since Last Report) </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P><HR WIDTH="17%" SIZE="1" NOSHADE COLOR="#000000"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Check the
+appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (<I>see</I> General Instruction A.2. below): </FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2"></FONT><FONT FACE="WINGDINGS" SIZE="2" COLOR="#000000">&#168;</FONT><FONT FACE="Times New Roman" SIZE="2"></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2"></FONT><FONT FACE="WINGDINGS" SIZE="2" COLOR="#000000">&#168;</FONT><FONT FACE="Times New Roman" SIZE="2"></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2"></FONT><FONT FACE="WINGDINGS" SIZE="2" COLOR="#000000">&#168;</FONT><FONT FACE="Times New Roman" SIZE="2"></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2"></FONT><FONT FACE="WINGDINGS" SIZE="2" COLOR="#000000">&#168;</FONT><FONT FACE="Times New Roman" SIZE="2"></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT
+SIZE="1">&nbsp;</FONT></P><HR SIZE="3" NOSHADE COLOR="#000000" ALIGN="left">
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>Item 1.01. Entry into a Material Definitive Agreement. </B></FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">The Registrant from time to time issues stock options to its employees,
+officers and directors pursuant to its Amended and Restated 2000 Stock Incentive Plan and its Amended and Restated 2000 Director Stock Option Plan. The Registrant filed a copy of its Amended and Restated 2000 Stock Incentive Plan as Exhibit 10.1 to
+the Registrant&#146;s Quarterly Report on Form 10-Q for the period ended September 30, 2001, as filed with the Securities and Exchange Commission on November 14, 2001. On July 29, 2004, the Registrant amended and restated its 2000 Director Stock
+Option Plan. A copy of the Amended and Restated 2000 Director Stock Option Plan is filed herewith as Exhibit 10.1. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">The Registrant is filing herewith the form of Nonstatutory Stock Option Agreement used by the Registrant in connection with option grants made under its
+Amended and Restated 2000 Stock Incentive Plan and the form of Nonstatutory Stock Option Agreement used by the Registrant in connection with option grants made under its Amended and Restated 2000 Director Stock Option Plan. From time to time, the
+Registrant may issue stock options, restricted stock or other stock-based awards under these plans on terms different from those in the form agreements filed herewith. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">On September 14, 2004, the Registrant issued stock options to the following members of its board of directors under its
+Amended and Restated 2000 Director Stock Option Plan: </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="90%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE" ALIGN="center">
+
+<TR>
+<TD WIDTH="57%"></TD>
+<TD VALIGN="bottom" WIDTH="6%"></TD>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="6%"></TD>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="6%"></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR>
+<TD VALIGN="bottom"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="1"><B>Name of Director</B></FONT></P><HR WIDTH="91" SIZE="1" NOSHADE ALIGN="left" COLOR="#000000"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>Date&nbsp;of&nbsp;Grant</B></FONT><BR><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>Number&nbsp;of&nbsp;Shares</B></FONT><BR><HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" COLSPAN="2" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>Exercise&nbsp;Price</B></FONT><BR><HR SIZE="1" NOSHADE COLOR="#000000"></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Steven G. Finn</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">September&nbsp;14,&nbsp;2004</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">10,000</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">$</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">10.37</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Ronald W. Kaiser</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">September 14, 2004</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">10,000</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">$</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">10.37</FONT></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">William F. Stasior</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">September 14, 2004</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">10,000</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">$</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">10.37</FONT></TD></TR>
+</TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">The options were evidenced by
+Nonstatutory Stock Option Agreements in the form filed herewith as described above. The options vest in full on the date of the annual meeting next following the date of grant, provided the director is serving on the board immediately prior to such
+annual meeting. These options generally terminate upon the earlier of (i) seven years after the date of grant, (ii) 30 days after the date the director ceases to serve on the board except in the event of a director&#146;s death the options terminate
+on the first anniversary of the date of death. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>Item 9.01. Financial
+Statements and Exhibits. </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2"><B></B>(c)</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Exhibits </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; margin-left:8%"><FONT
+FACE="Times New Roman" SIZE="2">See Exhibit Index attached hereto. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">SIGNATURE </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the
+undersigned hereunto duly authorized. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0">
+
+<TR>
+<TD WIDTH="48%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="2%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="48%"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" COLSPAN="3"><FONT FACE="Times New Roman" SIZE="2">OPNET TECHNOLOGIES, INC.</FONT></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Date: December 23, 2004</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">By:</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">/s/ Marc A. Cohen</FONT></P><HR WIDTH="68%" SIZE="1" NOSHADE COLOR="#000000" ALIGN="left"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">Marc A. Cohen</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">Chief Executive Officer</FONT></TD></TR>
+</TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">EXHIBIT INDEX </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="6%"></TD>
+<TD WIDTH="91%"></TD></TR>
+<TR>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="1"><B>Exhibit&nbsp;No.</B></FONT><BR><HR WIDTH="63" SIZE="1" NOSHADE ALIGN="left" COLOR="#000000"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="1"><B>Description</B></FONT></P><HR WIDTH="61" SIZE="1" NOSHADE ALIGN="left" COLOR="#000000"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">10.1</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">Amended and Restated 2000 Director Stock Option Plan</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">10.2</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">Form of Nonstatutory Stock Option Agreement for use in connection with the Registrant&#146;s Amended and Restated 2000 Stock Incentive Plan</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">10.3</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">Form of Nonstatutory Stock Option Agreement for use in connection with the Registrant&#146;s Amended and Restated 2000 Director Stock Option Plan</FONT></TD></TR>
+</TABLE>
+</BODY></HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.1
+<SEQUENCE>2
+<FILENAME>dex101.htm
+<DESCRIPTION>DIRECTOR STOCK OPTION PLAN
+<TEXT>
+<HTML><HEAD>
+<TITLE>Director Stock Option Plan</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2"><B>Exhibit 10.1 </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT
+SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">OPNET TECHNOLOGIES, INC. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman"
+SIZE="2">2000 Director Stock Option Plan </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">Adopted by the Board of Directors on March 13, 2000 </FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">Approved by the Stockholders on June 30, 2000 </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman"
+SIZE="2">Amended and restated by the Board of Directors on July 29, 2004 </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">1.
+Purpose. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">The purpose of this 2000 Director Stock Option Plan
+(the &#147;Plan&#148;) of OPNET Technologies, Inc., a Delaware corporation (the &#147;Company&#148;), is to encourage ownership in the Company by non-employee directors of the Company whose continued services are considered essential to the
+Company&#146;s future progress, to provide them with a further incentive to remain as directors of the Company and to align the interests of such persons with those of the Company&#146;s stockholders. </FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">1. <U>Administration</U>. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT
+SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">The Board of Directors (the &#147;Board&#148;) shall supervise and administer the Plan. All questions concerning
+interpretation of the Plan or any options granted under it shall be resolved by the Board and such resolution shall be final and binding upon all persons having an interest in the Plan. The Board may, to the full extent permitted by or consistent
+with applicable laws or regulations, delegate any or all of its powers under the Plan to a committee appointed by the Board, and if a committee is so appointed, all references to the Board in the Plan shall mean and relate to such committee.
+</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">2. <U>Participation in the Plan</U>. </FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">Directors of the Company who are not employees of the Company or any
+subsidiary of the Company (&#147;non-employee directors&#148;) shall be eligible to receive options under the Plan. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">3. <U>Stock Subject to the Plan</U>. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">(a) The maximum number of shares of the Company&#146;s common stock, $0.001 par value per share (&#147;Common Stock&#148;), which may be issued under the
+Plan shall be 225,000 shares, subject to adjustment as provided in Section 7. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT
+FACE="Times New Roman" SIZE="2">(b) If any outstanding option under the Plan for any reason expires or is terminated without having been exercised in full, the shares covered by the unexercised portion of such option shall again become available for
+issuance pursuant to the Plan. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">(c) All options granted under
+the Plan shall be non-statutory options not entitled to special tax treatment under Section 422 of the Internal Revenue Code of 1986, as amended (the &#147;Code&#148;). </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">(d) Shares issued under the Plan may consist in whole or in part of authorized but unissued shares or treasury shares.
+</FONT></P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">4. <U>Terms, Conditions and Form of Options</U>. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT
+SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">Each option granted under the Plan shall be evidenced by a written agreement in such form as the Board shall from time to
+time approve, which agreements shall comply with and be subject to the following terms and conditions: </FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">(a) (i) <U>Automatic Option Grant Dates</U>. Options shall automatically be granted to all non-employee directors as follows: </FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:13%"><FONT FACE="Times New Roman" SIZE="2">(x) each person serving as a non-employee director on the closing date (the
+&#147;Closing Date&#148;) of the Company&#146;s initial public offering of Common Stock (the &#147;Initial Public Offering&#148;) pursuant to an effective registration statement under the Securities Act of 1933, as amended, shall be granted an
+option to purchase 10,000 shares of Common Stock on the Closing Date; </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:13%"><FONT FACE="Times New Roman"
+SIZE="2">(y) each person who first becomes a non-employee director after the Closing Date, other than pursuant to election at an Annual Meeting of Stockholders of the Company, shall be granted an option on the date of his or her election to the
+Board to purchase a number of shares of Common Stock calculated by multiplying 833 by the number of full calendar months remaining from the date of his or her initial election to the Board until the first anniversary of the prior year&#146;s Annual
+Meeting of Stockholders; and </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:13%"><FONT FACE="Times New Roman" SIZE="2">(z) each non-employee director
+shall be granted an option to purchase 10,000 shares of Common Stock on the date of each Annual Meeting of Stockholders of the Company commencing with the 2001 Annual Meeting of Stockholders, provided that he or she is serving as a director
+immediately following such Annual Meeting of Stockholders. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:8%"><FONT FACE="Times New Roman"
+SIZE="2">(ii) <U>Periodic Grants of Options</U>. Subject to execution by the non-employee director of an appropriate option agreement, the Board may grant additional options to purchase a number of shares to be determined by the Board in recognition
+of services provided by a non-employee director in his or her capacity as a director. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT
+FACE="Times New Roman" SIZE="2">Each date of grant of an option pursuant to this Section 5(a) is hereinafter referred to as an &#147;Option Grant Date.&#148; </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">(b) <U>Option Exercise Price</U>. The option exercise price per share for each option granted under the Plan shall equal (i) the closing price on any
+national securities exchange on which the Common Stock is listed, (ii) the closing price of the Common Stock on the Nasdaq National Market or (iii) the average of the closing bid and asked prices in the over-the-counter market, whichever is
+applicable, as published in <U>The Wall Street Journal</U>, on the Option Grant Date; provided, that the option exercise price per share for each option granted pursuant to Section 5(a)(i)(x) shall be equal to the price per share to the public of
+the shares of Common Stock sold by the Company in the Initial Public Offering. If no sales of Common Stock were made on the Option Grant Date, the price of the Common Stock for purposes of clauses (i) and (ii) above shall be the reported price for
+the next preceding day on which sales were made. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">(c)
+<U>Transferability of Options</U>. Except as the Board may otherwise determine or provide in an option granted under the Plan, any option granted under the Plan to an optionee </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">- 2 - </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">shall not be transferable by the optionee other than by will or the laws of descent and distribution or pursuant to a
+qualified domestic relations order as defined by the Code or Title I of the Employee Retirement Income Security Act, or the rules thereunder, and shall be exercisable during the optionee&#146;s lifetime only by the optionee or the optionee&#146;s
+guardian or legal representative. References to an optionee, to the extent relevant in the context, shall include references to authorized transferees. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">(d) <U>Vesting Period</U>. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px; text-indent:8%"><FONT FACE="Times New Roman" SIZE="2">(i) <U>General</U>. (a) <B>For Option Grant Dates through July 29, 2004</B>: Each such option granted under the Plan pursuant to Section 5(a)(i) above
+shall become exercisable (vest) in full on the first anniversary of the Option Grant Date. Each such option granted under the Plan pursuant to Section 5(a)(ii) above shall become exercisable on such terms as shall be determined by the Board and set
+forth in the option agreement with the respective optionee. (b) <B>Option Grant Dates after July 29, 2004: </B>Each option granted under the Plan pursuant to Section 5(a)(i) above shall become exercisable (vest) in full on the date of the Annual
+Meeting of Stockholders next following the Option Grant Date, provided that the optionee is serving on the Board immediately prior to such Annual meeting of Stockholders. Each option granted under the Plan pursuant to Section 5(a)(ii) above shall
+become exercisable on such terms as shall be determined by the Board and set forth in the option agreement with the respective optionee. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px; text-indent:8%"><FONT FACE="Times New Roman" SIZE="2">(ii) <U>Right to Receive Restricted Stock</U>. The Board shall have the authority to grant options which are immediately exercisable subject to the
+Company&#146;s right to repurchase any unvested shares of stock acquired by the optionee on exercise of an option in the event such optionee&#146;s service as a director terminates for any reason. </FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">(e) <U>Termination</U>. (a) <B>For Option Grant Dates through July 29,
+2004</B>: Each such option shall terminate, and may no longer be exercised, on the earlier of (i) the date ten years after the Option Grant Date of such option or (ii) the first anniversary of the date on which the optionee ceases to serve as a
+director of the Company. (b) <B>Option Grant Dates after July 29, 2004: </B>Each option shall terminate, and may no longer be exercised, on the earlier of (i) the date seven years after the Option Grant Date of such option or (ii) the date that is
+30 days after the date on which the optionee ceases to serve as a director of the Company or in the event the optionee ceases to serve on the Board of Directors because because of his or her death, the first anniversary of the date of death.
+</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">(f) <U>Exercise Procedure</U>. An option may be exercised only
+by written notice to the Company at its principal office accompanied by (i) payment in cash or by certified or bank check of the full consideration for the shares as to which they are exercised, (ii) delivery of outstanding shares of Common Stock
+(which have been owned by the optionee for at least six months) having a fair market value on the last business day preceding the date of exercise equal to the option exercise price or (iii) an irrevocable undertaking by a creditworthy broker to
+deliver promptly to the Company sufficient funds to pay the exercise price or delivery of irrevocable instructions to a creditworthy broker to deliver promptly to the Company cash or a check sufficient to pay the exercise price. </FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">- 3 - </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">(g) <U>Exercise by Representative Following Death of Director</U>. An optionee, by written notice to the
+Company, may designate one or more persons (and from time to time change such designation), including his or her legal representative, who, by reason of the optionee&#146;s death, shall acquire the right to exercise all or a portion of the option.
+If the person or persons so designated wish to exercise any portion of the option, they must do so within the term of the option as provided herein. Any exercise by a representative shall be subject to the provisions of the Plan. </FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">5. <U>Limitation of Rights</U>. </FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">(a) <U>No Right to Continue as a Director</U>. Neither the Plan, nor the
+granting of an option nor any other action taken pursuant to the Plan, shall constitute or be evidence of any agreement or understanding, express or implied, that the Company will retain the optionee as a director for any period of time. </FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">(b) <U>No Stockholders&#146; Rights for Options</U>. An optionee shall
+have no rights as a stockholder with respect to the shares covered by his or her option until the date of the issuance to him or her of a stock certificate therefor, and no adjustment will be made for dividends or other rights (except as provided in
+Section 7) for which the record date is prior to the date such certificate is issued. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT
+FACE="Times New Roman" SIZE="2">(c) <U>Compliance with Securities Laws</U>. Each option shall be subject to the requirement that if, at any time, counsel to the Company shall determine that the listing, registration or qualification of the shares
+subject to such option upon any securities exchange or under any state or federal law, or the consent or approval of any governmental or regulatory body, or the disclosure of non-public information or the satisfaction of any other condition is
+necessary as a condition of, or in connection with, the issuance or purchase of shares thereunder, such option may not be exercised, in whole or in part, unless such listing, registration, qualification, consent or approval, or satisfaction of such
+condition shall have been effected or obtained on conditions acceptable to the Board. Nothing herein shall be deemed to require the Company to apply for or to obtain such listing, registration or qualification, or to satisfy such condition.
+</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">6. <U>Adjustments for Changes in Common Stock and Certain Other Events</U>.
+</FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">(a) <U>Changes in Capitalization</U>. In the event of any
+stock split, reverse stock split, stock dividend, recapitalization, combination of shares, reclassification of shares, spin-off or other similar change in capitalization or event, or any distribution to holders of Common Stock other than a normal
+cash dividend, (i) the number and class of securities available under this Plan and (ii) the number and class of securities and exercise price per share subject to each outstanding option, shall be appropriately adjusted by the Company to the extent
+the Board shall determine, in good faith, that such an adjustment is necessary and appropriate. If this Section 7(a) applies and Section 7(c) also applies to any event, Section 7(c) shall be applicable to such event, and this Section 7(a) shall not
+be applicable. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">(b) <U>Liquidation or Dissolution</U>. In the
+event of a proposed liquidation or dissolution of the Company, the Board shall upon written notice to the optionees provide that all then </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">- 4 - </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">unexercised options will (i) become exercisable in full as of a specified time at least 10 business days prior to the
+effective date of such liquidation or dissolution and (ii) terminate effective upon such liquidation or dissolution, except to the extent exercised before such effective date. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">(c) <U>Reorganization Events</U>. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px; text-indent:8%"><FONT FACE="Times New Roman" SIZE="2">(1) <U>Definition</U>. A &#147;Reorganization Event&#148; shall mean: (a) any merger or consolidation of the Company with or into another entity as a
+result of which the Common Stock is converted into or exchanged for the right to receive cash, securities or other property or (b) any exchange of shares of the Company for cash, securities or other property pursuant to a share exchange transaction.
+</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:8%"><FONT FACE="Times New Roman" SIZE="2">(2) <U>Consequences of a Reorganization Event on Options</U>.
+Upon the occurrence of a Reorganization Event, or the execution by the Company of any agreement with respect to a Reorganization Event, the Board shall provide that all outstanding options shall be assumed, or equivalent options shall be
+substituted, by the acquiring or succeeding corporation (or an affiliate thereof). For purposes hereof, an option shall be considered to be assumed if, following consummation of the Reorganization Event, the option confers the right to purchase, for
+each share of Common Stock subject to the option immediately prior to the consummation of the Reorganization Event, the consideration (whether cash, securities or other property) received as a result of the Reorganization Event by holders of Common
+Stock for each share of Common Stock held immediately prior to the consummation of the Reorganization Event (and if holders were offered a choice of consideration, the type of consideration chosen by the holders of a majority of the outstanding
+shares of Common Stock); provided, however, that if the consideration received as a result of the Reorganization Event is not solely common stock of the acquiring or succeeding corporation (or an affiliate thereof), the Company may, with the consent
+of the acquiring or succeeding corporation, provide for the consideration to be received upon the exercise of options to consist solely of common stock of the acquiring or succeeding corporation (or an affiliate thereof) equivalent in fair market
+value to the per share consideration received by holders of outstanding shares of Common Stock as a result of the Reorganization Event. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">Notwithstanding the foregoing, if the acquiring or succeeding corporation (or an affiliate thereof) does not agree to assume, or substitute for, such
+options, then the Board shall, upon written notice to the optionees, provide that all then unexercised options will become exercisable in full as of a specified time prior to the Reorganization Event and will terminate immediately prior to the
+consummation of such Reorganization Event, except to the extent exercised by the optionees before the consummation of such Reorganization Event; provided, however, that in the event of a Reorganization Event under the terms of which holders of
+Common Stock will receive upon consummation thereof a cash payment for each share of Common Stock surrendered pursuant to such Reorganization Event (the &#147;Acquisition Price&#148;), then the Board may instead provide that all outstanding options
+shall terminate upon consummation of such Reorganization Event and that each optionee shall receive, in exchange therefor, a cash payment equal to the amount (if any) by which (A) the Acquisition Price multiplied by the number of shares of Common
+Stock subject to such outstanding options (whether or not then exercisable) exceeds (B) the aggregate exercise price of such options. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">- 5 - </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">7. <U>Termination and Amendment of the Plan</U>. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT
+SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">The Board may suspend or terminate the Plan or amend it in any respect whatsoever. </FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">8. <U>Notice</U>. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT
+SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">Any written notice to the Company required by any of the provisions of the Plan shall be addressed to the Treasurer of the
+Company and shall become effective when it is received. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">9. <U>Governing
+Law</U>. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">The Plan and all determinations made and actions
+taken pursuant hereto shall be governed by the internal laws of the State of Delaware (without regard to any applicable conflicts of laws or principles). </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">10. <U>Effective Date</U>. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">The Plan shall take effect upon the closing of the Initial Public Offering. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT
+SIZE="1">&nbsp;</FONT></P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD WIDTH="40%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="59%"></TD></TR>
+<TR>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">Adopted by the Board of Directors on March 13, 2000</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">Approved by the Stockholders on June 30, 2000</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">Restated to reflect a three-for-two split of the Common Stock approved by the Board of Directors on June 27, 2000, which increased the number of shares of Common Stock available for issuance
+under the Plan to 225,000 shares.</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">Amended by the Board of Directors on July 29, 2004 to modify the provisions of sections 5(a)(i), 5(d)(i), and 5(e).</FONT></TD></TR>
+</TABLE> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">- 6 - </FONT></P>
+
+</BODY></HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.2
+<SEQUENCE>3
+<FILENAME>dex102.htm
+<DESCRIPTION>NONSTATUTORY STOCK OPTION AGREEMENT
+<TEXT>
+<HTML><HEAD>
+<TITLE>Nonstatutory Stock Option Agreement</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2"><B>Exhibit 10.2 </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT
+SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>OPNET TECHNOLOGIES, INC. </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">Nonstatutory Stock Option Agreement </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><U>Granted
+Under 2000 Stock Incentive Plan </U></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">1. <U>Grant of Option</U>. </FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">This agreement evidences the grant by OPNET Technologies, Inc., a Delaware
+corporation (the &#147;Company&#148;), on <B><U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U> (month) <U>&nbsp;&nbsp;&nbsp;&nbsp;</U> (day), 20<U>&nbsp;&nbsp;&nbsp;&nbsp;</U> </B>(the
+&#147;Grant Date&#148;) to<B>
+<U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U>
+(name)</B>, an <B>employee</B> of the Company (the &#147;Participant&#148;), of an option to purchase, in whole or in part, on the terms provided herein and in the Company&#146;s 2000 Stock Incentive Plan (the &#147;Plan&#148;), a total of
+<B></B><U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U> shares (the &#147;Shares&#148;) of common stock, $0.001 par value per share, of the Company (&#147;Common Stock&#148;) at
+<B>$<U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U>.<U>&nbsp;&nbsp;&nbsp;&nbsp;</U></B> per Share. Unless earlier terminated, this option shall expire on
+<B><U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U> (month) <U>&nbsp;&nbsp;&nbsp;&nbsp;</U> (day), 20<U>&nbsp;&nbsp;&nbsp;&nbsp;</U> </B>(the &#147;Final Exercise Date&#148;). </FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">It is intended that the option evidenced by this agreement shall not be an
+incentive stock option as defined in Section 422 of the Internal Revenue Code of 1986, as amended and any regulations promulgated thereunder (the &#147;Code&#148;). Except as otherwise indicated by the context, the term &#147;Participant&#148;, as
+used in this option, shall be deemed to include any person who acquires the right to exercise this option validly under its terms. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">2. <U>Vesting Schedule</U>. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">This option will become exercisable (&#147;vest&#148;) as indicated below: </FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT
+SIZE="1">&nbsp;</FONT></P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="60%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD WIDTH="72%"></TD>
+<TD VALIGN="bottom" WIDTH="21%"></TD>
+<TD></TD></TR>
+<TR>
+<TD VALIGN="bottom" ALIGN="center"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>No. of Option Shares</B></FONT></P><HR WIDTH="113" SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>Earliest&nbsp;Authorized&nbsp;Exercise&nbsp;Date</B></FONT><BR><HR SIZE="1" NOSHADE COLOR="#000000"></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-left:1.00em; text-indent:-1.00em" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">______</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>MM/DD/20<U>&nbsp;&nbsp;&nbsp;&nbsp;</U></B></FONT></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-left:1.00em; text-indent:-1.00em" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">______</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>MM/DD/20<U>&nbsp;&nbsp;&nbsp;&nbsp;</U></B></FONT></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-left:1.00em; text-indent:-1.00em" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">______</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>MM/DD/20<U>&nbsp;&nbsp;&nbsp;&nbsp;</U></B></FONT></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-left:1.00em; text-indent:-1.00em" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">______</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>MM/DD/20<U>&nbsp;&nbsp;&nbsp;&nbsp;</U></B></FONT></TD></TR>
+</TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">The right of exercise
+shall be cumulative so that to the extent the option is not exercised in any period to the maximum extent permissible it shall continue to be exercisable, in whole or in part, with respect to all shares for which it is vested until the earlier of
+the Final Exercise Date or the termination of this option under Section 3 hereof or the Plan. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+FACE="Times New Roman" SIZE="2">3. <U>Exercise of Option</U>. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman"
+SIZE="2">(a) <U>Form of Exercise</U>. Each election to exercise this option shall be in writing, signed by the Participant, and received by the Company at its principal office, accompanied by this agreement, and payment in full in the manner
+provided in the Plan. The Participant may purchase less than the number of shares covered hereby, provided that no partial exercise of this option may be for any fractional share. </FONT></P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">(b) <U>Continuous Relationship with the Company Required</U>. Except as otherwise provided in this
+Section 3, this option may not be exercised unless the Participant, at the time he or she exercises this option, is, and has been at all times since the Grant Date, an employee, officer or director of, or consultant or advisor to, the Company or any
+parent or subsidiary of the Company as defined in Section 424(e) or (f) of the Code (an &#147;Eligible Participant&#148;). </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">(c) <U>Termination of Relationship with the Company</U>. If the Participant ceases to be an Eligible Participant for any reason, then, except as provided
+in paragraphs (d) and (e) below, the right to exercise this option shall terminate five days after such cessation (but in no event after the Final Exercise Date), <U>provided</U> <U>that</U> this option shall be exercisable only to the extent that
+the Participant was entitled to exercise this option on the date of such cessation. Notwithstanding the foregoing, if the Participant, prior to the Final Exercise Date, violates the non-competition or confidentiality provisions of any employment
+contract, confidentiality and nondisclosure agreement or other agreement between the Participant and the Company, the right to exercise this option shall terminate immediately upon such violation. </FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">(d) <U>Exercise Period Upon Death or Disability</U>. If the Participant dies
+or becomes disabled (within the meaning of Section 22(e)(3) of the Code) prior to the Final Exercise Date while he or she is an Eligible Participant and the Company has not terminated such relationship for &#147;cause&#148; as specified in paragraph
+(e) below, this option shall be exercisable, within the period of one year following the date of death or disability of the Participant, by the Participant, <U>provided</U> <U>that</U> this option shall be exercisable only to the extent that this
+option was exercisable by the Participant on the date of his or her death or disability, and further provided that this option shall not be exercisable after the Final Exercise Date. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">(e) <U>Discharge for Cause</U>. If the Participant, prior to the Final Exercise Date, is discharged by the Company for
+&#147;cause&#148; (as defined below), the right to exercise this option shall terminate immediately upon the effective date of such discharge. &#147;Cause&#148; shall mean willful misconduct by the Participant or willful failure by the Participant
+to perform his or her responsibilities to the Company (including, without limitation, breach by the Participant of any provision of any employment, consulting, advisory, nondisclosure, non-competition or other similar agreement between the
+Participant and the Company), as determined by the Company, which determination shall be conclusive. The Participant shall be considered to have been discharged for &#147;Cause&#148; if the Company determines, within 30 days after the
+Participant&#146;s resignation, that discharge for cause was warranted. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">4.
+<U>Withholding</U>. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">No Shares will be issued pursuant to the
+exercise of this option unless and until the Participant pays to the Company, or makes provision satisfactory to the Company for payment of, any federal, state or local withholding taxes required by law to be withheld in respect of this option.
+</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">5. <U>Nontransferability of Option</U>. </FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">This option may not be sold, assigned, transferred, pledged or otherwise
+encumbered by the Participant, either voluntarily or by operation of law, except by will or the laws of descent and distribution, and, during the lifetime of the Participant, this option shall be exercisable only by the Participant. </FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">- 2 - </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">6. <U>Provisions of the Plan</U>. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT
+SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">This option is subject to the provisions of the Plan, a copy of which is furnished to the Participant with this option.
+</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">IN WITNESS WHEREOF, the Company has caused this option to be
+executed under its corporate seal by its duly authorized officer. This option shall take effect as a sealed instrument. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0">
+
+<TR>
+<TD WIDTH="47%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="4%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="47%"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" COLSPAN="3"><FONT FACE="Times New Roman" SIZE="2">OPNET Technologies, Inc.</FONT></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Dated:<U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U> <B>(month)</B> <U>&nbsp;&nbsp;&nbsp;&nbsp;</U> <B>(day),
+20</B><U>&nbsp;&nbsp;&nbsp;&nbsp;</U></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">By:</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P><HR WIDTH="69%" SIZE="1" NOSHADE COLOR="#000000" ALIGN="left"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">Name:</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">Marc A. Cohen</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">Title:</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">Treasurer</FONT></TD></TR>
+</TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">PARTICIPANT&#146;S
+ACCEPTANCE </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">The undersigned hereby accepts the foregoing option
+and agrees to the terms and conditions thereof. The undersigned hereby acknowledges receipt of a copy of the Company&#146;s 2000 Stock Incentive Plan. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P><DIV
+ALIGN="right">
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="40%" BORDER="0">
+
+<TR>
+<TD WIDTH="16%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="83%"></TD></TR>
+<TR>
+<TD VALIGN="top" COLSPAN="3"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">PARTICIPANT:</FONT></P></TD></TR>
+<TR>
+<TD HEIGHT="16" COLSPAN="3"></TD></TR>
+<TR>
+<TD VALIGN="top" COLSPAN="3"> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P><HR SIZE="1" NOSHADE COLOR="#000000"></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">SSN:</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P><HR SIZE="1" NOSHADE COLOR="#000000"></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Address:</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P><HR SIZE="1" NOSHADE COLOR="#000000"></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P><HR SIZE="1" NOSHADE COLOR="#000000"></TD></TR>
+</TABLE></DIV> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">- 3 - </FONT></P>
+
+</BODY></HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.3
+<SEQUENCE>4
+<FILENAME>dex103.htm
+<DESCRIPTION>NONSTATUTORY STOCK OPTION
+<TEXT>
+<HTML><HEAD>
+<TITLE>Nonstatutory Stock Option</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2"><B>Exhibit 10.3 </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT
+SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">OPNET TECHNOLOGIES, INC. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">Nonstatutory Stock Option Agreement </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><U>Granted
+Under 2000 Director Stock Option Plan</U> </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">1. <U>Grant of Option</U>.
+</FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">This agreement evidences the grant by OPNET Technologies,
+Inc., a Delaware corporation (the &#147;Company&#148;), on <U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U> <U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U> <B>,
+200<U>&nbsp;&nbsp;&nbsp;&nbsp;</U> </B>(the &#147;Grant Date&#148;) to
+<U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U>, a director of the
+Company (the &#147;Participant&#148;), of an option to purchase, in whole or in part, on the terms provided herein and in the Company&#146;s 2000 Director Stock Option Plan (the &#147;Plan&#148;), a total of
+<U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U> shares (the &#147;Shares&#148;) of common stock, $0.001 par value per share, of the Company (&#147;Common Stock&#148;) at <B>$
+<U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U>.</B><U>&nbsp;&nbsp;&nbsp;&nbsp;</U> per Share. Unless earlier terminated, this option shall expire on earlier of (i) the date seven years after the Option Grant Date of such option or (ii) the
+date that is 30 days after the date on which the optionee ceases to serve as a director of the Company or in the event the optionee ceases to serve on the Board of Directors because of his or her death, the first anniversary of the date of death.
+(the &#147;Final Exercise Date&#148;). </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">It is intended that the
+option evidenced by this agreement shall not be an incentive stock option as defined in Section 422 of the Internal Revenue Code of 1986, as amended and any regulations promulgated thereunder (the &#147;Code&#148;). Except as otherwise indicated by
+the context, the term &#147;Participant&#148;, as used in this option, shall be deemed to include any person who acquires the right to exercise this option validly under its terms. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">2. <U>Vesting Schedule</U>. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">This option will become exercisable (&#147;vest&#148;) in full on the date of the Annual Meeting of Stockholders next following the Option Grant Date,
+provided that the optionee is serving on the Board immediately prior to such Annual meeting of Stockholders. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">The right of exercise shall be cumulative so that to the extent the option is not exercised in any period to the maximum extent permissible it shall
+continue to be exercisable, in whole or in part, with respect to all shares for which it is vested until the earlier of the Final Exercise Date or the termination of this option under Section 3 hereof or the Plan. </FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">3. <U>Exercise of Option</U>. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT
+SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">(a) <U>Form of Exercise</U>. Each election to exercise this option shall be in writing, signed by the Participant, and
+received by the Company at its principal office, accompanied by this agreement, and payment in full in the manner provided in the Plan. The Participant may purchase less than the number of shares covered hereby, provided that no partial exercise of
+this option may be for any fractional share or for fewer than ten whole shares. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT
+FACE="Times New Roman" SIZE="2">(b) <U>Termination of Option</U>. Except as provided in paragraph (c) below, the right to exercise this option shall terminate on the Final Exercise Date, <U>provided</U> <U>that</U> this option shall be exercisable
+only to the extent that the Participant was entitled to exercise this option on the Final Exercise Date. Notwithstanding the foregoing, if the Participant, prior to the Final Exercise Date, violates the non-competition or confidentiality provisions
+of any confidentiality and nondisclosure agreement or other agreement between the Participant and the Company, the right to exercise this option shall terminate immediately upon written notice to the Participant from the Company describing such
+violation. </FONT></P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">(c) <U>Exercise Period Upon Death or Disability</U>. If the Participant dies or becomes disabled (within
+the meaning of Section 22(e)(3) of the Code) prior to the Final Exercise Date, this option shall be exercisable, within the period of one year following the date of death or disability of the Participant by the Participant, or by a representative
+designated in a written notice to the Company by the Participant, <U>provided</U><U>that</U> this option shall be exercisable only to the extent that this option was exercisable by the Participant on the date of his or her death or disability, and
+further provided that this option shall not be exercisable after the Final Exercise Date. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+FACE="Times New Roman" SIZE="2">4. <U>Withholding</U>. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">No
+Shares will be issued pursuant to the exercise of this option unless and until the Participant pays to the Company, or makes provision satisfactory to the Company for payment of, any federal, state or local withholding taxes required by law to be
+withheld in respect of this option. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">5. <U>Nontransferability of Option</U>.
+</FONT></P> <P STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">This option may not be sold, assigned, transferred, pledged
+or otherwise encumbered by the Participant, either voluntarily or by operation of law, except by will or the laws of descent and distribution, or pursuant to a qualified domestic relations order as defined by the Code or Title I of the Employee
+Retirement Income Security Act, or the rules thereunder, and, during the lifetime of the Participant, this option shall be exercisable only by the Participant or the Participant&#146;s guardian or legal representative. </FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">6. <U>Provisions of the Plan</U>. </FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:-6px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">This option is subject to the provisions of the Plan, a copy of which is
+furnished to the Participant with this option. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">IN WITNESS
+WHEREOF, the Company has caused this option to be executed under its corporate seal by its duly authorized officer. This option shall take effect as a sealed instrument. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P><DIV ALIGN="right">
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="40%" BORDER="0">
+
+<TR>
+<TD WIDTH="6%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="93%"></TD></TR>
+<TR>
+<TD VALIGN="top" COLSPAN="3"><FONT FACE="Times New Roman" SIZE="2">OPNET Technologies, Inc.</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">By:</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P><HR SIZE="1" NOSHADE COLOR="#000000"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">Marc A. Cohen</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">Treasurer</FONT></TD></TR>
+</TABLE></DIV> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman"
+SIZE="2">PARTICIPANT&#146;S ACCEPTANCE </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2">The undersigned hereby
+accepts the foregoing option and agrees to the terms and conditions thereof. The undersigned hereby acknowledges receipt of a copy of the Company&#146;s 2000 Director Stock Option Plan. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P><DIV ALIGN="right">
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="40%" BORDER="0">
+
+<TR>
+<TD WIDTH="100%"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">PARTICIPANT:</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P><HR SIZE="1" NOSHADE COLOR="#000000"></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Address:</FONT></TD></TR>
+</TABLE></DIV> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">- 2 - </FONT></P>
+
+</BODY></HTML>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

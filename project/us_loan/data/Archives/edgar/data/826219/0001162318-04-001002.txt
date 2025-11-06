@@ -1,0 +1,267 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ OIxbEwxOkMr6Sz0RqXDRXdwWD2LMZhbImBg1nnnOZs2OO4rUSWnDgtAiCDkpOnn9
+ i34EMHPyIRzDVkDV/UGhkg==
+
+<SEC-DOCUMENT>0001162318-04-001002.txt : 20041230
+<SEC-HEADER>0001162318-04-001002.hdr.sgml : 20041230
+<ACCEPTANCE-DATETIME>20041230115537
+ACCESSION NUMBER:		0001162318-04-001002
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20041230
+ITEM INFORMATION:		Other Events
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20041230
+DATE AS OF CHANGE:		20041230
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			GREENWICH CAPITAL ACCEPTANCE INC
+		CENTRAL INDEX KEY:			0000826219
+		STANDARD INDUSTRIAL CLASSIFICATION:	ASSET-BACKED SECURITIES [6189]
+		IRS NUMBER:				061199884
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	033-42443
+		FILM NUMBER:		041232979
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O NORWEST BANK MINNESOTA NA
+		STREET 2:		11000 BROKEN LAND PARKWAY
+		CITY:			COLUMBIA
+		STATE:			MD
+		ZIP:			21044
+		BUSINESS PHONE:		2036222700
+
+	MAIL ADDRESS:	
+		STREET 1:		600 STEAMBOAT ROAD
+		STREET 2:		GREENWICH CAPITAL MARKETS INC
+		CITY:			GREENWICH
+		STATE:			CT
+		ZIP:			06830
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>m48824form8k.htm
+<DESCRIPTION>FORM 8-K
+<TEXT>
+<!doctype html public "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<TITLE>Form 8-K</TITLE>
+</HEAD>
+<BODY LINK=#0000FF VLINK=#FF00FF ALINK=#FF0000>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; line-height:12pt; font-size:12pt; color:#000000" align=center>_________________________________________________</P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000"><BR></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; line-height:14.5pt; font-size:14.5pt; color:#000000" align=center>SECURITIES AND EXCHANGE COMMISSION</P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000"><BR></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; line-height:12pt; font-size:12pt; color:#000000" align=center>Washington, D.C. &nbsp;20549</P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000"><BR></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; line-height:14.5pt; font-size:14.5pt; color:#000000" align=center>FORM 8-K</P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000"><BR></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; line-height:12pt; font-size:12pt; color:#000000" align=center>CURRENT REPORT</P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000"><BR></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; line-height:12pt; font-size:12pt; color:#000000" align=center>PURSUANT TO SECTION 13 OR 15(d) OF THE</P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; line-height:12pt; font-size:12pt; color:#000000" align=center>SECURITIES AND EXCHANGE ACT OF 1934</P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000"><BR></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; line-height:12pt; font-size:12pt; color:#000000" align=center>Date of Report (Date of earliest event reported)</P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; line-height:12pt; font-size:12pt; color:#000000" align=center>December 30, 2004</P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000"><BR></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; line-height:12pt; font-size:12pt; color:#000000" align=center><U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Greenwich Capital Acceptance, Inc.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; line-height:12pt; font-size:12pt; color:#000000" align=center>(Exact Name of Registrant as Specified in its Charter)</P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000"><BR></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000"><BR></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000"><BR></P>
+<TABLE style="margin-left:0pt"><TR><TD style="padding-left:7.2pt; padding-top:0pt; padding-right:7.2pt; padding-bottom:0pt" align=left valign=top width=212.8><P style="margin:0pt; padding:0pt; text-indent:0pt; line-height:12pt; font-size:12pt; color:#000000" align=center><U>Delaware</U></P>
+</TD><TD style="padding-left:7.2pt; padding-top:0pt; padding-right:7.2pt; padding-bottom:0pt" align=left valign=top width=212.8><P style="margin:0pt; padding:0pt; text-indent:0pt; line-height:12pt; font-size:12pt; color:#000000" align=center><U>333-120038-01</U></P>
+</TD><TD style="padding-left:7.2pt; padding-top:0pt; padding-right:7.2pt; padding-bottom:0pt" align=left valign=top width=212.8><P style="margin:0pt; padding:0pt; text-indent:0pt; line-height:12pt; font-size:12pt; color:#000000" align=center><U>06-1199884</U></P>
+</TD></TR>
+<TR><TD style="padding-left:7.2pt; padding-top:0pt; padding-right:7.2pt; padding-bottom:0pt" align=left valign=top width=212.8><P style="margin:0pt; padding:0pt; text-indent:0pt; line-height:12pt; font-size:12pt; color:#000000" align=center>State or Other Jurisdiction<BR>
+Of Incorporation)</P>
+</TD><TD style="padding-left:7.2pt; padding-top:0pt; padding-right:7.2pt; padding-bottom:0pt" align=left valign=top width=212.8><P style="margin:0pt; padding:0pt; text-indent:0pt; line-height:12pt; font-size:12pt; color:#000000" align=center>(Commission<BR>
+File Number)</P>
+</TD><TD style="padding-left:7.2pt; padding-top:0pt; padding-right:7.2pt; padding-bottom:0pt" align=left valign=top width=212.8><P style="margin:0pt; padding:0pt; text-indent:0pt; line-height:12pt; font-size:12pt; color:#000000" align=center>(I.R.S. Employer<BR>
+Identification No.)</P>
+</TD></TR>
+</TABLE>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000"><BR></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000"><BR></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000"><BR></P>
+<TABLE style="margin-left:0pt"><TR><TD style="padding-left:7.2pt; padding-top:0pt; padding-right:7.2pt; padding-bottom:0pt" align=left valign=top width=212.8><P style="margin:0pt; padding:0pt; text-indent:0pt; line-height:12pt; font-size:12pt; color:#000000" align=center>600 Steamboat Road<BR>
+<U>Greenwich, CT</U></P>
+</TD><TD style="padding-left:7.2pt; padding-top:0pt; padding-right:7.2pt; padding-bottom:0pt" align=left valign=top width=212.8><P style="margin:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000" align=center><U>&nbsp;</U></P>
+</TD><TD style="padding-left:7.2pt; padding-top:0pt; padding-right:7.2pt; padding-bottom:0pt" align=left valign=top width=212.8><P style="margin:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000" align=center><BR></P>
+<P style="margin:0pt; padding:0pt; text-indent:0pt; line-height:12pt; font-size:12pt; color:#000000" align=center><U>06830</U></P>
+</TD></TR>
+<TR><TD style="padding-left:7.2pt; padding-top:0pt; padding-right:7.2pt; padding-bottom:0pt" align=left valign=top width=212.8><P style="margin:0pt; padding:0pt; text-indent:0pt; line-height:12pt; font-size:12pt; color:#000000" align=center>(Address of Principal Executive Offices)</P>
+</TD><TD style="padding-left:7.2pt; padding-top:0pt; padding-right:7.2pt; padding-bottom:0pt" align=left valign=top width=212.8><P style="margin:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000" align=center>&nbsp;</P>
+</TD><TD style="padding-left:7.2pt; padding-top:0pt; padding-right:7.2pt; padding-bottom:0pt" align=left valign=top width=212.8><P style="margin:0pt; padding:0pt; text-indent:0pt; line-height:12pt; font-size:12pt; color:#000000" align=center>(Zip Code)</P>
+</TD></TR>
+</TABLE>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000"><BR></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000"><BR></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; line-height:12pt; font-size:12pt; color:#000000" align=center>Registrant&#146;s telephone number, including area code: &nbsp;(203) 625-2700</P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000"><BR></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; line-height:12pt; font-size:12pt; color:#000000" align=center><U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No Change&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </U></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; line-height:12pt; font-size:12pt; color:#000000" align=center>(Former Name or Former Address, if Changed Since Last Report)</P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000"><BR></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding-left:36pt; padding-top:0pt; padding-right:0pt; padding-bottom:0pt; text-indent:0pt; line-height:12pt; font-size:12pt; color:#000000" align=justify>Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:</P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding-left:36pt; padding-top:0pt; padding-right:0pt; padding-bottom:0pt; text-indent:0pt; font-size:12pt; color:#000000" align=justify><BR></P>
+<TABLE style="margin-left:0pt"><TR><TD style="padding-left:7.2pt; padding-top:0pt; padding-right:7.2pt; padding-bottom:0pt" align=left valign=top width=26.4><P style="margin-left:0pt; margin-top:0pt; margin-right:0pt; margin-bottom:12pt; padding:0pt; text-indent:0pt; line-height:12pt; font-size:12pt; color:#000000" align=justify>&#1700;</P>
+</TD><TD style="padding-left:7.2pt; padding-top:0pt; padding-right:7.2pt; padding-bottom:0pt" align=left valign=top width=564><P style="margin-left:0pt; margin-top:0pt; margin-right:0pt; margin-bottom:12pt; padding-left:36pt; padding-top:0pt; padding-right:0pt; padding-bottom:0pt; text-indent:0pt; line-height:12pt; font-size:12pt; color:#000000" align=justify>Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)</P>
+</TD></TR>
+<TR><TD style="padding-left:7.2pt; padding-top:0pt; padding-right:7.2pt; padding-bottom:0pt" align=left valign=top width=26.4><P style="margin:0pt; padding:0pt; text-indent:0pt; line-height:12pt; font-size:12pt; color:#000000" align=justify>&#1700;</P>
+</TD><TD style="padding-left:7.2pt; padding-top:0pt; padding-right:7.2pt; padding-bottom:0pt" align=left valign=top width=564><P style="margin-left:0pt; margin-top:0pt; margin-right:0pt; margin-bottom:12pt; padding-left:36pt; padding-top:0pt; padding-right:0pt; padding-bottom:0pt; text-indent:0pt; line-height:12pt; font-size:12pt; color:#000000" align=justify>Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)</P>
+</TD></TR>
+<TR><TD style="padding-left:7.2pt; padding-top:0pt; padding-right:7.2pt; padding-bottom:0pt" align=left valign=top width=26.4><P style="margin:0pt; padding:0pt; text-indent:0pt; line-height:12pt; font-size:12pt; color:#000000" align=justify>&#1700;</P>
+</TD><TD style="padding-left:7.2pt; padding-top:0pt; padding-right:7.2pt; padding-bottom:0pt" align=left valign=top width=564><P style="margin-left:0pt; margin-top:0pt; margin-right:0pt; margin-bottom:12pt; padding-left:36pt; padding-top:0pt; padding-right:0pt; padding-bottom:0pt; text-indent:0pt; line-height:12pt; font-size:12pt; color:#000000" align=justify>Pre-commencement communications pursuant to Rule 14d-2(d) under the Exchange Act (17 CFR 240.14d-2(b))</P>
+</TD></TR>
+<TR><TD style="padding-left:7.2pt; padding-top:0pt; padding-right:7.2pt; padding-bottom:0pt" align=left valign=top width=26.4><P style="margin:0pt; padding:0pt; text-indent:0pt; line-height:12pt; font-size:12pt; color:#000000" align=justify>&#1700;</P>
+</TD><TD style="padding-left:7.2pt; padding-top:0pt; padding-right:7.2pt; padding-bottom:0pt" align=left valign=top width=564><P style="margin-left:0pt; margin-top:0pt; margin-right:0pt; margin-bottom:12pt; padding-left:36pt; padding-top:0pt; padding-right:0pt; padding-bottom:0pt; text-indent:0pt; line-height:12pt; font-size:12pt; color:#000000" align=justify>Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))</P>
+</TD></TR>
+</TABLE>
+<HR style="padding-top:7.2pt; padding-bottom:7.2pt; color:#000000" noshade size=1.333>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; line-height:12pt; font-size:12pt; color:#000000">Item 8.01 &nbsp;<U>Other Events</U></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:72pt; line-height:12pt; font-size:12pt; color:#000000">Item 8.01 &nbsp;Other Events.</P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000"><BR></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:72pt; line-height:12pt; font-size:12pt; color:#000000">McKee Nelson LLP has been retained by this Registrant as counsel for its Registration Statement on Form S-3 (Commission File No. 333-111379-01) in connection with various transactions. &nbsp;Legal opinions by McKee Nelson LLP to be incorporated into the Registration Statement are attached hereto as Exhibit 5.1, Exhibit 8.1 and Exhibit 23.1.</P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000"><BR></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:72pt; line-height:12pt; font-size:12pt; color:#000000">Item 9.01. &nbsp;Financial Statements and Exhibits</P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000"><BR></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:-12pt; padding-left:72pt; padding-top:0pt; padding-right:0pt; padding-bottom:0pt; text-indent:-36pt; line-height:12pt; font-size:12pt; color:#000000">(a)</P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding-left:72pt; padding-top:0pt; padding-right:0pt; padding-bottom:0pt; text-indent:0pt; line-height:12pt; font-size:12pt; color:#000000">Not applicable.</P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000"><BR></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:-12pt; padding-left:72pt; padding-top:0pt; padding-right:0pt; padding-bottom:0pt; text-indent:-36pt; line-height:12pt; font-size:12pt; color:#000000">(b)</P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding-left:72pt; padding-top:0pt; padding-right:0pt; padding-bottom:0pt; text-indent:0pt; line-height:12pt; font-size:12pt; color:#000000">Not applicable.</P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000"><BR></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:-12pt; padding:0pt; text-indent:36pt; line-height:12pt; font-size:12pt; color:#000000">(c)</P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:72pt; line-height:12pt; font-size:12pt; color:#000000">Exhibits:</P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000"><BR></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:-12pt; padding-left:108pt; padding-top:0pt; padding-right:0pt; padding-bottom:0pt; text-indent:-36pt; line-height:12pt; font-size:12pt; color:#000000">5.1</P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding-left:108pt; padding-top:0pt; padding-right:0pt; padding-bottom:0pt; text-indent:0pt; line-height:12pt; font-size:12pt; color:#000000">Opinion of McKee Nelson LLP as to legality (including consent of such firm).</P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000"><BR></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:-12pt; padding-left:108pt; padding-top:0pt; padding-right:0pt; padding-bottom:0pt; text-indent:-36pt; line-height:12pt; font-size:12pt; color:#000000">8.1</P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding-left:108pt; padding-top:0pt; padding-right:0pt; padding-bottom:0pt; text-indent:0pt; line-height:12pt; font-size:12pt; color:#000000">Opinion of McKee Nelson LLP as to certain tax matters (including consent of such firm included in Exhibit&nbsp;5.1).</P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000"><BR></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:-12pt; padding-left:90pt; padding-top:0pt; padding-right:0pt; padding-bottom:0pt; text-indent:-18pt; line-height:12pt; font-size:12pt; color:#000000">23.1</P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding-left:90pt; padding-top:0pt; padding-right:0pt; padding-bottom:0pt; text-indent:18pt; line-height:12pt; font-size:12pt; color:#000000">Consent of McKee Nelson LLP (included in Exhibit 5.1).</P>
+<HR style="padding-top:7.2pt; padding-bottom:7.2pt; color:#000000" noshade size=1.333>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000"><BR></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; line-height:12pt; font-size:12pt; color:#000000" align=center><B>SIGNATURES</B></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000"><BR></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:36pt; line-height:12pt; font-size:12pt; color:#000000" align=justify>Pursuant to the &nbsp;requirements of the Securities Exchange Act of 1934, as amended, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.</P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000"><BR></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:180pt; line-height:12pt; font-size:12pt; color:#000000">GREENWICH CAPITAL ACCEPTANCE, INC.</P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000"><BR></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000"><BR></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000"><BR></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:-12pt; padding-left:144pt; padding-top:0pt; padding-right:0pt; padding-bottom:0pt; text-indent:36pt; line-height:12pt; font-size:12pt; color:#000000">By: <U>&nbsp;/s/ Shakti Radhakishun</U></P>
+<U><P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding-left:144pt; padding-top:0pt; padding-right:0pt; padding-bottom:0pt; text-indent:252pt; font-size:12pt; color:#000000"><BR></U></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:-12pt; padding-left:144pt; padding-top:0pt; padding-right:0pt; padding-bottom:0pt; text-indent:36pt; line-height:12pt; font-size:12pt; color:#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Name: Shakti Radhakishun</P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding-left:144pt; padding-top:0pt; padding-right:0pt; padding-bottom:0pt; text-indent:180pt; font-size:12pt; color:#000000"><BR></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:180pt; line-height:12pt; font-size:12pt; color:#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Title: &nbsp;&nbsp;&nbsp;Vice President</P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000"><BR></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000"><BR></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000"><BR></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; line-height:12pt; font-size:12pt; color:#000000" align=justify>Dated: &nbsp;December 30, 2004</P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000"><BR></P>
+<HR style="padding-top:7.2pt; padding-bottom:7.2pt; color:#000000" noshade size=1.333>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; line-height:12pt; font-size:12pt; color:#000000" align=center><U>EXHIBIT INDEX</U></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000"><BR></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000"><BR></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000"><BR></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:-12pt; padding:0pt; text-indent:0pt; line-height:12pt; font-size:12pt; color:#000000" align=justify>&nbsp;&nbsp;&nbsp;&nbsp;<U>Exhibit No.</U></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:-12pt; padding:0pt; text-indent:180pt; line-height:12pt; font-size:12pt; color:#000000" align=justify><U>Description</U></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:396pt; line-height:12pt; font-size:12pt; color:#000000" align=justify><U>Page No.</U></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000"><BR></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000"><BR></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:-12pt; padding-left:108pt; padding-top:0pt; padding-right:0pt; padding-bottom:0pt; text-indent:-36pt; line-height:12pt; font-size:12pt; color:#000000">5.1</P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding-left:108pt; padding-top:0pt; padding-right:0pt; padding-bottom:0pt; text-indent:0pt; line-height:12pt; font-size:12pt; color:#000000">Opinion of McKee Nelson LLP as to legality (including consent of such firm).</P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000"><BR></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:-12pt; padding-left:108pt; padding-top:0pt; padding-right:0pt; padding-bottom:0pt; text-indent:-36pt; line-height:12pt; font-size:12pt; color:#000000">8.1</P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding-left:108pt; padding-top:0pt; padding-right:0pt; padding-bottom:0pt; text-indent:0pt; line-height:12pt; font-size:12pt; color:#000000">Opinion of McKee Nelson LLP as to certain tax matters (including consent of such firm included in Exhibit&nbsp;&nbsp;5.1).</P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000"><BR></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:-12pt; padding-left:93pt; padding-top:0pt; padding-right:0pt; padding-bottom:0pt; text-indent:-21pt; line-height:12pt; font-size:12pt; color:#000000">23.1</P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding-left:93pt; padding-top:0pt; padding-right:0pt; padding-bottom:0pt; text-indent:15pt; line-height:12pt; font-size:12pt; color:#000000">Consent of McKee Nelson LLP (included in Exhibit 5.1).</P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000"><BR></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000"><BR></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000"><BR></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000"><BR></P>
+<HR style="padding-top:7.2pt; padding-bottom:7.2pt; color:#000000" noshade size=1.333>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; line-height:12pt; font-size:12pt; color:#000000" align=right><B><U>Exhibits 5.1, 8.1 and 23.1</U></B></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000"><BR></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000"><BR></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; line-height:12pt; font-size:12pt; color:#000000" align=right>December 30, 2004</P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000"><BR></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; line-height:12pt; font-size:12pt; color:#000000">Greenwich Capital Acceptance, Inc.</P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; line-height:12pt; font-size:12pt; color:#000000">600 Steamboat Road</P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; line-height:12pt; font-size:12pt; color:#000000">Greenwich, Connecticut 06830</P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000"><BR></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000"><BR></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:-12pt; padding:0pt; text-indent:72pt; line-height:12pt; font-size:12pt; color:#000000">Re:</P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:108pt; line-height:12pt; font-size:12pt; color:#000000">Greenwich Capital Acceptance, Inc.,</P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:108pt; line-height:12pt; font-size:12pt; color:#000000"><U>Registration Statement on Form S-3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000"><BR></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; line-height:12pt; font-size:12pt; color:#000000">Ladies and Gentlemen:</P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000"><BR></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:36pt; line-height:12pt; font-size:12pt; color:#000000">We have acted as counsel for Greenwich Capital Acceptance, Inc., a Delaware corporation (the &#147;Company&#148;), in connection with the offering of approximately $1,779,233,100 aggregate principal amount of the Company&#146;s Harbor View Mortgage Loan Trust 2004-11, Mortgage Pass-Through Certificates, Series 2004-11 (the &#147;Certificates&#148;) pursuant to a prospectus dated December 13, 2004, as supplemented by a prospectus supplement dated December 23, 2004 (the &#147;Base Prospectus&#148; and the &#147;Prospectus Supplement,&#148; respectively, and collectively the &#147;Prospectus&#148;). &nbsp;A registration statement of the Company on Form S-3 relating to the Certificates (Commission File No. 333-120038-01) has been filed with the Securities and Exchange Commission (the &#147;Commission&#148;) under the Securities Act of 1933, as amended (the &#147;Securities
+ Act&#148;) and was declared effective on January 12, 2004. &nbsp;As set forth in the Prospectus, the Certificates will be issued under and pursuant to the conditions of a pooling and servicing agreement dated as of December 1, 2004 (the &#147;Pooling Agreement&#148;), by and among the Company, as depositor, Greenwich Financial Products, Inc., as seller (the &#147;Seller&#148;) and Deutsche Bank National Trust Company, as trustee (the &#147;Trustee&#148;) and as custodian (the &#147;Custodian&#148;).</P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000"><BR></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:72pt; line-height:12pt; font-size:12pt; color:#000000">We have examined a form of the Pooling Agreement, forms of the Certificates, the Prospectus, and originals or copies, certified or otherwise identified to our satisfaction, of such instruments, certificates, records and other documents, and have made such examination of law, as we have deemed necessary or appropriate for the purpose of this opinion. &nbsp;In our examination, we have assumed the legal capacity of all natural persons, the genuineness of all signatures, the authenticity of all documents submitted to us as originals, the conformity to original documents of all documents submitted to us as certified or photostatic copies or by facsimile or other means of electronic transmission, and the authenticity of the originals of such latter documents. &nbsp;As to facts relevant to the opinions expressed herein and the other statements made herein, we have relied, to 
+the extent we have deemed appropriate, upon certificates and oral or written statements and representations of officers and other representatives of the Company and others.</P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000"><BR></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:36pt; line-height:12pt; font-size:12pt; color:#000000">Based upon the foregoing, we are of the opinion that:</P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000"><BR></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:-12pt; padding-left:36pt; padding-top:0pt; padding-right:0pt; padding-bottom:0pt; text-indent:36pt; line-height:12pt; font-size:12pt; color:#000000">(i)</P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding-left:36pt; padding-top:0pt; padding-right:0pt; padding-bottom:0pt; text-indent:72pt; line-height:12pt; font-size:12pt; color:#000000">When the Pooling Agreement has been duly and validly authorized by all necessary action on the part of the Company and has been duly executed and delivered by the Company, the Seller, the Trustee, the Custodian and any other party thereto, the Pooling Agreement will constitute a legal, valid and binding agreement of the Company, enforceable against it in accordance with its terms, except as enforcement thereof may be limited by bankruptcy, insolvency, reorganization, moratorium, fraudulent conveyance, fraudulent transfer and other similar laws relating to or affecting creditors&#146; rights generally and to general equitable principles (regardless of whether considered in a proceeding in equity or at law), including concepts of commercial reasonableness, good faith and fair dealing and the possible unavailab
+ility of specific performance or injunctive relief, and with respect to the rights of indemnity or contribution, as may be limited by public policy considerations.</P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000"><BR></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:-12pt; padding-left:36pt; padding-top:0pt; padding-right:0pt; padding-bottom:0pt; text-indent:36pt; line-height:12pt; font-size:12pt; color:#000000">(ii)</P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding-left:36pt; padding-top:0pt; padding-right:0pt; padding-bottom:0pt; text-indent:72pt; line-height:12pt; font-size:12pt; color:#000000">When the issuance and sale of the Certificates have been duly authorized by all requisite corporate action on the part of the Company and, when duly and validly executed and authenticated in accordance with the terms of the Pooling Agreement and delivered against payment therefor pursuant to the Underwriting Agreement dated as of December 23, 2004 among the Company, Greenwich Capital Markets, Inc. and WaMu Capital Corp., the Certificates will be duly and validly issued and outstanding, and entitled to the benefits of the Pooling Agreement.</P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000"><BR></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:-12pt; padding-left:36pt; padding-top:0pt; padding-right:0pt; padding-bottom:0pt; text-indent:36pt; line-height:12pt; font-size:12pt; color:#000000">(iii)</P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding-left:36pt; padding-top:0pt; padding-right:0pt; padding-bottom:0pt; text-indent:72pt; line-height:12pt; font-size:12pt; color:#000000">Under existing law, assuming compliance with all provisions of the Pooling Agreement, for federal income tax purposes, each segregated pool of assets for which the Pooling Agreement directs that a REMIC election be made will qualify as a &#147;real estate mortgage investment conduit&#148; (&#147;REMIC&#148;) pursuant to Section 860D of the Internal Revenue Code of 1986, as amended (the &#147;Code&#148;); each of the Certificates, other than the Class A-R and Class Y Certificates, will evidence ownership of &#147;regular interests&#148; in a REMIC within the meaning of the Code; the Class A-R Certificate will be considered to represent the sole class of &#147;residual interest&#148; in each REMIC within the meaning of Section 860G(a)(2) of the Code; and the Class Y Certificates will not represent any interest
+ in any REMIC within the meaning of Section 860G(a)(2) of the Code.</P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000"><BR></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:-12pt; padding-left:36pt; padding-top:0pt; padding-right:0pt; padding-bottom:0pt; text-indent:36pt; line-height:12pt; font-size:12pt; color:#000000">(iv)</P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding-left:36pt; padding-top:0pt; padding-right:0pt; padding-bottom:0pt; text-indent:72pt; line-height:12pt; font-size:12pt; color:#000000">The statements contained under the caption &#147;Material Federal Income Tax Consequences,&#148; in the Base Prospectus and the Prospectus Supplement, insofar as such statements constitute conclusions of law, are true and correct in all material respects as set forth therein.</P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000"><BR></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:36pt; line-height:12pt; font-size:12pt; color:#000000">In rendering the foregoing opinions, we express no opinion as to the laws of any jurisdiction other than the federal laws of the United States of America and the laws of the State of New York.</P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000"><BR></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:36pt; line-height:12pt; font-size:12pt; color:#000000">We hereby consent to the filing of this letter and to the references to this firm under the headings &#147;Legal Matters&#148; and &#147;Material Federal Income Tax Consequences&#148; in the Base Prospectus and Prospectus Supplement, without implying or admitting that we are &#147;experts&#148; within the meaning of the Securities Act or the rules and regulations of the Commission issued thereunder, with respect to any part of the Base Prospectus or the Prospectus Supplement.</P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000"><BR></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:252pt; line-height:12pt; font-size:12pt; color:#000000">Very truly yours,</P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000"><BR></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:252pt; line-height:12pt; font-size:12pt; color:#000000"><U>/s/ McKee Nelson LLP&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000"><BR></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:252pt; line-height:12pt; font-size:12pt; color:#000000">McKee Nelson LLP</P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000"><BR></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000"><BR></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000"><BR></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000"><BR></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000"><BR></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:252pt; font-size:12pt; color:#000000"><BR></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000"><BR></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:252pt; font-size:12pt; color:#000000"><BR></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000"><BR></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000"><BR></P>
+<P style="margin-left:0pt; margin-top:0pt; margin-bottom:0pt; padding:0pt; text-indent:0pt; font-size:12pt; color:#000000"><BR></P>
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

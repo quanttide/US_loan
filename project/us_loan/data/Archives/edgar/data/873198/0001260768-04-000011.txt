@@ -1,0 +1,204 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ MWIOsdKuLqP+sEvJEABLtnr6kWLmdcvof2rB4bcY8R1K6y1/Jkva12bj790bHqCK
+ u/GmLvsXuPij8iSc7B+hhQ==
+
+<SEC-DOCUMENT>0001260768-04-000011.txt : 20041222
+<SEC-HEADER>0001260768-04-000011.hdr.sgml : 20041222
+<ACCEPTANCE-DATETIME>20041222130543
+ACCESSION NUMBER:		0001260768-04-000011
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20041221
+ITEM INFORMATION:		Entry into a Material Definitive Agreement
+ITEM INFORMATION:		Other Events
+FILED AS OF DATE:		20041222
+DATE AS OF CHANGE:		20041222
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			GUARDIAN TECHNOLOGIES INTERNATIONAL INC
+		CENTRAL INDEX KEY:			0000873198
+		STANDARD INDUSTRIAL CLASSIFICATION:	WHOLESALE-COMPUTER & PERIPHERAL EQUIPMENT & SOFTWARE [5045]
+		IRS NUMBER:				541521616
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-28238
+		FILM NUMBER:		041219953
+
+	BUSINESS ADDRESS:	
+		STREET 1:		21351 RIDGETOP CIRCLE #300
+		CITY:			DULLES
+		STATE:			VA
+		ZIP:			20166
+		BUSINESS PHONE:		7036546091
+
+	MAIL ADDRESS:	
+		STREET 1:		21351 RIDGETOP CIRCLE #300
+		CITY:			DULLES
+		STATE:			VA
+		ZIP:			20166
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>lmdtagreement.htm
+<TEXT>
+<!doctype html public "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<TITLE>Form 8-K: Lockheed Teaming Agreement</TITLE>
+<META NAME="author" CONTENT="Neil R.E. Carr">
+<META NAME="date" CONTENT="12/22/2004">
+</HEAD>
+<BODY style="line-height:12pt; font-size:10pt; color:#000000">
+<BR>
+<BR>
+<P style="margin:0pt; line-height:14pt; font-family:Times New Roman; font-size:12pt" align=center><B>UNITED STATES</B></P>
+<P style="margin:0pt; line-height:14pt; font-family:Times New Roman; font-size:12pt" align=center><B>SECURITIES AND EXCHANGE COMMISSION<BR>
+Washington, D.C. 20549</B></P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt" align=center><BR></P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt" align=center><BR></P>
+<P style="margin:0pt; line-height:14pt; font-family:Times New Roman; font-size:12pt" align=center><B>FORM 8-K</B></P>
+<P style="margin:0pt; line-height:14pt; font-family:Times New Roman; font-size:12pt" align=center><B>CURRENT REPORT</B></P>
+<P style="margin:0pt; line-height:14pt; font-family:Times New Roman; font-size:12pt" align=center><B>Pursuant to Section 13 or 15(d) of <BR>
+the Securities Exchange Act of 1934</B></P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt" align=center><BR></P>
+<P style="margin:0pt; line-height:14pt; font-family:Times New Roman; font-size:12pt" align=center>Date of Report (Date of earliest event reported): <U>December 21, 2004</U></P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt" align=center><BR></P>
+<P style="margin:0pt; line-height:14pt; font-family:Times New Roman; font-size:12pt" align=center><U>GUARDIAN TECHNOLOGIES INTERNATIONAL, INC.<BR>
+</U>(Exact Name of Registrant as Specified in its Charter)</P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt" align=center><BR></P>
+<TABLE style="font-size:10pt" cellspacing=0 align=center><TR><TD valign=top width=215.667><P style="margin:0pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Delaware&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P>
+</TD><TD valign=top width=191.667><P style="margin:0pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0-28238&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P>
+</TD><TD valign=top width=191.667><P style="margin:0pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;54-1521616&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P>
+</TD></TR>
+<TR><TD valign=top width=215.667><P style="margin:0pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">(State or Other Jurisdiction of Incorporation or Organization)</P>
+</TD><TD valign=top width=191.667><P style="margin:0pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">(Commission File Number)</P>
+</TD><TD valign=top width=191.667><P style="margin:0pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">(IRS Employer&nbsp;<BR>
+Identification No.)</P>
+</TD></TR>
+</TABLE>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<P style="margin:0pt; line-height:14pt; font-family:Times New Roman; font-size:12pt" align=center><U>21351 Ridgetop Circle, Suite 300, Dulles, Virginia &nbsp;20166<BR>
+</U>(Address of Principal Executive Offices) (Zip Code)</P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<P style="margin:0pt; line-height:14pt; font-family:Times New Roman; font-size:12pt" align=center>Registrant's telephone number, including area code: (703) 654-6000</P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt" align=center><BR></P>
+<P style="margin:0pt; line-height:14pt; font-family:Times New Roman; font-size:12pt" align=center>____________________________________________________<BR>
+(Former Name or Former Address, if Changed Since Last Report)</P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt" align=center><BR></P>
+<P style="margin:0pt; text-indent:36pt; line-height:14pt; font-family:Times New Roman; font-size:12pt" align=justify>Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:</P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt" align=justify><BR></P>
+<P style="margin-top:0pt; margin-bottom:-14pt; text-indent:36pt; line-height:14pt; font-family:Times New Roman; font-size:12pt" align=justify>[ ]</P>
+<P style="margin:0pt; text-indent:72pt; line-height:14pt; font-family:Times New Roman; font-size:12pt" align=justify>Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)</P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt" align=justify><BR></P>
+<P style="margin-top:0pt; margin-bottom:-14pt; text-indent:36pt; line-height:14pt; font-family:Times New Roman; font-size:12pt" align=justify>[ ]</P>
+<P style="margin:0pt; text-indent:72pt; line-height:14pt; font-family:Times New Roman; font-size:12pt" align=justify>Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)</P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt" align=justify><BR></P>
+<P style="margin-top:0pt; margin-bottom:-14pt; text-indent:36pt; line-height:14pt; font-family:Times New Roman; font-size:12pt" align=justify>[ ]</P>
+<P style="margin:0pt; text-indent:72pt; line-height:14pt; font-family:Times New Roman; font-size:12pt" align=justify>Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))</P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt" align=justify><BR></P>
+<P style="margin-top:0pt; margin-bottom:-14pt; text-indent:36pt; line-height:14pt; font-family:Times New Roman; font-size:12pt" align=justify>[ ]</P>
+<P style="margin:0pt; text-indent:72pt; line-height:14pt; font-family:Times New Roman; font-size:12pt" align=justify>Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))</P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt" align=center><BR></P>
+<BR>
+<BR>
+<BR>
+<BR>
+<P style="page-break-before:always; margin:0pt; line-height:14pt; font-family:Times New Roman; font-size:12pt" align=center><B>INFORMATION TO BE INCLUDED IN THE REPORT</B></P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt" align=justify><BR></P>
+<P style="margin-top:0pt; margin-bottom:-14pt; line-height:14pt; font-family:Times New Roman; font-size:12pt" align=justify>Item 1.02</P>
+<P style="margin:0pt; text-indent:72pt; line-height:14pt; font-family:Times New Roman; font-size:12pt" align=justify><U>Entry Into a Material Definitive Agreement</U></P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt" align=justify><BR></P>
+<P style="margin:0pt; text-indent:36pt; line-height:14pt; font-family:Times New Roman; font-size:12pt" align=justify>On December 21, 2004, Guardian Technologies International, Inc. (the &#147;Company&#148;), entered into a three year teaming agreement with Lockheed Martin Systems Integration-Owego d/b/a Lockheed Martin Distribution Technologies, a business unit of Lockheed Martin Corporation. &nbsp;The teaming agreement covers the collaborative development of enhanced checkpoint threat detection capabilities to detect explosives and explosive devices in baggage as it passes through airport security checkpoints for an anticipated procurement by the Department of Homeland Security, Transportation Security Administration (TSA). &nbsp;Under the agreement, Lockheed will act as the prime contractor and Guardian will act as a subcontractor with regard to any such procurement by TSA.</P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt" align=justify><BR></P>
+<P style="margin:0pt; text-indent:36pt; line-height:14pt; font-family:Times New Roman; font-size:12pt" align=justify>Guardian has agreed to work exclusively with Lockheed with regard to any such TSA procurement contract. &nbsp;The agreement requires that Guardian will provide expertise in threat detection technologies through its Pinpoint&#8482; threat detection product, and provides that Guardian shall be responsible for enhancing the capabilities of its PinPoint&#8482; product, system engineering required to implement PinPoint&#8482;, provide software engineering, and related support capabilities. &nbsp;</P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt" align=justify><BR></P>
+<P style="margin:0pt; text-indent:36pt; line-height:14pt; font-family:Times New Roman; font-size:12pt" align=justify>The teaming agreement provides that in the event either party pursues the anticipated TSA procurement outside of the teaming agreement, the parties agree to prevent any officer, director, employee, agent or representative who had direct access to or participation in any activity or related to the teaming agreement from participating in any outside team and prohibits the use of any technical data or information received from the other party to be used to pursue or secure a contract award outside the teaming agreement. &nbsp;The agreement may be terminated if, among other things, Guardian fails to meet the target bid price established by Lockheed, upon issuance of a contract to Lockheed and issuance of a subcontract to Guardian, failure of the government to consent to the award of a contract to Guardian or a direction to use a source other than Guardian, a failure to reach a mutually agreeable s
+ubcontract, award of the contract to a contractor other than the parties, Lockheed&#146;s determination not to submit a proposal or bid, revocation of security clearances, or the bankruptcy, debarment, conflict of interest, or change of control of either party. &nbsp;The agreement also contains certain non-solicitation provisions and for mutual indemnification.</P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt" align=justify><BR></P>
+<P style="margin:0pt; text-indent:36pt; font-family:Times New Roman; font-size:12pt" align=justify><BR></P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt" align=justify><BR></P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt" align=justify><BR></P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt" align=justify><BR></P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt" align=justify><BR></P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt" align=justify><BR></P>
+<BR>
+<BR>
+<P style="margin:0pt; font-family:CG Times">2</P>
+<P style="margin:0pt; padding-right:18pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<BR>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt" align=justify><BR></P>
+<P style="margin:0pt; line-height:14pt; font-family:Times New Roman; font-size:12pt" align=justify><B>&nbsp;</B></P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt" align=justify><BR></P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt" align=justify><BR></P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<BR>
+<BR>
+<P style="page-break-before:always; margin:0pt; font-family:Times New Roman; font-size:12pt" align=justify><BR></P>
+<P style="margin-top:0pt; margin-bottom:-14pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">Item 8.01.</P>
+<P style="margin:0pt; text-indent:108pt; line-height:14pt; font-family:Times New Roman; font-size:12pt"><U>Other Events</U></P>
+<P style="margin:0pt; text-indent:36pt; font-family:Times New Roman; font-size:12pt" align=justify><BR></P>
+<P style="margin:0pt; text-indent:36pt; line-height:14pt; font-family:Times New Roman; font-size:12pt" align=justify>On December 21, 2004, the Company entered into a three year teaming agreement with Lockheed Martin Systems Integration-Owego d/b/a Lockheed Martin Distribution Technologies, a business unit of Lockheed Martin Corporation described in Item 1.01 above. The Company incorporates by reference herein the information set forth in Item 1.01 above.</P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<P style="margin:0pt; padding-left:18pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<P style="margin:0pt; padding-left:18pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<BR>
+<BR>
+<P style="margin:0pt; font-family:CG Times">3</P>
+<P style="margin:0pt; padding-right:18pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<BR>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt" align=justify><BR></P>
+<P style="margin:0pt; line-height:14pt; font-family:Times New Roman; font-size:12pt" align=justify><B>&nbsp;</B></P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt" align=justify><BR></P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt" align=justify><BR></P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<BR>
+<BR>
+<P style="page-break-before:always; margin:0pt; line-height:14pt; font-family:Times New Roman; font-size:12pt" align=center><B>SIGNATURES</B></P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt" align=center><BR></P>
+<P style="margin:0pt; line-height:14pt; font-family:Times New Roman; font-size:12pt" align=justify>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.</P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<TABLE style="font-size:10pt" cellspacing=0><TR><TD valign=top width=153.133><P style="margin:0pt; font-family:Times New Roman; font-size:12pt">&nbsp;</P>
+</TD><TD valign=top width=153.133><P style="margin:0pt; font-family:Times New Roman; font-size:12pt">&nbsp;</P>
+</TD><TD valign=top width=331.733><P style="margin:0pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">GUARDIAN TECHNOLOGIES INTERNATIONAL, INC.</P>
+</TD></TR>
+<TR><TD valign=top width=306.267 colspan=2><P style="margin:0pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">Date: &nbsp;&nbsp;&nbsp;December 22, 2004&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P>
+</TD><TD valign=top width=331.733 rowspan=2><P style="margin:0pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">By: <U>/s/ Michael W. Trudnak</U></P>
+<P style="margin:0pt; line-height:14pt; font-family:Times New Roman; font-size:12pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chief Executive Officer</P>
+</TD></TR>
+<TR><TD width=153.133>&nbsp;</TD><TD width=153.133>&nbsp;</TD></TR>
+</TABLE>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<BR>
+<BR>
+<P style="margin:0pt; font-family:CG Times">4</P>
+<P style="margin:0pt; padding-right:18pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<BR>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt" align=justify><BR></P>
+<P style="margin:0pt; line-height:14pt; font-family:Times New Roman; font-size:12pt" align=justify><B>&nbsp;</B></P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt" align=justify><BR></P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt" align=justify><BR></P>
+<P style="margin:0pt; font-family:Times New Roman; font-size:12pt"><BR></P>
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

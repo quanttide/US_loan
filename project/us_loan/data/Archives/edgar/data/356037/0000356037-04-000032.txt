@@ -1,0 +1,858 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Qh1n2piLN8CmSuxgtMQYY0w5Kq6QDfCzsBYz8J91gxSB6bXCVJw5LgNAo+xgHJU9
+ ffuRhVjmCOAN/XTfzjRbzQ==
+
+<SEC-DOCUMENT>0000356037-04-000032.txt : 20041229
+<SEC-HEADER>0000356037-04-000032.hdr.sgml : 20041229
+<ACCEPTANCE-DATETIME>20041229150521
+ACCESSION NUMBER:		0000356037-04-000032
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20040930
+ITEM INFORMATION:		Results of Operations and Financial Condition
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20041229
+DATE AS OF CHANGE:		20041229
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CSP INC /MA/
+		CENTRAL INDEX KEY:			0000356037
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER INTEGRATED SYSTEMS DESIGN [7373]
+		IRS NUMBER:				042441294
+		STATE OF INCORPORATION:			MA
+		FISCAL YEAR END:			0831
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-10843
+		FILM NUMBER:		041230859
+
+	BUSINESS ADDRESS:	
+		STREET 1:		43 MANNING ROAD
+		CITY:			BILLERICA
+		STATE:			MA
+		ZIP:			01821
+		BUSINESS PHONE:		9786637598
+
+	MAIL ADDRESS:	
+		STREET 1:		43 MANNING ROAD
+		CITY:			BILLERICA
+		STATE:			MA
+		ZIP:			01821
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>form8kpressq4122904.htm
+<DESCRIPTION>FORM 8K PERIOD ENDING 9/30/04
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>SECURITIES AND EXCHANGE COMMISSION</TITLE>
+</HEAD>
+<BODY LINK="#0000ff" VLINK="#800080">
+
+<B><FONT SIZE=4><P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;UNITED STATES</P>
+</B></FONT><P>&#9;&#9;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<B><FONT SIZE=4>SECURITIES AND EXCHANGE COMMISSION</P>
+</B></FONT><P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Washington, DC 20549</P>
+
+<B><FONT SIZE=6><P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</FONT><FONT SIZE=5>FORM 8-K</P>
+</B></FONT>
+<B><P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Current Report Pursuant to Section 13 or 15 (d) of the Securities Exchange Act of 1934</P>
+</B>
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Date of Report (Date of earliest event reported):     December 28, 2004</P>
+
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<B><FONT SIZE=5>CSP Incorporated</P>
+</B></FONT><P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Exact name of the registrant as specified in its charter)</P>
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P>
+<B><U><P ALIGN="CENTER">Massachusetts</P>
+</B></U><P ALIGN="CENTER">(State or other jurisdiction of incorporation)</P>
+
+<P>&nbsp;</P>
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    &nbsp;<B><U>0-10843</B></U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;         &#9;<B><U>04-2441294</P>
+</B></U><P>                     (Commission File Number)               (IRS Employer Identification No.)</P>
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9;</P>
+
+<P>&nbsp;</P>
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<B><U>43 Manning Road, Billerica, Massachusetts</B></U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   &nbsp;<B><U>01821-3901</P>
+</B></U><P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     (Address of principal executive offices) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Zip Code)</P>
+
+<P>&nbsp;</P>
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<B><U>(978) 663-7598</P>
+</B></U><P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Registrant's telephone number, including area code)</P>
+
+<P>Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:</P>
+
+<FONT SIZE=4><P>&#9633;  </FONT>Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)</P>
+<FONT SIZE=4><P>&#9633;  </FONT>Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)</P>
+<FONT SIZE=4><P>&#9633;  </FONT>Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act </P>
+<P>    (17 CFR 240.14d-2(b))</P>
+<FONT SIZE=4><P>&#9633;  </FONT>Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act </P>
+<P>    (17 CFR 240.13e-4(c))</P>
+
+<P>&nbsp;</P>
+<B><P>Item 2.02&nbsp;&nbsp;&nbsp;Results of Operations and Financial Condition.</P>
+</B>
+<P>&#9;On December 28, 2004, CSP Inc. (the &quot;Company&quot;) issued a press release announcing its financial results for the fourth quarter and year to date fiscal year 2004 which ended September 30, 2004.  A copy of the press release relating to such announcement is attached hereto as Exhibit 99.1 and is incorporated herein by reference.</P>
+
+<P>&#9;The information set forth in this Form 8-K, including the exhibits attached hereto, shall not be deemed &quot;filed&quot; for purposes of Section 18 of the Securities Exchange Act of 1934, as amended, or otherwise subject to the liability of that Section.  The information in this Form 8-K shall not be deemed incorporated by reference into any filing under the Securities Act of 1933, as amended, or the Exchange Act regardless of any general incorporation language in such filing, except as shall be expressly set forth by specific reference in such filing.</P>
+
+<B><P>Item 9.01&nbsp;&nbsp;&nbsp;Financial Statements and Exhibits.</P>
+
+<P>(c)&#9;Exhibits</P>
+<P>&#9;99.1&#9;Press Release Dated December 28, 2004</P>
+
+</B><P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P>
+
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P ALIGN="CENTER">SIGNATURE</P>
+
+<P>&nbsp;</P>
+<P>Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.</P>
+
+<P>&#9;&#9;&#9;&#9;&#9;&#9;CSP INC.</P>
+<P>&#9;&#9;&#9;&#9;&#9;</P>
+
+<P>Date:  <U>December 29, 2004</U>&#9;&#9;&#9;By:  <U>/s/Gary W. Levine</P><DIR>
+<DIR>
+<DIR>
+<DIR>
+<DIR>
+<DIR>
+<DIR>
+<DIR>
+<DIR>
+<DIR>
+
+</U><P>           Gary W. Levine</P>
+<P>           Vice President Finance and </P>
+<P>           Chief Financial Officer</P></DIR>
+</DIR>
+</DIR>
+</DIR>
+</DIR>
+</DIR>
+</DIR>
+</DIR>
+</DIR>
+</DIR>
+
+<P>&#9;</P>
+
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<U><FONT FACE="Courier"><P>&nbsp;</P>
+</U><P>&nbsp;</P><DIR>
+<DIR>
+<DIR>
+<DIR>
+<DIR>
+<DIR>
+<DIR>
+<DIR>
+<DIR>
+<DIR>
+<DIR>
+<DIR>
+<DIR>
+<DIR>
+<DIR>
+<DIR>
+<DIR>
+<DIR>
+
+</FONT><B><P>Exhibit 99.1</P>
+</B><FONT FACE="Courier"></DIR>
+</DIR>
+</DIR>
+</DIR>
+</DIR>
+</DIR>
+</DIR>
+</DIR>
+</DIR>
+</DIR>
+</DIR>
+</DIR>
+</DIR>
+</DIR>
+</DIR>
+</DIR>
+</DIR>
+</DIR>
+
+</FONT><P>Contact:</P>
+<P>      &#9;&#9;Gary Levine</P>
+<P>&#9;&#9;Chief Financial Officer</P>
+<P>&#9;&#9;CSP Inc.</P>
+<P>&#9;&#9;Tel:  978.663.7598 ext. 1200</P>
+<P>&#9;&#9;Fax: 978.663.0150</P>
+<B><FONT FACE="Courier"><P ALIGN="CENTER"></P>
+</FONT><P ALIGN="CENTER">CSP INC. REPORTS FOURTH-QUARTER AND <BR>
+FISCAL 2004 YEAR-END FINANCIAL RESULTS</P>
+<I><FONT SIZE=3><P ALIGN="CENTER"></P>
+<P ALIGN="CENTER">Company Records 62 Percent Increase in Sales for Full-Year Fiscal 2004</P>
+<P ALIGN="CENTER"></P>
+</B></I><P>BILLERICA, MA, December 28, 2004 - CSP Inc. (NASDAQ: CSPI), a provider of IT Solutions,  systems integration services and dense cluster computing systems, today reported financial results for the fourth quarter and fiscal 2004 year ended September 30, 2004.</P>
+
+<P>For the fourth quarter of fiscal 2004, CSP Inc. reported that sales increased 33 percent to $14.6 million from $11.0 million for the year-earlier quarter.  The Company reported fourth-quarter net income of $523,000, or $0.14 per share diluted, compared with a net loss of $(445,000), or $(0.13) per share diluted, for the fourth quarter of fiscal 2003.  </P>
+
+<P>For the fiscal year ended September 30, 2004, the Company reported sales of $52.8 million, an increase of 62 percent from sales of $32.5 million for fiscal 2003. This includes twelve months of sales from the Technisource acquisition compared to four months in fiscal year 2003.   For fiscal 2004, the Company reported net income of $1.2 million, or $0.32 per share diluted, compared with a net loss of $1.4 million, or $(0.39) per share diluted, for the prior year. </P>
+<B>
+</B><P>&quot;We continued to execute well across all of our businesses in the fourth quarter, culminating in a very strong financial performance for full-year fiscal 2004,&quot; stated Chairman, President and Chief Executive Officer, Alexander R. Lupinetti.  &quot;For fiscal 2004, we reported a 62 percent increase in revenues and achieved full-year profitability for the first time since fiscal year 2000.&quot; </P>
+
+<B><P>&nbsp;</P>
+<P>Systems</P>
+</B><P>&quot;Our Multicomputer Group's stellar fourth-quarter performance reflected shipments of equipment from previous contract wins for our open system multicomputers.  For example, during the quarter we shipped FastCluster 2942 blades to Lockheed Martin for the System Development and Demonstration (SD&amp;D) phase of the Advanced Hawkeye (AHE) program.  During the SD&amp;D phase, the Navy will use five radar systems for qualification, reliability and flight testing.  We are working with Lockheed Martin to develop a ruggedized version of the 2942 blades to meet the environmental conditions required for airborne radar.&quot;  </P>
+
+<P>&quot;We continue to see international and domestic interest in our multicomputers for military applications and we will seek to capitalize on these opportunities in fiscal 2005,&quot; continued Lupinetti.  &quot;During the year, we will remain focused on new product development in order to deliver architecturally superior multicomputers that lead the market in price-performance.  In 2005, we expect to launch follow-on products to our Series 2000 MultiComputers as well as other products.&quot;</P>
+</FONT><FONT FACE="Courier" SIZE=3>
+</FONT><B><FONT SIZE=3><P>Service and Systems Integrations</P>
+</B><P>&quot;The continued demand for servers, storage and associated services, coupled with our excellent value proposition and reputation for service, drove sales growth at our MODCOMP subsidiary in the fourth quarter,&quot; added Lupinetti.  &quot;MODCOMP's Systems and Solutions Division in Florida, which provides best-of-class integration solutions for multi-vendor IT environments, is taking market share in an improved environment for IT spending in the United States.  MODCOMP's European offices also performed very well during the fourth quarter.&quot;   </P>
+
+<P>&quot;Going forward, we will strive to maintain our competitive edge and continue to gain market share by providing superior customer service,&quot; continued Lupinetti.  &quot;In addition, we plan to increase our sales staff at our Systems and Solutions Division to better enable us to take advantage of opportunities in this market.&quot; </P>
+<P> </P>
+<B><P>Going Forward</P>
+</B><P>&quot;One year ago, we outlined our strategy to position CSP with the right products and services across our businesses to capitalize on a rebound in our global markets.  We skillfully executed on that strategy in 2004 and we now look forward to pursuing opportunities for growth in each of our businesses in fiscal 2005,&quot; concluded Lupinetti.</P>
+<P>&nbsp;</P>
+</FONT><B><P>Safe Harbor </P>
+</B><FONT SIZE=3><P>The Company wishes to take advantage of the "Safe Harbor" provisions of the Private Securities Litigation Reform Act of 1995 with respect to statements that may be deemed to be forward-looking under the Act.  Such forward-looking statements may include, but are not limited to, those relating to the Company's work with Lockheed Martin to develop a ruggedized version of the 2942 blades, its ability to capitalize on Multicomputer opportunities, the Company's plan to deliver architecturally superior multicomputers that lead the market in price-performance, its plans to launch follow-on products to the Series 2000 MultiComputers as well as other products, its ability to take market share and to grow its sales staff at the Systems and Solutions Division.  The Company cautions that numerous factors could cause actual results to differ materially from any forward-looking statements made by the Company. Such risks include general economic conditions, market factors, competitive factors and pricing
+ pressures, and others described in the Company's filings with the SEC. Please refer to the section on forward- looking statements included in the Company's filings with the Securities and Exchange Commission. </P>
+
+<P>About CSP Inc. </P>
+<P>Based in Billerica, Massachusetts and founded in 1968, CSP Inc. (NASDAQ:CSPI) and its subsidiaries develop and market best-of-breed IT solutions, image processing software, systems integration services, and high-performance computer systems. Our Systems segment includes the MultiComputer Division which supplies high-performance Linux cluster systems for a broad array of defense applications, including radar, sonar and surveillance signal processing. The Company's MODCOMP, Inc. subsidiary, also part of our Service and Systems Integration segment founded in 1970and which includes our fiscal 2003 acquisition of Technisource, is a leading provider of IT solutions and systems integration services. MODCOMP works with third parties to develop customized solutions in the global IT markets and has offices in the U.S., U.K., and Germany. More information about CSP is available on the company's website at http://www.CSPI.com. To learn more about MODCOMP, Inc., consult http://www.modcomp.com. More information about S
+canalytics, Inc. is available at http://www.scanalytics.com.</P>
+
+</FONT><I><P>The consolidated statements of operations and consolidated balance sheets follow.</P>
+</I><FONT FACE="Courier"><P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P>
+<I>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+</I></FONT><B><FONT SIZE=3><P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P>
+
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CSP INC. AND SUBSIDIARIES<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CONSOLIDATED BALANCE SHEETS<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Amounts in thousands, except par value)</P></B></FONT>
+<TABLE CELLSPACING=0 BORDER=0 CELLPADDING=7 WIDTH=690>
+<TR><TD WIDTH="66%" VALIGN="TOP" HEIGHT=17><P></P></TD>
+<TD WIDTH="18%" VALIGN="TOP" HEIGHT=17><P></P></TD>
+<TD WIDTH="16%" VALIGN="TOP" HEIGHT=17><P></P></TD>
+</TR>
+<TR><TD WIDTH="66%" VALIGN="TOP" HEIGHT=17><P></P></TD>
+<TD WIDTH="18%" VALIGN="TOP" HEIGHT=17>
+<B><FONT SIZE=3><P ALIGN="CENTER">September  30,</B></FONT></TD>
+<TD WIDTH="16%" VALIGN="TOP" HEIGHT=17>
+<B><FONT SIZE=3><P ALIGN="CENTER">September 30</B></FONT></TD>
+</TR>
+<TR><TD WIDTH="66%" VALIGN="TOP" HEIGHT=17><P></P></TD>
+<TD WIDTH="18%" VALIGN="TOP" HEIGHT=17>
+<B><U><FONT SIZE=3><P ALIGN="CENTER">2004</B></U></FONT></TD>
+<TD WIDTH="16%" VALIGN="TOP" HEIGHT=17>
+<B><U><FONT SIZE=3><P ALIGN="CENTER">2003</B></U></FONT></TD>
+</TR>
+<TR><TD WIDTH="66%" VALIGN="TOP" HEIGHT=17><P></P></TD>
+<TD WIDTH="18%" VALIGN="TOP" HEIGHT=17>
+<B><FONT SIZE=3><P ALIGN="CENTER">(Unaudited)</B></FONT></TD>
+<TD WIDTH="16%" VALIGN="TOP" HEIGHT=17><P></P></TD>
+</TR>
+<TR><TD WIDTH="66%" VALIGN="TOP" HEIGHT=17>
+<B><FONT SIZE=3><P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<U>Assets</U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</B></FONT></TD>
+<TD WIDTH="18%" VALIGN="TOP" HEIGHT=17><P></P></TD>
+<TD WIDTH="16%" VALIGN="TOP" HEIGHT=17><P></P></TD>
+</TR>
+<TR><TD WIDTH="66%" VALIGN="TOP" HEIGHT=17>
+<FONT SIZE=3><P>Current assets:</FONT></TD>
+<TD WIDTH="18%" VALIGN="TOP" HEIGHT=17><P></P></TD>
+<TD WIDTH="16%" VALIGN="TOP" HEIGHT=17><P></P></TD>
+</TR>
+<TR><TD WIDTH="66%" VALIGN="TOP" HEIGHT=17>
+<FONT SIZE=3><P>&nbsp;&nbsp;&nbsp;Cash and short-term investments</FONT></TD>
+<TD WIDTH="18%" VALIGN="TOP" HEIGHT=17>
+<FONT SIZE=3><P ALIGN="RIGHT">$12,895</FONT></TD>
+<TD WIDTH="16%" VALIGN="TOP" HEIGHT=17>
+<FONT SIZE=3><P ALIGN="RIGHT">$10,494</FONT></TD>
+</TR>
+<TR><TD WIDTH="66%" VALIGN="TOP" HEIGHT=17>
+<FONT SIZE=3><P>&nbsp;&nbsp;&nbsp;Accounts receivable, net</FONT></TD>
+<TD WIDTH="18%" VALIGN="TOP" HEIGHT=17>
+<FONT SIZE=3><P ALIGN="RIGHT">7,292</FONT></TD>
+<TD WIDTH="16%" VALIGN="TOP" HEIGHT=17>
+<FONT SIZE=3><P ALIGN="RIGHT">5,429</FONT></TD>
+</TR>
+<TR><TD WIDTH="66%" VALIGN="TOP" HEIGHT=17>
+<P>&nbsp;&nbsp;<FONT SIZE=3>Inventories</FONT></TD>
+<TD WIDTH="18%" VALIGN="TOP" HEIGHT=17>
+<FONT SIZE=3><P ALIGN="RIGHT">3,611</FONT></TD>
+<TD WIDTH="16%" VALIGN="TOP" HEIGHT=17>
+<FONT SIZE=3><P ALIGN="RIGHT">2,034</FONT></TD>
+</TR>
+<TR><TD WIDTH="66%" VALIGN="TOP" HEIGHT=17>
+<FONT SIZE=3><P>&nbsp;&nbsp;&nbsp;Other current assets</FONT></TD>
+<TD WIDTH="18%" VALIGN="TOP" HEIGHT=17>
+<U><FONT SIZE=3><P ALIGN="RIGHT">     878</U></FONT></TD>
+<TD WIDTH="16%" VALIGN="TOP" HEIGHT=17>
+<U><FONT SIZE=3><P ALIGN="RIGHT">    2,575</U></FONT></TD>
+</TR>
+<TR><TD WIDTH="66%" VALIGN="TOP" HEIGHT=17>
+<FONT SIZE=3><P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Total current assets</FONT></TD>
+<TD WIDTH="18%" VALIGN="TOP" HEIGHT=17>
+<FONT SIZE=3><P ALIGN="RIGHT">24,676</FONT></TD>
+<TD WIDTH="16%" VALIGN="TOP" HEIGHT=17>
+<FONT SIZE=3><P ALIGN="RIGHT">20,532</FONT></TD>
+</TR>
+<TR><TD WIDTH="66%" VALIGN="TOP" HEIGHT=17>
+<FONT SIZE=3><P>Property, equipment and improvements, net</FONT></TD>
+<TD WIDTH="18%" VALIGN="TOP" HEIGHT=17>
+<FONT SIZE=3><P ALIGN="RIGHT">1,213</FONT></TD>
+<TD WIDTH="16%" VALIGN="TOP" HEIGHT=17>
+<FONT SIZE=3><P ALIGN="RIGHT">944</FONT></TD>
+</TR>
+<TR><TD WIDTH="66%" VALIGN="TOP" HEIGHT=17>
+<FONT SIZE=3><P>Other assets:</FONT></TD>
+<TD WIDTH="18%" VALIGN="TOP" HEIGHT=17>
+<U><FONT SIZE=3><P ALIGN="RIGHT">  5,224</U></FONT></TD>
+<TD WIDTH="16%" VALIGN="TOP" HEIGHT=17>
+<U><FONT SIZE=3><P ALIGN="RIGHT">    4,949</U></FONT></TD>
+</TR>
+<TR><TD WIDTH="66%" VALIGN="TOP" HEIGHT=17>
+<FONT SIZE=3><P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Total assets</FONT></TD>
+<TD WIDTH="18%" VALIGN="TOP" HEIGHT=17>
+<U><FONT SIZE=3><P ALIGN="RIGHT">$31,113</U></FONT></TD>
+<TD WIDTH="16%" VALIGN="TOP" HEIGHT=17>
+<U><FONT SIZE=3><P ALIGN="RIGHT">$26,425</U></FONT></TD>
+</TR>
+<TR><TD WIDTH="66%" VALIGN="TOP" HEIGHT=17><P></P></TD>
+<TD WIDTH="18%" VALIGN="TOP" HEIGHT=17><P></P></TD>
+<TD WIDTH="16%" VALIGN="TOP" HEIGHT=17><P></P></TD>
+</TR>
+<TR><TD WIDTH="66%" VALIGN="TOP" HEIGHT=17>
+<B><FONT SIZE=3><P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<U>Liabilities and Shareholders' Equity</B></U></FONT></TD>
+<TD WIDTH="18%" VALIGN="TOP" HEIGHT=17><P></P></TD>
+<TD WIDTH="16%" VALIGN="TOP" HEIGHT=17><P></P></TD>
+</TR>
+<TR><TD WIDTH="66%" VALIGN="TOP" HEIGHT=17>
+<FONT SIZE=3><P>Current liabilities:</FONT></TD>
+<TD WIDTH="18%" VALIGN="TOP" HEIGHT=17><P></P></TD>
+<TD WIDTH="16%" VALIGN="TOP" HEIGHT=17><P></P></TD>
+</TR>
+<TR><TD WIDTH="66%" VALIGN="TOP" HEIGHT=17>
+<FONT SIZE=3><P>&nbsp;&nbsp;Accounts payable and accrued expenses</FONT></TD>
+<TD WIDTH="18%" VALIGN="TOP" HEIGHT=17>
+<U><FONT SIZE=3><P ALIGN="RIGHT">9,253</U></FONT></TD>
+<TD WIDTH="16%" VALIGN="TOP" HEIGHT=17>
+<U><FONT SIZE=3><P ALIGN="RIGHT">   6,483</U></FONT></TD>
+</TR>
+<TR><TD WIDTH="66%" VALIGN="TOP" HEIGHT=17>
+<FONT SIZE=3><P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Total current liabilities</FONT></TD>
+<TD WIDTH="18%" VALIGN="TOP" HEIGHT=17>
+<FONT SIZE=3><P ALIGN="RIGHT">9,253</FONT></TD>
+<TD WIDTH="16%" VALIGN="TOP" HEIGHT=17>
+<FONT SIZE=3><P ALIGN="RIGHT">6,483</FONT></TD>
+</TR>
+<TR><TD WIDTH="66%" VALIGN="TOP" HEIGHT=17><P></P></TD>
+<TD WIDTH="18%" VALIGN="TOP" HEIGHT=17><P></P></TD>
+<TD WIDTH="16%" VALIGN="TOP" HEIGHT=17><P></P></TD>
+</TR>
+<TR><TD WIDTH="66%" VALIGN="TOP" HEIGHT=17>
+<FONT SIZE=3><P>Other liabilities</FONT></TD>
+<TD WIDTH="18%" VALIGN="TOP" HEIGHT=17>
+<FONT SIZE=3><P ALIGN="RIGHT">7,836</FONT></TD>
+<TD WIDTH="16%" VALIGN="TOP" HEIGHT=17>
+<FONT SIZE=3><P ALIGN="RIGHT">8,010</FONT></TD>
+</TR>
+<TR><TD WIDTH="66%" VALIGN="TOP" HEIGHT=17>
+<FONT SIZE=3><P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</FONT></TD>
+<TD WIDTH="18%" VALIGN="TOP" HEIGHT=17><P></P></TD>
+<TD WIDTH="16%" VALIGN="TOP" HEIGHT=17><P></P></TD>
+</TR>
+<TR><TD WIDTH="66%" VALIGN="TOP" HEIGHT=17>
+<FONT SIZE=3><P>Shareholders' equity</FONT></TD>
+<TD WIDTH="18%" VALIGN="TOP" HEIGHT=17>
+<U><FONT SIZE=3><P ALIGN="RIGHT">14,024</U></FONT></TD>
+<TD WIDTH="16%" VALIGN="TOP" HEIGHT=17>
+<U><FONT SIZE=3><P ALIGN="RIGHT">  11,932</U></FONT></TD>
+</TR>
+<TR><TD WIDTH="66%" VALIGN="TOP" HEIGHT=17>
+<FONT SIZE=3><P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Total liabilities and shareholders' equity</FONT></TD>
+<TD WIDTH="18%" VALIGN="TOP" HEIGHT=17>
+<U><FONT SIZE=3><P ALIGN="RIGHT">$31,113</U></FONT></TD>
+<TD WIDTH="16%" VALIGN="TOP" HEIGHT=17>
+<U><FONT SIZE=3><P ALIGN="RIGHT">$26,425</U></FONT></TD>
+</TR>
+<TR><TD WIDTH="66%" VALIGN="TOP" HEIGHT=17><P></P></TD>
+<TD WIDTH="18%" VALIGN="TOP" HEIGHT=17><P></P></TD>
+<TD WIDTH="16%" VALIGN="TOP" HEIGHT=17><P></P></TD>
+</TR>
+<TR><TD WIDTH="66%" VALIGN="TOP" HEIGHT=17><P></P></TD>
+<TD WIDTH="18%" VALIGN="TOP" HEIGHT=17><P></P></TD>
+<TD WIDTH="16%" VALIGN="TOP" HEIGHT=17><P></P></TD>
+</TR>
+</TABLE>
+
+<B><FONT SIZE=3>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+</B></FONT><FONT FACE="Courier"><P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+</FONT><B><FONT SIZE=3><P>&nbsp;</P>
+</B></FONT><FONT FACE="Courier"><P>&nbsp;</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+</FONT><B><FONT SIZE=3><P>&nbsp;</P>
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CSP INC. AND SUBSIDIARIES<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;UNAUDITED CONSOLIDATED STATEMENTS OF OPERATIONS<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Amounts in thousands, except for per share data)<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</P>
+</B><P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <B>/-For the three months ended-//-For the twelve months ended-/</P></B></FONT>
+<TABLE CELLSPACING=0 BORDER=0 CELLPADDING=7 WIDTH=666>
+<TR><TD WIDTH="42%" VALIGN="TOP" HEIGHT=17><P></P></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17>
+<B><FONT SIZE=3><P ALIGN="CENTER">Sept. 30,</B></FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17>
+<B><FONT SIZE=3><P ALIGN="CENTER">Sept.  30,</B></FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17>
+<B><FONT SIZE=3><P ALIGN="CENTER">Sept.  30,</B></FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17>
+<B><FONT SIZE=3><P ALIGN="CENTER">Sept.  30,</B></FONT></TD>
+</TR>
+<TR><TD WIDTH="42%" VALIGN="TOP" HEIGHT=17><P></P></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17>
+<B><U><FONT SIZE=3><P ALIGN="CENTER">2004</B></U></FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17>
+<B><U><FONT SIZE=3><P ALIGN="CENTER">2003</B></U></FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17>
+<B><U><FONT SIZE=3><P ALIGN="CENTER">2004</P>
+</U><P ALIGN="CENTER"></B></FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17>
+<B><U><FONT SIZE=3><P ALIGN="CENTER">2003</B></U></FONT></TD>
+</TR>
+<TR><TD WIDTH="42%" VALIGN="TOP" HEIGHT=17>
+<B><FONT SIZE=3><P>Sales:</B></FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17><P></P></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17><P></P></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17><P></P></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17><P></P></TD>
+</TR>
+<TR><TD WIDTH="42%" VALIGN="TOP" HEIGHT=17>
+<FONT SIZE=3><P>&nbsp;&nbsp;&nbsp;Systems</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17>
+<FONT SIZE=3><P ALIGN="RIGHT">$3,112</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17>
+<FONT SIZE=3><P ALIGN="RIGHT">$1,353</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17>
+<FONT SIZE=3><P ALIGN="RIGHT">$9,004</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17>
+<FONT SIZE=3><P ALIGN="RIGHT">$5,488</FONT></TD>
+</TR>
+<TR><TD WIDTH="42%" VALIGN="TOP" HEIGHT=17>
+<FONT SIZE=3><P>&nbsp;&nbsp;&nbsp;Service and system integration</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17>
+<FONT SIZE=3><P ALIGN="RIGHT">10,862</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17>
+<FONT SIZE=3><P ALIGN="RIGHT">8,996</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17>
+<FONT SIZE=3><P ALIGN="RIGHT">41,169</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17>
+<FONT SIZE=3><P ALIGN="RIGHT">24,499</FONT></TD>
+</TR>
+<TR><TD WIDTH="42%" VALIGN="TOP" HEIGHT=17>
+<FONT SIZE=3><P>&nbsp;&nbsp;&nbsp;E-business software</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17>
+<FONT SIZE=3><P ALIGN="RIGHT">235</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17>
+<FONT SIZE=3><P ALIGN="RIGHT">240</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17>
+<FONT SIZE=3><P ALIGN="RIGHT">1,229</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17>
+<FONT SIZE=3><P ALIGN="RIGHT">1,186</FONT></TD>
+</TR>
+<TR><TD WIDTH="42%" VALIGN="TOP" HEIGHT=17>
+<FONT SIZE=3><P>&nbsp;&nbsp;&nbsp;Other software</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17>
+<U><FONT SIZE=3><P ALIGN="RIGHT">    348</U></FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17>
+<U><FONT SIZE=3><P ALIGN="RIGHT">    373</U></FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17>
+<U><FONT SIZE=3><P ALIGN="RIGHT">  1,422</U></FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17>
+<U><FONT SIZE=3><P ALIGN="RIGHT">  1,342</U></FONT></TD>
+</TR>
+<TR><TD WIDTH="42%" VALIGN="TOP" HEIGHT=17>
+<FONT SIZE=3><P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Total sales</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17>
+<FONT SIZE=3><P ALIGN="RIGHT">14,557</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17>
+<FONT SIZE=3><P ALIGN="RIGHT">10,962</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17>
+<FONT SIZE=3><P ALIGN="RIGHT">52,824</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17>
+<FONT SIZE=3><P ALIGN="RIGHT">32,515</FONT></TD>
+</TR>
+<TR><TD WIDTH="42%" VALIGN="TOP" HEIGHT=17><P></P></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17><P></P></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17><P></P></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17><P></P></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17><P></P></TD>
+</TR>
+<TR><TD WIDTH="42%" VALIGN="TOP" HEIGHT=17>
+<B><FONT SIZE=3><P>Cost of Sales:</B></FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17><P></P></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17><P></P></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17><P></P></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17><P></P></TD>
+</TR>
+<TR><TD WIDTH="42%" VALIGN="TOP" HEIGHT=17>
+<FONT SIZE=3><P>&nbsp;&nbsp;&nbsp;Systems</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17>
+<FONT SIZE=3><P ALIGN="RIGHT">1,495</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17>
+<FONT SIZE=3><P ALIGN="RIGHT">620</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17>
+<FONT SIZE=3><P ALIGN="RIGHT">3,725</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17>
+<FONT SIZE=3><P ALIGN="RIGHT">2,672</FONT></TD>
+</TR>
+<TR><TD WIDTH="42%" VALIGN="TOP" HEIGHT=17>
+<FONT SIZE=3><P>&nbsp;&nbsp;&nbsp;Service and systems integration</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17>
+<FONT SIZE=3><P ALIGN="RIGHT">8,265</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17>
+<FONT SIZE=3><P ALIGN="RIGHT">7,367</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17>
+<FONT SIZE=3><P ALIGN="RIGHT">33,085</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17>
+<FONT SIZE=3><P ALIGN="RIGHT">19,736</FONT></TD>
+</TR>
+<TR><TD WIDTH="42%" VALIGN="TOP" HEIGHT=17>
+<FONT SIZE=3><P>&nbsp;&nbsp;&nbsp;E-business software</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17>
+<FONT SIZE=3><P ALIGN="RIGHT">137</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17>
+<FONT SIZE=3><P ALIGN="RIGHT">103</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17>
+<FONT SIZE=3><P ALIGN="RIGHT">554</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17>
+<FONT SIZE=3><P ALIGN="RIGHT">614</FONT></TD>
+</TR>
+<TR><TD WIDTH="42%" VALIGN="TOP" HEIGHT=17>
+<FONT SIZE=3><P>&nbsp;&nbsp;&nbsp;Other software</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17>
+<U><FONT SIZE=3><P ALIGN="RIGHT">       53</U></FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17>
+<U><FONT SIZE=3><P ALIGN="RIGHT">      81</U></FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17>
+<U><FONT SIZE=3><P ALIGN="RIGHT">     357</U></FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17>
+<U><FONT SIZE=3><P ALIGN="RIGHT">     283</U></FONT></TD>
+</TR>
+<TR><TD WIDTH="42%" VALIGN="TOP" HEIGHT=17>
+<FONT SIZE=3><P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Total cost of sales</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17>
+<U><FONT SIZE=3><P ALIGN="RIGHT">  9,950</U></FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17>
+<U><FONT SIZE=3><P ALIGN="RIGHT"> 8,171</U></FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17>
+<U><FONT SIZE=3><P ALIGN="RIGHT">37,721</U></FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17>
+<U><FONT SIZE=3><P ALIGN="RIGHT">23,305</U></FONT></TD>
+</TR>
+<TR><TD WIDTH="42%" VALIGN="TOP" HEIGHT=17><P></P></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17><P></P></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17><P></P></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17><P></P></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17><P></P></TD>
+</TR>
+<TR><TD WIDTH="42%" VALIGN="TOP" HEIGHT=17>
+<FONT SIZE=3><P>&nbsp;&nbsp;   &nbsp;Gross profit</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17>
+<FONT SIZE=3><P ALIGN="RIGHT">4,607</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17>
+<FONT SIZE=3><P ALIGN="RIGHT">2,791</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17>
+<FONT SIZE=3><P ALIGN="RIGHT">15,103</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17>
+<FONT SIZE=3><P ALIGN="RIGHT">9,210</FONT></TD>
+</TR>
+<TR><TD WIDTH="42%" VALIGN="TOP" HEIGHT=17><P></P></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17><P></P></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17><P></P></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17><P></P></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17><P></P></TD>
+</TR>
+<TR><TD WIDTH="42%" VALIGN="TOP" HEIGHT=17>
+<B><FONT SIZE=3><P>Operating expenses:</B></FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17><P></P></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17><P></P></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17><P></P></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17><P></P></TD>
+</TR>
+<TR><TD WIDTH="42%" VALIGN="TOP" HEIGHT=17>
+<FONT SIZE=3><P>&nbsp;&nbsp;&nbsp;Engineering and development</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17>
+<FONT SIZE=3><P ALIGN="RIGHT">801</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17>
+<FONT SIZE=3><P ALIGN="RIGHT">821</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17>
+<FONT SIZE=3><P ALIGN="RIGHT">2,946</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17>
+<FONT SIZE=3><P ALIGN="RIGHT">3,543</FONT></TD>
+</TR>
+<TR><TD WIDTH="42%" VALIGN="TOP" HEIGHT=17>
+<FONT SIZE=3><P>&nbsp;&nbsp;&nbsp;Selling, general &amp; administrative</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17>
+<U><FONT SIZE=3><P ALIGN="RIGHT">  3,048</U></FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17>
+<U><FONT SIZE=3><P ALIGN="RIGHT">  3,085</U></FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17>
+<U><FONT SIZE=3><P ALIGN="RIGHT">10,542</U></FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17>
+<U><FONT SIZE=3><P ALIGN="RIGHT">  8,675</U></FONT></TD>
+</TR>
+<TR><TD WIDTH="42%" VALIGN="TOP" HEIGHT=17>
+<FONT SIZE=3><P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Total operating expenses</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17>
+<U><FONT SIZE=3><P ALIGN="RIGHT">  3,849</U></FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17>
+<U><FONT SIZE=3><P ALIGN="RIGHT">  3,906</U></FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17>
+<U><FONT SIZE=3><P ALIGN="RIGHT">13,488</U></FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17>
+<U><FONT SIZE=3><P ALIGN="RIGHT">12,218</U></FONT></TD>
+</TR>
+<TR><TD WIDTH="42%" VALIGN="TOP" HEIGHT=17><P></P></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17><P></P></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17><P></P></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17><P></P></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17><P></P></TD>
+</TR>
+<TR><TD WIDTH="42%" VALIGN="TOP" HEIGHT=17>
+<B><FONT SIZE=3><P>Operating profit (loss)</B></FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17>
+<FONT SIZE=3><P ALIGN="RIGHT">758</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17>
+<FONT SIZE=3><P ALIGN="RIGHT">(1,115)</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17>
+<FONT SIZE=3><P ALIGN="RIGHT">1,615</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17>
+<FONT SIZE=3><P ALIGN="RIGHT">(3,008)</FONT></TD>
+</TR>
+<TR><TD WIDTH="42%" VALIGN="TOP" HEIGHT=17><P></P></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17><P></P></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17><P></P></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17><P></P></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17><P></P></TD>
+</TR>
+<TR><TD WIDTH="42%" VALIGN="TOP" HEIGHT=17>
+<B><FONT SIZE=3><P>Other income(expense):</B></FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17><P></P></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17><P></P></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17><P></P></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17><P></P></TD>
+</TR>
+<TR><TD WIDTH="42%" VALIGN="TOP" HEIGHT=17>
+<FONT SIZE=3><P>&nbsp;&nbsp;&nbsp;Other income (expense)</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17>
+<U><FONT SIZE=3><P ALIGN="RIGHT">       38</U></FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17>
+<U><FONT SIZE=3><P ALIGN="RIGHT">        64</U></FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17>
+<U><FONT SIZE=3><P ALIGN="RIGHT">     136</U></FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17>
+<U><FONT SIZE=3><P ALIGN="RIGHT"> 1,456</U></FONT></TD>
+</TR>
+<TR><TD WIDTH="42%" VALIGN="TOP" HEIGHT=17>
+<FONT SIZE=3><P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Total other income, net</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17>
+<FONT SIZE=3><P ALIGN="RIGHT">38</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17>
+<FONT SIZE=3><P ALIGN="RIGHT">64</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17>
+<FONT SIZE=3><P ALIGN="RIGHT">136</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17>
+<FONT SIZE=3><P ALIGN="RIGHT">1,456</FONT></TD>
+</TR>
+<TR><TD WIDTH="42%" VALIGN="TOP" HEIGHT=17><P></P></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17><P></P></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17><P></P></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17><P></P></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17><P></P></TD>
+</TR>
+<TR><TD WIDTH="42%" VALIGN="TOP" HEIGHT=17>
+<FONT SIZE=3><P>Income (loss) before income taxes</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17>
+<FONT SIZE=3><P ALIGN="RIGHT">796</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17>
+<FONT SIZE=3><P ALIGN="RIGHT">(1,051)</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17>
+<FONT SIZE=3><P ALIGN="RIGHT">1,751</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17>
+<FONT SIZE=3><P ALIGN="RIGHT">(1,552)</FONT></TD>
+</TR>
+<TR><TD WIDTH="42%" VALIGN="TOP" HEIGHT=17><P></P></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17><P></P></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17><P></P></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17><P></P></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17><P></P></TD>
+</TR>
+<TR><TD WIDTH="42%" VALIGN="TOP" HEIGHT=17>
+<FONT SIZE=3><P>Income tax provision (benefit)</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17>
+<U><FONT SIZE=3><P ALIGN="RIGHT">     273</U></FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17>
+<U><FONT SIZE=3><P ALIGN="RIGHT">    (606)</U></FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17>
+<U><FONT SIZE=3><P ALIGN="RIGHT">     540</U></FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17>
+<U><FONT SIZE=3><P ALIGN="RIGHT">  (168)</U></FONT></TD>
+</TR>
+<TR><TD WIDTH="42%" VALIGN="TOP" HEIGHT=17><P></P></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17><P></P></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17><P></P></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17><P></P></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17><P></P></TD>
+</TR>
+<TR><TD WIDTH="42%" VALIGN="TOP" HEIGHT=17>
+<FONT SIZE=3><P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<B>Net income (loss)</B></FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17>
+<U><FONT SIZE=3><P ALIGN="RIGHT">    $523</U></FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17>
+<U><FONT SIZE=3><P ALIGN="RIGHT">  ($445)</U></FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17>
+<U><FONT SIZE=3><P ALIGN="RIGHT">$1,211</U></FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17>
+<U><FONT SIZE=3><P ALIGN="RIGHT">($1,384)</U></FONT></TD>
+</TR>
+<TR><TD WIDTH="42%" VALIGN="TOP" HEIGHT=17><P></P></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17><P></P></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17><P></P></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17><P></P></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17><P></P></TD>
+</TR>
+<TR><TD WIDTH="42%" VALIGN="TOP" HEIGHT=17>
+<FONT SIZE=3><P>Net income (loss) per share -  basic</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17>
+<U><FONT SIZE=3><P ALIGN="RIGHT"> $0.15</U></FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17>
+<U><FONT SIZE=3><P ALIGN="RIGHT">($0.13)</U></FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17>
+<U><FONT SIZE=3><P ALIGN="RIGHT">  $0.34</U></FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17>
+<U><FONT SIZE=3><P ALIGN="RIGHT">($0.39)</U></FONT></TD>
+</TR>
+<TR><TD WIDTH="42%" VALIGN="TOP" HEIGHT=17>
+<FONT SIZE=3><P>Weighted average shares outstanding - basic</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17>
+<U><FONT SIZE=3><P ALIGN="RIGHT"> 3,569</U></FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17>
+<U><FONT SIZE=3><P ALIGN="RIGHT">   3,537</U></FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17>
+<U><FONT SIZE=3><P ALIGN="RIGHT">  3,562</U></FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17>
+<U><FONT SIZE=3><P ALIGN="RIGHT">  3,534</U></FONT></TD>
+</TR>
+<TR><TD WIDTH="42%" VALIGN="TOP" HEIGHT=17>
+<FONT SIZE=3><P>Net income (loss) per share - diluted</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17>
+<U><FONT SIZE=3><P ALIGN="RIGHT"> $0.14</U></FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17>
+<U><FONT SIZE=3><P ALIGN="RIGHT">($0.13)</U></FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17>
+<U><FONT SIZE=3><P ALIGN="RIGHT">  $0.32</U></FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17>
+<U><FONT SIZE=3><P ALIGN="RIGHT">($0.39)</U></FONT></TD>
+</TR>
+<TR><TD WIDTH="42%" VALIGN="TOP" HEIGHT=17>
+<FONT SIZE=3><P>Weighted average shares outstanding-diluted</FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17>
+<U><FONT SIZE=3><P ALIGN="RIGHT"> 3,747</U></FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17>
+<U><FONT SIZE=3><P ALIGN="RIGHT">   3,537</U></FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17>
+<U><FONT SIZE=3><P ALIGN="RIGHT">  3,743</U></FONT></TD>
+<TD WIDTH="14%" VALIGN="TOP" HEIGHT=17>
+<U><FONT SIZE=3><P ALIGN="RIGHT">   3,534</U></FONT></TD>
+</TR>
+</TABLE>
+
+<B><FONT SIZE=3>
+</B></FONT><FONT FACE="Courier"><P>&nbsp;</P>
+</FONT><FONT SIZE=3><P>&nbsp;</P>
+</FONT><FONT FACE="Courier"><P>&nbsp;</P></FONT></BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

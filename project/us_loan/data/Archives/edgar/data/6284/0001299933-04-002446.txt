@@ -1,0 +1,776 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ JgXXqT/vymQFr7NzBMj73oFTsS66ftbDDv59FCM3Z5oyDsI10+xRFAF5yNmGpyui
+ dhC7y/4UndGMvOl7kfA0eQ==
+
+<SEC-DOCUMENT>0001299933-04-002446.txt : 20041223
+<SEC-HEADER>0001299933-04-002446.hdr.sgml : 20041223
+<ACCEPTANCE-DATETIME>20041223161318
+ACCESSION NUMBER:		0001299933-04-002446
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20041223
+ITEM INFORMATION:		Notice of Delisting or Failure to Satisfy a Continued Listing Rule or Standard; Transfer of Listing
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20041223
+DATE AS OF CHANGE:		20041223
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ANALOGIC CORP
+		CENTRAL INDEX KEY:			0000006284
+		STANDARD INDUSTRIAL CLASSIFICATION:	INSTRUMENTS FOR MEAS & TESTING OF ELECTRICITY & ELEC SIGNALS [3825]
+		IRS NUMBER:				042454372
+		STATE OF INCORPORATION:			MA
+		FISCAL YEAR END:			0731
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-06715
+		FILM NUMBER:		041224452
+
+	BUSINESS ADDRESS:	
+		STREET 1:		8 CENTENNIAL DR
+		CITY:			PEABODY
+		STATE:			MA
+		ZIP:			01960
+		BUSINESS PHONE:		9789773000
+
+	MAIL ADDRESS:	
+		STREET 1:		8 CENTENNIAL DR
+		CITY:			PEABODY
+		STATE:			MA
+		ZIP:			01960
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>htm_2381.htm
+<DESCRIPTION>LIVE FILING
+<TEXT>
+<!-- CoverPageHeader start -->
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML>
+<HEAD>
+<TITLE> Analogic Corporation (Form: 8-K) </TITLE>
+</HEAD>
+<BODY TEXT="#000000" BGCOLOR="#FFFFFF" ALINK="#0000FF" HLINK="#FF0000" VLINK="#800080">
+<A NAME="DOCUMENT_TOP">&nbsp;</A>
+<P>
+<!-- CoverPageHeader end --><!-- CoverPageTitle START -->
+<A NAME="DOCUMENT_TOP">&nbsp;</A>
+<HR NOSHADE>
+<P>
+<P ALIGN="CENTER">
+<FONT SIZE="4">
+		UNITED STATES<BR>
+	SECURITIES AND EXCHANGE COMMISSION
+</FONT>
+<BR>
+<FONT SIZE="2">
+	WASHINGTON, D.C. 20549
+</FONT>
+<P ALIGN="CENTER">
+<FONT SIZE="5">
+	FORM 8-K
+</FONT>
+<FONT SIZE="2">
+
+</FONT>
+</P>
+<P ALIGN="CENTER">
+<FONT SIZE="3">
+	CURRENT REPORT
+</FONT>
+</P>
+<P ALIGN="CENTER">
+<FONT SIZE="2">
+	Pursuant to Section&nbsp;13 or 15(d) of the Securities Exchange Act of 1934
+</FONT>
+</P>
+<CENTER>
+<TABLE CELLSPACING="0" BORDER="0" CELLPADDING="0" WIDTH="100%">
+<TR VALIGN="BOTTOM">
+<TD WIDTH="51%">
+	&nbsp;
+</TD>
+<TD WIDTH="5%">
+	&nbsp;
+</TD>
+<TD WIDTH="44%">
+	&nbsp;
+</TD>
+</TR>
+<TR VALIGN="BOTTOM">
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+	Date of Report (Date of Earliest Event Reported):
+</FONT>
+</TD>
+<TD>
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+	December 23, 2004
+</FONT>
+</TD>
+</TR>
+</TABLE>
+<BR>
+</CENTER>
+<!-- CoverPageTitle END --><!-- CoverPageRegistrant START -->
+<P ALIGN="CENTER"><!-- -->
+<FONT SIZE="6">
+	Analogic Corporation
+</FONT>
+<FONT SIZE="2">
+<BR>__________________________________________<BR>
+	(Exact name of registrant as specified in its charter)
+</FONT>
+<CENTER>
+<TABLE CELLSPACING="0" BORDER="0" CELLPADDING="0" WIDTH="100%">
+<TR VALIGN="BOTTOM">
+<TD WIDTH="33%">
+	&nbsp;
+</TD>
+<TD WIDTH="34%">
+	&nbsp;
+</TD>
+<TD WIDTH="33%">
+	&nbsp;
+</TD>
+</TR>
+<TR VALIGN="BOTTOM">
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+	Massachusetts
+</FONT>
+</TD>
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+	0-6715
+</FONT>
+</TD>
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+	04-2454372
+</FONT>
+</TD>
+</TR>
+<TR VALIGN="BOTTOM">
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+_____________________<BR>
+	(State or other jurisdiction
+</FONT>
+</TD>
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+_____________<BR>
+	(Commission
+</FONT>
+</TD>
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+______________<BR>
+	(I.R.S. Employer
+</FONT>
+</TD>
+</TR>
+<TR VALIGN="BOTTOM">
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+	of incorporation)
+</FONT>
+</TD>
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+	File Number)
+</FONT>
+</TD>
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+	Identification No.)
+</FONT>
+</TD>
+</TR>
+<TR VALIGN="BOTTOM">
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+	&nbsp;&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+</TR>
+<TR VALIGN="BOTTOM">
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+	8 Centennial Drive, Peabody, Massachusetts
+</FONT>
+</TD>
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+	01960
+</FONT>
+</TD>
+</TR>
+<TR VALIGN="BOTTOM">
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+_________________________________<BR>
+	(Address of principal executive offices)
+</FONT>
+</TD>
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+___________<BR>
+	(Zip Code)
+</FONT>
+</TD>
+</TR>
+</TABLE>
+</CENTER>
+<CENTER>
+<TABLE CELLSPACING="0" BORDER="0" CELLPADDING="0" WIDTH="100%">
+
+<TR VALIGN="BOTTOM">
+<TD WIDTH="51%">
+	&nbsp;
+</TD>
+<TD WIDTH="5%">
+	&nbsp;
+</TD>
+<TD WIDTH="44%">
+	&nbsp;
+</TD>
+</TR>
+<TR VALIGN="BOTTOM">
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+	Registrant&#146;s telephone number, including area code:
+</FONT>
+</TD>
+<TD>
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="CENTER" VALIGN="TOP">
+<FONT SIZE="2">
+	978-977-3000
+</FONT>
+</TD>
+</TR>
+</TABLE>
+</CENTER>
+<P ALIGN="CENTER">
+<FONT SIZE="2">
+	Not Applicable
+<BR>______________________________________________<BR>
+	Former name or former address, if changed since last report
+</FONT>
+<P ALIGN="CENTER">
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+<!-- CoverPageRegistrant END --><P><FONT SIZE="2">
+Check the appropriate box below if the Form 8-K filing is intended to
+simultaneously satisfy the filing obligation of the registrant under any
+of the following provisions:</FONT>
+</P>
+<P><FONT SIZE="2">
+[&nbsp;&nbsp;]&nbsp;&nbsp;Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)<br>
+[&nbsp;&nbsp;]&nbsp;&nbsp;Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)<br>
+[&nbsp;&nbsp;]&nbsp;&nbsp;Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))<br>
+[&nbsp;&nbsp;]&nbsp;&nbsp;Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))<br>
+</P></FONT><!-- PageBreak START -->
+<P>
+<HR NOSHADE>
+<DIV ALIGN="LEFT" STYLE="PAGE-BREAK-BEFORE:ALWAYS">
+<A HREF="#DOCUMENT_TOP">
+<U>
+<B>
+<FONT SIZE="2">Top of the Form</FONT>
+</B>
+</U>
+</A>
+</DIV>
+<!-- PageBreak END --><!-- Item START -->
+<P ALIGN="LEFT">
+<FONT SIZE="2">
+<B>
+	Item 3.01. Notice of Delisting or Failure to Satisfy a Continued Listing Rule or Standard; Transfer of Listing.
+</B>
+</FONT>
+</P>
+<P ALIGN="LEFT">
+<FONT SIZE="2">
+On December 22, 2004, Analogic Corporation (the "Company") received a letter from the NASDAQ Stock Market indicating that the Company is not in compliance with the NASDAQ requirements for continued listing set forth in Marketplace Rule 4310(c)(14) as a result of the Company&#x2019;s failure to file its Quarterly Report on Form 10-Q for the quarter ended October 31, 2004 with the Securities and Exchange Commission.  The NASDAQ Stock Market also indicated that the NASDAQ Listing Qualifications Panel will consider the Company&#x2019;s failure to file its Quarterly Report on Form 10-Q for the quarter ended October 31, 2004 with the Securities and Exchange Commission in rendering a determination regarding the Company&#x2019;s continued listing on The NASDAQ National Market.  As previously reported in the Company&#x2019;s Current Report on Form 8-K filed November 3, 2004, the Company is not in compliance with the same NASDAQ requirements as a result of the Company&#x2019;s failure to file its Annual Report on Form
+ 10-K for the fiscal year ended July 31, 2004 with the Securities and Exchange Commission.  <br><br>	NASDAQ rules permit the Company to request a hearing with a NASDAQ Listing Qualifications Panel (the "Panel") to appeal NASDAQ&#x2019;s decision to delist the Company&#x2019;s common stock.  The Company has made such an appeal.  As part of the appeal, the Company requested an extension until January 31, 2005 to file both its Annual Report on Form 10-K for fiscal 2004 and its Quarterly Report on Form 10-Q for the quarter ended October 31, 2004.  A hearing on that appeal was held before the Panel on December 9, 2004.  The Panel has not rendered a decision on the Company&#x2019;s appeal.  The Company&#x2019;s common stock will remain listed on the NASDAQ National Market pending the outcome of the Company&#x2019;s appeal.  The Company is working diligently to complete the preparation and audit of its financial statements for the fiscal year ended July 31, 2004 and the quarter ended October 31, 2004 and to file it
+s Annual Report on Form 10-K for the fiscal year ended July 31, 2004 and Quarterly Report on Form 10-Q for the quarter ended October 31, 2004 as promptly as possible.  If the Company&#x2019;s request for an extension until January 31, 2005 is granted, the Company believes that it will be able to complete and file those reports by that date.  However, the Company can provide no assurances that the NASDAQ Listing Qualifications Panel will grant the Company&#x2019;s request for continued listing.  <br><br>	On December 23, 2004, the Company issued a press release, attached to this Current Report on Form 8-K as Exhibit 99.1, reporting that the Company received the letter from the NASDAQ Stock Market described in this Current Report on Form 8-K.
+</FONT>
+</P>
+<!-- Item END -->
+<BR><BR><BR><BR><!-- Item START -->
+<P ALIGN="LEFT">
+<FONT SIZE="2">
+<B>
+	Item 9.01. Financial Statements and Exhibits.
+</B>
+</FONT>
+</P>
+<P ALIGN="LEFT">
+<FONT SIZE="2">
+(c)	Exhibits<br><br>		See Exhibit Index attached hereto.
+</FONT>
+</P>
+<!-- Item END -->
+<BR><BR><BR><BR><P ALIGN="LEFT" STYLE="FONT-SIZE: 10PT"></P><!-- PageBreak START -->
+<P>
+<HR NOSHADE>
+<DIV ALIGN="LEFT" STYLE="PAGE-BREAK-BEFORE:ALWAYS">
+<A HREF="#DOCUMENT_TOP">
+<U>
+<B>
+<FONT SIZE="2">Top of the Form</FONT>
+</B>
+</U>
+</A>
+</DIV>
+<!-- PageBreak END --><!-- SignatureHeader START -->
+<P ALIGN="CENTER">
+<FONT SIZE="2">
+<B>
+	SIGNATURES
+</B>
+</FONT>
+</P>
+<P ALIGN="LEFT">
+<FONT SIZE="2">
+	Pursuant to the requirements of the Securities Exchange Act of 1934, the
+	registrant has duly caused this report to be signed on its behalf by the
+	undersigned hereunto duly authorized.
+</FONT>
+</P>
+<!-- SignatureHeader END --><!-- Signature START -->
+<CENTER>
+<TABLE CELLSPACING="0" BORDER="0" CELLPADDING="0" WIDTH="100%">
+<TR VALIGN="BOTTOM">
+<TD WIDTH="19%">
+	&nbsp;
+</TD>
+<TD WIDTH="34%">
+	&nbsp;
+</TD>
+<TD WIDTH="3%">
+	&nbsp;
+</TD>
+<TD WIDTH="1%">
+	&nbsp;
+</TD>
+<TD WIDTH="43%">
+	&nbsp;
+</TD>
+</TR>
+<TR VALIGN="BOTTOM">
+<TD VALIGN="TOP">
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD>
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD COLSPAN="3" VALIGN="TOP" ALIGN="LEFT">
+<FONT SIZE="2">
+	Analogic Corporation
+</FONT>
+</TD>
+</TR>
+<TR VALIGN="BOTTOM">
+<TD VALIGN="TOP">
+<FONT SIZE="2">
+	&nbsp;&nbsp;
+</FONT>
+</TD>
+<TD>
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD>
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+</TR>
+<TR VALIGN="BOTTOM">
+<TD VALIGN="TOP">
+<FONT SIZE="2">
+<I>
+	December 23, 2004
+</I>
+</FONT>
+</TD>
+<TD>
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<FONT SIZE="2">
+<I>
+	By:
+</I>
+</FONT>
+</TD>
+<TD>
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<FONT SIZE="2">
+<I>
+	/s/ John J. Millerick
+</I>
+<BR>
+</FONT>
+</TD>
+</TR>
+<TR>
+<TD VALIGN="TOP">
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD>
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD>
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<HR SIZE="1" NOSHADE>
+</TD>
+</TR>
+<TR VALIGN="BOTTOM">
+<TD VALIGN="TOP">
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD>
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD>
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<FONT SIZE="2">
+<I>
+	Name: John J. Millerick
+</I>
+</FONT>
+</TD>
+</TR>
+<TR VALIGN="BOTTOM">
+<TD VALIGN="TOP">
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD>
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD>
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<FONT SIZE="2">
+<I>
+	Title: Sr. Vice President, Chief Financial Officer and Treasurer
+</I>
+</FONT>
+</TD>
+</TR>
+</TABLE>
+</CENTER>
+<!-- Signature END --><!-- PageBreak START -->
+<P>
+<HR NOSHADE>
+<DIV ALIGN="LEFT" STYLE="PAGE-BREAK-BEFORE:ALWAYS">
+<A HREF="#DOCUMENT_TOP">
+<U>
+<B>
+<FONT SIZE="2">Top of the Form</FONT>
+</B>
+</U>
+</A>
+</DIV>
+<!-- PageBreak END --><P ALIGN="CENTER">
+<FONT SIZE="2">
+	Exhibit&nbsp;Index
+</FONT>
+<CENTER>
+<TABLE CELLSPACING="0" BORDER="0" CELLPADDING="0" WIDTH="60%">
+<TR VALIGN="BOTTOM">
+<TD WIDTH="8%">
+	&nbsp;
+</TD>
+<TD WIDTH="15%">
+	&nbsp;
+</TD>
+<TD WIDTH="77%">
+	&nbsp;
+</TD>
+</TR>
+
+<BR>
+<TR VALIGN="BOTTOM">
+<TD NOWRAP ALIGN="LEFT">
+<FONT SIZE="1">
+<B>
+	Exhibit No.
+</B>
+</FONT>
+</TD>
+<TD>
+<FONT SIZE="1">
+	&nbsp;
+</FONT>
+</TD>
+<TD NOWRAP ALIGN="LEFT">
+<FONT SIZE="1">
+<B>
+	Description
+</B>
+</FONT>
+</TD>
+</TR>
+<TR VALIGN="BOTTOM">
+<TD NOWRAP ALIGN="CENTER">
+<HR SIZE="1" NOSHADE>
+</TD>
+<TD>
+<FONT SIZE="1">
+	&nbsp;
+</FONT>
+</TD>
+<TD NOWRAP ALIGN="CENTER">
+<HR ALIGN="LEFT" SIZE="1" WIDTH="88%" NOSHADE>
+</TD>
+</TR>
+
+
+
+
+
+<TR VALIGN="BOTTOM">
+<TD VALIGN="TOP" WIDTH="8%" nowrap>
+<FONT SIZE="2">
+<DIV ALIGN="LEFT">
+	99.1
+</DIV>
+</FONT>
+</TD>
+<TD WIDTH="15%">
+<FONT SIZE="2">
+	&nbsp;
+</FONT>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP" WIDTH="77%">
+<FONT SIZE="2">
+Press release dated December 23, 2004
+</FONT>
+</TD>
+</TR></TABLE></CENTER><!-- HTMLFooter START -->
+</BODY>
+</HTML>
+<!-- HTMLFooter END -->
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>exhibit1.htm
+<DESCRIPTION>EX-99.1
+<TEXT>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML>
+<HEAD>
+<TITLE> EX-99.1 </TITLE>
+</HEAD>
+<BODY TEXT="#000000" BGCOLOR="#FFFFFF" ALINK="#0000FF" HLINK="#FF0000" VLINK="#800080">
+
+<BODY style="font-family: 'Times New Roman',Times,serif">
+<!-- <DIV align="center" style="width: 99%; background: black; padding: 1px; height: 100%"> -->
+<!-- <DIV align="center" style="width: 100%; background: white; padding: 5px; height: 100%">  -->
+
+
+<P align="right" style="font-size: 10pt"><FONT style="font-size: 12pt"><B>Exhibit&nbsp;99.1</B></u></FONT>
+
+
+
+<P align="left" style="font-size: 12pt"><B>FOR IMMEDIATE WORLDWIDE RELEASE</B>
+
+
+<P align="left" style="font-size: 12pt">For Further Information, Contact:
+<BR>
+John Millerick
+<BR>
+Senior Vice President &#038; CFO
+<BR>
+(978)&nbsp;977-3000
+
+
+<P align="center" style="font-size: 12pt"><FONT style="font-size: 14pt"><B>Analogic Corporation Receives Expected Notice Relating to Late Filing for Its Form&nbsp;10-Q</B></FONT>
+
+
+
+<P align="left" style="font-size: 14pt"><FONT style="font-size: 12pt">PEABODY, MA (December&nbsp;23, 2004) &#150; Analogic Corporation (NASDAQ: ALOGE), a designer and
+manufacturer of high-precision health and security imaging equipment, announced that, as expected,
+it has received a NASDAQ staff determination letter indicating that Analogic is not in compliance
+with the NASDAQ requirements for continued listing set forth in NASDAQ Marketplace Rule&nbsp;4310(c)(14)
+as a result of its failure to file its Form 10-Q for the quarter ended October&nbsp;31, 2004, with the
+Securities and Exchange Commission (SEC). The NASDAQ Stock Market also indicated that the NASDAQ
+Listing Qualifications Panel will consider the Company&#146;s failure to file its Quarterly Report on
+Form 10-Q for the quarter ended October&nbsp;31, 2004 with the SEC in rendering a determination
+regarding the Company&#146;s continued listing on The NASDAQ National Market.</FONT>
+
+
+<P align="left" style="font-size: 12pt">Analogic has previously reported that, in the course of preparing its Annual Report on Form 10-K
+for the fiscal year ended July&nbsp;31, 2004, Analogic further evaluated certain information leading it
+to question whether appropriate software revenue recognition procedures had been followed in all
+cases by its Camtronics Medical Systems subsidiary, a supplier of advanced cardiac information
+management systems. Analogic has been conducting a review of Camtronics transactions and the
+revenue recognition procedures followed. This review has led to a delay in the completion of
+Analogic&#146;s financial statements for the fiscal year ended July&nbsp;31, 2004 and for the quarter ended
+October&nbsp;31, 2004. Those financial statements have not yet been completed.
+
+
+<P align="left" style="font-size: 12pt">Due to this review and the resultant delay in the completion of its financial statements, Analogic
+did not file its Quarterly Report on Form 10-Q for the quarter ended October&nbsp;31, 2004, by the
+December&nbsp;10, 2004 due date. Analogic has filed a Form&nbsp;12b-25 (Notification of Late Filing) with the
+SEC reporting this filing delinquency.
+
+
+<P align="left" style="font-size: 12pt">Analogic announced on November&nbsp;2, 2004 that it had received a notice from The NASDAQ Stock Market
+that Analogic was not in compliance with the NASDAQ requirements for continued listing as a result
+of its failure to file its Annual Report on Form 10-K for fiscal 2004 with the SEC, and that its
+common stock is therefore subject to delisting from The NASDAQ National Market. As permitted by
+NASDAQ rules, Analogic appealed the decision to delist its common stock; its common stock will
+remain listed on the NASDAQ National Market pending the outcome of that appeal. As part of the
+appeal, Analogic requested an extension until January&nbsp;31, 2005 to file both its Annual Report on
+Form 10-K for fiscal 2004 and its Quarterly Report on Form 10-Q for the quarter ended October&nbsp;31,
+2004. A hearing on that appeal was held before a NASDAQ Listing Qualifications Panel on December&nbsp;9,
+2004, but a decision has not yet been rendered. Analogic can provide no assurances that the NASDAQ
+Listing Qualifications Panel will grant Analogic&#146;s request for the filing extension. Analogic is
+working diligently to complete the preparation of its financial statements for fiscal 2004 and the
+quarter ended October&nbsp;31, 2004 and to file its Annual Report on Form 10-K and Quarterly Report on
+Form 10-Q as promptly as possible. If its request for an extension until January&nbsp;31, 2005 is
+granted, Analogic believes that it will be able to complete and file those reports by that date.
+
+
+<P align="left" style="font-size: 12pt"><FONT style="font-size: 11pt"><I>This press release contains statements regarding future events or circumstances that involve
+risks and uncertainties. Those statements are considered &#147;forward-looking statements&#148; within the
+meaning of the Private Securities Litigation Act of 1995 and are made pursuant to the safe harbor
+provisions of that Act. Investors are cautioned that those forward-looking statements may differ
+materially from actual future events or circumstances as a result of various important factors,
+including those referred to under the heading &#147;Business Environment and Risk Factors&#148; in Analogic&#146;s
+most recent Quarterly Report on </I><I>Form 10-Q</I><I> on file with the SEC, as well as unforeseen issues
+encountered in the completion of Analogic&#146;s review of Camtronics transactions, Analogic&#146;s
+completion of its financial statements for fiscal 2004 and the first quarter of fiscal 2005, and
+PricewaterhouseCoopers&#146; audit of the fiscal 2004 financial statements and review of the quarterly
+financial statements. In addition, the forward-looking statements included in this press release
+represent Analogic&#146;s views as of the date of this press release. Analogic anticipates that
+subsequent events and developments may cause its views to change. However, while Analogic may elect
+to update those forward-looking statements at some point in the future, Analogic specifically
+disclaims any obligation to do so. Those forward-looking statements should not be relied upon as
+representing Analogic&#146;s views as of any date subsequent to the date of this press release.</I></FONT>
+
+
+
+<P align="center" style="font-size: 10pt; display: none">
+
+
+<!-- </DIV> -->
+<!-- </DIV> -->
+</BODY>
+
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

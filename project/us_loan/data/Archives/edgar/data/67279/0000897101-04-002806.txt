@@ -1,0 +1,1317 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ BA6IYyug8ID1k6R/0NGbK4jHiJAzwEvXBeIz0aaxEN7kUXeuPZWiNSAFfdFkCyPk
+ y2V7rREU+lV38Mm8SkBHTA==
+
+<SEC-DOCUMENT>0000897101-04-002806.txt : 20041229
+<SEC-HEADER>0000897101-04-002806.hdr.sgml : 20041229
+<ACCEPTANCE-DATETIME>20041229172524
+ACCESSION NUMBER:		0000897101-04-002806
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		4
+CONFORMED PERIOD OF REPORT:	20041223
+ITEM INFORMATION:		Entry into a Material Definitive Agreement
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20041229
+DATE AS OF CHANGE:		20041229
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			MOCON INC
+		CENTRAL INDEX KEY:			0000067279
+		STANDARD INDUSTRIAL CLASSIFICATION:	MEASURING & CONTROLLING DEVICES, NEC [3829]
+		IRS NUMBER:				410903312
+		STATE OF INCORPORATION:			MN
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-09273
+		FILM NUMBER:		041231972
+
+	BUSINESS ADDRESS:	
+		STREET 1:		7500 BOONE AVE N
+		CITY:			MINNEAPOLIS
+		STATE:			MN
+		ZIP:			55428
+		BUSINESS PHONE:		6124936370
+
+	MAIL ADDRESS:	
+		STREET 1:		7500 BOONE AVE N
+		STREET 2:		7500 BOONE AVE N
+		CITY:			MINNEAPOLIS
+		STATE:			MN
+		ZIP:			55428
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	MODERN CONTROLS INC
+		DATE OF NAME CHANGE:	19920703
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>mocon046097_8k.htm
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>MOCON, Inc. Form 8-K dated December 23, 2004</TITLE></HEAD>
+<BODY>
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center" FSL="Default" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=3><B>UNITED STATES
+<BR>SECURITIES AND EXCHANGE COMMISSION</B> </FONT>
+<BR><FONT FACE="Times New Roman, Times, Serif" SIZE=2><B>Washington, D.C. 20549</B>  </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center" FSL="Default" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>__________________</FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center" FSL="Default" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE="5"><B>FORM 8-K</B> </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center" FSL="Default" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE="3"><B>CURRENT REPORT</B> </FONT> </P>
+
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center" FSL="Default" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934 </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center" FSL="Default" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>__________________</FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center" FSL="Default" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE="2">Date of Report (Date of earliest event reported):
+<BR><B>December 23, 2004</B> </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center" FSL="Default" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>___________________</FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center" FSL="Default" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE="5"><B>MOCON, INC.</B> </FONT>
+<BR><FONT SIZE="2">(Exact name of registrant as specified in its charter) </FONT></P>
+
+<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 ALIGN=Center WIDTH=500>
+<TR VALIGN=Bottom>
+     <TD WIDTH=33% ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>Minnesota</B> </FONT></TD>
+     <TD WIDTH=34% ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>0-9273</B> </FONT></TD>
+     <TD WIDTH=33% ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>41-0903312</B> </FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN="CENTER" VALIGN="TOP"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>(State or Other Jurisdiction of <BR>Incorporation)</FONT></TD>
+     <TD ALIGN="CENTER" VALIGN="TOP"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>(Commission File Number)</FONT></TD>
+     <TD ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>(I.R.S. Employer <BR>Identification Number)</FONT></TD></TR>
+</TABLE>
+
+<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 ALIGN=Center WIDTH=600>
+<TR VALIGN=Bottom>
+     <TD WIDTH=50% ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><BR><B>7500 Boone Avenue North</B> </FONT></TD>
+     <TD WIDTH=50% ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2><BR>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>Minneapolis, MN</B> </FONT></TD>
+     <TD ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>55428</B> </FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>(Address of principal executive offices)</FONT></TD>
+     <TD ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>(Zip Code)</FONT></TD></TR>
+</TABLE>
+<BR>
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center" FSL="Default" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>(763) 493-6370</B>
+<BR>(Registrant&#146;s telephone number, including area code) </FONT> </P>
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center" FSL="Default" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>Not applicable.</B>
+<BR>(Former name or former address, if changed since last report) </FONT> </P>
+
+<!-- MARKER FORMAT-SHEET="Para Default" FSL="Default" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Check the appropriate box
+below if the Form 8-K filing is intended to simultaneously satisfy the filing
+obligation of the registrant under any of the following provisions: </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Hang Level 1" FSL="Default" -->
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0>
+<TR VALIGN=TOP>
+<TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp; </FONT></TD>
+<TD WIDTH=5%><FONT FACE="wingdings" SIZE=2>o </FONT></TD>
+<TD><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp; </FONT></TD>
+<TD WIDTH=90%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)  </FONT></TD>
+</TR>
+</TABLE>
+<BR>
+
+<!-- MARKER FORMAT-SHEET="Para Hang Level 1" FSL="Default" -->
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0>
+<TR VALIGN=TOP>
+<TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp; </FONT></TD>
+<TD WIDTH=5%><FONT FACE="wingdings" SIZE=2>o </FONT></TD>
+<TD><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp; </FONT></TD>
+<TD WIDTH=90%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)  </FONT></TD>
+</TR>
+</TABLE>
+<BR>
+
+<!-- MARKER FORMAT-SHEET="Para Hang Level 1" FSL="Default" -->
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0>
+<TR VALIGN=TOP>
+<TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp; </FONT></TD>
+<TD WIDTH=5%><FONT FACE="wingdings" SIZE=2>o </FONT></TD>
+<TD><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp; </FONT></TD>
+<TD WIDTH=90%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))  </FONT></TD>
+</TR>
+</TABLE>
+<BR>
+
+<!-- MARKER FORMAT-SHEET="Para Hang Level 1" FSL="Default" -->
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0>
+<TR VALIGN=TOP>
+<TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp; </FONT></TD>
+<TD WIDTH=5%><FONT FACE="wingdings" SIZE=2>o </FONT></TD>
+<TD><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp; </FONT></TD>
+<TD WIDTH=90%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))  </FONT></TD>
+</TR>
+</TABLE>
+<BR>
+
+
+<BR><BR><BR>
+<HR SIZE=3 COLOR=GRAY NOSHADE>
+<!-- MARKER PAGE="sheet: 1; page: 1" -->
+<BR>
+
+<!-- MARKER FORMAT-SHEET="Head Major Left Bold" FSL="Default" -->
+<H1 ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=3>Section 1 &#150; Registrant&#146;s Business and Operations </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Head Major Left Bold" FSL="Default" -->
+<H1 ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=3>Item 1.01.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Entry into a Material Definitive Agreement </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Para Indent" FSL="Default" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<I>Option Grants</I>. On
+December 23, 2004, the Board of Directors of MOCON, Inc. approved, upon the recommendation of the Compensation Committee, the
+grant of incentive stock options to purchase that number of shares of MOCON common stock as indicated in the table below to
+MOCON&#146;s executive officers. The options were granted under the MOCON, Inc. 1998 Stock Option Plan and pursuant to the terms
+of stock option agreements between MOCON and each of the executive officers, substantially in the form of Exhibit 99.1 to this
+report, which form is incorporated herein by this reference. The options have an exercise price of $9.175 per share, which
+represents the mean between the reported high and low sale prices of a share of MOCON common stock on the date of grant, as
+reported by the Nasdaq National Market. Each of the options has a ten-year term and is immediately exercisable in full.
+</FONT></P>
+
+<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 ALIGN=Center WIDTH=600>
+<TR>
+     <TD COLSPAN=6><HR NOSHADE COLOR=#000000 SIZE=1></TD></TR>
+<TR VALIGN=Bottom>
+     <TH COLSPAN=1><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Name</FONT></TH><TH></TH>
+     <TH COLSPAN=1><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Title</FONT></TH><TH></TH>
+     <TH COLSPAN=1><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Number of Options</FONT></TH></TR>
+<TR>
+     <TD COLSPAN=6><HR NOSHADE COLOR=#000000 SIZE=1></TD></TR>
+<TR VALIGN=Top>
+     <TD WIDTH=20% ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Robert L. Demorest</FONT></TD>
+     <TD WIDTH=6% ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD WIDTH=58% ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Chairman, President and Chief Executive Officer</FONT></TD>
+     <TD WIDTH=6% ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD WIDTH=8% ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>10,000</FONT></TD>
+        <TD WIDTH=2% ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR>
+     <TD COLSPAN=6><HR NOSHADE COLOR=#000000 SIZE=1></TD></TR>
+<TR VALIGN=Top>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Daniel W. Mayer</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Executive Vice President</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>5,000</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR>
+     <TD COLSPAN=6><HR NOSHADE COLOR=#000000 SIZE=1></TD></TR>
+<TR VALIGN=Top>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Dane D. Anderson</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Vice President and Chief Financial Officer, Treasurer and Secretary</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>5,000</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR>
+     <TD COLSPAN=6><HR NOSHADE COLOR=#000000 SIZE=1></TD></TR>
+<TR VALIGN=Top>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Douglas J. Lindemann</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Vice President and General Manager</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>5,000</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR>
+     <TD COLSPAN=6><HR NOSHADE COLOR=#000000 SIZE=1></TD></TR>
+<TR VALIGN=Top>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Ronald A. Meyer</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Vice President</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>3,500</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR>
+     <TD COLSPAN=6><HR NOSHADE COLOR=#000000 SIZE=1></TD></TR>
+</TABLE>
+<BR>
+
+<!-- MARKER FORMAT-SHEET="Para Indent" FSL="Default" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Board of Directors of
+MOCON also approved on December 23, 2004 the grant of non-statutory stock options to purchase 3,000 shares of MOCON common stock
+to MOCON&#146;s non-employee directors. The options were granted under the MOCON, Inc. 1998 Stock Option Plan and pursuant to the
+terms of stock option agreements between MOCON and each of the non-employee directors, substantially in the form of Exhibit 99.2
+to this report, which form is incorporated herein by this reference. The options have an exercise price of $9.175 per share, which
+represents the mean between the reported high and low sale prices of a share of MOCON common stock on the date of grant, as
+reported by the Nasdaq National Market. Each of the options has a ten-year term and is exercisable commencing on the first anniversary of the date of the grant.
+</FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Indent" FSL="Default" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<I>Fiscal 2005 Base Salaries.
+</I>On December 23, 2004, the Compensation Committee approved base salary increases for MOCON&#146;s executive officers to be
+effective January 1, 2005. The fiscal 2005 base salaries for MOCON&#146;s executive officers, as set forth in the table below,
+represent an increase of five percent for Mr. Demorest, and four percent for each of Messrs. Mayer, Anderson and Lindemann, over
+such individuals&#146; base salaries for 2004. </FONT></P>
+
+
+<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 ALIGN=Center WIDTH=600>
+<TR>
+     <TD COLSPAN=6><HR NOSHADE COLOR=#000000 SIZE=1></TD></TR>
+<TR VALIGN=Bottom>
+     <TH COLSPAN=1><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Name </FONT></TH><TH></TH>
+     <TH COLSPAN=1><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Title </FONT></TH><TH></TH>
+     <TH COLSPAN=1><FONT FACE="Times New Roman, Times, Serif" SIZE=2>2005<BR>Base Salary </FONT></TH></TR>
+<TR>
+     <TD COLSPAN=6><HR NOSHADE COLOR=#000000 SIZE=1></TD></TR>
+<TR VALIGN=Top>
+     <TD WIDTH=20% ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Robert L. Demorest</FONT></TD>
+     <TD WIDTH=6% ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD WIDTH=58% ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Chairman, President and Chief Executive Officer</FONT></TD>
+     <TD WIDTH=6% ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD WIDTH=8% ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>$227,115</FONT></TD>
+        <TD WIDTH=2% ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR>
+     <TD COLSPAN=6><HR NOSHADE COLOR=#000000 SIZE=1></TD></TR>
+<TR VALIGN=Top>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Daniel W. Mayer</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Executive Vice President</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>$173,156</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR>
+     <TD COLSPAN=6><HR NOSHADE COLOR=#000000 SIZE=1></TD></TR>
+<TR VALIGN=Top>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Dane D. Anderson</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Vice President and Chief Financial Officer, Treasurer and Secretary</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>$147,624</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR>
+     <TD COLSPAN=6><HR NOSHADE COLOR=#000000 SIZE=1></TD></TR>
+<TR VALIGN=Top>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Douglas J. Lindemann</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Vice President and General Manager</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>$141,720</FONT></TD>
+        <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR>
+     <TD COLSPAN=6><HR NOSHADE COLOR=#000000 SIZE=1></TD></TR>
+</TABLE>
+<BR>
+
+<!-- MARKER FORMAT-SHEET="Para Indent" FSL="Default" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mr.&nbsp;Meyer&#146;s hourly
+rate will also increase by four percent over his hourly rate for 2004, to $77.02 per hour for 2005. These salary and hourly rate
+increases were set forth in resolutions approved by the Compensation Committee and are not otherwise set forth in any written
+agreements between MOCON and the executive officers. </FONT></P>
+
+<BR><BR><BR>
+<HR SIZE=3 COLOR=GRAY NOSHADE>
+<!-- MARKER PAGE="sheet: 1; page: 1" -->
+<BR>
+
+<!-- MARKER FORMAT-SHEET="Para Indent" FSL="Default" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<I>Fiscal 2005 Incentive Pay
+Plan. </I>In addition to base compensation, MOCON provides its executive officers and other employees a direct financial incentive
+to achieve MOCON&#146;s annual profit goals through the MOCON, Inc. Incentive Pay Plan, which was established pursuant to
+resolutions of the Compensation Committee effective January 1, 2003 and filed as an exhibit to MOCON&#146;s annual report on Form
+10-K for the year ended December 31, 2002. Under the Incentive Pay Plan, annual goals are measured by MOCON&#146;s annual net
+income before income taxes and incentives for Mr. Demorest, Mr.&nbsp;Anderson, Mr. Mayer and Mr. Meyer, who have overall corporate
+responsibilities, and by MOCON&#146;s semi-annual operating profit before incentives, and by semi-annual bookings, by business
+units for Mr.&nbsp;Lindemann, who is in charge of several of MOCON&#146;s business units. The Incentive Pay Plan contemplates that
+each year the Compensation Committee will establish goal amounts for MOCON&#146;s executive officers and will determine the
+percentage of salary at goal for MOCON&#146;s executive officers. On December 23, 2004, the Compensation Committee established
+these goal amounts and determined these percentages. Although the goal amounts are confidential, the 2005 percentages of salary
+at goal range from thirty percent to sixty-five percent of 2005 base salary earned, at goal, with the actual incentive paid based
+on the percentage of goal achieved, up to a maximum of one hundred fifty percent. The fiscal 2005 goals and percentages of salary
+were set forth in resolutions approved by the Compensation Committee and are not otherwise set forth in any written agreements
+between MOCON and the executive officers. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Indent" FSL="Default" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<I>Fiscal 2005 Special
+Performance Related Bonuses. </I>On December 23, 2004, the Compensation Committee decided to establish individual special
+performance related bonus arrangements for Messrs. Demorest, Mayer, Anderson and Lindemann to further motivate these individuals
+to attain certain company-related performance goals in addition to the profitability performance-related goals covered under
+MOCON&#146;s Incentive Pay Plan. While the specific performance goals remain confidential, the bonuses if paid will be in the form
+of an extra week of paid vacation and an all-expense paid trip for two, up to maximum amounts ranging from $7,500 to $10,000. The
+terms of the fiscal 2005 special performance related bonuses were set forth in resolutions approved by the Compensation Committee
+and are not otherwise set forth in any written agreements between MOCON and the executive officers. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Indent" FSL="Default" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<I>Amendment to MOCON, Inc.
+Savings and Retirement Plan</I>. On December 27, 2004, the Board of Directors of MOCON approved an amendment to the MOCON, Inc.
+Savings and Retirement Plan, a defined contribution retirement plan with a cash or deferred arrangement, to add a
+&#147;true-up&#148; provision, effective as of January 1, 2004. MOCON&#146;s matching contributions to employees are made each
+payroll period (based on the employee&#146;s 401(k) contributions and plan compensation for the payroll period). The
+&#147;true-up&#148; matching contributions are determined as of December 31<SUP>st</SUP> of each plan year and are based on the
+employee&#146;s&nbsp;401(k) contributions and plan&nbsp;compensation during the plan year.&nbsp; The purpose of
+the&nbsp;&#147;true-up&#148; provision is to&nbsp;ensure that an employee who may not make 401(k) contributions during the entire
+plan year still receives the maximum matching contributions he or she would be entitled to under the plan&#146;s matching
+contribution formula.&nbsp; To receive a true-up&nbsp;matching contribution for a particular plan year an employee must either:
+(1) be employed with MOCON, Inc. or an&nbsp;affiliated&nbsp;organization on December 31st of such plan year; or (2) have
+terminated employment during such plan year on or after attaining age 65, on account of death or on account of
+becoming&nbsp;disabled. A copy of the plan amendment is attached as Exhibit 99.3 to this report and is incorporated herein by this
+reference. </FONT></P>
+
+
+<BR><BR><BR>
+<HR SIZE=3 COLOR=GRAY NOSHADE>
+<!-- MARKER PAGE="sheet: 1; page: 1" -->
+<BR>
+
+<!-- MARKER FORMAT-SHEET="Head Major Left Bold" FSL="Default" -->
+<H1 ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Section 9 &#150; Financial Statements and Exhibits </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Head Major Left Bold" FSL="Default" -->
+<H1 ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Item 9.01&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Financial Statements and Exhibits. </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Para Hang Level 1" FSL="Default" -->
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0>
+<TR VALIGN=TOP>
+<TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp; </FONT></TD>
+<TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><I>(c)</I> </FONT> </TD>
+<TD><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp; </FONT></TD>
+<TD WIDTH=90%><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><I>Exhibits.</I> </FONT> </TD>
+</TR>
+</TABLE>
+<BR>
+
+
+<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 WIDTH=600 ALIGN=CENTER>
+<TR VALIGN=Bottom>
+     <TD WIDTH=8% ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>Exhibit<br>No.</B> </FONT></TD>
+     <TD WIDTH=6% ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD WIDTH=84% ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>Description</B> </FONT></TD>
+     <TD WIDTH=2% ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR>
+     <TD ALIGN=RIGHT><HR NOSHADE COLOR=#000000 SIZE=1></TD><TD></TD>
+     <TD ALIGN=RIGHT><HR NOSHADE COLOR=#000000 SIZE=1></TD><TD></TD></TR>
+<TR VALIGN=TOP>
+     <TD ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>99.1</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Form of Incentive Stock Option Agreement between MOCON, Inc. and its Executive Officers </FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=TOP>
+     <TD ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>99.2</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Form of Non-Statutory Stock Option Agreement between MOCON, Inc. and its Non-Employee Directors and Executive Officers </FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=TOP>
+     <TD ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>99.3</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Amendment to the MOCON, Inc. Savings and Retirement Plan</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+</TABLE>
+<BR>
+
+<BR><BR><BR>
+<HR SIZE=3 COLOR=GRAY NOSHADE>
+<!-- MARKER PAGE="sheet: 1; page: 1" -->
+<BR>
+
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center" FSL="Default" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>SIGNATURES</FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Indent" FSL="Default" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pursuant to the requirements
+of the Securities Exchange Act of 1934, as amended, the registrant has duly caused this report to be signed on its behalf by the
+undersigned thereunto duly authorized. </FONT></P>
+
+
+<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 WIDTH=90%>
+<TR VALIGN=Bottom>
+     <TH COLSPAN=2><FONT FACE="Times New Roman, Times, Serif" SIZE=2></FONT></TH>
+     <Td COLSPAN=4><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>MOCON, INC.</B> </FONT></Td></TR>
+<TR>
+<TD>&nbsp;</TD></TR>
+<TR VALIGN=Bottom>
+     <TD WIDTH=41% ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Dated:&nbsp;&nbsp;&nbsp;December 29, 2004</FONT></TD>
+     <TD WIDTH=22% ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD WIDTH=4% ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>By:</FONT></TD>
+     <TD WIDTH=1% ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD WIDTH=30% ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>/s/&nbsp;&nbsp;&nbsp;Robert L. Demorest</FONT></TD>
+     <TD WIDTH=2% ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD colspan=2></TD><TD colspan=2></TD><TD ALIGN=LEFT><HR SIZE=1 COLOR=BLACK NOSHADE></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2></FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2></FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Robert L. Demorest</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2></FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2></FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><I>Chairman, President and</I> </FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><I>&nbsp;</I> </FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2></FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2></FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><I>Chief Executive Officer</I> </FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><I>&nbsp;</I> </FONT></TD></TR>
+</TABLE>
+<BR>
+
+<BR><BR><BR>
+<HR SIZE=3 COLOR=GRAY NOSHADE>
+<!-- MARKER PAGE="sheet: 1; page: 1" -->
+<BR>
+
+
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold" FSL="Default" -->
+<H1 ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>MOCON, INC.<BR>
+CURRENT REPORT ON FORM 8-K<BR>
+EXHIBIT INDEX</FONT></H1>
+
+<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 WIDTH=700 align=center>
+<TR VALIGN=Bottom>
+     <TD ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>Exhibit<BR>No.</B> </FONT><HR NOSHADE COLOR=#000000 SIZE=1></TD>
+     <TD WIDTH=8% ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>&nbsp;</B> </FONT></TD>
+     <TD WIDTH=55% ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>Description</B> </FONT><HR NOSHADE COLOR=#000000 SIZE=1></TD>
+     <TD WIDTH=8% ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>&nbsp;</B> </FONT></TD>
+     <TD WIDTH=12% ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>Method of<BR>Filing</B> </FONT><HR NOSHADE COLOR=#000000 SIZE=1></TD>
+     <TD WIDTH=10% ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=TOP>
+     <TD ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>99.1</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Form of Incentive Stock Option Agreement between MOCON, Inc. and its Executive Officers </FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Filed herewith</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=TOP>
+     <TD ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>99.2</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Form of Non-Statutory Stock Option Agreement between MOCON, Inc. and its Non-Employee Directors and Executive Officers </FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Filed herewith</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=TOP>
+     <TD ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>99.3</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Amendment to the MOCON, Inc. Savings and Retirement Plan</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Filed herewith</FONT></TD><TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+</TABLE>
+<BR>
+
+
+
+<BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR>
+<HR SIZE=3 COLOR=GRAY NOSHADE>
+
+
+
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>mocon046097_ex99-1.txt
+<TEXT>
+
+
+                                                                    EXHIBIT 99.1
+
+                    FORM OF INCENTIVE STOCK OPTION AGREEMENT
+
+         THIS AGREEMENT is entered into and effective as of this ____ day of
+____________, ____ (the "Date of Grant"), by and between MOCON, Inc. (the
+"Company") and __________________ (the "Optionee").
+
+         A. The Company has adopted the MOCON, Inc. 1998 Stock Option Plan (the
+"Plan") authorizing the Board of Directors of the Company, or a committee as
+provided for in the Plan (the Board or such a committee to be referred to as the
+"Committee"), to grant incentive stock options to employees of the Company and
+its Subsidiaries (as defined in the Plan).
+
+         B. The Company desires to give the Optionee an inducement to acquire a
+proprietary interest in the Company and an added incentive to advance the
+interests of the Company by granting to the Optionee an option to purchase
+shares of common stock of the Company pursuant to the Plan.
+
+         Accordingly, the parties agree as follows:
+
+1.       Grant of Option.
+
+         The Company hereby grants to the Optionee the right, privilege, and
+option (the "Option") to purchase ___________________ (_______) shares (the
+"Option Shares") of the Company's common stock, $0.10 par value (the "Common
+Stock"), according to the terms and subject to the conditions hereinafter set
+forth and as set forth in the Plan. Subject to Section 10 of this Agreement, the
+Option is intended to be an "incentive stock option," as that term is used in
+Section 422 of the Internal Revenue Code of 1986, as amended (the "Code").
+
+2.       Option Exercise Price.
+
+         The per share price to be paid by Optionee in the event of an exercise
+of the Option will be $___.
+
+3.       Duration of Option and Time of Exercise.
+
+         3.1 Initial Period of Exercisability. The Option will become
+exercisable immediately with respect to the Option Shares. The following table
+sets forth the date of exercisability and the number of Option Shares available:
+
+                Exercisability                     Available for Exercise
+                --------------                     ----------------------
+
+
+                -------------, ----                        --------
+
+         In no event will this Option be exercisable after, and this Option will
+         become void and expire as to all unexercised Option Shares at 5:00 p.m.
+         Minneapolis, Minnesota time on _____________, ____ (the "Time of
+         Termination").
+
+         3.2      Termination of Employment.
+
+                  (a) Termination Due to Death, Disability or Retirement. In the
+         event the Optionee's employment with the Company and all Subsidiaries
+         is terminated by reason of death, Disability
+
+
+<PAGE>
+
+         or Retirement, this Option will remain exercisable, to the extent
+         exercisable as of the date of such termination, for a period of one
+         year after such termination (but in no event after the Time of
+         Termination).
+
+                  (b) Termination for Reasons Other Than Death, Disability or
+         Retirement. In the event that the Optionee's employment with the
+         Company and all Subsidiaries is terminated for any reason other than
+         death, Disability or Retirement, or the Optionee is in the employ of a
+         Subsidiary and the Subsidiary ceases to be a Subsidiary of the Company
+         (unless the Optionee continues in the employ of the Company or another
+         Subsidiary), all rights of the Optionee under the Plan and this
+         Agreement will immediately terminate without notice of any kind, and
+         this Option will no longer be exercisable; provided, however, that if
+         such termination is due to any reason other than termination by the
+         Company or any Subsidiary for "cause" (as defined in the Plan), this
+         Option will remain exercisable to the extent exercisable as of such
+         termination for a period of three months after such termination (but in
+         no event after the Time of Termination).
+
+         3.3      Change in Control.
+
+                  (a) Impact of Change in Control. If a Change in Control (as
+         defined in the Plan) of the Company occurs, this Option will become
+         immediately exercisable in full and will remain exercisable until the
+         Time of Termination, regardless of whether the Optionee remains in the
+         employ of the Company or any Subsidiary. In addition, if a Change in
+         Control of the Company occurs, the Committee, in its sole discretion
+         and without the consent of the Optionee, may determine that the
+         Optionee will receive, with respect to some or all of the Option
+         Shares, as of the effective date of any such Change in Control of the
+         Company, cash in an amount equal to the excess of the Fair Market Value
+         (as defined in the Plan) of such Option Shares immediately prior to the
+         effective date of such Change in Control of the Company over the option
+         exercise price per share of this Option.
+
+                  (b) Limitation on Change in Control Payments. Notwithstanding
+         anything in this Section 3.3 to the contrary, if, with respect to the
+         Optionee, acceleration of the vesting of this Option or the payment of
+         cash in exchange for all or part of the Option Shares as provided above
+         (which acceleration or payment could be deemed a "payment" within the
+         meaning of Section 280G(b)(2) of the Code), together with any other
+         payments which the Optionee has the right to receive from the Company
+         or any corporation which is a member of an "affiliated group" (as
+         defined in Section 1504(a) of the Code without regard to Section
+         1504(b) of the Code) of which the Company is a member, would constitute
+         a "parachute payment" (as defined in Section 280G(b)(2) of the Code),
+         the payments to the Optionee as set forth herein will be reduced to the
+         largest amount as will result in no portion of such payments being
+         subject to the excise tax imposed by Section 4999 of the Code;
+         provided, however, that if the Optionee is subject to a separate
+         agreement with the Company or a Subsidiary that expressly addresses the
+         potential application of Sections 280G or 4999 of the Code (including,
+         without limitation, that "payments" under such agreement or otherwise
+         will be reduced, that the Optionee will have the discretion to
+         determine which "payments" will be reduced, that such "payments" will
+         not be reduced or that such "payments" will be "grossed up" for tax
+         purposes), then this Section 3.3(b) will not apply, and any "payments"
+         to the Optionee pursuant to Section 3.3(a) of this Agreement will be
+         treated as "payments" arising under such separate agreement.
+
+4.       Manner of Option Exercise.
+
+         4.1 Notice. This Option may be exercised by the Optionee in whole or in
+part from time to time, subject to the conditions contained in the Plan and in
+this Agreement, by delivery, in person, by
+
+<PAGE>
+
+facsimile or electronic transmission or through the mail, to the Company at its
+principal executive office in Minneapolis, Minnesota (Attention: Dane D.
+Anderson), of a written notice of exercise. Such notice must be in a form
+satisfactory to the Committee, must identify the Option, must specify the number
+of Option Shares with respect to which the Option is being exercised, and must
+be signed by the person or persons so exercising the Option. Such notice must be
+accompanied by payment in full of the total purchase price of the Option Shares
+purchased. In the event that the Option is being exercised, as provided by the
+Plan and Section 3.2 above, by any person or persons other than the Optionee,
+the notice must be accompanied by appropriate proof of right of such person or
+persons to exercise the Option. As soon as practicable after the effective
+exercise of the Option, the Optionee will be recorded on the stock transfer
+books of the Company as the owner of the Option Shares purchased, and the
+Company will deliver to the Optionee one or more duly issued stock certificates
+evidencing such ownership.
+
+         4.2 Payment. At the time of exercise of this Option, the Optionee must
+pay the total purchase price of the Option Shares to be purchased entirely in
+cash (including a check, bank draft or money order, payable to the order of the
+Company); provided, however, that the Committee, in its sole discretion, may
+allow such payment to be made, in whole or in part, by tender of a promissory
+note (on terms acceptable to the Committee in its sole discretion) or a Broker
+Exercise Notice or Previously Acquired Shares (as such terms are defined in the
+Plan), or by a combination of such methods. In the event the Optionee is
+permitted to pay the total purchase price of this Option in whole or in part
+with Previously Acquired Shares, the value of such shares will be equal to their
+Fair Market Value on the date of exercise of this Option.
+
+5.       Rights of Optionee; Transferability.
+
+         5.1 Employment. Nothing in this Agreement will interfere with or limit
+in any way the right of the Company or any Subsidiary to terminate the
+employment of the Optionee at any time, nor confer upon the Optionee any right
+to continue in the employ of the Company or any Subsidiary at any particular
+position or rate of pay or for any particular period of time.
+
+         5.2 Rights as a Shareholder. The Optionee will have no rights as a
+shareholder unless and until all conditions to the effective exercise of this
+Option (including, without limitation, the conditions set forth in Sections 4
+and 6 of this Agreement) have been satisfied and the Optionee has become the
+holder of record of such shares. No adjustment will be made for dividends or
+distributions with respect to this Option as to which there is a record date
+preceding the date the Optionee becomes the holder of record of such shares,
+except as may otherwise be provided in the Plan or determined by the Committee
+in its sole discretion.
+
+         5.3 Restrictions on Transfer. Except pursuant to testamentary will or
+the laws of descent and distribution or as otherwise expressly permitted by the
+Plan, no right or interest of the Optionee in this Option prior to exercise may
+be assigned or transferred, or subjected to any lien, during the lifetime of the
+Optionee, either voluntarily or involuntarily, directly or indirectly, by
+operation of law or otherwise. The Optionee will, however, be entitled to
+designate a beneficiary to receive this Option upon such Optionee's death, and,
+in the event of the Optionee's death, exercise of this Option (to the extent
+permitted pursuant to Section 3.2(a) of this Agreement) may be made by the
+Optionee's legal representatives, heirs and legatees.
+
+         5.4 Breach of Confidentiality or Non-Compete Agreements.
+Notwithstanding anything in this Agreement or the Plan to the contrary, in the
+event that the Optionee materially breaches the terms of any confidentiality or
+non-compete agreement entered into with the Company or any
+
+<PAGE>
+
+Subsidiary, whether such breach occurs before or after termination of the
+Optionee's employment with the Company or any Subsidiary, the Committee in its
+sole discretion may immediately terminate all rights of the Optionee under the
+Plan and this Agreement without notice of any kind.
+
+6.       Withholding Taxes.
+
+         The Company is entitled to (a) withhold and deduct from future wages of
+the Optionee (or from other amounts that may be due and owing to the Optionee
+from the Company), or make other arrangements for the collection of, all legally
+required amounts necessary to satisfy any federal, state or local withholding
+and employment-related tax requirements attributable to the Option, including,
+without limitation, the grant or exercise of this Option or a disqualifying
+disposition of any Option Shares, or (b) require the Optionee promptly to remit
+the amount of such withholding to the Company before acting on the Optionee's
+notice of exercise of this Option. In the event that the Company is unable to
+withhold such amounts, for whatever reason, the Optionee agrees to pay to the
+Company an amount equal to the amount the Company would otherwise be required to
+withhold under federal, state or local law.
+
+7.       Adjustments.
+
+         In the event of any reorganization, merger, consolidation,
+recapitalization, liquidation, reclassification, stock dividend, stock split,
+combination of shares, rights offering, divestiture or extraordinary dividend
+(including a spin-off), or any other change in the corporate structure or shares
+of the Company, the Committee (or, if the Company is not the surviving
+corporation in any such transaction, the board of directors of the surviving
+corporation), in order to prevent dilution or enlargement of the rights of the
+Optionee, will make appropriate adjustment (which determination will be
+conclusive) as to the number and kind of securities or other property (including
+cash) subject to, and the exercise price of, this Option.
+
+8.       Subject to Plan.
+
+         The Option and the Option Shares granted and issued pursuant to this
+Agreement have been granted and issued under, and are subject to the terms of,
+the Plan. The terms of the Plan are incorporated by reference in this Agreement
+in their entirety, and the Optionee, by execution of this Agreement,
+acknowledges having received a copy of the Plan. The provisions of this
+Agreement will be interpreted as to be consistent with the Plan, and any
+ambiguities in this Agreement will be interpreted by reference to the Plan. In
+the event that any provision of this Agreement is inconsistent with the terms of
+the Plan, the terms of the Plan will prevail.
+
+9.       Incentive Stock Option Limitations.
+
+         9.1 Limitation on Amount. To the extent that the aggregate Fair Market
+Value (determined as of the date of grant) of the shares of Common Stock with
+respect to which incentive stock options (within the meaning of Section 422 of
+the Code) are exercisable for the first time by the Optionee during any calendar
+year (under the Plan and any other incentive stock option plans of the Company
+or any subsidiary or parent corporation of the Company (within the meaning of
+the Code)) exceeds $100,000 (or such other amount as may be prescribed by the
+Code from time to time), such excess incentive stock options will be treated as
+non-statutory stock options in the manner set forth in the Plan.
+
+         9.2 Limitation on Exercisability; Disposition of Option Shares. Any
+incentive stock option that remains unexercised more than one year following
+termination of employment by reason of death or disability or more than three
+months following termination for any reason other than death or Disability will
+thereafter be deemed to be a non-statutory stock option. In addition, in the
+event that a disposition (as defined in Section 424(c) of the Code) of shares of
+Common Stock acquired pursuant to the exercise
+
+<PAGE>
+
+of an incentive stock option occurs prior to the expiration of two years after
+its date of grant or the expiration of one year after its date of exercise (a
+"disqualifying disposition"), such incentive stock option will, to the extent of
+such disqualifying disposition, be treated in a manner similar to a
+non-statutory stock option.
+
+         9.3 No Representation or Warranty. Section 422 of the Code and the
+rules and regulations thereunder are complex, and neither the Plan nor this
+Agreement purports to summarize or otherwise set forth all of the conditions
+that need to be satisfied in order for this Option to qualify as an incentive
+stock option. In addition, this Option may contain terms and conditions that
+allow for exercise of this Option beyond the periods permitted by Section 422 of
+the Code, including, without limitation, the periods described in Section 9.2 of
+this Agreement. Accordingly, the Company makes no representation or warranty
+regarding whether the exercise of this Option will qualify as the exercise of an
+incentive stock option, and the Company recommends that the Optionee consult
+with the Optionee's own advisors before making any determination regarding the
+exercise of this Option or the sale of the Option Shares.
+
+10.      Miscellaneous.
+
+         10.1 Binding Effect. This Agreement will be binding upon the heirs,
+executors, administrators and successors of the parties to this Agreement.
+
+         10.2 Governing Law. This Agreement and all rights and obligations under
+this Agreement will be construed in accordance with the Plan and governed by the
+laws of the State of Minnesota, without regard to conflicts of laws provisions.
+Any legal proceeding related to this Agreement will be brought in an appropriate
+Minnesota court, and the parties to this Agreement consent to the exclusive
+jurisdiction of the court for this purpose.
+
+         10.3 Entire Agreement. This Agreement and the Plan set forth the entire
+agreement and understanding of the parties to this Agreement with respect to the
+grant and exercise of this Option and the administration of the Plan and
+supersede all prior agreements, arrangements, plans and understandings relating
+to the grant and exercise of this Option and the administration of the Plan.
+
+         10.4 Amendment and Waiver. Other than as provided in the Plan, this
+Agreement may be amended, waived, modified or canceled only by a written
+instrument executed by the parties to this Agreement or, in the case of a
+waiver, by the party waiving compliance.
+
+         The parties to this Agreement have executed this Agreement effective
+the day and year first above written.
+
+                                           MOCON, INC.
+
+                                           By
+                                             ----------------------------------
+
+                                           Its
+                                              ---------------------------------
+
+<PAGE>
+
+By execution of this Agreement,            OPTIONEE
+the Optionee acknowledges having
+received a copy of the Plan.
+                                           ------------------------------------
+                                             (Signature)
+
+                                           ------------------------------------
+                                             (Name and Address)
+
+                                           ------------------------------------
+
+
+                                           ------------------------------------
+
+
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.2
+<SEQUENCE>3
+<FILENAME>mocon046097_ex99-2.txt
+<TEXT>
+
+
+                                                                    EXHIBIT 99.2
+
+                  FORM OF NON-STATUTORY STOCK OPTION AGREEMENT
+
+         THIS AGREEMENT is entered into and effective as of this ____ day of
+__________, ____ (the "Date of Grant"), by and between MOCON, Inc. (the
+"Company") and ______________ (the "Optionee").
+
+         A. The Company has adopted the MOCON, Inc. 1998 Stock Option Plan (the
+"Plan") authorizing the Board of Directors of the Company, or a committee as
+provided for in the Plan (the Board or such a committee to be referred to as the
+"Committee"), to grant non-statutory stock options to non-employees directors of
+the Company and its Subsidiaries (as defined in the Plan).
+
+         B. The Company desires to give the Optionee an inducement to acquire a
+proprietary interest in the Company and an added incentive to advance the
+interests of the Company by granting to the Optionee an option to purchase
+shares of common stock of the Company pursuant to the Plan.
+
+         Accordingly, the parties agree as follows:
+
+1.       Grant of Option.
+
+         The Company hereby grants to the Optionee the right, privilege, and
+option (the "Option") to purchase ___________ (_______) shares (the "Option
+Shares") of the Company's common stock, $0.10 par value (the "Common Stock"),
+according to the terms and subject to the conditions hereinafter set forth and
+as set forth in the Plan. The Option is not intended to be an "incentive stock
+option," as that term is used in Section 422 of the Internal Revenue Code of
+1986, as amended (the "Code").
+
+2.       Option Exercise Price.
+
+         The per share price to be paid by Optionee in the event of an exercise
+of the Option will be $____.
+
+3.       Duration of Option and Time of Exercise.
+
+         3.1 Initial Period of Exercisability. The Option will become
+exercisable with respect to the Option Shares in ______ installment(s). The
+following table sets forth the initial date of exercisability of such
+installment(s) and the number of Option Shares as to which this Option will
+become exercisable on such date:
+
+                    Date of                       Number of Option Shares
+                Exercisability                    Available for Exercise
+                --------------                    ----------------------
+
+           ---------------------                       -----------
+
+The foregoing rights to exercise this Option will be cumulative with respect to
+the Option Shares becoming exercisable on each such date, but in no event will
+this Option be exercisable after, and this Option will become void and expire as
+to all unexercised Option Shares at 5:00 p.m. Minneapolis, Minnesota time on
+_________________, _____ (the "Time of Termination").
+
+
+<PAGE>
+
+         3.2      Termination of Service.
+
+         In the event that the Optionee ceases to serve as a director of the
+company for any reason, then from and after the date of such cessation of
+service this Option will not further vest but will remain exercisable until the
+Time of Termination with respect to any Option Shares as to which this Option is
+exercisable as of the date of cessation of service.
+
+         3.3      Change in Control.
+
+                  (a) Impact of Change in Control. If a Change in Control (as
+         defined in the Plan) of the Company occurs, this Option will become
+         immediately exercisable in full and will remain exercisable until the
+         Time of Termination, regardless of whether the Optionee remains in the
+         employ or service of the Company or any Subsidiary. In addition, if a
+         Change in Control of the Company occurs, the Committee, in its sole
+         discretion and without the consent of the Optionee, may determine that
+         the Optionee will receive, with respect to some or all of the Option
+         Shares, as of the effective date of any such Change in Control of the
+         Company, cash in an amount equal to the excess of the Fair Market Value
+         (as defined in the Plan) of such Option Shares immediately prior to the
+         effective date of such Change in Control of the Company over the option
+         exercise price per share of this Option.
+
+                  (b) Limitation on Change in Control Payments. Notwithstanding
+         anything in this Section 3.3 to the contrary, if, with respect to the
+         Optionee, acceleration of the vesting of this Option or the payment of
+         cash in exchange for all or part of the Option Shares as provided above
+         (which acceleration or payment could be deemed a "payment" within the
+         meaning of Section 280G(b)(2) of the Code), together with any other
+         payments which the Optionee has the right to receive from the Company
+         or any corporation which is a member of an "affiliated group" (as
+         defined in Section 1504(a) of the Code without regard to Section
+         1504(b) of the Code) of which the Company is a member, would constitute
+         a "parachute payment" (as defined in Section 280G(b)(2) of the Code),
+         the payments to the Optionee as set forth herein will be reduced to the
+         largest amount as will result in no portion of such payments being
+         subject to the excise tax imposed by Section 4999 of the Code;
+         provided, however, that if the Optionee is subject to a separate
+         agreement with the Company or a Subsidiary that expressly addresses the
+         potential application of Sections 280G or 4999 of the Code (including,
+         without limitation, that "payments" under such agreement or otherwise
+         will be reduced, that the Optionee will have the discretion to
+         determine which "payments" will be reduced, that such "payments" will
+         not be reduced or that such "payments" will be "grossed up" for tax
+         purposes), then this Section 3.3(b) will not apply, and any "payments"
+         to the Optionee pursuant to Section 3.3(a) of this Agreement will be
+         treated as "payments" arising under such separate agreement.
+
+4.       Manner of Option Exercise.
+
+         4.1 Notice. This Option may be exercised by the Optionee in whole or in
+part from time to time, subject to the conditions contained in the Plan and in
+this Agreement, by delivery, in person, by facsimile or electronic transmission
+or through the mail, to the Company at its principal executive office in
+Minneapolis, Minnesota (Attention: Chief Financial Officer), of a written notice
+of exercise. Such notice must be in a form satisfactory to the Committee, must
+identify the Option, must specify the number of Option Shares with respect to
+which the Option is being exercised, and must be signed by the person or persons
+so exercising the Option. Such notice must be accompanied by payment in full of
+the total purchase price of the Option Shares purchased. In the event that the
+Option is being exercised, as provided by the Plan and Section 3.2 above, by any
+person or persons other than the Optionee, the notice must be accompanied by
+appropriate proof of right of such person or persons to exercise the Option. As
+
+<PAGE>
+
+soon as practicable after the effective exercise of the Option, the Optionee
+will be recorded on the stock transfer books of the Company as the owner of the
+Option Shares purchased, and the Company will deliver to the Optionee one or
+more duly issued stock certificates evidencing such ownership.
+
+         4.2 Payment. At the time of exercise of this Option, the Optionee must
+pay the total purchase price of the Option Shares to be purchased entirely in
+cash (including a check, bank draft or money order, payable to the order of the
+Company); provided, however, that the Committee, in its sole discretion, may
+allow such payment to be made, in whole or in part, by tender of a promissory
+note (on terms acceptable to the Committee in its sole discretion) or a Broker
+Exercise Notice or Previously Acquired Shares (as such terms are defined in the
+Plan), or by a combination of such methods. In the event the Optionee is
+permitted to pay the total purchase price of this Option in whole or in part
+with Previously Acquired Shares, the value of such shares will be equal to their
+Fair Market Value on the date of exercise of this Option.
+
+5.       Rights of Optionee.
+
+         5.1 Service. Nothing in this Agreement will interfere with or limit in
+any way the right of the Company or any Subsidiary to terminate the services of
+the Optionee at any time.
+
+         5.2 Rights as a Shareholder. The Optionee will have no rights as a
+shareholder unless and until all conditions to the effective exercise of this
+Option (including, without limitation, the conditions set forth in Sections 4
+and 6 of this Agreement) have been satisfied and the Optionee has become the
+holder of record of such shares. No adjustment will be made for dividends or
+distributions with respect to this Option as to which there is a record date
+preceding the date the Optionee becomes the holder of record of such shares,
+except as may otherwise be provided in the Plan or determined by the Committee
+in its sole discretion.
+
+         5.3 Restrictions on Transfer. Except pursuant to testamentary will or
+the laws of descent and distribution or as otherwise expressly permitted by the
+Plan, no right or interest of the Optionee in this Option prior to exercise may
+be assigned or transferred, or subjected to any lien, during the lifetime of the
+Optionee, either voluntarily or involuntarily, directly or indirectly, by
+operation of law or otherwise. Any attempt to transfer or encumber this Option
+or the Option Shares other than in accordance with this Agreement and the Plan
+will be null and void and will void this Option.
+
+         5.4 Breach of Confidentiality or Non-Compete Agreements.
+Notwithstanding anything in this Agreement or the Plan to the contrary, in the
+event that the Optionee materially breaches the terms of any confidentiality or
+non-compete agreement entered into with the Company or any Subsidiary, whether
+such breach occurs before or after termination of the Optionee's employment with
+the Company or any Subsidiary, the Committee in its sole discretion may
+immediately terminate all rights of the Optionee under the Plan and this
+Agreement without notice of any kind.
+
+6.       Withholding Taxes.
+
+         The Company is entitled to (a) withhold and deduct from future wages of
+the Optionee (or from other amounts that may be due and owing to the Optionee
+from the Company), or make other arrangements for the collection of, all legally
+required amounts necessary to satisfy any federal, state or local withholding
+and employment-related tax requirements attributable to the Option, including,
+without limitation, the grant or exercise of this Option or a disqualifying
+disposition of any Option Shares, or (b) require the Optionee promptly to remit
+the amount of such withholding to the Company before acting on the Optionee's
+notice of exercise of this Option. In the event that the Company is unable to
+withhold
+
+<PAGE>
+
+such amounts, for whatever reason, the Optionee agrees to pay to the Company an
+amount equal to the amount the Company would otherwise be required to withhold
+under federal, state or local law.
+
+7.       Adjustments.
+
+         In the event of any reorganization, merger, consolidation,
+recapitalization, liquidation, reclassification, stock dividend, stock split,
+combination of shares, rights offering, divestiture or extraordinary dividend
+(including a spin-off), or any other change in the corporate structure or shares
+of the Company, the Committee (or, if the Company is not the surviving
+corporation in any such transaction, the board of directors of the surviving
+corporation), in order to prevent dilution or enlargement of the rights of the
+Optionee, will make appropriate adjustment (which determination will be
+conclusive) as to the number and kind of securities or other property (including
+cash) subject to, and the exercise price of, this Option.
+
+8.       Subject to Plan.
+
+         The Option and the Option Shares granted and issued pursuant to this
+Agreement have been granted and issued under, and are subject to the terms of,
+the Plan. The terms of the Plan are incorporated by reference in this Agreement
+in their entirety, and the Optionee, by execution of this Agreement,
+acknowledges having received a copy of the Plan. The provisions of this
+Agreement will be interpreted as to be consistent with the Plan, and any
+ambiguities in this Agreement will be interpreted by reference to the Plan. In
+the event that any provision of this Agreement is inconsistent with the terms of
+the Plan, the terms of the Plan will prevail.
+
+9.       Miscellaneous.
+
+         9.1 Binding Effect. This Agreement will be binding upon the heirs,
+executors, administrators and successors of the parties to this Agreement.
+
+         9.2 Governing Law. This Agreement and all rights and obligations under
+this Agreement will be construed in accordance with the Plan and governed by the
+laws of the State of Minnesota, without regard to conflicts of laws provisions.
+Any legal proceeding related to this Agreement will be brought in an appropriate
+Minnesota court, and the parties to this Agreement consent to the exclusive
+jurisdiction of the court for this purpose.
+
+         9.3 Entire Agreement. This Agreement and the Plan set forth the entire
+agreement and understanding of the parties to this Agreement with respect to the
+grant and exercise of this Option and the administration of the Plan and
+supersede all prior agreements, arrangements, plans and understandings relating
+to the grant and exercise of this Option and the administration of the Plan.
+
+         9.4 Amendment and Waiver. Other than as provided in the Plan, this
+Agreement may be amended, waived, modified or canceled only by a written
+instrument executed by the parties to this Agreement or, in the case of a
+waiver, by the party waiving compliance.
+
+
+<PAGE>
+
+         The parties to this Agreement have executed this Agreement effective
+the day and year first above written.
+
+                                           MOCON, INC.
+
+                                           By
+                                             ----------------------------------
+
+                                           Its
+                                              ---------------------------------
+
+
+By execution of this Agreement,            OPTIONEE
+the Optionee acknowledges having
+received a copy of the Plan.
+                                           ------------------------------------
+                                             (Signature)
+
+                                           ------------------------------------
+                                             (Name and Address)
+
+                                           ------------------------------------
+
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.3
+<SEQUENCE>4
+<FILENAME>mocon046097_ex99-3.txt
+<TEXT>
+
+
+                                                                    EXHIBIT 99.3
+
+                                AMENDMENT TO THE
+                     MOCON, INC. SAVINGS AND RETIREMENT PLAN
+
+         Pursuant to Sections 15.5 and 16.1 of the MOCON, Inc. Savings and
+Retirement Plan (the "Plan"), MOCON, Inc., the Lead Employer, amends Section
+I.8.a of the Plan, effective January 1, 2004 as set forth below:
+
+================================================================================
+I.        EMPLOYER REGULAR MATCHING COMPONENT
+================================================================================
+
+<TABLE>
+<S>                              <C> <C>        <C>                                <C>                <C>
+- ------------------------------- I.8. Employer Regular Matching Contributions will be ... [CHECK ONE]:
+MATCHING FORMULA:
+[PLAN SEC. 5.2(A) OR (B)]
+
+         Fixed Contributions    a.   [X]    determined under the following schedule ... [COMPLETE SCHEDULE AND
+         - based on                         THE ITEMS THAT FOLLOW]:
+         Percentage of Match
+         Eligible
+         Contributions to
+         Plan Compensation
+
+                                                     THE EMPLOYER REGULAR                           OF THE MATCH
+                                                           MATCHING                                   ELIGIBLE
+                                                     CONTRIBUTION WILL BE:                         CONTRIBUTIONS*:
+                                                     ---------------------                         ---------------
+
+                                                               A                                          B
+         Optional:
+         - Profits                            ------------------------------------ ------------ ----------------------
+           Contingency
+                                           1       25  %                           of the first          6   %
+         - Discretionary                         ------                                                ------
+           Contributions                   2           %     [LESS THAN 1A%]       of the next:              %
+                                                 ------                                                ------
+                                           3           %     [LESS THAN 2A%]       of the next:              %
+                                                 ------                                                ------
+                                           4           %     [LESS THAN 3A%]       of the next:              %
+                                                 ------                                                ------
+                                           5           %     [LESS THAN 4A%]       of the next:              %
+                                                 ------                                                ------
+
+                                                 *OF MATCH ELIGIBLE CONTRIBUTIONS (EXPRESSED AS A PERCENTAGE OF PLAN
+                                                 COMPENSATION) FOR PAYROLL PERIODS ENDING WITHIN THE MATCHING
+                                                 CONTRIBUTION PERIOD.
+
+                                           1.   The Match Eligible Contributions are the ... [CHECK EACH THAT APPLIES]:
+
+                                                a.  [X] Employee Pre-Tax Contributions (except as provided in F.14.).
+                                                b.  [ ] Employee After-Tax Contributions. ... [CHECK IF APPLICABLE]:
+
+                                                        1.  [ ]  except that the Employer Regular Matching
+                                                                 Contributions made on Employee After-Tax
+                                                                 Contributions will be a discretionary amount
+                                                                 determined by the Lead Employer. [NOTE: THE LEAD
+                                                                 EMPLOYER MAY SPECIFY IN A WRITTEN ACTION TAKEN
+                                                                 PRIOR TO THE FIRST DAY OF THE PLAN YEAR THAT THE
+                                                                 EMPLOYER REGULAR MATCHING CONTRIBUTIONS WILL BE
+                                                                 MADE ON EMPLOYEE AFTER-TAX CONTRIBUTIONS IN
+                                                                 ACCORDANCE WITH A SCHEDULE THAT CONFORMS WITH A
+                                                                 SCHEDULE IN A., B. OR C. OTHERWISE, THE EMPLOYER
+                                                                 REGULAR MATCHING CONTRIBUTIONS MADE FOR A PLAN YEAR
+                                                                 ON EMPLOYEE AFTER-TAX CONTRIBUTIONS WILL BE
+                                                                 ALLOCATED IN PROPORTION OF THE EMPLOYEE AFTER-TAX
+                                                                 CONTRIBUTIONS FOR PAYROLL PERIODS ENDING WITHIN THE
+                                                                 PLAN YEAR.]
+</TABLE>
+
+<PAGE>
+
+<TABLE>
+<S>                              <C> <C>        <C>                                <C>                <C>
+
+                                           2.   The Matching Contribution Period is ... [CHECK ONE]:
+
+                                                a.  [ ] each Plan Year.
+                                                b.  [X] each payroll period.
+                                                c.  [ ] each month.
+                                                d.  [ ] each quarter of each Plan Year.
+                                                e.  [ ] each half of each Plan Year.
+                                                f.  [ ] other [SPECIFY]: _____. [NOTE: SPECIFY A PERIOD LONGER THAN A PLAN
+                                                        YEAR.]
+
+                                                [NOTE:  EMPLOYER  REGULAR MATCHING  CONTRIBUTIONS  WILL BE CALCULATED
+                                                BASED ON THE MATCH ELIGIBLE CONTRIBUTIONS AND PLAN COMPENSATION FOR
+                                                EACH MATCHING CONTRIBUTION PERIOD -"TRUE-UP" CONTRIBUTIONS MAY BE
+                                                ELECTED UNDER 3.]
+
+                                                [NOTE: EMPLOYER REGULAR MATCHING CONTRIBUTIONS SHOULD NOT BE DEPOSITED OR
+                                                ALLOCATED UNTIL THE END OF THE MATCHING CONTRIBUTION PERIOD.]
+
+                                           3.   The Employer Regular Matching Contributions will be calculated separately
+                                                for each Matching Contribution Period and ... [CHECK ONE]:
+
+                                                a.  [ ] N/A - the Matching Contribution Period is the Plan Year.
+                                                b.  [ ] "true-up" contributions will not be made.
+                                                c.  [X] then will be recalculated based on the Match Eligible Contributions
+                                                        and Plan Compensation for the Plan Year, and "true-up" contributions
+                                                        will be made accordingly, with respect to each eligible Participant
+                                                        described in I.7 ... [CHECK IF APPLICABLE]:
+
+                                                        1.  [X]  who is an Employee on the last day of the Plan Year. However,
+                                                                 this requirement does not apply if the Participant's
+                                                                 Termination of Service occurred during the Plan Year because
+                                                                 he/she ... [CHECK EACH THAT APPLIES]:
+
+                                                                 1. [X] died.
+                                                                 2. [X] became Disabled.
+                                                                 3. [X] retired after ... [CHECK EACH THAT APPLIES]:
+
+                                                                            a.  [X] Normal Retirement Age.
+                                                                            b.  [ ] Early Retirement Age.
+                                                                            c.  [ ] age [SPECIFY]: _____.
+
+                                           4.   The Employer Regular Matching Contribution is ... [CHECK ONE]: [NOTE: IF
+                                                EMPLOYER REGULAR MATCHING CONTRIBUTIONS ARE CONTINGENT ON NET PROFITS, THE
+                                                MATCHING CONTRIBUTION PERIOD MUST BE THE PLAN YEAR AND THE CONTRIBUTIONS
+                                                SHOULD NOT BE DEPOSITED OR ALLOCATED UNTIL AFTER THE END OF THE PLAN YEAR.]
+
+                                                a.  [X] not contingent on Net Profits.
+                                                b.  [ ] contingent on ... [CHECK ONE]:
+
+                                                        1.  [ ]  current (for the fiscal year ending with or within the
+                                                                 Plan Year)
+                                                        2.  [ ]  accumulated
+
+                                                        ... Net Profits of the Participating Employers, determined under ...
+                                                        [CHECK ONE]:
+
+                                                        3.  [ ]  GAAP [ ] before [ ] after the payment of discretionary
+                                                                 bonuses.
+
+                                                        4.  [ ]  other [SPECIFY]: _____.
+
+                                           5.   The Lead Employer may direct that an additional Employer Regular Matching
+                                                Contribution be made for a Plan Year which, if made, will be allocated in
+                                                proportion to the ... [CHECK ONE]:
+</TABLE>
+<PAGE>
+
+<TABLE>
+<S>                              <C> <C>        <C>                                <C>                <C>
+
+                                                a.  [X] N/A - such contributions will not be made.
+                                                b.  [ ] Employer Regular Matching Contributions received under the above
+                                                        schedule for the Plan Year. The allocation will be made among all
+                                                        eligible Participants described in I.7 ... [CHECK IF APPLICABLE]:
+
+                                                        1.  [ ]  who are Non-Highly Compensated Employees.
+
+                                                c.  [ ] Match Eligible Contributions of each eligible Participant that do
+                                                        not exceed ___% of his/her Plan Compensation for the Plan Year. The
+                                                        allocation will be made among all eligible Participants described in
+                                                        I.7 ... [CHECK IF APPLICABLE]:
+
+                                                        1.  [ ]  who are Non-Highly Compensated Employees.
+</TABLE>
+
+         IN WITNESS WHEREOF, the undersigned has caused this instrument to be
+executed this 27th day of December 2004 on behalf of the Lead Employer.
+
+                                           MOCON, INC.
+
+                                           By   /s/ Dane Anderson
+                                                --------------------------------
+                                                Dane Anderson
+
+                                           Its: Vice President
+                                                --------------------------------
+
+
+
+
+
+
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

@@ -1,0 +1,1448 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ ItVLuijFapluBmhQw0c4Ws3NpGTrJatCGTG/DkknOfjZaQR4Sh1Uwa3oO6nPFeD/
+ xHT7veAbf5XCZYvEtRAqFA==
+
+<SEC-DOCUMENT>0000940397-04-000240.txt : 20041221
+<SEC-HEADER>0000940397-04-000240.hdr.sgml : 20041221
+<ACCEPTANCE-DATETIME>20041220181641
+ACCESSION NUMBER:		0000940397-04-000240
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		7
+CONFORMED PERIOD OF REPORT:	20041215
+ITEM INFORMATION:		Entry into a Material Definitive Agreement
+ITEM INFORMATION:		Departure of Directors or Principal Officers; Election of Directors; Appointment of Principal Officers
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20041221
+DATE AS OF CHANGE:		20041220
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SYPRIS SOLUTIONS INC
+		CENTRAL INDEX KEY:			0000864240
+		STANDARD INDUSTRIAL CLASSIFICATION:	INDUSTRIAL INSTRUMENTS FOR MEASUREMENT, DISPLAY, AND CONTROL [3823]
+		IRS NUMBER:				611321992
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-24020
+		FILM NUMBER:		041215330
+
+	BUSINESS ADDRESS:	
+		STREET 1:		101 BULLITT LN
+		STREET 2:		STE 450
+		CITY:			LOUISVILLE
+		STATE:			KY
+		ZIP:			40222
+		BUSINESS PHONE:		5023292000
+
+	MAIL ADDRESS:	
+		STREET 1:		101 BULLITT LN
+		STREET 2:		STE 450
+		CITY:			LOUISVILLE
+		STATE:			KY
+		ZIP:			40222
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	GROUP TECHNOLOGIES CORP
+		DATE OF NAME CHANGE:	19940314
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>syp8k122104.htm
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY>
+
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2><b>UNITED STATES<BR>
+SECURITIES AND EXCHANGE COMMISSION<BR>Washington, D.C. 20549</b></font></p>
+
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=4><b>FORM 8-K</b></FONT></p>
+
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=3><b>CURRENT REPORT<BR>
+Pursuant to Section 13 OR 15(d) of The Securities Exchange Act of 1934</b></font></p>
+
+<br>
+
+<p><FONT FACE="Times New Roman, Times, Serif" SIZE="2">Date of Report (Date of earliest
+event reported) <u>&nbsp;&nbsp;&nbsp;&nbsp;<b>December 15, 2004</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u></font></p>
+
+<TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0">
+<TR VALIGN="BOTTOM">
+     <TH><FONT FACE="Times New Roman, Times, Serif" SIZE="2"></FONT></TH></TR>
+<TR VALIGN="TOP">
+     <TD ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><b>Sypris Solutions, Inc.</b></FONT></TD></TR>
+<TR VALIGN="TOP">
+     <TD><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><b><u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u></b><BR></FONT></TD></TR>
+<TR VALIGN="TOP">
+     <TD ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE="2">(Exact name of registrant as specified in its charter)</FONT></TD></TR>
+</table>
+
+
+<TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0">
+<TR VALIGN="BOTTOM">
+     <TH><FONT FACE="Times New Roman, Times, Serif" SIZE="2"></FONT></TH>
+     <TH><FONT FACE="Times New Roman, Times, Serif" SIZE="2"></FONT></TH>
+     <TH><FONT FACE="Times New Roman, Times, Serif" SIZE="2"></FONT></TH></TR>
+<TR VALIGN="TOP">
+     <TD WIDTH="34%"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp;</FONT></TD>
+     <TD WIDTH="33%"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp;</FONT></TD>
+     <TD WIDTH="33%"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp;</FONT></TD></TR>
+<TR VALIGN="TOP">
+     <TD ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>Delaware</B></FONT></TD>
+     <TD ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>0-24020</B></FONT></TD>
+     <TD ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>61-1321992</B></FONT></TD></TR>
+<TR VALIGN="TOP">
+     <TD colspan=3><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u></FONT></TD>
+     </TR>
+<TR VALIGN="TOP">
+     <TD ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE="2">(State or other jurisdiction<br>of incorporation)</FONT></TD>
+     <TD ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE="2">(Commission<br>File Number)</FONT></TD>
+     <TD ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE="2">(IRS Employer<br>Identification No.)</FONT></TD></TR>
+<TR VALIGN="TOP">
+     <TD><FONT FACE="Times New Roman, Times, Serif" SIZE="2"></FONT></TD>
+     <TD><FONT FACE="Times New Roman, Times, Serif" SIZE="2"></FONT></TD>
+     <TD><FONT FACE="Times New Roman, Times, Serif" SIZE="2"></FONT></TD></TR>
+</TABLE>
+
+
+<TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0">
+<TR VALIGN="BOTTOM">
+     <TH><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp;</FONT></TH>
+     <TH><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp;</FONT></TH></TR>
+<TR VALIGN="TOP">
+     <TD ALIGN=CENTER WIDTH="75%"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>101 Bullitt Lane, Suite 450, Louisville, Kentucky</b></FONT></TD>
+     <TD ALIGN=CENTER WIDTH="25%"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><b>40222</b></FONT></TD></TR>
+<TR VALIGN="TOP">
+     <TD COLSPAN=2><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u></FONT></TD></TR>
+<TR VALIGN="TOP">
+     <TD ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE="2">(Address of principal executive offices)</FONT></TD>
+     <TD ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE="2">(Zip Code)</FONT></TD></TR>
+<TR VALIGN="TOP">
+     <TD><FONT FACE="Times New Roman, Times, Serif" SIZE="2"></FONT></TD>
+     <TD><FONT FACE="Times New Roman, Times, Serif" SIZE="2"></FONT></TD></TR>
+</TABLE>
+
+<br>
+<p><FONT FACE="Times New Roman, Times, Serif" SIZE="2">Registrant's telephone number, including area code <u>
+&nbsp;&nbsp;&nbsp;&nbsp;<b>502/329-2000</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</u></font></p>
+
+
+<TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0">
+<TR VALIGN="BOTTOM">
+     <TH><FONT FACE="Times New Roman, Times, Serif" SIZE="2"></FONT></TH></TR>
+<TR VALIGN="TOP">
+     <TD ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>N/A</b></FONT></TD></TR>
+<TR VALIGN="TOP">
+     <TD WIDTH="100%"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u></FONT></TD></TR>
+<TR VALIGN="TOP">
+     <TD ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE="2">(Former name or former address, if changed since last report)</FONT></TD></TR>
+</TABLE>
+
+<p align=justify><FONT FACE="Times New Roman, Times, Serif" SIZE="2">Check the appropriate box below if the Form 8-K filing is intended
+to simultaneously satisfy the filing obligations of the registrant under any of the following provisions (see
+General Instruction A.2. below):</font></p>
+
+<p ALIGN=JUSTIFY><FONT FACE="Times New Roman, Times, Serif" SIZE="2">[&nbsp;&nbsp;] Written communications pursuant to Rule 425 under the Securities Act (17 CFR
+230.425)</font></p>
+
+<p ALIGN=JUSTIFY><FONT FACE="Times New Roman, Times, Serif" SIZE="2">[&nbsp;&nbsp;] Soliciting material pursuant to Rule 14a-12 under the Exchange
+Act (17 CFR 240.14a-12)</font></p>
+
+<p ALIGN=JUSTIFY><FONT FACE="Times New Roman, Times, Serif" SIZE="2">[&nbsp;&nbsp;] Pre-commencement communications pursuant to Rule 14d-2(b)
+under the Exchange Act (17 CFR 240.14d-2(b))</font></p>
+
+<p ALIGN=JUSTIFY><FONT FACE="Times New Roman, Times, Serif" SIZE="2">[&nbsp;&nbsp;] Pre-commencement communications pursuant to Rule 13e-4(c)
+under the Exchange Act (17 CFR 240.13e-4(c))</font></p>
+
+
+
+
+
+
+<!-- *************************************************************************** -->
+<!-- MARKER PAGE="sheet: 4; page: 4" -->
+<HR SIZE=5 COLOR=GRAY NOSHADE>
+
+
+<!-- MARKER FORMAT-SHEET="Head Major Left Bold" FSL="Default" -->
+<A NAME=A002></A>
+<H1 ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Item 1.01&nbsp;&nbsp;&nbsp;Entry into a
+Material Definitive Agreement. </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Para Indent" FSL="Default" -->
+<P align=justify><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On
+December 15, 2004, the Board of Directors of Sypris Solutions, Inc. (the
+&#147;Company&#148;) authorized and approved an amendment to the Sypris Solutions, Inc.
+Directors Compensation Program, adopted on September 1, 1995 and Amended and Restated on
+February 24, 2004 (as amended, the &#147;Program&#148;), solely for the purpose of
+substituting the 2004 Sypris Equity Plan for the Company&#146;s Independent
+Directors&#146; Stock Option Plan, now expired. The 2004 Sypris Equity Plan was previously
+adopted and filed as an exhibit to the Company&#146;s registration statement on Form S-8
+filed April 29, 2004. Under the Program, non-employee directors may be compensated in the
+form of options to purchase common stock of the Company pursuant to the terms of the
+Program and the terms of the 2004 Sypris Equity Plan. Under the Program, each non-employee
+director receives an annual retainer of $19,000, a fee of $1,450 for attending each
+meeting of the Board of Directors ($300 if attendance was by phone), a fee of $1,400 for
+acting in the capacity of Chairman for each Committee meeting ($300 if attendance was by
+phone) and a fee of $1,000 for other non-employee directors attending each Committee
+meeting ($300 if attendance was by phone). Non-employee directors may elect to receive
+their annual retainer and meeting fees in the form of stock options. The number of stock
+options is determined by dividing the annual retainer and fee amount, as applicable, by
+33% of the fair market value of common stock on the date of grant. Non-employee directors
+also receive initial (up to 10,000 shares) and annual (up to 4,500 shares) grants of stock
+options for each elected term as a director. Directors who are employees of the Company or
+its affiliates are not eligible to receive compensation for services as a director. The
+Program and the form of non-qualified stock option award agreement for grants to
+non-employee directors are attached hereto as Exhibits 10.1 and 10.2, respectively, and
+are incorporated by reference herein. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Indent" FSL="Default" -->
+<P align=justify><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The
+forms of non-qualified stock option award agreement and form of performance-based stock
+option award agreement for grants to executive officers and other key employees are
+attached hereto as Exhibits 10.3 and 10.4, respectively, and are incorporated by reference
+herein. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Flush" FSL="Default" -->
+<P align=justify><FONT FACE="Times New Roman, Times, Serif" SIZE=2><B>Item 5.02&nbsp;&nbsp;&nbsp;Departure of Directors
+or Principal Officers; Election of Directors; Appointment of Principal Officers.</B> </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Flush" FSL="Default" -->
+     <P align=justify><FONT FACE="Times New Roman, Times, Serif" SIZE=2>(d)&nbsp;&nbsp;&nbsp;&nbsp;
+          On December 15, 2004, William G. Ferko was elected as
+          a Class III member of the Company&#146;s Board of Directors, effective January
+          1, 2005. Mr. Ferko is the Vice President and Chief Financial Officer of Genlyte Group, Incorporated.
+          There is no arrangement or understanding pursuant to which Mr. Ferko was selected as a
+          director, and the Company has no related party transactions with Mr. Ferko. The
+          Board of Directors has determined that Mr. Ferko will be a member of the Audit
+          and Finance Committee and a member of the Nominating and Governance Committee. </FONT></P>
+
+<P align=justify><FONT FACE="Times New Roman, Times, Serif" SIZE=2>A copy of the press release announcing Mr. Ferko's election
+is attached as Exhibit 99.1 to this Form 8-K and is incorporated by reference herein.</FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Major Left Bold" FSL="Default" -->
+<A NAME=A003></A>
+<H1 ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Item 9.01&nbsp;&nbsp;&nbsp;Financial
+Statements and Exhibits. </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Head Left" FSL="Default" -->
+<A NAME=A004></A>
+<P ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>(c)&nbsp;&nbsp;&nbsp;Exhibits </FONT></P>
+
+<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 WIDTH=100%>
+<TR VALIGN=Bottom>
+     <TH><FONT FACE="Times New Roman, Times, Serif" SIZE=2></FONT></TH>
+     <TH><FONT FACE="Times New Roman, Times, Serif" SIZE=2></FONT></TH></TR>
+<TR VALIGN=Bottom>
+     <TD WIDTH=10% ALIGN=left><FONT FACE="Times New Roman, Times, Serif" SIZE=2><b><u>Exhibit</u></b></FONT></TD>
+     <TD WIDTH=90% ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2><b><u>Description</u></b></FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=left><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=left><FONT FACE="Times New Roman, Times, Serif" SIZE=2>10.1</FONT></TD>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Sypris Solutions, Inc. Directors Compensation Program.</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=left><FONT FACE="Times New Roman, Times, Serif" SIZE=2>10.2</FONT></TD>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Form of non-qualified stock option award agreement for non-employee directors.</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=left><FONT FACE="Times New Roman, Times, Serif" SIZE=2>10.3</FONT></TD>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Form of non-qualified stock option award agreement for grants to executive officers and other key employees</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=left><FONT FACE="Times New Roman, Times, Serif" SIZE=2>10.4</FONT></TD>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Form of performance-based stock option award agreement for grants to executive officers and other key employees.</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=left><FONT FACE="Times New Roman, Times, Serif" SIZE=2>99.1</FONT></TD>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Press Release issued December 17, 2004.</FONT></TD></TR>
+</TABLE>
+
+
+
+
+
+<!-- *************************************************************************** -->
+<!-- MARKER PAGE="sheet: 5; page: 5" -->
+<HR SIZE=5 COLOR=GRAY NOSHADE>
+
+<H1 ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>SIGNATURES </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Para Indent" FSL="Default" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pursuant
+to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused
+this report to be signed on its behalf by the undersigned hereunto duly authorized. </FONT></P>
+
+
+<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" width=100%>
+<TR VALIGN="BOTTOM">
+     <TH><FONT FACE="Times New Roman, Times, Serif" SIZE="2"></FONT></TH>
+     <TH><FONT FACE="Times New Roman, Times, Serif" SIZE="2"></FONT></TH></TR>
+<TR VALIGN="TOP">
+     <TD width=40%><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp;</FONT></TD>
+     <TD width=60%><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>SYPRIS SOLUTIONS, INC.<BR><BR></b></FONT></TD></TR>
+<TR VALIGN="TOP">
+     <TD><FONT FACE="Times New Roman, Times, Serif" SIZE="2">December 20, 2004</FONT></TD>
+     <TD><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><u>&nbsp;&nbsp;/s/ John R. McGeeney&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u><br>
+John R. McGeeney<br>Secretary/General Counsel</FONT></TD></TR>
+<TR VALIGN="TOP">
+     <TD><FONT FACE="Times New Roman, Times, Serif" SIZE="2"></FONT></TD>
+     <TD><FONT FACE="Times New Roman, Times, Serif" SIZE="2"></FONT></TD></TR>
+</TABLE>
+
+
+
+
+
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10
+<SEQUENCE>2
+<FILENAME>syp8k122104ex101.htm
+<DESCRIPTION>EXH. 10.1 DIRECTORS COMP PROGRAM
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY>
+
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold" FSL="Default" -->
+
+<H1 ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>SYPRIS SOLUTIONS, INC.<br>DIRECTORS COMPENSATION
+PROGRAM<br>ADOPTED ON SEPTEMBER 1, 1995 </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold" FSL="Default" -->
+
+<H1 ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>AMENDED AND RESTATED ON
+FEBRUARY 24, 2004<br>(AND AS AMENDED DECEMBER 15, 2004) </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold 1" FSL="Default" -->
+
+<H1 ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Description of the
+Program </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Indent" FSL="Default" -->
+     <P align=justify><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;<B><I>Name.</I></B>&nbsp;&nbsp;&nbsp;
+          The name of this benefit program shall be the &#147;Directors Compensation Program.&#148; </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Indent" FSL="Default" -->
+     <P align=justify><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;<B><I>Purpose.</I></B>&nbsp;&nbsp;&nbsp;
+          The purpose of the Directors Compensation Program is to enable
+          Sypris Solutions, Inc. (the &#147;Company&#148;) to attract, retain and motivate
+          experienced directors by providing compensation that is competitive with
+          compensation offered to directors of other similarly-situated public
+          corporations in the United States. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Indent" FSL="Default" -->
+<P align=justify><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;<B><I>Eligibility
+and Participation</I></B>.&nbsp;&nbsp;&nbsp;Only &#147;Eligible Directors,&#148; defined as those
+members of the Board of Directors of the Company (the &#147;Board&#148;) who are not
+otherwise employed by the Company, its subsidiaries or any affiliate of the Company in any
+other capacity, are eligible to participate in the Directors Compensation Program. Any
+Eligible Director on the Board as of September&nbsp;1, 1995 (the &#147;Effective
+Date&#148;) and thereafter shall be eligible for compensation under the Directors
+Compensation Program. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Indent" FSL="Default" -->
+     <P align=justify><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;<B><I>Compensation.</I></B>&nbsp;&nbsp;&nbsp;
+          Eligible Directors shall be compensated as set forth below: </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Indent" FSL="Default" -->
+     <P align=justify><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(a)&nbsp;&nbsp;&nbsp;
+          <I>Initial Election Grants and Annual Grants of Stock Options.</I>&nbsp;&nbsp;The Company
+          shall grant each Eligible Director a nonqualified stock option for the purchase
+          of: (i) up to 10,000 shares of the Company&#146;s common stock, $.01 par value
+          (the &#147;Common Stock&#148;) at the time the Eligible Director is initially
+          elected to serve on the Board (the &#147;Initial Election Grant&#148;); and (ii)
+          up to 4,500 shares of the Company&#146;s Common Stock at each annual
+          stockholders&#146; meeting thereafter (the &#147;Annual Grant&#148;), so long as
+          a Director is continuing to serve as a Director on the date of said annual
+          stockholders&#146; meeting. In the event that an Eligible Director is initially
+          elected to the Board at a time other than the date of the Company&#146;s annual
+          stockholders&#146; meeting, he or she shall receive an Annual Grant at the
+          subsequent annual stockholders&#146; meeting for a pro rated number of shares to
+          be determined by multiplying 4,500 by a fraction, the numerator of which shall
+          be the number of full months which have elapsed since the date of the
+          Director&#146;s initial election and the next annual stockholders&#146; meeting
+          and the denominator of which shall be 12. All such stock options shall be
+          granted by the Company to the Eligible Directors pursuant to the Company&#146;s
+          2004 Equity Plan (the &#147;Equity Plan&#148;).
+          Each of the options shall be: (i) granted on the dates each of the respective
+          Eligible Directors is initially elected and on the date of each annual
+          stockholders&#146; meeting; (ii) priced at the fair market value of the
+          Company&#146;s common stock, as determined in accordance with the Equity Plan,
+          on the respective date of grant; (iii) immediately exercisable
+          by each of the Eligible Directors on the respective dates of grant; and (iv)
+          subject to the terms and conditions of the Equity Plan and any other terms and
+          conditions which, in accordance with the Equity Plan, are specified in the
+          applicable Stock Option Agreement entered into by and between the Company and
+          each of the Eligible Directors. </FONT></P>
+
+
+<p align=center><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Page 1 of 4</font></p>
+
+<!-- MARKER PAGE="sheet: 1; page: 1" -->
+<HR SIZE=5 COLOR=GRAY NOSHADE>
+
+
+<!-- MARKER FORMAT-SHEET="Head Sub 2 Left" FSL="Default" -->
+<A NAME=A006></A>
+<P ALIGN=justify><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(b)&nbsp;&nbsp;&nbsp;
+<I>Annual Retainer.</I> </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Indent" FSL="Default" -->
+     <P align=justify><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<I>(i)&nbsp;&nbsp;&nbsp;Amount.</I>&nbsp;&nbsp;Each Eligible Director shall receive an annual retainer in the
+          amount of $19,000 (the &#147;Annual Retainer&#148;). In the event that an
+          Eligible Director is initially elected to the Board at a time other than the
+          date of the Company&#146;s annual stockholders&#146; meeting, he or she shall
+          receive a prorated Annual Retainer (the &#147;Prorated Annual Retainer&#148;)
+          the amount of which is to be determined by multiplying $19,000 by a fraction,
+          the numerator of which shall be the number of full months which have elapsed
+          since the date of the Director&#146;s initial election to the Board and the next
+          annual stockholders&#146; meeting and the denominator of which shall be 12. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Indent" FSL="Default" -->
+     <P align=justify><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<I>(ii)&nbsp;&nbsp;&nbsp;Payment.</I>&nbsp;&nbsp;The Annual Retainer or the Prorated Annual Retainer, as applicable,
+          shall be earned by the Eligible Directors and paid by the Company in equal
+          quarterly installments for each Eligible Director. The quarterly installments of
+          the Annual Retainer or Prorated Annual Retainer shall be payable, together with
+          any attendance fees (defined below), in arrears by checks issued to each
+          Eligible Director no later than the 15th calendar day following the end of each
+          of the Company&#146;s fiscal quarters during which the respective Eligible
+          Director served on the Board. Alternatively, pursuant to Paragraph (d) below,
+          each Eligible Director may elect to receive his or her Annual Retainer or
+          Prorated Annual Retainer, together with any attendance fees, in the form of
+          nonqualified stock options in lieu of cash. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Sub 2 Left" FSL="Default" -->
+<A NAME=A007></A>
+<P ALIGN=justify><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(c)&nbsp;&nbsp;&nbsp;
+<I>Attendance Fees.</I> </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Indent" FSL="Default" -->
+     <P align=justify><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<I>(i)&nbsp;&nbsp;&nbsp;Board Meetings.</I>&nbsp;&nbsp;Each Eligible Director shall receive the sum of $1,450 for
+          each meeting of the Board he or she attends in person or, alternatively, the sum
+          of $300 for each meeting of the Board in which he or she participates by
+          telephone (collectively, the &#147;Board Meeting Attendance Fees&#148;). For
+          purposes of the Directors Compensation Program, &#147;attendance&#148; shall not
+          include execution of an action by written consent of the Board. Board Meeting
+          Attendance Fees earned by each Eligible Director during a fiscal quarter shall
+          be payable, together with the quarterly installment of the Annual Retainer or
+          Prorated Annual Retainer, by a check issued no later than the 15th calendar day
+          following the end of the fiscal quarter. Alternatively, pursuant to Paragraph
+          (d) below, each Eligible Director may elect to receive his or her Board Meeting
+          Attendance Fees in the form of nonqualified stock options in lieu of cash. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Indent" FSL="Default" -->
+     <P align=justify><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<I>(ii)&nbsp;&nbsp;&nbsp;Committee Meetings.</I>&nbsp;&nbsp;Eligible Directors are entitled to compensation for
+          attending or participating in meetings of committees of the Board. Each Eligible
+          Director who attends a committee meeting in person and serves as the chairperson
+          of the meeting shall receive the sum of $1,400 per meeting, and each of the
+          other Eligible Directors who attend such a committee meeting in person shall
+          receive the sum of $1,000 per meeting. Alternatively, each Eligible Director
+          who, as the chairperson or as a committee member, participates by telephone in
+          committee meetings of the Board shall receive the sum of $300 per meeting. (All
+          of the aforementioned fees in this subparagraph shall hereafter be collectively
+          referred to as the &#147;Committee Meeting Attendance Fees&#148;). For purposes
+          of the Directors Compensation Program, &#147;attendance&#148; shall not include
+          execution of an action by written consent for any committee. Committee Meeting
+          Attendance Fees earned by each Eligible Director during a fiscal quarter shall
+          be payable, together with the Annual Retainer or Prorated Annual Retainer and
+          the Board Meeting Attendance Fees, by a check issued to the Eligible Director no
+          later than the 15th calendar day following the end of the fiscal quarter.
+          Alternatively, pursuant to Paragraph (d) below, each Eligible Director may elect
+          to receive his or her Committee Meeting Attendance Fees in the form of
+          nonqualified stock options in lieu of cash. </FONT></P>
+
+<br>
+<p align=center><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Page 2 of 4</font></p>
+
+
+
+<!-- *************************************************************************** -->
+<!-- MARKER PAGE="sheet: 2; page: 2" -->
+<HR SIZE=5 COLOR=GRAY NOSHADE>
+
+
+<!-- MARKER FORMAT-SHEET="Para (List) Indent" FSL="Default" -->
+     <P align=justify><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(d)&nbsp;&nbsp;&nbsp;
+          <I>Form of Payment.</I>&nbsp;&nbsp;Each Eligible Director may elect to receive his or her
+          Annual Retainer or Prorated Annual Retainer, Board Meeting Attendance Fees and
+          Committee Meeting Attendance Fees in the form of nonqualified stock options in
+          lieu of cash. The election to receive stock options in lieu of cash must be made
+          by the Eligible Director before each January 1 and shall apply to the sum of the
+          Annual Retainer, Prorated Annual Retainer, Board Meeting Attendance Fees and
+          Committee Meeting Attendance Fees (collectively, the &#147;Fees&#148;) earned
+          during the following calendar year. Eligible Directors initially elected to the
+          Board other than at an annual stockholders&#146; meeting shall make the election
+          no later than 10 calendar days after being elected to the Board and such
+          election shall apply to Fees earned during the remainder of such calendar year.
+          An Eligible Director who fails to make a timely election for the first calendar
+          year such director is eligible to make an election shall be deemed to have
+          elected to receive Fees in cash. An Eligible Director who fails to make an
+          election for any subsequent calendar year shall be deemed to have made the same
+          election such director made for the immediately preceding calendar year. Such
+          elections, including deemed elections, shall be irrevocable for the calendar
+          year for which made. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Large Indent" FSL="Default" -->
+<P align=justify><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Any
+stock options issued to an Eligible Director in lieu of cash compensation shall be granted
+to the respective Eligible Director pursuant to the Equity Plan on a quarterly basis, with
+each grant to be made on the first day following the end of each of the Company&#146;s
+fiscal quarters (the &#147;Date of Grant&#148;). The number of shares to be granted under
+such options shall be determined by dividing the total of the quarterly installment of the
+Annual Retainer or Prorated Annual Retainer, as applicable, plus any Board Meeting
+Attendance Fees and any Committee Meeting Attendance Fees earned by the respective
+Eligible Director during the previous fiscal quarter by 33% of the fair market value of
+the Company&#146;s Common Stock, as determined in accordance with the
+Equity Plan, on the Date of Grant. The options shall be: (i) priced at the fair market
+value of the Company&#146;s Common Stock, as determined in accordance with
+the Equity Plan, on the Date of Grant; (ii) immediately exercisable by each of the
+Eligible Directors on the respective date of grant; and (iii) subject to the terms and
+conditions of the Equity Plan and any other terms and conditions which, in accordance with
+the Equity Plan, are specified in the applicable Stock Option Agreement entered into by
+and between the Company and each of the Eligible Directors. </FONT></P>
+
+<P align=justify><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;<B><I>Expense Reimbursement.</I></B>&nbsp;&nbsp;
+Each Eligible Director shall be reimbursed for travel and other expenses incurred in
+the performance of his or her duties.</font></p>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Indent" FSL="Default" -->
+<P align=justify><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;<B><I>Administration</I></B>.&nbsp;&nbsp;&nbsp;
+          The Directors Compensation Program is administered by the Compensation Committee
+          of the Board. The Committee members are selected by the Board and have no
+          specific term of office. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Indent" FSL="Default" -->
+<P align=justify><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;<B><I>Resignation
+from the Board of Directors</I></B>.&nbsp;&nbsp;The resignation of any Eligible Director shall
+cause such director to be ineligible to receive any amount of the Annual Retainer or
+Prorated Annual Retainer installments not yet paid to him or her as of the date of
+resignation. Any attendance fees which have been earned by the Eligible Director in
+accordance with Paragraph (c) above prior to the date of resignation shall be paid in the
+same form and according to the same timetables described in Paragraph (c) above. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Indent" FSL="Default" -->
+<P align=justify><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;<B><I>Program
+Termination or Modification</I></B>.&nbsp;&nbsp;The Compensation Committee shall review the
+Directors Compensation Program on at least an annual basis and may make changes,
+alterations or modifications to the program which are deemed to be in the Company&#146;s
+best interest. Any change, alteration or modification shall be made by a written
+instrument consented to by the Board. The Board may similarly </font></p>
+
+
+<P align=center><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Page 3 of 4</font></p>
+
+
+
+
+
+<!-- *************************************************************************** -->
+<!-- MARKER PAGE="sheet: 3; page: 3" -->
+<HR SIZE=5 COLOR=GRAY NOSHADE>
+
+
+
+<P align=justify><FONT FACE="Times New Roman, Times, Serif" SIZE=2>terminate the Directors
+Compensation Program at any time if, in the judgment of the Board, such termination is in
+the Company&#146;s best interest. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Indent" FSL="Default" -->
+<P align=justify><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IN
+WITNESS WHEREOF, the Company has caused this Directors Compensation Program to be executed
+in its name and on its behalf on December 15, 2004. </FONT></P>
+
+
+
+<TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0">
+<TR VALIGN="BOTTOM">
+     <TH><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp;</FONT></TH>
+     <TH><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp;</FONT></TH></TR>
+<TR VALIGN="TOP">
+     <TD WIDTH="50%"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp;</FONT></TD>
+     <TD WIDTH="50%"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>SYPRIS SOLUTIONS, INC.</B></FONT></TD></TR>
+<TR VALIGN="TOP">
+     <TD><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp;<BR><br></FONT></TD>
+     <TD><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp;<BR><br></FONT></TD></TR>
+<TR VALIGN="TOP">
+     <TD><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp;</FONT></TD>
+     <TD><FONT FACE="Times New Roman, Times, Serif" SIZE="2">By:<u>&nbsp;&nbsp;/s/ Jeffrey T. Gill&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jeffrey T. Gill<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;President and CEO</FONT></TD></TR>
+</TABLE>
+
+<br><br><br><br>
+
+<P align=center><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Page 4 of 4</font></p>
+
+
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10
+<SEQUENCE>3
+<FILENAME>syp8k122104ex102.htm
+<DESCRIPTION>10.2 NON-QUALIFIED STOCK OPTION DIRECTOR
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY>
+<br>
+<IMG SRC="sypris2.jpg" align=right>
+<br><br><br><br>
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold 1" FSL="Default" -->
+
+<H1 ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2><b><u>NON-QUALIFIED STOCK OPTION<br><br>
+AWARD AGREEMENT</u></b></FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Para Indent" FSL="Default" -->
+<P align=justify><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Effective
+as of <B><U>&nbsp;&nbsp;&nbsp;[Date]&nbsp;&nbsp;&nbsp;</U></B>(&#147;Grant Date&#148;), the Company hereby grants to
+<B><U>&nbsp;&nbsp;&nbsp;[Director]&nbsp;&nbsp;&nbsp;</U></B> certain rights to purchase up to: <B><U>[# of
+Shares]</U></B><U></U> total Option Shares for <B><U>$[Price]</U></B> per Share
+until <B><U>&nbsp;&nbsp;&nbsp;[Date]&nbsp;&nbsp;&nbsp;</U></B> (&#147;Expiration Date&#148;) on the Terms of this
+Agreement, the attached Terms, and the 2004 Sypris Equity Plan (&#147;Plan&#148;). </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Indent" FSL="Default" -->
+<P align=justify><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Intending
+to be legally bound by all such Terms, I acknowledge the sole authority of the Committee
+to interpret such Terms. I have received and had an opportunity to review, with the
+benefit of any legal counsel of my choosing: the Plan, the attached Terms and this Award
+Agreement. </FONT></P>
+
+
+
+
+<TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0">
+<TR VALIGN="BOTTOM">
+     <TH><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp;</FONT></TH>
+     <TH><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp;</FONT></TH></TR>
+<TR VALIGN="TOP">
+     <TD WIDTH="50%"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp;</FONT></TD>
+     <TD WIDTH="50%"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp;<b>SYPRIS SOLUTIONS, INC.</B><BR><br></FONT></TD></TR>
+<TR VALIGN="TOP">
+     <TD><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp;<BR></FONT></TD>
+     <TD><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp;<BR></FONT></TD></TR>
+<TR VALIGN="TOP">
+     <TD><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp;</FONT></TD>
+     <TD><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>By:</b> ________________________________<br><br>
+     <b>Name:</b> ______________________________ <br><br><b>Title:</b> _______________________________</FONT></TD></TR>
+</TABLE>
+
+
+
+<!-- MARKER FORMAT-SHEET="Head Major Left Bold" FSL="Default" -->
+
+<H1 ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>PARTICIPANT </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Head Major Left Bold" FSL="Default" -->
+
+<H1 ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Signature:
+__________________________ </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Head Major Left Bold" FSL="Default" -->
+
+<H1 ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Name:
+_____________________________ </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Head Major Left Bold" FSL="Default" -->
+
+<H1 ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Title:
+______________________________ </FONT></H1>
+
+
+<!-- MARKER PAGE="sheet: 1; page: 1" -->
+<HR SIZE=5 COLOR=GRAY NOSHADE>
+
+
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold 1" FSL="Default" -->
+
+<H1 ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2><b>STANDARD TERMS OF
+AWARDS<br>GRANTED UNDER THE<br>2004 SYPRIS EQUITY PLAN (&#147;PLAN&#148;)<br>PURSUANT TO THE<br>
+<u>DIRECTORS COMPENSATION PROGRAM</u></b> </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Flush" FSL="Default" -->
+     <P align=justify><FONT FACE="Times New Roman, Times, Serif" SIZE=2><B>1.</B>&nbsp;&nbsp;&nbsp;&nbsp;
+          <B>Awards</B> &#150; The &#147;Awards&#148; granted hereby are non-qualified
+          Options, subject to the terms of the Plan, these Terms and an Award Agreement
+          duly executed by the Participant and the Company. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Flush" FSL="Default" -->
+     <P align=justify><FONT FACE="Times New Roman, Times, Serif" SIZE=2><B>2.</B>&nbsp;&nbsp;&nbsp;&nbsp;
+          <B>Options</B> &#150; Initially, each &#147;Option&#148; is the right to
+          purchase one Option Share at the Option Price, from its grant date until its
+          Expiration Date (subject to adjustments per Article VI of the Plan). Options
+          must be exercised with 48 hours advance written notice, unless waived by the
+          Company. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Flush" FSL="Default" -->
+     <P align=justify><FONT FACE="Times New Roman, Times, Serif" SIZE=2><B>3.</B>&nbsp;&nbsp;&nbsp;&nbsp;
+          <B>Option Price</B> &#150; The &#147;Option Price&#148; is the closing price per
+          Option Share on the Grant Date and is payable to the Company in cash or any
+          other method of payment authorized by the Committee in its discretion, which may
+          include Stock (valued as the closing price per Share on the exercise date) or
+          vested Options (valued as the closing price per Share on the exercise date, less
+          the Option Price), in each case in accordance with applicable Rules. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Flush" FSL="Default" -->
+     <P align=justify><FONT FACE="Times New Roman, Times, Serif" SIZE=2><B>4.</B>&nbsp;&nbsp;&nbsp;&nbsp;
+          <B>Option Shares</B> &#150; Initially, each &#147;Option Share&#148; is one
+          Share of the Common Stock (subject to adjustments per the Plan). Option Shares
+          may be certificated upon request, with any legends required by applicable Rules.
+          Participants may vote, and receive dividends on, any Shares acquired upon
+          exercise of Options. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Flush" FSL="Default" -->
+     <P align=justify><FONT FACE="Times New Roman, Times, Serif" SIZE=2><B>5.</B>&nbsp;&nbsp;&nbsp;&nbsp;
+          <B>Vesting </B>&#150; One hundred percent of each Award shall vest immediately
+          on the Grant Date. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Flush" FSL="Default" -->
+     <P align=justify><FONT FACE="Times New Roman, Times, Serif" SIZE=2><B>6.</B>&nbsp;&nbsp;&nbsp;&nbsp;
+          <B>Expiration Date</B> &#150; Each Option&#146;s &#147;Expiration Date&#148;
+          will be the tenth anniversary of its Grant Date. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Flush" FSL="Default" -->
+     <P align=justify><FONT FACE="Times New Roman, Times, Serif" SIZE=2><B>7.</B>&nbsp;&nbsp;&nbsp;&nbsp;
+          <B>No Forfeiture</B> &#150; Each Option will remain exercisable through its
+          Expiration Date regardless of any termination of services, disability or death. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Flush" FSL="Default" -->
+     <P align=justify><FONT FACE="Times New Roman, Times, Serif" SIZE=2><B>8.</B>&nbsp;&nbsp;&nbsp;&nbsp;
+          <B>No Other Rights</B> &#150; The Awards include no other rights beyond those
+          expressly provided in the Plan, these Terms or the Award Agreement. Awards are
+          non-assignable and non-transferable, except by will or the laws of descent and
+          distribution, unless otherwise approved by the Committee. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Flush" FSL="Default" -->
+     <P align=justify><FONT FACE="Times New Roman, Times, Serif" SIZE=2><B>9.</B>&nbsp;&nbsp;&nbsp;&nbsp;
+          <B>Definitions</B> &#150; Unless otherwise specified, all capitalized terms
+          herein shall have the meanings assigned to them in the Plan or in the Award
+          Agreement. </FONT></P>
+
+
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>4
+<FILENAME>sypris2.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 sypris2.jpg
+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
+- -110`4444`%%%%`'_V3\_
+`
+end
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10
+<SEQUENCE>5
+<FILENAME>syp8k122104ex103.htm
+<DESCRIPTION>10.3 NON-QUALIFIED STOCK OPTION EMPLOYEES
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY>
+
+<IMG SRC="sypris2.jpg" ALIGN="RIGHT">
+<br><br><br><br>
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold 1" FSL="Default" -->
+
+<H1 ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2><b><u>NON-QUALIFIED STOCK
+OPTION<br><br>AWARD AGREEMENT</u></b></FONT></H1>
+<br>
+<!-- MARKER FORMAT-SHEET="Para Indent" FSL="Default" -->
+<P align=justify><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Effective
+as of ________, the Company hereby grants to <B><U>&nbsp;&nbsp;&nbsp;[Employee]&nbsp;&nbsp;&nbsp;</U></B>certain rights to
+purchase up to: <B><U>[# of Shares]</U></B> total Option Shares for <B><U>$[Price]</U></B> per Share until ________ (&#147;Expiration
+Date&#148;) on the Terms of this Agreement, the attached Terms, and the 2004 Sypris Equity
+Plan (&#147;Plan&#148;) as follows. </FONT></P>
+
+
+<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 WIDTH=100%>
+<TR VALIGN=Bottom>
+     <TH><FONT FACE="Times New Roman, Times, Serif" SIZE=2></FONT></TH>
+     <TH><FONT FACE="Times New Roman, Times, Serif" SIZE=2></FONT></TH>
+     <TH><FONT FACE="Times New Roman, Times, Serif" SIZE=2></FONT></TH>
+     <TH><FONT FACE="Times New Roman, Times, Serif" SIZE=2></FONT></TH></TR>
+<TR VALIGN=Bottom>
+     <TD WIDTH=27% ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2><b>Vesting Dates</b></FONT></TD>
+     <TD WIDTH=29% ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2><b># of Options Vesting</b></FONT></TD>
+     <TD WIDTH=22% ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2><b>Option Prices</b></FONT></TD>
+     <TD WIDTH=22% ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2><b>Expiration Dates</b></FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>[2nd Anniversary]</FONT></TD>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>[20% of total]</FONT></TD>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>[FMV at grant]</FONT></TD>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>[8th Anniversary]</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>[3rd Anniversary]</FONT></TD>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>[20% of total]</FONT></TD>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>[FMV at grant]</FONT></TD>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>[8th Anniversary]</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>[4th Anniversary]</FONT></TD>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>[20% of total]</FONT></TD>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>[FMV at grant]</FONT></TD>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>[8th Anniversary]</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>[5th Anniversary]</FONT></TD>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>[20% of total]</FONT></TD>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>[FMV at grant]</FONT></TD>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>[8th Anniversary]</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+     <TD><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>[6th Anniversary]</FONT></TD>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>[20% of total]</FONT></TD>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>[FMV at grant]</FONT></TD>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>[8th Anniversary]</FONT></TD></TR>
+</TABLE>
+
+
+
+<!-- MARKER FORMAT-SHEET="Para Indent" FSL="Default" -->
+<P align=justify><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Intending
+to be legally bound by all such Terms, I acknowledge the sole authority of the Committee
+to interpret such Terms, the forfeiture of my rights upon any termination of my employment
+under such Terms and my continuing status as an &#147;at will&#148; employee (subject to
+termination without cause or notice). I have received and had an opportunity to review,
+with the benefit of any legal counsel of my choosing the Plan, the attached Terms and this
+Award Agreement. </FONT></P>
+
+
+<TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0">
+<TR VALIGN="BOTTOM">
+     <TH><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp;</FONT></TH>
+     <TH><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp;</FONT></TH></TR>
+<TR VALIGN="TOP">
+     <TD WIDTH="50%"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><b>SYPRIS SOLUTIONS, INC.</B></FONT></TD>
+     <TD WIDTH="50%"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>PARTICIPANT</B></FONT></TD></TR>
+<TR VALIGN="TOP">
+     <TD><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp;<BR>&nbsp;</FONT></TD>
+     <TD><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp;<BR>&nbsp;</FONT></TD></TR>
+<TR VALIGN="TOP">
+     <TD><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>By:</b> _____________________________</FONT></TD>
+     <TD><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><b>Signature:</b> _______________________</FONT></TD></TR>
+<TR VALIGN="TOP">
+     <TD><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp;<br>&nbsp;</FONT></TD>
+     <TD><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp;<br>&nbsp;</FONT></TD></TR>
+<TR VALIGN="TOP">
+     <TD><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><b>Name:</b> __________________________</FONT></TD>
+     <TD><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><b>Name:</b> __________________________</FONT></TD></TR>
+<TR VALIGN="TOP">
+     <TD><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp;<br>&nbsp;</FONT></TD>
+     <TD><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp;<br>&nbsp;</FONT></TD></TR>
+<TR VALIGN="TOP">
+     <TD><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><b>Title:</b> ___________________________</FONT></TD>
+     <TD><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><b>Title:</b> ___________________________</FONT></TD></TR>
+</TABLE>
+
+
+<!-- MARKER PAGE="sheet: 2; page: 2" -->
+<HR SIZE=5 COLOR=GRAY NOSHADE>
+
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center Bold" FSL="Default" -->
+
+<H1 ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>STANDARD TERMS OF
+AWARDS GRANTED UNDER THE<br>2004 SYPRIS EQUITY PLAN (&#147;PLAN&#148;)<br><u>TO EXECUTIVE OFFICERS
+AND OTHER KEY EMPLOYEES IN 2005</u></FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Flush" FSL="Default" -->
+     <P align=justify><FONT FACE="Times New Roman, Times, Serif" SIZE=2><B>1.</B>&nbsp;&nbsp;&nbsp;&nbsp;
+          <B>Awards</B> &#150; All &#147;Awards&#148; granted hereby will be non-qualified
+          Options subject to, and governed by, the terms of the Plan, these Terms and a
+          valid, executed Award Agreement. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Flush" FSL="Default" -->
+     <P align=justify><FONT FACE="Times New Roman, Times, Serif" SIZE=2><B>2.</B>&nbsp;&nbsp;&nbsp;&nbsp;
+          <B>Options</B> &#150; Initially, each &#147;Option&#148; is the right to
+          purchase one Option Share at the Option Price, from its Vesting Date until its
+          Expiration Date or forfeiture (subject to adjustments per the Plan). Options
+          must be exercised with 48 hours advance written notice, unless waived by the
+          Company. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Flush" FSL="Default" -->
+     <P align=justify><FONT FACE="Times New Roman, Times, Serif" SIZE=2><B>3.</B>&nbsp;&nbsp;&nbsp;&nbsp;
+          <B>Option Price</B> &#150; &#147;Option Price&#148; means (a) the closing price
+          per Option Share on the grant date or (b) the Performance-Based Option Price,
+          for Performance-Based Options. The Option Price is payable to the Company in
+          cash or any other method of payment authorized by the Committee in its
+          discretion, which may include Stock (valued as the closing price per Share on
+          the exercise date) or vested Options (valued as the closing price per Share on
+          the exercise date, less the Option Price). Similarly, the Participant must
+          arrange for tax withholding in accordance with applicable Rules, to the
+          satisfaction of the Committee. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Flush" FSL="Default" -->
+     <P align=justify><FONT FACE="Times New Roman, Times, Serif" SIZE=2><B>4.</B>&nbsp;&nbsp;&nbsp;&nbsp;
+          <B>Performance-Based Option</B> <B>Price</B> &#150; The &#147;Performance-Based
+          Option Price&#148; is the highest of the Target Share Price (as defined in the
+          Award Agreement) or the closing prices per Share, on each of the grant date and
+          the Target Price Date. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Flush" FSL="Default" -->
+     <P align=justify><FONT FACE="Times New Roman, Times, Serif" SIZE=2><B>5.</B>&nbsp;&nbsp;&nbsp;&nbsp;
+          <B>Option Shares</B> &#150; Initially, each &#147;Option Share&#148; is one
+          Share of the Common Stock (subject to adjustments per the Plan). Option Shares
+          may be certificated upon request, with any legends required by applicable Rules.
+          Participants may vote, and receive dividends on, any Option Shares that they
+          own. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Flush" FSL="Default" -->
+     <P align=justify><FONT FACE="Times New Roman, Times, Serif" SIZE=2><B>6.</B>&nbsp;&nbsp;&nbsp;&nbsp;
+          <B>Vesting </B>&#150; Twenty percent of an Award shall vest on each of its
+          second, third, fourth, fifth and sixth anniversaries of the grant date (or of
+          the Target Price Date for Performance-Based Options) (each, a &#147;Vesting
+          Date&#148;), unless forfeited before such Vesting Date. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Flush" FSL="Default" -->
+     <P align=justify><FONT FACE="Times New Roman, Times, Serif" SIZE=2><B>7.</B>&nbsp;&nbsp;&nbsp;&nbsp;
+          <B>Expiration Date</B> &#150; Each Option&#146;s &#147;Expiration Date&#148;
+          will be the eighth anniversary of its grant date or of the Target Price Date, if
+          later. Performance-Based Options may be terminated thirty days after the
+          Committee determines that the Participant is no longer a key employee. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Flush" FSL="Default" -->
+     <P align=justify><FONT FACE="Times New Roman, Times, Serif" SIZE=2><B>8.</B>&nbsp;&nbsp;&nbsp;&nbsp;
+          <B>Forfeiture</B> &#150; Each Option will terminate, expire and be forfeited
+          upon the Terms of the Plan. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Flush" FSL="Default" -->
+     <P align=justify><FONT FACE="Times New Roman, Times, Serif" SIZE=2><B>9.</B>&nbsp;&nbsp;&nbsp;&nbsp;
+          <B>Target Price Date </B>&#150; The &#147;Target Price Date&#148; for any
+          Performance-Based Option is the first business day following the calendar
+          quarter in which the average market closing price equals or exceeds the Target
+          Share Price; provided however, that no Target Price Date shall occur after the
+          eighth anniversary of the grant date. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Flush" FSL="Default" -->
+     <P align=justify><FONT FACE="Times New Roman, Times, Serif" SIZE=2><B>10.</B>&nbsp;&nbsp;&nbsp;&nbsp;
+          <B>Leaves of Absence</B> &#150; The Committee may in its discretion treat all or
+          any portion of any period during which a Participant is on military or on an
+          approved leave of absence as a period of employment for purposes of the accrual
+          of rights hereunder. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Flush" FSL="Default" -->
+     <P align=justify><FONT FACE="Times New Roman, Times, Serif" SIZE=2><B>11.</B>&nbsp;&nbsp;&nbsp;&nbsp;
+          <B>No Other Rights</B> &#150; The Awards include no other rights beyond those
+          expressly provided in the Plan, these Terms or the Award Agreement. Awards are
+          non-assignable and non-transferable except by will or the laws of descent and
+          distribution. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Flush" FSL="Default" -->
+     <P align=justify><FONT FACE="Times New Roman, Times, Serif" SIZE=2><B>12.</B>&nbsp;&nbsp;&nbsp;&nbsp;
+          <B>Definitions</B> &#150; Unless otherwise specified, all capitalized terms
+          herein shall have the meanings assigned to them in the Plan or in the Award
+          Agreement. </FONT></P>
+
+
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10
+<SEQUENCE>6
+<FILENAME>syp8k122104ex104.htm
+<DESCRIPTION>10.4 PERFORMANCE BASED STOCK OPTION AWARD
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY>
+
+<IMG SRC="sypris2.jpg" ALIGN="RIGHT">
+<br><br><br><br>
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold 1" FSL="Default" -->
+
+<H1 ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2><b><u>PERFORMANCE-BASED
+STOCK OPTION<br><br>AWARD AGREEMENT</u></b><br> </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Para Indent" FSL="Default" -->
+<P align=justify><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Effective
+as of <B>________</B>, the Company hereby grants to <B><U>&nbsp;&nbsp;&nbsp;[Employee]&nbsp;&nbsp;&nbsp;</U></B>
+certain rights to purchase up to: <B><U>[# of Shares]</U></B> total Option
+Shares for the applicable P.B.O. Option Price until <B>________</B> (&#147;Expiration
+Date&#148;) on the Terms of this Agreement, the attached Terms, and the 2004 Sypris Equity
+Plan (&#147;Plan&#148;) as follows. </FONT></P>
+
+
+<TABLE WIDTH="100%" BORDER="1" CELLPADDING="0" CELLSPACING="0">
+<TR VALIGN="BOTTOM">
+     <TH><FONT FACE="Times New Roman, Times, Serif" SIZE="2"></FONT></TH>
+     <TH><FONT FACE="Times New Roman, Times, Serif" SIZE="2"></FONT></TH>
+     <TH><FONT FACE="Times New Roman, Times, Serif" SIZE="2"></FONT></TH>
+     <TH><FONT FACE="Times New Roman, Times, Serif" SIZE="2"></FONT></TH></TR>
+<TR VALIGN="TOP">
+     <TD WIDTH="25%"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><b>Target Share Price</b></FONT></TD>
+     <TD WIDTH="25%"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><b># of Options</b></FONT></TD>
+     <TD WIDTH="25%"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><b>Target Share Price</b></FONT></TD>
+     <TD WIDTH="25%"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><b># of Options</b></FONT></TD></TR>
+<TR VALIGN="TOP">
+     <TD><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp;<br>&nbsp;</FONT></TD>
+     <TD><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp;</FONT></TD>
+     <TD><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp;</FONT></TD>
+     <TD><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp;</FONT></TD></TR>
+<TR VALIGN="TOP">
+     <TD><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp;<br>&nbsp;</FONT></TD>
+     <TD><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp;</FONT></TD>
+     <TD><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp;</FONT></TD>
+     <TD><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp;</FONT></TD></TR>
+<TR VALIGN="TOP">
+     <TD><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp;<br>&nbsp;</FONT></TD>
+     <TD><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp;</FONT></TD>
+     <TD><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp;</FONT></TD>
+     <TD><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp;</FONT></TD></TR>
+<TR VALIGN="TOP">
+     <TD><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp;<br>&nbsp;</FONT></TD>
+     <TD><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp;</FONT></TD>
+     <TD><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp;</FONT></TD>
+     <TD><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp;</FONT></TD></TR>
+</TABLE>
+
+
+<!-- MARKER FORMAT-SHEET="Para Indent" FSL="Default" -->
+<P align=justify><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Intending
+to be legally bound by all such Terms, I acknowledge the sole authority of the Committee
+to interpret such Terms, the forfeiture of my rights upon any termination of my employment
+under such Terms and my continuing status as an &#147;at will&#148; employee (subject to
+termination without cause or notice). I have received and had an opportunity to review,
+with the benefit of any legal counsel of my choosing the Plan, the attached Terms and this
+Award Agreement. </FONT></P>
+
+<TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0">
+<TR VALIGN="BOTTOM">
+     <TH><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp;</FONT></TH>
+     <TH><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp;</FONT></TH></TR>
+<TR VALIGN="TOP">
+     <TD WIDTH="50%"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><b>SYPRIS SOLUTIONS, INC.</B></FONT></TD>
+     <TD WIDTH="50%"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>PARTICIPANT</B></FONT></TD></TR>
+<TR VALIGN="TOP">
+     <TD><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp;<BR>&nbsp;</FONT></TD>
+     <TD><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp;<BR>&nbsp;</FONT></TD></TR>
+<TR VALIGN="TOP">
+     <TD><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>By:</b> _____________________________</FONT></TD>
+     <TD><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><b>Signature:</b> _______________________</FONT></TD></TR>
+<TR VALIGN="TOP">
+     <TD><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp;<br>&nbsp;</FONT></TD>
+     <TD><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp;<br>&nbsp;</FONT></TD></TR>
+<TR VALIGN="TOP">
+     <TD><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><b>Name:</b> __________________________</FONT></TD>
+     <TD><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><b>Name:</b> __________________________</FONT></TD></TR>
+<TR VALIGN="TOP">
+     <TD><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp;<br>&nbsp;</FONT></TD>
+     <TD><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp;<br>&nbsp;</FONT></TD></TR>
+<TR VALIGN="TOP">
+     <TD><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><b>Title:</b> ___________________________</FONT></TD>
+     <TD><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><b>Title:</b> ___________________________</FONT></TD></TR>
+</TABLE>
+
+
+
+
+<!-- MARKER PAGE="sheet: 3; page: 3" -->
+<HR SIZE=5 COLOR=GRAY NOSHADE>
+
+
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold 1" FSL="Default" -->
+
+<H1 ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2><b>STANDARD TERMS OF
+AWARDS GRANTED UNDER THE<br>2004 SYPRIS EQUITY PLAN (&#147;PLAN&#148;)<br><u>TO EXECUTIVE OFFICERS
+AND OTHER KEY EMPLOYEES IN 2005</u></b> </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Flush" FSL="Default" -->
+     <P align=justify><FONT FACE="Times New Roman, Times, Serif" SIZE=2><B>1.</B>&nbsp;&nbsp;&nbsp;&nbsp;
+          <B>Awards</B> &#150; All &#147;Awards&#148; granted hereby will be non-qualified
+          Options subject to, and governed by, the terms of the Plan, these Terms and a
+          valid, executed Award Agreement. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Flush" FSL="Default" -->
+     <P align=justify><FONT FACE="Times New Roman, Times, Serif" SIZE=2><B>2.</B>&nbsp;&nbsp;&nbsp;&nbsp;
+          <B>Options</B> &#150; Initially, each &#147;Option&#148; is the right to
+          purchase one Option Share at the Option Price, from its Vesting Date until its
+          Expiration Date or forfeiture (subject to adjustments per the Plan). Options
+          must be exercised with 48 hours advance written notice, unless waived by the
+          Company. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Flush" FSL="Default" -->
+     <P align=justify><FONT FACE="Times New Roman, Times, Serif" SIZE=2><B>3.</B>&nbsp;&nbsp;&nbsp;&nbsp;
+          <B>Option Price</B> &#150; &#147;Option Price&#148; means (a) the closing price
+          per Option Share on the grant date or (b) the Performance-Based Option Price,
+          for Performance-Based Options. The Option Price is payable to the Company in
+          cash or any other method of payment authorized by the Committee in its
+          discretion, which may include Stock (valued as the closing price per Share on
+          the exercise date) or vested Options (valued as the closing price per Share on
+          the exercise date, less the Option Price). Similarly, the Participant must
+          arrange for tax withholding in accordance with applicable Rules, to the
+          satisfaction of the Committee. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Flush" FSL="Default" -->
+     <P align=justify><FONT FACE="Times New Roman, Times, Serif" SIZE=2><B>4.</B>&nbsp;&nbsp;&nbsp;&nbsp;
+          <B>Performance-Based Option</B> <B>Price</B> &#150; The &#147;Performance-Based
+          Option Price&#148; is the highest of the Target Share Price (as defined in the
+          Award Agreement) or the closing prices per Share, on each of the grant date and
+          the Target Price Date. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Flush" FSL="Default" -->
+     <P align=justify><FONT FACE="Times New Roman, Times, Serif" SIZE=2><B>5.</B>&nbsp;&nbsp;&nbsp;&nbsp;
+          <B>Option Shares</B> &#150; Initially, each &#147;Option Share&#148; is one
+          Share of the Common Stock (subject to adjustments per the Plan). Option Shares
+          may be certificated upon request, with any legends required by applicable Rules.
+          Participants may vote, and receive dividends on, any Option Shares that they
+          own. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Flush" FSL="Default" -->
+     <P align=justify><FONT FACE="Times New Roman, Times, Serif" SIZE=2><B>6.</B>&nbsp;&nbsp;&nbsp;&nbsp;
+          <B>Vesting </B>&#150; Twenty percent of an Award shall vest on each of its
+          second, third, fourth, fifth and sixth anniversaries of the grant date (or of
+          the Target Price Date for Performance-Based Options) (each, a &#147;Vesting
+          Date&#148;), unless forfeited before such Vesting Date. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Flush" FSL="Default" -->
+     <P align=justify><FONT FACE="Times New Roman, Times, Serif" SIZE=2><B>7.</B>&nbsp;&nbsp;&nbsp;&nbsp;
+          <B>Expiration Date</B> &#150; Each Option&#146;s &#147;Expiration Date&#148;
+          will be the eighth anniversary of its grant date or of the Target Price Date, if
+          later. Performance-Based Options may be terminated thirty days after the
+          Committee determines that the Participant is no longer a key employee. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Flush" FSL="Default" -->
+     <P align=justify><FONT FACE="Times New Roman, Times, Serif" SIZE=2><B>8.</B>&nbsp;&nbsp;&nbsp;&nbsp;
+          <B>Forfeiture</B> &#150; Each Option will terminate, expire and be forfeited
+          upon the Terms of the Plan. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Flush" FSL="Default" -->
+     <P align=justify><FONT FACE="Times New Roman, Times, Serif" SIZE=2><B>9.</B>&nbsp;&nbsp;&nbsp;&nbsp;
+          <B>Target Price Date </B>&#150; The &#147;Target Price Date&#148; for any
+          Performance-Based Option is the first business day following the calendar
+          quarter in which the average market closing price equals or exceeds the Target
+          Share Price; provided however, that no Target Price Date shall occur after the
+          eighth anniversary of the grant date. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Flush" FSL="Default" -->
+     <P align=justify><FONT FACE="Times New Roman, Times, Serif" SIZE=2><B>10.</B>&nbsp;&nbsp;&nbsp;&nbsp;
+          <B>Leaves of Absence</B> &#150; The Committee may in its discretion treat all or
+          any portion of any period during which a Participant is on military or on an
+          approved leave of absence as a period of employment for purposes of the accrual
+          of rights hereunder. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Flush" FSL="Default" -->
+     <P align=justify><FONT FACE="Times New Roman, Times, Serif" SIZE=2><B>11.</B>&nbsp;&nbsp;&nbsp;&nbsp;
+          <B>No Other Rights</B> &#150; The Awards include no other rights beyond those
+          expressly provided in the Plan, these Terms or the Award Agreement. Awards are
+          non-assignable and non-transferable except by will or the laws of descent and
+          distribution. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para (List) Flush" FSL="Default" -->
+     <P align=justify><FONT FACE="Times New Roman, Times, Serif" SIZE=2><B>12.</B>&nbsp;&nbsp;&nbsp;&nbsp;
+          <B>Definitions</B> &#150; Unless otherwise specified, all capitalized terms
+          herein shall have the meanings assigned to them in the Plan or in the Award
+          Agreement. </FONT></P>
+
+
+
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>7
+<FILENAME>syp8k122104pr.htm
+<DESCRIPTION>PRESS RELEASE
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY>
+
+<IMG SRC="sypris2.jpg" ALIGN="RIGHT">
+<br><br><br><br>
+<!-- MARKER FORMAT-SHEET="Head Left" FSL="Default" -->
+
+<P ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2><b><i>For more information,
+contact:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+For Immediate Release</i>
+<br>David D. Johnson<br>Chief Financial Officer<br>
+(502) 329-2000 </b></FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center Bold" FSL="Default" -->
+
+<H1 ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>SYPRIS ELECTS WILLIAM
+G. FERKO TO BOARD OF DIRECTORS </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Para Flush" FSL="Default" -->
+<P align=justify><FONT FACE="Times New Roman, Times, Serif" SIZE=2><B>LOUISVILLE, Ky. (Dec. 17,
+2004)</B> &#150; Sypris Solutions, Inc. (Nasdaq/NM:SYPR) announced today that it has
+elected William G. Ferko join its Board of Directors as a Class III director beginning
+January 1, 2005. Mr. Ferko will become a member of the Audit and Finance Committee and the
+Nominating and Governance Committee of the Board of Directors. This appointment will
+increase the size of the Sypris board from eight to nine members. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Large Indent" FSL="Default" -->
+<P align=justify><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Since
+1998, Mr. Ferko has served as the vice president and chief financial officer of Genlyte
+Group, Incorporated (Nasdaq/GLYT), a one billion dollar manufacturer of lighting fixtures
+and controls for residential, commercial and industrial markets. Genlyte is the largest
+company in North America dedicated exclusively to the lighting market. Prior to joining
+Genlyte, Mr. Ferko served in several finance positions for Tenneco Inc. and its divisions,
+including Tenneco Automotive, Tenneco Packaging and JI Case. He also served as the chief
+financial officer for Monroe Auto Equipment Co. A Wisconsin native, Mr. Ferko earned his
+MBA and BS in Business Management from the University of Wisconsin and holds a CPA from
+the State of Illinois. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Large Indent" FSL="Default" -->
+<P align=justify><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Commenting
+on the announcement, Jeffrey T. Gill, president and chief executive officer of Sypris
+Solutions, said, &#147;We are pleased to have Bill join our board. His accomplished
+background in finance at a variety of industrial and automotive manufacturing companies
+will be an excellent addition to our board.&#148; </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Large Indent" FSL="Default" -->
+<P align=justify><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sypris
+Solutions is a diversified provider of technology-based outsourced services and specialty
+products. The Company performs a wide range of manufacturing and technical services,
+typically under multi-year, sole-source contracts with major corporations and government
+agencies in the markets for aerospace and defense electronics, truck components and
+assemblies, and for users of test and measurement equipment. For more information about
+Sypris Solutions, visit its Web site at <U>www.sypris.com</U>. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Large Indent" FSL="Default" -->
+<P align=justify><FONT FACE="Times New Roman, Times, Serif" SIZE=1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<I>This
+release, and oral statements referring hereto, contain &#147;forward-looking
+statements,&#148; from which actual results may differ materially due to factors such as:
+cost and supply of raw materials such as steel, components, or utilities; growth,
+reduction or competitive pressures in our markets; cost, efficiency and yield of our
+operations; our ability to improve results of acquired businesses; inventory valuation
+risks; product mix; changes in government or other customer programs; reliance on major
+customers or suppliers; revised estimates of major contract costs; dependence on
+management; labor relations; risks of foreign operations; currency exchange rates; costs
+and supply of debt, equity capital, or insurance; pension valuation risks; changes in
+licenses, security clearances, or other legal rights to operate, manage our work force or
+import and export as needed; compliance costs; regulatory actions or sanctions;
+litigation, including customer, creditor, stockholder, environmental or asbestos-related
+claims; war, terrorism or political uncertainty; disasters; unknown risks and
+uncertainties; or risk factors in our SEC filings.</I> </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center" FSL="Default" -->
+
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&#151; END &#151; </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Indent" FSL="Default" -->
+<P align=center><FONT FACE="Times New Roman, Times, Serif" SIZE=2>101 Bullitt Lane, Suite 450, Louisville, Kentucky 40222 &#149; (502) 329-2000 &#149; Fax (502)
+329-2050 &#149; www.sypris.com </FONT></P>
+
+
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

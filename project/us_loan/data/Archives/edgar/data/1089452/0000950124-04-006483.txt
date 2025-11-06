@@ -1,0 +1,526 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ DDB+jUW4KDtb/QTY7On41I/pTCbCSuM6LtrcyOPzyzNTGrrPfwjZ85pX1ZCbHVCs
+ WWfosuf/pnPWUUwIzNjMrw==
+
+<SEC-DOCUMENT>0000950124-04-006483.txt : 20041230
+<SEC-HEADER>0000950124-04-006483.hdr.sgml : 20041230
+<ACCEPTANCE-DATETIME>20041230171503
+ACCESSION NUMBER:		0000950124-04-006483
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20041230
+ITEM INFORMATION:		Regulation FD Disclosure
+FILED AS OF DATE:		20041230
+DATE AS OF CHANGE:		20041230
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			VEMCO INC /MI/
+		CENTRAL INDEX KEY:			0000916104
+		STANDARD INDUSTRIAL CLASSIFICATION:	MOTOR VEHICLE PARTS & ACCESSORIES [3714]
+		IRS NUMBER:				382737797
+		STATE OF INCORPORATION:			MI
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-34475-01
+		FILM NUMBER:		041234825
+
+	BUSINESS ADDRESS:	
+		STREET 1:		33662 JAMES J POMPO DR
+		STREET 2:		PO BOX 278
+		CITY:			FRASER
+		STATE:			MI
+		ZIP:			48026
+		BUSINESS PHONE:		3132941500
+
+	MAIL ADDRESS:	
+		STREET 1:		33662 JAMES J POMPO DR
+		STREET 2:		PO BOX 279
+		CITY:			FRASER
+		STATE:			MI
+		ZIP:			48026
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			VENTURE INDUSTRIES CORP
+		CENTRAL INDEX KEY:			0000916105
+		STANDARD INDUSTRIAL CLASSIFICATION:	MOTOR VEHICLE PARTS & ACCESSORIES [3714]
+		IRS NUMBER:				382034680
+		STATE OF INCORPORATION:			MI
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-34475-02
+		FILM NUMBER:		041234824
+
+	BUSINESS ADDRESS:	
+		STREET 1:		33662 JAMES J POMPO DR
+		STREET 2:		PO BOX 278
+		CITY:			FRASER
+		STATE:			MI
+		ZIP:			48026
+		BUSINESS PHONE:		3132941500
+
+	MAIL ADDRESS:	
+		STREET 1:		33662 JAMES J POMPO DR
+		STREET 2:		PO BOX 278
+		CITY:			FRASER
+		STATE:			MI
+		ZIP:			48026
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			VENTURE MOLD & ENGINEERING CORP
+		CENTRAL INDEX KEY:			0000916106
+		STANDARD INDUSTRIAL CLASSIFICATION:	MOTOR VEHICLE PARTS & ACCESSORIES [3714]
+		IRS NUMBER:				382556799
+		STATE OF INCORPORATION:			MI
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-34475-03
+		FILM NUMBER:		041234823
+
+	BUSINESS ADDRESS:	
+		STREET 1:		33662 JAMES J POMPO DR
+		STREET 2:		PO BOX 278
+		CITY:			FRASER
+		STATE:			MI
+		ZIP:			48026
+		BUSINESS PHONE:		3132941500
+
+	MAIL ADDRESS:	
+		STREET 1:		33662 JAMES J POMPO DR
+		STREET 2:		PO BOX 278
+		CITY:			FRASER
+		STATE:			MI
+		ZIP:			48026
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			VENTURE LEASING CO
+		CENTRAL INDEX KEY:			0000916107
+		STANDARD INDUSTRIAL CLASSIFICATION:	MOTOR VEHICLE PARTS & ACCESSORIES [3714]
+		IRS NUMBER:				382777356
+		STATE OF INCORPORATION:			MI
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-34475-04
+		FILM NUMBER:		041234822
+
+	BUSINESS ADDRESS:	
+		STREET 1:		33662 JAMES J POMPO DR
+		STREET 2:		PO BOX 278
+		CITY:			FRASER
+		STATE:			MI
+		ZIP:			48026
+		BUSINESS PHONE:		3132941500
+
+	MAIL ADDRESS:	
+		STREET 1:		33662 JAMES J POMPO DR
+		STREET 2:		PO BOX 278
+		CITY:			FRASER
+		STATE:			MI
+		ZIP:			48021
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			VEMCO LEASING INC
+		CENTRAL INDEX KEY:			0000916108
+		STANDARD INDUSTRIAL CLASSIFICATION:	MOTOR VEHICLE PARTS & ACCESSORIES [3714]
+		IRS NUMBER:				382777324
+		STATE OF INCORPORATION:			MI
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-34475-05
+		FILM NUMBER:		041234821
+
+	BUSINESS ADDRESS:	
+		STREET 1:		33662 JAMES J POMPO DR
+		STREET 2:		PO BOX 278
+		CITY:			FRASER
+		STATE:			MI
+		ZIP:			48026
+		BUSINESS PHONE:		3132941500
+
+	MAIL ADDRESS:	
+		STREET 1:		33662 JAMES J POMPO DR
+		STREET 2:		PO BOX 278
+		CITY:			FRASER
+		STATE:			MI
+		ZIP:			48026
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			VENTURE HOLDINGS CORP
+		CENTRAL INDEX KEY:			0000916109
+		STANDARD INDUSTRIAL CLASSIFICATION:	MOTOR VEHICLE PARTS & ACCESSORIES [3714]
+		IRS NUMBER:				382793543
+		STATE OF INCORPORATION:			MI
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-34475-06
+		FILM NUMBER:		041234820
+
+	BUSINESS ADDRESS:	
+		STREET 1:		33662 JAMES J POMPO DR
+		STREET 2:		PO BOX 278
+		CITY:			FRASER
+		STATE:			MI
+		ZIP:			48026
+		BUSINESS PHONE:		3132941500
+
+	MAIL ADDRESS:	
+		STREET 1:		33662 JAMES J POMPO DR
+		STREET 2:		PO BOX 278
+		CITY:			FRASER
+		STATE:			MI
+		ZIP:			48026
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			VENTURE SERVICE CO
+		CENTRAL INDEX KEY:			0000916112
+		STANDARD INDUSTRIAL CLASSIFICATION:	MOTOR VEHICLE PARTS & ACCESSORIES [3714]
+		IRS NUMBER:				383024165
+		STATE OF INCORPORATION:			MI
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-34475-07
+		FILM NUMBER:		041234819
+
+	BUSINESS ADDRESS:	
+		STREET 1:		33662 JAMES J POMPO DR
+		STREET 2:		PO BOX 278
+		CITY:			FRASER
+		STATE:			MI
+		ZIP:			48026
+		BUSINESS PHONE:		3132941500
+
+	MAIL ADDRESS:	
+		STREET 1:		33662 JAMES J POMPO DR
+		STREET 2:		PO BOX 278
+		CITY:			FRASER
+		STATE:			MI
+		ZIP:			48026
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			VENTURE HOLDINGS CO LLC
+		CENTRAL INDEX KEY:			0001088341
+		STANDARD INDUSTRIAL CLASSIFICATION:	MOTOR VEHICLE PARTS & ACCESSORIES [3714]
+		IRS NUMBER:				383470015
+		STATE OF INCORPORATION:			MI
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-34475-08
+		FILM NUMBER:		041234826
+
+	BUSINESS ADDRESS:	
+		STREET 1:		P O BOX 278
+		STREET 2:		33662 JAMES J POMPO
+		CITY:			FRASER
+		STATE:			MI
+		ZIP:			48083
+		BUSINESS PHONE:		8102941500
+
+	MAIL ADDRESS:	
+		STREET 1:		P O BOX 278
+		CITY:			FRASER
+		STATE:			MI
+		ZIP:			48026
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			VENTURE EU CORP
+		CENTRAL INDEX KEY:			0001089450
+		IRS NUMBER:				383470019
+		STATE OF INCORPORATION:			MI
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-82617-08
+		FILM NUMBER:		041234816
+
+	BUSINESS ADDRESS:	
+		STREET 1:		33662 JAMES J. POMPO DRIVE
+		STREET 2:		PO BOX 278
+		CITY:			FRASER
+		STATE:			MI
+		ZIP:			48026
+		BUSINESS PHONE:		8102968851
+
+	MAIL ADDRESS:	
+		STREET 1:		33662 JAMES J. POMPO DRIVE
+		STREET 2:		PO BOX 278
+		CITY:			FRASER
+		STATE:			MI
+		ZIP:			48026
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			VENTURE EUROPE INC
+		CENTRAL INDEX KEY:			0001089451
+		IRS NUMBER:				383464213
+		STATE OF INCORPORATION:			MI
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-82617-09
+		FILM NUMBER:		041234817
+
+	BUSINESS ADDRESS:	
+		STREET 1:		33662 JAMES J. POMPO DRIVE
+		STREET 2:		PO BOX 278
+		CITY:			FRASER
+		STATE:			MI
+		ZIP:			48026
+		BUSINESS PHONE:		8102968851
+
+	MAIL ADDRESS:	
+		STREET 1:		33662 JAMES J. POMPO DRIVE
+		STREET 2:		PO BOX 278
+		CITY:			FRASER
+		STATE:			MI
+		ZIP:			48026
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			EXPERIENCE MANAGEMENT LLC
+		CENTRAL INDEX KEY:			0001089452
+		IRS NUMBER:				383382308
+		STATE OF INCORPORATION:			MI
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-82617-10
+		FILM NUMBER:		041234818
+
+	BUSINESS ADDRESS:	
+		STREET 1:		33662 JAMES J. POMPO DRIVE
+		STREET 2:		PO BOX 278
+		CITY:			FRASER
+		STATE:			MI
+		ZIP:			48026
+		BUSINESS PHONE:		8102968851
+
+	MAIL ADDRESS:	
+		STREET 1:		33662 JAMES J. POMPO DRIVE
+		STREET 2:		PO BOX 278
+		CITY:			FRASER
+		STATE:			MI
+		ZIP:			48026
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>k90844e8vk.txt
+<DESCRIPTION>CURRENT REPORT, DATED DECEMBER 30, 2004
+<TEXT>
+<PAGE>
+
+                                 UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+
+                             WASHINGTON, D.C. 20549
+
+                     ---------------------------------------
+
+                                    FORM 8-K
+
+                                 CURRENT REPORT
+
+                         PURSUANT TO SECTION 13 OR 15(d)
+                     OF THE SECURITIES EXCHANGE ACT OF 1934
+
+                     ---------------------------------------
+
+                   DATE OF REPORT:              DECEMBER 30, 2004
+                                        ---------------------------------
+                                        (DATE OF EARLIEST EVENT REPORTED)
+
+                                    333-82617
+                              --------------------
+                                (COMMISSION FILE
+                                     NUMBER)
+
+<TABLE>
+<S>                    <C>                                             <C>
+       MICHIGAN               VENTURE HOLDINGS COMPANY LLC                 38-3470015
+       MICHIGAN                        VEMCO, INC.                         38-2737797
+       MICHIGAN              VENTURE INDUSTRIES CORPORATION                38-2034680
+       MICHIGAN          VENTURE MOLD & ENGINEERING CORPORATION            38-2556799
+       MICHIGAN                  VENTURE LEASING COMPANY                   38-2777356
+       MICHIGAN                    VEMCO LEASING, INC.                     38-2777324
+       MICHIGAN               VENTURE HOLDINGS CORPORATION                 38-2793543
+       MICHIGAN                  VENTURE SERVICE COMPANY                   38-3024165
+       MICHIGAN                EXPERIENCE MANAGEMENT, LLC                  38-3382308
+       MICHIGAN                   VENTURE EUROPE, INC.                     38-3464213
+       MICHIGAN                  VENTURE EU CORPORATION                    38-3470019
+ -------------------    --------------------------------------------   --------------------
+   (STATE OR OTHER     (EXACT NAME OF REGISTRANT AS SPECIFIED IN ITS      (I.R.S. EMPLOYER
+   JURISDICTION OF                      CHARTER)                       IDENTIFICATION NUMBER)
+    INCORPORATION)
+
+
+</TABLE>
+
+             6555 15 MILE ROAD
+        STERLING HEIGHTS, MICHIGAN                              48312
+- ----------------------------------------------             ----------------
+ (ADDRESS OF PRINCIPAL EXECUTIVE OFFICES)                     (ZIP CODE)
+
+
+                                 (586) 276-1701
+        -----------------------------------------------------------------
+              (REGISTRANT'S TELEPHONE NUMBER, INCLUDING AREA CODE)
+
+
+Check the appropriate box below if the Form 8-K filing is intended to
+simultaneously satisfy the filing obligation of the registrant under any of the
+following provisions:
+
+/ /  Written communications pursuant to Rule 425 under the Securities Act (17
+CFR 230.425)
+
+/ /  Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR
+140.14a-12)
+
+/ /  Pre-commencement communications pursuant to Rule 14d-2(b) under the
+Exchange Act (17 CFR 240.14d-2(b))
+
+/ /  Pre-commencement communications pursuant to Rule 13e-4(c) under the
+Exchange Act (17 CFR 240.13e-4(c))
+
+
+
+
+
+<PAGE>
+
+
+
+ITEM 7.01.     REGULATION FD DISCLOSURE.
+- ----------     ------------------------
+
+                        Venture Holdings Company LLC ("Venture Holdings") and
+               its subsidiaries, Vemco, Inc., Venture Industries Corporation,
+               Venture Mold and Engineering Corporation, Venture Leasing
+               Company, Venture Leasing, Inc., Venture Holdings Corporation,
+               Venture Service Company, Experience Management LLC, Venture
+               Europe, Inc. and Venture EU Corporation (collectively with
+               Venture Holdings, the "Debtors"), are each Debtors and
+               Debtors-in-Possession in jointly administered cases under Chapter
+               11 of the United States Bankruptcy Code (collectively, the
+               "Chapter 11 Cases") in the United States Bankruptcy Court for the
+               Eastern District of Michigan, Southern Division, Detroit,
+               Michigan (the "Bankruptcy Court").
+
+                        The Debtors borrow funds that are critical for their
+               continuing operations and restructuring efforts under (i) a
+               Senior Post-Petition Credit Agreement (the "Senior DIP Facility")
+               by and among Venture Holdings Company LLC as Borrower, and the
+               remaining Debtors as Guarantors, the lenders thereunder, Bank
+               One, NA as Issuer, and Black Diamond Commercial Finance, LLC as
+               Administrative Agent, and (ii) an Amended and Restated
+               Post-Petition Credit Agreement (the "Junior DIP Facility", and
+               together with the Senior DIP Facility, the "DIP Facilities") by
+               and among Venture Holdings Company LLC as Borrower, and the
+               remaining Debtors as Guarantors, the lenders thereunder, Bank
+               One, NA as Issuer, and Black Diamond Commercial Finance, L.L.C.
+               as Administrative Agent. The aggregate financing commitments
+               under the DIP Facilities total $75.0 million. The DIP Facilities
+               were scheduled to expire as of December 31, 2004.
+
+                        On December 30, 2004, the United States Bankruptcy Court
+               for the Eastern District of Michigan entered an order granting
+               the Debtors' motion to amend the DIP Facilities. Pursuant to the
+               amendment approved by the Court, the expiration date of the DIP
+               Facilities has been extended through January 28, 2005.
+
+
+
+                                      -2-
+<PAGE>
+
+
+                                    SIGNATURE
+
+         Pursuant to the requirements of the Securities Exchange Act of 1934,
+the registrant has duly caused this report to be signed on its behalf by the
+undersigned thereunto duly authorized.
+
+                                        VENTURE HOLDINGS COMPANY LLC
+                                        VEMCO, INC.
+                                        VENTURE INDUSTRIES CORPORATION
+                                        VENTURE MOLD & ENGINEERING
+                                          CORPORATION
+                                        VENTURE LEASING COMPANY
+                                        VENTURE LEASING, INC.
+                                        VENTURE HOLDINGS CORPORATION
+                                        VENTURE SERVICE COMPANY
+                                        EXPERIENCE MANAGEMENT, LLC
+                                        VENTURE EUROPE, INC.
+                                        VENTURE EU CORPORATION
+
+
+                                        By:   /s/  David E. Barnes
+                                              ---------------------------------
+                                              David E. Barnes
+                                              General Counsel
+
+Date: December 30, 2004
+
+
+
+                                       3
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

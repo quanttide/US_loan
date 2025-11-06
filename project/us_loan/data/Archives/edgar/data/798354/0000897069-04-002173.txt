@@ -1,0 +1,573 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Gcb1EiOcJPsO1FZ1vE47NfShTYiaSZ5qr4EiznKqXPwGKfg3ET0ZQM6Q8GKNxsBk
+ V4D+3+XT9eLTiuf3KdOfBQ==
+
+<SEC-DOCUMENT>0000897069-04-002173.txt : 20041221
+<SEC-HEADER>0000897069-04-002173.hdr.sgml : 20041221
+<ACCEPTANCE-DATETIME>20041220173935
+ACCESSION NUMBER:		0000897069-04-002173
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20041216
+ITEM INFORMATION:		Entry into a Material Definitive Agreement
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20041221
+DATE AS OF CHANGE:		20041220
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			FISERV INC
+		CENTRAL INDEX KEY:			0000798354
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER PROCESSING & DATA PREPARATION [7374]
+		IRS NUMBER:				391506125
+		STATE OF INCORPORATION:			WI
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-14948
+		FILM NUMBER:		041215202
+
+	BUSINESS ADDRESS:	
+		STREET 1:		255 FISERV DR
+		STREET 2:		PO BOX 979
+		CITY:			BROOKFIELD
+		STATE:			WI
+		ZIP:			53045
+		BUSINESS PHONE:		4148795000
+
+	MAIL ADDRESS:	
+		STREET 1:		255 FISERV DRIVE
+		CITY:			BROOKFIELD
+		STATE:			WI
+		ZIP:			53045
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>cmw1087.htm
+<DESCRIPTION>CURRENT REPORT
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>
+</TITLE>
+</HEAD>
+<BODY>
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center-TNR" FSL="Project" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>UNITED STATES
+<BR>SECURITIES AND EXCHANGE COMMISSION <BR>Washington, D.C. 20549  </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Center Rule" FSL="Default" -->
+     <P ALIGN=CENTER>_________________ </P>
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center-TNR" FSL="Project" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>FORM 8-K </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center-TNR" FSL="Project" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>CURRENT REPORT </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center-TNR" FSL="Project" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Pursuant to Section 13
+or 15(d) of <BR>the Securities Exchange Act of 1934  </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Center Rule" FSL="Default" -->
+     <P ALIGN=CENTER>_________________ </P>
+
+
+<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 WIDTH=50% align=center>
+<TR VALIGN=Bottom>
+     <TD WIDTH=55% ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Date of Report</FONT></TD>
+     <TD WIDTH=45% ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>(Date of earliest</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>event reported):</FONT></TD>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>December 16, 2004</FONT></TD></TR>
+</TABLE>
+<BR>
+
+<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 WIDTH=100%>
+<TR VALIGN=Bottom>
+     <TD ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Fiserv, Inc.</FONT><HR SIZE=1 WIDTH=30% COLOR=BLACK NOSHADE></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>(Exact name of registrant as specified in its charter)</FONT></TD></TR>
+</TABLE>
+<BR>
+
+
+<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 WIDTH=100%>
+<TR VALIGN=Bottom>
+     <TD WIDTH=34% ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Wisconsin</FONT><HR SIZE=1 WIDTH=30% COLOR=BLACK NOSHADE></TD>
+     <TD WIDTH=33% ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>0-14948</FONT><HR SIZE=1 WIDTH=30% COLOR=BLACK NOSHADE></TD>
+     <TD WIDTH=33% ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>39-1506125</FONT><HR SIZE=1 WIDTH=30% COLOR=BLACK NOSHADE></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>(State or other</FONT></TD>
+     <TD ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>(Commission File</FONT></TD>
+     <TD ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>(IRS Employer</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>jurisdiction of</FONT></TD>
+     <TD ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Number)</FONT></TD>
+     <TD ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Identification No.)</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>incorporation)</FONT></TD></TR>
+</TABLE>
+<BR>
+
+<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 WIDTH=100%>
+<TR VALIGN=Bottom>
+     <TD ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>255 Fiserv Drive, Brookfield, Wisconsin 53045</FONT><HR SIZE=1 WIDTH=40% COLOR=BLACK NOSHADE></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>(Address of principal executive offices, including zip code)</FONT></TD></TR>
+</TABLE>
+<BR>
+
+<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 WIDTH=100%>
+<TR VALIGN=Bottom>
+     <TD ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>(262) 879-5000</FONT><HR SIZE=1 WIDTH=20% COLOR=BLACK NOSHADE></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>(Registrant's telephone number, including area code)</FONT></TD></TR>
+</TABLE>
+<BR>
+
+
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Project" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Check the appropriate box below if
+the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the
+registrant under any of the following provisions: </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Hang Lv 0-TNR" FSL="Project" -->
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0 BORDER=0>
+<TR VALIGN=TOP>
+<TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>[_] </FONT></TD>
+<TD WIDTH=95%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Written
+communications pursuant to Rule 425 under the Securities Act (17 CFR           230.425) </FONT></TD>
+</TR>
+</TABLE>
+
+
+<!-- MARKER FORMAT-SHEET="Para Hang Lv 0-TNR" FSL="Project" -->
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0 BORDER=0>
+<TR VALIGN=TOP>
+<TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>[_] </FONT></TD>
+<TD WIDTH=95%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Soliciting
+material pursuant to Rule 14a-12 under the Exchange Act (17 CFR           240.14a-12) </FONT></TD>
+</TR>
+</TABLE>
+
+
+<!-- MARKER FORMAT-SHEET="Para Hang Lv 0-TNR" FSL="Project" -->
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0 BORDER=0>
+<TR VALIGN=TOP>
+<TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>[_] </FONT></TD>
+<TD WIDTH=95%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Pre-commencement
+communications pursuant to Rule 14d-2(b) under the Exchange Act           (17 CFR
+240.14d-2(b)) </FONT></TD>
+</TR>
+</TABLE>
+
+
+<!-- MARKER FORMAT-SHEET="Para Hang Lv 0-TNR" FSL="Project" -->
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0 BORDER=0>
+<TR VALIGN=TOP>
+<TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>[_] </FONT></TD>
+<TD WIDTH=95%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Pre-commencement
+communications pursuant to Rule 13e-4(c) under the Exchange Act           (17 CFR
+240.13e-4(c)) </FONT></TD>
+</TR>
+</TABLE>
+<BR>
+
+
+
+
+<!-- *************************************************************************** -->
+<!-- MARKER PAGE="sheet: 3; page: 3" -->
+<HR SIZE=5 COLOR=GRAY NOSHADE>
+
+<!-- MARKER FORMAT-SHEET="Head Left-TNR" FSL="Project" -->
+<P ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2><U>Item 1.01</U>.&nbsp;&nbsp;&nbsp;&nbsp;<U>Entry
+into a Material Definitive Agreement</U>. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Large Indent Lv 0-TNR" FSL="Project" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On
+December 16, 2004, Fiserv, Inc. (&#147;Fiserv&#148;) entered into a Stock Purchase
+Agreement (the &#147;Agreement&#148;) among Fiserv, Inc., Fiserv Clearing, Inc. and
+National Financial Services LLC (&#147;National Financial&#148;) pursuant to which
+National Financial will acquire all of the outstanding shares of BHC Investments, Inc., a
+subsidiary of Fiserv (&#147;BHC&#148;), for approximately $349 million in cash payable at
+closing, subject to certain post-closing adjustments, plus a contingent payment of up to
+$15 million to be paid after the first anniversary of the closing date based on
+achievement of specific revenue targets. Consummation of the transaction is subject to
+customary conditions to closing, including receipt of regulatory approvals. The Agreement
+provides that Fiserv will be required to retain certain
+liabilities of BHC, including, among others, those relating to the previously announced
+Securities and Exchange Commission investigation of Fiserv Securities, Inc. The
+transaction is expected to be completed in the first quarter of 2005. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Large Indent Lv 0-TNR" FSL="Default" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A
+copy of the press release announcing the entry into the Agreement is filed as Exhibit 99
+to this Current Report on Form 8-K and is incorporated by reference herein. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Left-TNR" FSL="Project" -->
+<P ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2><U>Item 9.01</U>.&nbsp;&nbsp;&nbsp;&nbsp;
+<U>Financial Statements and Exhibits</U>. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Hang Lv 1-TNR" FSL="Project" -->
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0 BORDER=0>
+<TR VALIGN=TOP>
+<TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>(a)</FONT></TD>
+<TD WIDTH=90%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Not
+applicable. </FONT></TD>
+</TR>
+</TABLE>
+<BR>
+
+<!-- MARKER FORMAT-SHEET="Para Hang Lv 1-TNR" FSL="Project" -->
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0 BORDER=0>
+<TR VALIGN=TOP>
+<TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>(b)</FONT></TD>
+<TD WIDTH=90%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Not
+applicable. </FONT></TD>
+</TR>
+</TABLE>
+<BR>
+
+<!-- MARKER FORMAT-SHEET="Para Hang Lv 1-TNR" FSL="Project" -->
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0 BORDER=0>
+<TR VALIGN=TOP>
+<TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>(c)</FONT></TD>
+<TD WIDTH=90%><FONT FACE="Times New Roman, Times, Serif" SIZE=2><U>Exhibits</U>.
+The following exhibit is being filed herewith: </FONT></TD>
+</TR>
+</TABLE>
+<BR>
+
+<!-- MARKER FORMAT-SHEET="Para Hang Lv 2-TNR" FSL="Project" -->
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0 BORDER=0>
+<TR VALIGN=TOP>
+<TD WIDTH=10%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;</FONT></TD>
+<TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>(99)</FONT></TD>
+<TD WIDTH=85%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Press
+Release of Fiserv, Inc., dated December 16, 2004.  </FONT></TD>
+</TR>
+</TABLE>
+<BR>
+
+<!-- MARKER FORMAT-SHEET="Head Center Underline-TNR" FSL="Project" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2><U>SIGNATURES</U></FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Large Indent Lv 0-TNR" FSL="Default" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pursuant
+to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused
+this report to be signed on its behalf by the undersigned hereunto duly authorized. </FONT></P>
+
+
+<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 WIDTH=100%>
+<TR VALIGN=Bottom>
+     <TH><FONT FACE="Times New Roman, Times, Serif" SIZE=2></FONT></TH>
+     <TH><FONT FACE="Times New Roman, Times, Serif" SIZE=2></FONT></TH></TR>
+<TR VALIGN=Bottom>
+     <TD WIDTH=50% ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2></FONT></TD>
+     <TD WIDTH=50% ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>FISERV, INC.</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2><BR><BR>Date:&nbsp;&nbsp;December 17, 2004</FONT></TD>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>By:&nbsp;&nbsp;<U>/s/ Kenneth R. Jensen</U></FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2></FONT></TD>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kenneth R. Jensen</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2></FONT></TD>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Senior Executive Vice President,</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2></FONT></TD>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chief Financial Officer, Treasurer and</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2></FONT></TD>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Assistant Secretary</FONT></TD></TR>
+</TABLE>
+
+
+<BR>
+<BR>
+<BR>
+
+
+<!-- MARKER FORMAT-SHEET="Page Number Center" FSL="Project" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>2 </FONT></P>
+
+
+<!-- MARKER PAGE="sheet: 2; page: 2" -->
+<HR SIZE=5 COLOR=GRAY NOSHADE>
+
+
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center-TNR" FSL="Project" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>FISERV, INC. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center-TNR" FSL="Project" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Exhibit Index to
+Current Report on Form 8-K<BR>Dated December 16, 2004  </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Project" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Exhibit<BR><U>Number</U></FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Hang Lv 0-TNR" FSL="Project" -->
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0 BORDER=0>
+<TR VALIGN=TOP>
+<TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>(99) </FONT></TD>
+<TD WIDTH=95%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>          Press
+Release of Fiserv, Inc., dated December 16, 2004. </FONT></TD>
+</TR>
+</TABLE>
+<BR>
+
+<BR>
+<BR>
+<BR>
+<BR>
+
+
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+
+<BR>
+<BR>
+<BR>
+
+
+<!-- MARKER FORMAT-SHEET="Page Number Center" FSL="Project" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>3 </FONT></P>
+
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>2
+<FILENAME>cmw1087a.htm
+<DESCRIPTION>PRESS RELEASE
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>
+</TITLE>
+</HEAD>
+<BODY>
+
+<!-- MARKER FORMAT-SHEET="Head Right-TNR" FSL="Project" -->
+<P ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=3><B><I>News Release</I></B> </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Left-TNR" FSL="Project" -->
+<P ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>[GRAPHIC OMITTED][FISERV
+LOGO] </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Right-TNR" FSL="Project" -->
+<P ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2><I>For more information
+contact:  <BR>Leslie M. Muma, President and CEO <BR>(262) 879-5000 </I> </FONT></P>
+
+
+<!-- MARKER FORMAT-SHEET="Head Right-TNR" FSL="Project" -->
+<P ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=2><I>For immediate
+release:<BR>Dec. 16, 2004</I>  </FONT></P>
+
+
+
+
+
+
+
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold-TNR" FSL="Project" -->
+<H1 ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Fiserv Agrees to Sell
+Securities Clearing Operation<BR>to National Financial Unit of Fidelity Investments  </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Para Indent Lv 0-TNR" FSL="Project" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<B>Brookfield,
+Wis., Dec. 16, 2004</B>&#151;Fiserv, Inc. (Nasdaq: FISV) has signed a definitive agreement
+to sell its securities clearing operation, BHC Investments, Inc., to the National
+Financial unit of Fidelity Investments. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Indent Lv 0-TNR" FSL="Project" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The
+transaction, which is subject to satisfaction of standard and customary closing conditions
+in the sale agreement, is expected to be complete in the first quarter of 2005. The sale
+price, including net capital, was approximately $365 million. Fiserv does not anticipate a
+material gain or loss as a result of this transaction. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Indent Lv 0-TNR" FSL="Project" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Leslie
+M. Muma, Fiserv president and chief executive officer, said the sale will enable Fiserv to
+focus more resources on its financial institution, health administration, insurance and
+trust businesses. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Indent Lv 0-TNR" FSL="Project" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#147;We
+see a strong and growing future for our financial institution, health administration,
+insurance and trust operations. Consequently, we believe there are opportunities to
+increase our investments in all of these core businesses,&#148; Muma said. &#147;This
+transaction also provides us with additional capital to enhance our already strong
+financial position and improve our strategic flexibility. At the same time, we expect that
+National Financial can offer our securities clients enhanced capabilities and will provide
+them with a continued high level of service.&#148; </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Indent Lv 0-TNR" FSL="Project" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The
+companies expect Fiserv&#146;s correspondent clients and securities businesses to
+transition to National Financial and Fidelity Brokerage Company by the end of 2005. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Indent Lv 0-TNR" FSL="Project" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#147;This
+acquisition firmly demonstrates Fidelity&#146;s continued long-term commitment to the
+brokerage business &#150; specifically our correspondent clearing operation &#150; and
+will certainly benefit the clients of both National Financial and Fiserv,&#148; said
+Robert L. Reynolds, Fidelity vice chairman and chief operating officer. &#147;National
+Financial has experienced significant growth with the addition of a number of new clients
+just in the past year. This acquisition hastens our growth and adds enormous scale, which
+will be a major benefit for our clients.&#148; </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Page Number Center" FSL="Project" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>1 of 3 </FONT></P>
+
+
+
+<!-- MARKER FORMAT-SHEET="Head Left-TNR" FSL="Project" -->
+<P ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2><I>Fiserv, Corporate
+Headquarters, 255 Fiserv Drive, Brookfield, Wisconsin 53045 PH: 262-879-5000<BR>Mailing Address:
+P.O. Box 979, Brookfield, Wisconsin 53008-0979 Internet: www.fiserv.com</I> </FONT></P>
+
+
+<!-- *************************************************************************** -->
+<!-- MARKER PAGE="sheet: 4; page: 4" -->
+<HR SIZE=5 COLOR=GRAY NOSHADE>
+
+<!-- MARKER FORMAT-SHEET="Head Right-TNR" FSL="Project" -->
+<P ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=3><B><I>News Release</I></B> </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Indent Lv 0-TNR" FSL="Project" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;National
+Financial provides broker/dealers, ranging from institutional and full-service firms to
+independent contractors, banks and discount brokers, with leading-edge clearing and
+execution products and integrated productivity tools to help enhance firm profitability,
+drive business growth and forge deeper customer relationships. National Financial also
+offers a leading online brokerage platform, compliance support, middle-office outsourcing,
+consolidated record keeping tools, fee-based solutions, and retirement and high-net-worth
+products, all supported by dedicated client service professionals. The company currently
+provides clearing services to nearly 270 financial institutions representing 3.9 million
+client accounts and approximately $404 billion in assets, as of November 30, 2004. For
+more information about National Financial, please visit <U>www.nationalfinancial.com</U>. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Indent Lv 0-TNR" FSL="Project" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fiserv,
+Inc. (Nasdaq: FISV) provides information management systems and services to the financial
+industry, including transaction processing, outsourcing, business process outsourcing and
+software and systems solutions. The company serves more than 15,000 clients worldwide,
+including banks, broker-dealers, credit unions, financial planners/investment advisers,
+insurance companies and agents, self-funded employers, lenders and savings institutions.
+Headquartered in Brookfield, Wis., Fiserv reported $2.7 billion in processing and services
+revenues for 2003. Fiserv was ranked the largest provider of information technology
+services to the U.S. financial services industry in the 2004 FinTech 100 survey by the
+<I>American Banker</I> newspaper and the Financial Insights research firm. Fiserv can be
+found on the Internet at <U>www.fiserv.com</U>. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Page Number Center" FSL="Project" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>2 of 2 </FONT></P>
+
+
+<!-- MARKER FORMAT-SHEET="Head Left-TNR" FSL="Project" -->
+<P ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2><I>Fiserv, Corporate
+Headquarters, 255 Fiserv Drive, Brookfield, Wisconsin 53045 PH: 262-879-5000<BR>Mailing Address:
+P.O. Box 979, Brookfield, Wisconsin 53008-0979 Internet: www.fiserv.com</I> </FONT></P>
+
+
+
+<!-- *************************************************************************** -->
+<!-- MARKER PAGE="sheet: 5; page: 5" -->
+<HR SIZE=5 COLOR=GRAY NOSHADE>
+
+<!-- MARKER FORMAT-SHEET="Head Right-TNR" FSL="Project" -->
+<P ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE=3><B><I>News Release</I></B> </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Indent Lv 0-TNR" FSL="Default" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<I>The
+disclosure set forth above contains &#147;forward-looking statements&#148; intended to
+qualify for the safe harbor from liability established by the Private Securities
+Litigation Reform Act of 1995. These forward-looking statements can generally be
+identified as such because the context of the statement will include words such as
+&#147;anticipates,&#148; &#147;expects&#148; or words of similar import. Similarly,
+statements that describe future plans, objectives or goals of the Company are also
+forward-looking statements. Such forward-looking statements are subject to certain risks
+and uncertainties, which could cause actual results to differ materially from those
+currently anticipated. Factors that could affect results include, among others, economic,
+competitive, governmental, regulatory and technological factors affecting the
+Company&#146;s operations, markets, services and related products, prices and other
+factors discussed in the Company&#146;s prior filings with the Securities and Exchange
+Commission. Shareholders, potential investors and other readers are urged to consider
+these factors carefully in evaluating the forward-looking statements and are cautioned not
+to place undue reliance on such forward-looking statements. The Company assumes no
+obligation to update any forward-looking statements, whether as a result of new
+information, future events or otherwise.</I> </FONT></P>
+
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center-TNR" FSL="Project" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>#&nbsp;#&nbsp;# </FONT></P>
+
+
+<!-- MARKER FORMAT-SHEET="Head Left-TNR" FSL="Project" -->
+<P ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Chuck Doherty<BR>Corporate PR
+Director<BR>Fiserv, Inc.  <BR>(262) 879-5966  </FONT></P>
+
+
+
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+
+<BR>
+
+<!-- MARKER FORMAT-SHEET="Page Number Center" FSL="Project" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>3 of 3 </FONT></P>
+
+
+
+<!-- MARKER FORMAT-SHEET="Head Left-TNR" FSL="Project" -->
+<P ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2><I>Fiserv, Corporate
+Headquarters, 255 Fiserv Drive, Brookfield, Wisconsin 53045 PH: 262-879-5000<BR>Mailing Address:
+P.O. Box 979, Brookfield, Wisconsin 53008-0979 Internet: www.fiserv.com</I> </FONT></P>
+
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

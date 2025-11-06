@@ -1,0 +1,377 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ OceefWzB1nJDFo2NRPyAgswx9uR0C0rNqQFaXro6yUJsoIJeAZpOLwLntKHMSr4u
+ 6FoERJ62Aa+0HKCfOe9Trg==
+
+<SEC-DOCUMENT>0001071787-04-001477.txt : 20041227
+<SEC-HEADER>0001071787-04-001477.hdr.sgml : 20041224
+<ACCEPTANCE-DATETIME>20041227160334
+ACCESSION NUMBER:		0001071787-04-001477
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20041225
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20041227
+DATE AS OF CHANGE:		20041227
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			MORTGAGE PASS THROUGH CERTIFICATES SERIES 2002-5
+		CENTRAL INDEX KEY:			0001172055
+		STANDARD INDUSTRIAL CLASSIFICATION:	ASSET-BACKED SECURITIES [6189]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-74544-08
+		FILM NUMBER:		041226516
+
+	BUSINESS ADDRESS:	
+		STREET 1:		201 NORTH TRYON STREET
+		CITY:			CHARLOTTE
+		STATE:			NC
+		ZIP:			28255-7137
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>boa0205_8k0412.txt
+<TEXT>
+                      SECURITIES AND EXCHANGE COMMISSION
+
+                            Washington, D.C. 20549
+
+                                   FORM 8-K
+
+                                CURRENT REPORT
+
+                    Pursuant to Section 13 or 15(d) of the
+
+                        Securities Exchange Act of 1934
+
+      Date of Report (Date of earliest event reported): December 20, 2004
+
+                                      BOA
+
+                                  (Depositor)
+
+ (Issuer in respect of Mortgage Pass-Through Certificates, Series 2002-5 Trust)
+
+                (Exact name of registrant as specified in charter)
+
+North Carolina                333-74544-08                  02-0620001
+(State or other               (Commission File No.)         (I.R.S. Employer
+    jurisdiction of                                         Identification No.)
+    organization)
+
+
+
+101 N. Tryon St., Charlotte, NC                             28255
+(Address of principal executive offices)                    (Zip Code)
+
+
+Registrant's Telephone Number, including area code: 704-387-2111
+
+                                 Not Applicable
+              (Former name, former address and former fiscal year,
+                          if changed since last report)
+
+Check the appropriate box below if the Form 8-K filing is intended to
+simultaneously satisfy the filing obligation of the registrant under any of the
+following provisions.
+
+[]Written communications pursuant to Rule 425 under the Securities Act (17
+  CFR 230.425)
+[]Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17
+  CFR 240.14a-12)
+[]Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange
+  Act (17 CFR 240.14d-2(b))
+[]Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange
+  Act (17 CFR 240.13e-4(c))
+
+
+<PAGE>
+
+
+                    Section 8 - Other Events
+
+  Item 8.01  Other Events
+
+                    Section 9 - Financial Statements and Exhibits
+
+  Item 9.01  Financial Statements and Exhibits
+
+
+<PAGE>
+
+
+
+                                   SIGNATURES
+
+Pursuant  to the  requirements  of the  Securities  Exchange  Act of  1934,  the
+registrant  has duly  caused  this  report  to be  signed  on its  behalf by the
+undersigned thereunto duly authorized.
+
+Dated: December 20, 2004
+
+
+                                      BOA
+
+
+                          By: /s/ Diane Pickett
+                              ------------------------------
+                          Name:   Diane Pickett
+                                  Vice President
+                                  The Bank of New York,
+                                  as Trustee
+
+
+
+<PAGE>
+
+
+
+                                 EXHIBIT INDEX
+
+
+
+Exhibit
+
+
+99                  Monthly Remittance Statement dated December 20, 2004
+
+
+                             Payment Date: 12/20/04
+
+
+          ------------------------------------------------------------
+                   Bank of America Mortgage Securities, Inc.
+            Mortgage Pass-Through Certificates, Series 2002-5 Trust
+                        Bank of America, NA, as Servicer
+          ------------------------------------------------------------
+<TABLE>
+<CAPTION>
+
+Class Information                                Current Payment Information
+
+- ----------------------------------------------------------------------------------------------------------------------------------
+                                 Beginning       Pass Thru     Principal       Interest      Total           Principal  Interest
+Type       Class Code   Name     Cert. Bal.      Rate          Dist. Amt.      Dist. Amt.    Dist.           Losses     Shortfalls
+- ----------------------------------------------------------------------------------------------------------------------------------
+<S>        <C>          <C>      <C>             <C>           <C>             <C>           <C>             <C>        <C>
+Senior                  A-1                 0.00    6.750000%             0.00          0.00            0.00       0.00       0.00
+                        A-2                 0.00    6.750000%             0.00          0.00            0.00       0.00       0.00
+                        A-3                 0.00    6.250000%             0.00          0.00            0.00       0.00       0.00
+                        A-4                 0.00    2.690000%             0.00          0.00            0.00       0.00       0.00
+                        A-5                 0.00    5.810000%             0.00          0.00            0.00       0.00       0.00
+                        A-6         4,303,157.21    6.750000%        29,780.11     24,205.26       53,985.37       0.00       0.00
+                        A-PO           51,813.47    0.000000%            79.89          0.00           79.89       0.00       0.00
+                        A-WIO       5,343,864.30    0.412717%             0.00      1,837.92        1,837.92       0.00       0.00
+Residual                A-R                 0.00    6.750000%             0.00          0.01            0.01       0.00       0.00
+                        A-LR                0.00    6.750000%             0.00          0.00            0.00       0.00       0.00
+- ----------------------------------------------------------------------------------------------------------------------------------
+Subordinate             B-1         1,096,761.16    6.750000%         1,872.56      6,169.28        8,041.84       0.00       0.00
+                        B-2           392,314.04    6.750000%           669.82      2,206.77        2,876.58       0.00       0.00
+                        B-3           313,087.61    6.750000%           534.55      1,761.12        2,295.67       0.00       0.00
+                        B-4           156,543.80    6.750000%           267.28        880.56        1,147.83       0.00       0.00
+                        B-5           234,815.70    6.750000%           400.91      1,320.84        1,721.75       0.00       0.00
+                        B-6           157,569.44    6.750000%           269.03        886.33        1,155.35       0.00       0.00
+- ----------------------------------------------------------------------------------------------------------------------------------
+- ----------------------------------------------------------------------------------------------------------------------------------
+Totals          -        -          6,706,062.44     -               33,874.14     39,268.08       73,142.22     -          -
+- ----------------------------------------------------------------------------------------------------------------------------------
+Class Information
+
+- --------------------------------------------------------------------------------
+                                             Ending Cert.          Unpaid
+Type             Class Code     Name         Notional Bal.         Interest
+- --------------------------------------------------------------------------------
+Senior                          A-1                 0.00              0.00
+                                A-2                 0.00              0.00
+                                A-3                 0.00              0.00
+                                A-4                 0.00              0.00
+                                A-5                 0.00              0.00
+                                A-6         4,273,377.10              0.00
+                                A-PO           51,733.58              0.00
+                                A-WIO       5,312,083.17              0.00
+Residual                        A-R                 0.00              0.00
+                                A-LR                0.00              0.00
+- --------------------------------------------------------------------------------
+Subordinate                     B-1         1,094,888.60              0.00
+                                B-2           391,644.22              0.00
+                                B-3           312,553.06              0.00
+                                B-4           156,276.53              0.00
+                                B-5           234,414.79              0.00
+                                B-6           157,300.42              0.00
+- --------------------------------------------------------------------------------
+- --------------------------------------------------------------------------------
+Totals            -              -          6,672,188.30     -
+- --------------------------------------------------------------------------------
+
+</TABLE>
+<PAGE>
+                             Payment Date: 12/20/04
+
+
+          ------------------------------------------------------------
+                   Bank of America Mortgage Securities, Inc.
+            Mortgage Pass-Through Certificates, Series 2002-5 Trust
+                        Bank of America, NA, as Servicer
+          ------------------------------------------------------------
+<TABLE>
+<CAPTION>
+
+Class Information                                Current Payment Information
+
+                                                      Factors per $1,000
+
+- ------------------------------------------------------------------------------------------------------------------------
+                                   Beginning     Pass Thru    CUSIP       Principal     Interest    Ending Cert./
+Type        Class Code    Name   Cert. Bal.(Face)  Rate       Numbers       Dist.         Dist.     Notional Bal.
+- ------------------------------------------------------------------------------------------------------------------------
+<S>         <C>           <C>    <C>               <C>        <C>         <C>           <C>         <C>
+- ------------------------------------------------------------------------------------------------------------------------
+Senior                     A-1             0.00     6.750000% 06050HHR2     0.000000      0.000000      0.000000
+                           A-2             0.00     6.750000% 06050HHS0     0.000000      0.000000      0.000000
+                           A-3             0.00     6.250000% 06050HHT8     0.000000      0.000000      0.000000
+                           A-4             0.00     2.690000% 06050HHU5     0.000000      0.000000      0.000000
+                           A-5             0.00     5.810000% 06050HHV3     0.000000      0.000000      0.000000
+                           A-6     4,303,157.21     6.750000% 06050HHW1     1.815860      1.475930    260.571774
+                           A-PO       51,813.47     0.000000% 06050HJA7     0.110996      0.000000     71.875280
+                           A-WIO   5,343,864.30     0.412717% 06050HHZ4     0.000000      0.014034     40.562905
+Residual                   A-R             0.00     6.750000% 06050HHX9     0.000000      0.197802      0.000000
+                           A-LR            0.00     6.750000% 06050HHY7     0.000000      0.000000      0.000000
+- ------------------------------------------------------------------------------------------------------------------------
+Subordinate                B-1     1,096,761.16     6.750000% 06050HJB5     1.629728      5.369262    952.905656
+                           B-2       392,314.04     6.750000% 06050HJC3     1.629728      5.369262    952.905656
+                           B-3       313,087.61     6.750000% 06050HJD1     1.629728      5.369262    952.905656
+                           B-4       156,543.80     6.750000% 06050HJE9     1.629728      5.369262    952.905656
+                           B-5       234,815.70     6.750000% 06050HJF6     1.629728      5.369262    952.905656
+                           B-6       157,569.44     6.750000% 06050HJG4     1.629732      5.369272    952.907563
+- ------------------------------------------------------------------------------------------------------------------------
+- ------------------------------------------------------------------------------------------------------------------------
+Totals       -             -       6,706,062.44       -            -           -             -           -
+- ------------------------------------------------------------------------------------------------------------------------
+- ------------------------------------------------------------------------------------------------------------------------
+</TABLE>
+
+
+<PAGE>
+
+          ------------------------------------------------------------
+                   Bank of America Mortgage Securities, Inc.
+            Mortgage Pass-Through Certificates, Series 2002-5 Trust
+                        Bank of America, NA, as Servicer
+          ------------------------------------------------------------
+
+- --------------------------------------------------------------------------------
+                             COLLATERAL INFORMATION
+- --------------------------------------------------------------------------------
+
+                                           Total
+                                           -----
+Prin balance         6,672,188.05     6,672,188.05
+Loan count                     19               19
+Avg loan rate           7.280729%             7.28
+Prepay amount           22,433.10        22,433.10
+
+- --------------------------------------------------------------------------------
+                                FEES AND ADVANCES
+- --------------------------------------------------------------------------------
+
+                                           Total
+                                           -----
+Master serv fees         1,397.10         1,397.10
+Sub servicer fees            0.00             0.00
+Trustee fees                22.35            22.35
+
+
+Agg advances                  N/A              N/A
+Adv this period              0.00             0.00
+
+- --------------------------------------------------------------------------------
+                          LOSSES & INSURANCE COVERAGES
+- --------------------------------------------------------------------------------
+
+                                           Total
+                                           -----
+Realized losses              0.00             0.00
+Cumulative losses            0.00             0.00
+
+Coverage Amounts                           Total
+- ----------------                           -----
+Bankruptcy                   0.00             0.00
+Fraud                1,641,589.43     1,641,589.43
+Special Hazard               0.00             0.00
+
+
+                         Aggregate Certificate Information
+   -----------------------------------------------------------------------------
+   Class            Aggregate           Aggregate                     Aggregate
+   Type            Percentage           Prepay Pct.              End Cert. Bal.
+   -----------------------------------------------------------------------------
+   Senior           64.979697%           100.000000%              4,354,970.68
+   -----------------------------------------------------------------------------
+   Junior           35.020303%             0.000000%              2,347,077.61
+   -----------------------------------------------------------------------------
+
+- --------------------------------------------------------------------------------
+                          DELINQUENCY INFORMATION
+- --------------------------------------------------------------------------------
+Period                             Loan Count    Ending Stated Balance
+- ------                             ----------    ---------------------
+30 to 59 days                           1                   371,796.43
+60 to 89 days                           0                         0.00
+90 or more                              0                         0.00
+Foreclosure                             0                         0.00
+
+Totals:                                 1                   371,796.43
+- --------------------------------------------------------------------------------
+
+
+<PAGE>
+- --------------------------------------------------------------------------------
+                                REO INFORMATION
+- --------------------------------------------------------------------------------
+   REO Date        Loan Number     Ending Stated Balance          Book Value
+   --------        -----------     ---------------------          ----------
+   N/A              #                   0                            N/A
+   N/A              #                   0                            N/A
+   N/A              #                   0                            N/A
+   N/A              #                   0                            N/A
+   N/A              #                   0                            N/A
+   N/A              #                   0                            N/A
+   N/A              #                   0                            N/A
+   N/A              #                   0                            N/A
+   Totals:                              0                            N/A
+
+Current Total Outstanding Balance:                                      0.00
+Current Total Outstanding Number of Loans:                                 0
+
+
+
+<PAGE>
+- --------------------------------------------------------------------------------
+                               OTHER INFORMATION
+- --------------------------------------------------------------------------------
+                                  Amount/Withdrawal     Total/Ending Bal.
+                                  -----------------     -----------------
+Available remittance amount               73,142.22             73,142.22
+Principal remittance amount               33,874.14             33,874.14
+Interest remittance amount                39,268.08             39,268.08
+
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

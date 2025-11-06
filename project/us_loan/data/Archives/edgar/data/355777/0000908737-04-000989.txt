@@ -1,0 +1,1456 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ DKUuWuTF6QbmeuOUqOId804O/jn6UGOQb8yJzzUNxMNICXdCwad8HJNZ73LC6h7F
+ /MnTwJW19YslhPIRdjU/6A==
+
+<SEC-DOCUMENT>0000908737-04-000989.txt : 20041221
+<SEC-HEADER>0000908737-04-000989.hdr.sgml : 20041221
+<ACCEPTANCE-DATETIME>20041221124319
+ACCESSION NUMBER:		0000908737-04-000989
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20041216
+ITEM INFORMATION:		Entry into a Material Definitive Agreement
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20041221
+DATE AS OF CHANGE:		20041221
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			LOJACK CORP
+		CENTRAL INDEX KEY:			0000355777
+		STANDARD INDUSTRIAL CLASSIFICATION:	COMMUNICATIONS EQUIPMENT, NEC [3669]
+		IRS NUMBER:				042664794
+		STATE OF INCORPORATION:			MA
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-08439
+		FILM NUMBER:		041216375
+
+	BUSINESS ADDRESS:	
+		STREET 1:		200 LOWDER BROOK DRIVE
+		STREET 2:		SUITE 1000
+		CITY:			WESTWOOD
+		STATE:			MA
+		ZIP:			02090
+		BUSINESS PHONE:		781-326-4700
+
+	MAIL ADDRESS:	
+		STREET 1:		200 LOWDER BROOK DRIVE
+		STREET 2:		SUITE 1000
+		CITY:			WESTWOOD
+		STATE:			MA
+		ZIP:			02090
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>lojack8k_dec21.htm
+<TEXT>
+<HTML>
+<HEAD>
+     <!-- Created by EDGAR Ease Plus (EDGAR Ease+) -->
+     <!-- Project:        O:\Edgar\Lojack\8K\2004\12-21-04\lojack8k_dec21.eep              -->
+     <!-- Control Number:                                                                  -->
+     <!-- Rev Number:     1                                                                -->
+     <!-- Client Name:    LOJACK CORPORATION                                               -->
+     <!-- Project Name:   8K -- December 21, 2004                                          -->
+     <!-- Firm Name:                                                                       -->
+     <TITLE>8K</TITLE>
+</HEAD>
+<BODY>
+
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold-TNR" FSL="Default" -->
+<H1 ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE="3">UNITED STATES<BR>
+SECURITIES AND EXCHANGE COMMISSION<BR>
+WASHINGTON, D.C. 20549</FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold-TNR" FSL="Project" -->
+<H1 ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=3>FORM 8-K</FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold-TNR" FSL="Project" -->
+<H1 ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=3>CURRENT REPORT PURSUANT<BR>
+TO SECTION 13 OR 15(d) OF THE <BR>
+SECURITIES EXCHANGE ACT OF 1934<BR> </FONT></H1>
+
+
+<!-- MARKER FORMAT-SHEET="Para Large Indent" FSL="Default" -->
+<P ALIGN="CENTER"><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Date
+of Report (Date of earliest event reported): <B>December 16, 2004</B>  </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold" FSL="Default" -->
+
+<p ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE="3"><B>LOJACK CORPORATION</B></FONT><BR>
+<FONT FACE="Times New Roman, Times, Serif" SIZE="2">(Exact Name of Registrant as Specified in Its Charter) </FONT> </p>
+
+<p ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>Massachusetts</B></FONT><BR>
+<FONT FACE="Times New Roman, Times, Serif" SIZE="2">(State or Other Jurisdiction of Incorporation) </FONT> </p>
+
+<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" ALIGN="CENTER" WIDTH="100%">
+<TR VALIGN="TOP" ALIGN="CENTER">
+     <TD WIDTH="50%"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>1-8439</B><BR>(Commission File Number) </FONT></TD>
+     <TD WIDTH="50%"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>04-2664794</B><BR>(IRS Employer Identification No.) </FONT> </TD></TR>
+</TABLE>
+
+<BR><BR>
+<TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0">
+<TR VALIGN="TOP">
+     <TD WIDTH="75%"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>200 Lowder Brook Drive, Suite 1000, Westwood, Massachusetts</B><BR>(Address of Principal Executive Offices)</FONT></TD>
+     <TD WIDTH="25%"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>02090</B><BR>(Zip Code)</FONT></TD></TR>
+</TABLE>
+
+<!-- MARKER FORMAT-SHEET="Para Large Indent" FSL="Default" -->
+<P ALIGN="CENTER"><FONT FACE="Times New Roman, Times, Serif" SIZE=2><B>781-251-4700</B><BR>(Registrant&#146;s
+Telephone Number, Including Area Code) </FONT></P>
+
+<BR><BR><BR>
+<!-- MARKER FORMAT-SHEET="Para Flush" FSL="Default" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Check the appropriate box below if
+the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the
+registrant under any of the following provisions. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Hang" FSL="Default" -->
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0>
+<TR VALIGN=TOP>
+<TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>____  </FONT></TD>
+<TD><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp; </FONT></TD>
+<TD WIDTH=95%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Written
+communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) </FONT></TD>
+</TR>
+</TABLE>
+<BR>
+
+<!-- MARKER FORMAT-SHEET="Para Hang" FSL="Default" -->
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0>
+<TR VALIGN=TOP>
+<TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>____  </FONT></TD>
+<TD><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp; </FONT></TD>
+<TD WIDTH=95%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Soliciting
+material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) </FONT></TD>
+</TR>
+</TABLE>
+<BR>
+
+<!-- MARKER FORMAT-SHEET="Para Hang" FSL="Default" -->
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0>
+<TR VALIGN=TOP>
+<TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>____  </FONT></TD>
+<TD><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp; </FONT></TD>
+<TD WIDTH=95%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Pre-commencement
+communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) </FONT></TD>
+</TR>
+</TABLE>
+<BR>
+
+<!-- MARKER FORMAT-SHEET="Para Hang" FSL="Default" -->
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0>
+<TR VALIGN=TOP>
+<TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>____  </FONT></TD>
+<TD><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp; </FONT></TD>
+<TD WIDTH=95%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Pre-commencement
+communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) </FONT></TD>
+</TR>
+</TABLE>
+<BR>
+
+
+<BR>
+<HR SIZE=5 COLOR=GRAY NOSHADE>
+<PAGE>
+
+
+<!-- MARKER FORMAT-SHEET="Head Major Left Bold" FSL="Default" -->
+<A NAME=A001></A>
+<H1 ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Item 1.01. Entry into a
+Material Definitive Agreement.</FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Para Indent" FSL="Default" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On
+December 16, 2004 the Board of Directors of LoJack Corporation adopted a Non-Qualified
+Deferred Compensation Plan effective as of January 1, 2005 (the &#147;Plan&#148;). The
+purpose of the Plan is to provide certain management and highly compensated employees a
+means to defer taxable compensation and to receive certain matching contributions from the
+company. All of the company&#146;s executive officers and certain others have been
+selected as eligible employees and invited to participate in the Plan. A copy of the Plan
+is attached hereto as Exhibit 10.1. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Major Left Bold" FSL="Default" -->
+<H1 ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Item 9.01. Financial Statements and Exhibits.</FONT></H1>
+
+<P ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>(c) <I>Exhibits</i></FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Hang" FSL="Default" -->
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0>
+<TR VALIGN=TOP>
+<TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>10.1 </FONT></TD>
+<TD><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp; </FONT></TD>
+<TD WIDTH=95%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>LoJack
+Corporation Non-Qualified Deferred Compensation Plan</FONT></TD>
+</TR>
+</TABLE>
+<BR>
+
+
+<BR><BR><BR><BR><BR><BR>
+
+
+<BR>
+<HR SIZE=5 COLOR=GRAY NOSHADE>
+<PAGE>
+
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center" FSL="Default" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>SIGNATURES </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Indent" FSL="Default" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pursuant
+to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused
+this report to be signed on its behalf by the undersigned hereunto duly authorized. </FONT></P>
+
+<BR><BR>
+<TABLE WIDTH="100%" CELLPADDING="0" CELLSPACING="0">
+<TR VALIGN="TOP">
+     <TD WIDTH="50%"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp;</FONT></TD>
+     <TD WIDTH="50%"><FONT FACE="Times New Roman, Times, Serif" SIZE="2">LOJACK CORPORATION<BR>
+     (Registrant)<BR>
+     <BR>
+     By: <U>/s/ Keith Farris</U><BR>
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Keith Farris<BR>
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vice President of Finance and <BR>
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chief Financial Officer </FONT></TD>
+</TR>
+</TABLE>
+
+
+<BR><BR>
+<!-- MARKER FORMAT-SHEET="Head Left" FSL="Default" -->
+<P ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Date: December 21, 2004</FONT></P>
+
+<BR><BR><BR><BR><BR>
+
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10
+<SEQUENCE>2
+<FILENAME>exh10.txt
+<TEXT>
+                               LOJACK CORPORATION
+
+                     NONQUALIFIED DEFERRED COMPENSATION PLAN
+
+
+
+
+
+<PAGE>
+
+
+
+
+                               LOJACK CORPORATION
+                     NONQUALIFIED DEFERRED COMPENSATION PLAN
+
+<TABLE>
+<CAPTION>
+                                Table of Contents
+                                                                                                               Page
+                             Article 1 - Definitions
+
+<S>                                                                                                              <C>
+Article 1 - Definitions...........................................................................................1
+
+   1.1      Account...............................................................................................1
+   1.2      Administrator.........................................................................................1
+   1.3      Board.................................................................................................1
+   1.4      Bonus.................................................................................................1
+   1.5      Code..................................................................................................1
+   1.6      Compensation..........................................................................................1
+   1.7      Deferrals.............................................................................................1
+   1.8      Deferral Election.....................................................................................2
+   1.9      Disability............................................................................................2
+   1.10     Effective Date........................................................................................2
+   1.11     Eligible Employee.....................................................................................2
+   1.12     Employee..............................................................................................2
+   1.13     Employer..............................................................................................2
+   1.14     Employer Discretionary Contribution...................................................................2
+   1.15     Investment Fund or Funds..............................................................................2
+   1.16     Matching Contribution.................................................................................2
+   1.17     Participant...........................................................................................2
+   1.18     Plan Year.............................................................................................2
+   1.19     Retirement............................................................................................2
+   1.20     Salary................................................................................................3
+   1.21     Trust.................................................................................................3
+   1.22     Trustee...............................................................................................3
+   1.23     Years of Service......................................................................................3
+
+Article 2 - Participation.........................................................................................3
+
+   2.1      Commencement of Participation.........................................................................3
+   2.2      Loss of Eligible Employee Status......................................................................3
+
+Article 3 - Contributions.........................................................................................3
+
+   3.1      Deferrals.............................................................................................3
+   3.2      Matching Contribution.................................................................................4
+   3.3      Employer Discretionary Contributions..................................................................5
+   3.4      Time of Contributions.................................................................................5
+   3.5      Form of Contributions.................................................................................5
+</TABLE>
+
+
+1104                                                                           2
+
+<PAGE>
+
+<TABLE>
+<S>                                                                                                              <C>
+Article 4 - Vesting...............................................................................................5
+
+   4.1      Vesting of Deferrals..................................................................................5
+   4.2      Vesting of Matching Contributions.....................................................................5
+   4.3      Vesting of Employer Discretionary Contributions.......................................................6
+   4.4      Vesting in Event of Retirement, Disability, Death or Change in Control................................6
+   4.5      Change in Control.....................................................................................6
+   4.6      Amounts Not Vested....................................................................................8
+
+Article 5 - Accounts..............................................................................................8
+
+   5.1      Accounts..............................................................................................8
+   5.2      Investments, Gains and Losses.........................................................................9
+   5.3      Forfeitures...........................................................................................9
+
+Article 6 - Distributions.........................................................................................9
+
+   6.1      Distribution Election.................................................................................9
+   6.2      Payment Options......................................................................................10
+   6.3      Changes to Distribution Elections....................................................................10
+   6.4      Commencement of Payment upon Death, Disability or Termination........................................11
+   6.5      Distributions to Specified Employee..................................................................11
+   6.6      Minimum Distribution.................................................................................11
+   6.7      Unforeseeable Emergency..............................................................................11
+
+Article 7 - Beneficiaries........................................................................................12
+
+   7.1      Beneficiaries........................................................................................12
+   7.2      Lost Beneficiary.....................................................................................12
+
+Article 8 - Funding..............................................................................................12
+
+   8.1      Prohibition Against Funding..........................................................................12
+   8.2      Deposits in Trust....................................................................................13
+   8.3      Indemnification of Trustee...........................................................................13
+   8.4      Withholding of Employee Contributions................................................................13
+
+Article 9 - Claims Administration................................................................................13
+
+   9.1      General..............................................................................................13
+   9.2      Claims Procedure.....................................................................................13
+   9.3      Right of Appeal......................................................................................14
+   9.4      Review of Appeal.....................................................................................14
+</TABLE>
+
+
+1104                                                                           3
+
+<PAGE>
+
+
+<TABLE>
+<S>                                                                                                              <C>
+Article 10 - General Provisions..................................................................................14
+
+   10.1     Administrator........................................................................................14
+   10.2     No Assignment........................................................................................15
+   10.3     No Employment Rights.................................................................................15
+   10.4     Incompetence.........................................................................................16
+   10.5     Identity.............................................................................................16
+   10.6     Other Benefits.......................................................................................16
+   10.7     No Liability.........................................................................................16
+   10.8     Expenses.............................................................................................16
+   10.9     Insolvency...........................................................................................16
+   10.10    Plan Amendment.......................................................................................17
+   10.11    Plan Termination.....................................................................................17
+   10.12    Employer Determinations..............................................................................18
+   10.13    Construction.........................................................................................18
+   10.14    Governing Law........................................................................................18
+   10.15    Severability.........................................................................................18
+   10.16    Headings.............................................................................................18
+   10.17    Terms................................................................................................18
+</TABLE>
+
+
+1104                                                                           4
+
+<PAGE>
+
+                               LOJACK CORPORATION
+                     NONQUALIFIED DEFERRED COMPENSATION PLAN
+
+         LoJack  Corporation,  a Massachusetts  corporation,  hereby adopts this
+LoJack Corporation  Nonqualified Deferred Compensation Plan (the "Plan") for the
+benefit of a select group of management or highly  compensated  employees.  This
+plan  is an  unfunded  arrangement  and  is  intended  to  be  exempt  from  the
+participation, vesting, funding, and fiduciary requirements set forth in Title I
+of the Employee Retirement Income Security Act of 1974, as amended ("ERISA"). It
+is intended to comply with  Internal  Revenue  Code Section  409A.  This Plan is
+effective January 1, 2005.
+
+                            Article 1 - Definitions
+
+1.1      Account.
+         The bookkeeping account established for each Participant as provided in
+section 5.1 hereof.
+
+1.2      Administrator.
+         An  administrative  committee  appointed  by  the  Board  of  Director,
+including but not limited to, the Executive Vice President and General  Counsel,
+the Chief Financial Officer, and the Vice President of Human Resources. The Plan
+Administrator  shall  serve as the agent for the  Employer  with  respect to the
+Trust.
+
+1.3      Board.
+         The Board of Directors of the Employer.
+
+1.4      Bonus.
+         Compensation which is "performance-based  compensation" for purposes of
+Code Section  409A(a)(4)(B)(ii)  and regulations and is designated as a Bonus by
+the Employer and which relates to services  performed during an incentive period
+by an Eligible  Employee in addition to his or her Salary,  including any pretax
+elective  deferrals from said Bonus to any Employer sponsored plan that includes
+amounts  deferred  under a Deferral  Election  or a  qualified  cash or deferred
+arrangement under Code Section 401(k) or cafeteria plan under Code Section 125.
+
+1.5      Code.
+         The Internal Revenue Code of 1986, as amended.
+
+1.6      Compensation.
+         The  Participant's  earned income,  including  Salary,  Bonus and other
+remuneration from the Employer.
+
+1.7      Deferrals.
+         The  portion  of  Compensation  that a  Participant  elects to defer in
+accordance with section 3.1 hereof.
+
+
+1104                                                                           2
+
+<PAGE>
+
+1.8      Deferral Election.
+         The separate agreement, submitted to the Administrator, by which an
+Eligible Employee agrees to participate in the Plan and make Deferrals thereto.
+
+1.9      Disability.
+         A participant shall be considered disabled if the participant meets the
+definition of disabled as stated in Code Section 409A(a)(1)(C) and regulations.
+
+1.10     Effective Date.
+         January 1, 2005.
+
+1.11     Eligible Employee.
+         An Employee  shall be considered an Eligible  Employee if such Employee
+is designated as an Eligible Employee by the Administrator.
+
+1.12     Employee.
+         Any person employed by the Employer.
+
+1.13     Employer.
+         LoJack  Corporation,  or any  successor  thereto,  and any affiliate or
+subsidiary  that elects to cover its employees under this Plan with the Approval
+of LoJack Corporation.
+
+1.14     Employer Discretionary Contribution.
+         A discretionary contribution made by the Employer to the Trust and that
+is credited to one or more  Participant's  Accounts in accordance with the terms
+of section 3.3 hereof.
+
+1.15     Investment Fund or Funds.
+         Each investment(s) which serves as a means to measure value,  increases
+or decreases with respect to a Participant's Accounts.
+
+1.16     Matching Contribution.
+         A  contribution  made by the Employer to the Trust and that is credited
+to one or more  Participant's  Accounts in accordance  with the terms of Section
+3.2 hereof.
+
+1.17     Participant.
+         An Eligible Employee who is a Participant as provided in Article 2.
+
+1.18     Plan Year.
+         January 1 through December 31.
+
+1.19     Retirement.
+         Retirement  means a Participant has reached Normal  Retirement or Early
+Retirement. Normal Retirement means a Participant has retired from the employ of
+the  Employer  and he or she  has  reached  age  65.  Early  Retirement  means a
+Participant  has  retired  from the  employ  of the  Employer  and he or she has
+reached age 55 and has 10 Years of Service.
+
+
+1104                                                                           2
+
+<PAGE>
+
+1.20     Salary.
+         An Eligible  Employee's base salary rate or rates in effect at any time
+during a Plan Year,  including any pretax elective deferrals from said Salary to
+any Employer  sponsored  plan that includes  amounts  deferred  under a Deferral
+Election or a qualified cash or deferred  arrangement  under Code Section 401(k)
+or cafeteria plan under Code Section 125.
+
+1.21     Trust.
+         The  agreement  between the  Employer  and the Trustee  under which the
+assets of the Plan are held,  administered  and managed,  which shall conform to
+the terms of Rev. Proc. 92-64.
+
+1.22     Trustee.
+         Investors  Bank and Trust  Company or such other  successor  that shall
+become  trustee  pursuant  to the terms of the LoJack  Corporation  Nonqualified
+Deferred Compensation Plan.
+
+1.23     Years of Service.
+         A  Participant's  "Years of Service"  shall be  measured by  employment
+during a twelve (12) month period commencing with the Participant's date of hire
+and anniversaries thereof.
+
+                           Article 2 - Participation
+
+2.1      Commencement of Participation.
+         Each Eligible Employee shall become a Participant at the earlier of the
+date on which his or her Deferral  Election first becomes  effective or the date
+on which an Employer Contribution is first credited to his or her Account.
+
+2.2      Loss of Eligible Employee Status.
+
+                  (a) A Participant who is no longer an Eligible  Employee shall
+not be  permitted  to submit a  Deferral  Election  and all  Deferrals  for such
+Participant shall cease as of the end of the Plan Year in which such Participant
+is determined to no longer be an Eligible Employee.
+
+                  (b) Amounts credited to the Account of a Participant described
+in subsection (a) shall  continue to be held,  pursuant to the terms of the Plan
+and shall be distributed as provided in Article 6.
+
+                           Article 3 - Contributions
+
+3.1      Deferrals.
+
+                  (a) The Employer  shall credit to the Account of a Participant
+an amount equal to the amount designated in the Participant's  Deferral Election
+for  that  Plan  Year.  Such  amounts  shall  not  be  made  available  to  such
+Participant,   except  as  provided   in  Article  6,  and  shall   reduce  such
+Participant's  Compensation  from the Employer in accordance with the provisions
+of the
+
+
+1104                                                                           3
+
+<PAGE>
+
+applicable Deferral Election;  provided, however, that all such amounts shall be
+subject to the rights of the general  creditors  of the  Employer as provided in
+Article 8.
+
+                  (b) Each Eligible  Employee shall deliver a Deferral  Election
+to the  Employer  before any  Deferrals  can  become  effective.  Such  Deferral
+Election shall be void with respect to: (i) any Salary Deferral unless submitted
+before the beginning of the calendar year during which the amount to be deferred
+will be earned, (ii) any Bonus Deferral unless submitted at least 6 months prior
+to the end of the twelve  (12) month  period  over which the  services  for such
+Bonus   are   performed;   provided   and  such   other   requirements   of  the
+"performance-based compensation" provisions of Code Section 409A shall have been
+satisfied,  however,  that in the year in which the Plan is first  adopted or an
+Employee is first eligible to participate, such Deferral Election shall be filed
+within  thirty (30) days of the date on which the Plan is adopted or the date on
+which an Employee is first eligible to participate,  respectively,  with respect
+to Compensation earned during the remainder of the Plan Year.
+
+                  (c) The Deferral Election shall, subject to the limitation set
+forth in Section 3.1 hereof,  designate the amount of  Compensation  deferred by
+each Participant, the subaccount, if any, as set forth in subsection (e), below,
+the beneficiary or  beneficiaries of the Participant and such other items as the
+Administrator  may prescribe.  Such  designations  shall remain effective unless
+amended as provided in subsection (d), below.
+
+                  (d) A Participant may amend his or her Deferral  Election from
+time  to  time;  provided,  however,  that  any  amendment  to the  amount  of a
+Participant's  Deferrals  shall comply with the  provisions of  subsection  (b),
+above.
+
+                  (e) A  Participant  may  direct  his  or  her  Deferral  to be
+credited  to one or more  subaccounts  as may be  established,  as  provided  in
+Article 5, by the Participant at the time of the Deferral Election.
+
+                  (f) The minimum  amount that may be deferred each Plan Year is
+the greater of two thousand five hundred dollars ($2,500) or one percent (1%) of
+the Participant's Compensation.
+
+                  (g) The maximum  amount that may be deferred each Plan Year is
+fifty percent (50%) of the  Participant's  Salary and one hundred percent (100%)
+of the Participant's Bonus, net of applicable taxes.
+
+3.2      Matching Contribution.
+         (a) For each Participant with less than five (5) Years of Service as of
+December 31 of the prior Plan Year (or as of December 31, 2004 for the 2005 Plan
+Year),  the  Employer  shall  credit the Account of such  Participant  who makes
+Deferrals a Matching  Contribution  in an amount equal to fifty percent (50%) of
+the Deferrals contributed by the Participant up to a maximum of six percent (6%)
+of each Participant's Compensation.
+
+
+1104                                                                           4
+
+<PAGE>
+
+         (b) For each  Participant  with  five or more  Years of  Service  as of
+December 31 of the prior Plan Year (or as of December 31, 2004 for the 2005 Plan
+Year),  the  Employer  shall  credit the Account of such  Participant  who makes
+Deferrals a Matching  Contribution  in an amount  equal to one  hundred  percent
+(100%) of the Deferrals  contributed  by the  Participant up to a maximum of six
+percent (6%) of each Participant's Compensation.
+
+3.3      Employer Discretionary Contributions.
+         The Employer reserves the right to make discretionary  contributions to
+Participants' Accounts in such amount and in such manner as may be determined by
+the Employer.
+
+3.4      Time of Contributions.
+
+                  (a) Deferrals and Matching  Contributions shall be transferred
+to the Trust as soon as administratively feasible following each payroll period.
+The  Employer  shall  also  transmit  at that  time any  necessary  instructions
+regarding the allocation of such amounts among the Accounts of Participants.
+
+                  (b) Employer Discretionary  Contributions shall be transferred
+to the Trust at such time as the Employer  shall  determine.  The Employer shall
+also transmit at that time any necessary  instructions  regarding the allocation
+of such amounts among the Accounts of Participants.
+
+3.5      Form of Contributions.
+         All  Deferrals,   Matching  Contributions  and  Employer  Discretionary
+Contributions to the Trust shall be made in the form of cash or cash equivalents
+of US currency.
+
+                              Article 4 - Vesting
+
+4.1      Vesting of Deferrals.
+         A  Participant  shall have a vested  right to the portion of his or her
+Account attributable to Deferrals.
+
+4.2      Vesting of Matching Contributions.
+         Except as otherwise  provided herein, a Participant shall have a vested
+right  to  the  portion  of  his  or  her  Account  attributable  to a  Matching
+Contribution  and any  earnings  or losses on the  investment  of such  Matching
+Contribution  based on the year the  contribution is deemed to have been made to
+the Plan based on the following schedule:
+
+         Plan Years after Plan Year of Contribution           Vested Percentage
+         ------------------------------------------           -----------------
+                           Less than 3                                0%
+                           3 or more                                100%
+
+For purposes of vesting only, a Matching  Contribution  made in a Plan Year will
+be deemed to have been  made on  January 1 of the Plan Year  regardless  of when
+such amount is credited to the Account.  For  illustrative  purposes  only, if a
+Matching Contribution is deemed to have been
+
+
+1104                                                                           5
+
+<PAGE>
+
+made on January 1, 2005, a Participant  will become vested in that  Contribution
+and any earnings or losses thereon on January 1, 2008.
+
+4.3      Vesting of Employer Discretionary Contributions.
+         A  Participant  shall have a vested  right to the portion of his or her
+Account attributable to Employer Discretionary  Contribution(s) and any earnings
+or losses  on the  investment  of such  Employer  Discretionary  Contribution(s)
+according to such vesting  schedule as the Employer shall  determine at the time
+an Employer Discretionary Contribution is made.
+
+4.4      Vesting in Event of Retirement, Disability, Death or Change in Control.
+
+                  (a) A Participant who terminates  employment due to Retirement
+shall be fully vested in the amounts credited to his or her Account.
+
+                  (b) A Participant  who has a termination  of employment due to
+Disability shall be fully vested in the amounts credited to his or her Account.
+
+                  (c) A Participant  who has a termination  of employment due to
+death shall be fully vested in the amounts credited to his or her Account.
+
+                  (d) Upon a Change in Control,  as defined in Section  4.5, all
+Participants shall be fully vested in the amounts credited to their Accounts.
+
+4.5      Change in Control.
+         Provided that such definition does not fail to comply with Code Section
+409A and regulations and guidance to be issued thereunder, a "Change in Control"
+of the Employer shall mean:
+
+                  (a) The  acquisition  by any  Person of  beneficial  ownership
+(within the meaning of Rule 13d-3  promulgated under the Exchange Act) of 35% or
+more of either (i) the then outstanding shares of the Stock or (ii) the combined
+voting power of the Outstanding Employer Voting Securities;  provided,  however,
+that the following  acquisitions  shall not constitute a Change of Control:  (A)
+any acquisition  directly from the Employer  (excluding an acquisition by virtue
+of the exercise of a conversion privilege),  (B) any acquisition by the Employer
+or by any  corporation  controlled by the Employer;  (C) any  acquisition by any
+employee benefit plan (or related trust) sponsored or maintained by the Employer
+or any  corporation  controlled by the Employer;  or (D) any  acquisition by any
+corporation   pursuant  to  a  consolidation  or  merger,   if,  following  such
+consolidation or merger, the conditions described in clauses (i), (ii) and (iii)
+of subsection (c) of this paragraph are satisfied; or
+
+                  (b)  Individuals  who, as of the date hereof,  constitute  the
+Board (the  "Incumbent  Board")  ceasing for any reason to constitute at least a
+majority  of the  Board;  provided,  however,  that any  individual  becoming  a
+director  (other than a director  designated by a Person who has entered into an
+agreement with the Employer to effect a transaction  described in clauses (a) or
+(c) of this Section) subsequent to the date hereof whose election, or nomination
+for election by the
+
+
+1104                                                                           6
+
+<PAGE>
+
+Employer's  shareholders,  was  approved by a vote or  resolution  of at least a
+majority of the directors then composing the Incumbent Board shall be considered
+as though such individual were a member of the Incumbent  Board,  but excluding,
+for this purpose,  any such individual whose initial assumption of office occurs
+as a result of either an actual or  threatened  election  contest (as such terms
+are used in Rule 14a-1l of Regulation 14A promulgated under the Exchange Act) or
+other actual or threatened  solicitation  of proxies or consents by or on behalf
+of a Person other than the Board; or
+
+                  (c)  Adoption  by  the  Board  of a  resolution  approving  an
+agreement of  consolidation  of the Employer with or merger of the Employer into
+another  corporation  or business  entity in each case,  unless,  following such
+consolidation,  or  merger,  (i)  more  than  60%  of,  respectively,  the  then
+outstanding  shares  of  common  stock of the  corporation  resulting  from such
+consolidation or merger and/or the combined voting power of the then outstanding
+voting  securities  of such  corporation  or  business  entity  entitled to vote
+generally  in the  election of directors  (or other  persons  having the general
+power to direct the affairs of such entity) is then beneficially owned, directly
+or indirectly,  by all or substantially  all of the individuals and entities who
+were the beneficial owners, respectively,  of the Stock and Outstanding Employer
+Voting  Securities   immediately  prior  to  such  consolidation  or  merger  in
+substantially the same proportions as their ownership, immediately prior to such
+consolidation  or  merger,   of  the  Stock  and  Outstanding   Employer  Voting
+Securities,  as the case may be, (ii) no Person  (excluding  the  Employer,  any
+employee  benefit plan (or related trust) of the Employer or such corporation or
+other business entity resulting from such consolidation or merger and any Person
+beneficially owning, immediately prior to such consolidation or merger, directly
+or  indirectly,  35% or  more  of  the  Stock  or  Outstanding  Employer  Voting
+Securities,  as the case may be) beneficially owns, directly or indirectly,  35%
+or more of,  respectively,  the then  outstanding  shares of common stock of the
+corporation  resulting  from such  consolidation  or merger  and/or the combined
+voting power of the then  outstanding  voting  securities of such corporation or
+business  entity entitled to vote generally in the election of its directors (or
+other persons having the general power to direct the affairs of such entity) and
+(iii) at least a majority  of the  members of the board of  directors  (or other
+group  of  persons  having  the  general  power to  direct  the  affairs  of the
+corporation  or other business  entity)  resulting  from such  consolidation  or
+merger were members of the  Incumbent  Board at the time of the execution of the
+initial agreement providing for such consolidation or merger; provided, that any
+right to receive  compensation  pursuant  to Section 5 below which shall vest by
+reason of the  action  of the Board  pursuant  to this  subsection  (c) shall be
+divested upon (A) the rejection of such agreement of  consolidation or merger by
+the  stockholders of the Employer or (B) its abandonment by either party thereto
+in accordance with its terms; or
+
+                  (d) Adoption by the requisite  majority of the whole Board, or
+by the holders of such  majority of stock of the  Employer as is required by law
+or by the  Certificate  of  incorporation  or By-Laws of the Employer as then in
+effect,  of a  resolution  or consent  authorizing  (i) the  dissolution  of the
+Employer or (ii) the sale or other  disposition of all or  substantially  all of
+the assets of the Employer, other than to a corporation or other business entity
+with respect to which,  following the such sale or other  disposition,  (A) more
+than 60% of,  respectively,  the then outstanding shares of common stock of such
+corporation   and/or  the  combined  voting  power  of  the  outstanding  voting
+securities of such corporation or other entity to
+
+
+1104                                                                           7
+
+<PAGE>
+
+vote  generally  in the  election of its  directors  (or other  persons have the
+general  power to direct its affairs) is then  beneficially  owned,  directly or
+indirectly, by all or substantially all of the individuals and entities who were
+the:  beneficial  owners,  respectively,  of the Stock and Outstanding  Employer
+Voting  Securities  immediately  prior  to such  sale or  other  disposition  in
+substantially the same proportion as their ownership,  immediately prior to such
+sale or other  disposition,  of the Stock  and/or  Outstanding  Employer  Voting
+Securities,  as the case may be, (B) no Person  (excluding  the Employer and any
+employee  benefit plan (or related trust) of the Employer or such corporation or
+other business entity and any Person beneficially  owning,  immediately prior to
+such sale or other disposition, directly or indirectly, 35% or more of the Stock
+and/or Outstanding Employer Voting Securities,  as the case may be) beneficially
+owns, directly or indirectly, 35% or more of, respectively, the then outstanding
+shares of common stock of such  corporation  and/or the combined voting power of
+the then  outstanding  voting  securities of such  corporation or other business
+entity entitled to vote generally in the election of directors (or other persons
+having the general power to direct its affairs),  and (C) at least a majority of
+the  members of the board of  directors  or group of persons  having the general
+power to direct the affairs of such  corporation or other entity were members of
+the  Incumbent  Board at the time of the  execution of the initial  agreement of
+action of the Board  providing for such sale or other  disposition  of assets of
+the  Employer;  provided,  that any right to receive  compensation  pursuant  to
+Section 5 below  which  shall  vest by reason of the  action of the Board or the
+stockholders  pursuant to this subsection shall be divested upon the abandonment
+by the Employer of such  dissolution,  or such sale of or other  disposition  of
+assets, as the case may be.
+
+Notwithstanding anything in the foregoing to the contrary, no change in control
+shall be deemed to have occurred for purposes of this Agreement by virtue of any
+transaction which results in you, or a group of Persons which includes you
+acquiring, directly or indirectly, 35% or more of the combined voting power of
+the Employer's Outstanding Voting Securities.
+
+4.6      Amounts Not Vested.
+         Any amounts credited to a Participant's  Account that are not vested at
+the time of his or her  termination  of  employment  with the Employer  shall be
+forfeited.
+
+                              Article 5 - Accounts
+
+5.1      Accounts.
+         The Administrator shall establish and maintain a bookkeeping account in
+the name of each Participant. The Administrator shall also establish
+subaccounts, as provided in subsection (a) and (b), below, as elected by the
+Participant pursuant to Article 3.
+
+                  (a)  A  Retirement  Account  shall  be  established  for  each
+Participant.  His or her Retirement Account shall be credited with Deferrals (as
+specified in the Participant's  Deferral Election),  any Matching  Contributions
+allocable thereto, any Employer Discretionary Contributions (as specified in the
+Participant's  Deferral  Election)  for the  Plan  year  and  the  Participant's
+allocable share of any earnings or losses on the foregoing.  Each  Participant's
+Account  shall be  reduced by any  distributions  made,  Distributions  shall be
+subject to federal,
+
+
+1104                                                                           8
+
+<PAGE>
+
+state and local tax  withholding  (as  applicable)  and any social  security tax
+withholding as may be required by law.
+
+                  (b)  A  Participant   may  elect  to  establish  one  or  more
+In-Service  Accounts by designating in such  Participant's  Deferral  Election a
+year of payout at the time the  account is  initially  established.  The minimum
+initial  deferral  period for  In-Service  Account  shall be three (3) years.  A
+Participant may have a maximum of ten (10) In-Service Accounts at any time. Each
+Participant's  In-Service Account shall be credited with Deferrals, any Matching
+Contributions  allocable thereto, any Employer  Discretionary  Contributions (as
+specified in the  Participant's  Deferral  Election) for the Plan Year,  and the
+Participant's allocable share of any deemed earnings or losses on the foregoing.
+Each  Participant's  In-Service  Account  shall be reduced by any  distributions
+made. Distributions shall be subject to federal, state and local tax withholding
+(as  applicable)  and any social  security tax withholding as may be required by
+law.
+
+5.2      Investments, Gains and Losses.
+
+                  (a) Trust  assets shall be invested in the  discretion  of the
+Trustee.  The Trustee may consider any  investment  suggestions  received by the
+Employer or by a Participant with respect to his or her own Account.
+
+                  (b) The  Administrator  shall  adjust the amounts  credited to
+each  Participant's  Account  to  reflect  Deferrals,   Matching  Contributions,
+Employer Discretionary Contributions,  investment experience,  distributions and
+any other appropriate adjustments.  Such adjustments shall be made as frequently
+as is administratively feasible.
+
+                  (c) A  Participant  may  direct  that  his or  her  Retirement
+Account and/or In-Service Account(s)  established pursuant to Section 5.1 may be
+valued as if they were invested in one or more Investment  Funds up to a maximum
+of fifteen  (15) funds in  multiples  of one  percent  (1%) of the balance in an
+Account.  A Participant  may change his or her selection of Investment  Funds no
+more than six (6) times each Plan Year.  An election  shall be effective as soon
+as  administratively  feasible  following the date of the change as indicated in
+writing by the Participant.
+
+5.3      Forfeitures.
+         Any forfeitures from a Participant's  Account shall continue to be held
+in the  Trust,  shall  be  separately  invested  and  shall  be used  to  reduce
+succeeding Matching Contributions and Employer Discretionary Contributions until
+such  forfeitures  have  been  entirely  so  applied.  If  no  further  Matching
+Contributions or Employer  Discretionary  Contributions  will be made, then such
+forfeitures shall be returned to the Employer.
+
+                           Article 6 - Distributions
+
+6.1      Distribution Election.
+         Each  Participant  shall  designate  on  his or  her  initial  Deferral
+Election the form and timing of his or her  distribution  by indicating the type
+of account as described under Section 5.1, and by
+
+
+1104                                                                           9
+
+<PAGE>
+
+designating  the  manner  in  which  payments  shall be made  from  the  choices
+available under Section 6.2 hereof.
+
+6.2      Payment Options.
+
+         (a)   Retirement   Account   payouts   shall   commence   as   soon  as
+administratively feasible immediately after the Participant's Retirement and are
+payable in one of the following  forms:  (i) in a lump-sum  payment;  or (ii) in
+annual  installments  over a  period  of up to ten (10)  years  (as  elected  by
+Participant on his or her Deferral Election).
+
+         (b) In-Service Account payouts shall begin as soon as  administratively
+feasible  following  January 1 of the calendar year selected by the Participant,
+through a properly submitted Deferral Election, and are payable in either a lump
+sum or substantially equal annual installments over a period of five (5) years.
+
+         (c)  The  amount  of the  substantially  equal  payments  described  in
+subsections a and b above shall be determined by multiplying  the  Participant's
+Retirement or In-Service Account by a fraction,  the denominator of which in the
+first year of payment  equals the number of years over which  benefits are to be
+paid,  and the  numerator  of which is one (1).  The amounts of the payments for
+each  succeeding  year shall be  determined  by  multiplying  the  Participant's
+Retirement or In-Service Account as of the applicable  anniversary of the payout
+by a fraction,  the  denominator  of which equals the number of remaining  years
+over which benefits are to be paid, and the numerator of which is one (1).
+
+         (d) If a Participant has an In-Service Account(s) at the time of his or
+her Retirement,  said  Account(s)  shall be transferred to his or her Retirement
+Account and paid out according to subsection (a) above.
+
+6.3      Changes to Distribution Elections.
+
+                  (a) In the event  Participant  desires  to  modify  his or her
+elected form of distribution,  i.e.,  lump-sum  payment or annual  installments,
+Participant's  election to change  must be  submitted  to the  Employer at least
+twelve (12) months prior to the distribution  commencement date and the new form
+must  be  elected  at  least  five  (5)  years   subsequent  to  the  date  when
+distributions would otherwise commence.
+
+                  (b) In the event  Participant  desires to postpone  the payout
+commencement  date for his or her  Retirement  Account or  In-Service  Accounts,
+Participant's  election  to  postpone  the  payout  commencement  date  must  be
+submitted to the Employer at least twelve (12) months prior to the  distribution
+commencement date and the new benefit distribution  commencement date must be at
+least five (5) years subsequent to the date when  distributions  would otherwise
+commence.  Moreover,  any election to change a Participant's payout commencement
+date,  pursuant to this section,  shall only be permitted to extend the deferral
+period. Acceleration of payments is prohibited.
+
+
+1104                                                                          10
+
+<PAGE>
+
+6.4      Commencement of Payment upon Death, Disability or Termination.
+
+                  (a) Upon the death of a Participant,  all amounts  credited to
+his or her Account(s) shall be paid, as soon as  administratively  feasible,  to
+his or her beneficiary or  beneficiaries,  as determined under Article 7 hereof,
+in a lump sum.
+
+                  (b) Upon the Disability of a Participant, all amounts credited
+to his or her Account(s) shall be paid to the Participant in a lump-sum payment,
+as soon as administratively feasible.
+
+                  (c) Upon the  termination of employment of a Participant,  all
+amounts  credited to his or her Account(s) shall be paid to the Participant in a
+lump-sum payment,  as soon as  administratively  feasible subject to Section 6.5
+below.
+
+6.5      Distributions to Specified Employee.
+
+                  (a) If any employee is a "Specified  Employee,"  as defined in
+subsection (b) below, upon a termination of employment for any reason other than
+Disability or death, a distribution may not be made before the date which is six
+(6) months after the date of separation  from service (or, if earlier,  the date
+of death of the employee).
+
+                  (b) A "Specified  Employee"  means a key  employee  within the
+meaning of Code Section 409A(a)(2)(B)(i).
+
+6.6      Minimum Distribution.
+         Notwithstanding  any  provision  to the  contrary,  if the balance of a
+Participant's  Account at the time of a  termination  due to  Retirement is less
+than $10,000, then the Participant shall be paid his or her benefits as a single
+lump sum as soon as administratively feasible following said termination.
+         Notwithstanding  any  provision  to the  contrary,  if the balance of a
+Participant's  In-Service  subaccount  at the  time  of a  scheduled  In-Service
+Account  distribution is less than $10,000,  then the Participant  shall be paid
+his or her benefits as a single lump sum at the scheduled distribution.
+
+6.7      Unforeseeable Emergency
+         The  Administrator  may permit an early  distribution of part or all of
+any deferred amounts;  provided,  however,  that such distribution shall be made
+only  if  the  Administrator,  in  its  sole  discretion,  determines  that  the
+Participant  has  experienced  an  unforeseeable   emergency.  An  unforeseeable
+emergency  is defined as a severe  financial  hardship to the  Participant,  the
+Participant's  spouse, or a dependent (as defined in Code Section 152(a)) of the
+Participant, loss of the Participant's property due to casualty or other similar
+extraordinary  and  unforeseeable  circumstances  arising  as a result of events
+beyond  the  control  of  the  Participant.  If an  unforeseeable  emergency  is
+determined  to exist,  a  distribution  may not exceed the amounts  necessary to
+satisfy  such  emergency  plus  amounts   necessary  to  pay  taxes   reasonably
+anticipated  as a result of the  distribution,  after  taking  into  account the
+extent to which such  hardship is or may be relieved  through  reimbursement  or
+compensation by insurance or otherwise or by
+
+
+1104                                                                          11
+
+<PAGE>
+
+liquidation of the  Participant's  assets (to the extent the liquidation of such
+assets would not itself cause severe financial hardship). The provisions of this
+Section 6.7 are intended to comply and shall be administer  in  compliance  with
+Code Section 409A and regulations and guidance thereunder.
+
+                           Article 7 - Beneficiaries
+
+7.1      Beneficiaries.
+         Each  Participant  may from time to time  designate one or more persons
+(who may be any one or more members of such  person's  family or other  persons,
+administrators, trusts, foundations or other entities) as his or her beneficiary
+under the  Plan.  Such  designation  shall be made on a form  prescribed  by the
+Administrator.  Each  Participant may at any time and from time to time,  change
+any  previous  beneficiary  designation,  without  notice to or  consent  of any
+previously designated  beneficiary,  by amending his or her previous designation
+on a form prescribed by the  Administrator.  If the beneficiary does not survive
+the  Participant  (or is  otherwise  unavailable  to receive  payment)  or if no
+beneficiary  is validly  designated,  then the amounts  payable  under this Plan
+shall  be paid to the  Participant's  estate.  If more  than one  person  is the
+beneficiary of a deceased Participant, each such person shall receive a pro rata
+share of any death benefit payable unless otherwise designated on the applicable
+form. If a beneficiary  who is receiving  benefits  dies, all benefits that were
+payable  to  such  beneficiary  shall  then be  payable  to the  estate  of that
+beneficiary.
+
+7.2      Lost Beneficiary.
+
+                  (a)  All  Participants  and   beneficiaries   shall  have  the
+obligation to keep the  Administrator  informed of their  current  address until
+such time as all benefits due have been paid.
+
+                  (b) If a Participant or  beneficiary  cannot be located by the
+Administrator  exercising  due  diligence,  then,  in its sole  discretion,  the
+Administrator  may presume that the  Participant  or beneficiary is deceased for
+purposes of the Plan and all unpaid amounts (net of due diligence expenses) owed
+to the Participant or beneficiary shall be paid accordingly or, if a beneficiary
+cannot be so located,  then such amounts may be forfeited.  Any such presumption
+of death shall be final, conclusive and binding on all parties.
+
+                              Article 8 - Funding
+
+8.1      Prohibition Against Funding.
+         Should any  investment be acquired in connection  with the  liabilities
+assumed  under  this  Plan,  it is  expressly  understood  and  agreed  that the
+Participants  and  beneficiaries  shall not have any right with  respect  to, or
+claim against,  such assets nor shall any such purchase be construed to create a
+trust of any kind or a  fiduciary  relationship  between  the  Employer  and the
+Participants,  their beneficiaries or any other person. Any such assets shall be
+and  remain  a part  of  the  general,  unpledged,  unrestricted  assets  of the
+Employer,  subject to the claims of its  general  creditors.  It is the  express
+intention of the parties hereto that this arrangement shall be unfunded
+
+
+1104                                                                          12
+
+<PAGE>
+
+for tax purposes and for purposes of Title I of the ERISA.  Each Participant and
+beneficiary  shall be required to look to the provisions of this Plan and to the
+Employer itself for enforcement of any and all benefits due under this Plan, and
+to the extent any such  person  acquires a right to receive  payment  under this
+Plan,  such right shall be no greater  than the right of any  unsecured  general
+creditor of the  Employer.  The  Employer or the Trust shall be  designated  the
+owner  and  beneficiary  of any  investment  acquired  in  connection  with  its
+obligation under this Plan.
+
+8.2      Deposits in Trust.
+         Notwithstanding Section 8.1, or any other provision of this Plan to the
+contrary,  the  Employer  may  deposit  into  the  Trust  any  amounts  it deems
+appropriate  to pay the benefits  under this Plan.  The amounts so deposited may
+include all contributions made pursuant to a Deferral Election by a Participant,
+all Matching Contributions, and Employer Discretionary Contributions.
+
+8.3      Indemnification of Trustee.
+
+                  (a) The Trustee shall not be liable for the making, retention,
+or sale of any investment or reinvestment  made by it, as herein  provided,  nor
+for any loss to, or  diminution  of,  the Trust  assets,  unless  due to its own
+negligence, willful misconduct or lack of good faith.
+
+                  (b) Such Trustee shall be  indemnified  and saved  harmless by
+the Employer from and against all personal  liability to which it may be subject
+by reason of any act done or  omitted  to be done in its  official  capacity  as
+Trustee in good faith in the administration of the Plan and Trust, including all
+expenses  reasonably  incurred in its defense in the event the Employer fails to
+provide such defense upon the request of the Trustee. The Trustee is relieved of
+all responsibility in connection with its duties hereunder to the fullest extent
+permitted by law, short of breach of duty to the beneficiaries.
+
+8.4      Withholding of Employee Contributions.
+         The   Administrator  is  authorized  to  make  any  and  all  necessary
+arrangements with the Employer in order to withhold the Participant's  Deferrals
+under Section 3.1 hereof (and any taxes then due) from his or her  Compensation.
+The Administrator shall determine the amount and timing of such withholding.
+
+                       Article 9 - Claims Administration
+
+9.1      General.
+         If a Participant,  Beneficiary or his or her  representative  is denied
+all or a portion of an expected Plan benefit for any reason and the Participant,
+Beneficiary or his or her representative  desires to dispute the decision of the
+Administrator,  he or she must file a written  notification  of his or her claim
+with the Administrator.
+
+9.2      Claims Procedure.
+         Upon receipt of any written claim for benefits, the Administrator shall
+be notified  and shall give due  consideration  to the claim  presented.  If any
+Participant or Beneficiary  claims to be entitled to benefits under the Plan and
+the Administrator determines that the claim should be
+
+
+1104                                                                          13
+
+<PAGE>
+
+denied in whole or in part, the  Administrator  shall,  in writing,  notify such
+claimant within ninety (90) days of receipt of the claim that the claim has been
+denied.  If the  claim  is  denied  to any  extent  by  the  Administrator,  the
+Administrator shall furnish the claimant with a written notice setting forth:
+
+                  (a) the specific reason or reasons for denial of the claim;
+
+                  (b) a specific  reference to the Plan  provisions on which the
+denial is based;
+
+                  (c) a description  of any  additional  material or information
+necessary for the claimant to perfect the claim and an  explanation  of why such
+material or information is necessary; and
+
+                  (d) an  explanation  of the Plan's  claims  review  procedure,
+including a statement  of the  individual's  right to bring a civil action under
+Section 502(a) of ERISA following an adverse benefit determination on review..
+
+9.3      Right of Appeal.
+         A claimant who has a claim  denied under  Section 9.2 may appeal to the
+Administrator for  reconsideration of that claim. A request for  reconsideration
+under this section must be filed by written notice within ninety (90) days after
+receipt by the claimant of the notice of denial under Section 9.2.
+
+9.4      Review of Appeal.
+         Upon receipt of an appeal the Administrator  shall promptly take action
+to give due  consideration  to the  appeal.  Such  consideration  may  include a
+hearing of the parties involved,  if the  Administrator  feels such a hearing is
+necessary. In preparing for this appeal the claimant shall be given the right to
+review  pertinent  documents  and the right to submit in writing a statement  of
+issues  and  comments.  After  consideration  of the  merits of the  appeal  the
+Administrator  shall  issue a written  decision  which  shall be  binding on all
+parties.  The decision shall  specifically  state its reasons and pertinent Plan
+provisions  on which it relies.  The  Administrator's  decision  shall be issued
+within sixty (60) days after the appeal is filed,  except that the Administrator
+may extend the period of time for  making a  determination  with  respect to any
+claim for a period of up to sixty (60)  days,  provided  that the  Administrator
+determines that such an extension is necessary because of special  circumstances
+and notifies the claimant, prior to the expiration of the initial sixty (60) day
+period,  of the  circumstances  requiring  the extension of time and the date by
+which the Plan  expects  to render a  decision.  The  Administrator  shall  have
+discretionary  authority to interpret and apply the  provisions of the Plan with
+respect to, and to make any factual determination in connection with, any matter
+arising hereunder  (including,  without  limitation,  eligibility,  deferral and
+benefit payment issues).
+
+
+1104                                                                          14
+
+<PAGE>
+
+                        Article 10 - General Provisions
+
+10.1     Administrator.
+
+                  (a) The  Administrator  is  expressly  empowered  to limit the
+amount of  compensation  that may be deferred;  to deposit amounts into trust in
+accordance with Section 8.2 hereof;  to interpret the Plan, and to determine all
+questions arising in the  administration,  interpretation and application of the
+Plan;  to employ  actuaries,  accountants,  counsel,  and other persons it deems
+necessary in  connection  with the  administration  of the Plan;  to request any
+information  from the  Employer  it deems  necessary  to  determine  whether the
+Employer would be considered insolvent or subject to a proceeding in bankruptcy;
+and to take all other  necessary  and proper  actions  to fulfill  its duties as
+Administrator.
+
+                  (b) The  Administrator  shall not be liable for any actions by
+it hereunder,  unless due to its own negligence,  willful  misconduct or lack of
+good faith.
+
+                  (c) The Administrator  shall be indemnified and saved harmless
+by the  Employer  from and against  all  personal  liability  to which it may be
+subject by reason of any act done or omitted to be done in its official capacity
+as  Administrator  in good  faith in the  administration  of the Plan and Trust,
+including  all  expenses  reasonably  incurred  in its  defense in the event the
+Employer  fails to provide such  defense upon the request of the  Administrator.
+The  Administrator  is relieved of all  responsibility  in  connection  with its
+duties hereunder to the fullest extent permitted by law, short of breach of duty
+to the beneficiaries.
+
+                  (d)  The  Plan  shall  be  interpreted  and   administered  in
+conformity  with Code  Section  409A and the  regulations  and  guidance  issued
+thereunder.
+
+10.2     No Assignment.
+         Benefits or payments under this Plan shall not be subject in any manner
+to anticipation,  alienation, sale, transfer,  assignment,  pledge, encumbrance,
+attachment,  or garnishment by creditors of the Participant or the Participant's
+beneficiary, whether voluntary or involuntary, and any attempt to so anticipate,
+alienate, sell, transfer,  assign, pledge, encumber,  attach or garnish the same
+shall not be valid,  nor shall any such  benefit or payment be in any way liable
+for or subject to the debts, contracts, liabilities,  engagement or torts of any
+Participant  or  beneficiary,  or any other  person  entitled to such benefit or
+payment  pursuant  to the terms of this  Plan,  except to such  extent as may be
+required by law. If any  Participant or beneficiary or any other person entitled
+to a benefit or payment  pursuant to the terms of this Plan becomes  bankrupt or
+attempts to anticipate,  alienate,  sell, transfer,  assign,  pledge,  encumber,
+attach or garnish any benefit or payment  under this Plan,  in whole or in part,
+or if any attempt is made to subject any such benefit or payment, in whole or in
+part,  to  the  debts,  contracts,  liabilities,  engagements  or  torts  of the
+Participant or  beneficiary or any other person  entitled to any such benefit or
+payment pursuant to the terms of this Plan, then such benefit or payment, in the
+discretion of the Administrator,  shall cease and terminate with respect to such
+Participant or beneficiary, or any other such person.
+
+10.3     No Employment Rights.
+         Participation  in this Plan shall not be  construed  to confer upon any
+Participant  the legal right to be retained  in the employ of the  Employer,  or
+give a Participant or beneficiary, or any other person, any right to any payment
+whatsoever, except to the extent of the benefits provided
+
+
+1104                                                                          15
+
+<PAGE>
+
+for hereunder.  Each  Participant  shall remain subject to discharge to the same
+extent as if this Plan had never been adopted.
+
+10.4     Incompetence.
+         If the  Administrator  determines  that any person to whom a benefit is
+payable  under  this  Plan is  incompetent  by  reason  of  physical  or  mental
+disability,  the  Administrator  shall  have the  power to  cause  the  payments
+becoming due to such person to be made to another for his or her benefit without
+responsibility of the Administrator or the Employer to see to the application of
+such  payments.  Any  payment  made  pursuant  to such power  shall,  as to such
+payment,  operate as a complete discharge of the Employer, the Administrator and
+the Trustee.
+
+10.5     Identity.
+         If, at any time,  any doubt  exists as to the  identity  of any  person
+entitled to any payment  hereunder  or the amount or time of such  payment,  the
+Administrator  shall be entitled to hold such sum until such  identity or amount
+or time is determined or until an order of a court of competent  jurisdiction is
+obtained. The Administrator shall also be entitled to pay such sum into court in
+accordance  with the  appropriate  rules of law.  Any  expenses  incurred by the
+Employer,  Administrator,  and Trust  incident to such  proceeding or litigation
+shall be charged against the Account of the affected Participant.
+
+10.6     Other Benefits.
+         The benefits of each  Participant or beneficiary  hereunder shall be in
+addition to any benefits paid or payable to or on account of the  Participant or
+beneficiary under any other pension,  disability,  annuity or retirement plan or
+policy whatsoever.
+
+10.7     No Liability.
+         No  liability  shall  attach to or be  incurred  by any  manager of the
+Employer,  Trustee  or any  Administrator  under  or by  reason  of  the  terms,
+conditions and  provisions  contained in this Plan, or for the acts or decisions
+taken  or  made  thereunder  or in  connection  therewith;  and  as a  condition
+precedent  to the  establishment  of  this  Plan  or  the  receipt  of  benefits
+thereunder, or both, such liability, if any, is expressly waived and released by
+each  Participant  and by any and all  persons  claiming  under or  through  any
+Participant or any other person.  Such waiver and release shall be  conclusively
+evidenced by any act or  participation  in or the  acceptance of benefits or the
+making of any election under this Plan.
+
+10.8     Expenses.
+         All  expenses  incurred  in the  administration  of the  Plan,  whether
+incurred by the Employer or the Plan, shall be paid by the Employer.
+
+10.9     Insolvency.
+         Should the Employer be considered  insolvent (as defined by the Trust),
+the  Employer,  through  its Board  and  chief  executive  officer,  shall  give
+immediate  written  notice  of such to the  Administrator  of the  Plan  and the
+Trustee.  Upon receipt of such notice,  the Administrator or Trustee shall cease
+to make any payments to Participants who were Employees of the Employer
+
+
+1104                                                                          16
+
+<PAGE>
+
+or their  beneficiaries  and shall hold any and all assets  attributable  to the
+Employer for the benefit of the general creditors of the Employer.
+
+10.10    Plan Amendment.
+
+                  (a) Right to  Amend.  The Board of the  Employer,  by  written
+instrument,  shall have the right to amend the Plan at any time and with respect
+to any  provisions  hereof,  and all  parties  hereto or claiming  any  interest
+hereunder  shall be bound by such  amendment;  provided,  however,  that no such
+amendment  shall deprive the  Participant  or any  Beneficiary(s)  of any rights
+accrued  hereunder  prior to the date of the  amendment,  including the right to
+receive the payment of his or her benefit upon a benefit  entitlement  event, or
+earlier as provided herein.
+
+                  (b) Amendment Required by Law. Notwithstanding anything to the
+contrary,  the Plan may be amended at any time,  retroactively  if required,  if
+found necessary, in the opinion of the Board of the Employer, in order to ensure
+that  the  Plan  is  characterized  as  a  non-tax-qualified  plan  of  deferred
+supplemental retirement compensation maintained for members of a select group of
+management or highly  compensated  employees as described under Code Section 451
+and 409A and ERISA Sections  201(2),  301(a) (3) and 401 and to conform the Plan
+to the provisions and  requirements of any applicable law (including  ERISA) and
+the Code.
+
+10.11    Plan Termination.
+
+                  (a)  Employer's  Right to  Terminate  Plan.  The  Board of the
+Employer  reserves  the right,  at any time,  to  terminate  the Plan;  provided
+however,  that  no  such  termination  shall  deprive  the  Participant  or  any
+Beneficiary of a right accrued  hereunder  prior to the date of termination  and
+provided  that,  upon  termination,  the  Participant  shall  become  fully  and
+immediately  vested  in his or her  Account.  Distributions  as a result of such
+event shall be made in a manner  consistent  with the provisions of Code Section
+409A and the regulations and guidance issued thereunder.
+
+                  (b) Automatic  Termination  of Plan.  Except in the case of an
+adoption by a successor to the Employer as provided for in subsection (c) below,
+the Plan shall terminate  automatically upon the dissolution of the Employer, or
+upon the  Employer'  Change in Control  (as  defined in  Section  4.6).  No such
+termination  shall deprive the Participant or  Beneficiary(s) of a right accrued
+hereunder prior to the date of termination and provided that, upon  termination,
+the Participant shall become fully and immediately vested in his or her Account.
+Distributions  as a result of such  event  shall be made in a manner  consistent
+with the provisions of Code Section 409A and the regulations and guidance issued
+thereunder.
+
+                  (c) Successor to Employer.  Any  corporation or other business
+organization  that is a  successor  to the  Employer  by  reason  of a Change of
+Control  shall have the right to become a party to the Plan by adopting the same
+by resolution of the entity's board of directors or other appropriate  governing
+body.  If  within  thirty  (30) days from the  effective  date of the  Change of
+Control such new entity does not become a party hereto,  as above provided,  the
+full amount of the Participant's Account shall become immediately  distributable
+to the Participant.
+
+
+1104                                                                          17
+
+<PAGE>
+
+10.12    Employer Determinations.
+         Any determinations, actions or decisions of the Employer (including but
+not limited to, Plan amendments and Plan termination) shall be made by the Board
+in accordance  with its  established  procedures  or by such other  individuals,
+groups or organizations  that have been properly  delegated by the Board to make
+such determination or decision.
+
+10.13    Construction.
+         All questions of  interpretation,  construction or application  arising
+under  or   concerning   the  terms  of  this  Plan  shall  be  decided  by  the
+Administrator,  in its sole and final discretion, whose decision shall be final,
+binding and conclusive upon all persons.
+
+10.14    Governing Law.
+         This  Plan  shall  be  governed  by,   construed  and  administered  in
+accordance with the applicable provisions of the ERISA, and any other applicable
+federal law, provided,  however, that to the extent not preempted by federal law
+this Plan shall be governed by, construed and administered under the laws of the
+Commonwealth of Massachusetts, other than its laws respecting choice of law.
+
+10.15    Severability.
+         If any  provision  of this Plan is held invalid or  unenforceable,  its
+invalidity or unenforceability shall not affect any other provision of this Plan
+and this Plan shall be construed and enforced as if such  provision had not been
+included  therein.  If  the  inclusion  of  any  Employee  (or  Employees)  as a
+Participant  under  this Plan  would  cause the Plan to fail to comply  with the
+requirements of sections 201(2),  301(a)(3) and 401(a)(1) of the ERISA, then the
+Plan shall be severed with respect to such Employee or  Employees,  who shall be
+considered to be participating in a separate arrangement.
+
+10.16    Headings.
+         The Article headings  contained herein are inserted only as a matter of
+convenience and for reference and in no way define,  limit,  enlarge or describe
+the scope or intent of this Plan nor in any way shall they  affect  this Plan or
+the construction of any provision thereof.
+
+10.17    Terms.
+         Capitalized terms shall have meanings as defined herein. Singular nouns
+shall be read as plural,  masculine pronouns shall be read as feminine, and vice
+versa, as appropriate.
+
+
+1104                                                                          18
+
+<PAGE>
+
+         IN WITNESS WHEREOF, LoJack Corporation has caused this instrument to be
+executed  by its  duly  authorized  officer,  effective  as of this  20th day of
+December, 2004.
+
+                                   LoJack Corporation
+
+                                   By: /s/ Mark Bornemann
+
+                                   Title: Vice President, Human Resources & Risk
+
+
+ATTEST:
+
+By: /s/ Catherine Davis
+
+Title: Senior Benefits Specialist
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1104                                                                          19
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

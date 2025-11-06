@@ -1,0 +1,459 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ UfKOjG9DzrCAznrihp/I6yIvo4OO23MZRB2o18EBNqZhMfLnt0THCSI2G0WFID4P
+ g1WiTNcFRa33KRCS7mcnJw==
+
+<SEC-DOCUMENT>0001021771-04-000215.txt : 20041222
+<SEC-HEADER>0001021771-04-000215.hdr.sgml : 20041222
+<ACCEPTANCE-DATETIME>20041222144010
+ACCESSION NUMBER:		0001021771-04-000215
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20041221
+ITEM INFORMATION:		Results of Operations and Financial Condition
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20041222
+DATE AS OF CHANGE:		20041222
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			HAUPPAUGE DIGITAL INC
+		CENTRAL INDEX KEY:			0000930803
+		STANDARD INDUSTRIAL CLASSIFICATION:	COMPUTER PERIPHERAL EQUIPMENT, NEC [3577]
+		IRS NUMBER:				113227864
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0930
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-13550
+		FILM NUMBER:		041220408
+
+	BUSINESS ADDRESS:	
+		STREET 1:		91 CABOT COURT
+		CITY:			HAUPPAUGE
+		STATE:			NY
+		ZIP:			11788
+		BUSINESS PHONE:		5164341600
+
+	MAIL ADDRESS:	
+		STREET 1:		91 CABOT COURT
+		CITY:			HAUPPAUGE
+		STATE:			NY
+		ZIP:			11788
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>f8k.txt
+<DESCRIPTION>FORM 8-K DATED DECEMBER 21, 2004
+<TEXT>
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                              WASHINGTON, DC 20549
+
+                                ----------------
+
+                                    FORM 8-K
+
+
+                                 CURRENT REPORT
+                     Pursuant to Section 13 or 15(d) of the
+                         Securities Exchange Act of 1934
+
+
+                        Date of Report: December 21, 2004
+                        (Date of earliest event reported)
+
+
+                             HAUPPAUGE DIGITAL, INC.
+                             -----------------------
+               (Exact Name of Registrant as Specified in Charter)
+
+
+          Delaware                  1-13559               11-3227864
+- ---------------------------- ---------------------  ------------------------
+(State or Other Jurisdiction (Commission File No.)  (IRS Employer Identification
+of Incorporation)                                    Number)
+
+
+                       91 Cabot Court, Hauppauge, NY 11788
+                      ------------------------------------
+               (Address of Principal Executive Offices) (Zip Code)
+
+
+       Registrant's telephone number, including area code: (631) 434-1600
+       ------------------------------------------------------------------
+
+     Check the  appropriate  box below if the Form 8-K  filing  is  intended  to
+simultaneously  satisfy the filing obligation of the registrant under any of the
+following provisions:
+
+
+     ---- Written  communications  pursuant to Rule 425 under the Securities Act
+          (17 CFR 230.425)
+
+     ---- Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17
+          CFR 240.14a-12)
+
+     ---- Pre-commencement  communications  pursuant to Rule 14d-2(b)  under the
+          Exchange Act (17 CFR 240.14d-2(b))
+
+     ---- Pre-commencement  communications  pursuant to Rule 13e-4(c)  under the
+          Exchange Act (17 CFR 240.13e-4(c))
+
+<PAGE>
+
+
+Item 2.02.     Results of Operations and Financial Condition.
+
+          On December 21, 2004,  Hauppauge Digital,  Inc. issued a press release
+announcing its financial  results for the fiscal fourth quarter ended  September
+30,  2004 and the fiscal  year ended  September  30,  2004.  A copy of the press
+release is furnished as Exhibit 99.1 hereto.
+
+Item 9.01.     Financial Statements and Exhibits.
+
+(c)            Exhibits
+
+               99.1 Press Release,  dated December 21, 2004, issued by Hauppauge
+               Digital, Inc.
+
+
+<PAGE>
+
+                                   SIGNATURES
+
+          Pursuant to the  requirements of the Securities  Exchange Act of 1934,
+the  registrant  has duly  caused  this report to be signed on its behalf by the
+undersigned hereunto duly authorized.
+
+                                                     HAUPPAUGE DIGITAL, INC.
+
+
+Dated:  December 21, 2004                            By: /s/ Gerald Tucciarone
+                                                        ----------------------
+                                                        Gerald Tucciarone
+                                                        Chief Financial Officer
+
+
+
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>2
+<FILENAME>ex99-1.txt
+<DESCRIPTION>EXHIBIT 99.1 PRESS RELEASE
+<TEXT>
+                                                                EXHIBIT 99.1
+
+Investor Contacts: Gerald Tucciarone
+Chief Financial Officer
+631/434-1600 extension 306
+
+                      HAUPPAUGE DIGITAL REPORTS FISCAL 2004
+                           YEAR END FINANCIAL RESULTS
+        ----------------------------------------------------------------
+
+ Fiscal year sales increase 28%, net income of $0.19 per share versus loss of
+                          $.09 per share in prior year
+        ----------------------------------------------------------------
+
+
+HAUPPAUGE,  NY - December 21, 2004 - Hauppauge Digital,  Inc. (NASDAQ:  HAUP), a
+leading  developer of digital video TV and data broadcast  receiver products for
+personal  computers,  today  reported  financial  results for the fiscal  fourth
+quarter and fiscal year ended September 30, 2004.
+
+FOURTH QUARTER RESULTS
+- ----------------------
+
+Net sales were $16.5  million for the fourth  quarter  compared to $11.5 million
+for the  previous  year's  fourth  quarter,  an increase of  approximately  43%.
+Increases in sales of our retail  personal  video  recorder  products,  personal
+video  recorder  products for Windows XP Media Center sold to the OEM market and
+European  digital TV receiver  products  coupled  with the  increase in the Euro
+exchange rate were the primary reasons for the sales increase.
+
+Gross profit  percentage  increased to 25.58% for the fourth  quarter,  compared
+with a gross  profit of 23.43% for the  previous  year's  fourth  quarter.  Cost
+reductions,  a  favorable  sales mix of higher  gross  margin  products  and the
+increase in the Euro  exchange  rate were  primarily  responsible  for the gross
+profit increase.
+
+Selling,   General  and   Administrative   costs  increased  by  $574,246.   The
+strengthening of the value of the Euro to the U.S. dollar increased  expenses in
+our European  division.  In addition,  increases  in sales  related  promotional
+expenses and marketing  programs and higher costs  attributable  to professional
+services contributed to the increase in SGA expenses.  Spending for research and
+development  increased  $180,882,  mainly due to the  addition of  research  and
+development  personnel and the opening of a research and development facility in
+Taiwan.
+
+<PAGE>
+
+
+Net income for the fourth fiscal quarter increased to $119,261 compared to a net
+loss of $875,554 for the fourth quarter ended September 30, 2003. Net income per
+share was $0.01 on a basic and diluted basis compared to net a loss per share of
+$0.10 on a basic and diluted basis for the prior year's fourth quarter.
+
+FISCAL YEAR RESULTS
+- -------------------
+
+Net sales were $65.3  million for the year ended  September 30, 2004 compared to
+$51.0 million for the previous  fiscal year, an increase of  approximately  28%.
+Increases in sales of our retail  personal  video  recorder  products,  personal
+video  recorder  products  for  Windows XP Media  Center sold to the OEM market,
+European  digital TV  receiver  products,  TV tuners for laptop  computers,  the
+introduction of the MediaMVP and the increase in the Euro exchange rate were the
+primary reasons for the sales increase.
+
+Gross profit percentage  increased to 26.47% for the fiscal year ended September
+30, 2004,  compared  with a gross profit of 24.02% for the previous  year.  Cost
+reductions,  a  favorable  sales mix of higher  gross  margin  products  and the
+increase in the Euro  exchange  rate were  primarily  responsible  for the gross
+profit increase.
+
+Selling,  General and Administrative costs,  including legal expenses related to
+litigation  and  arbitration  proceedings,  increased by $1,777,744 for the year
+ended September 30, 2004. The strengthening of the value of the Euro to the U.S.
+dollar increased  expenses in our European division.  In addition,  increases in
+sales related promotional expenses and marketing programs, increased legal costs
+and fees  attributable  to  professional  services  contributed to the remaining
+increase in SGA  expenses.  Spending  for  research  and  development  increased
+$118,981,  mainly due to the addition of research and development  personnel and
+the opening of a research and development facility in Taiwan.
+
+Net income for the fiscal year ended  September 30, 2004 increased to $1,825,148
+compared  to a loss of $814,032  for the prior year.  Basic net income per share
+was $0.20 and  diluted  net income per share was $0.19,  compared  to a loss per
+share of $0.09 on a basic and diluted  basis for the prior year.  The  financial
+results  for the fiscal  year ended  September  30,  2004  included  $987,300 in
+arbitration and litigation  charges and legal fees,  which reduced net income by
+$0.10 per share on a diluted basis.
+
+
+<PAGE>
+
+DISCUSSION OF RESULTS
+- ---------------------
+
+Ken Plotkin,  Hauppauge's Chief Executive Officer stated "Worldwide sales growth
+in our targeted  product  areas in fiscal  2004,  especially  in North  America,
+combined with a favorable Euro to dollar  exchange rate  contributed to our year
+over year sales increase. Our gross profit margins were helped by an increase in
+sales of our high end products plus the increase in the Euro to dollar  exchange
+rate, but this increase was offset somewhat by the increase in our OEM business,
+which is a low margin  business.  If the Euro to dollar exchange rate stabilizes
+in fiscal  2005,  and if our OEM  business  becomes a larger  percentage  of our
+sales, our gross profit margins will tend to decline.
+
+Hauppauge  introduced several new products late in fiscal 2004, and we hope that
+these  new  products  will  increase  their  contributions  to  both  sales  and
+profitability in fiscal 2005.
+
+Lastly,  in  fiscal  2004,  we  are  happy  to  have  concluded  litigation  and
+arbitration proceedings which cost the company approximately $1 million."
+
+ABOUT HAUPPAUGE DIGITAL
+- -----------------------
+
+Hauppauge Digital, Inc. is a leading developer of analog and digital TV receiver
+products for the personal computer market. Through its Hauppauge Computer Works,
+Inc. and Hauppauge Digital Europe subsidiaries, the Company designs and develops
+analog and digital TV receivers that allow PC users to watch television on their
+PC screen in a resizable  window and enable the  recording of TV shows to a hard
+disk,  digital  video  editing,  video  conferencing,  receiving  of  digital TV
+transmissions, and the display of digital media stored on a computer to a TV set
+via a home network.  The Company is headquartered  in Hauppauge,  New York, with
+administrative offices in Luxembourg, Ireland and Singapore and sales offices in
+Germany, London, Paris, The Netherlands, Sweden, Italy, Spain, Singapore, Taiwan
+and   California.   The   Company's   Internet   web   site   can  be  found  at
+http://www.hauppauge.com.
+- ------------------------
+
+Certain  statements  in this  Release  constitute  "forward-looking  statements"
+within the meaning of the Private Securities Litigation Reform Act of 1995. Such
+forward-looking  statements  involve known and unknown risks,  uncertainties and
+other factors which may cause the actual results, performance or achievements of
+the Company,  or industry  results,  to be materially  different from any future
+results,   performance   or   achievements   expressed   or   implied   by  such
+forward-looking  statements.  Such factors  include,  among other things,  those
+described in the Company's filings with the Securities and Exchange  Commission,
+including,  but not limited to, the Company's Annual Report on form 10-K for the
+fiscal year ended September 30, 2004.
+
+                           [ Financial Table Follows ]
+
+<PAGE>
+
+
+                    HAUPPAUGE DIGITAL, INC. AND SUBSIDIARIES
+                      CONSOLIDATED STATEMENTS OF OPERATIONS
+
+
+                                                   Three Months ended
+                                                     September   30,
+                                                  2004                 2003
+                                                  ----                 ----
+
+Net Sales                                     $ 16,510,710        $ 11,505,908
+Cost of  Sales                                  12,287,239           8,809,887
+                                              ------------        ------------
+Gross Profit                                     4,223,471           2,696,021
+
+Selling, General and Administrative expenses     3,401,406           2,827,160
+Research & Development  expenses                   653,554             472,672
+                                              ------------           ---------
+Income (loss) from operations                      168,511            (603,811)
+
+Other income (expense):
+Interest income                                      1,681               2,710
+Foreign currency                                   (19,657)             (6,563)
+                                              ------------           ---------
+Total other  (expense)                             (17,976)             (3,853)
+                                              ------------           ---------
+Income (loss) before income tax expense            150,535            (607,664)
+Income tax expense                                  31,274             267,890
+                                              ------------           ---------
+Net income (loss)                             $    119,261         $  (875,554)
+                                              ============         ===========
+
+
+Net income (loss) per share
+Basic                                         $       0.01         $     (0.10)
+Diluted                                       $       0.01         $     (0.10)
+                                              ============         ===========
+
+
+Weighted average shares-basic                    9,166,581           8,878,129
+Weighted average shares-diluted                  9,746,553           8,878,129
+
+
+<PAGE>
+
+
+
+
+
+                    HAUPPAUGE DIGITAL, INC. AND SUBSIDIARIES
+                      CONSOLIDATED STATEMENTS OF OPERATIONS
+
+<TABLE>
+
+
+
+                                                                                                 Years ended
+                                                                                                September   30,
+                                                                                          2004               2003
+                                                                                          ----               ----
+
+
+<S>                                                                                   <C>                <C>
+Net Sales                                                                             $65,339,583        $ 50,956,034
+Cost of  Sales                                                                         48,045,365          38,715,103
+                                                                                      -----------        ------------
+Gross Profit                                                                           17,294,218          12,240,931
+
+Selling, General and Administrative expenses                                           12,319,805          10,818,059
+Research & Development expenses                                                         2,020,824           1,901,843
+Litigation expenses related to litigation and arbitration proceedings                     354,050              78,052
+Arbitration proceeding                                                                    206,250                   -
+Litigation proceeding                                                                     427,000                   -
+                                                                                      -----------        ------------
+Income (loss)  from operations                                                          1,966,289            (557,023)
+
+Other income:
+Interest income                                                                             6,054              15,858
+Foreign currency                                                                            2,302              34,023
+                                                                                      -----------        ------------
+Total other income                                                                          8,356              49,881
+                                                                                      -----------        ------------
+Income (loss) before income tax expense                                                 1,974,645            (507,142)
+Income tax  expense                                                                       149,497             306,890
+                                                                                      -----------        ------------
+Net  income (loss)                                                                    $ 1,825,148        $   (814,032)
+                                                                                      ===========        ============
+
+Net income (loss) per share:
+Basic                                                                                 $      0.20              ($0.09)
+Diluted                                                                               $      0.19              ($0.09)
+                                                                                      ===========        ============
+
+Weighted average shares-basic                                                           8,999,266           8,867,309
+Weighted average shares-diluted                                                         9,668,223           8,867,309
+
+</TABLE>
+
+<PAGE>
+
+
+                    HAUPPAUGE DIGITAL, INC. AND SUBSIDIARIES
+                           CONSOLIDATED BALANCE SHEETS
+
+
+<TABLE>
+
+<S>                                                                                            <C>                  <C>
+                                                                                     September 30,        September 30,
+                                                                                        2004                   2003
+                                                                               ------------------------------------------
+ Assets:
+
+ Current Assets:
+     Cash and cash equivalents                                                      $   8,661,589       $   5,838,160
+     Accounts receivables, net of various allowances                                   13,593,907           9,182,758
+     Inventories                                                                        8,477,254           5,474,374
+     Prepaid expenses and other current assets                                            770,745             546,328
+                                                                               ------------------------------------------
+           Total current assets                                                        31,503,495          21,041,620
+
+     Property, plant and equipment, net                                                   489,370             532,516
+     Security deposits and other non current assets                                        77,934              76,216
+                                                                               ------------------------------------------
+                                                                                    $  32,070,799       $  21,650,352
+                                                                               ==========================================
+
+ Liabilities and Stockholders' Equity:
+
+ Current Liabilities:
+    Accounts payable                                                                $  13,243,966       $   7,452,867
+    Accrued expenses                                                                    4,256,970           2,539,678
+    Income taxes payable                                                                  242,438             189,122
+                                                                               ------------------------------------------
+          Total current liabilities                                                    17,743,374          10,181,667
+
+ Stockholders' Equity
+    Common stock $.01 par value; 25,000,000 shares authorized
+     9,759,465 and 9,420,315  issued, respectively                                         97,595              94,203
+     Additional paid-in capital                                                        12,913,497          12,302,119
+     Retained earnings                                                                  1,925,135              99,987
+     Accumulated other comprehensive income                                               975,511             469,592
+    Treasury Stock, at cost, 567,067, and 542,067 shares, respectively                 (1,584,313)         (1,497,216)
+                                                                               ------------------------------------------
+         Total stockholders' equity                                                    14,327,425          11,468,685
+                                                                               ------------------------------------------
+                                                                                    $  32,070,799       $  21,650,352
+                                                                               ==========================================
+
+</TABLE>
+
+
+                                  # # # # # # #
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

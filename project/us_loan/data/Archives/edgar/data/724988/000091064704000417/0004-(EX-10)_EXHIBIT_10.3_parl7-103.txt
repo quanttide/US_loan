@@ -1,0 +1,907 @@
+
+
+                                                                Exhibit 10.3
+
+                              LICENSE AGREEMENT
+
+      This License Agreement (this "Agreement") is entered into as of 22nd
+day of December, 2004, by and between Parlex Corporation, a Massachusetts
+corporation ("Parlex") and Infineon Technologies Asia Pacific Pte Ltd
+(Company Registration Number: 197000667M), a corporation organized and
+existing under the laws of Singapore and having its registered office at
+168, Kallang Way, Singapore ("Infineon").
+
+
+                                  RECITALS
+                                  --------
+
+      WHEREAS, Parlex has designed, developed and patented certain Existing
+Technology (as defined below) to manufacture certain Products (as defined
+below) and wishes to transfer to Infineon a license and right to use and
+practice such Existing Technology on the terms and conditions as provided
+for herein; and
+
+      WHEREAS, Infineon desires to acquire such Existing Technology with
+such right to use and practice such Existing Technology for the purposes and
+on the terms and conditions as provided for herein.
+
+      NOW, THEREFORE, in consideration of the mutual promises and covenants
+herein set forth and for other good and valuable consideration, the receipt
+and sufficiency of which the parties hereby acknowledge, the parties hereto
+agree as follows:
+
+Section 1. DEFINITIONS
+- ---------  -----------
+
+      "Affiliate" means a Person that directly, or indirectly through one or
+more intermediaries, controls, or is controlled by or under common control
+with a Party under this Agreement, where "control" means the possession,
+directly or indirectly, of the power to direct the management and policies of
+a company whether through the ownership of voting securities or otherwise.
+
+      "Agreement" shall have the meaning set forth in the introductory
+paragraph, and shall also include any and all exhibits or schedules attached
+hereto.
+
+      "Assignee" shall have the meaning set forth in Section 14.1 hereof.
+
+      "Closing" shall bear the same meaning as ascribed to it in the Stock
+Transfer Agreement.
+
+      "Documentation" shall mean the Existing Technology and Improvements in
+any recorded form (such as on paper or other data carriers) as listed in
+Exhibit A, attached hereto or to be attached from time to time.
+
+      "Effective Date" shall mean the date of this Agreement.
+
+
+<PAGE>
+
+
+      "Exclusive Field of Use" shall mean the use of the Products for smart
+card applications and identification cards according to the ISO standards
+that are listed in Exhibit B that is attached hereto and incorporated herein
+by reference.
+
+      "Exclusive License" shall mean the exclusive, non-sublicensable, non-
+transferable and worldwide license and right to use the Existing Technology
+in the Exclusive Field of Use.
+
+      "Existing Technology" shall mean all technical information and know-
+how relating to the PALFlex technology in existence and being used by Parlex
+and/or any Parlex Affiliate on the Effective Date ("PALFlex II") (IP)
+suitable solely for the fabrication of SMARTCard Modules, FCOS(TM) Modules,
+ID tags and security and identification applications including engineering
+and manufacturing documents and drawings, written procedures, processes,
+prints and process sheets currently being used by Parlex and/or any Parlex
+Affiliate in the manufacture, use and sale of the Products. Process sequence
+according to the intellectual property is described in the Attachment A
+(Parlex SMARTCard Process Sequence) as at the Effective Date.
+
+      "Improvements" shall mean any enhancement or update to the Existing
+Technology.
+
+      "License Fee" shall have the meaning set forth in Section 5.1 hereof.
+
+      "Long Stop Date" means 31 March 2005.
+
+      "Modified Products" shall mean Products, which are modified or
+improved by Infineon to comply with customer requirements or to otherwise
+increase their functionality and/or marketability, regardless of whether
+such modifications or improvements are based on the Existing Technology
+and/or Improvements.
+
+      "HoldCo" shall mean a company established in Hong Kong, which is the
+sole investor in NewCo and in which Parlex and Infineon will be the
+shareholders according to the Stock Transfer Agreement.
+
+      "NewCo" shall mean the wholly foreign owned enterprise based in
+Shanghai, PRC, to which Parlex, or its Affiliate, shall spin-off its Smart
+Card substrate manufacturing business.
+
+      "New Technology" shall mean any and all technical information and
+know-how developed by Parlex and relating to the Existing Technology, which
+results in any substantial changes to the manufacturing process of
+Infineon's Products, including engineering and manufacturing documents and
+drawings, written procedures, processes, prints and process sheets.
+
+
+<PAGE>  2
+
+
+      "Non-Exclusive Field of Use" shall mean the use of the Products in
+security and identification application but shall not include the Exclusive
+Field of Use.
+
+      "Non-Exclusive License" shall mean the non-exclusive, non-
+sublicensable, non-transferable and worldwide License and right to use the
+Existing Technology in the Non-Exclusive Field of Use.
+
+      "Parlex" shall have the meaning set forth in the introductory
+paragraph.
+
+      "Parlex Intellectual Property" shall mean Patents and Existing
+Technology.
+
+      "Parlex's Rights" shall have the meaning set forth in Section 4.1
+hereof.
+
+      "Patents" shall mean all patents, patent applications, utility models,
+mask works and design patents, as well as divisions, reissues,
+continuations, renewals and extensions of any of the foregoing and
+applications therefore which relate to the Existing Technology and which are
+referenced on the attached Exhibit C.
+
+      "Person" means any individual, corporation (including any non-profit
+corporation), partnership, limited liability company, joint venture, estate,
+trust, association, organization, labor union or other entity.
+
+      "Products" shall mean products incorporating FCOS(TM) substrate and
+flip chip module substrate material.
+
+      "Stock Transfer Agreement" shall mean that certain Stock Transfer
+Agreement, of even date herewith, by and among, Parlex, Parlex Asia Pacific
+Ltd. and Infineon.
+
+      "Updated Documentation" shall mean the Improvements in recorded form
+(such as on paper or on other data carriers).
+
+Section 2. GRANT OF LICENSE
+- ---------  ----------------
+
+      2.1 Subject to the terms and conditions of this Agreement, Parlex
+hereby grants to Infineon and its Affiliates, commencing on the Effective
+Date, an Exclusive License during the term of this Agreement and in the
+Exclusive Field of Use to:
+
+      2.1.1 develop and use Improvements;
+
+      2.1.2 design and develop Products and Modified Products;
+
+      2.1.3 to manufacture and/or test Products and/or Modified Products;
+
+      2.1.4 to manufacture and/or test Products and/or Modified Products
+            and/or parts thereof with third parties;
+
+
+<PAGE>  3
+
+
+      2.1.5 to use Products and/or Modified Products for internal purposes;
+            and/or
+
+      2.1.6 to market, sell, lease or otherwise dispose of Products and/or
+            Modified Products and/or parts thereof.
+
+      2.2. It is agreed that the Exclusive License granted to Infineon and
+its Affiliates shall extend to and include any Improvements that are
+developed or acquired by Parlex and not developed at the request of Infineon
+during the term of this Agreement. Infineon shall reimburse Parlex for all
+time and material costs incurred by Parlex for the technology transfer of
+such Improvements. It is further agreed that all such reimbursement to
+Parlex by Infineon hereunder shall be at cost only and that Parlex shall
+provide all documentation as may be reasonably requested by Infineon to
+verify such amount(s) to be reimbursed to Parlex.
+
+      2.3 Subject to the terms and conditions of this Agreement and Section
+2.1, Parlex hereby grants to Infineon and its Affiliates, commencing on the
+Effective Date, a Non-Exclusive License during the term of this Agreement
+and in the Non-Exclusive Field of Use to:
+
+      2.3.1 develop and use Improvements;
+
+      2.3.2 design and develop Products and Modified Products;
+
+      2.3.3 to manufacture and/or test Products and/or Modified Products;
+
+      2.3.4 to manufacture and/or test Products and/or Modified Products
+            and/or parts thereof with third parties;
+
+      2.3.5 to use Products and/or Modified Products for internal purposes;
+            and/or
+
+      2.3.6 to market, sell, lease or otherwise dispose of Products and/or
+            Modified Products and/or parts thereof.
+
+      2.4 It is agreed that the Non-Exclusive License granted to Infineon
+and its Affiliates shall extend to and include the Improvements that are
+developed or acquired by Parlex and not developed at the request of Infineon
+during the term of this Agreement. Infineon shall reimburse Parlex for all
+time and material costs incurred by Parlex for the technology transfer of
+such Improvements. It is further agreed that all such reimbursement to
+Parlex by Infineon hereunder shall be at cost only and that Parlex shall
+provide all documentation as may be reasonably requested by Infineon to
+verify such amount(s) to be reimbursed to Parlex.
+
+      2.5 The parties further agree that in the event that any New
+Technology is developed or acquired by Parlex which would be relevant to the
+business of Infineon, then and in that event only, Infineon shall have the
+option to purchase a License from Parlex in respect of such New Technology
+on such terms which are no less favourable
+
+
+<PAGE>  4
+
+
+than the material terms granted to any other party in respect of such New
+Technology and such terms shall be agreed upon during a negotiation in good
+faith on an arm's length basis. The parties acknowledge that they shall
+negotiate in good faith but there shall be no obligation that Parlex accept
+terms and conditions that are more favorable than previously agreed to by
+Parlex with other entities.
+
+      2.6 In addition to the rights and licenses granted in this Section 2,
+Parlex hereby grants to Infineon for the term of this Agreement, the non-
+transferable right and license to copy and/or modify and/or translate the
+Documentation and/or any Updated Documentation and/or parts thereof for the
+sole purpose of Infineon executing the rights granted under this Agreement.
+
+      2.7 Infineon shall act as an independent contractor. Neither Infineon
+nor its employees are in any sense employees of Parlex and Infineon and its
+employees are not authorized to commit any acts that might be construed as
+acts of Parlex. Infineon shall have no authority to bind Parlex in any
+respect. It is agreed and understood that Infineon and its employees are not
+employees of Parlex under the meaning or application of any federal or state
+unemployment insurance law, or the social security law, tax law or any
+workmen's compensation law that relate to employer/employee relationships.
+Infineon hereby agrees to assume all liabilities or obligations imposed by
+or incurred as a result of anyone or more of the above-enumerated laws with
+respect to its employees and their performance under this Agreement.
+
+Section 3. TRANSFER OF TECHNOLOGY AND TECHNICAL ASSISTANCE
+- ---------  -----------------------------------------------
+
+      3.1 Upon Infineon's reasonable request made during the term of this
+Agreement, Parlex shall give or shall cause to be given to Infineon such
+technical assistance after the date hereof as Infineon and its employees may
+reasonably require in connection with the transfer of Existing Technology
+provided in the preceding paragraph and to enable Infineon to fully utilize
+the Existing Technology to manufacture and sell Products as heretofore
+manufactured and sold by Parlex or any Parlex Affiliate and to provide
+services as heretofore provided by Parlex or any Parlex Affiliate. The term
+"technical assistance" as used herein shall refer solely to consultation
+provided either by telephone or facsimile and there is no obligation,
+expressed or implied, that Parlex will be expected to travel or visit for or
+at the request of Infineon. However, if Parlex agrees to send personnel
+anywhere for or at the request of Infineon, then all expenses, including but
+not limited to, travel, lodging and meals, shall be paid for by Infineon.
+
+Section 4. TECHNOLOGY OWNERSHIP
+- ---------  --------------------
+
+      4.1 Infineon acknowledges and agrees that Parlex is the sole and
+exclusive owner of all right, title and interest, including all business or
+technical information proprietary to Parlex, in the Existing Technology,
+Documentation and all trademarks, copyrights, patents, trade names, trade
+secrets and other intellectual property rights, in and to the Parlex
+Intellectual Property and Improvements ("Parlex's Rights").
+
+
+<PAGE>  5
+
+
+      4.2 Infineon understands and acknowledges that the rights granted
+under this Agreement do not constitute a license to use the Existing
+Technology and manufacture the Products for any reason or purpose other than
+as specified herein.
+
+      4.3 If Infineon becomes aware that a third party is infringing upon
+the Existing Technology and/or Improvements licensed under this Agreement,
+it shall so inform Parlex who shall decide whether litigation or another
+proceeding or neither shall be commenced to enforce its rights to the
+Technology and/or induce third parties to obtain licenses to such
+Technology. The cost of any such litigation shall be borne solely by Parlex.
+Parlex shall have the right to control the litigation and selection of
+counsel. Infineon shall reasonably assist Parlex in such litigation at its
+own reasonable cost. Parlex shall have sole authority for settling or
+compromising such litigation in its sole discretion. Any recovery by way of
+damages from a court or other proceeding or other settlement shall be for
+Parlex's account. However, Infineon will be reimbursed for any costs
+incurred in its assistance to Parlex.
+
+      4.4 Should Parlex decide not to pursue litigation or another
+proceeding as to the Existing Technology and/or Improvements against a third
+party, but Infineon wishes to pursue action against such third party, Parlex
+hereby gives its assent to such action by Infineon, at Infineon's sole
+expense. Infineon shall have the right to control the litigation and
+selection of counsel. Parlex shall reasonably assist Infineon at its own
+reasonable cost. Licensee shall have sole authority for settling or
+compromising such litigation in its sole discretion, but with prior written
+notice to Parlex of its intended settlement or compromise. Any recovery by
+way of damages from a court or other proceeding or other settlement shall be
+for Infineon's account. To the extent required or desirable, Parlex hereby
+agrees to join in any such court action or other proceeding as a party.
+
+Section 5. CONSIDERATION
+- ---------  -------------
+
+      5.1   In consideration of the rights and licenses granted to Infineon
+by Parlex under this Agreement, Infineon shall pay Parlex a one time license
+fee of Five Hundred Thousand United States Dollars (US$500,000.00)(the
+"License Fee").
+
+      5.2   The Parties acknowledge and agree that the License Fee set forth
+in Section 5.1 is the only payment to be made by Infineon for the rights and
+licenses granted under this Agreement and after such payment is effected,
+the licenses herein shall be considered fully paid-up and Parlex
+acknowledges that once it receives payment of the License Fee, it will have
+received full and sufficient consideration from Infineon for the rights and
+licenses granted under this Agreement.
+
+Section 6. WARRANTIES AND REPRESENTATIONS
+- ---------  ------------------------------
+
+      6.1 Parlex undertakes to transfer the Existing Technology and any
+Improvements completely and with the promptitude as contemplated in this
+Agreement to Infineon. Parlex undertakes to use all reasonable efforts at
+its own cost to correct any and all errors found in the Documentation and/or
+Updated Documentation without undue delay upon
+
+
+<PAGE>  6
+
+
+receipt of a written notice by Infineon specifying the error and to
+thereafter promptly provide Infineon with the rectified version of such
+deficient part of the Documentation and/or Updated Documentation. It is
+agreed that the procedure set out in this Section 6.1 shall apply
+accordingly whenever any Documentation and/or Updated Documentation and/or
+part thereof is found by Infineon to have been incomplete or erroneous.
+
+      6.2 Infineon warrants and represents that it will in good faith
+provide Parlex with all information relating to any Improvement made to the
+manufacturing equipment, raw materials, processes or any other aspect of the
+Existing Technology.
+
+      6.3 Infineon and Parlex warrant and represent to each other that
+neither the execution, delivery nor performance of this Agreement will, with
+or without the giving of notice or the passage of time, or both, conflict
+with, result in a default, right to accelerate or loss of rights under, or
+result in the creation of any lien, charge or encumbrance pursuant to, any
+provision of either party's Articles of Organization or Bylaws or any
+regulation or any order, judgment or decree to which either is a party or by
+which it may be bound or affected. Both parties have the full power and
+authority to enter into this Agreement and to carry out the transactions
+contemplated thereby, all proceedings required to be taken by them to
+authorize the execution, delivery and performance of this Agreement and all
+other agreements relating hereto or contemplated hereby have been properly
+taken and this Agreement constitutes a valid and binding obligation.
+
+      6.4 Parlex warrants and represents to Infineon that there is no claim,
+legal action, suit, arbitration, governmental investigation or other legal
+or administrative proceeding, nor any order, decree or judgment in progress,
+pending or in effect, or to its knowledge threatened, against or relating to
+Parlex and the transactions contemplated by this Agreement, and Parlex does
+not know or has no reason to be aware of any basis for the same.
+
+      6.5 Parlex warrants and represents that it is the sole owner of the
+right, title and interest in the Existing Technology and that it has full
+right to grant the rights set forth in this Agreement. Parlex also warrants
+and represents that there are no outstanding agreements, assignments or
+encumbrances inconsistent with the provisions of this Agreement. Parlex
+further warrants and represents that it has not received any notice that the
+use of the Existing Technology as furnished by it hereunder infringes any
+intellectual property rights of a third party.
+
+      6.6 Subject to Section 6.4, Parlex makes no other representations or
+warranties, express or implied nor does it assume any liability in respect
+of any infringement of any patents or other rights of third parties due to
+Infineon's operation under the rights granted herein.
+
+      6.7 Except for the limited representations made by Parlex herein, all
+Existing Technology and Documentation provided by Parlex is accepted by
+Infineon "as is". Parlex makes no warranties, express or implied, with
+respect to the quality, performance,
+
+
+<PAGE>  7
+
+
+merchantability, non-infringement or fitness for a particular purpose except
+as otherwise expressly stated herein.
+
+Section 7.  COVENANT NOT TO COMPETE
+- ---------   -----------------------
+
+      7.1 As further consideration for Parlex's agreement to license the
+Existing Technology under the terms and conditions of this Agreement,
+Infineon agrees for the duration of this Agreement and for a period of two
+(2) years after the termination of this Agreement for whatever reason, not
+to use the Existing Technology in any business other than the Exclusive and
+Non-Exclusive Field of Use.
+
+      7.2 Infineon agrees and acknowledges Parlex will suffer irreparable
+injury and damage and cannot be reasonably or adequately compensated in
+monetary damages for the loss by Parlex of its benefits or rights under this
+Agreement as a result of a breach, default or violation by Infineon of its
+obligations under this Clause 7. Accordingly, Parlex shall be entitled, in
+addition to all other remedies which may be available to it (including
+monetary damages), to injunctive and other available equitable relief in any
+court of competent jurisdiction to prevent or otherwise restrain or
+terminate any actual or threatened breach, default or violation by Infineon
+of this Clause 7 or to enforce this Clause 7.
+
+      7.3 It is acknowledged further by Infineon that this provision is
+restrictive but is necessary to induce Parlex to enter into this Agreement.
+
+Section 8. INDEMNIFICATION
+- ---------  ---------------
+
+      8.1 In the event of a claim or suit against Infineon and its
+Affiliates based upon the allegation that the Parlex Intellectual Property
+and/or Improvement infringes any patent, copyright, mask work, trademark,
+trade secret, or other property right, Parlex agrees to defend, indemnify
+and hold harmless Infineon, its Affiliates and its customers, at Parlex's
+expense, from and against any loss, liability, costs, damages, expenses
+(including the reasonable fees of lawyers and other professionals) resulting
+from and relating to such claim or suit, including costs and damages finally
+awarded in any such suit.
+
+      8.2 Infineon shall notify Parlex promptly in writing of the claim or
+suit and at Parlex's request and at its expense shall give Parlex control of
+the defense of such claim or suit and all requested reasonable assistance to
+defend the same. If the use of the Parlex Intellectual Property and/or
+Improvement by Infineon and its Affiliates according to Section 8.1 is
+enjoined as a result of such suit, Parlex, at Infineon's option and at no
+expense to Infineon, shall either procure to Infineon and its Affiliates the
+right to continue using the Parlex Intellectual Property and/or Improvement,
+or shall modify the Parlex Intellectual Property and/or Improvement to make
+it non-infringing, while complying with a comparable functionality and
+compatibility.
+
+
+<PAGE>  8
+
+
+      8.3 The provisions of this section do not extend to any suit based
+upon an infringement or alleged infringement of any patent, copyright, trade
+secret, mask work, trademark or other property right by: (i) any
+modification of the Parlex Intellectual Property not made by Parlex; (ii)
+the use or misuse of the Parlex Intellectual Property in combination with
+other equipment, technology or other materials not provided by PARLEX,
+provided that such claim may not have occurred but for such combination or
+modification; or (iii) Infineon's failure to notify Parlex of, or assistance
+in the defense of, any claim as required by Section 8.2 hereof.
+
+      8.4 In the event of a claim or suit against Parlex based upon
+allegations: (a) that the Parlex Intellectual Property, when combined with
+any other process not supplied by Parlex, infringes any patent, copyright,
+mask work, trademark, trade secret, or other property right, (b) that the
+Parlex Intellectual Property was used in a manner for which it was expressly
+restricted, (c) relating to the gross negligence of Infineon, or (d)
+relating to a settlement or compromise incurred or made by Infineon without
+Parlex's prior written consent, Infineon agrees to defend, indemnify and
+hold harmless Parlex, and its customers, at Infineon's expense, from and
+against any loss, liability, costs, damages, expenses (including the
+reasonable fees of lawyers and other professionals) resulting from and
+relating to such claim or suit, including costs and damages finally awarded
+in any such suit.
+
+      8.5 EXCEPT AS OTHERWISE EXPRESSLY SET FORTH HEREIN AND EXCEPT FOR
+INTENTIONAL OR WILLFUL BREACHES OF SECTION 2 ("GRANT OF LICENSE") AND
+SECTION 9 ("CONFIDENTIALITY") IN NO EVENT SHALL THE PARTIES BE LIABLE FOR
+(i) ANY INCIDENTAL OR CONSEQUENTIAL DAMAGES, INCLUDING LOST PROFITS,
+RESULTING FROM, ARISING OUT OF, OR IN CONNECTION WITH THIS AGREEMENT OR THE
+PERFORMANCE OR BREACH THEREOF, OR (ii) COST OF PROCUREMENT OF SUBSTITUTE
+GOODS, TECHNOLOGY, OR SERVICES EVEN IF A PARTY SHALL HAVE BEEN ADVISED AS TO
+THE POSSIBILITY OF SUCH DAMAGES.
+
+Section 9. CONFIDENTIALITY
+- ---------  ---------------
+
+      9.1 Infineon hereby covenants and agrees to keep and cause to be kept
+secret and confidential all business and technical information (whether
+written or oral) including the Existing Technology ("Confidential
+Information") and will not divulge, publish or use any such Confidential
+Information to any person or persons, firms or corporations, nor use the
+same for its or their own benefit. Infineon will, and will cause its
+employees to (a) keep all Confidential Information in confidence, (b) not to
+use the Confidential Information for any purpose other than for the purpose
+of performance of this Agreement and the transactions contemplated hereby.
+Without limiting the foregoing, Infineon agrees to employ with regard to
+such Confidential Information procedures no less restrictive than the
+strictest procedures used by Infineon to protect its own confidential
+information, and in no case less than a reasonable degree of care under the
+circumstances. Notwithstanding the foregoing, Infineon shall be entitled to
+disclose any Confidential
+
+
+<PAGE>  9
+
+
+Information to any Affiliate as long as Infineon's Affiliate agrees in
+writing to be bound by the confidentiality provisions set forth in this
+Section 9.
+
+      9.2 The term Confidential Information shall not include any
+information which is:
+
+      *     already in the possession of Infineon and its Affiliates without
+            breach of obligation of confidence under this Agreement;
+      *     now, or hereafter becomes, publicly available without breach of
+            this Agreement;
+      *     rightfully received from third parties without obligation of
+            confidence;
+      *     independently developed by Infineon and/or its Affiliates
+            without use or reference to the Confidential Information.
+
+      9.3 Infineon's obligations with respect to the Confidential
+Information as specified in Article 9.1 shall not apply to any disclosure
+which is in response to a valid order of a court or a due inquiry of other
+governmental body of any country or group of countries or any political
+subdivision thereof, provided, that Infineon shall have notified Parlex
+immediately upon learning of any such order and has given Parlex a
+reasonable opportunity and cooperated with Parlex to contest or limit the
+scope of such required disclosure including a protective order, or otherwise
+required by law.
+
+      9.4 Infineon has or will require all of its employees and consultants
+who have access to any of the Confidential Information to execute agreements
+similar in content to Section 9 and will exercise its best efforts to obtain
+compliance therewith.
+
+      9.5 Infineon shall use reasonable efforts to promptly notify Parlex of
+any known unauthorized use or disclosure of the Confidential Information,
+and will use reasonable efforts to cooperate with Parlex in any litigation
+brought by Parlex against third parties to protect its property rights.
+
+Section 10. TERM
+- ----------  ----
+
+      10.1 This Agreement shall be in full force and effect commencing on
+the Effective Date and shall continue in full force and effect in
+perpetuity, unless sooner terminated as follows:
+
+      (a)   This Agreement shall terminate on the date of such written
+confirmation issued by Infineon to Parlex stating the receipt by Infineon of
+a full refund of the License Fee from Parlex in accordance with the
+provisions of Section 2.3 of the Stock Transfer Agreement; or
+
+      (b)   This Agreement shall immediately terminate upon the filing by or
+against Infineon, of a petition for bankruptcy or any arrangement for the
+benefit of creditors, or a petition for reorganization, or if Infineon makes
+an assignment for the benefit of creditors; or if a receiver (permanent or
+temporary) of Infineon's property or any party thereof, is appointed by a
+court of competent authority or upon dissolution of Infineon; or
+
+
+<PAGE>  10
+
+
+      (c)   This Agreement shall immediately terminate in the event that
+either party defaults in the performance of any material term, condition or
+obligation hereunder, and such default is not remedied to the non-defaulting
+party's reasonable satisfaction within thirty (30) days after written
+receipt by the defaulting party of written notice specifying the nature of
+such default and requiring the remedy of the same.
+
+      10.2 Upon termination of this Agreement by Parlex pursuant to Section
+10.1(c), all rights and licenses granted to Infineon under this Agreement
+shall immediately cease and terminate. Thereafter, Infineon will promptly
+return all copies of the Existing Technology to Parlex, or destroy all
+copies in its possession. Parlex has and reserves all rights and remedies
+that it has by operation of law or otherwise to enjoin the unlawful or
+unauthorized use of the Existing Technology.
+
+      10.3 Upon termination of this Agreement by Infineon pursuant to
+Section 10.1(a) and (b), Infineon shall have the right to continue to
+exercise the rights and licenses beyond termination for a period of seven
+(7) years.
+
+      10.4 All engineering and manufacturing documents, processes, written
+procedures, print and process sheets, trademarks, trade names, patents,
+designs, drawings, formulas or other data, photographs, samples, literature
+and sales aids of every kind shall remain the property of Parlex. Within
+thirty (30) days after termination of this Agreement according to Section
+10.2, Infineon shall prepare all such items in its possession for shipment
+as Parlex may direct, at Parlex's expense. Infineon shall not make or retain
+any copies of any confidential items or information which may have been
+entrusted to it.
+
+      10.5 The provisions of Sections 4, 7, 8 and 9 shall survive the
+termination of this Agreement for any reason. Additionally, the provisions
+of Section 2 shall survive termination of this Agreement if terminated
+according to Section 10.3. All other rights and obligations of the parties
+shall cease upon termination of this Agreement.
+
+Section 11. DISPUTE RESOLUTION/GOVERNING LAW
+- ----------  --------------------------------
+
+      11.1  Any controversy or claim arising out of or relating to this
+Agreement (other than injunctive relief, including, without limitation,
+specific performance), or the negotiation or breach thereof ("Dispute"),
+shall be settled using the following procedure prior to either party
+pursuing other available remedies:
+
+      (a)   Negotiation. A meeting shall be held promptly (in no event more
+than fourteen (14) days after either Parlex or Infineon has notified the
+other in writing that it considers that a dispute has arisen) between the
+parties, attended by individuals with decision-making authority regarding
+the dispute, to attempt in good faith to negotiate a resolution of the
+dispute (the "Negotiation").
+
+
+<PAGE>  11
+
+
+      (b)   Mediation. If, within fifteen (15) days after such meeting, the
+parties have not succeeded in negotiating a resolution of the dispute, they
+will jointly appoint a mutually acceptable neutral person not affiliated
+with either of the parties (the "Neutral"), seeking assistance in such
+regard from the Singapore Mediation Centre if they have been unable to agree
+upon such appointment within thirty (30) days from the initial meeting under
+Section 11.1(a). The fees of the Neutral shall be shared equally by the
+parties, one half by Parlex and one half by Infineon. In consultation with
+the Neutral, the parties will select or devise a mediation procedure
+("Mediation") by which they will attempt to resolve the dispute, and a time
+and place for the Mediation to be held, with the neutral making the decision
+as to the procedure, and/or place and time (but not later than twenty (20)
+days after selection of the Neutral), if the parties have been unable to
+agree on any such matters within fifteen (15) days after initial
+consultation with the Neutral. The parties agree to participate in good
+faith in the Mediation to its conclusion as designated by the Neutral, but
+in no event shall this obligation extend for more than sixty (60) days after
+selection of the Neutral, after which the parties shall be entitled to seek
+all remedies available to them hereunder, at law, in equity or otherwise.
+
+      (c)   Arbitration. If the parties are not successful in resolving the
+dispute through the Negotiation or the Mediation within 90 days after the
+initial notice pursuant to Section 11.1(a), any controversy or claim arising
+out of or relating to this Agreement (other than injunctive relief,
+including, without limitation, specific performance), or the negotiation or
+breach thereof, shall be subject to final and binding arbitration in
+accordance with the rules of the Singapore International Arbitration Centre
+, and judgment upon the award rendered by the arbitrators may be entered in
+any court having jurisdiction thereof. The provisions of this Section 11.1
+shall not be deemed to preclude any party hereto from seeking preliminary
+injunctive or other equitable relief to protect or enforce its rights
+hereunder, or to prohibit any court from making preliminary findings of fact
+in connection with granting or denying such preliminary injunctive relief
+pending arbitration, or to preclude any party hereto from seeking permanent
+injunctive or other equitable relief after and in accordance with the
+decision of the arbitrators.
+
+      11.2 This Agreement, executed in duplicate, shall be interpreted in
+accordance with and its performance shall be governed by the laws of
+Singapore.
+
+Section l2. BINDING EFFECT, SEVERABILITY AND NOTICES
+- ----------  ----------------------------------------
+
+      12.1. The terms of this Agreement shall be binding upon and inure to
+the benefit of and shall be enforceable by the executors, administrators,
+successors, assigns and transferees of the parties hereto. In case any term
+of this Agreement shall be held invalid, illegal or unenforceable in whole
+or in part, neither the validity of the remaining part of such term nor the
+validity of any other term of this Agreement shall in any way be affected
+thereby.
+
+      12.2. This Agreement constitutes the full and complete understanding
+and agreement of the parties with respect to the subject matter hereof,
+supersedes all prior understandings and agreements, both oral and written as
+to the subject matter of this
+
+
+<PAGE>  12
+
+
+Agreement, and cannot be amended, changed, modified, or terminated without
+the consent in writing of both parties hereto.
+
+      12.3  Notices hereunder shall be effective if in writing and shall be
+deemed to have been given at the earliest of the date when actually
+delivered to an individual party or to an officer of a corporate party by
+personal delivery on the succeeding business day when deposited with a
+nationally recognized overnight courier service, or five days after
+deposited in the United States mail, postage prepaid, registered or
+certified, return receipt requested, and addressed, in the case of Infineon,
+to:
+
+            Infineon Technologies Asia Pacific Pte Ltd
+            168, Kallang Way, Singapore
+            Attn:Dawn Seah Yee Hui
+
+            and in the case of Parlex, to:
+
+            Parlex Corporation
+            One Parlex Place
+            Methuen, MA 01844
+            Attn.: Peter Murphy, President and CEO
+
+Any party may change the address to which notices are to be addressed by
+giving the other parties notice in the manner herein set forth.
+
+Section l3. NON-WAIVER
+- ----------  ----------
+
+      13.1 The failure of Parlex or Infineon, at any time or from time to
+time, to enforce or require the strict keeping and performance of any of the
+terms or conditions of this Agreement shall not constitute nor be construed
+to be a waiver of such terms or conditions in any way. The exercise by
+Parlex or Infineon of any right arising thereunder shall not preclude nor
+prejudice it from thereafter exercising the same or any other right nor
+shall the waiver of any breach of the Agreement prevent a subsequent
+enforcement of such term or obligation or be deemed to be a waiver of a
+subsequent breach.
+
+Section l4. ASSIGNABILITY
+- ----------  -------------
+
+      14.1 Neither party hereto shall, during the term of this Agreement,
+assign, transfer or otherwise dispose of this Agreement or its interests,
+rights and obligations in or under this Agreement, in whole or in part,
+without the prior written approval of the other party hereto, except that
+(a) the Parties may assign this Agreement to any Affiliate, and (b) the
+Parties may freely assign this Agreement in connection with the sale or
+disposition of all or substantially all of its assets or any other change of
+control of each Party provided that it is a condition precedent that such
+assignee shall agree to be bound by the provisions of this Agreement and (c)
+Infineon shall have the right to assign this Agreement to HoldCo and/or
+NewCo (the "Assignees").
+
+
+<PAGE>  13
+
+
+      14.2 The Parties agree that in the case Infineon assigns this
+Agreement to the Assignees or any Assignee according to Section 14.1, the
+following terms and conditions shall be amended:
+
+      14.2.1 The first paragraph of Section 2.2 shall be replaced by the
+following:
+
+      "It is agreed that the Exclusive License granted to the Assignee and
+its Affiliates shall extend to and include any Improvements that are
+developed or acquired by Parlex and not developed at the request of the
+Assignee for so long as Parlex or its Affiliates remains a shareholder of
+the Assignee."
+
+      14.2.2 The first paragraph of Section 2.4 shall be replaced by the
+following:
+
+      "It is agreed that the Non-Exclusive License granted to Assignee and
+its Affiliates shall extend to and include the Improvements that are
+developed or acquired by Parlex and not developed at the request of Assignee
+for so long as Parlex or its Affiliates remains a shareholder of Assignee."
+
+      14.2.3 The following shall be added to this Agreement as Section 2.8:
+
+      "In the event that Parlex or its Affiliates are no longer a
+shareholder of Assignee, any rights previously granted to Assignee under
+this Agreement relative to the Improvements shall remain in force and
+effect. However, in the event that Parlex develops any future Improvements,
+the parties agree to negotiate in good faith on a case-by-case basis the
+commercial terms and conditions under which Parlex shall license the future
+Improvements to Assignee."
+
+      14.2.4 Section 4.1 shall be replaced by the following:
+
+      "Assignee acknowledges and agrees that Parlex is the sole and
+exclusive owner of all right, title and interest, including all business or
+technical information proprietary to Parlex, in the Existing Technology,
+Documentation and all Trademarks, copyrights, patents, trade names, trade
+secrets and other intellectual property rights, in and to the Parlex
+Intellectual Property and Improvements and all products or information
+derived from Assignee's use of the Existing Technology ("Parlex's Rights").
+
+      14.2.5 The last sentence of Section 9.1 shall be replaced by the
+following:
+
+      "Notwithstanding the foregoing, in the event that Parlex or any Parlex
+Affiliate ceases to be a shareholder in the Assignee, Assignee shall be
+entitled to disclose any Confidential Information to any Assignee Affiliate
+as long as Assignee's Affiliate agrees in writing to be bound by the
+confidentiality provisions set forth in this Section 9"
+
+      14.2.6  The first sentence of Section 10.2 shall be modified by adding
+              the following to the end of such sentence:
+
+
+<PAGE>  14
+
+
+            ", except that Assignee shall be entitled to complete those
+      customer orders with respect to Products and/or Modified Products that
+      Assignee has received and confirmed prior to the date of termination"
+
+      14.2.7  Section 18 shall be modified by adding a new Section 18.2:
+
+      "18.2   Upon Parlex's request, this Agreement shall be registered by
+              the Assignee with the appropriate governmental authorities in
+              the People's Republic of China."
+
+
+Section l5. LANGUAGE
+- ----------  --------
+
+      15.1 This Agreement is in the English language, and is to be governed
+and interpreted in the English language, and is executed in duplicate
+originals, one duplicate to be retained by each party hereto.
+
+Section 16. AMENDMENT
+- ----------  ---------
+
+      16.1 This Agreement may be amended, modified, superseded or cancelled
+and any of the terms, covenants, representations, warranties or conditions
+hereof may be waived, only by a written instrument executed by the parties
+hereto or, in the case of a waiver, by or on behalf of the party waiving
+compliance.
+
+Section 17. HEADINGS
+- ----------  --------
+
+      17.1 Any headings in this Agreement are inserted for convenience only
+and shall not constitute a part hereof for any purpose whatsoever.
+
+Section 18. EXPORT CONTROLS
+- ----------  ---------------
+
+      18.1 Infineon agrees to comply with all United States' export
+regulations in connection with this Agreement. In this regard, Infineon may
+not export or re-export the Existing Technology or any portion thereof
+without the prior written consent of Parlex and without the appropriate
+United States and foreign government licenses. Neither the Existing
+Technology nor any technical data contained therein or produced thereby, nor
+any portion thereof may be exported or re-exported (i) into (or to a
+national or resident of) Cuba, Iran, Iraq, Libya, North Korea, Sudan, Syria,
+or any other country to which the United States has embargoed goods; or
+(ii) to anyone on the United States Treasury Department's list of Specially
+Designated Nationals or the U.S. Commerce Department's Table of Deny Orders.
+Infineon hereby represents and warrants that it is not located in, under the
+control of, or a national or resident of any such country or on any such
+list. Each of Parlex and Infineon further agrees to indemnify and hold
+harmless the other party and its officers, directors, shareholders,
+employees, agents and representatives against any and all costs,
+liabilities, damages, losses or expenses (including, without limitation,
+attorneys' fees) arising from, or relating to any established knowing or
+intentional
+
+
+<PAGE>  15
+
+
+violation by such party of any of the applicable laws and administrative
+regulations of the United States of America or other foreign governmental
+agencies relating to the control of exports of commodities and technical
+data provided that the aggregate liability of Infineon hereunder shall not
+exceed the sum of US$500,000. This Section shall survive the expiration or
+termination of this Agreement for any reason.
+
+
+                          [Signature Page Follows]
+
+
+<PAGE>  16
+
+
+      IN WITNESS WHEREOF, the parties hereto have executed this Agreement by
+their duly authorized officers or representatives as of the day and year
+first above written.
+
+
+                                  PARLEX CORPORATION
+
+
+                                  By: /s/ Peter J. Murphy
+                                      --------------------------
+                                      Peter J. Murphy
+                                      Chief Executive Officer
+
+
+                                  Infineon Technologies Asia Pacific Pte Ltd
+
+                                  By: /s/ Loh Kin Wah
+                                      --------------------------
+                                      Name: Mr. Loh Kin Wah
+                                      Title: President and Managing Director
+
+                                  By: /s/ Klaus Gohlke
+                                      --------------------------
+                                      Name: Dr. Klaus Gohlke
+                                      Title: Vice President, AP Corporate
+                                      Finance and Company Director
+
+
+<PAGE>  17
+
+

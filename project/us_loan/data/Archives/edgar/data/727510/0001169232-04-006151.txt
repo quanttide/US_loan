@@ -1,0 +1,380 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Kau/dMeeGbiFBdAQQ8kreea7wl2PDbYJfZ+Ej5snmero7Fzl2VI/DGEn/Nf8DZrk
+ rI3LzW8NEzepDY8RCS/5hg==
+
+<SEC-DOCUMENT>0001169232-04-006151.txt : 20041223
+<SEC-HEADER>0001169232-04-006151.hdr.sgml : 20041223
+<ACCEPTANCE-DATETIME>20041222205827
+ACCESSION NUMBER:		0001169232-04-006151
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20041222
+ITEM INFORMATION:		Entry into a Material Definitive Agreement
+ITEM INFORMATION:		Departure of Directors or Principal Officers; Election of Directors; Appointment of Principal Officers
+FILED AS OF DATE:		20041223
+DATE AS OF CHANGE:		20041222
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ENZON PHARMACEUTICALS  INC
+		CENTRAL INDEX KEY:			0000727510
+		STANDARD INDUSTRIAL CLASSIFICATION:	BIOLOGICAL PRODUCTS (NO DIAGNOSTIC SUBSTANCES) [2836]
+		IRS NUMBER:				222372868
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-12957
+		FILM NUMBER:		041222227
+
+	BUSINESS ADDRESS:	
+		STREET 1:		685 ROUTE 202/206
+		CITY:			BRIDGEWATER
+		STATE:			NJ
+		ZIP:			08807
+		BUSINESS PHONE:		7329804500
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O DORSEY & WHITNEY LLP
+		STREET 2:		250 PARK AVE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10177
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ENZON PHARMACEUTICAL  INC
+		DATE OF NAME CHANGE:	20021210
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ENZON INC
+		DATE OF NAME CHANGE:	19920703
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>d61692_8-k.htm
+<DESCRIPTION>CURRENT REPORT
+<TEXT>
+<HTML>
+<HEAD>
+     <!-- Created by EDGAR Ease Plus (EDGAR Ease+) -->
+     <!-- Project:        X:\JOBS\04-61692\d04-61692.eep                                   -->
+     <!-- Control Number: 04-61692                                                         -->
+     <!-- Rev Number:     1.0                                                              -->
+     <!-- Client Name:    Enzon Pharmaceuticals, Inc.                                      -->
+     <!-- Project Name:   Form Type: 8-K                                                   -->
+     <!-- Firm Name:      Enzon, Inc.                                                      -->
+     <TITLE>Form 8-K</TITLE>
+</HEAD>
+<BODY>
+
+<!-- MARKER FORMAT-SHEET="Div Style" FSL="Project" -->
+<DIV STYLE="WIDTH:600">
+<BR>
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center Bold-TNR" FSL="Project" -->
+<H1 ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>SECURITIES AND
+EXCHANGE COMMISSION  </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center Bold-TNR" FSL="Project" -->
+<H1 ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Washington, D.C. 20549  </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center Bold-TNR" FSL="Project" -->
+<H1 ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>FORM 8-K  </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center Bold-TNR" FSL="Project" -->
+<H1 ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>CURRENT REPORT  </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Para Flush" FSL="Default" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Pursuant to Section 13 or 15(d) of
+the Securities Exchange Act of 1934 </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Left-TNR" FSL="Project" -->
+<P ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Date of Report (Date of
+earliest event reported)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;December 22, 2004  </FONT></P>
+
+
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center-TNR" FSL="Project" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>ENZON PHARMACEUTICALS,
+INC.<BR> (Exact name of registrant as specified in its charter)  </FONT></P>
+
+
+
+
+
+
+<!-- MARKER FORMAT-SHEET="Reg Cover Table 3 Col 10" FSL="Project" -->
+<TABLE WIDTH=600 CELLPADDING=0 CELLSPACING=0 BORDER=0>
+<TR VALIGN=TOP>
+<TD ALIGN=CENTER WIDTH=33%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Delaware<BR>
+(State or other jurisdiction of incorporation)<BR>
+</FONT></TD>
+<TD ALIGN=CENTER WIDTH=34%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>0-12957<BR>
+(Commission file Number)</FONT></TD>
+<TD ALIGN=CENTER WIDTH=33%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>22-2372868<BR>
+(IRS Identification No.)</FONT></TD>
+</TR>
+</TABLE>
+<BR>
+
+
+
+
+<!-- MARKER FORMAT-SHEET="Reg Cover Table 2 Col 10" FSL="Project" -->
+<TABLE WIDTH=600 CELLPADDING=0 CELLSPACING=0 BORDER=0>
+<TR VALIGN=TOP>
+<TD ALIGN=CENTER WIDTH=50%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>685 Route 202/206, Bridgewater, New Jersey<BR>
+(Address of principal executive offices)</FONT></TD>
+<TD ALIGN=CENTER WIDTH=50%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>08807<BR>
+(Zip Code)</FONT></TD>
+</TR>
+</TABLE>
+<BR>
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Project" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Registrant&#146;s telephone number,
+including area code&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(908) 541-8600 </FONT></P>
+
+
+<!-- MARKER FORMAT-SHEET="Para Flush" FSL="Default" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>
+&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;<BR>
+(Former name or former address, if changed
+since last report) </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Flush" FSL="Default" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Check the appropriate box below if
+the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the
+registrant under any of the following provisions: </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Hang Lv 0-TNR" FSL="Project" -->
+<TABLE WIDTH=600 CELLPADDING=0 CELLSPACING=0 BORDER=0>
+<TR VALIGN=TOP>
+<TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>|_|  </FONT></TD>
+<TD WIDTH=95%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Written
+communication pursuant to Rule 425 under the Securities Act (17 CFR 230.425)</FONT></TD>
+</TR>
+</TABLE>
+<BR>
+
+<!-- MARKER FORMAT-SHEET="Para Hang Lv 0-TNR" FSL="Project" -->
+<TABLE WIDTH=600 CELLPADDING=0 CELLSPACING=0 BORDER=0>
+<TR VALIGN=TOP>
+<TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>|_|  </FONT></TD>
+<TD WIDTH=95%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Soliciting
+material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)</FONT></TD>
+</TR>
+</TABLE>
+<BR>
+
+<!-- MARKER FORMAT-SHEET="Para Hang Lv 0-TNR" FSL="Project" -->
+<TABLE WIDTH=600 CELLPADDING=0 CELLSPACING=0 BORDER=0>
+<TR VALIGN=TOP>
+<TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>|_|  </FONT></TD>
+<TD WIDTH=95%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Pre-commencement
+communication pursuant to Rule 14d-2(b) under the Exchange Act          (17 CFR
+240.14d-2(b)</FONT></TD>
+</TR>
+</TABLE>
+<BR>
+
+<!-- MARKER FORMAT-SHEET="Para Hang Lv 0-TNR" FSL="Project" -->
+<TABLE WIDTH=600 CELLPADDING=0 CELLSPACING=0 BORDER=0>
+<TR VALIGN=TOP>
+<TD WIDTH=5%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>|_|  </FONT></TD>
+<TD WIDTH=95%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Pre-commencement
+communication pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))</FONT></TD>
+</TR>
+</TABLE>
+<BR>
+
+
+
+
+<HR SIZE=5 COLOR=GRAY NOSHADE>
+
+<P STYLE="page-break-after:always">
+</P>
+<PAGE>
+<BR>
+
+
+<!-- MARKER FORMAT-SHEET="Head Major Left Bold-TNR" FSL="Project" -->
+<H1 ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><I>Item 1.01&nbsp; Entry Into a
+Material Definitive Agreement</I> </FONT> </H1>
+
+<!-- MARKER FORMAT-SHEET="Para Flush" FSL="Default" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>On December 22, 2004, we entered into
+an employment agreement with Jeffrey H. Buchalter, the Chairman of our Board of Directors,
+pursuant to which Mr. Buchalter will serve as our Chief Executive Officer. The initial
+term of the employment agreement will expire no earlier than December 31, 2009 and no
+later than twelve months after either party gives notice to the other that such party does
+not wish for the agreement to continue beyond such twelve-month period (a &#147;notice of
+non-renewal&#148;). </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Flush" FSL="Default" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>The agreement provides for a base
+salary of $550,000 per year and participation in Enzon&#146;s bonus plan for management.
+Under the bonus plan, Mr. Buchalter will be eligible to receive an annual
+performance-based cash bonus in an amount between zero and 200% of base salary, based on
+individual and/or corporate factors to be established and determined by the Board of
+Directors each year. The annual target bonus is equal to 100% of Mr. Buchalter&#146;s base
+salary. For the fiscal year ended June 30, 2005, Mr. Buchalter will receive a guaranteed
+minimum bonus in the amount of $412,500. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Flush" FSL="Default" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Under the agreement, Mr. Buchalter
+was granted an option under our 2001 Incentive Stock Plan to purchase 725,000 shares of
+our Common Stock at a per share exercise price of $13.54 (the last reported sale price of
+our common stock on December 22, 2004). This option is currently exercisable with respect
+to 225,000 shares and will become vested and exercisable as to an additional 125,000
+shares on each of the first four anniversaries of the date of grant, provided Mr.
+Buchalter remains employed as our Chief Executive Officer on each such date. Mr. Buchalter
+also received 75,000 shares of restricted Common Stock, 22,500 of which shares will vest
+on each of the third and fourth anniversaries of the date of grant and the remaining
+30,000 of which shares will vest on the fifth anniversary of the date of grant, provided
+Mr. Buchalter remains employed as our Chief Executive Officer on each such date. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Flush" FSL="Default" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>In the event Mr. Buchalter&#146;s
+employment is terminated without cause (as defined in the employment agreement) by us or
+terminated by Mr. Buchalter for good reason (as defined in the employment agreement), Mr.
+Buchalter will be entitled to (i) a cash payment equal to any unpaid base salary through
+the date of termination plus any earned bonus relating to the preceding fiscal year that
+remains unpaid on the date of termination plus (ii) a lump sum cash payment equal to four
+times his annual base salary plus a <I>pro rata</I> portion of his target bonus for the
+period worked during the fiscal year in which the termination occurs. In addition, we will
+reimburse Mr. Buchalter for any medical and dental coverage available to him and his
+family for a period of up to 18 months commencing on the date of termination, and all
+options and shares of restricted stock described above that have not vested at the time of
+termination will vest immediately upon termination. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Flush" FSL="Default" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>If we experience a change of control
+(as defined in Mr. Buchalter&#146;s employment agreement) and we terminate Mr.
+Buchalter&#146;s employment without cause or he terminates his employment for good reason
+within the period commencing 90 days before such change of control and ending two years
+after the change of control, Mr. Buchalter will be entitled to (i) a cash payment equal to
+any unpaid base salary through the date of termination plus any earned bonus relating to
+the preceding fiscal year that remains unpaid on the date of termination plus (ii) a lump
+sum cash payment equal to six times his annual base salary plus a <I>pro rata</I> portion
+of his target bonus for the period worked during the fiscal year in which the termination
+occurs. In addition, we will reimburse Mr. Buchalter for any medical and dental coverage
+available to him and his family for a period of up to 18 months commencing on the date of
+termination. Further, upon a change of control any of Mr. Buchalter&#146;s options to
+purchase Common Stock and shares of resticted Common Stock described above that have not
+vested immediately prior to the effective date of the change of control shall vest at such
+time. </FONT></P>
+
+
+
+
+
+<HR SIZE=5 COLOR=GRAY NOSHADE>
+
+<P STYLE="page-break-after:always">
+</P>
+<PAGE>
+<BR>
+
+<!-- MARKER FORMAT-SHEET="Para Flush" FSL="Default" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>If any payments or compensation
+received by Mr. Buchalter in connection with a change of control are subject to an excise
+tax under Section 4999 of the Internal Revenue Code, we will be obligated to make
+additional payments to Mr. Buchalter equal to any such tax liability he may incur. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Project" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Mr. Buchalter&#146;s employment
+agreement requires him to maintain the           confidentiality of our proprietary
+information during the term of his agreement           and thereafter. Mr. Buchalter is
+precluded from competing with us during the           term of his employment agreement
+and for two years after his employment is           terminated (one year if the
+termination occurs pursuant to a notice of           nonrenewal from us).  </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Major Left Bold-TNR" FSL="Project" -->
+<H1 ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><I>Item 5.02&nbsp; Appointment of
+Principal Officer</I> </FONT> </H1>
+
+<!-- MARKER FORMAT-SHEET="Para Flush" FSL="Default" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Effective as of December 22, 2004, we
+have appointed Jeffrey H. Buchalter as our Chief Executive Officer. Mr. Buchalter has
+served as our Chairman of the Board of Directors since September 29, 2004 and he will
+continue in that capacity. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Project" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Mr.           Buchalter, age 47,
+served as the President of Ilex Oncology, Inc. from September           2001 until
+December 2004, serving as Chief Executive Officer of Ilex from           January 2002.
+Mr. Buchalter was a director of Ilex from February 2001 until           December 2004.
+From 1997 to 2001, Mr. Buchalter was Group Vice President for the           Worldwide
+Oncology Franchise at Pharmacia Corporation. From 1993 to 1997, Br.           Buchalter
+was a Group Director with American Home Products, Wyeth Ayerst           Laboratories. He
+was presented the Joseph F. Buckley Memorial Award from the           American Cancer
+Society for commitment to cancer control and involvement in the           pharmaceutical
+oncology field. Additionally, Mr. Buchalter was invited by former           President
+George Bush to serve as a collaborating partner in the National           Dialogue on
+Cancer. Mr. Buchalter received his B.S. from Seton Hall University           and his
+M.B.A. from Temple University.  </FONT></P>
+
+
+
+<HR SIZE=5 COLOR=GRAY NOSHADE>
+
+<P STYLE="page-break-after:always">
+</P>
+<PAGE>
+<BR>
+
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center Bold-TNR" FSL="Project" -->
+<H1 ALIGN=CENTER><em><FONT FACE="Times New Roman, Times, Serif" SIZE=2>SIGNATURES  </FONT></em></H1>
+
+<!-- MARKER FORMAT-SHEET="Para Indent" FSL="Default" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pursuant
+to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused
+this report to be signed on its behalf by the undersigned hereunto duly authorized. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Left" FSL="Default" -->
+<P ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Dated: December 22, 2004 </FONT></P>
+
+
+<!-- MARKER FORMAT-SHEET="Signature (Single)" FSL="Project" -->
+<TABLE WIDTH=600 CELLSPACING=0 CELLPADDING=0 BORDER=0>
+<TR VALIGN=TOP>
+<TD WIDTH=50%><FONT FACE="Times New Roman, Times, Serif" SIZE=2></FONT></TD>
+<TD WIDTH=50%><FONT FACE="Times New Roman, Times, Serif" SIZE=2>
+<BR>By: /s/ Kenneth J. Zuerblis<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kenneth J. Zuerblis<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vice President,
+Finance and<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chief Financial Officer<BR></FONT></TD>
+</TR>
+</TABLE>
+<BR>
+
+
+
+
+<HR SIZE=5 COLOR=GRAY NOSHADE>
+
+
+
+
+
+<!-- MARKER FORMAT-SHEET="Div Style Close" FSL="Project" -->
+</DIV>
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

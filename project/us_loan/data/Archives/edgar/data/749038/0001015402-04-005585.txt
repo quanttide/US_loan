@@ -1,0 +1,173 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ D5H1LzeLBh+83EB3Tx9UW2W4mwod7Uoa4iafGTBLCDZOtoIJd7+pJpaFteHBPChA
+ ef0ylF7NTGSzyYlTZxAUhg==
+
+<SEC-DOCUMENT>0001015402-04-005585.txt : 20041227
+<SEC-HEADER>0001015402-04-005585.hdr.sgml : 20041224
+<ACCEPTANCE-DATETIME>20041227082859
+ACCESSION NUMBER:		0001015402-04-005585
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20041227
+ITEM INFORMATION:		Entry into a Material Definitive Agreement
+ITEM INFORMATION:		Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant
+FILED AS OF DATE:		20041227
+DATE AS OF CHANGE:		20041227
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CONCURRENT COMPUTER CORP/DE
+		CENTRAL INDEX KEY:			0000749038
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRONIC COMPUTERS [3571]
+		IRS NUMBER:				042735766
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-13150
+		FILM NUMBER:		041225611
+
+	BUSINESS ADDRESS:	
+		STREET 1:		4375 RIVER GREEN PARKWAY
+		CITY:			DULUTH
+		STATE:			GA
+		ZIP:			30097
+		BUSINESS PHONE:		6782584000
+
+	MAIL ADDRESS:	
+		STREET 1:		4375 RIVER GREEN PARKWAY
+		CITY:			DULUTH
+		STATE:			GA
+		ZIP:			30097
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	MASSACHUSETTS COMPUTER CORP
+		DATE OF NAME CHANGE:	19881018
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>doc1.txt
+<TEXT>
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+
+
+                             Washington, D.C.  20549
+
+                           --------------------------
+
+                                    FORM 8-K
+
+                                 CURRENT REPORT
+
+
+     Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+
+       Date of Report (Date of earliest event reported): December 27, 2004
+                                                         -----------------
+
+                         Concurrent Computer Corporation
+                         -------------------------------
+             (Exact name of registrant as specified in its charter)
+
+                                    Delaware
+                                    --------
+                 (State or other jurisdiction of incorporation)
+
+                                     0-13150
+                                     -------
+                            (Commission File Number)
+
+                                   04-2735766
+                                   ----------
+                      (IRS Employer Identification Number)
+
+
+           4375 River Green Parkway, Suite 100, Duluth, Georgia 30096
+           ----------------------------------------------------------
+                    (Address of principal executive offices)
+
+
+       Registrant's telephone number, including area code:  (678) 258-4000
+
+
+                                 Not Applicable
+                                 --------------
+          (Former Name or Former Address, if Changed Since Last Report)
+
+
+<PAGE>
+ITEM 1.01.  ENTRY  INTO  A  MATERIAL  DEFINITIVE  AGREEMENT.
+
+     On December 23, 2004, Concurrent Computer Corporation, a Delaware
+corporation (the "Company" or the "Registrant"), executed a Loan and Security
+Agreement by and between Silicon Valley Bank (the "Bank") and the Company (the
+"Credit Agreement"). The Credit Agreement provides for a two year $10,000,000
+revolving credit line (the "Revolver") and a three year $3,000,000 term loan
+(the "Term Loan") and also provides that substantially all of the assets of the
+Company will secure the Company's obligations to the Bank thereunder, including
+the stock of three of the Company's domestic subsidiaries. The Revolver expires
+on December 23, 2006, unless terminated earlier in accordance with its terms,
+and the Term Loan expires on December 23, 2007, unless terminated earlier in
+accordance with its terms. As of the date of closing of the Credit Agreement,
+the Company had no amounts drawn under the Revolver and had drawn down the
+entire $3,000,000 under the Term Loan.
+
+     Interest on all outstanding amounts under the Revolver is payable monthly
+at the Bank's prime rate (5.25% at December 23, 2004) plus 3.25% per annum, and
+interest on all outstanding amounts under the Term Loan is payable monthly at a
+rate of 8% per annum. The Term Loan is repayable in 36 equal monthly principal
+and interest installments of $93,701.40 and the outstanding principal of the
+Revolver is due on December 23, 2006, unless the Revolver is terminated earlier
+in accordance with its terms.
+
+     In addition, the Credit Agreement contains certain financial covenants,
+including required financial ratios and a minimum tangible net worth, and
+customary restrictive covenants concerning the Company's operations.
+
+ITEM 2.03.  CREATION  OF A DIRECT FINANCIAL OBLIGATION OR AN OBLIGATION UNDER AN
+            OFF-BALANCE  SHEET  ARRANGEMENT  OF  A  REGISTRANT.
+
+     The contents of Item 1.01 of this Current Report on Form 8-K are
+incorporated into this Item 2.03 by reference.
+
+
+                                      -2-
+<PAGE>
+                                   SIGNATURES
+
+     Pursuant to the requirements of the Securities Exchange Act of 1934, the
+registrant has duly caused this report to be signed on its behalf by the
+undersigned hereunto duly authorized.
+
+     Dated:  December 27, 2004.
+
+
+                                       CONCURRENT COMPUTER CORPORATION
+
+
+
+                                       By:  /s/ Steven R. Norton
+                                          ----------------------------
+                                       Steven R. Norton
+                                       Executive Vice President and
+                                       Chief Financial Officer
+
+
+                                      -3-
+<PAGE>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----
